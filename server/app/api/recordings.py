@@ -1,4 +1,8 @@
-"""`GET /recordings/{kept_clip_id}/audio` et `/spectrogram` — contrat §6.13."""
+"""`GET /recordings/{kept_clip_id}/audio` et `/spectrogram` — contrat §6.13.
+
+L'audio exige une session (les enregistrements peuvent contenir des voix privées,
+contrat §2.2) ; le spectrogramme reste public.
+"""
 
 from __future__ import annotations
 
@@ -7,6 +11,7 @@ from pathlib import Path
 from fastapi import APIRouter, Depends, Request, Response
 from sqlalchemy.orm import Session
 
+from app.browser_auth import require_browser_session
 from app.deps import get_db
 from app.errors import ApiError
 from app.models.kept_clip import KeptClip
@@ -31,14 +36,15 @@ def _lookup_kept_clip_or_404(db: Session, kept_clip_id: int, error_code: str, me
     return kc
 
 
-@router.get("/recordings/{kept_clip_id}/audio")
+@router.get("/recordings/{kept_clip_id}/audio", dependencies=[Depends(require_browser_session)])
 def get_recording_audio(kept_clip_id: int, request: Request, db: Session = Depends(get_db)) -> Response:
     kc = _lookup_kept_clip_or_404(db, kept_clip_id, "recording_not_found", "Enregistrement introuvable.")
     if kc.audio_path is None or not Path(kc.audio_path).is_file():
         raise ApiError(404, "recording_not_found", "Enregistrement introuvable.")
     path = Path(kc.audio_path)
     content_type = _AUDIO_CONTENT_TYPES.get(path.suffix.lower(), "application/octet-stream")
-    return _serve_with_range(path, request, content_type, "public, max-age=31536000, immutable")
+    # `private` : réponse soumise à session, jamais mise en cache par un proxy partagé.
+    return _serve_with_range(path, request, content_type, "private, max-age=31536000, immutable")
 
 
 @router.get("/recordings/{kept_clip_id}/spectrogram")

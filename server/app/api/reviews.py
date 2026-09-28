@@ -13,6 +13,7 @@ from fastapi import APIRouter, Depends, Query
 from sqlalchemy.orm import Session
 
 from app.api.common_lookups import get_site_or_404
+from app.browser_auth import require_browser_session
 from app.deps import get_db, get_species_data
 from app.errors import ApiError
 from app.ingest.top5 import recompute_top5
@@ -63,7 +64,9 @@ def _latest_command_for_review(db: Session, review_id: int) -> NodeCommand | Non
     )
 
 
-@router.post("/sites/{slug}/reviews", status_code=201)
+@router.post(
+    "/sites/{slug}/reviews", status_code=201, dependencies=[Depends(require_browser_session)]
+)
 def post_review(
     slug: str,
     body: PostReviewBody,
@@ -161,7 +164,11 @@ def _false_negative_out(db: Session, store: SpeciesDataStore, report: FalseNegat
     }
 
 
-@router.post("/sites/{slug}/false-negatives", status_code=201)
+@router.post(
+    "/sites/{slug}/false-negatives",
+    status_code=201,
+    dependencies=[Depends(require_browser_session)],
+)
 def post_false_negative(
     slug: str,
     body: PostFalseNegativeBody,

@@ -21,6 +21,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.api import (
     admin,
+    auth,
     commands,
     detections,
     dynamic_thresholds,
@@ -34,6 +35,7 @@ from app.api import (
     species_rules,
     stats,
 )
+from app.browser_auth import ConfigError, build_browser_auth
 from app.config import Settings, get_settings
 from app.db import make_engine, make_session_factory
 from app.errors import ApiError, register_error_handlers
@@ -64,6 +66,9 @@ def run_migrations(app_settings: Settings) -> None:
 
 def create_app(app_settings: Settings | None = None) -> FastAPI:
     app_settings = app_settings or get_settings()
+    # Avant tout le reste : en production, une configuration d'authentification
+    # incomplète doit empêcher le serveur de démarrer (`ConfigError`), pas l'ouvrir.
+    browser_auth = build_browser_auth(app_settings)
 
     @asynccontextmanager
     async def lifespan(app: FastAPI) -> AsyncIterator[None]:
@@ -100,6 +105,7 @@ def create_app(app_settings: Settings | None = None) -> FastAPI:
             engine.dispose()
 
     app = FastAPI(title="bird-frame server", version=SERVER_VERSION, lifespan=lifespan)
+    app.state.browser_auth = browser_auth
 
     app.add_middleware(
         CORSMiddleware,
@@ -141,6 +147,7 @@ def create_app(app_settings: Settings | None = None) -> FastAPI:
     register_error_handlers(app)
 
     app.include_router(health.router)
+    app.include_router(auth.router, prefix="/api/v1")
     app.include_router(admin.router, prefix="/api/v1")
     app.include_router(ingest.router, prefix="/api/v1")
     app.include_router(nodes.router, prefix="/api/v1")
@@ -179,4 +186,8 @@ async def _pending_expiry_loop(app: FastAPI) -> None:
             db.close()
 
 
-app = create_app()
+try:
+    app = create_app()
+except ConfigError as exc:
+    # Message lisible (sans trace) pour `uvicorn app.main:app` : le serveur refuse de démarrer.
+    raise SystemExit(f"bird-frame refuse de démarrer : {exc}") from exc

@@ -8,6 +8,7 @@ depuis n'importe où fonctionne de façon prévisible.
 from __future__ import annotations
 
 from pathlib import Path
+from typing import Literal
 
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
@@ -34,6 +35,13 @@ class Settings(BaseSettings):
     max_upload_mb: int = 25
     log_level: str = "info"
     auto_migrate: bool = True
+
+    # Session navigateur (contrat §2.2). `production` refuse de démarrer sans hash ni
+    # secret ; `dev` sans hash désactive l'authentification (WARNING au démarrage).
+    # Validation et construction de l'état : `app/browser_auth.py`, `build_browser_auth`.
+    env: Literal["dev", "production"] = "dev"
+    ui_password_hash: str = ""
+    session_secret: str = ""
 
     @property
     def db_path_resolved(self) -> Path:
