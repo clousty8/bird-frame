@@ -40,6 +40,8 @@ liste complète et les valeurs par défaut — contrat §7.2). Les plus importan
 | `BIRDFRAME_SPECIES_DATA_DIR` | dossier `species-data/` (univers, `base/`, `sheets/`, `aliases.json`) — défaut `../species-data` |
 | `BIRDFRAME_SOX_PATH` | exécutable `sox` pour les spectrogrammes (défaut `sox`, dans le `PATH`) |
 | `BIRDFRAME_AUTO_MIGRATE` | `1` (défaut) = migrations Alembic appliquées au démarrage |
+| `BIRDFRAME_WEB_DIST` | build de l'interface (`web/dist`) servi à `/` avec repli SPA — vide en dev (Vite sert l'UI) ; contrat §12.6 |
+| `BIRDFRAME_NODE_BUNDLE` | `node-bundle-<version>.tar.gz` (ou son dossier) proposé aux nœuds pour leur mise à jour — contrat §12 |
 
 ## Migrations (Alembic)
 
@@ -68,6 +70,36 @@ uv run scripts/register_node.py \
   --lat 47.1155 --lon -2.1046 \
   --node-readonly   # obligatoire en S1 : le nœud visé (local-test/) ne doit jamais être muté
 ```
+
+## Version
+
+`app/version.py` (`__version__`) est tenu à jour par `scripts/bump.py` (racine du dépôt) avec
+`VERSION` et les autres emplacements (contrat §12.1) ; ne pas l'éditer à la main. Les tests du script
+sont dans `tests/test_bump.py` (lancés avec la suite du serveur).
+
+## Image Docker / Railway
+
+`Dockerfile` (racine du dépôt) : build de l'interface, bundle du bridge, serveur et fiches espèces
+dans une seule image `python:3.13-slim` + `sox`, utilisateur non-root `birdframe`. Données
+persistantes (SQLite, clips, photos) dans `/data` : volume Railway monté sur `/data`.
+
+```bash
+docker build -t bird-frame .
+docker run --rm -p 8090:8090 -v bird-frame-data:/data \
+  -e BIRDFRAME_ADMIN_TOKEN=… bird-frame
+```
+
+Variables fixées par l'image : `BIRDFRAME_ENV=production`, `BIRDFRAME_HOST=0.0.0.0`,
+`BIRDFRAME_DATA_DIR=/data`, `BIRDFRAME_DB_PATH=/data/bird-frame.db`,
+`BIRDFRAME_SPECIES_DATA_DIR=/app/species-data`, `BIRDFRAME_WEB_DIST=/app/web/dist`,
+`BIRDFRAME_NODE_BUNDLE=/app/node-bundle`, `BIRDFRAME_AUTO_MIGRATE=1`. À fournir sur Railway :
+`BIRDFRAME_ADMIN_TOKEN` (≥ 32 caractères), plus les variables d'authentification navigateur
+(`BIRDFRAME_UI_PASSWORD_HASH`, `BIRDFRAME_SESSION_SECRET`) ; `PORT` est injecté par Railway.
+`railway.json` : builder Dockerfile, healthcheck `/health`, redémarrage sur échec.
+
+`docker/entrypoint.sh` démarre en root uniquement pour rendre `/data` à `birdframe` (Railway monte
+les volumes en root), puis abandonne ces droits (`setpriv`) avant de lancer uvicorn — inutile donc de
+définir `RAILWAY_RUN_UID=0`.
 
 ## Tests
 

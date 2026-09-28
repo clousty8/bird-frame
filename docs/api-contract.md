@@ -28,6 +28,7 @@ sur les autres équipes.
 9. [Écarts de schéma SQL par rapport à `architecture.md` §4](#9-écarts-de-schéma-sql)
 10. [Écarts voulus par rapport à `architecture.md` et hors périmètre](#10-écarts-voulus-et-hors-périmètre)
 11. [Annexe : types TypeScript de référence](#11-annexe--types-typescript-de-référence)
+12. [Mise à jour des nœuds](#12-mise-à-jour-des-nœuds)
 
 ---
 
@@ -78,6 +79,11 @@ Toutes les routes sont préfixées par **`/api/v1`**, sauf `/health`.
 | 39 | GET | `/sites/{slug}/false-negatives` | aucune (S1) | web | 6.28 |
 | 40 | GET | `/sites/{slug}/commands` | aucune (S1) | web | 6.29 |
 | 41 | GET | `/sites/{slug}/detections` | aucune (S1) | web | 6.30 |
+| 42 | GET | `/nodes/{node_id}/update` | Bearer nœud | bridge | 12.2 |
+| 43 | GET | `/nodes/{node_id}/update/bundle` | Bearer nœud | bridge | 12.2 |
+
+Hors API, quand `BIRDFRAME_WEB_DIST` est défini (déploiement Docker/Railway), le serveur sert aussi
+l'interface web à `/` (fichiers du build + repli SPA), cf. §12.6.
 
 ---
 
@@ -261,6 +267,7 @@ validation Pydantic. Pour `validation_error`, `details` est un tableau
 | 422 | validation du corps, des paramètres de requête ou de chemin |
 | 500 | erreur interne (`internal_error`) |
 | 502 | échec d'un service amont (téléchargement photo Wikimedia) |
+| 503 | service momentanément indisponible (`node_bundle_unavailable`, §12) |
 
 **Catalogue des codes `error`** :
 
@@ -294,6 +301,8 @@ validation Pydantic. Pour `validation_error`, `details` est un tableau
 | `payload_too_large` | 413 | upload |
 | `range_not_satisfiable` | 416 | audio |
 | `photo_upstream_error` | 502 | photo |
+| `node_bundle_not_configured` | 404 | mise à jour des nœuds : aucun bundle publié (§12.2) |
+| `node_bundle_unavailable` | 503 | mise à jour des nœuds : bundle configuré mais inutilisable (§12.2) |
 | `internal_error` | 500 | — |
 
 ### 1.9 Pagination
@@ -780,14 +789,17 @@ Corps :
 | `…[].expires_at_utc` | instant | oui | oui | `expiresAt` converti en UTC |
 | `…[].last_triggered_utc` | instant | oui | oui | `lastTriggered` (instant Go zéro `0001-01-01…` → `null`) |
 | `…[].first_created_utc` | instant | oui | oui | `firstCreated` (zéro → `null`) |
+| `update_status` | objet ou `null` | **non** | oui | état de la mise à jour automatique du bridge (§12.4) ; absent ou `null` pour un bridge qui ne le rapporte pas |
 
 Comportement serveur : met à jour `node_status` (tous les champs, `last_heartbeat_at`), remplace
 `dynamic_thresholds_snapshot_json` (canonicalisation des noms §1.6) et
 `dynamic_thresholds_snapshot_at = maintenant` — sauf si le champ vaut `null`, auquel cas l'instantané
-précédent est conservé. Réponse **200** :
+précédent est conservé. Stocke aussi `update_status` tel quel (§12.4). Réponse **200** :
 ```json
-{ "server_time_utc": "2026-09-27T14:40:00Z" }
+{ "server_time_utc": "2026-09-27T14:40:00Z", "latest_node_version": "0.2.0" }
 ```
+`latest_node_version` (ajout §12.4) : version du bridge publiée par ce serveur, `null` si aucun bundle
+utilisable n'est configuré.
 
 ### 4.7 `GET /nodes/{node_id}/commands`
 
@@ -1119,7 +1131,8 @@ Les commandes créées portent l'origine de la règle (`origin_type = 'species_r
   "synced_up_to_id": 4627,
   "node_db_max_id": 4627,
   "sync_lag": 0,
-  "decommissioned_at": null
+  "decommissioned_at": null,
+  "update_status": {"state": "up_to_date", "target_version": "0.1.0", "error": null}
 }
 ```
 
@@ -1144,6 +1157,7 @@ Les commandes créées portent l'origine de la règle (`origin_type = 'species_r
 | `node_db_max_id` | entier | oui | dernier heartbeat |
 | `sync_lag` | entier | oui | `node_db_max_id − synced_up_to_id` (≥ 0), `null` si `node_db_max_id` nul |
 | `decommissioned_at` | instant | oui | — |
+| `update_status` | objet | oui | `update_status` du dernier heartbeat (§12.4), `null` si jamais rapporté |
 
 #### `PendingItem` (bloc « en écoute »)
 
@@ -2231,6 +2245,10 @@ Lancement : `python -m bridge --config node/config/pornic.env`.
 | `BRIDGE_STATE_FILE` | oui | — | fichier d'état JSON (ex. `/…/bird-frame/node/state/pornic.json`), créé si absent |
 | `BRIDGE_BIRDNET_PID_FILE` | non | vide | fichier PID de BirdNET-Go (S1 : `/…/local-test/birdnet-go.pid`) ; vide → `birdnet_go_pid_alive = null` |
 | `BRIDGE_LOG_LEVEL` | non | `INFO` | `DEBUG`, `INFO`, `WARNING`, `ERROR` |
+| `BRIDGE_AUTO_UPDATE` | non | `0` | `1` = mise à jour automatique du bridge (§12.3), effective seulement dans une installation gérée |
+| `BRIDGE_INSTALL_ROOT` | non | vide | racine de l'installation gérée (chemin absolu, §12.3) ; écrit par `scripts/install-node.sh` |
+| `BRIDGE_UPDATE_INTERVAL_S` | non | `600` | cadence de vérification des mises à jour (≥ 10) |
+| `BRIDGE_UV` | non | `uv` | exécutable `uv` pour `uv sync` de la nouvelle version (chemin absolu conseillé : launchd/systemd ont un PATH minimal) |
 | `BRIDGE_NODE_READONLY` | non | `0` | `1` = **mode nœud en lecture seule** (obligatoire en S1 sur le Mac d'Armand, où le nœud est l'installation de développement `local-test/`) : le bridge n'exécute **aucune** mutation contre `BRIDGE_NODE_API` — il ne lance pas la boucle de commandes (un WARNING au démarrage et un rappel toutes les heures : « N commandes en attente côté serveur, nœud en lecture seule »), et `POST /nodes/register` est appelé avec `"auto_main_name": false` par `scripts/register_node.py` quand ce mode est demandé (`--node-readonly`), pour que `set_main_name` ne soit pas mis en file. Sync, clips, pending et heartbeat fonctionnent normalement (lectures seules). |
 
 Exemple S1 :
@@ -2271,6 +2289,8 @@ Lu par `server/app/config.py` (pydantic-settings). Chemins relatifs résolus **p
 | `BIRDFRAME_SOX_PATH` | non | `sox` | exécutable sox pour les spectrogrammes |
 | `BIRDFRAME_MAX_UPLOAD_MB` | non | `25` | taille max d'un clip |
 | `BIRDFRAME_LOG_LEVEL` | non | `info` | niveau de journal |
+| `BIRDFRAME_WEB_DIST` | non | vide | build de l'interface (`web/dist/`) servi à `/` avec repli SPA (§12.6) ; vide = API seule ; défini mais sans `index.html` = refus de démarrer |
+| `BIRDFRAME_NODE_BUNDLE` | non | vide | `node-bundle-<version>.tar.gz` (ou dossier le contenant) proposé aux nœuds (§12.2) ; vide = aucune mise à jour proposée |
 
 Exemple S1 :
 ```
@@ -2633,6 +2653,12 @@ export interface NodeStatus {
   birdnet_go_version: string | null; bridge_version: string | null;
   synced_up_to_id: number; node_db_max_id: number | null; sync_lag: number | null;
   decommissioned_at: UtcInstant | null;
+  update_status: UpdateStatus | null;   // §12.4
+}
+export type UpdateState =
+  'disabled' | 'pending' | 'up_to_date' | 'updating' | 'check_failed' | 'failed' | (string & {});
+export interface UpdateStatus {
+  state: UpdateState; target_version: string | null; error: string | null;
 }
 export interface PendingItem {
   node_id: number; scientific_name: string; common_name_fr: string | null;
@@ -2831,3 +2857,148 @@ export interface ReviewDetection {
 }
 export interface DetectionsResponse extends Page { detections: ReviewDetection[]; }
 ```
+
+---
+
+## 12. Mise à jour des nœuds
+
+Ajouté le 28/09/2026. Le serveur (image Docker sur Railway) embarque le code du bridge de la **même
+version** que lui ; chaque nœud installé en « installation gérée » le télécharge et se met à jour seul.
+Une release (`scripts/bump.py`, puis build de l'image) met donc à jour Railway **et** tous les nœuds.
+
+### 12.1 Version unique
+
+- `VERSION` (racine) est la référence ; `scripts/bump.py patch|minor|major|X.Y.Z` la reporte d'un coup
+  dans `server/pyproject.toml`, `server/uv.lock`, `server/app/version.py` (`__version__`),
+  `node/pyproject.toml`, `node/uv.lock`, `node/bridge/__init__.py` (`__version__`), `web/package.json`
+  et `web/package-lock.json`. `scripts/bump.py --check` (CI) échoue si l'un diverge ; `--print`
+  affiche la version.
+- Format **`X.Y.Z`** (entiers, sans préversion). Le bridge compare numériquement
+  (`1.10.0 > 1.9.0`) ; une version illisible n'est jamais considérée plus récente.
+- `GET /health` renvoie cette version (§1.12).
+
+### 12.2 Routes (Bearer du nœud, comme §2.1)
+
+Mêmes vérifications, dans le même ordre, que les routes d'ingestion : `{node_id}` inconnu → 404
+`node_not_found` ; en-tête absent/faux → 401 `unauthorized` (+ `WWW-Authenticate: Bearer`) ; nœud
+décommissionné → 403 ; `last_seen_at` mis à jour. Puis :
+
+**`GET /nodes/{node_id}/update`** → **200**
+```json
+{
+  "latest_version": "0.2.0",
+  "bundle_sha256": "2b8102b5de9a24db5d4600491265adf80537c59bc0d0efbc72ed8d7766a5c38a",
+  "bundle_size": 41405,
+  "bundle_url": "/api/v1/nodes/1/update/bundle"
+}
+```
+
+| Champ | Type | Null ? | Description |
+|---|---|---|---|
+| `latest_version` | chaîne `X.Y.Z` | non | version du serveur (= version du bundle, vérifiée au démarrage) |
+| `bundle_sha256` | chaîne (64 hex minuscules) | non | SHA-256 de l'archive, calculé par le serveur au démarrage |
+| `bundle_size` | entier > 0 | non | taille de l'archive en octets |
+| `bundle_url` | chaîne | non | chemin absolu sans hôte (§1.10) de la route suivante |
+
+**`GET /nodes/{node_id}/update/bundle`** → **200** `application/gzip` (l'archive), en-têtes
+`X-Bundle-SHA256` et `Cache-Control: no-store`.
+
+Erreurs propres aux deux routes :
+- **404 `node_bundle_not_configured`** : `BIRDFRAME_NODE_BUNDLE` vide (aucune mise à jour proposée) ;
+- **503 `node_bundle_unavailable`** : bundle configuré mais inutilisable — fichier absent, SHA-256
+  différent du fichier voisin `<archive>.sha256`, ou archive d'une autre version que le serveur (le
+  message donne la cause ; le serveur l'a aussi journalisée en ERROR au démarrage). Le reste du
+  serveur fonctionne normalement.
+
+**Bundle** (`scripts/build_node_bundle.py`, construit au build de l'image) :
+`node-bundle-<version>.tar.gz` + `node-bundle-<version>.tar.gz.sha256`, entrées à la racine
+(`VERSION`, `pyproject.toml`, `uv.lock`, `bridge/**` sans tests ni `__pycache__`), fichiers réguliers
+uniquement, archive reproductible. `BIRDFRAME_NODE_BUNDLE` peut désigner l'archive ou le dossier qui
+la contient (le serveur y prend `node-bundle-<sa version>.tar.gz`).
+
+### 12.3 Installation gérée et cycle du bridge
+
+Arborescence créée par `scripts/install-node.sh --config <env> [--root ~/.bird-frame-node]` :
+
+```
+<racine>/
+  versions/<X.Y.Z>/       code + .venv (uv sync --frozen --no-dev)
+  current -> versions/<X.Y.Z>
+  previous                nom de la version précédente (texte)
+  config/bridge.env       copie 600 de --config, avec BRIDGE_INSTALL_ROOT, BRIDGE_AUTO_UPDATE=1,
+                          BRIDGE_UV et BRIDGE_STATE_FILE=<racine>/state/<slug>.json forcés
+  bin/run-bridge.sh       superviseur (node/deploy/run-bridge.sh), lancé par launchd/systemd
+  state/                  <slug>.json, updater.json, rolled-back-versions, supervisor-crashes
+  logs/bridge.log
+  downloads/
+```
+
+Le bridge (`bridge/updater.py`) n'agit que si `BRIDGE_AUTO_UPDATE=1`, `BRIDGE_INSTALL_ROOT` contient
+`versions/` et le lien `current`, **et** que le process tourne depuis `versions/` (un bridge de
+développement lancé avec la même configuration ne touche jamais au lien). Vérification au démarrage,
+puis toutes les `BRIDGE_UPDATE_INTERVAL_S` (600 s), et aussitôt que le heartbeat renvoie un
+`latest_node_version` plus récent. Si `latest_version` > version courante :
+
+1. téléchargement dans `downloads/` (même origine que `BRIDGE_SERVER_URL` obligatoire : le secret du
+   nœud ne part jamais vers un autre hôte), taille et SHA-256 vérifiés ;
+2. contrôle de **chaque** entrée avant extraction (refus : chemin absolu, composant `..`, lien
+   symbolique ou physique, fichier spécial, > 5000 entrées ou > 200 Mo), extraction dans
+   `versions/<v>` (filtre `data` de `tarfile` en plus), `VERSION` et `__version__` = version annoncée ;
+3. `uv sync --frozen --no-dev` dans `versions/<v>` (`BRIDGE_UV`), puis essai à blanc
+   `python -m bridge --help` avec le nouvel environnement ;
+4. `previous` ← version courante, bascule **atomique** de `current` (renommage d'un lien temporaire),
+   suppression des versions autres que `current` et `previous` ;
+5. arrêt propre de toutes les boucles et sortie avec le code **75** : le superviseur relance aussitôt
+   la nouvelle version.
+
+Tout échec (réseau pendant le téléchargement, SHA-256, archive refusée, `uv`, essai à blanc, disque) :
+journal ERROR, dossier partiel supprimé, `current` inchangé, `update_status.state = "failed"`, et
+**pas de nouvel essai de la même version avant 1 h** (mémorisé dans `state/updater.json`, donc aussi
+après un redémarrage).
+
+### 12.4 Heartbeat
+
+- Corps (§4.6), champ optionnel `update_status` : `{"state", "target_version", "error"}`.
+
+| `state` | Sens | `target_version` | `error` |
+|---|---|---|---|
+| `disabled` | pas d'installation gérée ou `BRIDGE_AUTO_UPDATE≠1` | `null` | `null` |
+| `pending` | pas encore vérifié depuis le démarrage | `null` | `null` |
+| `up_to_date` | dernière vérification : rien de plus récent | version annoncée par le serveur | `null` |
+| `updating` | installation en cours | version visée | `null` |
+| `check_failed` | vérification impossible (serveur injoignable, pas de bundle, réponse invalide) | `null` | cause |
+| `failed` | installation échouée ou version annulée par le superviseur | version visée | cause (≤ 1000 car.) |
+
+  Le serveur accepte tout `state` de 1 à 32 caractères (compatibilité avec un bridge plus récent),
+  `error` ≤ 2000 caractères (422 au-delà). Il stocke l'objet tel quel (`node_status.update_status_json`),
+  l'expose dans `NodeStatus.update_status` (§6.1) et journalise un WARNING à chaque nouvel état
+  `failed`.
+- Réponse : `latest_node_version` (§4.6).
+
+### 12.5 Superviseur et retour arrière
+
+`node/deploy/run-bridge.sh <racine>` (bash 3.2+), lancé par l'agent launchd
+`fr.birdframe.bridge` (`node/deploy/fr.birdframe.bridge.plist.template` : `RunAtLoad`, `KeepAlive`,
+journaux dans `<racine>/logs/bridge.log`) ou par systemd
+(`node/deploy/bird-frame-bridge.service.template`, installation manuelle) :
+
+- lance `versions/<current>/.venv/bin/python -m bridge --config <racine>/config/bridge.env` et relaie
+  SIGTERM/SIGINT/SIGHUP ;
+- code 0 ou arrêt demandé : sortie 0. Code 75 : relance immédiate (`exec`) sur le nouveau `current` ;
+- sortie non nulle en moins de 60 s (`BRIDGE_SUPERVISOR_STARTUP_WINDOW_S`), hors code 2 (configuration
+  ou `birdnet.db` inaccessibles, la faute à l'environnement) : « plantage au démarrage ». Au **3e en
+  5 min** (`BRIDGE_SUPERVISOR_MAX_CRASHES`, `BRIDGE_SUPERVISOR_CRASH_WINDOW_S`) pour la même version :
+  `current` rebasculé sur `previous` (si elle existe et est installée), version fautive ajoutée à
+  `state/rolled-back-versions` (le bridge ne la retentera plus : `update_status.state = "failed"`),
+  `previous` supprimé. Pour réessayer cette version : retirer sa ligne du fichier.
+
+`scripts/uninstall-node.sh [--root …] [--purge]` décharge l'agent et supprime le code ; garde `config/`,
+`state/` et `logs/` sauf `--purge`.
+
+### 12.6 Interface web servie par le serveur
+
+Si `BIRDFRAME_WEB_DIST` est défini : `GET`/`HEAD` d'un fichier du build → ce fichier
+(`/assets/*` : `Cache-Control: public, max-age=31536000, immutable` ; le reste : `no-cache`) ; toute
+autre route `GET`/`HEAD` hors `/api/…` et `/health…` → `index.html` (`no-cache`), pour le routeur côté
+client. Un `/assets/…` absent reste un 404 JSON. Les routes de l'API sont toujours prioritaires et
+gardent leurs erreurs (§1.8) : le repli ne s'applique qu'aux requêtes qu'aucune route ne prend.
