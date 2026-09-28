@@ -2956,6 +2956,12 @@ journal ERROR, dossier partiel supprimé, `current` inchangé, `update_status.st
 **pas de nouvel essai de la même version avant 1 h** (mémorisé dans `state/updater.json`, donc aussi
 après un redémarrage).
 
+Sécurité : le SHA-256 protège contre un téléchargement corrompu, **pas** contre un serveur compromis
+ou une interception (l'empreinte vient du même serveur). Le nœud exécute le code que publie son
+serveur : `BRIDGE_SERVER_URL` DOIT être en `https://` (Railway) ou passer par un tunnel chiffré
+(Tailscale). Une signature des bundles (clé publique sur le nœud) reste à faire si ce modèle de
+confiance ne suffit plus.
+
 ### 12.4 Heartbeat
 
 - Corps (§4.6), champ optionnel `update_status` : `{"state", "target_version", "error"}`.

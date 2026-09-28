@@ -251,6 +251,9 @@ bridge 0.1.0 installé par `install-node.sh`, serveur 0.1.1 publiant son bundle 
 relance par le superviseur en ~1 s, heartbeat suivant `bridge_version = 0.1.1`,
 `update_status.state = up_to_date`.
 
+**Confiance** : le nœud exécute le code publié par son serveur ; le SHA-256 ne protège que contre la
+corruption. `BRIDGE_SERVER_URL` doit donc être en `https://` (Railway) ou passer par Tailscale.
+
 **À savoir sur le Mac d'Armand** :
 - un agent launchd n'hérite pas des autorisations du Terminal : `BRIDGE_DB_PATH`/`BRIDGE_CLIPS_DIR`
   sont sous `~/Documents` (protégé par macOS). Si `logs/bridge.log` montre « Operation not
