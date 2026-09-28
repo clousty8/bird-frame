@@ -17,8 +17,9 @@ push `dev` → PR → CI verte → fusion → tag/release GitHub → suivi Railw
 rapport final. S'arrête et rapporte seulement en cas d'échec réel (CI rouge, conflit inattendu).
 
 **Pré-requis de gouvernance** (rappel) : dépôt privé `clousty8/bird-frame`, branches `dev`
-(travail) et `main` (production). `main` est protégée par le check CI `test`
-(`.github/workflows/ci.yml`) ; Railway construit et déploie automatiquement l'image Docker à
+(travail) et `main` (production). GitHub ne protège pas `main` (fonction payante sur un dépôt
+privé) : **c'est ce skill qui garantit qu'on ne fusionne jamais avec le check CI `test` rouge**
+(`.github/workflows/ci.yml`) — ne jamais pousser directement sur `main` ; Railway construit et déploie automatiquement l'image Docker à
 chaque push sur `main`. Une release embarque **tout l'état courant de `dev`** dans `main` — pas
 de confirmation de périmètre à demander.
 
