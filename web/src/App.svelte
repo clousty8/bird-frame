@@ -1,11 +1,16 @@
 <script lang="ts">
-  // Coquille de l'application : en-tête (4 sections + SiteSelector + ThemeToggle) qui
-  // monte la page de la route courante. Voir web/README.md pour la carte des dossiers.
+  // Coquille de l'application : en-tête (4 sections + SiteSelector + ThemeToggle + connexion)
+  // qui monte la page de la route courante, et la modale de connexion partagée (contrat §2.2).
+  // Voir web/README.md pour la carte des dossiers.
+  import { onMount } from 'svelte';
   import { DEFAULT_SYSTEM_TAB, getCurrentRoute, onRouteChange, type RouteName } from './lib/router';
   import { themeStore, applyThemeToDocument } from './lib/stores/theme.svelte';
+  import { authStore } from './lib/stores/auth.svelte';
   import Link from './lib/Link.svelte';
   import SiteSelector from './lib/components/SiteSelector.svelte';
   import ThemeToggle from './lib/components/ThemeToggle.svelte';
+  import AuthButton from './lib/components/AuthButton.svelte';
+  import LoginModal from './lib/components/LoginModal.svelte';
   import DashboardPage from './routes/DashboardPage.svelte';
   import SpeciesPage from './routes/SpeciesPage.svelte';
   import SpeciesDetailPage from './routes/SpeciesDetailPage.svelte';
@@ -14,6 +19,10 @@
 
   let route = $state(getCurrentRoute());
   let mobileNavOpen = $state(false);
+
+  onMount(() => {
+    void authStore.load();
+  });
 
   $effect(() => {
     return onRouteChange((match) => {
@@ -75,6 +84,7 @@
 
       <div class="flex items-center gap-2 shrink-0">
         <SiteSelector />
+        <AuthButton />
         <ThemeToggle />
       </div>
     </div>
@@ -110,3 +120,5 @@
     {/if}
   </main>
 </div>
+
+<LoginModal />

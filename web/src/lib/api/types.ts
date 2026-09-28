@@ -35,6 +35,16 @@ export interface ApiError {
   message: string;
   details: unknown | null;
 }
+
+// ---- Session navigateur (contrat §2.2) ------------------------------------------
+// GET /auth/me, réponse de POST /auth/login et POST /auth/logout.
+export interface AuthStatus {
+  authenticated: boolean;
+  auth_enabled: boolean;
+}
+export interface LoginBody {
+  password: string;
+}
 export interface Page {
   total: number;
   limit: number;

@@ -6,6 +6,7 @@
   // plutôt qu'un menu déroulant flottant (plus simple, pas de copie de code : le
   // contrat/payload diffèrent entièrement de BirdNET-Go, cf. docs/architecture.md §7.5).
   import { siteStore } from '../../stores/site.svelte';
+  import { authStore } from '../../stores/auth.svelte';
   import { getDetections, postReview, ApiRequestError } from '../../api/client';
   import type { ReviewDetection, ReviewKind } from '../../api/types';
   import Badge from '../ui/Badge.svelte';
@@ -13,6 +14,7 @@
   import LoadingSpinner from '../ui/LoadingSpinner.svelte';
   import EmptyState from '../ui/EmptyState.svelte';
   import ErrorAlert from '../ui/ErrorAlert.svelte';
+  import AuthRequiredNotice from '../AuthRequiredNotice.svelte';
   import { formatInstant, formatConfidence } from './format';
   import { formatCount } from '../../format';
 
@@ -160,6 +162,8 @@
       <Button type="button" variant="ghost" size="sm" onclick={resetFilters}>Réinitialiser</Button>
     </form>
 
+    <AuthRequiredNotice action="confirmer une détection ou la marquer en faux positif" />
+
     {#if actionError}
       <ErrorAlert type="error" message={actionError} dismissible onDismiss={() => (actionError = null)} />
     {/if}
@@ -216,7 +220,8 @@
                 </td>
                 <td class="whitespace-nowrap">
                   {#if editingReviewFor === detection.detection_id || !detection.review}
-                    <div class="flex items-center gap-1.5">
+                    <!-- Déconnecté (contrat §2.2) : le <fieldset disabled> désactive note et boutons. -->
+                    <fieldset class="flex items-center gap-1.5 min-w-0" disabled={!authStore.unlocked}>
                       <input
                         type="text"
                         class="input input-bordered input-xs w-32"
@@ -242,9 +247,14 @@
                       >
                         Faux positif
                       </Button>
-                    </div>
+                    </fieldset>
                   {:else}
-                    <Button variant="ghost" size="xs" onclick={() => (editingReviewFor = detection.detection_id)}>
+                    <Button
+                      variant="ghost"
+                      size="xs"
+                      disabled={!authStore.unlocked}
+                      onclick={() => (editingReviewFor = detection.detection_id)}
+                    >
                       Modifier
                     </Button>
                   {/if}

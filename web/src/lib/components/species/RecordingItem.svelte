@@ -4,7 +4,11 @@
   // <audio> natif (masqué : c'est le bouton + curseur qui servent d'interface, contrat
   // « audio natif <audio> + bouton lecture superposé au spectrogramme »), date/heure,
   // confiance, et les labels multi-espèces.
+  // Écoute réservée à une session (contrat §2.2, voix privées possibles) : déconnecté, le
+  // spectrogramme reste visible mais le bouton devient un cadenas qui ouvre la modale, et
+  // aucun <audio> n'est créé (il précharge sinon l'URL et récolterait des 401).
   import type { TopClip } from '../../api/types';
+  import { authStore } from '../../stores/auth.svelte';
   import MultiSpeciesLabels from './MultiSpeciesLabels.svelte';
 
   interface Props {
@@ -32,9 +36,21 @@
       audioEl.play().catch((err: unknown) => {
         console.error('[bird-frame] lecture audio impossible', err);
         playbackError = 'Lecture impossible.';
+        // Une session expirée donne le même échec opaque côté <audio> (401) : on relit
+        // l'état de session, le cadenas réapparaît si c'était la cause.
+        if (authStore.authEnabled) void authStore.load();
       });
     }
   }
+
+  // Déconnexion pendant une lecture : arrêter le son avant que l'<audio> ne soit retiré du
+  // DOM (un élément détaché peut continuer à jouer dans certains navigateurs).
+  $effect.pre(() => {
+    if (authStore.unlocked) return;
+    if (playing) audioEl?.pause();
+    playing = false;
+    progressPct = 0;
+  });
 
   function handleTimeUpdate(): void {
     if (!audioEl || !audioEl.duration) return;
@@ -64,35 +80,51 @@
         <div class="w-full h-24"></div>
       {/if}
 
-      <!-- Curseur de progression (contrat §6.13 : x = currentTime / duration × largeur). -->
-      <div class="absolute inset-y-0 left-0 w-0.5 bg-[var(--color-primary)]" style="left: {progressPct}%" aria-hidden="true"></div>
+      {#if authStore.unlocked}
+        <!-- Curseur de progression (contrat §6.13 : x = currentTime / duration × largeur). -->
+        <div class="absolute inset-y-0 left-0 w-0.5 bg-[var(--color-primary)]" style="left: {progressPct}%" aria-hidden="true"></div>
 
-      <button
-        type="button"
-        class="absolute inset-0 flex items-center justify-center bg-black/20 hover:bg-black/30 transition-colors"
-        onclick={togglePlay}
-        aria-label={playing ? 'Mettre en pause' : "Lire l'enregistrement"}
-      >
-        <svg class="size-8 text-white drop-shadow" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-          {#if playing}
-            <rect x="6" y="5" width="4" height="14" rx="1" />
-            <rect x="14" y="5" width="4" height="14" rx="1" />
-          {:else}
-            <path d="M8 5v14l11-7z" />
-          {/if}
-        </svg>
-      </button>
+        <button
+          type="button"
+          class="absolute inset-0 flex items-center justify-center bg-black/20 hover:bg-black/30 transition-colors"
+          onclick={togglePlay}
+          aria-label={playing ? 'Mettre en pause' : "Lire l'enregistrement"}
+        >
+          <svg class="size-8 text-white drop-shadow" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            {#if playing}
+              <rect x="6" y="5" width="4" height="14" rx="1" />
+              <rect x="14" y="5" width="4" height="14" rx="1" />
+            {:else}
+              <path d="M8 5v14l11-7z" />
+            {/if}
+          </svg>
+        </button>
+      {:else}
+        <button
+          type="button"
+          class="absolute inset-0 flex flex-col items-center justify-center gap-1 bg-black/35 hover:bg-black/45 transition-colors text-white"
+          onclick={() => void authStore.openLoginModal()}
+        >
+          <svg class="size-7 drop-shadow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+            <rect x="5" y="11" width="14" height="10" rx="2" />
+            <path d="M8 11V8a4 4 0 0 1 8 0v3" />
+          </svg>
+          <span class="text-xs font-medium drop-shadow">Connecte-toi pour écouter</span>
+        </button>
+      {/if}
     </div>
 
-    <audio
-      bind:this={audioEl}
-      src={clip.audio_url}
-      class="hidden"
-      onplay={() => (playing = true)}
-      onpause={() => (playing = false)}
-      onended={() => (playing = false)}
-      ontimeupdate={handleTimeUpdate}
-    ></audio>
+    {#if authStore.unlocked}
+      <audio
+        bind:this={audioEl}
+        src={clip.audio_url}
+        class="hidden"
+        onplay={() => (playing = true)}
+        onpause={() => (playing = false)}
+        onended={() => (playing = false)}
+        ontimeupdate={handleTimeUpdate}
+      ></audio>
+    {/if}
 
     {#if playbackError}
       <p class="text-xs text-red-600" role="alert">{playbackError}</p>
