@@ -144,11 +144,14 @@ def test_invalid_spec_is_refused_without_writing(repo: Path, capsys, spec: str) 
 
 
 def test_downgrade_and_noop_are_refused(repo: Path, capsys) -> None:
-    (repo / "VERSION").write_text("0.1.0\n")
-    code, _, err = _run(capsys, "0.0.9", "--root", str(repo))
+    # Aligne d'abord tous les emplacements sur une version connue, indépendante de la
+    # version réelle du dépôt (sinon le test casse à chaque release).
+    code, _, err = _run(capsys, "10.0.0", "--root", str(repo))
+    assert code == 0, err
+    code, _, err = _run(capsys, "9.9.9", "--root", str(repo))
     assert code == 1
     assert "inférieure" in err
-    code, _, err = _run(capsys, "0.1.0", "--root", str(repo))
+    code, _, err = _run(capsys, "10.0.0", "--root", str(repo))
     assert code == 1
     assert "rien à faire" in err
 
