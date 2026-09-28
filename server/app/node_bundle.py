@@ -62,6 +62,10 @@ def _read_bundle_version(path: Path) -> str:
 
 
 def load_node_bundle(path: Path, expected_version: str) -> NodeBundle:
+    """`path` : l'archive elle-même, ou un dossier contenant `node-bundle-<version du serveur>.tar.gz`
+    (forme utilisée par l'image Docker, où le nom de fichier dépend de la version)."""
+    if path.is_dir():
+        path = path / f"node-bundle-{expected_version}.tar.gz"
     if not path.is_file():
         raise NodeBundleError(f"{path} introuvable")
     try:

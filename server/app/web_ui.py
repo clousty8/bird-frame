@@ -24,6 +24,7 @@ transformé en 405), et `/api/…`/`/health` inconnus gardent le 404 JSON du con
 from __future__ import annotations
 
 import logging
+import mimetypes
 from pathlib import Path
 
 from fastapi import FastAPI, Request
@@ -35,6 +36,12 @@ logger = logging.getLogger("bird_frame.web_ui")
 IMMUTABLE_CACHE = "public, max-age=31536000, immutable"
 NO_CACHE = "no-cache"
 _RESERVED_PREFIXES = ("api", "health")
+
+# Types absents de la table par défaut de Python 3.13 dans l'image slim (pas de /etc/mime.types) :
+# sans eux, une police servie par Vite partirait en `text/plain`.
+mimetypes.add_type("font/woff2", ".woff2")
+mimetypes.add_type("font/woff", ".woff")
+mimetypes.add_type("application/manifest+json", ".webmanifest")
 
 
 class WebUiError(Exception):

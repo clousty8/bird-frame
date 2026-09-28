@@ -137,6 +137,17 @@ def test_bundle_refuses_version_mismatch(tmp_path: Path) -> None:
         builder.build_bundle(REPO_ROOT / "node", "9.9.9", tmp_path / "out")
 
 
+def test_bundle_setting_may_be_a_directory(app_settings: Settings, bundle_path: Path) -> None:
+    """Forme de l'image Docker : BIRDFRAME_NODE_BUNDLE=/app/node-bundle (le nom du fichier
+    dépend de la version, le serveur prend `node-bundle-<sa version>.tar.gz`)."""
+    with _client(app_settings, node_bundle=str(bundle_path.parent)) as client:
+        node = _register(client)
+        headers = {"Authorization": f"Bearer {node['bridge_shared_secret']}"}
+        resp = client.get(f"/api/v1/nodes/{node['node_id']}/update", headers=headers)
+        assert resp.status_code == 200, resp.text
+        assert resp.json()["bundle_size"] == bundle_path.stat().st_size
+
+
 # --- Routes -----------------------------------------------------------------------------------
 
 
