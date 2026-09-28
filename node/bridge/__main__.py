@@ -3,7 +3,9 @@
 `--once` exécute un seul cycle de synchro puis sort (démo, cron, vérification manuelle) ; sans
 cette option, les quatre boucles indépendantes tournent jusqu'à SIGINT/SIGTERM (api-contract.md
 §4.1) : synchro, relais « en écoute », heartbeat, commandes (sauf `BRIDGE_NODE_READONLY=1`, où la
-boucle de commandes n'est jamais lancée — §7.1).
+boucle de commandes n'est jamais lancée — §7.1) — plus la boucle de mise à jour automatique (§12),
+qui ne fait rien hors d'une installation gérée. Codes de sortie : 0 arrêt normal, 2 configuration
+ou birdnet.db inutilisable, 75 (`EXIT_CODE_UPDATE_APPLIED`) nouvelle version installée, à relancer.
 """
 
 from __future__ import annotations
@@ -28,6 +30,7 @@ from bridge.pusher import run_sync_loop, sync_once
 from bridge.species_dictionary import SpeciesDictionary
 from bridge.sqlite_reader import SqliteReaderError, connect_readonly
 from bridge.state import load_state
+from bridge.updater import Updater
 
 logger = logging.getLogger("bridge")
 
@@ -111,6 +114,7 @@ async def _run_forever(config: BridgeConfig) -> int:
             dictionary = SpeciesDictionary(node_client, config.node_api)
             csrf = CsrfClient(node_client, config.node_api, config.node_api_token)
             executor = CommandExecutor(csrf, server_client, config, dictionary)
+            updater = Updater(config, server_client)
 
             if config.node_readonly:
                 logger.warning(
@@ -150,10 +154,14 @@ async def _run_forever(config: BridgeConfig) -> int:
                 )
                 tg.create_task(
                     _supervised(
-                        "heartbeat", run_heartbeat_loop(conn, node_client, server_client, config, stop_event)
+                        "heartbeat",
+                        run_heartbeat_loop(conn, node_client, server_client, config, stop_event, updater=updater),
                     )
                 )
-        return 0
+                tg.create_task(_supervised("updater", updater.run(stop_event)))
+        # Non nul seulement si l'updater a installé une nouvelle version : le superviseur
+        # (node/deploy/run-bridge.sh) relance alors aussitôt `current`.
+        return updater.exit_code or 0
     finally:
         conn.close()
 

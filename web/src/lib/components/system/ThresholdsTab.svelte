@@ -2,6 +2,7 @@
   // Sous-onglet « Seuils dynamiques » (contrat §6.23-§6.24). Composant neuf.
   import { onMount } from 'svelte';
   import { siteStore } from '../../stores/site.svelte';
+  import { authStore } from '../../stores/auth.svelte';
   import { getDynamicThresholds, resetDynamicThreshold, ApiRequestError } from '../../api/client';
   import type { DynamicThreshold } from '../../api/types';
   import Badge from '../ui/Badge.svelte';
@@ -9,6 +10,7 @@
   import LoadingSpinner from '../ui/LoadingSpinner.svelte';
   import EmptyState from '../ui/EmptyState.svelte';
   import ErrorAlert from '../ui/ErrorAlert.svelte';
+  import AuthRequiredNotice from '../AuthRequiredNotice.svelte';
   import { formatInstant } from './format';
 
   let thresholds = $state<DynamicThreshold[]>([]);
@@ -90,6 +92,8 @@
   {#if !siteStore.selectedSlug}
     <EmptyState title="Aucun site sélectionné" description="Choisissez un site en haut de page pour voir ses seuils dynamiques." />
   {:else}
+    <AuthRequiredNotice action="réinitialiser un seuil dynamique" />
+
     {#if resetError}
       <ErrorAlert type="error" message={resetError} dismissible onDismiss={() => (resetError = null)} />
     {/if}
@@ -143,7 +147,7 @@
                     <Button
                       variant="default"
                       size="xs"
-                      disabled={resettingFor === threshold.scientific_name}
+                      disabled={resettingFor === threshold.scientific_name || !authStore.unlocked}
                       onclick={() => reset(threshold)}
                     >
                       {resettingFor === threshold.scientific_name ? 'Envoi…' : 'Réinitialiser'}

@@ -1,0 +1,32 @@
+# bird-frame — service systemd du bridge (Raspberry Pi / Linux). Modèle NON installé
+# automatiquement pour l'instant (scripts/install-node.sh ne gère que launchd sur macOS).
+#
+# __ROOT__ = racine de l'installation gérée (ex. /home/pi/.bird-frame-node), __USER__ = compte
+# qui fait tourner le bridge (doit pouvoir lire birdnet.db et les clips de BirdNET-Go).
+# Installation manuelle :
+#   sed -e "s#__ROOT__#$HOME/.bird-frame-node#g" -e "s#__USER__#$USER#g" \
+#     node/deploy/bird-frame-bridge.service.template | sudo tee /etc/systemd/system/bird-frame-bridge.service
+#   sudo systemctl daemon-reload && sudo systemctl enable --now bird-frame-bridge
+#   journalctl -u bird-frame-bridge -f        # ou : tail -f __ROOT__/logs/bridge.log
+[Unit]
+Description=bird-frame bridge (BirdNET-Go -> serveur bird-frame)
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=__USER__
+WorkingDirectory=__ROOT__
+ExecStart=/bin/bash __ROOT__/bin/run-bridge.sh __ROOT__
+# run-bridge.sh relaie SIGTERM au bridge (arrêt propre des boucles) et gère lui-même le retour
+# arrière après 3 plantages au démarrage ; systemd se contente de relancer.
+Restart=always
+RestartSec=10
+KillMode=mixed
+TimeoutStopSec=30
+Environment=PYTHONUNBUFFERED=1
+StandardOutput=append:__ROOT__/logs/bridge.log
+StandardError=append:__ROOT__/logs/bridge.log
+
+[Install]
+WantedBy=multi-user.target

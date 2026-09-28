@@ -2,6 +2,7 @@ import { describe, it, expect, vi, afterEach } from 'vitest';
 import { render, screen, cleanup, fireEvent } from '@testing-library/svelte';
 import RecordingItem from '../src/lib/components/species/RecordingItem.svelte';
 import type { TopClip } from '../src/lib/api/types';
+import { authStore } from '../src/lib/stores/auth.svelte';
 
 function makeClip(overrides: Partial<TopClip> = {}): TopClip {
   return {
@@ -72,5 +73,44 @@ describe('RecordingItem — lecture audio', () => {
     await fireEvent.click(screen.getByRole('button', { name: /Lire|Mettre en pause/ }));
     expect(playSpy).toHaveBeenCalledTimes(2);
     expect(screen.queryByText('Lecture impossible.')).not.toBeInTheDocument();
+  });
+});
+
+describe('RecordingItem — écoute réservée à une session (contrat §2.2)', () => {
+  afterEach(() => {
+    cleanup();
+    vi.restoreAllMocks();
+  });
+
+  it('déconnecté : cadenas « Connecte-toi pour écouter », spectrogramme visible, aucun <audio>', async () => {
+    authStore._resetForTests({ authEnabled: true, authenticated: false });
+    const { container } = render(RecordingItem, { clip: makeClip() });
+
+    expect(screen.getByRole('img', { name: "Spectrogramme de l'enregistrement" })).toBeInTheDocument();
+    expect(screen.queryByRole('button', { name: "Lire l'enregistrement" })).not.toBeInTheDocument();
+    // Pas d'élément audio : il préchargerait l'URL protégée et récolterait des 401.
+    expect(container.querySelector('audio')).toBeNull();
+
+    await fireEvent.click(screen.getByRole('button', { name: 'Connecte-toi pour écouter' }));
+    expect(authStore.modalOpen).toBe(true);
+  });
+
+  it('connecté : bouton de lecture et <audio> normaux', () => {
+    authStore._resetForTests({ authEnabled: true, authenticated: true });
+    const { container } = render(RecordingItem, { clip: makeClip() });
+
+    expect(screen.getByRole('button', { name: "Lire l'enregistrement" })).toBeInTheDocument();
+    expect(screen.queryByText('Connecte-toi pour écouter')).not.toBeInTheDocument();
+    expect(container.querySelector('audio')?.getAttribute('src')).toBe('/api/v1/recordings/88/audio');
+  });
+
+  it('bascule vers le cadenas à la déconnexion', async () => {
+    authStore._resetForTests({ authEnabled: true, authenticated: true });
+    render(RecordingItem, { clip: makeClip() });
+    expect(screen.getByRole('button', { name: "Lire l'enregistrement" })).toBeInTheDocument();
+
+    authStore._resetForTests({ authEnabled: true, authenticated: false });
+
+    expect(await screen.findByRole('button', { name: 'Connecte-toi pour écouter' })).toBeInTheDocument();
   });
 });

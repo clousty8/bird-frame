@@ -7,6 +7,7 @@ from typing import Literal
 from pydantic import BaseModel
 
 from app.schemas.common import ApiModel, UtcInstant
+from app.schemas.node_update import UpdateStatusIn
 
 
 class PendingItemIn(BaseModel):
@@ -67,7 +68,11 @@ class HeartbeatBody(BaseModel):
     disk_free_pct: float | None = None
     node_db_max_id: int
     dynamic_thresholds_snapshot: list[DynamicThresholdEntryIn] | None = None
+    # Contrat §12.4 : optionnel (un bridge antérieur à la mise à jour automatique ne l'envoie pas).
+    update_status: UpdateStatusIn | None = None
 
 
 class HeartbeatResponse(ApiModel):
     server_time_utc: UtcInstant
+    # Contrat §12.4 : version du bridge publiée par ce serveur, `null` si aucun bundle utilisable.
+    latest_node_version: str | None

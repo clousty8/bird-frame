@@ -101,6 +101,15 @@ class BridgeConfig:
     # déterminable »). Voir node/README.md.
     mic_status_tool: str = ""
 
+    # Mise à jour automatique (contrat §12.3, `bridge/updater.py`). Active seulement si
+    # `auto_update` ET installation gérée (`install_root` contenant `versions/` et le lien `current`,
+    # créée par `scripts/install-node.sh`). `uv_path` : chemin absolu conseillé (launchd/systemd ne
+    # fournissent qu'un PATH minimal).
+    auto_update: bool = False
+    install_root: Path | None = None
+    update_interval_s: float = 600.0
+    uv_path: str = "uv"
+
     @property
     def api_base_url(self) -> str:
         """Base d'API du serveur, `/api/v1` inclus."""
@@ -129,6 +138,14 @@ def load_config(path: str | Path) -> BridgeConfig:
     if not (1 <= batch_size <= 200):
         raise ConfigError(f"BRIDGE_BATCH_SIZE doit être entre 1 et 200 (reçu {batch_size})")
 
+    install_root_raw = raw.get("BRIDGE_INSTALL_ROOT", "")
+    install_root = Path(install_root_raw) if install_root_raw else None
+    if install_root is not None and not install_root.is_absolute():
+        raise ConfigError(f"BRIDGE_INSTALL_ROOT doit être un chemin absolu (reçu {install_root_raw!r})")
+    update_interval_s = _as_float(raw.get("BRIDGE_UPDATE_INTERVAL_S", "600"), "BRIDGE_UPDATE_INTERVAL_S")
+    if update_interval_s < 10:
+        raise ConfigError(f"BRIDGE_UPDATE_INTERVAL_S doit être ≥ 10 s (reçu {update_interval_s})")
+
     config = BridgeConfig(
         server_url=server_url,
         node_id=_as_int(raw["BRIDGE_NODE_ID"], "BRIDGE_NODE_ID"),
@@ -152,6 +169,10 @@ def load_config(path: str | Path) -> BridgeConfig:
         log_level=raw.get("BRIDGE_LOG_LEVEL", "INFO").upper(),
         node_readonly=_as_bool(raw.get("BRIDGE_NODE_READONLY", "0"), "BRIDGE_NODE_READONLY"),
         mic_status_tool=raw.get("BRIDGE_MIC_STATUS_TOOL", ""),
+        auto_update=_as_bool(raw.get("BRIDGE_AUTO_UPDATE", "0"), "BRIDGE_AUTO_UPDATE"),
+        install_root=install_root,
+        update_interval_s=update_interval_s,
+        uv_path=raw.get("BRIDGE_UV", "") or "uv",
     )
     logger.debug(
         "Configuration chargée depuis %s : node_id=%s site=%s readonly=%s",

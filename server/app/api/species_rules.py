@@ -19,6 +19,7 @@ from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
 
 from app.api.common_lookups import get_site_or_404
+from app.browser_auth import require_browser_session
 from app.deps import get_db, get_species_data
 from app.errors import ApiError
 from app.ingest.canonical import aliases_for
@@ -194,7 +195,10 @@ def _create_rule_commands(
     return created
 
 
-@router.put("/sites/{slug}/species-rules/{scientific_name}")
+@router.put(
+    "/sites/{slug}/species-rules/{scientific_name}",
+    dependencies=[Depends(require_browser_session)],
+)
 def put_species_rule(
     slug: str,
     scientific_name: str,
@@ -249,7 +253,10 @@ def put_species_rule(
     return {"rule": _rule_out(db, store, row)}
 
 
-@router.delete("/sites/{slug}/species-rules/{scientific_name}")
+@router.delete(
+    "/sites/{slug}/species-rules/{scientific_name}",
+    dependencies=[Depends(require_browser_session)],
+)
 def delete_species_rule(
     slug: str,
     scientific_name: str,

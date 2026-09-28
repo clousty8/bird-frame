@@ -315,3 +315,56 @@ def test_disk_free_pct_returns_percentage(tmp_path: Path) -> None:
 
 def test_disk_free_pct_missing_dir_returns_none(tmp_path: Path) -> None:
     assert disk_free_pct(tmp_path / "does" / "not" / "exist") is None
+
+
+@pytest.mark.asyncio
+async def test_run_heartbeat_loop_reports_update_status_and_forwards_latest_version(
+    tmp_path: Path, seeded_db_path: Path
+) -> None:
+    """Contrat §12.4 : le heartbeat porte `update_status` de l'updater, et transmet à l'updater
+    le `latest_node_version` de la réponse (réveil anticipé de la vérification)."""
+    import json
+
+    config = _config(tmp_path, seeded_db_path)
+    conn = connect_readonly(config.db_path)
+    stop_event = asyncio.Event()
+
+    class FakeUpdater:
+        def __init__(self) -> None:
+            self.hints: list[object] = []
+
+        def status_payload(self) -> dict:
+            return {"state": "failed", "target_version": "0.2.0", "error": "uv sync a échoué (code 1)"}
+
+        def notify_latest_version(self, latest: object) -> None:
+            self.hints.append(latest)
+            stop_event.set()
+
+    updater = FakeUpdater()
+    try:
+        async with (
+            httpx.AsyncClient() as node_client,
+            httpx.AsyncClient(base_url="http://localhost:8090/api/v1") as server_client,
+        ):
+            with respx.mock(assert_all_called=False) as mock:
+                mock.get(f"{NODE_API}/api/v2/app/config").mock(
+                    return_value=httpx.Response(200, json={"version": "x"})
+                )
+                mock.get(f"{NODE_API}/api/v2/dynamic-thresholds").mock(
+                    return_value=httpx.Response(200, json={"data": [], "total": 0, "limit": 250, "offset": 0})
+                )
+                route = mock.post("http://localhost:8090/api/v1/nodes/1/heartbeat").mock(
+                    return_value=httpx.Response(
+                        200, json={"server_time_utc": "2026-09-28T10:00:00Z", "latest_node_version": "0.3.0"}
+                    )
+                )
+                await asyncio.wait_for(
+                    run_heartbeat_loop(conn, node_client, server_client, config, stop_event, updater=updater),
+                    timeout=5,
+                )
+    finally:
+        conn.close()
+
+    body = json.loads(route.calls[0].request.content)
+    assert body["update_status"] == updater.status_payload()
+    assert updater.hints == ["0.3.0"]

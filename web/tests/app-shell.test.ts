@@ -1,7 +1,8 @@
 import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest';
-import { render, screen, cleanup } from '@testing-library/svelte';
+import { render, screen, cleanup, fireEvent } from '@testing-library/svelte';
 import App from '../src/App.svelte';
 import { siteStore } from '../src/lib/stores/site.svelte';
+import { authStore } from '../src/lib/stores/auth.svelte';
 import * as client from '../src/lib/api/client';
 import { navigate } from '../src/lib/router';
 
@@ -9,6 +10,7 @@ describe('App.svelte — rendu de la coquille', () => {
   beforeEach(() => {
     siteStore._resetForTests();
     vi.spyOn(client, 'getSites').mockResolvedValue({ sites: [] });
+    vi.spyOn(client, 'getAuthStatus').mockResolvedValue({ authenticated: false, auth_enabled: false });
     window.history.pushState({}, '', '/dashboard');
   });
 
@@ -57,5 +59,51 @@ describe('App.svelte — rendu de la coquille', () => {
 
     expect(() => render(App)).not.toThrow();
     expect(screen.getByRole('heading', { name: 'Page introuvable' })).toBeInTheDocument();
+  });
+});
+
+describe('App.svelte — connexion dans l’en-tête (contrat §2.2)', () => {
+  beforeEach(() => {
+    siteStore._resetForTests();
+    vi.spyOn(client, 'getSites').mockResolvedValue({ sites: [] });
+    window.history.pushState({}, '', '/dashboard');
+  });
+
+  afterEach(() => {
+    cleanup();
+    vi.restoreAllMocks();
+  });
+
+  it('interroge /auth/me au démarrage et propose « Se connecter » à un visiteur', async () => {
+    vi.spyOn(client, 'getAuthStatus').mockResolvedValue({ authenticated: false, auth_enabled: true });
+    render(App);
+
+    const button = await screen.findByRole('button', { name: 'Se connecter' });
+    expect(client.getAuthStatus).toHaveBeenCalledTimes(1);
+
+    await fireEvent.click(button);
+    expect(await screen.findByRole('dialog', { name: 'Connexion' })).toBeInTheDocument();
+    expect(authStore.modalOpen).toBe(true);
+  });
+
+  it('propose « Se déconnecter » quand une session est ouverte', async () => {
+    vi.spyOn(client, 'getAuthStatus').mockResolvedValue({ authenticated: true, auth_enabled: true });
+    vi.spyOn(client, 'logout').mockResolvedValue({ authenticated: false, auth_enabled: true });
+    render(App);
+
+    await fireEvent.click(await screen.findByRole('button', { name: 'Se déconnecter' }));
+
+    expect(client.logout).toHaveBeenCalledTimes(1);
+    expect(await screen.findByRole('button', { name: 'Se connecter' })).toBeInTheDocument();
+  });
+
+  it('n’affiche aucun bouton de connexion quand l’authentification est désactivée', async () => {
+    vi.spyOn(client, 'getAuthStatus').mockResolvedValue({ authenticated: false, auth_enabled: false });
+    render(App);
+
+    await vi.waitFor(() => expect(client.getAuthStatus).toHaveBeenCalled());
+    await vi.waitFor(() => expect(authStore.authEnabled).toBe(false));
+    expect(screen.queryByRole('button', { name: 'Se connecter' })).not.toBeInTheDocument();
+    expect(screen.queryByRole('button', { name: 'Se déconnecter' })).not.toBeInTheDocument();
   });
 });

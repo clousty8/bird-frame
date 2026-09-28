@@ -34,12 +34,63 @@ liste complète et les valeurs par défaut — contrat §7.2). Les plus importan
 | Variable | Rôle |
 |---|---|
 | `BIRDFRAME_ADMIN_TOKEN` | requis pour `POST /nodes/register` et `POST /admin/species-data/reload` (401 sinon) |
+| `BIRDFRAME_ENV` | `dev` (défaut) ou `production` — voir « Authentification navigateur » ci-dessous |
+| `BIRDFRAME_UI_PASSWORD_HASH` | hash du mot de passe de l'interface (`scripts/hash_password.py`) |
+| `BIRDFRAME_SESSION_SECRET` | secret de signature des cookies de session (≥ 32 caractères) |
 | `BIRDFRAME_PORT` | port d'écoute (défaut 8090) |
 | `BIRDFRAME_DB_PATH` | base SQLite du serveur (défaut `data/bird-frame.db`, gitignoré) |
 | `BIRDFRAME_DATA_DIR` | racine de `clips/` et `photos/` (défaut `data`) |
 | `BIRDFRAME_SPECIES_DATA_DIR` | dossier `species-data/` (univers, `base/`, `sheets/`, `aliases.json`) — défaut `../species-data` |
 | `BIRDFRAME_SOX_PATH` | exécutable `sox` pour les spectrogrammes (défaut `sox`, dans le `PATH`) |
 | `BIRDFRAME_AUTO_MIGRATE` | `1` (défaut) = migrations Alembic appliquées au démarrage |
+| `BIRDFRAME_WEB_DIST` | build de l'interface (`web/dist`) servi à `/` avec repli SPA — vide en dev (Vite sert l'UI) ; contrat §12.6 |
+| `BIRDFRAME_NODE_BUNDLE` | `node-bundle-<version>.tar.gz` (ou son dossier) proposé aux nœuds pour leur mise à jour — contrat §12 |
+
+## Authentification navigateur (contrat §2.2)
+
+**Lecture libre pour tout le monde ; mot de passe pour modifier et pour écouter les sons**
+(les enregistrements peuvent contenir des voix privées). Un seul mot de passe, pas de comptes.
+
+- Protégées (🔒, 401 `auth_required` sans session) : toute route navigateur non-GET (règles,
+  revues, faux négatifs, réinitialisation des seuils) et `GET /recordings/{id}/audio`. Tout le
+  reste (stats, photos, spectrogrammes, SSE…) est public. Ingestion (Bearer du nœud) et admin
+  (`X-Admin-Token`) inchangées.
+- Session : `POST /api/v1/auth/login {"password": …}` pose le cookie `bf_session` (HttpOnly,
+  SameSite=Lax, 30 jours, `Secure` en https) ; `POST /api/v1/auth/logout` ; `GET /api/v1/auth/me`
+  → `{"authenticated", "auth_enabled"}`.
+- Anti-force brute : 5 échecs en 5 min pour une IP → 429 pendant 5 min. Mutations avec un en-tête
+  `Origin` étranger → 403 `origin_mismatch`.
+- Code : `app/browser_auth.py` (dépendances `require_browser_session` / `require_same_origin`),
+  `app/passwords.py` (scrypt), `app/api/auth.py`. **Toute nouvelle route mutante ou qui sert de
+  l'audio** prend `dependencies=[Depends(require_browser_session)]` ;
+  `tests/test_route_protection.py` énumère toutes les routes et échoue sinon (une nouvelle route
+  GET publique doit aussi y être ajoutée consciemment à `PUBLIC_GET_ROUTES`).
+
+| `BIRDFRAME_ENV` | Hash | Secret | Comportement |
+|---|---|---|---|
+| `dev` (défaut) | absent | — | authentification **désactivée** (tout autorisé), WARNING au démarrage |
+| `dev` | présent | absent | appliquée ; secret aléatoire par process (sessions perdues au redémarrage), WARNING |
+| `dev` / `production` | présent | présent | appliquée normalement |
+| `production` | absent | — | **refus de démarrer** (message explicite) |
+| `production` | présent | absent | **refus de démarrer** (message explicite) |
+
+Un hash mal formé ou un secret de moins de 32 caractères empêche le démarrage dans tous les modes.
+
+Générer le hash (sans écho ; ou `--stdin` pour un script) et le secret :
+
+```bash
+uv run scripts/hash_password.py          # depuis la racine du dépôt ; demande le mot de passe 2 fois
+printf '%s' "$MOT_DE_PASSE" | python3 scripts/hash_password.py --stdin
+python3 -c "import secrets; print(secrets.token_urlsafe(48))"   # BIRDFRAME_SESSION_SECRET
+```
+
+Le hash (`scrypt$32768$8$1$<sel>$<hash>`) contient des `$` : tel quel dans `server/.env` et dans
+les variables Railway, entre apostrophes dans un shell, `$$` dans un fichier docker-compose.
+Changer le mot de passe ou `BIRDFRAME_SESSION_SECRET` déconnecte toutes les sessions.
+
+Derrière un proxy (Railway) : lancer uvicorn avec `--proxy-headers --forwarded-allow-ips=…` pour
+que l'IP client (anti-force brute) et le schéma https (attribut `Secure` du cookie) viennent de
+`X-Forwarded-For` / `X-Forwarded-Proto`.
 
 ## Migrations (Alembic)
 
@@ -68,6 +119,36 @@ uv run scripts/register_node.py \
   --lat 47.1155 --lon -2.1046 \
   --node-readonly   # obligatoire en S1 : le nœud visé (local-test/) ne doit jamais être muté
 ```
+
+## Version
+
+`app/version.py` (`__version__`) est tenu à jour par `scripts/bump.py` (racine du dépôt) avec
+`VERSION` et les autres emplacements (contrat §12.1) ; ne pas l'éditer à la main. Les tests du script
+sont dans `tests/test_bump.py` (lancés avec la suite du serveur).
+
+## Image Docker / Railway
+
+`Dockerfile` (racine du dépôt) : build de l'interface, bundle du bridge, serveur et fiches espèces
+dans une seule image `python:3.13-slim` + `sox`, utilisateur non-root `birdframe`. Données
+persistantes (SQLite, clips, photos) dans `/data` : volume Railway monté sur `/data`.
+
+```bash
+docker build -t bird-frame .
+docker run --rm -p 8090:8090 -v bird-frame-data:/data \
+  -e BIRDFRAME_ADMIN_TOKEN=… bird-frame
+```
+
+Variables fixées par l'image : `BIRDFRAME_ENV=production`, `BIRDFRAME_HOST=0.0.0.0`,
+`BIRDFRAME_DATA_DIR=/data`, `BIRDFRAME_DB_PATH=/data/bird-frame.db`,
+`BIRDFRAME_SPECIES_DATA_DIR=/app/species-data`, `BIRDFRAME_WEB_DIST=/app/web/dist`,
+`BIRDFRAME_NODE_BUNDLE=/app/node-bundle`, `BIRDFRAME_AUTO_MIGRATE=1`. À fournir sur Railway :
+`BIRDFRAME_ADMIN_TOKEN` (≥ 32 caractères), plus les variables d'authentification navigateur
+(`BIRDFRAME_UI_PASSWORD_HASH`, `BIRDFRAME_SESSION_SECRET`) ; `PORT` est injecté par Railway.
+Côté Railway (réglé sur le service, pas dans un fichier) : build par le `Dockerfile` racine, healthcheck `/health`, redémarrage sur échec, volume monté sur `/data`, déploiement automatique à chaque push sur `main`.
+
+`docker/entrypoint.sh` démarre en root uniquement pour rendre `/data` à `birdframe` (Railway monte
+les volumes en root), puis abandonne ces droits (`setpriv`) avant de lancer uvicorn — inutile donc de
+définir `RAILWAY_RUN_UID=0`.
 
 ## Tests
 

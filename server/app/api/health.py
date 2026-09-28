@@ -4,11 +4,11 @@ from __future__ import annotations
 
 from fastapi import APIRouter
 
-router = APIRouter(tags=["health"])
+from app.version import __version__
 
-SERVER_VERSION = "0.1.0"
+router = APIRouter(tags=["health"])
 
 
 @router.get("/health")
 def health() -> dict:
-    return {"status": "ok", "version": SERVER_VERSION}
+    return {"status": "ok", "version": __version__}

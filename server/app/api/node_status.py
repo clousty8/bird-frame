@@ -4,6 +4,7 @@
 
 from __future__ import annotations
 
+import json
 from datetime import UTC, datetime
 
 from sqlalchemy.orm import Session
@@ -48,6 +49,19 @@ def build_node_status(db: Session, node: Node, site: Site | None = None, now: da
         "node_db_max_id": node_db_max_id,
         "sync_lag": sync_lag,
         "decommissioned_at": node.decommissioned_at,
+        "update_status": _update_status(status_row),
+    }
+
+
+def _update_status(status_row: NodeStatus | None) -> dict | None:
+    """`update_status` du dernier heartbeat (contrat §12.4), `null` si jamais rapporté."""
+    if status_row is None or not status_row.update_status_json:
+        return None
+    data = json.loads(status_row.update_status_json)
+    return {
+        "state": data.get("state"),
+        "target_version": data.get("target_version"),
+        "error": data.get("error"),
     }
 
 

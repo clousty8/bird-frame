@@ -24,6 +24,23 @@ Référence normative complète : `docs/architecture.md` (vue d'ensemble, décis
 `docs/api-contract.md` (**LE contrat** : tout nom de champ/route/format vient de là). Lots de
 travail : `docs/plan.md`.
 
+## Workflow de développement
+
+Dépôt privé `clousty8/bird-frame`, deux branches permanentes : `dev` (travail courant) et `main`
+(production — Railway redéploie automatiquement à chaque push dessus). Le passage de l'une à
+l'autre se fait toujours par une PR `dev` → `main`, validée par la CI (`.github/workflows/ci.yml`,
+check requis `test`).
+
+- **`./scripts/build-app.sh`** (ou le skill `/build-app`) : build l'interface et lance une pile
+  locale isolée pour tester une feature comme si elle tournait pour de vrai — jamais vers Railway.
+- **`./scripts/dev-up.sh`** / **`./scripts/dev-down.sh`** : pile de développement actif, Vite en
+  rechargement à chaud (démo S1, voir plus bas).
+- **`/release`** (`.claude/skills/release/SKILL.md`) : bump de version, CHANGELOG, PR `dev`→`main`,
+  fusion automatique une fois la CI verte, tag + release GitHub, puis suivi du déploiement Railway
+  et de la mise à jour de chaque nœud.
+- **Prod** : `<BIRDFRAME_PUBLIC_URL>/health` (URL dans `deploy/production.env`, encore vide tant
+  que le service Railway n'est pas créé) ; état des nœuds sur `<BIRDFRAME_PUBLIC_URL>/api/v1/nodes`.
+
 ## Lancer la démo S1 (sur ce Mac, cohabitation avec `local-test/`)
 
 Prérequis : `local-test/start.sh` déjà lancé (BirdNET-Go tourne sur `:8080`), `uv` et `npm`

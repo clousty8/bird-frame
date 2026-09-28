@@ -17,6 +17,7 @@ import sqlite3
 from collections.abc import Awaitable, Callable
 from datetime import datetime
 from pathlib import Path
+from typing import TYPE_CHECKING
 
 import httpx
 
@@ -26,6 +27,9 @@ from bridge.config import BridgeConfig
 from bridge.http_errors import RetryDecision, classify
 from bridge.sqlite_reader import SqliteReaderError, fetch_max_detection_id
 from bridge.time_utils import format_instant, utc_now_str
+
+if TYPE_CHECKING:
+    from bridge.updater import Updater
 
 logger = logging.getLogger(__name__)
 
@@ -208,6 +212,7 @@ async def build_heartbeat_payload(
     config: BridgeConfig,
     *,
     mic_status_runner: MicStatusRunner = run_mic_status_tool,
+    update_status: dict | None = None,
 ) -> dict:
     pid = read_pid_file(config.birdnet_pid_file)
     reachable, version = await _fetch_app_config(node_client, config)
@@ -223,7 +228,20 @@ async def build_heartbeat_payload(
         "disk_free_pct": disk_free_pct(config.clips_dir),
         "node_db_max_id": fetch_max_detection_id(conn),
         "dynamic_thresholds_snapshot": await _fetch_dynamic_thresholds(node_client, config),
+        # Contrat §12.4 : état de la mise à jour automatique (`null` si pas d'updater, ex. --once).
+        "update_status": update_status,
     }
+
+
+def _latest_node_version(response: httpx.Response) -> str | None:
+    """`latest_node_version` de la réponse du heartbeat (contrat §12.4), `None` si absent (serveur
+    antérieur) ou illisible."""
+    try:
+        body = response.json()
+    except ValueError:
+        return None
+    value = body.get("latest_node_version") if isinstance(body, dict) else None
+    return value if isinstance(value, str) else None
 
 
 async def run_heartbeat_loop(
@@ -234,11 +252,18 @@ async def run_heartbeat_loop(
     stop_event: asyncio.Event,
     *,
     mic_status_runner: MicStatusRunner = run_mic_status_tool,
+    updater: Updater | None = None,
 ) -> None:
     backoff = Backoff()
     while not stop_event.is_set():
         try:
-            payload = await build_heartbeat_payload(conn, node_client, config, mic_status_runner=mic_status_runner)
+            payload = await build_heartbeat_payload(
+                conn,
+                node_client,
+                config,
+                mic_status_runner=mic_status_runner,
+                update_status=updater.status_payload() if updater is not None else None,
+            )
         except SqliteReaderError as exc:
             # Même classe d'incident que dans `sync_once` (verrou WAL transitoire, E/S disque,
             # base déplacée pendant une bascule de lieu) : `fetch_max_detection_id` peut lever
@@ -261,6 +286,8 @@ async def run_heartbeat_loop(
             if decision == RetryDecision.SUCCESS:
                 backoff.reset()
                 delay = config.heartbeat_interval_s
+                if updater is not None:
+                    updater.notify_latest_version(_latest_node_version(response))
             elif decision == RetryDecision.CONFIG_ERROR:
                 logger.error(
                     "POST /heartbeat : configuration invalide (%s) : %s",

@@ -1,6 +1,7 @@
 <script lang="ts">
   // Sous-onglet « Règles par espèce » (contrat §6.20-§6.22). Composant neuf.
   import { siteStore } from '../../stores/site.svelte';
+  import { authStore } from '../../stores/auth.svelte';
   import { getSpeciesRules, putSpeciesRule, deleteSpeciesRule, ApiRequestError } from '../../api/client';
   import type { SpeciesRule, SpeciesRuleKind, UniverseSpecies } from '../../api/types';
   import Badge from '../ui/Badge.svelte';
@@ -9,6 +10,7 @@
   import EmptyState from '../ui/EmptyState.svelte';
   import ErrorAlert from '../ui/ErrorAlert.svelte';
   import CollapsibleSection from '../ui/CollapsibleSection.svelte';
+  import AuthRequiredNotice from '../AuthRequiredNotice.svelte';
   import SpeciesSearchInput from './SpeciesSearchInput.svelte';
   import { formatInstant } from './format';
 
@@ -212,39 +214,43 @@
   {#if !siteStore.selectedSlug}
     <EmptyState title="Aucun site sélectionné" description="Choisissez un site en haut de page pour gérer ses règles." />
   {:else}
-    <form class="space-y-3 max-w-xl" onsubmit={submitForm}>
-      <h2 class="text-lg font-semibold">Ajouter ou modifier une règle</h2>
+    <AuthRequiredNotice action="ajouter, modifier ou supprimer des règles" />
 
-      {#if formSpeciesName}
-        <SpeciesSearchInput
-          id="rule-species"
-          label="Espèce"
-          selectedScientificName={formSpeciesName}
-          selectedCommonName={formSpeciesCommon}
-          onSelect={selectFormSpecies}
-          onClear={() => {
-            formSpeciesName = null;
-            formSpeciesCommon = null;
-          }}
-        />
-      {:else}
-        <SpeciesSearchInput id="rule-species" label="Espèce" onSelect={selectFormSpecies} />
-      {/if}
+    <!-- Déconnecté (contrat §2.2) : le <fieldset disabled> désactive tout le formulaire. -->
+    <form class="max-w-xl" onsubmit={submitForm}>
+      <fieldset class="space-y-3 min-w-0" disabled={!authStore.unlocked}>
+        <h2 class="text-lg font-semibold">Ajouter ou modifier une règle</h2>
 
-      <fieldset class="space-y-1.5">
-        <legend class="text-sm font-medium mb-1">Règle</legend>
-        <label class="flex items-center gap-2 text-sm">
-          <input type="radio" class="radio" name="rule-kind" value="present" bind:group={formKind} />
-          Présente ici → seuil abaissé
-        </label>
-        <label class="flex items-center gap-2 text-sm">
-          <input type="radio" class="radio" name="rule-kind" value="impossible" bind:group={formKind} />
-          Impossible ici
-        </label>
-        <label class="flex items-center gap-2 text-sm">
-          <input type="radio" class="radio" name="rule-kind" value="redirect" bind:group={formKind} />
-          Rediriger vers…
-        </label>
+        {#if formSpeciesName}
+          <SpeciesSearchInput
+            id="rule-species"
+            label="Espèce"
+            selectedScientificName={formSpeciesName}
+            selectedCommonName={formSpeciesCommon}
+            onSelect={selectFormSpecies}
+            onClear={() => {
+              formSpeciesName = null;
+              formSpeciesCommon = null;
+            }}
+          />
+        {:else}
+          <SpeciesSearchInput id="rule-species" label="Espèce" onSelect={selectFormSpecies} />
+        {/if}
+
+        <fieldset class="space-y-1.5">
+          <legend class="text-sm font-medium mb-1">Règle</legend>
+          <label class="flex items-center gap-2 text-sm">
+            <input type="radio" class="radio" name="rule-kind" value="present" bind:group={formKind} />
+            Présente ici → seuil abaissé
+          </label>
+          <label class="flex items-center gap-2 text-sm">
+            <input type="radio" class="radio" name="rule-kind" value="impossible" bind:group={formKind} />
+            Impossible ici
+          </label>
+          <label class="flex items-center gap-2 text-sm">
+            <input type="radio" class="radio" name="rule-kind" value="redirect" bind:group={formKind} />
+            Rediriger vers…
+          </label>
       </fieldset>
 
       {#if formKind === 'present'}
@@ -314,6 +320,7 @@
           <Button type="button" variant="ghost" onclick={resetForm} disabled={formSubmitting}>Annuler</Button>
         {/if}
       </div>
+      </fieldset>
     </form>
 
     <div>
@@ -399,19 +406,26 @@
                   <td class="text-sm whitespace-nowrap">{formatInstant(rule.updated_at)}</td>
                   <td class="whitespace-nowrap">
                     <div class="flex items-center gap-1.5 justify-end">
-                      <Button variant="ghost" size="xs" onclick={() => startEdit(rule)}>Modifier</Button>
+                      <Button variant="ghost" size="xs" disabled={!authStore.unlocked} onclick={() => startEdit(rule)}>
+                        Modifier
+                      </Button>
                       {#if confirmingDeleteFor === rule.scientific_name}
                         <Button
                           variant="error"
                           size="xs"
-                          disabled={deletingFor === rule.scientific_name}
+                          disabled={deletingFor === rule.scientific_name || !authStore.unlocked}
                           onclick={() => confirmDelete(rule.scientific_name)}
                         >
                           {deletingFor === rule.scientific_name ? 'Suppression…' : 'Confirmer'}
                         </Button>
                         <Button variant="ghost" size="xs" onclick={() => (confirmingDeleteFor = null)}>Annuler</Button>
                       {:else}
-                        <Button variant="ghost" size="xs" onclick={() => (confirmingDeleteFor = rule.scientific_name)}>
+                        <Button
+                          variant="ghost"
+                          size="xs"
+                          disabled={!authStore.unlocked}
+                          onclick={() => (confirmingDeleteFor = rule.scientific_name)}
+                        >
                           Supprimer
                         </Button>
                       {/if}
