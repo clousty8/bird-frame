@@ -26,6 +26,7 @@ from app.api import (
     dynamic_thresholds,
     health,
     ingest,
+    node_update,
     nodes,
     recordings,
     reviews,
@@ -40,13 +41,15 @@ from app.errors import ApiError, register_error_handlers
 from app.live.compute import compute_site_pending
 from app.live.pending_bus import PendingBus
 from app.models.site import Site
+from app.node_bundle import NodeBundleError, load_node_bundle
 from app.species_data.db_sync import sync_species_sheets_table
 from app.species_data.store import load_species_data
 from app.time_utils import utc_now_str
+from app.version import __version__
+from app.web_ui import install_web_ui
 
 logger = logging.getLogger("bird_frame.main")
 
-SERVER_VERSION = "0.1.0"
 PENDING_EXPIRY_TICK_S = 5
 
 _SERVER_DIR = Path(__file__).resolve().parent.parent
@@ -90,6 +93,8 @@ def create_app(app_settings: Settings | None = None) -> FastAPI:
         finally:
             db.close()
 
+        _load_node_bundle(app, app_settings)
+
         expiry_task = asyncio.create_task(_pending_expiry_loop(app))
         try:
             yield
@@ -99,7 +104,7 @@ def create_app(app_settings: Settings | None = None) -> FastAPI:
                 await expiry_task
             engine.dispose()
 
-    app = FastAPI(title="bird-frame server", version=SERVER_VERSION, lifespan=lifespan)
+    app = FastAPI(title="bird-frame server", version=__version__, lifespan=lifespan)
 
     app.add_middleware(
         CORSMiddleware,
@@ -139,10 +144,16 @@ def create_app(app_settings: Settings | None = None) -> FastAPI:
         return await call_next(request)
 
     register_error_handlers(app)
+    web_dist = app_settings.web_dist_resolved
+    if web_dist is not None:
+        # Après register_error_handlers (le repli SPA enveloppe le gestionnaire 404 JSON). Un
+        # build absent fait échouer le démarrage : mieux qu'un site qui répondrait 404 partout.
+        install_web_ui(app, web_dist)
 
     app.include_router(health.router)
     app.include_router(admin.router, prefix="/api/v1")
     app.include_router(ingest.router, prefix="/api/v1")
+    app.include_router(node_update.router, prefix="/api/v1")
     app.include_router(nodes.router, prefix="/api/v1")
     app.include_router(sites.router, prefix="/api/v1")
     app.include_router(recordings.router, prefix="/api/v1")
@@ -155,6 +166,32 @@ def create_app(app_settings: Settings | None = None) -> FastAPI:
     app.include_router(detections.router, prefix="/api/v1")
 
     return app
+
+
+def _load_node_bundle(app: FastAPI, app_settings: Settings) -> None:
+    """Charge le bundle du bridge (contrat §12). Un bundle configuré mais inutilisable est
+    journalisé en ERROR et rend seulement la mise à jour des nœuds indisponible (503), pas le
+    serveur entier."""
+    app.state.node_bundle = None
+    app.state.node_bundle_error = None
+    bundle_path = app_settings.node_bundle_resolved
+    if bundle_path is None:
+        logger.info("BIRDFRAME_NODE_BUNDLE vide : aucune mise à jour de bridge proposée aux nœuds")
+        return
+    try:
+        bundle = load_node_bundle(bundle_path, __version__)
+    except NodeBundleError as exc:
+        app.state.node_bundle_error = str(exc)
+        logger.error("Bundle du bridge inutilisable, mises à jour des nœuds désactivées : %s", exc)
+        return
+    app.state.node_bundle = bundle
+    logger.info(
+        "Bundle du bridge %s proposé aux nœuds (%s, %d octets, sha256 %s)",
+        bundle.version,
+        bundle.path,
+        bundle.size,
+        bundle.sha256,
+    )
 
 
 async def _pending_expiry_loop(app: FastAPI) -> None:
