@@ -37,3 +37,6 @@ web/dist/
 
 # Secrets de production (Railway)
 deploy/production.secrets.env
+
+# Worktrees des agents Claude
+.claude/worktrees/
