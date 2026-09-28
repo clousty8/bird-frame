@@ -1,6 +1,6 @@
 [project]
 name = "bird-frame-bridge"
-version = "0.1.0"
+version = "0.2.0"
 description = "Bridge Python colocalisé avec BirdNET-Go : lit birdnet.db en lecture seule, pousse les détections vers le serveur bird-frame, relaie le bloc « en écoute », exécute les commandes de pilotage à distance."
 requires-python = ">=3.13"
 dependencies = [

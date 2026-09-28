@@ -5,4 +5,4 @@ Ne pas modifier à la main : `scripts/bump.py` met à jour d'un coup cette const
 `node/bridge/__init__.py`. `scripts/bump.py --check` (CI) échoue si l'un d'eux diverge.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
