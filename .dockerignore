@@ -1,0 +1,54 @@
+# bird-frame — contexte de build Docker : liste BLANCHE. Tout est exclu, puis seuls les fichiers
+# nécessaires au Dockerfile sont réintégrés. Ne jamais y faire entrer de données locales ni de
+# secrets (local-test/, birdnet-go-ui/, server/data/, .env, node/config/*.env, .dev/, caches…).
+*
+
+!VERSION
+!docker/entrypoint.sh
+!scripts/build_node_bundle.py
+
+!server/pyproject.toml
+!server/uv.lock
+!server/alembic.ini
+!server/app/
+!server/migrations/
+
+!node/pyproject.toml
+!node/uv.lock
+!node/bridge/
+
+!web/package.json
+!web/package-lock.json
+!web/index.html
+!web/svelte.config.js
+!web/tsconfig.json
+!web/vite.config.ts
+!web/src/
+!web/public/
+
+!species-data/species_universe_fr.json
+!species-data/aliases.json
+!species-data/base/
+!species-data/sheets/
+
+# Ré-exclusions à l'intérieur des dossiers réintégrés (la dernière règle qui correspond gagne).
+**/__pycache__
+**/*.pyc
+**/.DS_Store
+**/.env
+**/*.env
+**/node_modules
+web/dist
+web/src/test
+species-data/cache
+
+# Explicitement interdits (déjà exclus par « * », rappelés pour la relecture) :
+local-test
+birdnet-go-ui
+server/data
+server/.env
+node/config
+node/state
+.dev
+.git
+.claude

@@ -39,6 +39,14 @@ class Prediction(ApiModel):
     is_primary: bool
 
 
+class UpdateStatusOut(ApiModel):
+    """État de la mise à jour automatique du bridge (contrat §12.4)."""
+
+    state: str
+    target_version: str | None
+    error: str | None
+
+
 class NodeStatusOut(ApiModel):
     node_id: int
     node_name: str
@@ -60,6 +68,7 @@ class NodeStatusOut(ApiModel):
     node_db_max_id: int | None
     sync_lag: int | None
     decommissioned_at: UtcInstant | None
+    update_status: UpdateStatusOut | None  # contrat §12.4
 
 
 class PendingItemOut(ApiModel):

@@ -36,7 +36,7 @@ uv run python -m bridge.inspect --db /chemin/vers/birdnet.db --since-id 0 --limi
 ## Tester
 
 ```bash
-uv run pytest              # 92 tests, aucun ne touche local-test/ ni ne mute BirdNET-Go
+uv run pytest              # 142 tests, aucun ne touche local-test/ ni ne mute BirdNET-Go
 uv run ruff check bridge/ tests/
 uv run ruff format bridge/ tests/
 ```
@@ -86,6 +86,7 @@ code 0 — jamais de crash silencieux ni de mutation.
 | Relais « en écoute » (WP-06) | `bridge/pending_relay.py` | évènementiel (SSE local) + 30 s | `GET` SSE local, `POST` serveur |
 | Heartbeat | `bridge/heartbeat.py` | `BRIDGE_HEARTBEAT_INTERVAL_S` (60 s) | `GET` locaux (app/config, settings/audio, dynamic-thresholds), `POST` serveur |
 | Commandes (WP-11) | `bridge/commands.py` | `BRIDGE_COMMANDS_INTERVAL_S`/`_FAST_INTERVAL_S` | `GET`/`POST` serveur, mutations CSRF locales (**sauf en mode readonly**) |
+| Mise à jour (§12, en plus des quatre) | `bridge/updater.py` | démarrage, puis `BRIDGE_UPDATE_INTERVAL_S` (600 s) ou dès que le heartbeat annonce une version plus récente | `GET` serveur ; fichiers de l'installation gérée seulement (ne fait rien hors installation gérée) |
 
 Chaque boucle a son propre backoff exponentiel (`bridge/backoff.py`, base 5 s, plafond 5 min,
 jitter ±25 %) et sa propre classification d'erreur (`bridge/http_errors.py`, la table commune du
@@ -187,6 +188,76 @@ node/
 │   ├── commands.py                 # WP-11 : dispatch par kind, dédup, ack
 │   ├── backoff.py                  # backoff exponentiel commun
 │   ├── http_errors.py              # classification des réponses HTTP (§4.1)
+│   ├── updater.py                  # §12 : mise à jour automatique (installation gérée)
 │   └── time_utils.py               # formatage des instants UTC (§1.3)
+├── deploy/
+│   ├── run-bridge.sh               # §12.5 : superviseur (lance current, retour arrière)
+│   ├── fr.birdframe.bridge.plist.template     # agent launchd (macOS)
+│   └── bird-frame-bridge.service.template     # service systemd (Pi, installation manuelle)
 └── tests/                          # pytest, respx — jamais local-test/, jamais de vraie mutation
 ```
+
+## Installation gérée et mise à jour automatique (contrat §12)
+
+Pour qu'un nœud se mette à jour tout seul à chaque release, le bridge est installé hors du dépôt,
+dans une « installation gérée », lancée par launchd (macOS) et mise à jour par le serveur :
+
+```bash
+scripts/install-node.sh --config node/config/pornic.env            # racine ~/.bird-frame-node
+scripts/install-node.sh --config node/config/pornic.env --no-launchd --root /tmp/essai   # sans agent
+tail -f ~/.bird-frame-node/logs/bridge.log
+launchctl print gui/$(id -u)/fr.birdframe.bridge | grep -E 'state|pid|last exit'
+scripts/uninstall-node.sh                 # garde config/ et state/ ; --purge pour tout supprimer
+```
+
+`install-node.sh` (idempotent ; en cas d'échec, l'installation précédente est restaurée) copie le
+bridge du dépôt dans `~/.bird-frame-node/versions/<VERSION>`, y fait `uv sync --frozen --no-dev` et
+un essai à blanc, copie la configuration dans `config/bridge.env` (chmod 600) en y **forçant**
+`BRIDGE_INSTALL_ROOT`, `BRIDGE_AUTO_UPDATE=1`, `BRIDGE_UV` (chemin absolu de `uv`) et
+`BRIDGE_STATE_FILE=<racine>/state/<slug>.json` (l'ancien curseur est repris s'il existe), bascule le
+lien `current`, installe `bin/run-bridge.sh` et charge l'agent `fr.birdframe.bridge`
+(`~/Library/LaunchAgents/`, `RunAtLoad` + `KeepAlive`). Il refuse une racine située dans
+`local-test/` et n'y écrit jamais rien. Linux (Pi) : mêmes fichiers avec `--no-launchd` (automatique
+hors macOS), puis `node/deploy/bird-frame-bridge.service.template` à installer à la main.
+
+Variables (dans le fichier de configuration, comme les autres `BRIDGE_*`) :
+
+| Variable | Défaut | Rôle |
+|---|---|---|
+| `BRIDGE_AUTO_UPDATE` | `0` | `1` = mise à jour automatique (forcé à 1 par `install-node.sh`) |
+| `BRIDGE_INSTALL_ROOT` | vide | racine de l'installation gérée, chemin absolu |
+| `BRIDGE_UPDATE_INTERVAL_S` | `600` | cadence de vérification (≥ 10 s) ; le heartbeat réveille aussi la vérification dès que le serveur annonce une version plus récente |
+| `BRIDGE_UV` | `uv` | exécutable `uv` utilisé pour installer la nouvelle version |
+
+Déroulé d'une mise à jour (`bridge/updater.py`) : `GET /nodes/{id}/update` ; si la version annoncée
+est plus récente (`X.Y.Z` numérique), téléchargement (même origine que le serveur), vérification
+taille + SHA-256, contrôle de chaque entrée de l'archive (ni chemin absolu, ni `..`, ni lien, ni
+fichier spécial), extraction dans `versions/<v>`, `uv sync --frozen --no-dev`, essai à blanc
+`python -m bridge --help`, `previous` ← version courante, bascule atomique de `current`, nettoyage des
+versions plus anciennes que `previous`, puis sortie en **code 75** : `run-bridge.sh` relance aussitôt
+la nouvelle version. Tout échec est journalisé en ERROR, laisse l'ancienne version en place, remonte
+dans le heartbeat (`update_status = {state: "failed", target_version, error}`, visible dans
+`GET /nodes`) et la même version n'est pas retentée avant 1 h.
+
+Superviseur (`run-bridge.sh`) : si la version courante plante au démarrage (sortie non nulle en moins
+de 60 s, hors code 2 = configuration ou `birdnet.db` inaccessibles) 3 fois en 5 minutes, il rebascule
+`current` sur `previous`, l'écrit dans le journal et ajoute la version fautive à
+`state/rolled-back-versions` : l'updater ne la retentera plus (retirer la ligne pour réessayer).
+Codes de sortie du bridge : 0 arrêt normal, 2 configuration/`birdnet.db` inutilisable, 75 mise à jour
+installée.
+
+Vérifié en réel (28/09/2026, `uv` réel, serveur uvicorn réel, `--no-launchd`, dossier temporaire) :
+bridge 0.1.0 installé par `install-node.sh`, serveur 0.1.1 publiant son bundle → bascule en 0.1.1 et
+relance par le superviseur en ~1 s, heartbeat suivant `bridge_version = 0.1.1`,
+`update_status.state = up_to_date`.
+
+**Confiance** : le nœud exécute le code publié par son serveur ; le SHA-256 ne protège que contre la
+corruption. `BRIDGE_SERVER_URL` doit donc être en `https://` (Railway) ou passer par Tailscale.
+
+**À savoir sur le Mac d'Armand** :
+- un agent launchd n'hérite pas des autorisations du Terminal : `BRIDGE_DB_PATH`/`BRIDGE_CLIPS_DIR`
+  sont sous `~/Documents` (protégé par macOS). Si `logs/bridge.log` montre « Operation not
+  permitted », donner l'accès complet au disque à l'interpréteur Python de la version installée (le
+  chemin exact est affiché par `install-node.sh`) ;
+- ne pas faire tourner en même temps le bridge de `scripts/dev-up.sh` et l'agent pour le même nœud
+  (`install-node.sh` avertit si le bridge de dev tourne).

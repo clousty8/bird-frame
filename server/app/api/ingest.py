@@ -6,10 +6,11 @@ import json
 import logging
 from pathlib import Path
 
-from fastapi import APIRouter, Depends, File, Form, Response, UploadFile
+from fastapi import APIRouter, Depends, File, Form, Request, Response, UploadFile
 from sqlalchemy import update
 from sqlalchemy.orm import Session
 
+from app.api.node_update import current_node_bundle
 from app.auth import get_authenticated_node
 from app.config import Settings
 from app.deps import get_db, get_pending_bus, get_settings_dep, get_species_data
@@ -37,6 +38,7 @@ from app.schemas.ingest import (
 from app.schemas.sync import SyncRequestBody, SyncResponse
 from app.species_data.store import SpeciesDataStore
 from app.time_utils import utc_now, utc_now_str
+from app.version import __version__
 
 logger = logging.getLogger("bird_frame.ingest")
 
@@ -227,6 +229,7 @@ def post_pending(
 @router.post("/nodes/{node_id}/heartbeat", response_model=HeartbeatResponse)
 def post_heartbeat(
     body: HeartbeatBody,
+    request: Request,
     node: Node = Depends(get_authenticated_node),
     db: Session = Depends(get_db),
     store: SpeciesDataStore = Depends(get_species_data),
@@ -235,6 +238,29 @@ def post_heartbeat(
     if status_row is None:
         status_row = NodeStatus(node_id=node.id)
         db.add(status_row)
+
+    # Contrat §12.4 : état de la mise à jour automatique du bridge, tel que rapporté par le
+    # dernier heartbeat (`null` pour un bridge qui ne le rapporte pas). Un nouvel échec est aussi
+    # journalisé côté serveur, une seule fois par changement d'état, pour être visible dans les
+    # journaux de la plateforme même sans ouvrir l'interface.
+    new_update_status = body.update_status.model_dump(mode="json") if body.update_status else None
+    new_update_status_json = (
+        json.dumps(new_update_status, ensure_ascii=False) if new_update_status is not None else None
+    )
+    if (
+        new_update_status is not None
+        and new_update_status["state"] == "failed"
+        and new_update_status_json != status_row.update_status_json
+    ):
+        logger.warning(
+            "Nœud %s (%s) : mise à jour du bridge %s → %s en échec : %s",
+            node.id,
+            node.name,
+            body.bridge_version,
+            new_update_status["target_version"],
+            new_update_status["error"],
+        )
+    status_row.update_status_json = new_update_status_json
 
     status_row.last_heartbeat_at = utc_now_str()
     status_row.bridge_version = body.bridge_version
@@ -256,4 +282,7 @@ def post_heartbeat(
         status_row.dynamic_thresholds_snapshot_at = utc_now_str()
 
     db.commit()
-    return {"server_time_utc": utc_now_str()}
+    return {
+        "server_time_utc": utc_now_str(),
+        "latest_node_version": __version__ if current_node_bundle(request) is not None else None,
+    }

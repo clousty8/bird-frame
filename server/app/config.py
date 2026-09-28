@@ -35,6 +35,12 @@ class Settings(BaseSettings):
     max_upload_mb: int = 25
     log_level: str = "info"
     auto_migrate: bool = True
+    # Build de l'interface (`web/dist/`, sortie de `npm run build`) servi à `/` avec repli SPA
+    # (`app/web_ui.py`). Vide = le serveur ne sert que l'API (développement : Vite sert l'UI).
+    web_dist: str = ""
+    # Archive `node-bundle-<version>.tar.gz` du bridge proposée aux nœuds pour leur mise à jour
+    # automatique (contrat §12, `app/node_bundle.py`). Vide = aucune mise à jour proposée.
+    node_bundle: str = ""
 
     # Session navigateur (contrat §2.2). `production` refuse de démarrer sans hash ni
     # secret ; `dev` sans hash désactive l'authentification (WARNING au démarrage).
@@ -46,6 +52,14 @@ class Settings(BaseSettings):
     @property
     def db_path_resolved(self) -> Path:
         return _resolve(self.db_path)
+
+    @property
+    def web_dist_resolved(self) -> Path | None:
+        return _resolve(self.web_dist) if self.web_dist.strip() else None
+
+    @property
+    def node_bundle_resolved(self) -> Path | None:
+        return _resolve(self.node_bundle) if self.node_bundle.strip() else None
 
     @property
     def data_dir_resolved(self) -> Path:

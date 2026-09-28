@@ -74,5 +74,8 @@ class NodeStatus(Base):
     node_db_max_id: Mapped[int | None] = mapped_column(Integer, nullable=True)
     dynamic_thresholds_snapshot_json: Mapped[str | None] = mapped_column(String, nullable=True)
     dynamic_thresholds_snapshot_at: Mapped[str | None] = mapped_column(String, nullable=True)
+    # Contrat §12.4 : `update_status` du dernier heartbeat (JSON `{state, target_version, error}`),
+    # NULL si le bridge ne le rapporte pas.
+    update_status_json: Mapped[str | None] = mapped_column(String, nullable=True)
 
     node: Mapped[Node] = relationship(back_populates="status")
