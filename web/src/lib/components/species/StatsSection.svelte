@@ -51,8 +51,8 @@
   const HOUR_AXIS_LABELS = Array.from({ length: 24 }, (_, hour) => (hour % 4 === 0 ? `${hour}h` : null));
 </script>
 
-<section class="flex flex-col gap-3">
-  <h2 class="text-xl font-semibold">Statistiques</h2>
+<section id="statistiques" class="wiki-section flex flex-col gap-3">
+  <h2 class="wiki-h2">Statistiques</h2>
 
   {#if loading}
     <LoadingSpinner label="Chargement des statistiques…" />

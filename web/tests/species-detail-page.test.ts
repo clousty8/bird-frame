@@ -1,9 +1,27 @@
 import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest';
-import { render, screen, cleanup } from '@testing-library/svelte';
+import { render, screen, cleanup, within } from '@testing-library/svelte';
 import SpeciesDetailPage from '../src/routes/SpeciesDetailPage.svelte';
 import { siteStore } from '../src/lib/stores/site.svelte';
 import * as client from '../src/lib/api/client';
-import type { PresenceResponse, Site, SpeciesDetail, TopClip } from '../src/lib/api/types';
+import type { LocalPresence, PresenceLevel, PresenceResponse, Site, SpeciesDetail, TopClip } from '../src/lib/api/types';
+
+function makePresenceHere(overrides: Partial<LocalPresence> = {}): LocalPresence {
+  return {
+    site_slug: 'pornic',
+    site_name: 'Pornic',
+    reference_city: { name: 'Pornic', distance_km: 0 },
+    monthly_levels: new Array<PresenceLevel>(12).fill('tres_courant'),
+    current_month: 9,
+    current_month_level: 'tres_courant',
+    ...overrides,
+  };
+}
+
+// Martinet noir autour de Pornic (species-data réel, 28/09/2026).
+const SWIFT_PORNIC_LEVELS: PresenceLevel[] = [
+  'absent', 'absent', 'rare', 'courant', 'tres_courant', 'tres_courant',
+  'tres_courant', 'peu_frequent', 'rare', 'absent', 'absent', 'absent',
+];
 
 function makeSite(overrides: Partial<Site> = {}): Site {
   return {
@@ -67,8 +85,10 @@ function makeDetail(overrides: Partial<SpeciesDetail> = {}): SpeciesDetail {
         months: [0, 0, 0, 0, 0, 0, 0, 0, 412, 0, 0, 0],
         rule: null,
         redirect_to_scientific_name: null,
+        local_presence: makePresenceHere(),
       },
     ],
+    local_presence_by_site: { pornic: makePresenceHere() },
     ...overrides,
   };
 }
@@ -136,7 +156,8 @@ describe('SpeciesDetailPage — fiche espèce', () => {
 
     expect(await screen.findByRole('heading', { name: 'Rougegorge familier' })).toBeInTheDocument();
     expect(screen.getByText('Erithacus rubecula')).toBeInTheDocument();
-    expect(screen.getByText('Passeriformes')).toBeInTheDocument();
+    // Chip sous le titre + encadré « En bref » (affiché sur grand écran seulement).
+    expect(screen.getAllByText('Passeriformes').length).toBeGreaterThanOrEqual(1);
     expect(screen.getByText('412 détections')).toBeInTheDocument();
   });
 
@@ -148,21 +169,89 @@ describe('SpeciesDetailPage — fiche espèce', () => {
     expect(await screen.findByText('Espèce inconnue.')).toBeInTheDocument();
   });
 
-  it('affiche le badge « généré par IA » quand la fiche a has_sheet et n\'a pas été relue', async () => {
+  it("n'affiche plus de badge « généré par IA », même pour une fiche non relue", async () => {
     vi.spyOn(client, 'getSpeciesDetail').mockResolvedValue(makeDetail({ has_sheet: true, reviewed_by_human: false }));
 
     render(SpeciesDetailPage, { scientificName: 'Erithacus rubecula' });
 
-    expect(await screen.findByText('Fiche générée par IA, à vérifier')).toBeInTheDocument();
+    await screen.findByRole('heading', { name: 'Rougegorge familier' });
+    expect(screen.queryByText(/générée? par IA/i)).not.toBeInTheDocument();
   });
 
-  it("ne montre pas le badge IA quand la fiche a été relue par un humain", async () => {
-    vi.spyOn(client, 'getSpeciesDetail').mockResolvedValue(makeDetail({ reviewed_by_human: true }));
+  it('met « À propos » juste après le nom, puis les autres sections, et propose un sommaire', async () => {
+    vi.spyOn(client, 'getSpeciesDetail').mockResolvedValue(makeDetail());
+
+    render(SpeciesDetailPage, { scientificName: 'Erithacus rubecula' });
+
+    await screen.findByRole('heading', { level: 1, name: 'Rougegorge familier' });
+    const sections = screen.getAllByRole('heading', { level: 2 }).map((heading) => heading.textContent?.trim());
+    expect(sections[0]).toBe('À propos');
+    expect(sections.slice(1)).toEqual([
+      "Peut-on l'entendre à Pornic ?",
+      'Meilleurs enregistrements',
+      'Détections par lieu',
+      'Statistiques',
+    ]);
+    const toc = screen.getByRole('navigation', { name: 'Sommaire' });
+    expect(within(toc).getByRole('link', { name: 'À propos' })).toHaveAttribute('href', '#a-propos');
+    expect(within(toc).getByRole('link', { name: 'Mode de vie' })).toHaveAttribute('href', '#mode-de-vie');
+  });
+
+  it('affiche la photo entière (jamais recadrée) avec son crédit', async () => {
+    vi.spyOn(client, 'getSpeciesDetail').mockResolvedValue(
+      makeDetail({
+        photo: {
+          url: '/api/v1/species/Erithacus%20rubecula/photo?size=320',
+          url_1600: '/api/v1/species/Erithacus%20rubecula/photo?size=1600',
+          width: 3564,
+          height: 2376,
+          license: 'CC BY-SA 4.0',
+          license_url: null,
+          author: 'Giles Laurent',
+          credit: null,
+          description_url: null,
+        },
+      })
+    );
+
+    render(SpeciesDetailPage, { scientificName: 'Erithacus rubecula' });
+
+    const img = await screen.findByRole('img', { name: 'Rougegorge familier' });
+    expect(img.className).not.toMatch(/object-cover/);
+    // Dimensions d'origine transmises au navigateur : il garde les proportions de la photo.
+    expect(img).toHaveAttribute('width', '3564');
+    expect(img).toHaveAttribute('height', '2376');
+    expect(screen.getByText(/Photo : Giles Laurent — CC BY-SA 4\.0/)).toBeInTheDocument();
+  });
+
+  it('rédige « À propos » en sous-sections et en phrases, sans étiquettes ni jargon', async () => {
+    vi.spyOn(client, 'getSpeciesDetail').mockResolvedValue(
+      makeDetail({
+        rarity_note: 'Très commun partout en France. Score BirdNET maximal de 0,99 en France.',
+        lookalikes: [
+          { scientific_name: 'Phoenicurus ochruros', common_name_fr: 'Rougequeue noir', why_fr: 'Cris « tic » proches ; BirdNET confond parfois.', has_page: true },
+          { scientific_name: 'Avis inexistens', common_name_fr: 'Oiseau inconnu', why_fr: 'Silhouette proche.', has_page: false },
+        ],
+        fun_facts: ['Les deux sexes chantent, même en hiver.'],
+      })
+    );
 
     render(SpeciesDetailPage, { scientificName: 'Erithacus rubecula' });
 
     await screen.findByRole('heading', { name: 'Rougegorge familier' });
-    expect(screen.queryByText('Fiche générée par IA, à vérifier')).not.toBeInTheDocument();
+    for (const title of ['Où le trouver', 'Alimentation', 'Mode de vie', 'Migration et saisons', 'Son chant', 'À ne pas confondre avec', 'Le saviez-vous ?']) {
+      expect(screen.getByRole('heading', { level: 3, name: title })).toBeInTheDocument();
+    }
+    expect(screen.getByText('Jardins et sous-bois. Très commun partout en France.')).toBeInTheDocument();
+    expect(screen.getByText(/C'est un oiseau de jour/)).toBeInTheDocument();
+    expect(screen.getByText(/En France, c'est un migrateur partiel/)).toBeInTheDocument();
+    expect(screen.queryByText(/Hiverne :/)).not.toBeInTheDocument();
+    expect(screen.queryByText(/BirdNET|score/i)).not.toBeInTheDocument();
+
+    expect(screen.getByRole('link', { name: 'Rougequeue noir' })).toHaveAttribute('href', '/species/Phoenicurus%20ochruros');
+    expect(screen.getByText(/l'appareil confond parfois/)).toBeInTheDocument();
+    expect(screen.queryByRole('link', { name: 'Oiseau inconnu' })).not.toBeInTheDocument();
+    expect(screen.getByText('Oiseau inconnu')).toBeInTheDocument();
   });
 
   it("affiche « fiche en cours de rédaction » quand la fiche n'a pas de partie rédactionnelle", async () => {
@@ -231,14 +320,59 @@ describe('SpeciesDetailPage — fiche espèce', () => {
     expect(screen.queryByText(/Pigeon ramier/)).not.toBeInTheDocument();
   });
 
-  it('affiche la plausibilité ici (france_universe) avec le score maximal', async () => {
+  it("explique simplement si on peut l'entendre sur le site courant, sans aucun terme technique", async () => {
     vi.spyOn(client, 'getSpeciesDetail').mockResolvedValue(makeDetail());
 
     render(SpeciesDetailPage, { scientificName: 'Erithacus rubecula' });
 
-    expect(await screen.findByText('Plausibilité ici')).toBeInTheDocument();
-    expect(screen.getByText('Score maximal (France)', { exact: false })).toBeInTheDocument();
-    expect(screen.getByText('Score à Pornic', { exact: false })).toBeInTheDocument();
+    const heading = await screen.findByRole('heading', { name: "Peut-on l'entendre à Pornic ?" });
+    const section = heading.closest('section');
+    if (!section) throw new Error('section introuvable');
+    expect(
+      within(section).getByText(
+        "À Pornic, le Rougegorge familier est très courant toute l'année : une détection est tout à fait normale."
+      )
+    ).toBeInTheDocument();
+    const legend = within(section).getByRole('list', { name: 'Légende' });
+    for (const word of ['Très courant', 'Courant', 'Peu fréquent', 'Rare', 'Absent']) {
+      expect(within(legend).getByText(word)).toBeInTheDocument();
+    }
+    const months = within(section).getByRole('list', { name: 'Présence mois par mois à Pornic' });
+    expect(within(months).getAllByRole('listitem')).toHaveLength(12);
+    expect(within(months).getByText('septembre : très courant (mois en cours)')).toBeInTheDocument();
+    expect(section.textContent).not.toMatch(/score|filtre|modèle|BirdNET|%/i);
+    expect(screen.queryByText('Plausibilité ici')).not.toBeInTheDocument();
+  });
+
+  it('prévient quand une détection serait inhabituelle ce mois-ci (Martinet noir en septembre)', async () => {
+    const swift = makePresenceHere({ monthly_levels: SWIFT_PORNIC_LEVELS, current_month: 9, current_month_level: 'rare' });
+    vi.spyOn(client, 'getSpeciesDetail').mockResolvedValue(
+      makeDetail({
+        scientific_name: 'Apus apus',
+        common_name_fr: 'Martinet noir',
+        local_presence_by_site: { pornic: swift },
+      })
+    );
+
+    render(SpeciesDetailPage, { scientificName: 'Apus apus' });
+
+    expect(
+      await screen.findByText(
+        "À Pornic, le Martinet noir est présent d'avril à août, surtout de mai à juillet. En septembre, on ne le croise que très rarement : si l'appareil dit l'avoir entendu, réécoutez l'enregistrement pour vérifier."
+      )
+    ).toBeInTheDocument();
+  });
+
+  it("dit simplement quand la position du lieu n'est pas connue", async () => {
+    siteStore._resetForTests();
+    vi.spyOn(client, 'getSites').mockResolvedValue({ sites: [makeSite({ lat: null, lon: null })] });
+    vi.spyOn(client, 'getSpeciesDetail').mockResolvedValue(makeDetail({ local_presence_by_site: { pornic: null } }));
+
+    render(SpeciesDetailPage, { scientificName: 'Erithacus rubecula' });
+
+    expect(
+      await screen.findByText(/La position de Pornic n'est pas renseignée : impossible de dire si cet oiseau y est habituel\./)
+    ).toBeInTheDocument();
   });
 
   it("affiche les statistiques heure/mois du site courant (GET .../presence?site=)", async () => {

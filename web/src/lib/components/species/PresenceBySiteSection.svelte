@@ -1,5 +1,5 @@
 <script lang="ts">
-  // Section « Présence » : un bloc par site, barres par mois sur 12, total, première/
+  // Section « Détections par lieu » : un bloc par site, barres par mois sur 12, total, première/
   // dernière fois — c'est là qu'on voit Le Mans vs Pornic. Les données viennent déjà
   // groupées par site dans SpeciesDetail.presence_by_site (contrat §6.9) : pas d'appel
   // réseau supplémentaire ici.
@@ -24,10 +24,10 @@
   }
 </script>
 
-<section class="flex flex-col gap-3">
-  <h2 class="text-xl font-semibold">Présence</h2>
+<section id="detections" class="wiki-section flex flex-col gap-3">
+  <h2 class="wiki-h2">Détections par lieu</h2>
   {#if presenceBySite.length === 0}
-    <p class="text-muted text-sm">Aucune détection connue pour cette espèce sur un site suivi.</p>
+    <p class="text-muted text-sm">L'appareil n'a encore jamais entendu cet oiseau, sur aucun lieu suivi.</p>
   {:else}
     <div class="grid gap-4 sm:grid-cols-2">
       {#each presenceBySite as site (site.site_slug)}

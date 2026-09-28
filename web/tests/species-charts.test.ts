@@ -56,6 +56,7 @@ describe('PresenceBySiteSection — barres par mois', () => {
       months: SEPTEMBER_ONLY,
       rule: null,
       redirect_to_scientific_name: null,
+      local_presence: null,
     };
     const { container } = render(PresenceBySiteSection, { presenceBySite: [site] });
 
@@ -86,6 +87,7 @@ describe('PresenceBySiteSection — barres par mois', () => {
       months: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
       rule: null,
       redirect_to_scientific_name: null,
+      local_presence: null,
     };
     render(PresenceBySiteSection, { presenceBySite: [site] });
     expect(screen.getByText('1 détection')).toBeInTheDocument();

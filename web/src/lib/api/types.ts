@@ -244,11 +244,24 @@ export interface Lookalike {
   scientific_name: string;
   common_name_fr: string | null;
   why_fr: string;
+  /** L'espèce a une fiche sur ce serveur (GET /species/{name} répondrait 200). */
+  has_page: boolean;
 }
 export interface FranceUniverse {
   max_score: number;
   cities: Record<string, number>;
   months: number[];
+}
+/** Niveau qualitatif d'un mois (contrat §6.9, seuils dans server/app/species_data/local_presence.py). */
+export type PresenceLevel = 'tres_courant' | 'courant' | 'peu_frequent' | 'rare' | 'absent';
+export interface LocalPresence {
+  site_slug: string;
+  site_name: string;
+  reference_city: { name: string; distance_km: number };
+  monthly_levels: PresenceLevel[] /* 12 */;
+  /** 1-12, dans le fuseau du site. */
+  current_month: number;
+  current_month_level: PresenceLevel;
 }
 export interface PresenceBySite {
   site_slug: string;
@@ -261,6 +274,7 @@ export interface PresenceBySite {
   months: number[] /* 12 */;
   rule: SpeciesRuleKind | null;
   redirect_to_scientific_name: string | null;
+  local_presence: LocalPresence | null;
 }
 export interface SpeciesDetail {
   scientific_name: string;
@@ -287,6 +301,8 @@ export interface SpeciesDetail {
   generator_model: string | null;
   reviewed_by_human: boolean;
   presence_by_site: PresenceBySite[];
+  /** Une clé par site existant ; `null` si le site n'a pas de coordonnées ou l'espèce pas de données. */
+  local_presence_by_site: Record<string, LocalPresence | null>;
 }
 export interface TopClip {
   kept_clip_id: number;
