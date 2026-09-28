@@ -144,7 +144,7 @@ Variables fixées par l'image : `BIRDFRAME_ENV=production`, `BIRDFRAME_HOST=0.0.
 `BIRDFRAME_NODE_BUNDLE=/app/node-bundle`, `BIRDFRAME_AUTO_MIGRATE=1`. À fournir sur Railway :
 `BIRDFRAME_ADMIN_TOKEN` (≥ 32 caractères), plus les variables d'authentification navigateur
 (`BIRDFRAME_UI_PASSWORD_HASH`, `BIRDFRAME_SESSION_SECRET`) ; `PORT` est injecté par Railway.
-`railway.json` : builder Dockerfile, healthcheck `/health`, redémarrage sur échec.
+Côté Railway (réglé sur le service, pas dans un fichier) : build par le `Dockerfile` racine, healthcheck `/health`, redémarrage sur échec, volume monté sur `/data`, déploiement automatique à chaque push sur `main`.
 
 `docker/entrypoint.sh` démarre en root uniquement pour rendre `/data` à `birdframe` (Railway monte
 les volumes en root), puis abandonne ces droits (`setpriv`) avant de lancer uvicorn — inutile donc de

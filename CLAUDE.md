@@ -87,9 +87,24 @@ redéploie automatiquement à chaque push sur `main`). CI sur PR `dev`→`main` 
 (par worktree, jamais Railway, `local-test/` en lecture seule) pour tester visuellement ;
 `scripts/dev-up.sh` reste le mode développement actif (Vite, rechargement à chaud). `/release`
 (`.claude/skills/release/SKILL.md`) publie une version : bump → CHANGELOG.md → PR → CI → merge →
-tag/release GitHub → suivi du déploiement Railway et de la mise à jour des nœuds. URL de prod
-dans `deploy/production.env` (`BIRDFRAME_PUBLIC_URL`, vide tant que le service Railway n'est pas
-créé).
+tag/release GitHub → suivi du déploiement Railway et de la mise à jour des nœuds.
+
+## Production (28/09/2026)
+- **Interface + serveur sur Railway** : https://web-production-6eb1d.up.railway.app (URL aussi dans
+  `deploy/production.env`). Projet Railway `bird-frame` (id `fc859082-4d5b-4cfa-b3ea-eb2801b54bd5`),
+  environnement `production` (`bc2f1518-507e-499e-8165-3891bc448089`), service `web`
+  (`c4bde3f5-e9e1-4de0-b55c-9e412d6fe09f`), volume `bird-frame-data` sur `/data` (base SQLite, clips,
+  photos). Build par le `Dockerfile` racine à chaque push sur `main`.
+- **Accès** : lecture libre ; mot de passe unique pour modifier (règles, revues, faux négatifs,
+  seuils) et pour **écouter les enregistrements** (voix privées possibles). Mot de passe dans le
+  trousseau macOS (service « bird-frame », compte « interface ») ; secrets de prod dans
+  `deploy/production.secrets.env` (gitignoré, jamais commité). Changer le mot de passe :
+  `uv run --project server python scripts/hash_password.py` puis variable Railway
+  `BIRDFRAME_UI_PASSWORD_HASH`.
+- **Calcul en local** : BirdNET-Go (`local-test/`) + un bridge « installé » (`scripts/install-node.sh`,
+  racine `~/.bird-frame-node`, agent launchd `fr.birdframe.bridge`) qui pousse vers Railway et **se met
+  à jour tout seul** à chaque release (il télécharge le bundle servi par le serveur de la même version).
+  Ne pas faire tourner en plus un bridge `dev-up.sh` configuré vers Railway.
 
 ## Refonte « nœud + serveur » (27/09/2026) — nouvelle application dans ce dépôt
 Décision (workflow 3 architectes + 3 juges) : BirdNET-Go reste un **capteur inchangé** (une instance
@@ -114,4 +129,4 @@ architecture.md en cas d'écart, §10.1), `docs/plan.md` (lots WP-01…WP-22 ; v
 - Licence : tout ce qui est copié de `birdnet-go-ui/frontend` est listé dans `web/NOTICE.md`
   (CC BY-NC-SA 4.0) avec en-tête par fichier.
 - Pas encore fait : audio live à distance (WP-19), Tailscale + premier Pi (WP-18), migration de
-  l'archive Le Mans (WP-17), authentification famille, `git init` du dépôt (jamais fait, à décider).
+  l'archive Le Mans (WP-17).
