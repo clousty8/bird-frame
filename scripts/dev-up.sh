@@ -36,6 +36,22 @@ done
 SERVER_URL="http://localhost:8090"
 VITE_URL="http://localhost:5173"
 
+# --- Garde-fou : jamais Railway --------------------------------------------------------------
+# SERVER_URL ci-dessus est toujours du localhost, en dur : ce script n'a aucune option pour le
+# faire pointer ailleurs (même garde-fou que scripts/build-app.sh). On neutralise en plus la
+# variable d'environnement ambiante que register_node.py accepterait comme valeur par défaut
+# (BRIDGE_SERVER_URL), et on vérifie, si deploy/production.env est déjà rempli, que l'URL locale
+# ne coïncide pas avec elle.
+unset BRIDGE_SERVER_URL BIRDFRAME_PUBLIC_URL 2>/dev/null || true
+if [[ -f "$REPO_ROOT/deploy/production.env" ]]; then
+  RAILWAY_URL="$(grep '^BIRDFRAME_PUBLIC_URL=' "$REPO_ROOT/deploy/production.env" 2>/dev/null | head -1 | cut -d= -f2-)"
+  if [[ -n "$RAILWAY_URL" && "$SERVER_URL" == "$RAILWAY_URL"* ]]; then
+    echo "✗ Garde-fou : SERVER_URL ($SERVER_URL) pointe vers le domaine Railway de production" >&2
+    echo "  ($RAILWAY_URL). dev-up.sh est réservé au développement local — abandon." >&2
+    exit 1
+  fi
+fi
+
 is_running() {
   # $1 = fichier pid ; vrai si le fichier existe et le process est vivant.
   [[ -f "$1" ]] && kill -0 "$(cat "$1")" 2>/dev/null

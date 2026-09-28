@@ -79,6 +79,18 @@ Constaté le 26/09 de 16h43 à 00h03 (349 détections via le micro du Mac). Para
 macOS 14+) et relance BirdNET-Go. Ne jamais se fier à audio.log pour savoir quel micro est utilisé.
 
 
+## Workflow de développement (28/09/2026)
+Dépôt privé `clousty8/bird-frame`, branches `dev` (travail) et `main` (production — Railway
+redéploie automatiquement à chaque push sur `main`). CI sur PR `dev`→`main` et push `dev`
+(`.github/workflows/ci.yml`, check requis `test`) ; fusion **automatique, sans pause de review**
+(Armand seul sur ce dépôt). `/build-app` (`scripts/build-app.sh`) lance une pile locale isolée
+(par worktree, jamais Railway, `local-test/` en lecture seule) pour tester visuellement ;
+`scripts/dev-up.sh` reste le mode développement actif (Vite, rechargement à chaud). `/release`
+(`.claude/skills/release/SKILL.md`) publie une version : bump → CHANGELOG.md → PR → CI → merge →
+tag/release GitHub → suivi du déploiement Railway et de la mise à jour des nœuds. URL de prod
+dans `deploy/production.env` (`BIRDFRAME_PUBLIC_URL`, vide tant que le service Railway n'est pas
+créé).
+
 ## Refonte « nœud + serveur » (27/09/2026) — nouvelle application dans ce dépôt
 Décision (workflow 3 architectes + 3 juges) : BirdNET-Go reste un **capteur inchangé** (une instance
 par site) ; un **bridge** Python colocalisé (`node/`) lit `birdnet.db` en lecture seule et **pousse**
