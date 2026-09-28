@@ -37,6 +37,9 @@ jobs:
           enable-cache: true
           cache-dependency-glob: server/uv.lock
 
+      - name: Installer sox (spectrogrammes testés pour de vrai)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq sox
+
       - name: Installer les dépendances (verrouillées)
         run: uv sync --frozen
 
