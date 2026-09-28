@@ -1,5 +1,6 @@
 """Chargement de `species-data/` en mémoire (WP-10) — univers France, `base/`, `sheets/`,
-`aliases.json`. La source de vérité reste toujours les fichiers versionnés ; ce module
+`aliases.json`, `reference_cities.json` (coordonnées des 18 villes de référence de l'univers,
+pour la présence locale §6.9). La source de vérité reste toujours les fichiers versionnés ; ce module
 produit un instantané immuable rechargé au démarrage et par `POST /admin/species-data/reload`.
 """
 
@@ -41,6 +42,9 @@ class SpeciesDataStore:
     aliases: dict[str, str]
     invalid_files: list[InvalidFile]
     loaded_at: str
+    # Ville de référence → (lat, lon) ; vide si `reference_cities.json` est absent (la présence
+    # locale §6.9 vaut alors `null` partout, avec un WARNING au chargement).
+    reference_cities: dict[str, tuple[float, float]] = field(default_factory=dict)
     _lookup: dict[str, str] = field(default_factory=dict, repr=False)
 
     def __post_init__(self) -> None:
@@ -122,11 +126,38 @@ class SpeciesDataStore:
             }
         return None
 
+    def city_monthly_scores(self, scientific_name: str) -> dict[str, list[float]]:
+        """Probabilité d'observer l'espèce, par ville de référence et par mois (12 valeurs
+        0-1, index 0 = janvier) — `base.france_universe.city_monthly_scores`, sinon
+        `cityMonthlyScores` de l'univers, sinon `{}`. Une ville dont la série n'a pas
+        exactement 12 nombres dans [0, 1] est écartée (jamais de valeur inventée).
+        """
+        base_fu = (self.base.get(scientific_name) or {}).get("france_universe") or {}
+        raw = base_fu.get("city_monthly_scores")
+        if not raw:
+            raw = (self.universe.get(scientific_name) or {}).get("city_monthly_scores")
+        if not isinstance(raw, dict):
+            return {}
+        result: dict[str, list[float]] = {}
+        for city, series in raw.items():
+            if isinstance(series, list) and len(series) == 12 and all(_is_probability(v) for v in series):
+                result[str(city)] = [float(v) for v in series]
+        return result
+
+
+def _is_probability(value: object) -> bool:
+    return isinstance(value, int | float) and not isinstance(value, bool) and 0 <= value <= 1
+
+
+def _is_coordinate(value: object, bound: float) -> bool:
+    return isinstance(value, int | float) and not isinstance(value, bool) and -bound <= value <= bound
+
 
 def load_species_data(species_data_dir: Path) -> SpeciesDataStore:
     invalid_files: list[InvalidFile] = []
 
     universe = _load_universe(species_data_dir, invalid_files)
+    reference_cities = _load_reference_cities(species_data_dir, invalid_files)
     aliases = _load_aliases(species_data_dir, invalid_files)
     base = _load_base(species_data_dir, invalid_files)
     sheets = _load_sheets(species_data_dir, base, invalid_files)
@@ -145,13 +176,15 @@ def load_species_data(species_data_dir: Path) -> SpeciesDataStore:
         aliases=aliases,
         invalid_files=invalid_files,
         loaded_at=utc_now_str(),
+        reference_cities=reference_cities,
     )
     logger.info(
-        "species-data chargé : univers=%d base=%d fiches=%d alias=%d invalides=%d",
+        "species-data chargé : univers=%d base=%d fiches=%d alias=%d villes=%d invalides=%d",
         store.universe_count,
         store.base_count,
         store.sheet_count,
         store.alias_count,
+        len(reference_cities),
         len(invalid_files),
     )
     for inv in invalid_files:
@@ -179,8 +212,40 @@ def _load_universe(species_data_dir: Path, invalid_files: list[InvalidFile]) -> 
             "max_score": entry.get("maxScore"),
             "cities": entry.get("cities") or {},
             "months": entry.get("months") or [],
+            "city_monthly_scores": entry.get("cityMonthlyScores") or {},
         }
     return universe
+
+
+def _load_reference_cities(
+    species_data_dir: Path, invalid_files: list[InvalidFile]
+) -> dict[str, tuple[float, float]]:
+    """`reference_cities.json` = `{ville: {lat, lon}}` (écrit par `build_universe.py`). Absent →
+    `{}` avec un WARNING : la présence locale (§6.9) vaut alors `null` pour tous les sites."""
+    path = species_data_dir / "reference_cities.json"
+    if not path.is_file():
+        logger.warning(
+            "reference_cities.json absent de %s : la présence locale (local_presence) sera null partout",
+            species_data_dir,
+        )
+        return {}
+    try:
+        raw = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        invalid_files.append(InvalidFile("reference_cities.json", str(exc)))
+        return {}
+    if not isinstance(raw, dict):
+        invalid_files.append(InvalidFile("reference_cities.json", "doit être un objet {ville: {lat, lon}}"))
+        return {}
+    cities: dict[str, tuple[float, float]] = {}
+    for name, coords in raw.items():
+        lat = coords.get("lat") if isinstance(coords, dict) else None
+        lon = coords.get("lon") if isinstance(coords, dict) else None
+        if not _is_coordinate(lat, 90) or not _is_coordinate(lon, 180):
+            invalid_files.append(InvalidFile("reference_cities.json", f"coordonnées invalides pour {name!r}"))
+            continue
+        cities[str(name)] = (float(lat), float(lon))
+    return cities
 
 
 def _load_aliases(species_data_dir: Path, invalid_files: list[InvalidFile]) -> dict[str, str]:

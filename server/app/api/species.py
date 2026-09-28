@@ -19,6 +19,7 @@ from app.models.kept_clip import KeptClip
 from app.models.site import Site
 from app.models.species_site_rule import SpeciesSiteRule
 from app.photos.proxy import get_photo_path
+from app.species_data.local_presence import build_local_presence
 from app.species_data.naming import fold_diacritics, quote_species_name
 from app.species_data.store import SpeciesDataStore
 from app.time_utils import round4, today_local
@@ -26,7 +27,9 @@ from app.time_utils import round4, today_local
 router = APIRouter(tags=["species"])
 
 
-def resolve_species_name_or_404(db: Session, store: SpeciesDataStore, raw: str) -> str:
+def find_species_name(db: Session, store: SpeciesDataStore, raw: str) -> str | None:
+    """Nom canonique si l'espèce a une fiche (`species-data/` ou au moins une détection),
+    sinon `None` — même règle que `GET /species/{name}` (§6.9)."""
     resolved = store.resolve_reference(raw)
     if resolved:
         return resolved
@@ -36,8 +39,13 @@ def resolve_species_name_or_404(db: Session, store: SpeciesDataStore, raw: str) 
         .filter(func.lower(Detection.scientific_name) == normalized.casefold())
         .first()
     )
-    if row:
-        return row[0]
+    return row[0] if row else None
+
+
+def resolve_species_name_or_404(db: Session, store: SpeciesDataStore, raw: str) -> str:
+    resolved = find_species_name(db, store, raw)
+    if resolved:
+        return resolved
     raise ApiError(404, "species_not_found", f"Espèce inconnue : {raw!r}.")
 
 
@@ -173,6 +181,7 @@ def get_species_detail(
                 "scientific_name": lk["scientific_name"],
                 "common_name_fr": resolve_common_name_fr(lk["scientific_name"], store, db),
                 "why_fr": lk["why_fr"],
+                "has_page": find_species_name(db, store, lk["scientific_name"]) is not None,
             }
             for lk in sheet_entry.get("lookalikes", [])
         ]
@@ -210,6 +219,11 @@ def get_species_detail(
             "reviewed_by_human": False,
         }
 
+    local_presence_by_site = {
+        site.slug: build_local_presence(store, canonical, site)
+        for site in db.query(Site).order_by(Site.slug.asc()).all()
+    }
+
     return {
         "scientific_name": canonical,
         "aliases": aliases,
@@ -221,7 +235,8 @@ def get_species_detail(
         "has_sheet": has_sheet,
         **sheet_fields,
         "france_universe": store.france_universe_view(canonical),
-        "presence_by_site": _presence_by_site(db, canonical),
+        "presence_by_site": _presence_by_site(db, canonical, local_presence_by_site),
+        "local_presence_by_site": local_presence_by_site,
     }
 
 
@@ -236,7 +251,7 @@ def _wiki_ref(raw: dict | None) -> dict | None:
     }
 
 
-def _presence_by_site(db: Session, canonical: str) -> list[dict]:
+def _presence_by_site(db: Session, canonical: str, local_presence_by_site: dict[str, dict | None]) -> list[dict]:
     by_site: dict[int, dict] = {}
     for d in db.query(Detection).filter(Detection.scientific_name == canonical, is_valid_detection_expr()).all():
         entry = by_site.get(d.site_id)
@@ -285,6 +300,7 @@ def _presence_by_site(db: Session, canonical: str) -> list[dict]:
                 "redirect_to_scientific_name": (
                     rule.redirect_to_scientific_name if rule and rule.rule == "redirect" else None
                 ),
+                "local_presence": local_presence_by_site.get(site_row.slug),
             }
         )
     result.sort(key=lambda p: p["site_slug"])
