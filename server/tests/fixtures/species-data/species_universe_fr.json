@@ -21,6 +21,10 @@
     "label": "Parus major_Mésange charbonnière",
     "maxScore": 0.05,
     "cities": {"Pornic": 0.03, "Le Mans": 0.02},
-    "months": [4, 5, 6]
+    "months": [4, 5, 6],
+    "cityMonthlyScores": {
+      "Pornic": [0, 0, 0, 0.03, 0.06, 0.02, 0, 0, 0, 0, 0, 0],
+      "Le Mans": [0, 0, 0, 0.02, 0.02, 0.01, 0, 0, 0, 0, 0, 0]
+    }
   }
 ]

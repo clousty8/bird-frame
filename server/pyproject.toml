@@ -1,6 +1,6 @@
 [project]
 name = "bird-frame-server"
-version = "0.1.0"
+version = "0.2.0"
 description = "bird-frame — serveur FastAPI (ingestion nœuds, API navigateur, fiches espèces)"
 requires-python = ">=3.13,<3.14"
 dependencies = [

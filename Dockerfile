@@ -60,7 +60,7 @@ COPY --from=server-deps /app/server/.venv /app/server/.venv
 COPY server/alembic.ini ./
 COPY server/migrations ./migrations
 COPY server/app ./app
-COPY species-data/species_universe_fr.json species-data/aliases.json /app/species-data/
+COPY species-data/species_universe_fr.json species-data/aliases.json species-data/reference_cities.json /app/species-data/
 COPY species-data/base /app/species-data/base
 COPY species-data/sheets /app/species-data/sheets
 COPY --from=web /src/web/dist /app/web/dist

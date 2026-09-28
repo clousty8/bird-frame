@@ -1,0 +1,74 @@
+{
+ "Le Mans": {
+  "lat": 47.9819,
+  "lon": 0.1957
+ },
+ "Pornic": {
+  "lat": 47.1155,
+  "lon": -2.1046
+ },
+ "Rennes": {
+  "lat": 48.1113,
+  "lon": -1.68
+ },
+ "Poitiers": {
+  "lat": 46.5802,
+  "lon": 0.3404
+ },
+ "Paris": {
+  "lat": 48.8566,
+  "lon": 2.3522
+ },
+ "Lille": {
+  "lat": 50.6292,
+  "lon": 3.0573
+ },
+ "Strasbourg": {
+  "lat": 48.5734,
+  "lon": 7.7521
+ },
+ "Lyon": {
+  "lat": 45.764,
+  "lon": 4.8357
+ },
+ "Grenoble": {
+  "lat": 45.1885,
+  "lon": 5.7245
+ },
+ "Marseille": {
+  "lat": 43.2965,
+  "lon": 5.3698
+ },
+ "Toulouse": {
+  "lat": 43.6047,
+  "lon": 1.4442
+ },
+ "Bordeaux": {
+  "lat": 44.8378,
+  "lon": -0.5792
+ },
+ "Brest": {
+  "lat": 48.3904,
+  "lon": -4.4861
+ },
+ "Ajaccio": {
+  "lat": 41.9192,
+  "lon": 8.7386
+ },
+ "Clermont-Ferrand": {
+  "lat": 45.7772,
+  "lon": 3.087
+ },
+ "Chamonix": {
+  "lat": 45.9237,
+  "lon": 6.8694
+ },
+ "Perpignan": {
+  "lat": 42.6887,
+  "lon": 2.8948
+ },
+ "Nancy": {
+  "lat": 48.6921,
+  "lon": 6.1844
+ }
+}

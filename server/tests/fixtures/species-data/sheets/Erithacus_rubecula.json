@@ -14,7 +14,8 @@
   "seasonality_fr": "Présent toute l'année ; chante même en hiver, surtout à l'aube.",
   "song_fr": "Phrases fluides et mélancoliques, cristallines ; cri « tic » sec et répété.",
   "lookalikes": [
-    {"scientific_name": "Turdus merula", "common_name_fr": null, "why_fr": "Confusion possible en vol rapide."}
+    {"scientific_name": "Turdus merula", "common_name_fr": null, "why_fr": "Confusion possible en vol rapide."},
+    {"scientific_name": "Nonexistens specius", "common_name_fr": null, "why_fr": "Espèce absente des données, sans fiche."}
   ],
   "rarity_note": "Très commun partout en France.",
   "fun_facts": [
