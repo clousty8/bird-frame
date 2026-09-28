@@ -33,7 +33,9 @@ sur les autres équipes.
 
 ## 0. Index des routes
 
-Toutes les routes sont préfixées par **`/api/v1`**, sauf `/health`.
+Toutes les routes sont préfixées par **`/api/v1`**, sauf `/health`. Session navigateur
+(`POST /auth/login`, `POST /auth/logout`, `GET /auth/me`) : §2.2. « session 🔒 » = cookie de
+session requis (§2.2) ; « aucune » = lecture libre, même sur l'instance publique.
 
 | # | Méthode | Route | Auth | Appelant | § |
 |---|---|---|---|---|---|
@@ -59,7 +61,7 @@ Toutes les routes sont préfixées par **`/api/v1`**, sauf `/health`.
 | 20 | GET | `/species/{scientific_name}/photo` | aucune (S1) | web | 6.10 |
 | 21 | GET | `/species/{scientific_name}/sites/{slug}/top-clips` | aucune (S1) | web | 6.11 |
 | 22 | GET | `/species/{scientific_name}/presence` | aucune (S1) | web | 6.12 |
-| 23 | GET | `/recordings/{kept_clip_id}/audio` | aucune (S1) | web | 6.13 |
+| 23 | GET | `/recordings/{kept_clip_id}/audio` | session 🔒 | web | 6.13 |
 | 24 | GET | `/recordings/{kept_clip_id}/spectrogram` | aucune (S1) | web | 6.13 |
 | 25 | GET | `/sites/{slug}/stats/kpis` | aucune (S1) | web | 6.14 |
 | 26 | GET | `/sites/{slug}/stats/daily` | aucune (S1) | web | 6.15 |
@@ -68,13 +70,13 @@ Toutes les routes sont préfixées par **`/api/v1`**, sauf `/health`.
 | 29 | GET | `/sites/{slug}/stats/heatmap` | aucune (S1) | web | 6.18 |
 | 30 | GET | `/sites/{slug}/stats/confidence` | aucune (S1) | web | 6.19 |
 | 31 | GET | `/sites/{slug}/species-rules` | aucune (S1) | web | 6.20 |
-| 32 | PUT | `/sites/{slug}/species-rules/{scientific_name}` | aucune (S1) | web | 6.21 |
-| 33 | DELETE | `/sites/{slug}/species-rules/{scientific_name}` | aucune (S1) | web | 6.22 |
+| 32 | PUT | `/sites/{slug}/species-rules/{scientific_name}` | session 🔒 | web | 6.21 |
+| 33 | DELETE | `/sites/{slug}/species-rules/{scientific_name}` | session 🔒 | web | 6.22 |
 | 34 | GET | `/sites/{slug}/dynamic-thresholds` | aucune (S1) | web | 6.23 |
-| 35 | DELETE | `/sites/{slug}/dynamic-thresholds/{scientific_name}` | aucune (S1) | web | 6.24 |
-| 36 | POST | `/sites/{slug}/reviews` | aucune (S1) | web | 6.25 |
+| 35 | DELETE | `/sites/{slug}/dynamic-thresholds/{scientific_name}` | session 🔒 | web | 6.24 |
+| 36 | POST | `/sites/{slug}/reviews` | session 🔒 | web | 6.25 |
 | 37 | GET | `/sites/{slug}/reviews` | aucune (S1) | web | 6.26 |
-| 38 | POST | `/sites/{slug}/false-negatives` | aucune (S1) | web | 6.27 |
+| 38 | POST | `/sites/{slug}/false-negatives` | session 🔒 | web | 6.27 |
 | 39 | GET | `/sites/{slug}/false-negatives` | aucune (S1) | web | 6.28 |
 | 40 | GET | `/sites/{slug}/commands` | aucune (S1) | web | 6.29 |
 | 41 | GET | `/sites/{slug}/detections` | aucune (S1) | web | 6.30 |
@@ -251,14 +253,15 @@ validation Pydantic. Pour `validation_error`, `details` est un tableau
 | 204 | succès sans corps (`pending`) |
 | 206 | contenu partiel (requête `Range` sur l'audio) |
 | 400 | requête bien formée mais incohérente (`invalid_range` : `start > end`) |
-| 401 | authentification absente ou invalide (secret de nœud, jeton admin) |
-| 403 | authentifié mais interdit (`node_decommissioned`) |
+| 401 | authentification absente ou invalide (secret de nœud, jeton admin, session navigateur, mot de passe) |
+| 403 | authentifié mais interdit (`node_decommissioned`), ou mutation d'une autre origine (`origin_mismatch`) |
 | 404 | ressource inconnue |
 | 405 | méthode non autorisée sur une route existante (`method_not_allowed`) |
 | 409 | conflit avec l'état serveur (curseur, base du nœud réinitialisée, clip plus voulu, commande déjà finalisée, chaîne de redirection) |
 | 413 | corps trop gros (`payload_too_large` : upload > 25 Mo) |
 | 416 | plage `Range` non satisfaisable (audio) |
 | 422 | validation du corps, des paramètres de requête ou de chemin |
+| 429 | trop de tentatives de connexion (`too_many_attempts`, §2.2) |
 | 500 | erreur interne (`internal_error`) |
 | 502 | échec d'un service amont (téléchargement photo Wikimedia) |
 
@@ -273,6 +276,9 @@ validation Pydantic. Pour `validation_error`, `details` est un tableau
 | `invalid_range` | 400 | stats : `start > end` |
 | `unauthorized` | 401 | ingestion : en-tête `Authorization` absent, mal formé ou secret faux |
 | `invalid_admin_token` | 401 | routes admin |
+| `auth_required` | 401 | route navigateur 🔒 sans session valide (§2.2) |
+| `invalid_password` | 401 | `POST /auth/login` : mot de passe incorrect |
+| `origin_mismatch` | 403 | mutation navigateur dont l'en-tête `Origin` désigne un autre site (§2.2) |
 | `node_decommissioned` | 403 | ingestion : nœud mis hors service |
 | `not_found` | 404 | route inconnue |
 | `site_not_found` | 404 | `{slug}` inconnu |
@@ -291,8 +297,10 @@ validation Pydantic. Pour `validation_error`, `details` est un tableau
 | `clip_not_wanted` | 409 | upload : clip hors top-5 |
 | `command_already_final` | 409 | ack contradictoire |
 | `redirect_chain` | 409 | règle `redirect` créant une chaîne |
+| `auth_disabled` | 409 | `POST /auth/login` alors que l'authentification est désactivée (dev sans mot de passe) |
 | `payload_too_large` | 413 | upload |
 | `range_not_satisfiable` | 416 | audio |
+| `too_many_attempts` | 429 | `POST /auth/login` : 5 échecs en 5 min pour cette IP ; `details.retry_after_s` |
 | `photo_upstream_error` | 502 | photo |
 | `internal_error` | 500 | — |
 
@@ -351,10 +359,78 @@ l'API (en dev, même origine grâce au proxy Vite, §2.3).
 
 ### 2.2 Navigateur
 
-- **S1 : aucune authentification** sur les routes navigateur (§6). Le serveur écoute sur
-  `127.0.0.1` par défaut. Une session famille (`/auth/*`) viendra plus tard (§10.2) ; le frontend
-  DOIT centraliser ses appels dans `web/src/lib/api/` pour pouvoir ajouter les cookies ensuite.
-- Aucun cookie n'est émis en S1.
+**Lecture libre pour tout le monde ; une session est requise pour modifier et pour écouter les
+sons** (les enregistrements peuvent contenir des voix privées). Un seul mot de passe (celui
+d'Armand), pas de comptes. Implémentation : `server/app/browser_auth.py`.
+
+**Routes protégées (« 🔒 session requise »)** : **toute** route navigateur autre que `GET`
+(aujourd'hui `PUT`/`DELETE /sites/{slug}/species-rules/{name}`, `POST /sites/{slug}/reviews`,
+`POST /sites/{slug}/false-negatives`, `DELETE /sites/{slug}/dynamic-thresholds/{name}`) et
+**toute route qui sert de l'audio** (`GET /recordings/{kept_clip_id}/audio`, et plus tard le live
+§10.2). Toutes les autres `GET` restent publiques, y compris le spectrogramme PNG, les photos, les
+stats et le flux SSE. Les routes d'ingestion (Bearer du nœud, §2.1) et d'admin (`X-Admin-Token`,
+§3) gardent leur propre authentification ; une session navigateur ne les ouvre pas. Garde-fou :
+`server/tests/test_route_protection.py` énumère toutes les routes et échoue si une route
+navigateur mutante, ou qui sert de l'audio, n'est pas protégée.
+
+Sans session valide, une route 🔒 répond **401 `auth_required`** (vérifié avant toute autre
+validation : un `{slug}` inconnu donne aussi 401).
+
+**Configuration** (§7.2) : `BIRDFRAME_ENV` (`dev` | `production`, défaut `dev`),
+`BIRDFRAME_UI_PASSWORD_HASH`, `BIRDFRAME_SESSION_SECRET`.
+- `production` : le serveur **refuse de démarrer** si le hash ou le secret manque.
+- `dev` sans hash : authentification **désactivée** (tout est autorisé, `auth_enabled: false`),
+  WARNING au démarrage. `dev` avec hash : appliquée normalement (sans secret, un secret aléatoire
+  propre au process est utilisé, sessions perdues au redémarrage).
+- Dans tous les modes : un hash mal formé, ou un secret de moins de 32 caractères, empêche le
+  démarrage.
+
+**Mot de passe** : hash scrypt, format auto-descriptif `scrypt$n$r$p$sel_base64$hash_base64`
+(base64 standard ; paramètres par défaut n=32768, r=8, p=1, sel de 16 octets, hash de 32 octets),
+comparaison en temps constant. Généré par `scripts/hash_password.py` (racine du dépôt).
+
+**Session** : cookie **`bf_session`**, `HttpOnly`, `SameSite=Lax`, `Path=/`, `Max-Age=2592000`
+(30 jours), `Secure` quand la requête est en https (derrière un proxy, uvicorn doit tourner avec
+`--proxy-headers`). Valeur = jeton sans état serveur `v1.<expiration_unix>.<nonce>.<signature>`,
+signature HMAC-SHA256 (base64url sans remplissage) dont la clé dérive de
+`BIRDFRAME_SESSION_SECRET` **et** du hash du mot de passe : changer l'un ou l'autre invalide toutes
+les sessions. Le jeton n'étant pas stocké côté serveur, la déconnexion efface le cookie du
+navigateur mais ne révoque pas une copie du jeton (seul un changement de secret ou de mot de passe
+le fait).
+
+**Anti-CSRF** : `SameSite=Lax`, plus, sur toute requête navigateur autre que `GET`/`HEAD`/`OPTIONS`
+(y compris `/auth/login` et `/auth/logout`) : si l'en-tête `Origin` est présent, il DOIT désigner
+l'hôte de la requête (en-tête `Host`, port par défaut ignoré) ou une origine de
+`BIRDFRAME_CORS_ORIGINS` (cas du proxy Vite en dev), sinon **403 `origin_mismatch`**
+(`details: {"origin": "<valeur reçue>"}`). `Origin: null` est refusé. Sans en-tête `Origin`
+(client non navigateur), la requête passe au contrôle de session.
+
+**Anti-force brute** : 5 échecs de connexion en 5 min pour une même IP (IP client vue par
+l'application, `X-Forwarded-For` pris en compte par uvicorn derrière le proxy) → **429
+`too_many_attempts`** pendant 5 min, en-tête `Retry-After` (secondes) et
+`details: {"retry_after_s": 300}` ; même le bon mot de passe est alors refusé. Une connexion
+réussie remet le compteur de l'IP à zéro. Compteur en mémoire du process.
+
+#### `POST /auth/login`
+
+Corps : `{"password": "…"}` (chaîne de 1 à 1024 caractères, sinon 422). Réponse **200**
+`{"authenticated": true, "auth_enabled": true}` + `Set-Cookie: bf_session=…`. Erreurs : 401
+`invalid_password`, 429 `too_many_attempts`, 403 `origin_mismatch`, 409 `auth_disabled`
+(authentification désactivée). `Cache-Control: no-store`.
+
+#### `POST /auth/logout`
+
+Sans corps, sans session requise (idempotent). Réponse **200**
+`{"authenticated": false, "auth_enabled": <bool>}` + `Set-Cookie` qui efface `bf_session`
+(`Max-Age=0`). 403 `origin_mismatch` possible.
+
+#### `GET /auth/me`
+
+Publique. Réponse **200** `{"authenticated": <bool>, "auth_enabled": <bool>}`
+(`authenticated` = cookie présent, signature valide, non expiré ; toujours `false` quand
+`auth_enabled` est `false`). `Cache-Control: no-store`. Le frontend l'appelle au démarrage : tant
+qu'il n'a pas répondu, les contrôles 🔒 restent verrouillés ; `auth_enabled: false` (dev) les
+déverrouille tous sans connexion.
 
 ### 2.3 CORS et proxy de développement
 
@@ -365,6 +441,9 @@ l'API (en dev, même origine grâce au proxy Vite, §2.3).
 - Frontend : base d'API `import.meta.env.VITE_API_BASE ?? "/api/v1"` ; `vite.config.ts` DOIT
   proxifier `/api` vers `http://localhost:8090` en dev (même origine → pas de souci CORS pour SSE et
   `Range`). Le CORS serveur reste configuré pour un accès direct.
+- Session (§2.2) : le cookie `bf_session` suppose le **même origine** (proxy Vite en dev, build web
+  servi par le serveur en production) ; `allow_credentials` reste `false`. Les origines de
+  `BIRDFRAME_CORS_ORIGINS` sont aussi acceptées par le contrôle `Origin` des mutations.
 
 ---
 
@@ -1722,10 +1801,11 @@ Réponse **200** :
 
 ### 6.13 Enregistrements : `GET /recordings/{kept_clip_id}/audio` et `/spectrogram`
 
-**Audio** :
+**Audio** — 🔒 session requise (§2.2 ; 401 `auth_required` sans session) :
 - 200 corps complet, `Content-Type` selon l'extension (`audio/wav` en S1 ; `audio/flac`,
   `audio/mpeg`, `audio/mp4`, `audio/ogg`), `Accept-Ranges: bytes`,
-  `Cache-Control: public, max-age=31536000, immutable` (le contenu d'un `kept_clip_id` ne change
+  `Cache-Control: private, max-age=31536000, immutable` (`private` : réponse soumise à session,
+  jamais mise en cache par un proxy partagé ; le contenu d'un `kept_clip_id` ne change
   jamais).
 - **Support `Range`** (`bytes=a-b`, `bytes=a-`, `bytes=-n`, une seule plage) → **206** avec
   `Content-Range: bytes a-b/total` ; plage invalide → **416 `range_not_satisfiable`** avec
@@ -1962,6 +2042,8 @@ Le frontend rafraîchit cette liste toutes les 5 s tant qu'une règle est en `pe
 
 ### 6.21 `PUT /sites/{slug}/species-rules/{scientific_name}`
 
+🔒 session requise (§2.2 : 401 `auth_required` sans session, 403 `origin_mismatch`).
+
 Crée ou remplace la règle (alias résolu vers le nom canonique).
 
 Corps :
@@ -1989,6 +2071,8 @@ Réponse **200** : `{"rule": <objet règle identique à un élément de GET §6.
 fraîchement créées en `pending`).
 
 ### 6.22 `DELETE /sites/{slug}/species-rules/{scientific_name}`
+
+🔒 session requise (§2.2 : 401 `auth_required` sans session, 403 `origin_mismatch`).
 
 Supprime la règle ; remet `redirected_to_scientific_name` à `NULL` pour l'espèce ; crée les commandes
 de retour à l'état « aucune règle » (§5.4). Règle absente → **404 `rule_not_found`**.
@@ -2037,6 +2121,8 @@ Tri : `level` décroissant, puis `scientific_name`.
 
 ### 6.24 `DELETE /sites/{slug}/dynamic-thresholds/{scientific_name}`
 
+🔒 session requise (§2.2 : 401 `auth_required` sans session, 403 `origin_mismatch`).
+
 Crée une commande `reset_dynamic_threshold` pour **chaque nœud du site dont le dernier instantané
 contient l'espèce**. Aucun → **404 `threshold_not_found`**. Réponse **202** :
 ```json
@@ -2045,6 +2131,8 @@ contient l'espèce**. Aucun → **404 `threshold_not_found`**. Réponse **202** 
 L'instantané affiché ne change qu'au heartbeat suivant (≤ 60 s après l'application).
 
 ### 6.25 `POST /sites/{slug}/reviews`
+
+🔒 session requise (§2.2 : 401 `auth_required` sans session, 403 `origin_mismatch`).
 
 Corps :
 ```json
@@ -2095,6 +2183,8 @@ Paramètres : `limit` (1-500, défaut 50), `offset`, `kind` (optionnel, `correct
 Réponse **200** : `{"reviews": [<objet review de §6.25>, …], "total": 12, "limit": 50, "offset": 0}`.
 
 ### 6.27 `POST /sites/{slug}/false-negatives`
+
+🔒 session requise (§2.2 : 401 `auth_required` sans session, 403 `origin_mismatch`).
 
 Signalement d'une espèce entendue par Armand mais non détectée (enregistrement serveur uniquement,
 **aucune** commande nœud).
@@ -2264,6 +2354,9 @@ Lu par `server/app/config.py` (pydantic-settings). Chemins relatifs résolus **p
 | `BIRDFRAME_DB_PATH` | non | `data/bird-frame.db` | base SQLite du serveur |
 | `BIRDFRAME_DATA_DIR` | non | `data` | contient `clips/<site_slug>/<Genre_espece>/<kept_clip_id>.<ext>` + `.png`, et `photos/<Genre_espece>/{320,1600}.jpg` |
 | `BIRDFRAME_ADMIN_TOKEN` | oui pour `/nodes/register` | vide | ≥ 32 caractères ; vide = routes admin refusées (401) |
+| `BIRDFRAME_ENV` | non | `dev` | `dev` \| `production` ; `production` refuse de démarrer sans les deux variables suivantes (§2.2) |
+| `BIRDFRAME_UI_PASSWORD_HASH` | oui en `production` | vide | hash du mot de passe de l'interface (`scripts/hash_password.py`) ; vide en `dev` = authentification désactivée |
+| `BIRDFRAME_SESSION_SECRET` | oui en `production` | vide | ≥ 32 caractères, signe les cookies de session ; le changer déconnecte tout le monde |
 | `BIRDFRAME_HOST` | non | `127.0.0.1` | interface d'écoute |
 | `BIRDFRAME_PORT` | non | `8090` | port |
 | `BIRDFRAME_CORS_ORIGINS` | non | `http://localhost:5173,http://127.0.0.1:5173` | liste séparée par des virgules |
@@ -2580,7 +2673,8 @@ serveur ; le reste du DDL est inchangé) :
    `/false-negatives`).
 10. **`session_id` live** = UUID v4 obligatoire (l'exemple `abcd1234` de l'architecture serait ignoré
     par BirdNET-Go).
-11. **Navigateur sans authentification en S1** (le login famille §10.4 est reporté).
+11. **Navigateur : un seul mot de passe, pas de comptes** (§2.2) — lecture libre, session requise
+    pour modifier et pour écouter les sons ; le login famille multi-comptes (§10.4) reste reporté.
 12. **Seuils dynamiques** : le navigateur désigne l'espèce par son nom scientifique ; le bridge
     retrouve la clé BirdNET-Go (nom commun en minuscules).
 
@@ -2589,7 +2683,6 @@ serveur ; le reste du DDL est inchangé) :
 - `POST /sites/{slug}/live/start`, `…/live/heartbeat`, `GET /sites/{slug}/live/hls/*`,
   `GET /sites/{slug}/live/audio-level` (WP-19) — seuls les **payloads de commandes** live sont figés
   ici (§5.3).
-- `POST /auth/login`, `POST /auth/logout` (session famille).
 - `POST /species/{name}/sheet/regenerate` (appel API Claude).
 - `GET /sites/{slug}/dynamic-thresholds/{species}/events` (historique ; exigerait un appel au nœud).
 - Rotation de secret, décommission d'un nœud, modification d'un site (admin).
@@ -2620,6 +2713,9 @@ export type MigrationStatut =
   | 'sédentaire' | 'migrateur partiel' | 'migrateur' | 'hivernant' | 'estivant' | 'de passage';
 
 export interface ApiError { error: string; message: string; details: unknown | null; }
+// Session navigateur (§2.2) : GET /auth/me, réponse de POST /auth/login et /auth/logout.
+export interface AuthStatus { authenticated: boolean; auth_enabled: boolean; }
+export interface LoginBody { password: string; }
 export interface Page { total: number; limit: number; offset: number; }
 
 // ---- Objets partagés --------------------------------------------------------
