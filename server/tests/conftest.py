@@ -29,6 +29,12 @@ def app_settings(tmp_path: Path) -> Settings:
         sox_path=SOX_PATH,
         max_upload_mb=25,
         auto_migrate=True,
+        # Explicites pour ne jamais dépendre d'un server/.env local : mode dev sans mot de
+        # passe = authentification navigateur désactivée (les tests d'auth construisent
+        # leur propre application, tests/test_browser_auth.py).
+        env="dev",
+        ui_password_hash="",
+        session_secret="",
     )
 
 

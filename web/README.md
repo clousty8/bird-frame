@@ -56,6 +56,7 @@ web/
 │   │   │   ├── types.ts            # types de réponses, repris tel quel du contrat §11
 │   │   │   └── client.ts           # une fonction par route navigateur + helper SSE
 │   │   ├── stores/
+│   │   │   ├── auth.svelte.ts      # session (GET /auth/me, modale, 401 → connexion → rejeu)
 │   │   │   ├── site.svelte.ts      # site courant (liste + sélection persistée)
 │   │   │   └── theme.svelte.ts     # thème clair/sombre/système
 │   │   ├── format.ts               # formatage partagé : formatNumber, pluralize/formatCount
@@ -68,7 +69,10 @@ web/
 │   │       │                       # voir NOTICE.md)
 │   │       ├── SiteSelector.svelte
 │   │       ├── ThemeToggle.svelte
-│   │       └── SpeciesPhoto.svelte # <img> avec repli silhouette + retry léger
+│   │       ├── SpeciesPhoto.svelte # <img> avec repli silhouette + retry léger
+│   │       ├── AuthButton.svelte   # « Se connecter » / « Se déconnecter » (en-tête)
+│   │       ├── LoginModal.svelte   # modale mot de passe (montée une fois par App.svelte)
+│   │       └── AuthRequiredNotice.svelte # « Connexion requise » + lien vers la modale
 │   └── routes/                     # UNE PAGE PAR ÉQUIPE — voir tableau ci-dessus
 │       ├── DashboardPage.svelte
 │       ├── SpeciesPage.svelte
@@ -101,6 +105,24 @@ appelé par `SiteSelector` au montage) et persiste le slug choisi dans `localSto
 (`bird-frame:selected-site`). Toute page qui a besoin du site courant lit
 `siteStore.selectedSlug` (ou `siteStore.selectedSite` pour l'objet complet) — ne pas
 relire `GET /sites` depuis une page.
+
+## Session (mot de passe pour modifier et écouter)
+
+Contrat §2.2 : lecture libre, session requise pour toute modification et pour écouter les
+enregistrements. `src/lib/stores/auth.svelte.ts` charge `GET /auth/me` au démarrage
+(`authStore.load()`, App.svelte) ; `authStore.unlocked` vaut `true` si l'authentification est
+désactivée (serveur de dev sans mot de passe) ou si une session est ouverte — tant que
+`/auth/me` n'a pas répondu, tout reste verrouillé.
+
+- Contrôle qui modifie, déconnecté : désactivé (un `<fieldset disabled>` suffit pour un
+  formulaire) + `<AuthRequiredNotice action="…" />` au-dessus (mention « Connexion requise » et
+  lien qui ouvre la modale).
+- Écoute : sans `unlocked`, ne jamais rendre d'`<audio>` (il préchargerait l'URL protégée) ;
+  `RecordingItem.svelte` affiche un cadenas « Connecte-toi pour écouter ».
+- Toute réponse 401 `auth_required` d'un appel du client ouvre la modale ; après connexion la
+  requête est rejouée une fois, sinon l'erreur remonte normalement à la page.
+- Tests : `src/test/setup.ts` met le store en « authentification désactivée » avant chaque test
+  (comme le serveur de dev) ; un test d'auth fixe l'état voulu avec `authStore._resetForTests(…)`.
 
 ## Client API
 

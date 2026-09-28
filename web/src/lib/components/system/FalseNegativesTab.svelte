@@ -3,6 +3,7 @@
   // Contrairement à un faux positif, BirdNET-Go n'a aucune notion de faux négatif — c'est
   // un enregistrement 100% côté serveur, sans commande vers un nœud (architecture.md §7.5).
   import { siteStore } from '../../stores/site.svelte';
+  import { authStore } from '../../stores/auth.svelte';
   import { getFalseNegatives, postFalseNegative, ApiRequestError } from '../../api/client';
   import type { FalseNegative, UniverseSpecies } from '../../api/types';
   import Badge from '../ui/Badge.svelte';
@@ -10,6 +11,7 @@
   import LoadingSpinner from '../ui/LoadingSpinner.svelte';
   import EmptyState from '../ui/EmptyState.svelte';
   import ErrorAlert from '../ui/ErrorAlert.svelte';
+  import AuthRequiredNotice from '../AuthRequiredNotice.svelte';
   import SpeciesSearchInput from './SpeciesSearchInput.svelte';
   import { formatInstant } from './format';
   import { formatCount } from '../../format';
@@ -108,64 +110,69 @@
   {#if !siteStore.selectedSlug}
     <EmptyState title="Aucun site sélectionné" description="Choisissez un site en haut de page pour signaler un faux négatif." />
   {:else}
-    <form class="space-y-3 max-w-xl" onsubmit={submitForm}>
-      <h2 class="text-lg font-semibold">J'ai entendu ou vu une espèce non détectée</h2>
+    <AuthRequiredNotice action="signaler une espèce non détectée" />
 
-      {#if formSpeciesName}
-        <SpeciesSearchInput
-          id="fn-species"
-          label="Espèce"
-          selectedScientificName={formSpeciesName}
-          selectedCommonName={formSpeciesCommon}
-          onSelect={selectFormSpecies}
-          onClear={() => {
-            formSpeciesName = null;
-            formSpeciesCommon = null;
-          }}
-        />
-      {:else}
-        <SpeciesSearchInput id="fn-species" label="Espèce" onSelect={selectFormSpecies} />
-        <div>
-          <label for="fn-species-freetext" class="block text-xs text-muted mb-1">
-            Introuvable dans la recherche ? Saisissez le nom scientifique directement :
-          </label>
-          <input
-            id="fn-species-freetext"
-            type="text"
-            class="input input-bordered w-full"
-            placeholder="ex. Strix aluco"
-            bind:value={formFreeTextSpecies}
+    <!-- Déconnecté (contrat §2.2) : le <fieldset disabled> désactive tout le formulaire. -->
+    <form class="max-w-xl" onsubmit={submitForm}>
+      <fieldset class="space-y-3 min-w-0" disabled={!authStore.unlocked}>
+        <h2 class="text-lg font-semibold">J'ai entendu ou vu une espèce non détectée</h2>
+
+        {#if formSpeciesName}
+          <SpeciesSearchInput
+            id="fn-species"
+            label="Espèce"
+            selectedScientificName={formSpeciesName}
+            selectedCommonName={formSpeciesCommon}
+            onSelect={selectFormSpecies}
+            onClear={() => {
+              formSpeciesName = null;
+              formSpeciesCommon = null;
+            }}
           />
+        {:else}
+          <SpeciesSearchInput id="fn-species" label="Espèce" onSelect={selectFormSpecies} />
+          <div>
+            <label for="fn-species-freetext" class="block text-xs text-muted mb-1">
+              Introuvable dans la recherche ? Saisissez le nom scientifique directement :
+            </label>
+            <input
+              id="fn-species-freetext"
+              type="text"
+              class="input input-bordered w-full"
+              placeholder="ex. Strix aluco"
+              bind:value={formFreeTextSpecies}
+            />
+          </div>
+        {/if}
+
+        <div>
+          <label for="fn-time" class="block text-sm font-medium mb-1">Heure approximative (optionnel)</label>
+          <input id="fn-time" type="datetime-local" class="input input-bordered" bind:value={formApproxTime} />
         </div>
-      {/if}
 
-      <div>
-        <label for="fn-time" class="block text-sm font-medium mb-1">Heure approximative (optionnel)</label>
-        <input id="fn-time" type="datetime-local" class="input input-bordered" bind:value={formApproxTime} />
-      </div>
+        <div>
+          <label for="fn-notes" class="block text-sm font-medium mb-1">Notes (optionnel)</label>
+          <textarea
+            id="fn-notes"
+            class="textarea textarea-bordered w-full"
+            rows="2"
+            maxlength="1000"
+            bind:value={formNotes}
+            placeholder="ex. Hulotte entendue vers 23 h 30"
+          ></textarea>
+        </div>
 
-      <div>
-        <label for="fn-notes" class="block text-sm font-medium mb-1">Notes (optionnel)</label>
-        <textarea
-          id="fn-notes"
-          class="textarea textarea-bordered w-full"
-          rows="2"
-          maxlength="1000"
-          bind:value={formNotes}
-          placeholder="ex. Hulotte entendue vers 23 h 30"
-        ></textarea>
-      </div>
+        {#if formError}
+          <ErrorAlert type="error" message={formError} />
+        {/if}
+        {#if formSuccess}
+          <p role="status" class="text-sm text-[var(--color-success)]">{formSuccess}</p>
+        {/if}
 
-      {#if formError}
-        <ErrorAlert type="error" message={formError} />
-      {/if}
-      {#if formSuccess}
-        <p role="status" class="text-sm text-[var(--color-success)]">{formSuccess}</p>
-      {/if}
-
-      <Button type="submit" variant="primary" disabled={formSubmitting}>
-        {formSubmitting ? 'Enregistrement…' : 'Signaler'}
-      </Button>
+        <Button type="submit" variant="primary" disabled={formSubmitting}>
+          {formSubmitting ? 'Enregistrement…' : 'Signaler'}
+        </Button>
+      </fieldset>
     </form>
 
     <div>

@@ -14,6 +14,7 @@ from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
 
 from app.api.common_lookups import get_site_or_404
+from app.browser_auth import require_browser_session
 from app.deps import get_db, get_species_data
 from app.errors import ApiError
 from app.ingest.canonical import aliases_for
@@ -101,7 +102,11 @@ def get_dynamic_thresholds(
     return {"site_slug": site.slug, "snapshot_at": snapshot_at, "thresholds": thresholds}
 
 
-@router.delete("/sites/{slug}/dynamic-thresholds/{scientific_name}", status_code=202)
+@router.delete(
+    "/sites/{slug}/dynamic-thresholds/{scientific_name}",
+    status_code=202,
+    dependencies=[Depends(require_browser_session)],
+)
 def reset_dynamic_threshold(
     slug: str,
     scientific_name: str,

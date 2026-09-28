@@ -4,6 +4,7 @@
 
 import type {
   ApiError,
+  AuthStatus,
   CalendarResponse,
   CommandsResponse,
   ConfidenceResponse,
@@ -69,6 +70,22 @@ interface RequestOptions {
   query?: Record<string, QueryValue>;
   /** Base alternative (ex. hors /api/v1, pour /health). Défaut : API_BASE. */
   base?: string;
+  /** Interne : requête déjà rejouée après connexion, ne pas redemander la connexion. */
+  isRetryAfterLogin?: boolean;
+}
+
+// ---- Session requise (contrat §2.2) -------------------------------------------
+// Toute réponse 401 `auth_required` (action protégée, session absente ou expirée) passe par
+// ce gestionnaire, installé par le store d'auth : il ouvre la modale de connexion et se
+// résout à `true` une fois connecté (la requête est alors rejouée une fois, de façon
+// transparente pour la page), à `false` si la modale est fermée (l'erreur 401 est alors
+// levée normalement et affichée par la page).
+export type AuthRequiredHandler = () => Promise<boolean>;
+
+let authRequiredHandler: AuthRequiredHandler | null = null;
+
+export function setAuthRequiredHandler(handler: AuthRequiredHandler | null): void {
+  authRequiredHandler = handler;
 }
 
 function buildQueryString(query: Record<string, QueryValue> | undefined): string {
@@ -96,6 +113,9 @@ async function apiFetch<T>(path: string, options: RequestOptions = {}): Promise<
       method: options.method ?? 'GET',
       headers: options.body !== undefined ? { 'Content-Type': 'application/json' } : undefined,
       body: options.body !== undefined ? JSON.stringify(options.body) : undefined,
+      // Cookie de session `bf_session` (même origine : proxy Vite en dev, build servi par
+      // le serveur en production).
+      credentials: 'same-origin',
     });
   } catch (networkError) {
     // Serveur injoignable, CORS, etc. : toujours remonté à l'appelant, jamais avalé.
@@ -128,6 +148,16 @@ async function apiFetch<T>(path: string, options: RequestOptions = {}): Promise<
 
   if (!response.ok) {
     const err = (payload ?? {}) as Partial<ApiError>;
+    if (
+      response.status === 401 &&
+      err.error === 'auth_required' &&
+      authRequiredHandler !== null &&
+      !options.isRetryAfterLogin
+    ) {
+      if (await authRequiredHandler()) {
+        return apiFetch<T>(path, { ...options, isRetryAfterLogin: true });
+      }
+    }
     throw new ApiRequestError(
       err.error ?? 'unknown_error',
       err.message ?? `Erreur HTTP ${response.status}.`,
@@ -144,6 +174,21 @@ async function apiFetch<T>(path: string, options: RequestOptions = {}): Promise<
 /** GET /health (hors /api/v1, contrat §1.12). */
 export function getHealth(): Promise<HealthResponse> {
   return apiFetch<HealthResponse>('/health', { base: '' });
+}
+
+// ---- Session navigateur (contrat §2.2) ------------------------------------------
+
+export function getAuthStatus(): Promise<AuthStatus> {
+  return apiFetch<AuthStatus>('/auth/me');
+}
+
+/** 401 `invalid_password`, 429 `too_many_attempts` (details.retry_after_s), 409 `auth_disabled`. */
+export function login(password: string): Promise<AuthStatus> {
+  return apiFetch<AuthStatus>('/auth/login', { method: 'POST', body: { password } });
+}
+
+export function logout(): Promise<AuthStatus> {
+  return apiFetch<AuthStatus>('/auth/logout', { method: 'POST' });
 }
 
 // ---- Sites et nœuds (contrat §6.2) --------------------------------------------
@@ -246,6 +291,7 @@ export function getSpeciesPresence(
 
 // ---- Enregistrements (contrat §6.13) -------------------------------------------
 
+/** 🔒 Session requise (contrat §2.2) : ne pas charger cette URL sans `authStore.unlocked`. */
 export function recordingAudioUrl(keptClipId: number): string {
   return `${API_BASE}/recordings/${keptClipId}/audio`;
 }
