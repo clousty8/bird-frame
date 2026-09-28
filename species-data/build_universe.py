@@ -6,6 +6,8 @@ france_universe dans base/*.json (sans toucher au reste des fiches de base).
 - cities : meilleur score par ville
 - monthlyScores : meilleur score par mois (toutes villes), 12 valeurs
 - months : mois où monthlyScores ≥ MONTH_THRESHOLD (0.05) — « passe le filtre de zone de façon non marginale »
+- cityMonthlyScores : score par ville et par mois (18 × 12), pour dire « à Pornic en septembre, c'est courant »
+Écrit aussi reference_cities.json (coordonnées des 18 villes de référence).
 Usage : python3 species-data/build_universe.py"""
 import json, urllib.request, http.cookiejar
 from pathlib import Path
@@ -26,9 +28,10 @@ for city, (lat, lon) in CITIES.items():
         req = urllib.request.Request(BASE + "/api/v2/range/species/test", data=json.dumps({"latitude": lat, "longitude": lon, "threshold": 0.01, "date": f"2026-{m:02d}-15"}).encode(),
                                      headers={"Content-Type": "application/json", "X-CSRF-Token": tok}, method="POST")
         for s in json.load(op.open(req))["species"]:
-            e = uni.setdefault(s["scientificName"], {"scientificName": s["scientificName"], "commonName": s["commonName"], "label": s["label"], "maxScore": 0, "cities": {}, "monthlyScores": [0.0] * 12})
+            e = uni.setdefault(s["scientificName"], {"scientificName": s["scientificName"], "commonName": s["commonName"], "label": s["label"], "maxScore": 0, "cities": {}, "monthlyScores": [0.0] * 12, "cityMonthlyScores": {}})
             e["maxScore"] = max(e["maxScore"], s["score"]); e["cities"][city] = max(e["cities"].get(city, 0), s["score"])
             e["monthlyScores"][m - 1] = max(e["monthlyScores"][m - 1], s["score"])
+            e["cityMonthlyScores"].setdefault(city, [0.0] * 12)[m - 1] = s["score"]
 # corrections de noms FR connues (dictionnaire du nœud incomplet)
 FIX = {"Acanthis cabaret": "Sizerin cabaret", "Accipiter gentilis": "Autour des palombes"}
 out = []
@@ -37,14 +40,17 @@ for e in sorted(uni.values(), key=lambda e: -e["maxScore"]):
     e["monthlyScores"] = [round(x, 4) for x in e["monthlyScores"]]
     e["months"] = [i + 1 for i, x in enumerate(e["monthlyScores"]) if x >= MONTH_THRESHOLD]
     e["maxScore"] = round(e["maxScore"], 4); e["cities"] = {k: round(v, 3) for k, v in e["cities"].items()}
+    e["cityMonthlyScores"] = {c: [round(x, 3) for x in (e["cityMonthlyScores"].get(c) or [0.0] * 12)] for c in CITIES}
     out.append(e)
 json.dump(out, open(HERE / "species_universe_fr.json", "w"), ensure_ascii=False, indent=1)
+json.dump({c: {"lat": lat, "lon": lon} for c, (lat, lon) in CITIES.items()}, open(HERE / "reference_cities.json", "w"), ensure_ascii=False, indent=1)
 updated = 0
 for e in out:
     p = HERE / "base" / (e["scientificName"].replace(" ", "_") + ".json")
     if not p.exists(): continue
     b = json.loads(p.read_text())
-    b["france_universe"] = {"max_score": e["maxScore"], "cities": e["cities"], "monthly_scores": e["monthlyScores"], "months": e["months"], "month_threshold": MONTH_THRESHOLD}
+    b["france_universe"] = {"max_score": e["maxScore"], "cities": e["cities"], "monthly_scores": e["monthlyScores"], "months": e["months"], "month_threshold": MONTH_THRESHOLD,
+                            "city_monthly_scores": e["cityMonthlyScores"]}
     p.write_text(json.dumps(b, ensure_ascii=False, indent=1)); updated += 1
 print(f"espèces : {len(out)} ; bases mises à jour : {updated}")
 for n in ("Apus apus", "Erithacus rubecula", "Gavia immer"):
