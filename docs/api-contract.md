@@ -1665,9 +1665,22 @@ Réponse **200** :
       "max_confidence": 0.99,
       "months": [0,0,0,0,0,0,0,0,412,0,0,0],
       "rule": null,
-      "redirect_to_scientific_name": null
+      "redirect_to_scientific_name": null,
+      "local_presence": {"site_slug": "pornic", "site_name": "Pornic", "…": "même bloc que local_presence_by_site.pornic"}
     }
-  ]
+  ],
+  "local_presence_by_site": {
+    "le-mans": null,
+    "pornic": {
+      "site_slug": "pornic",
+      "site_name": "Pornic",
+      "reference_city": {"name": "Pornic", "distance_km": 0.0},
+      "monthly_levels": ["tres_courant", "tres_courant", "tres_courant", "tres_courant", "tres_courant", "tres_courant",
+                         "tres_courant", "tres_courant", "tres_courant", "tres_courant", "tres_courant", "tres_courant"],
+      "current_month": 9,
+      "current_month_level": "tres_courant"
+    }
+  }
 }
 ```
 
@@ -1686,19 +1699,48 @@ Champs (tous toujours présents ; `null` quand la source manque) :
 | `summary_fr`, `habitat`, `diet`, `seasonality_fr`, `song_fr`, `rarity_note` | chaîne | oui | fiche rédactionnelle ; `null` si `has_sheet = false` (le frontend affiche alors `wikipedia.fr.extract`) |
 | `activity_pattern` | chaîne | oui | `diurne` \| `nocturne` \| `crépusculaire` \| `mixte` |
 | `migration` | objet | oui | `{statut, hiverne, niche, passage}` ; `statut` ∈ `sédentaire` \| `migrateur partiel` \| `migrateur` \| `hivernant` \| `estivant` \| `de passage` ; les trois textes nullables |
-| `lookalikes` | tableau | non | `[{scientific_name, common_name_fr, why_fr}]` ; `[]` sans fiche. `common_name_fr` est **re-résolu par le serveur** (§1.6), pas recopié de la fiche |
+| `lookalikes` | tableau | non | `[{scientific_name, common_name_fr, why_fr, has_page}]` ; `[]` sans fiche. `common_name_fr` est **re-résolu par le serveur** (§1.6), pas recopié de la fiche. `has_page` (booléen) = `GET /species/{scientific_name}` répondrait 200 (espèce connue de `species-data/`, alias compris, ou détectée) : le frontend n'en fait un lien que dans ce cas |
 | `fun_facts` | tableau de chaînes | non | `[]` sans fiche |
 | `france_universe` | objet | oui | `{max_score: flottant, cities: {ville: flottant}, months: entier[]}` (base, sinon univers brut arrondi, sinon `null`) ; `months` = mois 1-12 où l'espèce est plausible selon le modèle de zone BirdNET (repris tel quel) |
 | `sources` | tableau d'URLs | non | fiche ; `[]` sans fiche |
 | `generated_at` | instant | oui | fiche |
 | `generator_model` | chaîne | oui | fiche |
-| `reviewed_by_human` | booléen | non | fiche (`false` par défaut ou sans fiche) — le frontend affiche le badge « généré par IA, à vérifier » quand `has_sheet && !reviewed_by_human` |
+| `reviewed_by_human` | booléen | non | fiche (`false` par défaut ou sans fiche). Informatif : depuis la v0.2 le frontend n'affiche plus de badge « généré par IA » (demande d'Armand, 28/09/2026) |
 | `presence_by_site` | tableau | non | un élément par site ayant ≥ 1 détection valide **ou** une règle pour cette espèce ; tri `total` décroissant puis `site_slug` |
 | `presence_by_site[].total` | entier ≥ 0 | non | détections valides (vue par espèce) |
 | `presence_by_site[].first_seen_utc`, `last_seen_utc`, `max_confidence` | — | oui | `null` si `total = 0` |
 | `presence_by_site[].days_seen` | entier ≥ 0 | non | — |
 | `presence_by_site[].months` | 12 entiers | non | index 0 = janvier ; mois local, toutes années confondues |
 | `presence_by_site[].rule`, `redirect_to_scientific_name` | chaîne | oui | règle du site |
+| `presence_by_site[].local_presence` | `LocalPresence` | oui | le bloc `local_presence_by_site[site_slug]` (même objet, recopié pour commodité) |
+| `local_presence_by_site` | objet | non | **une clé par site existant** (slug, ordre alphabétique), **même sans détection ni règle** ; valeur = `LocalPresence` ou `null` si le site n'a pas de coordonnées (`lat`/`lon` nuls), si l'espèce n'a pas de scores mensuels par ville, ou si `reference_cities.json` est absent. `{}` s'il n'existe aucun site |
+
+**`LocalPresence`** — « peut-on croiser cette espèce sur ce site, mois par mois ? », d'après les
+observations naturalistes (`city_monthly_scores` de `species-data/`, §8.2 : probabilité 0-1
+d'observer l'espèce autour d'une ville de référence, pour chaque mois) :
+
+| Champ | Type | Null ? | Définition |
+|---|---|---|---|
+| `site_slug`, `site_name` | chaîne | non | site concerné |
+| `reference_city` | objet | non | `{name, distance_km}` : ville de `reference_cities.json` la plus proche des coordonnées du site (distance du grand cercle, km, 1 décimale ; égalité départagée par le nom), parmi celles qui ont une série pour l'espèce. Au-delà de **80 km**, le frontend précise « d'après les observations autour de <ville> » |
+| `monthly_levels` | 12 chaînes | non | index 0 = janvier ; niveau qualitatif du score du mois pour `reference_city` (seuils ci-dessous) |
+| `current_month` | entier 1-12 | non | mois courant dans le fuseau du site |
+| `current_month_level` | chaîne | non | `monthly_levels[current_month - 1]` |
+
+Seuils (bornes basses incluses) — `server/app/species_data/local_presence.py` :
+
+| Niveau | Score du mois | Libellé affiché |
+|---|---|---|
+| `tres_courant` | ≥ 0,50 | Très courant |
+| `courant` | ≥ 0,20 et < 0,50 | Courant |
+| `peu_frequent` | ≥ 0,05 et < 0,20 | Peu fréquent |
+| `rare` | ≥ 0,01 et < 0,05 | Rare |
+| `absent` | < 0,01 | Absent |
+
+Source des scores : `base.france_universe.city_monthly_scores`, sinon `cityMonthlyScores` de
+l'univers ; une série qui n'a pas exactement 12 nombres dans [0, 1] est ignorée. Aucun score brut
+n'est exposé ici : l'interface ne montre que des mots (section « Peut-on l'entendre à … ? » de la
+fiche espèce).
 
 ### 6.10 `GET /species/{scientific_name}/photo`
 
@@ -2417,7 +2459,8 @@ Le serveur journalise (WARNING, une fois par nom) toute espèce ingérée absent
 
 ```
 species-data/
-├── species_universe_fr.json      # 368 entrées {scientificName, commonName, label, maxScore, cities, months}
+├── species_universe_fr.json      # 368 entrées {scientificName, commonName, label, maxScore, cities, monthlyScores, months, cityMonthlyScores}
+├── reference_cities.json         # {ville: {lat, lon}} des 18 villes de référence (présence locale, §6.9)
 ├── aliases.json                  # §7.3
 ├── base/<Genre_espece>.json      # pré-remplissage déterministe (build_base.py), §8.2
 ├── sheets/<Genre_espece>.json    # fiche rédactionnelle (agents Haiku), §8.3
@@ -2477,7 +2520,7 @@ lit **en mode tolérant** : toute clé absente est traitée comme `null`.
 | `taxonomy` | objet | **oui** (`null` si le nœud n'a pas répondu : drapeau `sans-taxonomie` du script) | 8 chaînes ; `family_common` est en **anglais** |
 | `wikipedia.fr`, `wikipedia.en` | objet | non | chaque sous-champ `title`, `url`, `description`, `extract` peut être `null` (drapeau `sans-wiki-fr`) ; `fulltext_chars` entier ≥ 0 |
 | `photo` | objet | **oui** (`null` : drapeau `sans-photo`) | `source`, `url_original`, `width`, `height` toujours présents si `photo` non nul ; `file`, `url_1600`, `license`, `license_url`, `author`, `credit`, `description_url` **absents** si la requête Commons a échoué. Attention : `url_1600` pointe en pratique vers une vignette 1920 px (pas exactement 1600) |
-| `france_universe` | objet | non | `max_score` (4 décimales), `cities` (18 villes, 3 décimales), `months` (entiers 1-12) |
+| `france_universe` | objet | non | `max_score` (4 décimales), `cities` (18 villes, 3 décimales), `months` (entiers 1-12) ; depuis le 28/09/2026 aussi `monthly_scores` (12 flottants, max national par mois), `month_threshold` (0,05) et `city_monthly_scores` (`{ville: 12 flottants 0-1}`, 18 villes de `reference_cities.json`, 3 décimales) — source de `local_presence` (§6.9) |
 | `built_at` | instant | non | — |
 
 La base n'est **jamais** modifiée par les agents ni par le serveur.
@@ -2832,13 +2875,22 @@ export interface SpeciesPhoto {
   license: string | null; license_url: string | null; author: string | null;
   credit: string | null; description_url: string | null;
 }
-export interface Lookalike { scientific_name: string; common_name_fr: string | null; why_fr: string; }
+export interface Lookalike { scientific_name: string; common_name_fr: string | null; why_fr: string; has_page: boolean; }
 export interface FranceUniverse { max_score: number; cities: Record<string, number>; months: number[]; }
+export type PresenceLevel = 'tres_courant' | 'courant' | 'peu_frequent' | 'rare' | 'absent';
+export interface LocalPresence {
+  site_slug: string; site_name: string;
+  reference_city: { name: string; distance_km: number };
+  monthly_levels: PresenceLevel[]; /* 12 */
+  current_month: number; /* 1-12 */
+  current_month_level: PresenceLevel;
+}
 export interface PresenceBySite {
   site_slug: string; site_name: string; total: number;
   first_seen_utc: UtcInstant | null; last_seen_utc: UtcInstant | null;
   days_seen: number; max_confidence: number | null; months: number[]; /* 12 */
   rule: SpeciesRuleKind | null; redirect_to_scientific_name: string | null;
+  local_presence: LocalPresence | null;
 }
 export interface SpeciesDetail {
   scientific_name: string; aliases: string[]; common_name_fr: string | null;
@@ -2853,6 +2905,7 @@ export interface SpeciesDetail {
   france_universe: FranceUniverse | null; sources: string[];
   generated_at: UtcInstant | null; generator_model: string | null; reviewed_by_human: boolean;
   presence_by_site: PresenceBySite[];
+  local_presence_by_site: Record<string, LocalPresence | null>;
 }
 export interface TopClip {
   kept_clip_id: number; detection_id: number; detected_at_utc: UtcInstant; confidence: number;

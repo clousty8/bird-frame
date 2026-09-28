@@ -3,8 +3,8 @@
 import { describe, it, expect, afterEach } from 'vitest';
 import { render, screen, cleanup, within } from '@testing-library/svelte';
 import { buildSourceLinks, sourceKey } from '../src/lib/components/species/sources';
-import AboutSection from '../src/lib/components/species/AboutSection.svelte';
-import type { SpeciesDetail, WikiRef } from '../src/lib/api/types';
+import SourcesSection from '../src/lib/components/species/SourcesSection.svelte';
+import type { WikiRef } from '../src/lib/api/types';
 
 const WIKI_FR: WikiRef = {
   title: 'Rouge-gorge familier',
@@ -64,19 +64,13 @@ describe('buildSourceLinks', () => {
   });
 });
 
-describe('AboutSection — rendu des sources', () => {
+describe('SourcesSection — rendu des sources', () => {
   afterEach(() => cleanup());
 
   it("n'affiche plus les URLs brutes qui répètent Wikipédia", () => {
-    const detail = {
-      has_sheet: false,
-      summary_fr: null,
-      wikipedia: { fr: WIKI_FR, en: WIKI_EN },
-      sources: REAL_SOURCES,
-    } as unknown as SpeciesDetail;
-    render(AboutSection, { detail });
+    render(SourcesSection, { links: buildSourceLinks({ fr: WIKI_FR, en: WIKI_EN }, REAL_SOURCES) });
 
-    const list = screen.getByText('Sources').parentElement;
+    const list = screen.getByRole('heading', { name: 'Sources' }).parentElement;
     if (!list) throw new Error('bloc Sources introuvable');
     const links = within(list).getAllByRole('link');
     expect(links.map((link) => link.textContent)).toEqual(['Wikipédia (FR)', 'Wikipédia (EN)', 'oiseaux.net']);

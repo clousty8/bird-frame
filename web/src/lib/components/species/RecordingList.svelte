@@ -67,12 +67,12 @@
   }
 </script>
 
-<section class="flex flex-col gap-3">
-  <div class="flex flex-wrap items-center justify-between gap-2">
-    <h2 class="text-xl font-semibold">Meilleurs enregistrements</h2>
+<section id="enregistrements" class="wiki-section flex flex-col gap-3">
+  <div class="flex flex-wrap items-end justify-between gap-x-4 gap-y-2 wiki-h2-row">
+    <h2 class="wiki-h2 basis-full sm:basis-auto sm:flex-1">Meilleurs enregistrements</h2>
     {#if siteStore.sites.length > 1}
-      <label class="flex items-center gap-2 text-sm">
-        Site
+      <label class="flex items-center gap-2 text-sm pb-1">
+        Lieu
         <select class="select select-sm" value={siteSlug ?? ''} onchange={handleSiteChange} aria-label="Site des enregistrements">
           {#each siteStore.sites as site (site.slug)}
             <option value={site.slug}>{site.name}</option>

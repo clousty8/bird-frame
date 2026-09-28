@@ -3,11 +3,15 @@
   // toutes les espèces du jour, sans limite (scroll si besoin), grille espèce × 24 heures.
   // S'inspire visuellement de birdnet-go-ui/frontend/.../DailySummaryCard.svelte (lecture
   // seule, contrat de données différent : composant neuf, pas une copie, cf. docs/plan.md WP-05).
+  // v0.2 : chaque case non vide affiche son nombre de détections (comme BirdNET-Go), en plus
+  // du code couleur (5 paliers relatifs au maximum de l'espèce, couleurs de texte choisies
+  // pour un contraste ≥ 4,7:1 dans les deux thèmes, heatmap.ts). Tableau défilant à
+  // l'horizontale sur mobile, noms d'espèces figés à gauche.
+  import { tick } from 'svelte';
   import { getCalendar, ApiRequestError } from '../../api/client';
   import type { CalendarResponse } from '../../api/types';
   import { speciesDetailPath } from '../../router';
   import Card from '../ui/Card.svelte';
-  import Badge from '../ui/Badge.svelte';
   import Button from '../ui/Button.svelte';
   import LoadingSpinner from '../ui/LoadingSpinner.svelte';
   import ErrorAlert from '../ui/ErrorAlert.svelte';
@@ -15,6 +19,7 @@
   import SpeciesPhoto from '../SpeciesPhoto.svelte';
   import Link from '../../Link.svelte';
   import { formatCount } from '../../format';
+  import { firstActiveHour, heatLevel, HOURS } from './heatmap';
 
   interface Props {
     /** Slug du site courant (contrat §1.5). Changer de site recharge le calendrier. */
@@ -113,6 +118,27 @@
   function maxHourCount(hours: number[]): number {
     return Math.max(0, ...hours);
   }
+
+  // Sur petit écran la grille défile à l'horizontale : on l'amène d'emblée sur la première
+  // heure active à partir de 4 h (sinon on ne voit que la nuit, souvent vide ; les cris
+  // nocturnes restent accessibles en faisant défiler vers la gauche).
+  let scroller = $state<HTMLDivElement | null>(null);
+
+  $effect(() => {
+    const data = response;
+    const element = scroller;
+    if (!data || !element) return;
+    const hour = firstActiveHour(
+      data.species.map((row) => row.hours),
+      4
+    );
+    void tick().then(() => {
+      const target = element.querySelector<HTMLElement>(`th[data-hour="${Math.max(0, hour - 1)}"]`);
+      const sticky = element.querySelector<HTMLElement>('th.species-col');
+      if (!target || !sticky) return;
+      element.scrollLeft = Math.max(0, target.offsetLeft - sticky.offsetWidth);
+    });
+  });
 </script>
 
 <Card>
@@ -158,48 +184,199 @@
   {:else if !response || response.species.length === 0}
     <EmptyState title="Aucune détection ce jour-là" description="Aucune espèce détectée pour la date sélectionnée." />
   {:else}
-    <div class="max-h-[32rem] overflow-y-auto flex flex-col gap-2" aria-label="Activité par espèce et par heure">
-      {#each response.species as row (row.scientific_name)}
-        {@const peak = maxHourCount(row.hours)}
-        <!-- Mobile : nom + total sur une ligne, grille des 24 heures pleine largeur dessous
-             (à 360 px, côte à côte, chaque case faisait moins d'un pixel). -->
-        <div
-          class="flex flex-wrap sm:flex-nowrap items-center gap-x-3 gap-y-1.5 py-1.5 border-b border-[var(--border-100)] last:border-b-0"
-        >
-          <Link
-            to={speciesDetailPath(row.scientific_name)}
-            class="flex items-center gap-2 flex-1 sm:flex-none sm:w-48 sm:shrink-0 min-w-0 hover:opacity-80"
-          >
-            <SpeciesPhoto
-              src={row.photo_url}
-              alt={row.common_name_fr ?? row.scientific_name}
-              size={36}
-              class="w-9 h-9 rounded-md object-cover shrink-0"
-            />
-            <span class="min-w-0">
-              <span class="block text-sm font-medium truncate">{row.common_name_fr ?? row.scientific_name}</span>
-              <span class="block text-xs text-muted">
-                {row.total} · max {Math.round(row.max_confidence * 100)}%
-              </span>
-            </span>
-          </Link>
-
-          <div class="grid grid-cols-24 gap-0.5 order-last sm:order-none basis-full sm:basis-0 sm:flex-1 min-w-0">
-            {#each row.hours as count, hour (hour)}
-              {@const intensity = peak > 0 ? count / peak : 0}
-              <div
-                class="aspect-square rounded-sm"
-                style="background-color: {count === 0
-                  ? 'var(--color-base-200)'
-                  : `color-mix(in srgb, var(--color-primary) ${Math.round(10 + intensity * 90)}%, var(--color-base-200))`}"
-                title="{hour}h : {formatCount(count, 'détection')}"
-              ></div>
+    <!-- Tableau espèce × heure : défile dans les deux sens, en-tête des heures et colonne des
+         espèces figés. Chaque case non vide affiche son nombre de détections. -->
+    <div
+      class="calendar-scroll"
+      bind:this={scroller}
+      role="region"
+      aria-label="Activité par espèce et par heure"
+      tabindex="-1"
+    >
+      <table class="calendar-table">
+        <thead>
+          <tr>
+            <th scope="col" class="species-col corner"><span class="sr-only">Espèce</span></th>
+            {#each HOURS as hour (hour)}
+              <th scope="col" class="hour-head" data-hour={hour}><span class="sr-only">{hour} h</span><span aria-hidden="true">{hour}</span></th>
             {/each}
-          </div>
-
-          <Badge variant="neutral" size="sm" class="shrink-0" text={String(row.total)} />
-        </div>
-      {/each}
+          </tr>
+        </thead>
+        <tbody>
+          {#each response.species as row (row.scientific_name)}
+            {@const peak = maxHourCount(row.hours)}
+            <tr>
+              <th scope="row" class="species-col">
+                <Link to={speciesDetailPath(row.scientific_name)} class="species-link hover:opacity-80">
+                  <SpeciesPhoto
+                    src={row.photo_url}
+                    alt={row.common_name_fr ?? row.scientific_name}
+                    size={36}
+                    class="hidden sm:block w-8 h-8 rounded-md object-cover shrink-0"
+                  />
+                  <span class="min-w-0">
+                    <span class="species-name">{row.common_name_fr ?? row.scientific_name}</span>
+                    <span class="block text-xs text-muted font-normal">
+                      {row.total} · max {Math.round(row.max_confidence * 100)}%
+                    </span>
+                  </span>
+                </Link>
+              </th>
+              {#each row.hours as count, hour (hour)}
+                <td class="hour-cell heat-{heatLevel(count, peak)}" title="{hour}h : {formatCount(count, 'détection')}">
+                  {count > 0 ? count : ''}
+                </td>
+              {/each}
+            </tr>
+          {/each}
+        </tbody>
+      </table>
     </div>
   {/if}
 </Card>
+
+<style>
+  .calendar-scroll {
+    max-height: 32rem;
+    overflow: auto;
+    overscroll-behavior-x: contain;
+  }
+
+  .calendar-table {
+    width: 100%;
+    min-width: calc(7.25rem + 24 * 1.875rem);
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 2px;
+  }
+
+  @media (min-width: 640px) {
+    .calendar-table {
+      min-width: calc(13rem + 24 * 1.875rem);
+    }
+  }
+
+  /* Colonne des espèces figée à gauche, fond opaque (les cases défilent dessous). */
+  .species-col {
+    position: sticky;
+    left: 0;
+    z-index: 1;
+    width: 7.25rem;
+    padding: 0.25rem 0.5rem 0.25rem 0;
+    text-align: left;
+    font-weight: 500;
+    background-color: var(--color-base-100);
+  }
+
+  @media (min-width: 640px) {
+    .species-col {
+      width: 13rem;
+    }
+  }
+
+  thead th {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: var(--color-base-100);
+  }
+
+  thead .corner {
+    z-index: 2;
+  }
+
+  .hour-head {
+    padding: 0.125rem 0 0.25rem;
+    font-size: 0.6875rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+  }
+
+  :global(.species-link) {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    min-width: 0;
+  }
+
+  .species-name {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    overflow: hidden;
+    font-size: 0.8125rem;
+    line-height: 1.2;
+    overflow-wrap: anywhere;
+  }
+
+  @media (min-width: 640px) {
+    .species-name {
+      font-size: 0.875rem;
+    }
+  }
+
+  .hour-cell {
+    height: 2rem;
+    padding: 0;
+    border-radius: 0.1875rem;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 0.75rem;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    line-height: 1;
+  }
+
+  /* Paliers de couleur (relatifs au maximum horaire de l'espèce) et couleur du nombre :
+     contraste texte/fond ≥ 4,7:1 dans les deux thèmes (voir heatmap.ts). */
+  .heat-0 {
+    background-color: var(--color-base-200);
+  }
+  .heat-1 {
+    background-color: #e1e8f6;
+    color: #1f2937;
+  }
+  .heat-2 {
+    background-color: #c3d2f3;
+    color: #1f2937;
+  }
+  .heat-3 {
+    background-color: #a1baf2;
+    color: #1f2937;
+  }
+  .heat-4 {
+    background-color: #6f96ee;
+    color: #111827;
+  }
+  .heat-5 {
+    background-color: #2563eb;
+    color: #ffffff;
+  }
+
+  :global([data-theme='dark']) .heat-0 {
+    background-color: #020617;
+  }
+  :global([data-theme='dark']) .heat-1 {
+    background-color: #0a1a45;
+    color: #f1f5f9;
+  }
+  :global([data-theme='dark']) .heat-2 {
+    background-color: #0f2a66;
+    color: #f1f5f9;
+  }
+  :global([data-theme='dark']) .heat-3 {
+    background-color: #143786;
+    color: #f1f5f9;
+  }
+  :global([data-theme='dark']) .heat-4 {
+    background-color: #1c4ab8;
+    color: #f1f5f9;
+  }
+  :global([data-theme='dark']) .heat-5 {
+    background-color: #2563eb;
+    color: #f8fafc;
+  }
+</style>

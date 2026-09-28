@@ -1,6 +1,7 @@
 import { describe, it, expect, vi, afterEach } from 'vitest';
-import { render, screen, cleanup, fireEvent } from '@testing-library/svelte';
+import { render, screen, cleanup, fireEvent, within } from '@testing-library/svelte';
 import DailyActivityCalendar from '../src/lib/components/dashboard/DailyActivityCalendar.svelte';
+import { firstActiveHour, heatLevel } from '../src/lib/components/dashboard/heatmap';
 import * as client from '../src/lib/api/client';
 import { ApiRequestError } from '../src/lib/api/client';
 import type { CalendarResponse, CalendarSpecies } from '../src/lib/api/types';
@@ -49,6 +50,40 @@ describe('DailyActivityCalendar', () => {
     expect(await screen.findByText('Espèce 0')).toBeInTheDocument();
     // Aucune troncature à 30 espèces (contrat §6.5, cf. la limite native BirdNET-Go écartée).
     expect(screen.getByText('Espèce 34')).toBeInTheDocument();
+  });
+
+  it('affiche le nombre de détections dans chaque case horaire non vide, rien dans les cases vides', async () => {
+    vi.spyOn(client, 'getCalendar').mockResolvedValue(makeCalendar());
+
+    render(DailyActivityCalendar, { slug: 'pornic' });
+
+    const rowHeader = await screen.findByRole('rowheader', { name: /Rougegorge familier/ });
+    const row = rowHeader.closest('tr');
+    if (!row) throw new Error('ligne introuvable');
+    const cells = within(row).getAllByRole('cell');
+    expect(cells).toHaveLength(24);
+    expect(cells.map((cell) => cell.textContent?.trim())).toEqual(
+      makeSpecies().hours.map((count) => (count > 0 ? String(count) : ''))
+    );
+    // Le code couleur reste : le maximum de l'espèce (9 à 8 h) est au palier le plus foncé.
+    expect(cells[8]).toHaveClass('heat-5');
+    expect(cells[0]).toHaveClass('heat-0');
+    expect(cells[8]).toHaveAttribute('title', '8h : 9 détections');
+    // En-tête des heures 0 → 23.
+    expect(screen.getAllByRole('columnheader')).toHaveLength(25);
+  });
+
+  it('répartit les cases en 5 paliers relatifs au maximum de l’espèce', () => {
+    expect(heatLevel(0, 9)).toBe(0);
+    expect(heatLevel(1, 9)).toBe(1);
+    expect(heatLevel(2, 9)).toBe(2);
+    expect(heatLevel(9, 9)).toBe(5);
+    expect(heatLevel(3, 0)).toBe(0);
+    expect(firstActiveHour([[0, 0, 0, 2], [0, 5, 0, 0]])).toBe(1);
+    expect(firstActiveHour([])).toBe(0);
+    // Une chouette à 1 h ne fait pas démarrer la grille en pleine nuit.
+    expect(firstActiveHour([[0, 3, 0, 0, 0, 0, 2, 0], [0, 0, 0, 0, 0, 0, 0, 4]], 4)).toBe(6);
+    expect(firstActiveHour([[5, 0, 0, 0, 0, 0]], 4)).toBe(4);
   });
 
   it('affiche un état vide quand aucune détection ce jour-là', async () => {
