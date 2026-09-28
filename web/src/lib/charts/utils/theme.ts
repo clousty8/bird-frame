@@ -1,0 +1,415 @@
+// Adapté de BirdNET-Go (birdnet-go-ui, fork bird-frame, tag 20260823).
+// Licence d'origine : CC BY-NC-SA 4.0. Voir web/NOTICE.md.
+// Modifications : remplacement du logger interne BirdNET-Go ($lib/utils/logger, absent
+// ici) par un console.error direct — même convention que web/src/lib/components/ui/
+// ErrorAlert.svelte (toute erreur reste visible, jamais avalée). Le reste (lecture des
+// tokens CSS, ThemeStore, palette espèces) est repris tel quel.
+import { easeQuadInOut } from 'd3-ease';
+import type { Selection, BaseType } from 'd3-selection';
+import type { Transition } from 'd3-transition';
+
+/**
+ * Render context handed to chart components by BaseChart. Shared so the D3
+ * chart components do not each repeat the same inline context type literal.
+ */
+export interface ChartRenderContext {
+  svg: Selection<globalThis.SVGSVGElement, unknown, null, undefined>;
+  chartGroup: Selection<globalThis.SVGGElement, unknown, null, undefined>;
+  innerWidth: number;
+  innerHeight: number;
+  theme: ChartTheme;
+}
+
+export interface AxisTheme {
+  color: string;
+  fontSize: string;
+  fontFamily: string;
+  strokeWidth: number;
+  gridColor: string;
+}
+
+export interface ChartTheme {
+  background: string;
+  foreground: string;
+  muted: string;
+  accent: string;
+  primary: string;
+  secondary: string;
+  success: string;
+  warning: string;
+  error: string;
+  text: string;
+  grid: string;
+  axis: AxisTheme;
+  tooltip: {
+    background: string;
+    text: string;
+    border: string;
+  };
+}
+
+/**
+ * Get current theme by reading CSS custom properties via getComputedStyle.
+ * Adapts automatically to color scheme changes since the CSS variables
+ * are overridden by [data-scheme] and [data-theme] selectors.
+ */
+export function getCurrentTheme(): ChartTheme {
+  // SSR guard - return safe default theme when running server-side
+  if (typeof window === 'undefined' || typeof document === 'undefined') {
+    return getSSRFallbackTheme();
+  }
+
+  const styles = getComputedStyle(document.documentElement);
+  const get = (name: string, fallback: string) => styles.getPropertyValue(name).trim() || fallback;
+
+  const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+  const textColor = get('--color-base-content', isDark ? '#f1f5f9' : '#1f2937');
+  const gridColor = isDark ? 'rgba(255, 255, 255, 0.1)' : 'rgba(0, 0, 0, 0.1)';
+  const mutedColor = get('--text-muted', isDark ? '#e2e8f0' : '#475569');
+
+  return {
+    background: get('--color-base-100', isDark ? '#0f172a' : '#ffffff'),
+    foreground: textColor,
+    muted: mutedColor,
+    accent: get('--color-accent', '#0284c7'),
+    primary: get('--color-primary', '#2563eb'),
+    secondary: get('--color-secondary', '#4b5563'),
+    success: get('--color-success', '#22c55e'),
+    warning: get('--color-warning', '#f59e0b'),
+    error: get('--color-error', '#ef4444'),
+    text: textColor,
+    grid: gridColor,
+    axis: {
+      color: textColor,
+      fontSize: '12px',
+      fontFamily: "'Inter', system-ui, -apple-system, sans-serif",
+      strokeWidth: 1,
+      gridColor,
+    },
+    tooltip: {
+      background: isDark ? 'rgba(15, 23, 42, 0.95)' : 'rgba(255, 255, 255, 0.95)',
+      text: textColor,
+      border: isDark ? 'rgba(255, 255, 255, 0.2)' : 'rgba(0, 0, 0, 0.2)',
+    },
+  };
+}
+
+function getSSRFallbackTheme(): ChartTheme {
+  const textColor = 'rgba(55, 65, 81, 1)';
+  const gridColor = 'rgba(0, 0, 0, 0.1)';
+  return {
+    background: '#ffffff',
+    foreground: textColor,
+    muted: 'rgba(0, 0, 0, 0.6)',
+    accent: '#0284c7',
+    primary: '#2563eb',
+    secondary: '#4b5563',
+    success: '#22c55e',
+    warning: '#f59e0b',
+    error: '#ef4444',
+    text: textColor,
+    grid: gridColor,
+    axis: {
+      color: textColor,
+      fontSize: '12px',
+      fontFamily: "'Inter', system-ui, -apple-system, sans-serif",
+      strokeWidth: 1,
+      gridColor,
+    },
+    tooltip: {
+      background: 'rgba(255, 255, 255, 0.95)',
+      text: textColor,
+      border: 'rgba(0, 0, 0, 0.2)',
+    },
+  };
+}
+
+/**
+ * Create a reactive theme store for D3 charts
+ */
+export class ThemeStore {
+  private currentTheme: ChartTheme;
+  private readonly callbacks: Set<(theme: ChartTheme) => void> = new Set();
+  private observer: MutationObserver | null = null;
+  private mediaQuery: MediaQueryList | null = null;
+  private mediaQueryListener: (() => void) | null = null;
+
+  constructor() {
+    this.currentTheme = getCurrentTheme();
+    this.setupThemeObserver();
+  }
+
+  private setupThemeObserver(): void {
+    // Watch for theme changes on the document element
+    this.observer = new MutationObserver(mutations => {
+      mutations.forEach(mutation => {
+        if (
+          mutation.type === 'attributes' &&
+          (mutation.attributeName === 'data-theme' || mutation.attributeName === 'data-scheme')
+        ) {
+          this.updateTheme();
+        }
+      });
+    });
+
+    this.observer.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ['data-theme', 'data-scheme'],
+    });
+
+    // Also listen for CSS variable changes
+    this.mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+    this.mediaQueryListener = () => {
+      this.updateTheme();
+    };
+    this.mediaQuery.addEventListener('change', this.mediaQueryListener);
+  }
+
+  private updateTheme(): void {
+    // Schedule theme update for next paint to align with rendering
+    if (typeof globalThis.requestAnimationFrame !== 'undefined') {
+      globalThis.requestAnimationFrame(() => {
+        this.currentTheme = getCurrentTheme();
+        this.notifySubscribers();
+      });
+    } else {
+      // Fallback for environments without requestAnimationFrame
+      setTimeout(() => {
+        this.currentTheme = getCurrentTheme();
+        this.notifySubscribers();
+      }, 0);
+    }
+  }
+
+  /**
+   * Safely invoke all subscriber callbacks. Each callback is isolated
+   * so that a failing subscriber does not prevent others from running
+   * and does not surface as an unhandled exception.
+   */
+  private notifySubscribers(): void {
+    this.callbacks.forEach(callback => {
+      try {
+        callback(this.currentTheme);
+      } catch (error) {
+        // Ne jamais avaler l'erreur : journalisée pour rester visible en debug, sans
+        // interrompre les autres abonnés.
+        console.error('[bird-frame] Erreur dans un abonné ThemeStore (notifySubscribers)', error);
+      }
+    });
+  }
+
+  get theme(): ChartTheme {
+    return this.currentTheme;
+  }
+
+  subscribe(callback: (theme: ChartTheme) => void): () => void {
+    this.callbacks.add(callback);
+
+    // Return unsubscribe function
+    return () => {
+      this.callbacks.delete(callback);
+    };
+  }
+
+  destroy(): void {
+    if (this.observer) {
+      this.observer.disconnect();
+      this.observer = null;
+    }
+
+    if (this.mediaQuery && this.mediaQueryListener) {
+      this.mediaQuery.removeEventListener('change', this.mediaQueryListener);
+      this.mediaQuery = null;
+      this.mediaQueryListener = null;
+    }
+
+    this.callbacks.clear();
+  }
+}
+
+/**
+ * Calculate relative luminance of a color to determine if it's dark or light
+ */
+function getColorLuminance(color: string): number {
+  try {
+    let r = 0,
+      g = 0,
+      b = 0;
+
+    if (color.startsWith('#')) {
+      // Handle hex colors
+      const hex = color.slice(1);
+      if (hex.length === 3) {
+        // noUncheckedIndexedAccess : un caractère hexa isolé peut être `undefined` pour TS
+        // même si `hex.length === 3` le garantit à l'exécution — repli '0' sans incidence.
+        const c0 = hex[0] ?? '0';
+        const c1 = hex[1] ?? '0';
+        const c2 = hex[2] ?? '0';
+        r = parseInt(c0 + c0, 16);
+        g = parseInt(c1 + c1, 16);
+        b = parseInt(c2 + c2, 16);
+      } else if (hex.length === 6) {
+        r = parseInt(hex.slice(0, 2), 16);
+        g = parseInt(hex.slice(2, 4), 16);
+        b = parseInt(hex.slice(4, 6), 16);
+      }
+    } else if (color.startsWith('rgb(') || color.startsWith('rgba(')) {
+      const match = color.match(/rgba?\((\d+),\s*(\d+),\s*(\d+)(?:,\s*[\d.]+)?\)/);
+      if (match) {
+        r = parseInt(match[1] ?? '0', 10);
+        g = parseInt(match[2] ?? '0', 10);
+        b = parseInt(match[3] ?? '0', 10);
+      }
+    }
+
+    // Calculate relative luminance using sRGB coefficients
+    return (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+  } catch {
+    // Fallback: assume light mode if color parsing fails
+    return 0.6;
+  }
+}
+
+/**
+ * The ordered base species palette for the current theme (12 distinct hues).
+ * Extracted from generateSpeciesColors so callers that need a stable, indexable
+ * palette (e.g. a species->color identity map) can build on the same base
+ * colors rather than duplicating them.
+ */
+export function speciesPalette(theme: ChartTheme): string[] {
+  // Check if we're in dark mode using luminance calculation
+  const isDark = getColorLuminance(theme.background) < 0.5;
+
+  // Adjust base opacity based on theme
+  const baseOpacity = isDark ? 0.8 : 0.7;
+
+  // Use a more diverse color palette for better distinction between species
+  // These colors are carefully chosen to be distinguishable in both light and dark themes
+  return [
+    `rgba(59, 130, 246, ${baseOpacity})`, // Blue
+    `rgba(16, 185, 129, ${baseOpacity})`, // Green
+    `rgba(245, 158, 11, ${baseOpacity})`, // Orange
+    `rgba(236, 72, 153, ${baseOpacity})`, // Pink
+    `rgba(139, 92, 246, ${baseOpacity})`, // Purple
+    `rgba(239, 68, 68, ${baseOpacity})`, // Red
+    `rgba(20, 184, 166, ${baseOpacity})`, // Teal
+    `rgba(234, 179, 8, ${baseOpacity})`, // Yellow
+    `rgba(99, 102, 241, ${baseOpacity})`, // Indigo
+    `rgba(249, 115, 22, ${baseOpacity})`, // Orange-red
+    `rgba(168, 85, 247, ${baseOpacity})`, // Purple-pink
+    `rgba(34, 197, 94, ${baseOpacity})`, // Emerald
+  ];
+}
+
+/**
+ * Generate species color palette based on theme
+ * Using a curated palette for better visual distinction
+ */
+export function generateSpeciesColors(count: number, theme: ChartTheme): string[] {
+  // Check if we're in dark mode using luminance calculation (needed below for
+  // the overflow opacity variations, kept in sync with speciesPalette's own).
+  const isDark = getColorLuminance(theme.background) < 0.5;
+  const baseColors = speciesPalette(theme);
+
+  if (count <= baseColors.length) {
+    return baseColors.slice(0, count);
+  }
+
+  // Generate additional colors by modifying opacity
+  const colors = [...baseColors];
+  const opacityVariations = isDark ? [0.6, 0.4, 0.9] : [0.5, 0.3, 0.8];
+
+  while (colors.length < count) {
+    for (let i = 0; i < baseColors.length && colors.length < count; i++) {
+      const variationIndex =
+        Math.floor((colors.length - baseColors.length) / baseColors.length) %
+        opacityVariations.length;
+      const opacity = opacityVariations[variationIndex] ?? 0.5;
+
+      // Extract rgba values and apply new opacity
+      const baseColor = baseColors[i];
+      const rgbaMatch = baseColor?.match(/rgba\((\d+),\s*(\d+),\s*(\d+),\s*[\d.]+\)/);
+
+      if (rgbaMatch) {
+        const [, r, g, b] = rgbaMatch;
+        colors.push(`rgba(${r}, ${g}, ${b}, ${opacity})`);
+      }
+    }
+  }
+
+  return colors.slice(0, count);
+}
+
+/**
+ * Get contrast color for text on colored backgrounds
+ */
+export function getContrastColor(backgroundColor: string): string {
+  let r = 0,
+    g = 0,
+    b = 0;
+
+  try {
+    // Detect and parse different color formats
+    const color = backgroundColor.trim();
+
+    if (color.startsWith('#')) {
+      // Handle hex colors (#RGB, #RRGGBB)
+      const hex = color.slice(1);
+
+      if (hex.length === 3) {
+        // Shorthand hex (#RGB -> #RRGGBB). noUncheckedIndexedAccess : repli '0' sans
+        // incidence, `hex.length === 3` garantit ces index à l'exécution.
+        const c0 = hex[0] ?? '0';
+        const c1 = hex[1] ?? '0';
+        const c2 = hex[2] ?? '0';
+        r = parseInt(c0 + c0, 16);
+        g = parseInt(c1 + c1, 16);
+        b = parseInt(c2 + c2, 16);
+      } else if (hex.length === 6) {
+        // Full hex (#RRGGBB)
+        r = parseInt(hex.slice(0, 2), 16);
+        g = parseInt(hex.slice(2, 4), 16);
+        b = parseInt(hex.slice(4, 6), 16);
+      } else {
+        throw new Error('Invalid hex format');
+      }
+    } else if (color.startsWith('rgb(') || color.startsWith('rgba(')) {
+      // Handle rgb() and rgba() formats
+      const match = color.match(/rgba?\((\d+),\s*(\d+),\s*(\d+)(?:,\s*[\d.]+)?\)/);
+
+      if (match) {
+        r = parseInt(match[1] ?? '0', 10);
+        g = parseInt(match[2] ?? '0', 10);
+        b = parseInt(match[3] ?? '0', 10);
+        // Note: We ignore alpha channel for luminance calculation
+      } else {
+        throw new Error('Invalid rgb/rgba format');
+      }
+    } else {
+      throw new Error('Unrecognized color format');
+    }
+
+    // Validate RGB values are in range
+    if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) {
+      throw new Error('RGB values out of range');
+    }
+
+    // Calculate relative luminance using sRGB coefficients
+    const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+
+    return luminance > 0.5 ? '#000000' : '#ffffff';
+  } catch {
+    // Safe fallback for unrecognized or invalid formats
+    return '#000000';
+  }
+}
+
+/**
+ * Apply theme transitions to chart elements
+ */
+export function applyThemeTransition(
+  selection: Selection<BaseType, unknown, BaseType, unknown>,
+  duration = 300
+): Transition<BaseType, unknown, BaseType, unknown> {
+  return selection.transition().duration(duration).ease(easeQuadInOut);
+}

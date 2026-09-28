@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Iduna pallida",
+ "summary_fr": "L'Hypolaïs pâle est un petit passereau discret de la famille des Acrocephalidae, proche parent du Phragmite des joncs. De couleur très pâle, il habite les milieux secs et ouverts d'Europe du Sud-Est et du Moyen-Orient. Plus petit et plus terne que certains de ses cousins, il possède un plumage brun pâle et des dessous blanchâtres, avec un bec fin et pointu particulièrement adapté à la chasse aux petits insectes. Caractérisé par un mouvement très distinctif de la queue vers le bas, il est aussi reconnaissable à son chant rapide et nasal, riche de babillage caractéristique. En France, c'est un migrateur extrêmement rare, présent principalement en migration vers l'Afrique du Nord et particulièrement sur le pourtour méditerranéen en été, jamais signalé en région nordique.",
+ "habitat": "Zones ouvertes et sèches avec buissons ou arbustes, terrains cultivés, zones semi-désertiques. Évite les milieux fermés ou densément boisés.",
+ "diet": "Insectivore strict, se nourrissant d'insectes divers, petits arthropodes et araignées.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Afrique du Nord ou Arabie, au sud du Sahara.",
+  "niche": "Ne niche pas en France ; reproduction en Europe du Sud-Est, Moyen-Orient et Asie occidentale.",
+  "passage": "Passages migratoires en mai-juillet vers l'Afrique du Nord, exceptionnellement en octobre-novembre."
+ },
+ "seasonality_fr": "Visible uniquement en période de migration, principalement de mai à juillet, exceptionnellement en automne. Extrêmement rare et localisée à quelques points en France.",
+ "song_fr": "Chant rapide et nasal avec babillage caractéristique. Difficile à différencier des autres hypolaïs en conditions de terrain. Cris peu connus.",
+ "lookalikes": [
+  {
+   "scientific_name": "Acrocephalus scirpaceus",
+   "common_name_fr": "Phragmite des joncs",
+   "why_fr": "Même habitat en migration, plumage terne, chant bruyant et nasal qui peut se confondre."
+  },
+  {
+   "scientific_name": "Acrocephalus palustris",
+   "common_name_fr": "Phragmite des marais",
+   "why_fr": "Silhouette et teinte de plumage proches, chant gazouillant de tessiture similaire."
+  }
+ ],
+ "rarity_note": "Exceptionnelle en France, détectée uniquement en migration en région méditerranéenne. Très rare au nord de la Loire, pratiquement jamais signalée.",
+ "fun_facts": [
+  "Son nom spécifique pallida signifie « pâle » en latin, reflétant sa teinte très atténuée comparée à ses cousins.",
+  "Le mouvement distinctif de sa queue vers le bas pourrait servir de signal social ou de marquage territorial lors de son passage.",
+  "Elle est parfois confondue avec l'Hypolaïs ictérine du fait d'une distribution qui s'étend jusqu'aux zones de chevauchement en migration."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Hypola%C3%AFs_p%C3%A2le",
+  "https://en.wikipedia.org/wiki/Eastern_olivaceous_warbler"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

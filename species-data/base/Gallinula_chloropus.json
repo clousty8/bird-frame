@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Gallinula chloropus",
+ "common_name_fr": "Gallinule poule-d'eau",
+ "birdnet_label": "Gallinula chloropus_Gallinule poule-d'eau",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Gruiformes",
+  "family": "Rallidae",
+  "family_common": "Rails, Gallinules, and Coots",
+  "genus": "Gallinula",
+  "species": "Gallinula chloropus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Gallinule poule-d'eau",
+   "url": "https://fr.wikipedia.org/wiki/Gallinule_poule-d'eau",
+   "description": "espèce d'oiseaux aquatiques",
+   "extract": "La Gallinule poule-d'eau ou plus simplement Poule d'eau, est une espèce d'oiseaux de la famille des Rallidae. Comme ces derniers, la poule d’eau est capable de voler. Elle est très fréquente dans les étangs et les mares, ainsi que dans les cours d'eau où la végétation est suffisamment dense.",
+   "fulltext_chars": 6552
+  },
+  "en": {
+   "title": "Common moorhen",
+   "url": "https://en.wikipedia.org/wiki/Common_moorhen",
+   "description": "Species of bird",
+   "extract": "The common moorhen, also known as the waterhen, is a bird species in the rail family (Rallidae). It is distributed across many parts of the Old World, across Africa, Europe, and Asia. It lives around well-vegetated marshes, ponds, canals and other wetlands. The species is not found in the polar regions or many tropical rainforests; generally it is one of the most common Old World rail species, together with the Eurasian coot in some regions.",
+   "fulltext_chars": 9354
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Common_moorhen_%28Gallinula_chloropus%29_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5182,
+  "height": 3648,
+  "file": "Common_moorhen_(Gallinula_chloropus)_France.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Common_moorhen_%28Gallinula_chloropus%29_France.jpg/1920px-Common_moorhen_%28Gallinula_chloropus%29_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Alexis Lours",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Common_moorhen_(Gallinula_chloropus)_France.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.6348,
+  "cities": {
+   "Le Mans": 0.52,
+   "Pornic": 0.455,
+   "Rennes": 0.502,
+   "Poitiers": 0.449,
+   "Paris": 0.576,
+   "Lille": 0.635,
+   "Strasbourg": 0.35,
+   "Lyon": 0.366,
+   "Grenoble": 0.381,
+   "Marseille": 0.452,
+   "Toulouse": 0.397,
+   "Bordeaux": 0.37,
+   "Brest": 0.419,
+   "Ajaccio": 0.615,
+   "Clermont-Ferrand": 0.367,
+   "Chamonix": 0.343,
+   "Perpignan": 0.441,
+   "Nancy": 0.428
+  },
+  "monthly_scores": [
+   0.6149,
+   0.577,
+   0.5425,
+   0.5865,
+   0.503,
+   0.5038,
+   0.5422,
+   0.6348,
+   0.6271,
+   0.5818,
+   0.6002,
+   0.6153
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:00Z"
+}

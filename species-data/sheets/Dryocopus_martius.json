@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Dryocopus martius",
+ "summary_fr": "Le Pic noir est le plus grand pic d'Europe, impressionnant par sa taille approchant 55 cm et son plumage entièrement noir ponctué d'une calotte rouge. C'est un forestier spécialisé dans la chasse aux insectes xylophages qu'il extrait par de puissants coups de bec du bois mort ou vivant. Son tambourinage sonore et ses cris perçants « pi-uuuuu » retentissent dans les vieilles forêts de feuillus et conifères de montagne comme de plaine. Oiseau sédentaire et territorial, il niche haut dans les arbres en creusant des cavités impressionnantes dont profitent ensuite chouettes, mésanges et autres espèces : c'est une sorte de maître d'œuvre des forêts. En France, sa répartition s'est étendue vers les régions atlantiques depuis les années 1960, bien que les causes exactes de cette expansion demeurent mystérieuses. La protection totale dont il bénéficie témoigne de l'importance écologique de cette espèce remarquable.",
+ "habitat": "Forêts matures de montagne et de plaine, hêtraies et forêts de conifères, sapinières denses. Niche dans des arbres sains à 5-20 m de hauteur, jusqu'à 2100 m d'altitude.",
+ "diet": "Insectes xylophages (foreurs du bois), larves de coléoptères, fourmis charpentières. Complète avec fourmis, graines, fruits et sève en période de disette.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "En France ; les populations nichées restent sur leurs territoires toute l'année.",
+  "niche": "Dans toute la France, d'avril à juin, nidification unique par an (3-4 œufs blancs, incubation 12 jours).",
+  "passage": null
+ },
+ "seasonality_fr": "Audible et visible toute l'année ; son tambourinage caractéristique augmente en intensité d'février à juin pendant la saison de reproduction.",
+ "song_fr": "Cris et vocalisations : « pi-uuuuu » sonore, long et plaintif ; « kli-uu » sifflé ; « krukrukrukru » puissant en vol. Tambourinage très intense et distinctif (20-30 coups de bec/seconde).",
+ "lookalikes": [
+  {
+   "scientific_name": "Dendrocopos major",
+   "common_name_fr": "Pic épeiche",
+   "why_fr": "Tambourinage rapide comparable ; cependant bien plus petit, moins puissant."
+  },
+  {
+   "scientific_name": "Picus viridis",
+   "common_name_fr": "Pic vert",
+   "why_fr": "Cris plaintifs et tambourinage similaire en structure, mais Pic noir bien plus massif et son plumage noir différencie."
+  },
+  {
+   "scientific_name": "Dendrocopos medius",
+   "common_name_fr": "Pic mar",
+   "why_fr": "Battement rapide et cris évoquant le Pic noir, mais nettement plus petit et moins puissant."
+  }
+ ],
+ "rarity_note": "Régulièrement présent en France, mais inégalement distribué selon les régions. Commun en montagne (Alpes, Pyrenées, Massif Central), plus localisé en plaine atlantique. Protégé intégralement.",
+ "fun_facts": [
+  "Les cavités creusées par le Pic noir servent de maison à au moins 20 autres espèces d'oiseaux, mammifères et même hyménoptères : c'est une « clé de voûte » écologique.",
+  "Son apparence en contes de fées européens : ses yeux jaunes perçants et ses cris perçants en font le « méchant » traditionnel des légendes.",
+  "Une espérance de vie d'environ 12 ans permet à un même couple de creuser jusqu'à 15-20 cavités différentes au cours de sa vie."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pic_noir",
+  "https://en.wikipedia.org/wiki/Black_woodpecker",
+  "https://oiseaux.net/oiseaux/dryocopus.martius.html",
+  "https://www.lpo.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

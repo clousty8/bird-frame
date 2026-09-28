@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Erithacus rubecula",
+ "common_name_fr": "Rougegorge familier",
+ "birdnet_label": "Erithacus rubecula_Rougegorge familier",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Muscicapidae",
+  "family_common": "Old World Flycatchers",
+  "genus": "Erithacus",
+  "species": "Erithacus rubecula"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Rouge-gorge familier",
+   "url": "https://fr.wikipedia.org/wiki/Rouge-gorge_familier",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Rouge-gorge familier est une espèce de passereaux. Auparavant placé dans la famille des Turdidae, il figure actuellement, avec d'autres représentants de celle-ci, dans celle des Muscicapidae. La liste de la Commission de l'Avifaune française utilise l'orthographe rougegorge.",
+   "fulltext_chars": 17068
+  },
+  "en": {
+   "title": "European robin",
+   "url": "https://en.wikipedia.org/wiki/European_robin",
+   "description": "Species of bird",
+   "extract": "The European robin, known simply as the robin or robin redbreast in the British Isles, is a small insectivorous passerine bird belonging to the Old World flycatcher family Muscicapidae. It is found across Europe, as far east as Western Siberia, and as far south as North Africa. It is sedentary in the west and south of its range, and migratory in the north and east of its range where winters are harsher.",
+   "fulltext_chars": 18314
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/030_European_robin_in_the_Camargue_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3564,
+  "height": 2376,
+  "file": "030_European_robin_in_the_Camargue_Photo_by_Giles_Laurent.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/030_European_robin_in_the_Camargue_Photo_by_Giles_Laurent.jpg/1920px-030_European_robin_in_the_Camargue_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Giles Laurent",
+  "credit": "Own work, from gileslaurent.com",
+  "description_url": "https://commons.wikimedia.org/wiki/File:030_European_robin_in_the_Camargue_Photo_by_Giles_Laurent.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9939,
+  "cities": {
+   "Le Mans": 0.99,
+   "Pornic": 0.992,
+   "Rennes": 0.993,
+   "Poitiers": 0.987,
+   "Paris": 0.981,
+   "Lille": 0.979,
+   "Strasbourg": 0.931,
+   "Lyon": 0.965,
+   "Grenoble": 0.961,
+   "Marseille": 0.976,
+   "Toulouse": 0.986,
+   "Bordeaux": 0.986,
+   "Brest": 0.994,
+   "Ajaccio": 0.985,
+   "Clermont-Ferrand": 0.974,
+   "Chamonix": 0.939,
+   "Perpignan": 0.985,
+   "Nancy": 0.953
+  },
+  "monthly_scores": [
+   0.9937,
+   0.9918,
+   0.9876,
+   0.9781,
+   0.9345,
+   0.9045,
+   0.8926,
+   0.8946,
+   0.965,
+   0.9925,
+   0.9939,
+   0.9938
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:13Z"
+}

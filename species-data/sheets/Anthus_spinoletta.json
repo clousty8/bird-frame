@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "scientific_name": "Anthus spinoletta",
+  "summary_fr": "Le Pipit spioncelle est un petit passereau montagnard remarquable par son adaptation à l'altitude et ses mœurs hivernales singulières. Oiseau des pâturages alpins d'Europe et d'Asie, il affectionne les zones herbeuses proches de l'eau à haute montagne, jusqu'à 3000 mètres. C'est un migrateur partiel qui abandonne les sommets en automne pour descendre en plaine ou sur les côtes humides, tandis que d'autres populations hivernent sur les étendues marécageuses du sud de l'Europe et du Maghreb. Doté d'un tempérament très farouche contrairement à ses cousins, le Pipit spioncelle est discret et méfiant. Il se nourrit principalement de petits invertébrés capturés au sol, complétés de graines en hiver. Son chant caractéristique s'émet d'un perchoir ou en vol ondulant, constitué de blocs de notes répétitives entrelacées.",
+  "habitat": "Pâturages alpins et prairies d'altitude avec herbe courte, zones herbeuses humides et rocheuses en montagne ; en hiver, zones marécageuses côtières, champs cultivés et prés bas.",
+  "diet": "Petits invertébrés : coléoptères, sauterelles, grillons, mouches, araignées, escargots et millipèdes ; petites graines et matière végétale en hiver.",
+  "activity_pattern": "diurne",
+  "migration": {
+    "statut": "migrateur partiel",
+    "hiverne": "Plaines et côtes humides d'Europe occidentale et méridionale, Afrique du Nord et Moyen-Orient selon la sous-espèce ; certains individus restent en montagne jusqu'à 2000 m.",
+    "niche": "Pâturages d'altitude et prairies alpines d'Europe du Sud et d'Asie, entre 1400 et 2500 m ; reproduction d'avril à juillet.",
+    "passage": "Mouvements automnaux de mi-septembre à fin octobre vers les zones basses ; retours printaniers de février à mai."
+  },
+  "seasonality_fr": "Présent toute l'année en France, plus abondant en montagne lors de la reproduction. Mouvements altitudinaux marqués en automne et printemps. Visible surtout en zone côtière en hiver.",
+  "song_fr": "Chant mélodique émis d'un perchoir ou en vol ondulant, constitué de 4 à 5 blocs de notes répétitives et courtes. Cri d'alarme : « dzip » sec et aigu, distinct du cri du Pipit farlouse.",
+  "lookalikes": [
+    {
+      "scientific_name": "Anthus campestris",
+      "common_name_fr": "Pipit rousseline",
+      "why_fr": "Plumage pâle similaire, chant aussi en blocs répétitifs, mais plus sec ; habitat différent (arides, rocailles)."
+    },
+    {
+      "scientific_name": "Anthus petrosus",
+      "common_name_fr": "Pipit farlouse",
+      "why_fr": "Hiver surtout : poitrine rayée proche, mais cri plus doux « sip sip » et habitat côtier préféré différent en breeding."
+    },
+    {
+      "scientific_name": "Motacilla alba",
+      "common_name_fr": "Bergeronnette grise",
+      "why_fr": "Même famille (Motacillidae), allure similaire, mais plus grande, chant très différent, habitat moins montagnard."
+    }
+  ],
+  "rarity_note": "Irrégulier et peu commun en France métropolitaine (score max 0,30). Très rare côte atlantique, plus probable en montagne (Alpes, Pyrénées) et Méditerranée. Rarement détecté en plaine.",
+  "fun_facts": [
+    "Oiseau extrêmement farouche et méfiant, s'envolant loin si approché, contrairement au Pipit farlouse plus tolérant.",
+    "Se nourrit au sol en fourrageant seul ou en couples, parfois près des terriers de marmottes en hiver où il trouve refuge.",
+    "Trois sous-espèces distinctes d'Europe aux montagnes d'Asie centrale, nichant rarement sous 1400 m d'altitude."
+  ],
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Pipit_spioncelle",
+    "https://en.wikipedia.org/wiki/Water_pipit",
+    "https://www.oiseaux.net/oiseaux/pipit.spioncelle.html",
+    "https://inpn.mnhn.fr/",
+    "https://www.lpo.fr/"
+  ],
+  "generated_at": "2026-09-27T17:00:00Z",
+  "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Falco columbarius",
+ "summary_fr": "Le Faucon émerillon est un petit rapace diurne, compact et très actif, qui traque ses proies en volant à faible hauteur dans les milieux ouverts. Prédateur aérien habile et rapide, il se spécialise dans la capture de petits oiseaux en vol, du moineau à la tourterelle. En France, c'est un migrateur régulier qui passe lors des migrations prénuptiales et postnuptiales. Très territorial, il défend farouchement son espace et se montre agressif envers les rapaces plus grands, jusqu'à les poursuivre activement pour les chasser. Avec un dimorphisme sexuel marqué (les femelles sont nettement plus grandes), il peut ajuster la taille de ses proies selon le sexe du chasseur, permettant au couple de partager efficacement les ressources. Bien que rare en France, où il ne niche pas, son arrivée saisonnière et ses performances de vol en font une observation remarquable pour les amateurs d'oiseaux de proie.",
+ "habitat": "Milieux ouverts : landes, marais, prairies, plaines agricoles, estuaires et côtes basses.",
+ "diet": "Petits oiseaux capturés en vol (moineaux, alouettes, pinsons, linots) ; insectes volants comme les libellules, et petits mammifères (musaraignes, campagnols, petits rongeurs).",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Régions côtières méditerranéennes et Afrique du Nord ; hiverne rarement dans le sud-est français.",
+  "niche": "Ne niche pas en France ; son aire de reproduction s'étend de la Scandinavie à la Sibérie centrale.",
+  "passage": "Mars-avril au printemps, août-octobre à l'automne, avec des pics en septembre."
+ },
+ "seasonality_fr": "Visible surtout pendant les migrations, principalement en septembre-octobre et mars-avril. Absent ou très rare en été et hiver sur le territoire français.",
+ "song_fr": "Cris d'alarme aigus et répétés « kik-kik-kik » lors de la défense territoriale ; vol rapide et silencieux caractéristique des petits faucons.",
+ "lookalikes": [
+  {
+   "scientific_name": "Falco subbuteo",
+   "common_name_fr": "Faucon hobereau",
+   "why_fr": "Aussi un faucon chasseur d'oiseaux rapides, mais nettement plus grand et avec des cris différents."
+  },
+  {
+   "scientific_name": "Accipiter nisus",
+   "common_name_fr": "Épervier d'Europe",
+   "why_fr": "Chasseur de petits oiseaux similaire, mais silhouette trapue différente et cri moins aigu."
+  }
+ ],
+ "rarity_note": "Rare en France, visiteur saisonnier régulier mais localisé. Détections plus fréquentes sur les côtes et zones littorales du nord et ouest.",
+ "fun_facts": [
+  "Le Faucon émerillon attrape près d'une proie sur deux en attaque, performant même dans des conditions adverses.",
+  "Agressif territorial, il chasse même les rapaces bien plus grands que lui, jusqu'aux Aigles royaux, pour défendre son espace.",
+  "En falconerie médiévale, il était « le faucon pour une dame » réputé pour ses poursuites acrobatiques spectaculaires."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Faucon_%C3%A9merillon",
+  "https://en.wikipedia.org/wiki/Merlin_(bird)",
+  "https://www.oiseaux.net/faucons.html",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

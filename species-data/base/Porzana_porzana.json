@@ -1,0 +1,75 @@
+{
+ "scientific_name": "Porzana porzana",
+ "common_name_fr": "Marouette ponctuée",
+ "birdnet_label": "Porzana porzana_Marouette ponctuée",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Gruiformes",
+  "family": "Rallidae",
+  "family_common": "Rails, Gallinules, and Coots",
+  "genus": "Porzana",
+  "species": "Porzana porzana"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Marouette ponctuée",
+   "url": "https://fr.wikipedia.org/wiki/Marouette_ponctu%C3%A9e",
+   "description": "espèce d'oiseaux",
+   "extract": "La Marouette ponctuée est une espèce d'oiseaux de la famille des Rallidae. Selon la classification de référence du Congrès ornithologique international (version 15.1, 2025), c'est une espèce monotypique. C'est l'une des trois espèces de marouettes vivant en France.",
+   "fulltext_chars": 1993
+  },
+  "en": {
+   "title": "Spotted crake",
+   "url": "https://en.wikipedia.org/wiki/Spotted_crake",
+   "description": "Species of bird",
+   "extract": "The spotted crake is a small waterbird of the family Rallidae. The scientific name is derived from Venetian terms for small rails.",
+   "fulltext_chars": 2127
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/37/Spotted_Crake_%28Porzana_porzana%29_%2825937975784%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5472,
+  "height": 3648,
+  "file": "Spotted_Crake_(Porzana_porzana)_(25937975784).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Spotted_Crake_%28Porzana_porzana%29_%2825937975784%29.jpg/1920px-Spotted_Crake_%28Porzana_porzana%29_%2825937975784%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Bernard DUPONT from FRANCE",
+  "credit": "Spotted Crake (Porzana porzana)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Spotted_Crake_(Porzana_porzana)_(25937975784).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0623,
+  "cities": {
+   "Lyon": 0.011,
+   "Grenoble": 0.013,
+   "Marseille": 0.019,
+   "Toulouse": 0.011,
+   "Ajaccio": 0.062,
+   "Chamonix": 0.011,
+   "Perpignan": 0.016
+  },
+  "monthly_scores": [
+   0.0323,
+   0.0417,
+   0.0623,
+   0.0338,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0249,
+   0.0458,
+   0.0363,
+   0.035
+  ],
+  "months": [
+   3
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:39Z"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Ardea alba",
+ "common_name_fr": "Grande Aigrette",
+ "birdnet_label": "Ardea alba_Grande Aigrette",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Pelecaniformes",
+  "family": "Ardeidae",
+  "family_common": "Herons, Egrets, and Bitterns",
+  "genus": "Ardea",
+  "species": "Ardea alba"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grande Aigrette",
+   "url": "https://fr.wikipedia.org/wiki/Grande_Aigrette",
+   "description": "espèce d'oiseaux",
+   "extract": "La Grande Aigrette est une espèce d'oiseaux Pelecaniformes de la famille des Ardeidae. C'est un grand échassier vivant sur tous les continents à l'exception de l'Antarctique.",
+   "fulltext_chars": 10739
+  },
+  "en": {
+   "title": "Great egret",
+   "url": "https://en.wikipedia.org/wiki/Great_egret",
+   "description": "Species of bird",
+   "extract": "The great egret, also known as the common egret, large egret, great white egret, or great white heron, is a large, widely distributed egret. The four subspecies are found in Asia, Africa, the Americas, and southern Europe. Recently, it has also been spreading to more northern areas of Europe. Distributed across most of the tropical and warmer temperate regions of the world, it builds tree nests in colonies close to water.",
+   "fulltext_chars": 8985
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ardea_alba4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1184,
+  "height": 1800,
+  "file": "Ardea_alba4.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ardea_alba4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Calibas",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Ardea_alba4.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.5152,
+  "cities": {
+   "Le Mans": 0.464,
+   "Pornic": 0.412,
+   "Rennes": 0.35,
+   "Poitiers": 0.452,
+   "Paris": 0.481,
+   "Lille": 0.479,
+   "Strasbourg": 0.419,
+   "Lyon": 0.421,
+   "Grenoble": 0.384,
+   "Marseille": 0.357,
+   "Toulouse": 0.323,
+   "Bordeaux": 0.374,
+   "Brest": 0.197,
+   "Ajaccio": 0.515,
+   "Clermont-Ferrand": 0.43,
+   "Chamonix": 0.395,
+   "Perpignan": 0.313,
+   "Nancy": 0.441
+  },
+  "monthly_scores": [
+   0.5152,
+   0.4772,
+   0.3702,
+   0.2585,
+   0.1525,
+   0.1636,
+   0.2579,
+   0.4048,
+   0.477,
+   0.4811,
+   0.4887,
+   0.5125
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:04Z"
+}

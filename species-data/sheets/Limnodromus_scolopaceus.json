@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Limnodromus scolopaceus",
+ "summary_fr": "Le Bécassin à long bec est un petit bécasseau nicheur des régions arctiques de Sibérie orientale et du nord-ouest nord-américain. Migrateur longue distance traversant l'Europe en automne et au printemps, il passe rarement en France à l'occasion de ses trajets migratoires en septembre et octobre. Espèce très discrète souvent solitaire, il se reconnaît à son long bec droit et noir, légèrement plus long que celui de son proche cousin, le Bécassin des marais. Le Bécassin à long bec se nourrit en sondant le sol avec un mouvement caractéristique en « couture » : il enfonce et retire son bec rapidement du sol ou du limon mou pour capturer les invertébrés par le toucher. En hiver, il fréquente les zones côtières et les marais d'Amérique du Nord, hiverne en Amérique centrale et du Sud. Oiseau plutôt silencieux sauf lors du vol où ses cris aigus résonnent, sa détection acoustique en France demeure exceptionnelle.",
+ "habitat": "Zones humides côtières et intérieures : baies, estuaires, marais d'eau douce, prairies mouillées et vasières peu profondes, fréquemment des zones avec eau inférieure à trois centimètres de profondeur.",
+ "diet": "Invertébrés capturés par sondage : larves de chironomides et autres insectes, petits crustacés, mollusques, vers polychètes, œufs de crustacés ; occasionnellement graines, mousses et fibres végétales.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Côtes et zones humides du Mexique, Amérique centrale et du Sud, localement jusqu'aux îles des Caraïbes.",
+  "niche": "Régions arctiques de Sibérie orientale et d'Alaska à Yukon. Niche en milieu subarctique dans les prairies humides, tourbières côtières et zones de toundra herbacée.",
+  "passage": "Migrations en septembre à octobre vers le sud en traversant l'Europe, plus rarement en mars à mai lors du retour. Passages très irréguliers en France."
+ },
+ "seasonality_fr": "Visible uniquement en passant, très rarement en France de septembre à octobre durant sa migration automnale vers le sud. Détections exceptionnelles demeurant liées aux conditions météorologiques perturbées (tempêtes, vents de nord-ouest) qui dévient les migrateurs des routes habituelles.",
+ "song_fr": "Cri de vol caractéristique « keek » aigu et perçant, souvent répété en séries accélérées. Cri moins fréquent « tu » émis 1 à 8 fois. Chant territorial « pee-witch-er ». Cri d'alarme explosif « KEEK ». Espèce plus vocale que le Bécassin des marais, surtout en vol.",
+ "lookalikes": [
+  {
+   "scientific_name": "Gallinago gallinago",
+   "common_name_fr": "Bécassine des marais",
+   "why_fr": "Cris « tcha-tcha » similaires et mouvement de sondage identique ; taille plus petite et habitats équivalents créent confusion en migration."
+  },
+  {
+   "scientific_name": "Tringa erythropus",
+   "common_name_fr": "Chevalier arlequin",
+   "why_fr": "Cri de vol aigu et perçant, de tessiture proche du « keek » ; espèce de vasières pouvant provoquer une confusion acoustique lors du passage migratoire."
+  }
+ ],
+ "rarity_note": "Exceptionnelle en France. Passe très rarement lors de ses migrations en septembre-octobre, principalement détectée en Bretagne et Pays de la Loire. Espèce nordique dont toute observation française reste accidentelle, déviée de ses routes migratoires habituelles.",
+ "fun_facts": [
+  "Se nourrit par sondage en mouvement de « machine à coudre » : enfonce et retire son bec rapidement du sol mou pour localiser ses proies par le toucher, même sous la boue.",
+  "Longtemps considéré comme simple sous-espèce du Bécassin des marais, ce n'est qu'en 1950 que Frank Pitelka établit leur distinctivité génétique et écologique.",
+  "Hiberne différemment de son cousin : préfère nicher en Sibérie et Amérique du Nord tandis que le Bécassin des marais colonise l'est, divergence génétique amorcée il y a plus de 4 millions d'années."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/B%C3%A9cassin_%C3%A0_long_bec",
+  "https://en.wikipedia.org/wiki/Long-billed_dowitcher",
+  "https://www.oiseaux.net/oiseaux/becassin-a-long-bec.html",
+  "https://www.cornelllab.org/pubs/handbook/species/long-billed-dowitcher/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

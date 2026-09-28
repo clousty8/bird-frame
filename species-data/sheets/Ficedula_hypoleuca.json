@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Ficedula hypoleuca",
+ "summary_fr": "Le Gobemouche noir est un petit passereau des forêts tempérées, dont les mâles nicheurs arborent un plumage distinctif noir et blanc vif, contrastant avec les femelles brunes. Son allure compacte et ses mouvements vifs le rendent aisé à reconnaître en action. Parfaitement adapté à la capture d'insectes aériens, il chasse mouches, papillons et petites chenilles avec une précision remarquable. C'est un oiseau cavernicole attaché aux vieux arbres feuillus où il défend farouchement son territoire contre ses congénères mâles, tout en adoptant une stratégie reproductive rare : il peut simultanément nourrir deux femelles dans deux cavités éloignées. Migrateur au long cours, il quitte l'Europe en août-octobre pour l'Afrique subsaharienne et revient en avril-mai. Son chant mélodieux et stéréotypé, répété à intervalles réguliers, est l'un des meilleurs moyens de le détecter au printemps.",
+ "habitat": "Forêts feuillues et mixtes anciennes offrant des cavités naturelles, particulièrement les chênaies et hêtraies. Préfère les terrains accidentés et les vallons.",
+ "diet": "Insectivore strict : mouches, papillons, chenilles, hyménoptères. Capture ses proies au vol et dans la végétation. Baies occasionnelles en fin de saison.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne, du Sénégal au nord de la RDC.",
+  "niche": "Partout en France métropolitaine, surtout nord-est, d'avril à juillet. Une seule nichée.",
+  "passage": "Passages marqués en avril-mai (arrivée) et août-octobre (départ)."
+ },
+ "seasonality_fr": "Visible d'avril à septembre en France, avec pics en mai-juin durant la reproduction. Absent en hiver.",
+ "song_fr": "Chant mélodieux et stéréotypé, phrase courte répétée à intervalles réguliers. Cri d'alarme : « pit » ou « pjit » répété, rappelant un cri lointain du Merle noir.",
+ "lookalikes": [
+  {
+   "scientific_name": "Ficedula albicollis",
+   "common_name_fr": "Gobemouche à collier",
+   "why_fr": "Espèce très proche avec dimorphisme sexuel similaire. Surtout différenciable par émissions vocales bien distinctes."
+  },
+  {
+   "scientific_name": "Ficedula semitorquata",
+   "common_name_fr": "Gobemouche à demi-collier",
+   "why_fr": "Plumage des mâles ressemblant, mais chant différent et répartition plus méridionale."
+  }
+ ],
+ "rarity_note": "Migrateur régulier au printemps et début d'automne, surtout dans le quart sud-est de la France. Absent en hiver, jamais en effectif élevé localement.",
+ "fun_facts": [
+  "Le mâle peut séduire deux femelles simultanément : il crée deux territoires distants pour tromper chacune sur son statut conjugal.",
+  "Son nom « gobemouche » n'est pas métaphorique : il capture littéralement les insectes volants en vol acrobatique.",
+  "En Europe du Nord-Est, le Gobemouche noir et le Gobemouche à collier se partagent l'habitat pour éviter la concurrence directe : l'un préfère les chênaies, l'autre les hêtraies."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Gobemouche_noir",
+  "https://en.wikipedia.org/wiki/European_pied_flycatcher",
+  "https://www.oiseaux.net/oiseaux/gobemouche.noir.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

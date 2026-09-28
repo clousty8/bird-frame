@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Apus apus",
+ "summary_fr": "Le Martinet noir est un petit oiseau noirâtre à la silhouette fuselée et aux ailes en faucille, si bien adapté au vol qu'il n'a guère besoin de se poser, sinon pour nicher. Il chasse, boit, dort et parfois même s'accouple en plein ciel, enchaînant sans escale plusieurs mois de vol lors de ses déplacements entre l'Europe et l'Afrique. En France, où il arrive fin avril, il envahit les cieux urbains et ruraux de ses cris stridents, notamment lors des célèbres « fêtes d'écran » du crépuscule, quand des groupes tournoient en rase-mottes autour des nids. Les couples, fidèles d'année en année, occupent des cavités dans les murs, toits ou falaises, où ils élèvent le plus souvent deux à trois jeunes. Dès leur envol, ceux-ci apprennent seuls à voler et à se nourrir avant de s'élancer aussitôt vers l'Afrique subsaharienne, où l'espèce hiverne. Le départ des adultes, dès la fin juillet pour certains, puis des jeunes en août et septembre, marque la fin brutale de l'été sonore qu'ils animent au-dessus des toits. Capable de pointes à plus de 200 km/h, le Martinet noir figure parmi les oiseaux les plus rapides au monde en vol motorisé.",
+ "habitat": "Espace aérien urbain, péri-urbain et rural. Niche dans les cavités des murs, toits, falaises et bâtiments anciens. Chasse en altitude variable, au-dessus des villes comme des zones humides.",
+ "diet": "Insectes et araignées volants capturés en vol : pucerons, hyménoptères, coléoptères et diptères. Plusieurs centaines d'espèces différentes consommées, jusqu'à 20 000 proies par jour pour une nichée.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Hiverne en Afrique subéquatoriale, notamment en République démocratique du Congo et en Afrique australe (Tanzanie, Zimbabwe, Mozambique) ; très rares mentions hivernales en France.",
+  "niche": "Nicheur commun d'avril à septembre partout en France, dans des cavités de murs, toits ou falaises ; ponte de deux à trois œufs, incubés 19 à 27 jours.",
+  "passage": "Arrivée en France fin avril ; départs échelonnés, des premiers adultes fin juillet aux derniers jeunes en septembre."
+ },
+ "seasonality_fr": "Présent et bruyant en France de fin avril à début octobre ; absent l'essentiel de l'hiver, avec de très rares mentions isolées à cette saison.",
+ "song_fr": "Cri perçant et strident en « cri-cri-cri », lancé par des groupes en chasse ou en rassemblement. Les « fêtes d'écran » du crépuscule, où plusieurs martinets survolent ensemble le site de nidification, sont remarquables.",
+ "lookalikes": [
+  {
+   "scientific_name": "Hirundo rustica",
+   "common_name_fr": "Hirondelle rustique",
+   "why_fr": "Silhouette en vol similaire et présence commune en été ; cris gazouillants différents, queue fourchue plus visible, moins de temps passé en vol."
+  },
+  {
+   "scientific_name": "Delichon urbicum",
+   "common_name_fr": "Hirondelle de fenêtre",
+   "why_fr": "Taille légèrement plus petite, habitat urbain commun, vol rapide. Cris gazouillants et tache blanche du croupion distinctifs."
+  },
+  {
+   "scientific_name": "Apus melba",
+   "common_name_fr": "Martinet à ventre blanc",
+   "why_fr": "Plus grand, confusion possible surtout dans le sud. Ventre blanc visible en vol, cri moins perçant."
+  }
+ ],
+ "rarity_note": "Très commun et bruyant en France d'avril à septembre, nicheur largement répandu ; absent l'essentiel de l'hiver. Statut de conservation stable en Europe.",
+ "fun_facts": [
+  "Le Martinet noir peut atteindre 200 km/h sur de courtes distances, l'un des animaux les plus rapides au monde.",
+  "C'est l'un des rares oiseaux à apprendre à voler et à se nourrir seul, sans aide parentale après l'envol.",
+  "Il peut dormir en vol lors de ses déplacements, restant parfois en l'air jusqu'à dix mois consécutifs."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Martinet_noir",
+  "https://en.wikipedia.org/wiki/Common_swift",
+  "https://www.oiseaux.net/oiseaux/martinet.noir.html"
+ ],
+ "generated_at": "2026-09-27T21:30:00Z",
+ "generator_model": "claude-sonnet-5"
+}

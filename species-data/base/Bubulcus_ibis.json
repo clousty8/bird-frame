@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Bubulcus ibis",
+ "common_name_fr": "Héron garde-boeufs",
+ "birdnet_label": "Bubulcus ibis_Héron garde-boeufs",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Pelecaniformes",
+  "family": "Ardeidae",
+  "family_common": "Herons, Egrets, and Bitterns",
+  "genus": "Bubulcus",
+  "species": "Bubulcus ibis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Héron garde-bœufs",
+   "url": "https://fr.wikipedia.org/wiki/H%C3%A9ron_garde-b%C5%93ufs",
+   "description": "espèce d'oiseaux",
+   "extract": "Le héron garde-bœufs ou encore pique-bœufs, est une espèce d'oiseaux échassiers, de la famille des Ardéidés, qui compte les hérons, les aigrettes, les butors et apparentés.",
+   "fulltext_chars": 19880
+  },
+  "en": {
+   "title": "Western cattle egret",
+   "url": "https://en.wikipedia.org/wiki/Western_cattle_egret",
+   "description": "Species of bird",
+   "extract": "The western cattle egret is a species of heron found in the tropics, subtropics and warm temperate zones. Formerly, most taxonomic authorities lumped this species and the eastern cattle egret together, but the two cattle egrets are now treated as separate species. Despite the similarities in plumage to the egrets of the genus Egretta, it is more closely related to the herons of Ardea. Originally native to parts of Africa, southwest Asia and southern Europe, it has undergone a rapid expansion in its distribution and successfully colonised much of the New World in the last century.",
+   "fulltext_chars": 13710
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/H%C3%A9ron_garde_boeufs_lac_sud_de_Tunis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5728,
+  "height": 3819,
+  "file": "Héron_garde_boeufs_lac_sud_de_Tunis.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/H%C3%A9ron_garde_boeufs_lac_sud_de_Tunis.jpg/1920px-H%C3%A9ron_garde_boeufs_lac_sud_de_Tunis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "El Golli Mohamed",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:H%C3%A9ron_garde_boeufs_lac_sud_de_Tunis.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3993,
+  "cities": {
+   "Le Mans": 0.188,
+   "Pornic": 0.239,
+   "Rennes": 0.201,
+   "Poitiers": 0.22,
+   "Paris": 0.13,
+   "Lille": 0.076,
+   "Strasbourg": 0.06,
+   "Lyon": 0.172,
+   "Grenoble": 0.161,
+   "Marseille": 0.212,
+   "Toulouse": 0.201,
+   "Bordeaux": 0.226,
+   "Brest": 0.15,
+   "Ajaccio": 0.399,
+   "Clermont-Ferrand": 0.185,
+   "Chamonix": 0.138,
+   "Perpignan": 0.208,
+   "Nancy": 0.079
+  },
+  "monthly_scores": [
+   0.3965,
+   0.371,
+   0.3408,
+   0.3296,
+   0.2966,
+   0.2951,
+   0.3039,
+   0.3303,
+   0.3307,
+   0.3764,
+   0.3733,
+   0.3993
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:14Z"
+}

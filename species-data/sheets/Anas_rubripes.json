@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anas rubripes",
+ "summary_fr": "Le Canard noir est un grand canard barboteur nord-américain, le plus lourd du genre Anas avec un poids moyen frisant 1,4 kg chez le mâle. Sa silhouette rappelle celle de la femelle du Canard colvert, mais son plumage brun très sombre, presque noir à distance, le distingue nettement : le mâle arbore un bec jaune vif et des pattes orangées, tandis que la femelle porte un bec terne tacheté de sombre. Partiellement migrateur, il se reproduit dans les zones humides du nord-est du Canada et des États-Unis, puis hiverne surtout sur la façade atlantique du continent, dans les marais salés et les estuaires où il trouve graines, plantes aquatiques et petits invertébrés en barbotant. En France, où il n'a été signalé qu'à de très rares occasions, toujours en plein hiver sur le littoral atlantique, il doit être considéré comme un visiteur hivernal exceptionnel plutôt que comme un migrateur de passage régulier. Il s'hybride volontiers avec le Canard colvert, auquel il est étroitement apparenté, ce qui complique parfois son identification sur le terrain.",
+ "habitat": "Zones humides côtières, marais salés, estuaires et embouchures fluviales. En France, très occasionnellement sur les plans d'eau côtiers en hiver.",
+ "diet": "Plantes aquatiques (laîches, joncs, algues), graines et végétation immergée ; mollusques, crustacés et insectes aquatiques, surtout en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Très rare visiteur d'hiver sur le littoral atlantique français, en janvier, novembre et décembre ; origine nord-américaine.",
+  "niche": "Ne niche pas en France ; se reproduit dans le nord-est du Canada et le nord-est des États-Unis.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible en France exclusivement l'hiver, de façon très rare et irrégulière sur le littoral, surtout atlantique. Absent le reste de l'année.",
+ "song_fr": "Cris proches de ceux du Canard colvert : la femelle lance une série de coin-coin descendant en tonalité, le mâle des cris plus discrets et rauques.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anas platyrhynchos",
+   "common_name_fr": "Canard colvert",
+   "why_fr": "Espèce très proche et cris presque identiques. Le Canard noir a un plumage global plus sombre, sans le miroir blanc bordé du Colvert."
+  },
+  {
+   "scientific_name": "Anas acuta",
+   "common_name_fr": "Canard pilet",
+   "why_fr": "Barboteur aux cris ressemblants, mais silhouette plus élancée et cou plus fin chez le Pilet."
+  }
+ ],
+ "rarity_note": "Vagabond hivernal très rare en France (score maximum 0,0132) : quelques signalements exceptionnels sur le littoral atlantique.",
+ "fun_facts": [
+  "Le Canard noir est le canard le plus lourd du genre Anas, le mâle pouvant peser jusqu'à 1,6 kg.",
+  "Il s'hybride couramment avec le Canard colvert, ce qui brouille parfois son identification sur le terrain.",
+  "Les femelles issues de ces croisements ont une viabilité réduite, ce qui inquiète certains ornithologues nord-américains."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Canard_noir",
+  "https://en.wikipedia.org/wiki/American_black_duck",
+  "https://www.oiseaux.net/oiseaux/canard.noir.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Picus canus",
+ "summary_fr": "Le Pic cendré ressemble beaucoup au Pic vert, mais il est plus petit et se reconnaît à sa tête grise ornée d'étroites moustaches noires ; seul le mâle porte un front rouge, tandis que la femelle a la calotte uniformément grise. Plus discret et moins bruyant que son cousin, il fréquente les vieilles forêts de feuillus riches en bois mort, en particulier les hêtraies et les aulnaies de plus de cinquante ans, où il creuse sa loge dans un tronc tendre et dépérissant. En France, il reste localisé et peu abondant, présent surtout de l'est du pays jusqu'en Bretagne, rare dans le nord et absent du sud. Bien qu'insectivore, il est moins spécialisé dans les fourmis que le Pic vert, ce qui lui permet de partager le même territoire que celui-ci à quelques dizaines de mètres seulement ; il complète son régime de larves, de coléoptères et, en automne-hiver, de baies et de graines. Son chant, une série fluide et mélancolique de notes descendantes, est plus net et moins explosif que le rire sonore du Pic vert, et il tambourine volontiers sur des surfaces métalliques bien résonantes comme les toitures.",
+ "habitat": "Vieilles forêts de feuillus riches en bois mort, hêtraies et aulnaies de plus de cinquante ans ; clairières et lisières utilisées pour la recherche de nourriture au sol.",
+ "diet": "Fourmis et leurs larves trouvées au sol et dans le bois mort, complétées de coléoptères et autres invertébrés ; baies et graines en automne-hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Reste toute l'année sur son territoire de nidification ; aucune migration hivernale connue en France.",
+  "niche": "Niche en petit nombre de l'est de la France jusqu'en Bretagne, rare dans le nord et absente du sud, en mai-juin.",
+  "passage": null
+ },
+ "seasonality_fr": "Présent toute l'année mais très discret, surtout repérable au printemps lorsqu'il chante et tambourine pour défendre son territoire.",
+ "song_fr": "Série fluide de dix à quinze notes sifflées et déclinantes, plus mélodieuse et moins explosive que le rire du Pic vert ; tambourine volontiers sur des surfaces métalliques résonantes.",
+ "lookalikes": [
+  {
+   "scientific_name": "Picus viridis",
+   "common_name_fr": "Pic vert",
+   "why_fr": "Chant et cris très proches, mais le Pic vert est plus sonore et explosif, le Pic cendré plus fluide et mélancolique."
+  },
+  {
+   "scientific_name": "Dendrocopos major",
+   "common_name_fr": "Pic épeiche",
+   "why_fr": "Tambourinage sur surfaces résonantes parfois confondu, mais rythme et timbre différents."
+  }
+ ],
+ "rarity_note": "Espèce rare et très localisée en France, cantonnée pour l'essentiel à l'est du pays ; en léger déclin depuis plusieurs décennies.",
+ "fun_facts": [
+  "Le mâle porte un front rouge vif, tandis que la femelle a la tête entièrement grise.",
+  "Moins spécialisé dans les fourmis que le Pic vert, il peut nicher à une centaine de mètres seulement de celui-ci.",
+  "Il tambourine souvent sur les couvertures métalliques des toits pour leur excellente résonance."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pic_cendr%C3%A9",
+  "https://en.wikipedia.org/wiki/Grey-headed_woodpecker"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

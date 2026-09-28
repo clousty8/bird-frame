@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Nycticorax nycticorax",
+ "common_name_fr": "Bihoreau gris",
+ "birdnet_label": "Nycticorax nycticorax_Bihoreau gris",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Pelecaniformes",
+  "family": "Ardeidae",
+  "family_common": "Herons, Egrets, and Bitterns",
+  "genus": "Nycticorax",
+  "species": "Nycticorax nycticorax"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bihoreau gris",
+   "url": "https://fr.wikipedia.org/wiki/Bihoreau_gris",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Bihoreau gris ou Héron bihoreau, est une espèce d'oiseaux échassiers de la famille des Ardeidés que l'on retrouve dans de nombreuses parties du monde.",
+   "fulltext_chars": 8208
+  },
+  "en": {
+   "title": "Black-crowned night heron",
+   "url": "https://en.wikipedia.org/wiki/Black-crowned_night_heron",
+   "description": "Species of bird",
+   "extract": "The black-crowned night heron or black-capped night heron, commonly shortened to just night heron in Eurasia, is a medium-sized heron found throughout a large part of the world, including parts of Africa, Asia, Europe, and North and South America. In Australasia it is replaced by the closely related Nankeen night heron, with which it has hybridised in the area of contact.",
+   "fulltext_chars": 8313
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/42/Nycticorax_nycticorax_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3254,
+  "height": 3250,
+  "file": "Nycticorax_nycticorax_5.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Nycticorax_nycticorax_5.jpg/1920px-Nycticorax_nycticorax_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Mike & Chris",
+  "credit": "Black Crowned Night Heron\n\nUploaded by berichard",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Nycticorax_nycticorax_5.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1698,
+  "cities": {
+   "Le Mans": 0.041,
+   "Pornic": 0.043,
+   "Rennes": 0.032,
+   "Poitiers": 0.063,
+   "Paris": 0.036,
+   "Lille": 0.018,
+   "Strasbourg": 0.044,
+   "Lyon": 0.097,
+   "Grenoble": 0.102,
+   "Marseille": 0.112,
+   "Toulouse": 0.097,
+   "Bordeaux": 0.085,
+   "Brest": 0.018,
+   "Ajaccio": 0.17,
+   "Clermont-Ferrand": 0.09,
+   "Chamonix": 0.096,
+   "Perpignan": 0.101,
+   "Nancy": 0.043
+  },
+  "monthly_scores": [
+   0.1412,
+   0.1449,
+   0.1254,
+   0.1548,
+   0.1698,
+   0.1664,
+   0.1573,
+   0.1381,
+   0.1007,
+   0.1134,
+   0.1394,
+   0.1453
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:27Z"
+}

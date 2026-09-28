@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Plectrophenax nivalis",
+ "summary_fr": "Le Plectrophane des neiges est un passereaux arctique aux couleurs contrastées blanc et noir, visiteur hivernal régulier mais peu abondant en France. C'est le passereau le plus nordique du monde, capable de survivre aux températures extrêmes de l'Arctique grâce notamment à ses tarses emplumés, une adaptation unique parmi les passereaux. En hiver, il recherche les zones ouvertes, formant des groupes mobiles qui glanent patiemment les graines des mauvaises herbes dépassant la surface de la neige. Les oiseaux d'Europe du Nord arrivent en France principalement en octobre-novembre, avec des effectifs variables selon la rigueur de l'hiver boréal. Le dimorphisme sexuel est marqué: les mâles revêtent un plumage blanc éclatant avec le dos noir durant la saison de reproduction, tandis que les femelles présentent un plumage plus terne parsemé de fringes brun-roux.",
+ "habitat": "Toundra et sommets montagneux pour la reproduction. En hiver et migration, zones ouvertes: côtes sablonneuses, steppes, prairies, champs découverts et basses montagnes.",
+ "diet": "Graines de mauvaises herbes et graminées en hiver; en été, insectes, araignées et petits invertébrés; les jeunes au nid reçoivent exclusivement des invertébrés.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "En France de janvier à mars, dans les zones ouvertes des littoraux et des plaines; effectifs variables selon l'intensité de l'hiver boréal.",
+  "niche": "Ne niche pas en France; populations de reproduction en Arctique circumpolaire.",
+  "passage": "Passages notables en octobre-novembre (arrivée) et février-mars (départ vers l'Arctique)."
+ },
+ "seasonality_fr": "Visible surtout d'octobre à mars en France, avec pics lors des passages migratoires automnaux. Groupe grégaire se nourrissant en plein jour dans les espaces ouverts découverts par la neige.",
+ "song_fr": "Appel distinctif: sifflement tremblé caractéristique «per-r-r-rit». Chant court mais fort «hudidi feet feet feew hudidi» émis généralement depuis le sol ou en vol.",
+ "lookalikes": [
+  {
+   "scientific_name": "Calcarius lapponicus",
+   "common_name_fr": "Bruant de Laponie",
+   "why_fr": "Appels similaires en structure mais ton plus sec et râpeux chez le Bruant de Laponie comparé au sifflement plus liquide du Plectrophane."
+  },
+  {
+   "scientific_name": "Eremophila alpestris",
+   "common_name_fr": "Alouette hausse-col",
+   "why_fr": "Partage les mêmes habitats ouverts hivernaux; appels secs et caractéristiques mais moins tremblés, structure mélodique différente."
+  }
+ ],
+ "rarity_note": "Rare en France, visiteur hivernal irrégulier et passager automnal peu abondant; détections aléatoires selon la rigueur des hivers boréals.",
+ "fun_facts": [
+  "C'est le passereau le plus nordique du monde, capable de survivre à des températures atteignant -30 °C lors de son arrivée en Arctique en avril.",
+  "Ses tarses emplumés constituent une adaptation unique parmi les passereaux pour l'isolation thermale dans l'extrême froid.",
+  "Les mâles arrivent en Arctique 4 à 6 semaines avant les femelles pour sécuriser les meilleurs territoires de nidification."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bruant_des_neiges",
+  "https://en.wikipedia.org/wiki/Snow_bunting"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

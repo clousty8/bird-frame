@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Emberiza schoeniclus",
+ "common_name_fr": "Bruant des roseaux",
+ "birdnet_label": "Emberiza schoeniclus_Bruant des roseaux",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Emberizidae",
+  "family_common": "Old World Buntings",
+  "genus": "Emberiza",
+  "species": "Emberiza schoeniclus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bruant des roseaux",
+   "url": "https://fr.wikipedia.org/wiki/Bruant_des_roseaux",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Bruant des roseaux est une espèce de passereaux européens de la famille des embérizidés et l'une des 44 espèces du genre Emberiza connues à ce jour.",
+   "fulltext_chars": 8768
+  },
+  "en": {
+   "title": "Common reed bunting",
+   "url": "https://en.wikipedia.org/wiki/Common_reed_bunting",
+   "description": "Species of bird",
+   "extract": "The common reed bunting, or simply reed bunting, is a passerine bird in the bunting family Emberizidae. This species breeds throughout Europe and much of the Palearctic region. While most individuals migrate south in winter, those in the milder south and west of the range are resident. It is a common sight in reedbeds, but also breeds in drier open areas such as moorland and arable land. For example, it inhabits purple moor grass and rush pastures, which are designated as a Biodiversity Action Plan habitat in the UK. It occurs on poorly drained neutral and acid soils of the lowlands and upland fringe.",
+   "fulltext_chars": 4677
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/21/Emberiza_schoeniclus_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1389,
+  "height": 900,
+  "file": "Emberiza_schoeniclus_male.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/21/Emberiza_schoeniclus_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Jimmy Edmonds",
+  "credit": "https://www.flickr.com/photos/30107812@N05/14134092338/in/photolist-nwYVed-9nH8PN-N5gReY-mArMV-Te3erv-fY1sdC-FwrA2g-dyAGVA-Lc6TEw-27YiBDA-d9oQzQ-nFiRef-cy2dV1-by6HvT-PRxbz6-28fEteb-26Xs3iW",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Emberiza_schoeniclus_male.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4736,
+  "cities": {
+   "Le Mans": 0.245,
+   "Pornic": 0.191,
+   "Rennes": 0.212,
+   "Poitiers": 0.229,
+   "Paris": 0.288,
+   "Lille": 0.427,
+   "Strasbourg": 0.239,
+   "Lyon": 0.21,
+   "Grenoble": 0.202,
+   "Marseille": 0.282,
+   "Toulouse": 0.264,
+   "Bordeaux": 0.215,
+   "Brest": 0.168,
+   "Ajaccio": 0.474,
+   "Clermont-Ferrand": 0.22,
+   "Chamonix": 0.173,
+   "Perpignan": 0.296,
+   "Nancy": 0.269
+  },
+  "monthly_scores": [
+   0.4646,
+   0.438,
+   0.3474,
+   0.4268,
+   0.3909,
+   0.3688,
+   0.324,
+   0.1808,
+   0.2102,
+   0.3457,
+   0.448,
+   0.4736
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:22Z"
+}

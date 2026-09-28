@@ -1,0 +1,39 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Setophaga petechia",
+ "summary_fr": "Petite paruline aux couleurs vives, la Paruline des mangroves est un minuscule passereau jaune vif de la famille des Parulidés, celle des parulines du Nouveau Monde. Elle vit exclusivement le long des côtes tropicales des Amériques, dans les mangroves et les fourrés littoraux de l'Atlantique et du Pacifique, du Mexique jusqu'au nord de l'Amérique du Sud, ainsi que dans les Caraïbes et aux Galápagos. Le mâle se distingue par une calotte châtain qui couvre toute la tête, un trait unique parmi les trente-quatre sous-espèces reconnues, tandis que la femelle affiche un plumage plus terne, verdâtre dessus et jaune pâle dessous. Comme les autres membres du genre Setophaga, dont le nom grec signifie « mangeuse de mites », elle chasse activement insectes et petites araignées dans le feuillage des palétuviers. Longtemps considérée comme une variante de la Paruline jaune migratrice d'Amérique du Nord, elle en a été séparée sur la base de différences génétiques, de plumage et de chant. En France, où son écologie tropicale de mangrove ne trouve aucun équivalent, elle ne compte que de très rares mentions, toutes recensées en été, loin de tout couloir de migration connu, ce qui trahit un égarement isolé plutôt qu'un véritable passage saisonnier.",
+ "habitat": "Mangroves côtières et fourrés littoraux des régions tropicales d'Amérique, du Mexique aux Caraïbes et aux Galápagos.",
+ "diet": "Insectes et petites araignées capturés activement dans le feuillage des palétuviers.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": "Ne niche pas en France : ses seules populations nicheuses se trouvent dans les mangroves tropicales des Amériques, du Mexique aux Caraïbes et aux Galápagos.",
+  "passage": "Aucun passage régulier : seulement de très rares mentions isolées en été, hors de tout couloir de migration connu."
+ },
+ "seasonality_fr": "Espèce accidentelle en France : les rares mentions connues se concentrent uniquement en été, sur le littoral atlantique, en dehors de toute période de migration classique.",
+ "song_fr": "Chant vif et saccadé, suite de notes claires répétées rapidement ; cris secs et aigus typiques des parulines Setophaga.",
+ "lookalikes": [
+  {
+   "scientific_name": "Setophaga coronata",
+   "common_name_fr": "Paruline à croupion jaune",
+   "why_fr": "Autre paruline nord-américaine à la voix saccadée et à la taille proche, source fréquente de confusion acoustique."
+  },
+  {
+   "scientific_name": "Phylloscopus collybita",
+   "common_name_fr": "Pouillot véloce",
+   "why_fr": "Petit passereau au chant rapide et saccadé, dont les phrases peuvent évoquer celles des parulines migratrices."
+  }
+ ],
+ "rarity_note": "Espèce accidentelle en France, avec seulement de très rares mentions estivales isolées sur le littoral atlantique ; son écologie de mangrove tropicale exclut toute installation durable.",
+ "fun_facts": [
+  "Le mâle porte une calotte châtain unique parmi les trente-quatre sous-espèces reconnues, du Mexique aux Galápagos.",
+  "Longtemps confondue avec la Paruline jaune d'Amérique migratrice, elle n'en a été séparée qu'après l'analyse de son ADN mitochondrial."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Paruline_des_mangroves",
+  "https://en.wikipedia.org/wiki/Mangrove_warbler"
+ ],
+ "generated_at": "2026-09-27T22:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

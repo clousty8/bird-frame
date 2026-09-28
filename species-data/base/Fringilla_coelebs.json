@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Fringilla coelebs",
+ "common_name_fr": "Pinson des arbres",
+ "birdnet_label": "Fringilla coelebs_Pinson des arbres",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Fringillidae",
+  "family_common": "Finches, Euphonias, and Allies",
+  "genus": "Fringilla",
+  "species": "Fringilla coelebs"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pinson des arbres",
+   "url": "https://fr.wikipedia.org/wiki/Pinson_des_arbres",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pinson des arbres est une espèce de petits passereaux, partiellement migrateur, très répandu, de la famille des Fringillidés. C'est la plus fréquente et la plus répandue des trois espèces de pinsons. Il est présent dans toute l'Europe à l'exception de l'Islande et de la Scandinavie la plus septentrionale, son aire de répartition s'étend vers l'est jusqu'en Sibérie centrale. C'est aussi un oiseau reproducteur en Afrique du Nord et au Proche-Orient jusqu'en Iran. En Nouvelle-Zélande et en Afrique du Sud, le pinson a été introduit par l'homme.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Eurasian chaffinch",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_chaffinch",
+   "description": "Species of bird",
+   "extract": "The Eurasian chaffinch, common chaffinch, or simply the chaffinch is a common and widespread small passerine bird – in the finch family. The male is brightly coloured with a blue-grey cap and rust-red underparts. The female is more subdued in colouring, but both sexes have two contrasting white wing bars and white sides to the tail. The male bird has a strong voice and sings from exposed perches to attract a mate.",
+   "fulltext_chars": 17356
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Chaffinch_%28Fringilla_coelebs%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2085,
+  "height": 1390,
+  "file": "Chaffinch_(Fringilla_coelebs).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Chaffinch_%28Fringilla_coelebs%29.jpg/1920px-Chaffinch_%28Fringilla_coelebs%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Chaffinch_(Fringilla_coelebs).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9922,
+  "cities": {
+   "Le Mans": 0.96,
+   "Pornic": 0.931,
+   "Rennes": 0.948,
+   "Poitiers": 0.943,
+   "Paris": 0.977,
+   "Lille": 0.983,
+   "Strasbourg": 0.992,
+   "Lyon": 0.968,
+   "Grenoble": 0.963,
+   "Marseille": 0.964,
+   "Toulouse": 0.968,
+   "Bordeaux": 0.941,
+   "Brest": 0.905,
+   "Ajaccio": 0.966,
+   "Clermont-Ferrand": 0.956,
+   "Chamonix": 0.978,
+   "Perpignan": 0.97,
+   "Nancy": 0.99
+  },
+  "monthly_scores": [
+   0.9681,
+   0.9638,
+   0.9567,
+   0.9869,
+   0.9922,
+   0.979,
+   0.8568,
+   0.6047,
+   0.669,
+   0.9255,
+   0.9664,
+   0.9699
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:20Z"
+}

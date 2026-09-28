@@ -1,0 +1,39 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Turdus merula",
+ "summary_fr": "Le Merle noir est le plus représentatif des jardins et bois français. Ce passereau noir charbon pour le mâle, brun pour la femelle, s'est adapté remarquablement bien aux milieux urbanisés. Son chant flûté et mélodieux, lancé depuis les plus hauts perchoirs du printemps à l'été, figure parmi les plus beaux d'Europe. Parfaitement omnivore, il fouille le sol pour en extraire vers et insectes, puis se repait de fruits à l'automne et l'hiver. Naturellement territorial, le merle défend son domaine toute l'année dans les régions au climat tempéré, les mâles comme les femelles employant chant et postures menaçantes face aux intrus. En France, les populations sont complexes : certains oiseaux résident toute l'année, tandis que d'autres migrent vers le sud en hiver. Son plastron d'un bec jaune vif contraste vivement avec son plumage noir, signal de santé et de vitalité chez le mâle reproducteur.",
+ "habitat": "Sous-bois, haies, jardins, parcs arborés, cimetières, du littoral à la montagne. Préfère les zones avec dense végétation de sous-bois et arbustes épais comme le lierre ou l'aubépine.",
+ "diet": "Omnivore opportuniste : insectes, vers de terre, araignées et invertébrés variés. Consomme aussi fruits et baies selon la saison, notamment aubépine, lierre, sureau et mûres en hiver.",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Beaucoup de merles français restent toute l'année, mais sont rejoints en automne-hiver par des oiseaux migrants venus du nord et de l'est de l'Europe.",
+  "niche": "Partout en France métropolitaine d'avril à juillet, souvent deux nichées, parfois trois dans le sud.",
+  "passage": "Passages visibles en mars (arrivée des migrateurs) et d'octobre à novembre (départ vers le sud)."
+ },
+ "seasonality_fr": "Très abondant et visible toute l'année en France. Son chant résonne surtout d'avril à juin, mais aussi à l'aube et au crépuscule, voire la nuit en hiver quand l'urbanisation offre des éclairages.",
+ "song_fr": "Chant flûté très varié, mélodieux et sans hâte, souvent émis du haut des arbres au lever et coucher du soleil. Cris d'alarme caractéristiques : pök-pök-pök pour les prédateurs terrestres, seee aigu pour les oiseaux de proie.",
+ "lookalikes": [
+  {
+   "scientific_name": "Turdus torquatus",
+   "common_name_fr": "Merle à plastron",
+   "why_fr": "Le juvénile dans sa première année ressemble au merle noir, mais ses ailes sont plus pâles ; l'adulte porte un plastron blanc caractéristique."
+  },
+  {
+   "scientific_name": "Sturnus vulgaris",
+   "common_name_fr": "Étourneau sansonnet",
+   "why_fr": "Ressemblance superficielle avec le merle noir en plumage, mais structure plus robuste, chant très différent, moins mélodieux."
+  }
+ ],
+ "rarity_note": "Très commun et régulier partout en France toute l'année. L'une des espèces les plus abondantes et familières des jardins français.",
+ "fun_facts": [
+  "Mâle et femelle chantent tous deux pour défendre leur territoire, ce qui est rare chez les passereaux.",
+  "Le merle noir suit volontiers le jardinier pour attraper les vers mis au jour par la bêche ou le bêchage."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Merle_noir",
+  "https://en.wikipedia.org/wiki/Common_blackbird"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,53 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anthus pratensis",
+ "summary_fr": "Petit passereau brun strié des prairies et des espaces ouverts, le Pipit farlouse est un maître de discrétion et d'adaptation. Mesurant à peine 15 cm, il se confond aisément avec son environnement herbeux, où il progresse en sautillant pour capturer ses proies. Inféodé aux habitats découverts depuis le littoral jusqu'à la montagne, il ne descend jamais du sol pour se nourrir, mais utilise les éléments en hauteur pour guetter les prédateurs. Migrateur sur la majeure partie de son aire, il conjugue détections locales et passages saisonniers qui le rendent visible presque toute l'année en France. Son chant caractéristique, donné en vol ascendant, résonne de façon mélancolique. C'est l'une des espèces qui a connu le déclin démographique le plus spectaculaire en France depuis deux décennies.",
+ "habitat": "Prairies humides, landes, dunes, marais et pâturages. Affectionne les espaces ouverts non cultivés ou à faible intensité agricole ; montagne jusqu'aux sommets herbeux. En migration et en hiver, également dans les champs et au bord des étangs.",
+ "diet": "Petits insectes diurnes et araignées en priorité. En hiver, complément de graines de graminées, de roseaux et de bruyère, ainsi qu'escargots et baies.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Bassin méditerranéen, Afrique du Nord et sud-ouest asiatique. Les populations stationnaires ou hivernantes persistent en France, notamment sur le littoral.",
+  "niche": "Toute la France, d'avril à début juillet généralement, avec deux ou trois couvées annuelles. Nid à même le sol dans une touffe de végétation, construit surtout par la femelle.",
+  "passage": "Passages marqués en mars et avril pour la migration prénuptiale ; août à novembre pour la migration postnuptiale, avec affluence sur les côtes."
+ },
+ "seasonality_fr": "Visible et audible presque toute l'année en France, notamment lors des passages migratoires. Les populations nicheuses actives en printemps-été ; chant en vol caractéristique du mâle lors de la saison de reproduction. Moins abondant en cœur d'hiver mais loin d'être absent.",
+ "song_fr": "Cri d'appel aigu et saccadé : « ist » ou « ististe ». Chant aérien donné pendant un vol ascendant haut et mince, parfois fluide et varié, puis descente en vol plané sans retour au point de départ. Territorial, le chant résonne particulièrement au printemps.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anthus trivialis",
+   "common_name_fr": "Pipit des arbres",
+   "why_fr": "Silhouette et taille très proches ; distinction : poitrine jaunâtre, pattes rose vif, griffe postérieure courte chez trivialis."
+  },
+  {
+   "scientific_name": "Anthus cervinus",
+   "common_name_fr": "Pipit à gorge rousse",
+   "why_fr": "Rayures plus marquées ; en plumage nuptial : gorge orange-rouge caractéristique. Cris similaires mais chant plus varié."
+  },
+  {
+   "scientific_name": "Anthus spinoletta",
+   "common_name_fr": "Pipit spioncelle",
+   "why_fr": "Espèce de montagne et d'hiver en France. Silhouette plus trapue, dos plus gris. Cris et chant distinctifs."
+  },
+  {
+   "scientific_name": "Anthus petrosus",
+   "common_name_fr": "Pipit maritime",
+   "why_fr": "Habitant les côtes rocheuses. Plumage plus sombre, plus de moustaches. Cris rêches caractéristiques différents."
+  }
+ ],
+ "rarity_note": "Commun et régulier en France toute l'année, entre nicheurs, hivernants et migrateurs de passage, mais en déclin net depuis deux décennies, notamment en Provence et en Aquitaine.",
+ "fun_facts": [
+  "L'une des premières victimes du déclin avifaunistique français : ses effectifs ont chuté de 68 % depuis 1994 en agricoles, et des deux tiers en moyenne sur le territoire.",
+  "Ses pattes longues et sa griffe postérieure surprotégée lui permettent de se percher avec assurance et de déceler les prédateurs sur le sol.",
+  "Hôte favori du Coucou gris, qui pond ses œufs dans le nid du Pipit farlouse au point que ce dernier élève souvent plus de coucous que de ses propres jeunes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pipit_farlouse",
+  "https://en.wikipedia.org/wiki/Meadow_pipit",
+  "https://www.oiseaux.net/oiseaux/pipit.farlouse.html",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/4383",
+  "https://www.lpo.fr/la-lpo/nos-actions/connaitre-et-observer/fiches-especes/pipit-farlouse"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

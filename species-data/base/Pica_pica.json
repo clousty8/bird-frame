@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Pica pica",
+ "common_name_fr": "Pie bavarde",
+ "birdnet_label": "Pica pica_Pie bavarde",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Corvidae",
+  "family_common": "Crows, Jays, and Magpies",
+  "genus": "Pica",
+  "species": "Pica pica"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pie bavarde",
+   "url": "https://fr.wikipedia.org/wiki/Pie_bavarde",
+   "description": "espèce d'oiseaux corvidés",
+   "extract": "La Pie bavarde est une espèce de passereaux de la famille des Corvidae, et l'une des espèces de corvidés parmi les plus répandues en Europe et dans une grande partie de l'Asie. Les pies peuvent aisément être identifiées grâce à leur morphologie et à leur plumage noir et blanc caractéristique. Il existe 13 sous-espèces de pie bavarde.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Eurasian magpie",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_magpie",
+   "description": "Species of bird",
+   "extract": "The Eurasian magpie or common magpie is a resident breeding bird throughout the northern part of the Eurasian continent. It is one of several birds in the crow family (corvids) that are designated as magpies, and it belongs to the Holarctic radiation of \"monochrome\" magpies. In Europe, the term \"magpie\" is used by English speakers as a synonym for the Eurasian magpie; the only other species of magpie in Europe being the Iberian magpie, which is restricted to the Iberian Peninsula. Despite sharing a name and similar colouration, they are not closely related to the Australian magpie, which is an artamid, only sharing the same clade (Corvides).",
+   "fulltext_chars": 18669
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Eurasian_Magpie_2023-10-16_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5453,
+  "height": 3635,
+  "file": "Eurasian_Magpie_2023-10-16_01.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Eurasian_Magpie_2023-10-16_01.jpg/1920px-Eurasian_Magpie_2023-10-16_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Alexis Lours",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Eurasian_Magpie_2023-10-16_01.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9301,
+  "cities": {
+   "Le Mans": 0.93,
+   "Pornic": 0.924,
+   "Rennes": 0.93,
+   "Poitiers": 0.923,
+   "Paris": 0.918,
+   "Lille": 0.909,
+   "Strasbourg": 0.836,
+   "Lyon": 0.884,
+   "Grenoble": 0.884,
+   "Marseille": 0.869,
+   "Toulouse": 0.891,
+   "Bordeaux": 0.899,
+   "Brest": 0.92,
+   "Ajaccio": 0.771,
+   "Clermont-Ferrand": 0.892,
+   "Chamonix": 0.862,
+   "Perpignan": 0.876,
+   "Nancy": 0.875
+  },
+  "monthly_scores": [
+   0.9265,
+   0.9301,
+   0.9151,
+   0.8724,
+   0.8498,
+   0.8408,
+   0.8422,
+   0.7901,
+   0.8358,
+   0.9089,
+   0.9289,
+   0.9249
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:23Z"
+}

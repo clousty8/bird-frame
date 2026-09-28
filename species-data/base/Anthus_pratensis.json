@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Anthus pratensis",
+ "common_name_fr": "Pipit farlouse",
+ "birdnet_label": "Anthus pratensis_Pipit farlouse",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Motacillidae",
+  "family_common": "Wagtails and Pipits",
+  "genus": "Anthus",
+  "species": "Anthus pratensis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pipit farlouse",
+   "url": "https://fr.wikipedia.org/wiki/Pipit_farlouse",
+   "description": "espèce d'oiseaux passériformes de la famille des motacillidae",
+   "extract": "Le Pipit farlouse, également appelé Pipit des prés ou Béguinette en wallon, est une espèce de passereaux de la famille des Motacillidae.",
+   "fulltext_chars": 5804
+  },
+  "en": {
+   "title": "Meadow pipit",
+   "url": "https://en.wikipedia.org/wiki/Meadow_pipit",
+   "description": "Species of bird",
+   "extract": "The meadow pipit is a small passerine bird that breeds throughout much of the Palearctic, from south-eastern Greenland and Iceland east to just east of the Ural Mountains in Russia, and south to central France and Romania; an isolated population also occurs in the Caucasus Mountains. It is migratory over most of its range, wintering in southern Europe, North Africa, and south-western Asia, but is resident year-round in western Europe, although even here many birds move to the coast or lowlands in winter.",
+   "fulltext_chars": 4630
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Meadow_pipit_%28Anthus_pratensis%29_Oppdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5402,
+  "height": 4052,
+  "file": "Meadow_pipit_(Anthus_pratensis)_Oppdal.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Meadow_pipit_%28Anthus_pratensis%29_Oppdal.jpg/1920px-Meadow_pipit_%28Anthus_pratensis%29_Oppdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Charles J. Sharp",
+  "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Meadow_pipit_(Anthus_pratensis)_Oppdal.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.7802,
+  "cities": {
+   "Le Mans": 0.656,
+   "Pornic": 0.709,
+   "Rennes": 0.742,
+   "Poitiers": 0.571,
+   "Paris": 0.624,
+   "Lille": 0.666,
+   "Strasbourg": 0.249,
+   "Lyon": 0.353,
+   "Grenoble": 0.313,
+   "Marseille": 0.485,
+   "Toulouse": 0.568,
+   "Bordeaux": 0.635,
+   "Brest": 0.78,
+   "Ajaccio": 0.627,
+   "Clermont-Ferrand": 0.44,
+   "Chamonix": 0.221,
+   "Perpignan": 0.553,
+   "Nancy": 0.349
+  },
+  "monthly_scores": [
+   0.6157,
+   0.5997,
+   0.5057,
+   0.4805,
+   0.2712,
+   0.2408,
+   0.262,
+   0.217,
+   0.4223,
+   0.7802,
+   0.6633,
+   0.6275
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:42Z"
+}

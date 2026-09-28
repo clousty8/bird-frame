@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Larus canus",
+ "summary_fr": "Le Goéland cendré est un petit goéland au vol gracieux, notablement plus petit que le Goéland argenté dont il se distingue par l'absence de tache rouge sur le bec. Très cosmopolite, il peuple les régions tempérées du Paléarctique nord, des îles Britanniques à la Sibérie. En France, c'est un visiteur régulier des côtes océaniques et méditerranéennes, davantage que des eaux intérieures. Il se nourrit de mollusques variés, de vers et de petits poissons, avec un comportement hautement social. Le Goéland cendré se montre farouchement territorial, surtout en période de reproduction. Son cri caractéristique, une sorte de rire aigu et cristallin, résonne régulièrement au-dessus des havres côtiers. Migrateur partiel, il abandonne les régions arctiques l'hiver pour les côtes méditerranéennes et asiatiques, mais certains hivernent aussi en France.",
+ "habitat": "Littoral maritime (côtes rocheuses, plages, estuaires), falaises et îles côtières; moins fréquent à l'intérieur des terres.",
+ "diet": "Mollusques (coques, moules), vers de terre, petits poissons; opportuniste et parfois kleptoparasite (vole la nourriture d'autres oiseaux).",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Littoral méditerranéen français, mers Caspienne et Noire, ainsi que mers tempérées d'Asie; hiverne aussi en Méditerranée orientale.",
+  "niche": "Îles côtières et littoral du Paléarctique nord; quelques couples se reproduisent en France côtière, surtout en Bretagne et côte atlantique.",
+  "passage": "Passages migratoires notés en mars-avril et septembre-octobre selon les régions, plus important en automne."
+ },
+ "seasonality_fr": "Présent toute l'année en France côtière, avec des effectifs qui augmentent à l'automne et l'hiver lors des arrivées de migrateurs du nord.",
+ "song_fr": "Cri caractéristique : rire aigu et cristallin très reconnaissable; également des cris d'alarme « kyow » discordants en contexte d'agressivité territoriale.",
+ "lookalikes": [
+  {
+   "scientific_name": "Larus argentatus",
+   "common_name_fr": "Goéland argenté",
+   "why_fr": "Plus grand, cri différent; le Goéland argenté a une tache rouge sur le bec alors que le Goéland cendré en est dépourvu."
+  },
+  {
+   "scientific_name": "Larus michahellis",
+   "common_name_fr": "Goéland leucophée",
+   "why_fr": "Similaire en taille, mais plumage plus sombre; cri plus grave et tremolo caractéristique."
+  },
+  {
+   "scientific_name": "Larus fuscus",
+   "common_name_fr": "Goéland brun",
+   "why_fr": "Manteau très foncé, silhouette plus élanc­ée; cri plus nasal « kee-uk »."
+  }
+ ],
+ "rarity_note": "Régulier sur les côtes françaises, surtout littoral océanien. Moins courant que le Goéland argenté mais bien établi en période hivernale.",
+ "fun_facts": [
+  "Son cri cristallin rappelle un rire humain; ce surnom lui a valu l'appellation anglaise « laughing gull ».",
+  "Record de longévité: un individu baguée en Irlande a été recapturée 25 ans plus tard, preuve de sa robustesse.",
+  "Il pratique le kleptoparasitisme: il vole prestement la nourriture d'autres oiseaux, notamment de petits limicoles."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Go%C3%A9land_cendr%C3%A9",
+  "https://en.wikipedia.org/wiki/Common_gull",
+  "https://oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

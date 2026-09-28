@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Turdus torquatus",
+ "common_name_fr": "Merle à plastron",
+ "birdnet_label": "Turdus torquatus_Merle à plastron",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Turdidae",
+  "family_common": "Thrushes and Allies",
+  "genus": "Turdus",
+  "species": "Turdus torquatus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Merle à plastron",
+   "url": "https://fr.wikipedia.org/wiki/Merle_%C3%A0_plastron",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Merle à plastron est une espèce de passereaux appartenant à la famille des Turdidae. C'est l'équivalent montagnard du merle noir — qui lui est étroitement apparenté — et il se reproduit dans les éboulis, les zones rocheuses ou les forêts subalpines.",
+   "fulltext_chars": 4267
+  },
+  "en": {
+   "title": "Ring ouzel",
+   "url": "https://en.wikipedia.org/wiki/Ring_ouzel",
+   "description": "Species of birds mainly in Europe",
+   "extract": "The ring ouzel is a mainly European member of the thrush family Turdidae. It is a medium-sized thrush, 23–24 centimetres (9.1–9.4 in) in length and weighing 90–138 grams (3.2–4.9 oz). The male is predominantly black with a conspicuous white crescent across its breast. Females are browner and duller than males, and young birds may lack the pale chest markings altogether. In all but the northernmost part of its range, this is a high-altitude species, with three subspecies breeding in mountains from Ireland east to Iran. It breeds in open mountain areas with some trees or shrubs, the latter often including juniper and other treeline conifers, rowan, bilberry, heather, and hairy alpenrose. It is a migratory bird, leaving the breeding areas to winter in southern Europe, North Africa and Turkey, typically in mountains with junipers. The typical clutch is 3–6 brown-flecked pale blue or greenish-blue eggs. They are incubated almost entirely by the female, with hatching normally occurring after 13 days. The altricial, downy chicks fledge in another 14 days and are dependent on their parents for about 12 days after fledging.",
+   "fulltext_chars": 15161
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/2015-04-20_Turdus_torquatus_torquatus_Cairngorm_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4000,
+  "height": 3000,
+  "file": "2015-04-20_Turdus_torquatus_torquatus_Cairngorm_1.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2015-04-20_Turdus_torquatus_torquatus_Cairngorm_1.jpg/1920px-2015-04-20_Turdus_torquatus_torquatus_Cairngorm_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "MPF",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:2015-04-20_Turdus_torquatus_torquatus_Cairngorm_1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0629,
+  "cities": {
+   "Le Mans": 0.037,
+   "Pornic": 0.029,
+   "Rennes": 0.029,
+   "Poitiers": 0.045,
+   "Paris": 0.035,
+   "Lille": 0.034,
+   "Strasbourg": 0.023,
+   "Lyon": 0.043,
+   "Grenoble": 0.04,
+   "Marseille": 0.041,
+   "Toulouse": 0.043,
+   "Bordeaux": 0.048,
+   "Brest": 0.018,
+   "Ajaccio": 0.063,
+   "Clermont-Ferrand": 0.046,
+   "Chamonix": 0.035,
+   "Perpignan": 0.041,
+   "Nancy": 0.026
+  },
+  "monthly_scores": [
+   0.0577,
+   0.0613,
+   0.0505,
+   0.0481,
+   0.031,
+   0.0241,
+   0.0197,
+   0.0167,
+   0.0207,
+   0.047,
+   0.0629,
+   0.0608
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:38Z"
+}

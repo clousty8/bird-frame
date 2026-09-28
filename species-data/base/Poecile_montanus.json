@@ -1,0 +1,94 @@
+{
+ "scientific_name": "Poecile montanus",
+ "common_name_fr": "Mésange boréale",
+ "birdnet_label": "Poecile montanus_Mésange boréale",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Paridae",
+  "family_common": "Tits, Chickadees, and Titmice",
+  "genus": "Poecile",
+  "species": "Poecile montanus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Mésange boréale",
+   "url": "https://fr.wikipedia.org/wiki/M%C3%A9sange_bor%C3%A9ale",
+   "description": "espèce d'oiseaux",
+   "extract": "La Mésange boréale est une espèce de passereaux de la famille des paridés.",
+   "fulltext_chars": 6993
+  },
+  "en": {
+   "title": "Willow tit",
+   "url": "https://en.wikipedia.org/wiki/Willow_tit",
+   "description": "Species of passerine bird in the tit family Paridae",
+   "extract": "The willow tit is a passerine bird in the tit family, Paridae. It is a widespread and common resident breeder throughout temperate and subarctic Europe and across the Palearctic. The plumage is grey-brown and off-white with a black cap and bib. It is more of a conifer specialist than the closely related marsh tit, which explains its breeding much farther north. It is resident, and most birds do not migrate.",
+   "fulltext_chars": 6301
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Poecile_montanus_kleinschmidti_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3109,
+  "height": 2332,
+  "file": "Poecile_montanus_kleinschmidti_2.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Poecile_montanus_kleinschmidti_2.jpg/1920px-Poecile_montanus_kleinschmidti_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Francis C. Franklin",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Poecile_montanus_kleinschmidti_2.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1779,
+  "cities": {
+   "Le Mans": 0.036,
+   "Pornic": 0.012,
+   "Poitiers": 0.067,
+   "Paris": 0.065,
+   "Lille": 0.049,
+   "Strasbourg": 0.123,
+   "Lyon": 0.178,
+   "Grenoble": 0.144,
+   "Marseille": 0.025,
+   "Toulouse": 0.016,
+   "Bordeaux": 0.021,
+   "Ajaccio": 0.029,
+   "Clermont-Ferrand": 0.161,
+   "Chamonix": 0.173,
+   "Nancy": 0.106
+  },
+  "monthly_scores": [
+   0.1618,
+   0.1629,
+   0.1585,
+   0.1054,
+   0.0921,
+   0.1221,
+   0.1496,
+   0.1779,
+   0.1503,
+   0.1582,
+   0.1538,
+   0.1612
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:11Z"
+}

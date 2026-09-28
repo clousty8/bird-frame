@@ -1,0 +1,68 @@
+{
+ "scientific_name": "Setophaga petechia",
+ "common_name_fr": "Paruline des mangroves",
+ "birdnet_label": "Setophaga petechia_Paruline jaune",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Parulidae",
+  "family_common": "New World Warblers",
+  "genus": "Setophaga",
+  "species": "Setophaga petechia"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Paruline des mangroves",
+   "url": "https://fr.wikipedia.org/wiki/Paruline_des_mangroves",
+   "description": "espèce d'oiseau",
+   "extract": "La Paruline des mangroves est une espèce d'oiseaux de la famille des Parulidae.",
+   "fulltext_chars": 762
+  },
+  "en": {
+   "title": "Mangrove warbler",
+   "url": "https://en.wikipedia.org/wiki/Mangrove_warbler",
+   "description": "Species of bird",
+   "extract": "The mangrove warbler or mangrove yellow warbler is a New World warbler species. It a small bright yellow bird that is found in mangroves on the Atlantic and Pacific coasts of the tropical Americas. It is also present in the Caribbean and on the Galápagos Islands. It was formerly considered to be conspecific with the migratory American yellow warbler.",
+   "fulltext_chars": 5594
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Costa_Rica_DSCN1683-new_%2830322914283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 900,
+  "height": 588,
+  "file": "Costa_Rica_DSCN1683-new_(30322914283).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Costa_Rica_DSCN1683-new_%2830322914283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Åsa Berndtsson",
+  "credit": "DSCN1683-new",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Costa_Rica_DSCN1683-new_(30322914283).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0133,
+  "cities": {
+   "Pornic": 0.013,
+   "Rennes": 0.01
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0118,
+   0.0133,
+   0.0127,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:19Z"
+}

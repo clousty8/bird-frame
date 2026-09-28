@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Falco subbuteo",
+ "common_name_fr": "Faucon hobereau",
+ "birdnet_label": "Falco subbuteo_Faucon hobereau",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Falconiformes",
+  "family": "Falconidae",
+  "family_common": "Falcons and Caracaras",
+  "genus": "Falco",
+  "species": "Falco subbuteo"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Faucon hobereau",
+   "url": "https://fr.wikipedia.org/wiki/Faucon_hobereau",
+   "description": "espèce d'oiseaux falconiformes de la famille des falconidae",
+   "extract": "Le hobereau ou faucon hobereau est une espèce de rapaces diurnes appartenant à la famille des Falconidae.",
+   "fulltext_chars": 2963
+  },
+  "en": {
+   "title": "Eurasian hobby",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_hobby",
+   "description": "Species of bird",
+   "extract": "The Eurasian hobby, or just hobby, is a small, slim falcon. It belongs to a group of similar falcons often considered a subgenus of Falco.",
+   "fulltext_chars": 4182
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/23/Falco_subbuteo_NAUMANN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 1182,
+  "file": "Falco_subbuteo_NAUMANN.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/23/Falco_subbuteo_NAUMANN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Falco_subbuteo_NAUMANN.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1869,
+  "cities": {
+   "Le Mans": 0.138,
+   "Pornic": 0.105,
+   "Rennes": 0.105,
+   "Poitiers": 0.125,
+   "Paris": 0.142,
+   "Lille": 0.154,
+   "Strasbourg": 0.086,
+   "Lyon": 0.101,
+   "Grenoble": 0.093,
+   "Marseille": 0.107,
+   "Toulouse": 0.11,
+   "Bordeaux": 0.106,
+   "Brest": 0.076,
+   "Ajaccio": 0.187,
+   "Clermont-Ferrand": 0.109,
+   "Chamonix": 0.083,
+   "Perpignan": 0.117,
+   "Nancy": 0.1
+  },
+  "monthly_scores": [
+   0.0126,
+   0.0191,
+   0.0779,
+   0.1481,
+   0.1388,
+   0.1244,
+   0.128,
+   0.1393,
+   0.1869,
+   0.0924,
+   0.019,
+   0.0146
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:10Z"
+}

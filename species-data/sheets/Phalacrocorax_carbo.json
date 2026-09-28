@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scientific_name": "Phalacrocorax carbo",
+  "summary_fr": "Le Grand Cormoran est un oiseau aquatique piscivore au plumage entièrement noir, habitant les eaux douces, saumâtres et salées d'Europe, d'Asie et d'Océanie. Excellente plongeuse et nageuse sous-marine, elle capture des poissons en plongée jusqu'à 10 mètres de profondeur. Son plumage unique, imperméable à la base mais absorbant à la pointe, lui permet une mobilité remarquable sous l'eau et explique son repos en ailes déployées pour se sécher. Généralement silencieuse en vol, elle devient grégaire en colonies de reproduction, où elle pousse des cris gutturaux caractéristiques. En France, menacée dans les années 1970, l'espèce a fait un remarquable retour après protection. Aujourd'hui commune sur les côtes et zones humides, elle se manifeste toute l'année avec des mouvements migratoires marqués en automne et printemps.",
+  "habitat": "Eaux douces, saumâtres ou salées riches en poissons ; estuaires, deltas, mangroves, baies abritées, lacs, étangs, canaux et ports. Préfère les eaux à courant faible. Se perche régulièrement en hauteur pour se sécher.",
+  "diet": "Poissons vivants (moyenne 20 cm, jusqu'à 1,5 kg) capturés en plongée. Consomme aussi crustacés, amphibiens, mollusques et petits oiseaux nicheurs.",
+  "activity_pattern": "diurne",
+  "migration": {
+    "statut": "migrateur partiel",
+    "hiverne": "Présente dans toute la France, avec renforcement hivernal par des populations du nord et de l'est européen.",
+    "niche": "Niche sur tout le territoire français, surtout avril à juin. Colonies de 10 à 500 couples en arborisation.",
+    "passage": "Mouvements migratoires marqués en mars et octobre-novembre ; dispersion post-nuptiale en automne."
+  },
+  "seasonality_fr": "Présente toute l'année en France. Pêche accrue en hiver (poissons plus gros). Période de reproduction mars-juillet en colonie.",
+  "song_fr": "Généralement silencieuse en vol. Cris gutturaux glougloutants (« gra-gra ») uniquement aux colonies de reproduction ou en perchoir.",
+  "lookalikes": [
+    {
+      "scientific_name": "Phalacrocorax aristotelis",
+      "common_name_fr": "Cormoran huppé",
+      "why_fr": "Appels gutturaux très similaires. Distingué par taille plus petite et huppe frontale."
+    }
+  ],
+  "rarity_note": "Commune et régulière en France, particulièrement sur les côtes et zones humides, toute l'année. Effectifs croissants depuis les années 1980 suite à sa protection.",
+  "fun_facts": [
+    "Son plumage semi-imperméable unique : imperméable à la base mais imbibable aux extrémités, le lestant pour plonger profond.",
+    "Reste submergée jusqu'à 3 minutes et plonge à 9,5 m de profondeur pour capturer des poissons au fond."
+  ],
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Grand_Cormoran",
+    "https://en.wikipedia.org/wiki/Great_cormorant",
+    "https://www.oiseaux.net/",
+    "https://www.lpo.fr/"
+  ],
+  "generated_at": "2026-09-27T17:00:00Z",
+  "generator_model": "claude-haiku-4-5"
+}

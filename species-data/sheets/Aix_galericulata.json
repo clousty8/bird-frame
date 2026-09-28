@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Aix galericulata",
+ "summary_fr": "Canard aux couleurs flamboyantes échappé de captivité, le Canard mandarin s'est progressivement acclimaté en Europe, notamment en Grande-Bretagne et en région parisienne. Ce petit canard forestier de 41 à 51 cm se remarque aisément : le mâle arbore des teintes chatoyantes avec des reflets bleus, rouges et cuivrés, tandis que la femelle, plus discrète, reste grise. Contrairement aux canards communs, il niche dans les cavités d'arbres et se nourrit au crépuscule. En Asie, il symbolise la fidélité conjugale, car les couples restent unis toute leur vie. En France, les quelques populations établies sont surtout visibles en hiver et au printemps, autour des grands parcs et des cours d'eau boisées.",
+ "habitat": "Régions forestières avec plans d'eau, haies boisées près des cours d'eau, grands parcs urbains avec arbres creux.",
+ "diet": "Glands, graines et fruits ; insectes, escargots et petits poissons au printemps et en été ; mollusques et petits serpents.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Absent de France en tant qu'hivernant régulier ; quelques individus peuvent rester exceptionnellement en hiver dans les régions côtières.",
+  "niche": "Quelques populations nichent régulièrement en Grande-Bretagne et en région parisienne ; aucune reproduction établie en province française.",
+  "passage": "Passages variables ; observations surtout entre novembre et avril en France, augmentation en février-mars."
+ },
+ "seasonality_fr": "Visible surtout d'octobre à avril en France ; plus rare en été. Les hivernants asiatiques arrivent en Europe de novembre à février.",
+ "song_fr": "Canard relativement silencieux ; le mâle produit des sifflements doux et flûtés lors de la parade ; cris d'alarme discrets.",
+ "lookalikes": [
+  {
+   "scientific_name": "Aix sponsa",
+   "common_name_fr": "Canard branchu",
+   "why_fr": "Seul parent proche ; même silhouette et même niche écologique (cavités d'arbres). Cris similaires mais plus aigus."
+  },
+  {
+   "scientific_name": "Bucephala clangula",
+   "common_name_fr": "Garrot à oeil d'or",
+   "why_fr": "Aussi nicheur en cavités ; cris ressemblants lors de la parade ; taille comparable en vol."
+  }
+ ],
+ "rarity_note": "Rare et localisé en France, surtout en région parisienne et dans les zones côtières. Effectif très inférieur à celui de Grande-Bretagne (environ 7 000 oiseaux).",
+ "fun_facts": [
+  "Le mâle perd ses couleurs spectaculaires après la reproduction, ressemblant alors à la femelle jusqu'à la mue suivante.",
+  "En Chine et en Corée, les couples de canards mandarins sont offerts en cadeau de mariage, symboles d'amour éternel.",
+  "Les canetons sautent de très haut (parfois 15 mètres) dès leur éclosion pour suivre leur mère jusqu'à l'eau."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Canard_mandarin",
+  "https://en.wikipedia.org/wiki/Mandarin_duck",
+  "https://www.oiseaux.net/oiseaux/canard.mandarin.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

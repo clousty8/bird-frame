@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Riparia riparia",
+ "common_name_fr": "Hirondelle de rivage",
+ "birdnet_label": "Riparia riparia_Hirondelle de rivage",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Hirundinidae",
+  "family_common": "Swallows",
+  "genus": "Riparia",
+  "species": "Riparia riparia"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Hirondelle de rivage",
+   "url": "https://fr.wikipedia.org/wiki/Hirondelle_de_rivage",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Hirondelle de rivage est une espèce de passereaux migrateurs de la famille des Hirundinidae. C'est la seule espèce d'hirondelles à dos brun.",
+   "fulltext_chars": 6251
+  },
+  "en": {
+   "title": "Sand martin",
+   "url": "https://en.wikipedia.org/wiki/Sand_martin",
+   "description": "Species of bird",
+   "extract": "The sand martin, also known as the collared sand martin or common sand martin, and in the Americas as the bank swallow, is a migratory passerine bird in the swallow family Hirundinidae. It has a wide range in summer, embracing practically the whole Holarctic area, from Europe, across Asia to the Pacific Ocean, and throughout North America. It winters in eastern and southern Africa, southern Asia, and South America.",
+   "fulltext_chars": 6901
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/36/Riparia_riparia1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2244,
+  "height": 1496,
+  "file": "Riparia_riparia1.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Riparia_riparia1.jpg/1920px-Riparia_riparia1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "https://www.flickr.com/photos/32639361@N02/with/7704612728/",
+  "credit": "https://www.flickr.com/photos/rodericus_/5608125402/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Riparia_riparia1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3103,
+  "cities": {
+   "Le Mans": 0.229,
+   "Pornic": 0.193,
+   "Rennes": 0.237,
+   "Poitiers": 0.164,
+   "Paris": 0.232,
+   "Lille": 0.31,
+   "Strasbourg": 0.125,
+   "Lyon": 0.086,
+   "Grenoble": 0.078,
+   "Marseille": 0.097,
+   "Toulouse": 0.1,
+   "Bordeaux": 0.13,
+   "Brest": 0.242,
+   "Ajaccio": 0.19,
+   "Clermont-Ferrand": 0.098,
+   "Chamonix": 0.076,
+   "Perpignan": 0.101,
+   "Nancy": 0.159
+  },
+  "monthly_scores": [
+   0.0137,
+   0.025,
+   0.1252,
+   0.2377,
+   0.3103,
+   0.2539,
+   0.2375,
+   0.2496,
+   0.1338,
+   0.0656,
+   0.0213,
+   0.0169
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:38Z"
+}

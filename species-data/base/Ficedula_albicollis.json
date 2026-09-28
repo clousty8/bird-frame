@@ -1,0 +1,70 @@
+{
+ "scientific_name": "Ficedula albicollis",
+ "common_name_fr": "Gobemouche à collier",
+ "birdnet_label": "Ficedula albicollis_Gobemouche à collier",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Muscicapidae",
+  "family_common": "Old World Flycatchers",
+  "genus": "Ficedula",
+  "species": "Ficedula albicollis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Gobemouche à collier",
+   "url": "https://fr.wikipedia.org/wiki/Gobemouche_%C3%A0_collier",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Gobemouche à collier appartient aux passereaux cavernicoles de la famille des Muscicapidae.",
+   "fulltext_chars": 5031
+  },
+  "en": {
+   "title": "Collared flycatcher",
+   "url": "https://en.wikipedia.org/wiki/Collared_flycatcher",
+   "description": "Species of bird",
+   "extract": "The collared flycatcher is a small passerine bird in the Old World flycatcher family, one of the four species of Western Palearctic black-and-white flycatchers. It breeds in southeast Europe and Eastern France to the Balkan Peninsula and Ukraine and is migratory, wintering in Sub-Saharan Africa. It is a rare vagrant in western Europe.",
+   "fulltext_chars": 0
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Halsbandschnaepper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 280,
+  "height": 235,
+  "file": "Halsbandschnaepper.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Halsbandschnaepper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "de:User:Stefan Wehr",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Halsbandschnaepper.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0921,
+  "cities": {
+   "Marseille": 0.012,
+   "Ajaccio": 0.092
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0318,
+   0.0921,
+   0.0356,
+   0.0188,
+   0.015,
+   0.0311,
+   0.0419,
+   0.0178,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:18Z"
+}

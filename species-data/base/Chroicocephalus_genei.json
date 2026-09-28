@@ -1,0 +1,84 @@
+{
+ "scientific_name": "Chroicocephalus genei",
+ "common_name_fr": "Goéland railleur",
+ "birdnet_label": "Chroicocephalus genei_Goéland railleur",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Chroicocephalus",
+  "species": "Chroicocephalus genei"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Goéland railleur",
+   "url": "https://fr.wikipedia.org/wiki/Go%C3%A9land_railleur",
+   "description": "espèce d'oiseaux du genre Chroicocephalus",
+   "extract": "Le Goéland railleur est une espèce d'oiseaux Charadriiformes de la famille des Laridae. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 2643
+  },
+  "en": {
+   "title": "Slender-billed gull",
+   "url": "https://en.wikipedia.org/wiki/Slender-billed_gull",
+   "description": "Species of bird",
+   "extract": "The slender-billed gull is a mid-sized gull which breeds very locally around the Mediterranean and the north of the western Indian Ocean on islands and coastal lagoons. Most of the population is somewhat migratory, wintering further south to as far as North Africa and India. A few birds have wandered to western Europe. A vagrant individual was reportedly seen on Antigua, April 24, 1976.",
+   "fulltext_chars": 2704
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Larus_genei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1200,
+  "height": 800,
+  "file": "Larus_genei.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Larus_genei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "GabrielBuissart",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Larus_genei.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1958,
+  "cities": {
+   "Marseille": 0.029,
+   "Toulouse": 0.018,
+   "Bordeaux": 0.011,
+   "Ajaccio": 0.196,
+   "Perpignan": 0.03
+  },
+  "monthly_scores": [
+   0.1958,
+   0.1893,
+   0.1627,
+   0.1006,
+   0.0656,
+   0.0611,
+   0.0766,
+   0.0816,
+   0.0725,
+   0.0917,
+   0.151,
+   0.1842
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:08Z"
+}

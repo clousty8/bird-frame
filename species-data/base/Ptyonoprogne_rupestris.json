@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Ptyonoprogne rupestris",
+ "common_name_fr": "Hirondelle de rochers",
+ "birdnet_label": "Ptyonoprogne rupestris_Hirondelle de rochers",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Hirundinidae",
+  "family_common": "Swallows",
+  "genus": "Ptyonoprogne",
+  "species": "Ptyonoprogne rupestris"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Hirondelle de rochers",
+   "url": "https://fr.wikipedia.org/wiki/Hirondelle_de_rochers",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Hirondelle de rochers est une espèce de passereaux de la famille des Hirundinidae, hôte des escarpements rocheux.",
+   "fulltext_chars": 2985
+  },
+  "en": {
+   "title": "Eurasian crag martin",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_crag_martin",
+   "description": "Small passerine bird in the swallow family",
+   "extract": "The Eurasian crag martin or just crag martin is a small passerine bird in the swallow family. It is about 14 cm (5.5 in) long with ash-brown upperparts and paler underparts, and a short, square tail that has distinctive white patches on most of its feathers. It breeds in the mountains of southern Europe, northwestern Africa and across the Palearctic. It can be confused with the three other species in its genus, but is larger with brighter tail spots and different plumage tone. Many European birds are resident, but some northern populations and most Asian breeders are migratory, wintering in northern Africa, the Middle East or India.",
+   "fulltext_chars": 14282
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/66/Ptyonoprogne_rupestris_-Alcobaca%2C_Portugal_-perching_on_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 600,
+  "height": 800,
+  "file": "Ptyonoprogne_rupestris_-Alcobaca,_Portugal_-perching_on_roof.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/6/66/Ptyonoprogne_rupestris_-Alcobaca%2C_Portugal_-perching_on_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Ptyonoprogne_rupestris_flock.jpg: Tintazul\nderivative work: Snowmanradio (talk)",
+  "credit": "Ptyonoprogne_rupestris_flock.jpg",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Ptyonoprogne_rupestris_-Alcobaca,_Portugal_-perching_on_roof.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3835,
+  "cities": {
+   "Le Mans": 0.035,
+   "Pornic": 0.041,
+   "Rennes": 0.025,
+   "Poitiers": 0.096,
+   "Paris": 0.031,
+   "Lille": 0.01,
+   "Strasbourg": 0.083,
+   "Lyon": 0.26,
+   "Grenoble": 0.327,
+   "Marseille": 0.337,
+   "Toulouse": 0.356,
+   "Bordeaux": 0.206,
+   "Brest": 0.014,
+   "Ajaccio": 0.383,
+   "Clermont-Ferrand": 0.232,
+   "Chamonix": 0.276,
+   "Perpignan": 0.37,
+   "Nancy": 0.053
+  },
+  "monthly_scores": [
+   0.3537,
+   0.3835,
+   0.3385,
+   0.2872,
+   0.3027,
+   0.3198,
+   0.3675,
+   0.3703,
+   0.2255,
+   0.2337,
+   0.3387,
+   0.3559
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:17Z"
+}

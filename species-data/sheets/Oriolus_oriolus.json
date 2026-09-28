@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Oriolus oriolus",
+ "summary_fr": "Avec son plumage jaune d'or éclatant et ses ailes noires, le mâle du Loriot d'Europe compte parmi les passereaux les plus spectaculaires du continent, tranchant nettement avec le vert tendre du feuillage où il se cache ; la femelle, plus discrète, arbore un dos vert-olive et un ventre clair légèrement tacheté. Seul représentant de sa famille, les Oriolidés, à nicher en Europe tempérée, cet oiseau farouche des frondaisons trahit surtout sa présence par un chant flûté et puissant, un « di-de-lio » mélodieux qui porte loin dans les grands arbres. Son cri d'alarme, plus rauque, évoque parfois un feulement de chat, au point de surprendre les promeneurs qui ne le connaissent pas. Insectivore, il chasse dans les frondaisons coléoptères, chenilles et guêpes, avant de se tourner vers les fruits mûrs (cerises, mûres, figues) en fin d'été. Migrateur au long cours et surtout nocturne dans ses déplacements, il quitte l'Europe entre fin juillet et septembre pour l'Afrique tropicale, où il hiverne, et revient nicher d'avril à fin mai. Farouche et mobile malgré ses couleurs vives, il reste difficile à observer, mais son chant, une fois appris, le trahit sans peine dans le feuillage.",
+ "habitat": "Forêts de feuillus (chênes, trembles, bouleaux, aulnes), peupleraies, bosquets et grands parcs arborés, souvent en bordure de cours d'eau. Plaine et moyenne altitude.",
+ "diet": "Gros insectes et arthropodes : coléoptères, chenilles, papillons, guêpes, bourdons, sauterelles, araignées, petits mollusques. Fruits en fin d'été : cerises, mûres, figues, baies de sorbier.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique tropicale et australe ; ne passe jamais l'hiver en France.",
+  "niche": "Partout en France en plaine et moyenne altitude, de mi-avril à juillet ; une ponte annuelle.",
+  "passage": "Départs entre fin juillet et mi-septembre ; retours de mi-avril à fin mai."
+ },
+ "seasonality_fr": "Migrateur estival, présent d'avril à septembre en France, absent en hiver. Audible surtout de mai à juillet, pendant la reproduction.",
+ "song_fr": "Chant flûté, puissant et mélodieux, souvent rendu par « di-de-lio » ou « weela-wee-ooo ». Cri d'alarme rauque « kweeaahk », rappelant parfois un feulement de chat.",
+ "lookalikes": [
+  {
+   "scientific_name": "Picus viridis",
+   "common_name_fr": "Pic vert",
+   "why_fr": "Cri sonore et flûté porté loin dans les frondaisons, dans un registre de fréquences proche du chant du Loriot."
+  },
+  {
+   "scientific_name": "Turdus merula",
+   "common_name_fr": "Merle noir",
+   "why_fr": "Chant flûté aux phrases mélodieuses ; certaines strophes de sub-chant rappellent le timbre du Loriot."
+  }
+ ],
+ "rarity_note": "Nicheur régulier mais localisé, plus présent vers le sud et l'est de la France ; modéré dans le centre-ouest (Le Mans, Pornic). Jamais hivernant.",
+ "fun_facts": [
+  "Seul membre de sa famille, les Oriolidés, à nicher en Europe tempérée ; son plumage doré lui vaut un air d'oiseau exotique égaré dans nos forêts.",
+  "Buffon racontait que deux loriots pouvaient dévaster un cerisier bien garni en une seule journée.",
+  "Son cri d'alarme surprend souvent les promeneurs, qui le prennent pour le feulement d'un chat caché dans les arbres."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Loriot_d'Europe",
+  "https://en.wikipedia.org/wiki/Eurasian_golden_oriole",
+  "https://www.oiseaux.net/oiseaux/loriot.d.europe.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

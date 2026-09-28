@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Aix sponsa",
+ "summary_fr": "Le Canard branchu, aussi appelé Canard carolin, est un canard nord-américain au plumage remarquable, le mâle affichant des couleurs éclatantes et iridescentes tandis que la femelle arbore un plumage plus discret. Parmi les rares canards au monde capables de nicher dans les cavités des arbres, il se sent aussi à l'aise en forêt qu'à proximité de l'eau, mâles et femelles restant liés à leur territoire toute l'année. Bien qu'originaire des zones boisées et marécageuses d'Amérique du Nord, ses populations se sont effondrées au début du XXe siècle du fait de la chasse intensive et de la récolte de ses plumes. La mise en place de nichoirs artificiels a permis un redressement spectaculaire en Amérique du Nord. En Europe, il est maintenu en captivité mais ne s'y est pas établi naturellement, contrairement au Canard mandarin asiatique. Les observations en France relèvent de l'échappée et restent très exceptionnelles.",
+ "habitat": "Zones boisées le long des rivières, lacs, marais et étangs, nécessitant des cavités d'arbres pour la nidification.",
+ "diet": "Plantes aquatiques, graines, fruits et insectes; baies et glands constituent une part importante de son alimentation.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Observe exceptionnellement en hiver, principalement dans le sud de la France, probablement oiseaux échappés de captivité.",
+  "niche": "Ne niche pas en France.",
+  "passage": "Passages hivernaux exceptionnels, principalement de novembre à février."
+ },
+ "seasonality_fr": "Exceptionnellement visible en hiver (novembre à février) en France, observations très rares et imprévisibles.",
+ "song_fr": "Le mâle émet un sifflement montant caractéristique « jeeeeee », tandis que la femelle produit un cri montant prolongé « do weep do weep » lors de l'envol.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anas platyrhynchos",
+   "common_name_fr": "Canard colvert",
+   "why_fr": "Taille et habitat similaires ; canards de taille proche avec cris aquatiques comparables."
+  },
+  {
+   "scientific_name": "Anas acuta",
+   "common_name_fr": "Canard pilet",
+   "why_fr": "Canard de grande taille aux cris ressemblants lors des appels de vol."
+  },
+  {
+   "scientific_name": "Aythya ferina",
+   "common_name_fr": "Fuligule milouin",
+   "why_fr": "Canard de taille comparable avec des vocalises graves et des cris similaires."
+  }
+ ],
+ "rarity_note": "Exceptionnellement rare en France, observé principalement comme oiseaux échappés de captivité hivernale.",
+ "fun_facts": [
+  "C'est l'un des rares canards au monde à nicher dans les cavités des arbres, comme les mésanges.",
+  "Les mâles affichent un plumage spectaculaire uniquement durant la reproduction, ressemblant au Canard mandarin asiatique.",
+  "Presque disparu dans les années 1920, sa population a été spectaculairement restaurée par les nichoirs artificiels."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Canard_branchu",
+  "https://en.wikipedia.org/wiki/Wood_duck"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

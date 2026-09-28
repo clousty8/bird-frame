@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Calidris ferruginea",
+ "common_name_fr": "Bécasseau cocorli",
+ "birdnet_label": "Calidris ferruginea_Bécasseau cocorli",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Calidris",
+  "species": "Calidris ferruginea"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécasseau cocorli",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9casseau_cocorli",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Bécasseau cocorli est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 5196
+  },
+  "en": {
+   "title": "Curlew sandpiper",
+   "url": "https://en.wikipedia.org/wiki/Curlew_sandpiper",
+   "description": "Species of bird",
+   "extract": "The curlew sandpiper is a small wader. It is a long-distance migrant, breeding in the bogs and coastal lowlands of the Siberian Arctic, arriving there in June and staying until August or September. After the breeding season, it migrates south to spend the winter in Africa and along the coasts of Oceania and southern Eurasia, occupying tidal mudflats and saltpans.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Calidris_ferruginea%2C_Manaskent%2C_Dagestan%2C_Russia_377493839.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1500,
+  "height": 1000,
+  "file": "Calidris_ferruginea,_Manaskent,_Dagestan,_Russia_377493839.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/0/06/Calidris_ferruginea%2C_Manaskent%2C_Dagestan%2C_Russia_377493839.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "egorbirder",
+  "credit": "https://www.inaturalist.org/photos/377493839",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Calidris_ferruginea,_Manaskent,_Dagestan,_Russia_377493839.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1213,
+  "cities": {
+   "Le Mans": 0.034,
+   "Pornic": 0.047,
+   "Rennes": 0.05,
+   "Poitiers": 0.03,
+   "Paris": 0.025,
+   "Lille": 0.034,
+   "Strasbourg": 0.014,
+   "Lyon": 0.017,
+   "Grenoble": 0.015,
+   "Marseille": 0.03,
+   "Toulouse": 0.021,
+   "Bordeaux": 0.026,
+   "Brest": 0.071,
+   "Ajaccio": 0.121,
+   "Clermont-Ferrand": 0.019,
+   "Chamonix": 0.014,
+   "Perpignan": 0.027,
+   "Nancy": 0.016
+  },
+  "monthly_scores": [
+   0.037,
+   0.0394,
+   0.0699,
+   0.0816,
+   0.0725,
+   0.0726,
+   0.096,
+   0.1213,
+   0.1168,
+   0.0602,
+   0.0368,
+   0.0387
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:23Z"
+}

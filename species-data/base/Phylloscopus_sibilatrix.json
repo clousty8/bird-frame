@@ -1,0 +1,88 @@
+{
+ "scientific_name": "Phylloscopus sibilatrix",
+ "common_name_fr": "Pouillot siffleur",
+ "birdnet_label": "Phylloscopus sibilatrix_Pouillot siffleur",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Phylloscopidae",
+  "family_common": "Leaf Warblers",
+  "genus": "Phylloscopus",
+  "species": "Phylloscopus sibilatrix"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pouillot siffleur",
+   "url": "https://fr.wikipedia.org/wiki/Pouillot_siffleur",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pouillot siffleur est une espèce de passereaux appartenant à la famille des Phylloscopidae.",
+   "fulltext_chars": 4633
+  },
+  "en": {
+   "title": "Wood warbler",
+   "url": "https://en.wikipedia.org/wiki/Wood_warbler",
+   "description": "Species of bird",
+   "extract": "The wood warbler is a common and widespread leaf warbler which breeds throughout northern and temperate Europe, and just into the extreme west of Asian Russia in the southern Ural Mountains. It is strongly migratory and the entire population winters in tropical Africa.",
+   "fulltext_chars": 3595
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flickr_-_Rainbirder_-_Wood_Warbler_%28Phylloscopus_sibilatrix%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1000,
+  "height": 635,
+  "file": "Flickr_-_Rainbirder_-_Wood_Warbler_(Phylloscopus_sibilatrix).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flickr_-_Rainbirder_-_Wood_Warbler_%28Phylloscopus_sibilatrix%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Steve Garvie from Dunfermline, Fife, Scotland",
+  "credit": "Wood Warbler (Phylloscopus sibilatrix)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Wood_Warbler_(Phylloscopus_sibilatrix).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1788,
+  "cities": {
+   "Le Mans": 0.013,
+   "Paris": 0.024,
+   "Lille": 0.028,
+   "Strasbourg": 0.038,
+   "Lyon": 0.015,
+   "Grenoble": 0.014,
+   "Marseille": 0.028,
+   "Toulouse": 0.01,
+   "Ajaccio": 0.179,
+   "Clermont-Ferrand": 0.012,
+   "Chamonix": 0.018,
+   "Perpignan": 0.022,
+   "Nancy": 0.034
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0657,
+   0.1604,
+   0.0895,
+   0.061,
+   0.0651,
+   0.1258,
+   0.1788,
+   0.0743,
+   0.0,
+   0.0
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:10Z"
+}

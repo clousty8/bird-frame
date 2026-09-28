@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Setophaga coronata",
+ "summary_fr": "La Paruline à croupion jaune est une petite paruline nord-américaine de la famille des Parulidae, facilement reconnaissable à la tache jaune vif qui orne son croupion, visible chez les deux sexes en toute saison, ce qui lui vaut le surnom familier de « butter-butt » outre-Atlantique. En période de reproduction, dans les forêts de conifères ou mixtes du Canada et du nord des États-Unis, le mâle adulte arbore un dos gris strié de noir, une gorge blanche cerclée de sombre et des taches jaunes sur la calotte, la gorge et les flancs, tandis que la femelle affiche un plumage plus terne. Contrairement à la plupart des parulines, strictement insectivores, elle digère les fruits cireux comme les baies de genévrier, ce qui lui permet d'hiverner bien plus au nord que ses cousines, jusque dans le sud du Canada. Chasseuse polyvalente, elle glane les insectes sur le feuillage, les happe en vol à la manière d'un gobemouche, ou les cueille à la surface de l'eau. En France, où elle n'a normalement rien à faire, de très rares individus égarés lors de leur migration atlantique y sont repérés, surtout à l'automne.",
+ "habitat": "Forêts de conifères ou mixtes conifères-feuillus en période de reproduction ; milieux ouverts, buissons et zones arbustives en hiver.",
+ "diet": "Principalement insectivore (chenilles, coléoptères, pucerons, fourmis, phryganes) ; se rabat sur les fruits en hiver, notamment les baies cireuses de genévrier et de myrique.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": null,
+  "passage": "Occurrences exceptionnelles en France lors des migrations nord-américaines, surtout à l'automne (septembre-novembre) et plus rarement au printemps."
+ },
+ "seasonality_fr": "En France, présence accidentelle uniquement, avec quelques mentions homologuées essentiellement à l'automne, très occasionnellement au printemps.",
+ "song_fr": "Chant trillé monotone de 4 à 7 syllabes rappelant « tyew-tyew-tyew-tyew » ou « tew-tew-tew » ; cri de contact bref, sec, en « tchip ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Setophaga petechia",
+   "common_name_fr": "Paruline jaune",
+   "why_fr": "Même genre nord-américain, cris de contact aigus et brefs pouvant prêter à confusion acoustique lors des passages accidentels."
+  },
+  {
+   "scientific_name": "Phylloscopus trochilus",
+   "common_name_fr": "Pouillot fitis",
+   "why_fr": "Petit passereau migrateur au comportement de fourrageur actif semblable, mais chant et cris de contact bien distincts à l'écoute attentive."
+  },
+  {
+   "scientific_name": "Regulus regulus",
+   "common_name_fr": "Roitelet huppé",
+   "why_fr": "Cris de contact très aigus et brefs, dans un registre proche, source possible de confusion pour un modèle acoustique automatisé."
+  }
+ ],
+ "rarity_note": "Espèce accidentelle en France (score BirdNET 0,03) : quelques individus égarés observés surtout en automne, jamais de population régulière.",
+ "fun_facts": [
+  "C'est la seule paruline nord-américaine capable de digérer les fruits cireux du genévrier, ce qui lui permet d'hiverner plus au nord que toutes ses cousines, parfois jusqu'au Canada.",
+  "Chasseuse d'insectes très polyvalente, elle emploie des techniques raffinées : capture en vol façon gobemouche, glanage sur les feuilles et cueillette à la surface de l'eau."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Setophaga_coronata",
+  "https://en.wikipedia.org/wiki/Yellow-rumped_warbler",
+  "https://www.oiseaux.net/species/setophaga.coronata.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

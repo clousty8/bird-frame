@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Cettia cetti",
+ "summary_fr": "Discrète et bruyante, la Bouscarle de Cetti est une petite fauvette brun roux des zones humides, bien connue pour son chant explosif et caractéristique. Mesurant seulement 13 à 14 centimètres, elle reste délibérément cachée dans la végétation dense, mais son cri soudain et énergique la trahit. Oiseau territorial toute l'année, le mâle défend agressivement son domaine, souvent le long d'un cours d'eau, contre les autres mâles de manière impitoyable. En France, l'espèce est majoritairement sédentaire, bien que certaines populations se déplacent vers le sud en hiver. Contrairement à beaucoup d'autres passereaux, les deux sexes chantent pour défendre leur territoire respectif. Elle se nourrit principalement d'insectes et d'invertébrés aquatiques capturés au sol ou dans la végétation basse des roseaux, des saules et des ronces.",
+ "habitat": "Zones humides avec roseaux, saules et ronces : marais, lacs, rivières, mares. Préfère les lieux touffus et denses où elle peut se dissimuler.",
+ "diet": "Principalement insectes (notamment lépidoptères), arachnides, invertébrés aquatiques et larves. Se nourrit surtout à basse hauteur, près de l'eau.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France, particulièrement dans le sud et dans les zones de climat plus doux. Quelques populations migrent vers le sud du Maghreb, l'Iran, l'Afghanistan et le Pakistan.",
+  "niche": "Partout en France où le milieu est favorable, d'avril à août. Deux couvées par an sont fréquentes. Nid dans la végétation basse, généralement des buissons denses à environ 80 centimètres du sol.",
+  "passage": "Passages migratoires durant l'automne et le printemps pour les populations migratrices du nord et de l'est du continent."
+ },
+ "seasonality_fr": "Présente et audible toute l'année en France grâce à ses populations sédentaires et hivernantes. Plus audible au printemps durant la saison de nidification.",
+ "song_fr": "Chant très explosif et reconnaissable, saccadé et bruyant, souvent décrit comme « pwit-tit-pit-chewit-chewit » ou « ti-tipitipitipi ». Cris d'appel incluant des « chee », « chip », « chick » ou « tsuk ». Chante toute l'année depuis un couvert ou une branche élevée.",
+ "lookalikes": [
+  {
+   "scientific_name": "Locustella naevia",
+   "common_name_fr": "Locustelle tachetée",
+   "why_fr": "Cris et chants bruyants ressemblant superficiellement. La Locustelle a un trille plus régulier et mécanique."
+  },
+  {
+   "scientific_name": "Acrocephalus scirpaceus",
+   "common_name_fr": "Rousserolle effarvatte",
+   "why_fr": "Toutes deux vivent dans les roseaux. La Rousserolle a un chant moins explosif et plus répétitif."
+  },
+  {
+   "scientific_name": "Locustella luscinioides",
+   "common_name_fr": "Locustelle luscinioïde",
+   "why_fr": "Chant bruyant similaire en apparence. La Luscinioïde produit davantage un trille continu que des phrases saccadées."
+  }
+ ],
+ "rarity_note": "Commune et régulière en France, particulièrement en régions méditerranéennes et atlantiques. Aire de répartition en expansion depuis 1970 vers le nord.",
+ "fun_facts": [
+  "Son chant si explosif et soudain qu'il surprend les observateurs cachés dans les roseaux, d'où son surnom de « bouscarle ».",
+  "Les deux sexes chantent pour défendre leur propre territoire, ce qui est rare chez les fauvettes. Les combats entre mâles peuvent être violents.",
+  "En Europe, l'espèce a étendu son aire de répartition vers le nord depuis les années 1970, y compris en Belgique et en Angleterre."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bouscarle_de_Cetti",
+  "https://en.wikipedia.org/wiki/Cetti's_warbler",
+  "https://www.oiseaux.net/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

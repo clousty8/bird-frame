@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Ptyonoprogne rupestris",
+ "summary_fr": "L'Hirondelle de rochers est une hirondelle trapue aux ailes larges et au plumage brun-cendré uniforme, reconnaissable à sa queue courte et carrée ornée de taches blanches près de l'extrémité des rémiges. Elle niche sur les falaises, gorges et parois rocheuses des massifs montagneux du sud de l'Europe, du Maghreb, du golfe Persique, de l'Himalaya et de Chine, et occupe en France les Alpes, les Pyrénées, le Massif central et la Corse ; elle utilise de plus en plus les ponts et bâtiments comme sites de nidification. Contrairement à beaucoup d'hirondelles, une grande partie des oiseaux européens reste sédentaire ou ne descend qu'à basse altitude l'hiver, tandis que les populations les plus nordiques et asiatiques migrent vers l'Afrique du Nord, le Sahel, la vallée du Nil, le Moyen-Orient ou l'Inde. Elle chasse les insectes volants en rase-mottes le long des parois rocheuses et au-dessus des torrents et prairies alpines, souvent en couples isolés ou petites colonies lâches, mais devient grégaire hors saison de reproduction, formant parfois de grands dortoirs communs, comme celui de Gibraltar qui rassemble des milliers d'individus chaque hiver.",
+ "habitat": "Falaises, gorges et escarpements rocheux des massifs montagneux ; niche aussi sur ponts et bâtiments en zone de montagne, et descend parfois en plaine ou vallée basse l'hiver.",
+ "diet": "Insectes volants (mouches, fourmis ailées, petits coléoptères) capturés en vol près des parois rocheuses, au-dessus des torrents et des prairies alpines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France, la plupart des oiseaux restent toute l'année en descendant vers les vallées ou basses altitudes ; les populations plus nordiques hivernent en Afrique du Nord et au Sahel.",
+  "niche": "Massifs montagneux du sud et de l'est de la France (Alpes, Pyrénées, Massif central, Corse), de mai à août, souvent deux nichées.",
+  "passage": "Dispersion et passages irréguliers hors des massifs de nidification, surtout en avril-mai et septembre-octobre."
+ },
+ "seasonality_fr": "Présente toute l'année dans les massifs montagneux du sud et de l'est de la France ; observations plus occasionnelles ailleurs, notamment en migration.",
+ "song_fr": "Cris aigus et brefs (pli, piieh, tshir) rappelant ceux du Linot mélodieux ou de l'Hirondelle de fenêtre ; pas de chant élaboré.",
+ "lookalikes": [
+  {
+   "scientific_name": "Hirundo rustica",
+   "common_name_fr": "Hirondelle rustique",
+   "why_fr": "Cris de vol courts similaires, mais queue longue à filets, contrairement à la queue courte et carrée de l'Hirondelle de rochers."
+  },
+  {
+   "scientific_name": "Delichon urbicum",
+   "common_name_fr": "Hirondelle de fenêtre",
+   "why_fr": "Cris aigus proches ; s'en distingue par le croupion blanc net et l'absence de taches blanches sur la queue."
+  },
+  {
+   "scientific_name": "Riparia riparia",
+   "common_name_fr": "Hirondelle de rivage",
+   "why_fr": "Silhouette et cris de vol comparables près des parois, mais taille plus petite et bande pectorale brune."
+  }
+ ],
+ "rarity_note": "Peu commune et localisée aux massifs montagneux et méditerranéens de France ; nettement plus rare en plaine et dans le nord et l'ouest du pays.",
+ "fun_facts": [
+  "Elle n'a été observée pour la première fois en Suède qu'en 1996, preuve de sa rareté au nord de son aire de répartition.",
+  "Le plus grand dortoir hivernal connu, dans les grottes de Gorham à Gibraltar, rassemble jusqu'à 12 000 individus, soit un à deux pour cent de la population européenne.",
+  "Elle chasse tout près des parois rocheuses, exploitant les remous d'air créés par la falaise pour capturer les insectes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Hirondelle_de_rochers",
+  "https://en.wikipedia.org/wiki/Eurasian_crag_martin",
+  "https://www.oiseaux.net/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

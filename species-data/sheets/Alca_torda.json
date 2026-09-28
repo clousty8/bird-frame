@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Alca torda",
+ "summary_fr": "Unique représentant survivant du genre Alca depuis la disparition du Grand Pingouin au milieu du XIXe siècle, le Petit Pingouin est un oiseau marin trapu au plumage noir et blanc, reconnaissable à son bec noir épais et comprimé latéralement, orné d'une fine ligne blanche. Il passe l'essentiel de l'année en pleine mer et ne rejoint la terre ferme que pour nicher en colonies sur des falaises et corniches rocheuses ; sa population française, cantonnée à la Bretagne, s'est effondrée en un demi-siècle et ne compte plus qu'une trentaine de couples. Plongeur agile, il chasse sous l'eau lançons, harengs et capelans en se propulsant à l'aide de ses ailes courtes repliées, un peu à la manière d'un manchot, bien qu'il conserve la capacité de voler. Peu bavard en mer, il devient plus vocal à la reproduction, avec des grognements graves et roulants qui répondent aux cris aigus des poussins réclamant leur becquée. Monogame durant la saison de nidification, il vit en général de treize à dix-huit ans.",
+ "habitat": "Mers froides de l'Atlantique Nord ; falaises et corniches rocheuses côtières pour la reproduction, eaux pélagiques le reste de l'année.",
+ "diet": "Petits poissons pêchés sous l'eau : lançons, harengs, capelans, sprats ; crustacés en complément.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Sur les côtes atlantiques et de la Manche, surtout de novembre à février, renforcé par des oiseaux venus des colonies du nord de l'Europe.",
+  "niche": "En Bretagne (falaises du cap Fréhel et de l'île Rouzic), population résiduelle en danger critique, moins d'une trentaine de couples ; colonies bien plus importantes en Islande, îles Britanniques, Féroé et Scandinavie.",
+  "passage": "Passages migratoires en mars-avril et septembre-novembre le long des côtes atlantiques et de la Manche."
+ },
+ "seasonality_fr": "Présent toute l'année en faible nombre sur les côtes bretonnes ; plus visible en hiver sur l'ensemble du littoral atlantique et de la Manche.",
+ "song_fr": "Peu vocalisateur en mer ; à la reproduction, grognements graves et roulants des adultes, cris aigus des jeunes réclamant la becquée.",
+ "lookalikes": [
+  {
+   "scientific_name": "Uria aalge",
+   "common_name_fr": "Guillemot de Troïl",
+   "why_fr": "Alcidé de taille et de plumage très proches, nichant souvent côte à côte ; vocalises graves comparables, confusion possible en colonie."
+  },
+  {
+   "scientific_name": "Fratercula arctica",
+   "common_name_fr": "Macareux moine",
+   "why_fr": "Alcidé des mêmes falaises, silhouette trapue et bec massif ; grognements graves et roulants comparables au nid."
+  }
+ ],
+ "rarity_note": "Peu commun en France : nicheur breton résiduel en danger critique (moins de 30 couples), plus régulièrement présent en hiver sur les côtes atlantiques et de la Manche.",
+ "fun_facts": [
+  "Son œuf en forme de poire ne roule pas au bord des corniches abruptes où il niche, une adaptation partagée avec son voisin le Guillemot de Troïl.",
+  "Il plonge en général entre cinq et sept mètres de profondeur, parfois jusqu'à quinze mètres, en se propulsant sous l'eau à l'aide de ses ailes repliées.",
+  "Dernier représentant vivant du genre Alca, il a pris la relève du Grand Pingouin, disparu au milieu du XIXe siècle."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Petit_Pingouin",
+  "https://en.wikipedia.org/wiki/Razorbill"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Falco naumanni",
+ "summary_fr": "Le Faucon crécerellette est un petit rapace méditerranéen très similaire au Faucon crécerelle, mais plus svelte et élégant. Excellemment adapté à la chasse d'insectes qu'il capture en vol ou au sol, il niche en colonies sur les falaises, bâtiments ou dans des cavités, sans construire de nid. En France, son statut s'est amélioré depuis les années 2000 : présent d'avril à début octobre, il recolonise progressivement les départements du sud (Aude, Hérault) où il avait disparu. Grégaire et migrateur, les populations d'Europe de l'Ouest hivernent principalement en Afrique de l'Ouest, en particulier au Sénégal où se rassemblent des dizaines de milliers d'oiseaux. Quelques individus, notamment en Côte-d'Or, demeurent sédentaires toute l'année. Mâle et femelle se distinguent nettement : le mâle porte la tête gris-bleu et le dos roux sans taches, tandis que la femelle arbore un plumage brun uniformément tacheté.",
+ "habitat": "Zones ouvertes et semi-arides, falaises, carrières, bâtiments abandonnés ou modernes en milieu agricole ou urbain, zones côtières et plateaux ensoleillés.",
+ "diet": "Principalement insectes (criquets, sauterelles, libellules) ; aussi petits mammifères, oiseaux, lézards, serpents et vers de terre.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Afrique de l'Ouest, notamment au Sénégal (dortoir majeur découvert en 2007 accueillant plus de 28 000 oiseaux) ; quelques groupes au Mali, Burkina Faso et Niger. Populations orientales en Afrique australe.",
+  "niche": "Sud-est méditerranéen français (Provence, Languedoc) et recolonisation depuis 2000 du sud-ouest (Aude, Hérault) ; individus sédentaires en Côte-d'Or ; breeding avril à juillet, parfois deux nichées.",
+  "passage": "Passages importants en mars et de septembre à octobre ; certains hivernants en Afrique possiblement présents dès février."
+ },
+ "seasonality_fr": "Visible et audible de mars à début octobre, très rare en hiver sauf en Côte-d'Or et localement en Provence où quelques sédentaires persistent.",
+ "song_fr": "Cri distinctif dur et répété « chay-chay-chay », très différent du « kee-kee-kee » du Faucon crécerelle ; cris d'alarme à proximité du nid.",
+ "lookalikes": [
+  {
+   "scientific_name": "Falco tinnunculus",
+   "common_name_fr": "Faucon crécerelle",
+   "why_fr": "Très similaire morphologiquement ; mâle à tête gris-bleu et dos roux tacheté ; femelles presque indissociables ; appel « kee-kee-kee » très différent du « chay-chay-chay »."
+  },
+  {
+   "scientific_name": "Falco vespertinus",
+   "common_name_fr": "Faucon kobez",
+   "why_fr": "Petit falcon de même taille ; appels rauques pouvant prêter à confusion acoustique chez les non-initiés ; profil et silhouette de vol similaires."
+  }
+ ],
+ "rarity_note": "Espèce rare et localisée en France, avec score maximum de 0,08 en zone BirdNET (principalement Méditerranée). Recolonisation très progressive depuis les années 2000, population estimée à plusieurs centaines en reproduction hivernale française. Protégée totalement depuis 1981.",
+ "fun_facts": [
+  "Les griffes du Faucon crécerellette sont anormalement claires (teinte corne blanchâtre), contrairement à la plupart des faucons aux serres noires ; détail visible qu'au très proche rapprochement.",
+  "En janvier 2007, un dortoir unique découvert au Sénégal accueille plus de 28 600 Crécerellettes et 16 000 Elanions naucler, consommant ensemble environ 250 millions d'insectes chaque nuit."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Faucon_crécerellette",
+  "https://en.wikipedia.org/wiki/Lesser_kestrel",
+  "https://oiseaux.net/falco.naumanni.html",
+  "https://www.lpo.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Egretta garzetta",
+ "summary_fr": "L'Aigrette garzette est un petit héron blanc avec un bec noir élancé et des pattes noires à doigts jaunes, mesurant entre 55 et 65 cm. Entièrement blanche toute l'année, elle porte en période nuptiale deux longues aigrettes fines sur la nuque. Opportuniste et silencieuse la plupart du temps, elle chasse les petits poissons et invertébrés dans les eaux peu profondes avec une agilité remarquable. Longtemps chassée pour son plumage au XIXe siècle, elle a connu un déclin spectaculaire avant de bénéficier de lois de protection dès les années 1950. Cette résilience lui a permis de recoloniser massivement la façade atlantique française à partir des années 1960, notamment en Bretagne et Normandie. Aujourd'hui, elle est très commune, niche en colonies bruyantes et hiverne partiellement en France.",
+ "habitat": "Zones humides aux eaux peu profondes : lagunes, claires à huîtres, marais, roselières, cours d'eau, lacs et littoral marin avec vasières et plages. Elle affectionne les eaux saumâtres et les zones ouvertes sans couvert dense.",
+ "diet": "Petits poissons (moins de 20 g), insectes aquatiques et terrestres, crustacés, amphibiens, mollusques, araignées, vers, reptiles et occasionnellement petits oiseaux.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France (notamment côtes ouest et sud), rejoignant également l'Espagne et l'Afrique subsaharienne selon les populations et la rigueur hivernale.",
+  "niche": "Partout en France (surtout façade atlantique) d'avril à juillet en colonies, souvent sur plusieurs sites, nichant jusqu'à 20 m de hauteur dans les arbres, arbustes ou roselières.",
+  "passage": "Passages marqués en mars (printemps) puis d'août à novembre (automne), avec des échanges d'oiseaux d'Europe du Nord et du centre."
+ },
+ "seasonality_fr": "Visible et audible en France toute l'année, avec pics d'activité vocale au printemps et en été lors de la reproduction en colonies. Moins visible en hiver dans le nord en cas de froid intense.",
+ "song_fr": "Silencieuse en déplacement ; émet des cris rauques, des croassements et des bulles sonores au nid et à la colonie. Cri d'alarme sec et répété lorsqu'elle est dérangée.",
+ "lookalikes": [
+  {
+   "scientific_name": "Nycticorax nycticorax",
+   "common_name_fr": "Bihoreau gris",
+   "why_fr": "Ses cris rauques et croassements sont pratiquement indistinguibles de ceux de l'Aigrette garzette, surtout à la colonie."
+  },
+  {
+   "scientific_name": "Ardea ibis",
+   "common_name_fr": "Héron garde-boeufs",
+   "why_fr": "Appels croassants très similaires, surtout en colonie de reproduction où les deux espèces nidifient souvent ensemble."
+  },
+  {
+   "scientific_name": "Egretta gularis",
+   "common_name_fr": "Aigrette à gorge noire",
+   "why_fr": "Vocalises très proches, bien que cette espèce soit surtout africaine et côtière ; présence rare en France."
+  }
+ ],
+ "rarity_note": "Très commune et régulière en France, particulièrement sur la façade atlantique et les zones côtières. Espèce en expansion continue depuis les années 1960 après sa réintroduction naturelle.",
+ "fun_facts": [
+  "Mâle et femelle défendent le nid énergiquement avec des vocalisations bruyantes ; ses colonies peuvent compter plusieurs centaines de couples.",
+  "Au XIXe siècle, 2 millions de peaux d'Aigrette garzette se vendaient chaque année à Londres pour la décoration des chapeaux, ce qui a failli causer son extinction."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Aigrette_garzette",
+  "https://en.wikipedia.org/wiki/Little_egret",
+  "https://www.oiseaux.net/oiseaux/aigrette.garzette.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4440",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

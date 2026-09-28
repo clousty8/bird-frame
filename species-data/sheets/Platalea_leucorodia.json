@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Platalea leucorodia",
+ "summary_fr": "Grand échassier blanc au bec distinctif en forme de spatule, la Spatule blanche fascine par sa silhouette unique et son élégante crête de reproduction. En France, elle fréquente les zones humides côtières et intérieures, souvent en colonies hivernales ou de reproduction. Sa technique de chasse est spectaculaire : elle patauge en eaux peu profondes, balançant son bec latéralement pour filtrer petits poissons, crustacés et insectes aquatiques avec une efficacité remarquable. Très protégée depuis 1981, elle connaît un regain d'expansion majeur en Europe depuis les années 1990, notamment en Camargue et en Brière. Partiellement migratrice, elle alterne entre hivernage en Afrique du Nord et reproductions européennes selon les populations. Oiseaux discrets au repos, les Spatules blanches ne deviennent bruyantes qu'en colonies avec leurs caractéristiques claquements de bec et appels graves.",
+ "habitat": "Zones humides ouvertes peu profondes : lagunes, roselières, marais inondés, lac et réservoirs côtiers. Nidifie en colonies dans les roseaux, arbustes ou arbres à proximité des zones de nourrissage.",
+ "diet": "Petits poissons (gobies, épinochettes, carpes juvéniles), crustacés, insectes aquatiques. Chasse par balayage latéral du bec en eau peu profonde.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Les populations nordiques hivernent en Afrique du Nord (Mauritanie, Égypte), en Inde et Asie du Sud-Est. Populations méditerranéennes et espagnoles partiellement résidentes.",
+  "niche": "Nidification en colonies de mai à juillet dans les zones humides d'Europe occidentale et orientale. En France : Bretagne, Camargue, Loire, Brière, Guérande depuis 2008.",
+  "passage": "Passages migratoires en mars-avril (printemps) et juillet-octobre (post-nuptial), particulièrement visibles sur les côtes atlantiques."
+ },
+ "seasonality_fr": "Visible en France toute l'année avec variations selon les lieux. Plus commune en période de reproduction (avril-juillet) et lors des passages migratoires. Plus rare en hiver sauf en Méditerranée et zones côtières protégées.",
+ "song_fr": "Oiseau très discret, pratiquement silencieux. Émet surtout des claquements de bec caractéristiques, des grognements occasionnels et des cris aigus trumpetants lors de l'agitation en colonie.",
+ "lookalikes": [
+  {
+   "scientific_name": "Plegadis falcinellus",
+   "common_name_fr": "Ibis falcinelle",
+   "why_fr": "Même famille des Threskiornithidae, silhouette de grand échassier, présent en France. Cris et claquements potentiellement confondus."
+  },
+  {
+   "scientific_name": "Ardea cinerea",
+   "common_name_fr": "Héron cendré",
+   "why_fr": "Taille comparable, habitat de zones humides similaires, cris graves pouvant être confondus en contexte de colonie."
+  }
+ ],
+ "rarity_note": "Irrégulière selon les régions et saisons (score 0,24 en moyenne). Commune en périodes de reproduction et migration sur les zones côtières atlantiques et en Camargue, rare en montagne et en hiver hors littoral.",
+ "fun_facts": [
+  "Son bec unique en spatule, long de 18 cm chez le mâle, lui permet une chasse très efficace : le balayage latéral crée un véritable piège pour ses proies.",
+  "Classée vulnérable en France depuis les années 1980, elle bénéficie d'une protection totale et son expansion depuis 2008, notamment en Camargue, est un succès majeur de conservation.",
+  "Contrairement aux hérons, la Spatule blanche vole le cou tendu, une caractéristique rare chez les grands échassiers qui devient un indice visuel précieux d'identification."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Spatule_blanche",
+  "https://en.wikipedia.org/wiki/Eurasian_spoonbill",
+  "https://www.oiseaux.net/oiseaux/spatule.blanche.html",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/3230"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

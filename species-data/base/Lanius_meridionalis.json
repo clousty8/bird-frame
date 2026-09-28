@@ -1,0 +1,77 @@
+{
+ "scientific_name": "Lanius meridionalis",
+ "common_name_fr": "Pie-grièche méridionale",
+ "birdnet_label": "Lanius meridionalis_Pie-grièche méridionale",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Laniidae",
+  "family_common": "Shrikes",
+  "genus": "Lanius",
+  "species": "Lanius meridionalis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pie-grièche méridionale",
+   "url": "https://fr.wikipedia.org/wiki/Pie-gri%C3%A8che_m%C3%A9ridionale",
+   "description": "espèce d'oiseaux",
+   "extract": "La Pie-grièche méridionale est une espèce d'oiseaux de la famille des Laniidae.",
+   "fulltext_chars": 4007
+  },
+  "en": {
+   "title": "Iberian grey shrike",
+   "url": "https://en.wikipedia.org/wiki/Iberian_grey_shrike",
+   "description": "Species of bird",
+   "extract": "The Iberian grey shrike is a species of shrike endemic to southwestern Europe. It is closely related to the great grey shrike, Lanius excubitor, and its plumage is generally similar to it apart from the differences noted below. The Iberian was previously considered conspecific with the great grey; where they co-occur, they do not interbreed and are separated by choice of habitat.",
+   "fulltext_chars": 2868
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/7c/S%C3%BCdlicher-Raubw%C3%BCrger_2018-01-07_0003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4416,
+  "height": 2944,
+  "file": "Südlicher-Raubwürger_2018-01-07_0003.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/S%C3%BCdlicher-Raubw%C3%BCrger_2018-01-07_0003.jpg/1920px-S%C3%BCdlicher-Raubw%C3%BCrger_2018-01-07_0003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:S%C3%BCdlicher-Raubw%C3%BCrger_2018-01-07_0003.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0597,
+  "cities": {
+   "Lyon": 0.014,
+   "Grenoble": 0.013,
+   "Marseille": 0.025,
+   "Toulouse": 0.051,
+   "Bordeaux": 0.027,
+   "Clermont-Ferrand": 0.019,
+   "Perpignan": 0.06
+  },
+  "monthly_scores": [
+   0.0527,
+   0.0361,
+   0.0359,
+   0.0274,
+   0.02,
+   0.0232,
+   0.0304,
+   0.0291,
+   0.0289,
+   0.0452,
+   0.0577,
+   0.0597
+  ],
+  "months": [
+   1,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:40Z"
+}

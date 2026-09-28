@@ -1,0 +1,60 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Tringa totanus",
+ "summary_fr": "Le Chevalier gambette est un petit limicole facilement reconnaissable à ses pattes d'un rouge vif caractéristique et sa large bande blanche aux ailes visibles en vol. Mesurant 25-30 cm, cet échassier au plumage gris-brun se rencontre principalement dans les zones humides, vasières et estuaires des côtes atlantiques et méditerranéennes. Oiseau bruyant et vigilant, il pousse des cris perçants très caractéristiques. Migrateur régulier bien établi en France, il est nicheur local dans quelques régions côtières (Camargue, Vendée) et connaît un passage migratoire important en automne et printemps. Les hivernants locaux sont progressivement rejoints par des populations continentales fuyant le froid du nord et de l'est de l'Europe. Territorial toute l'année, le Chevalier gambette défend son domaine avec vigilance contre ses congénères, notamment lors des transits migratoires.",
+ "habitat": "Zones humides côtières et continentales : vasières intertidales, estuaires, prés salés, lacs peu profonds et étangs côtiers. Préfère les milieux ouverts offrant une bonne visibilité pour détecter les prédateurs.",
+ "diet": "Petits invertébrés aquatiques : vers (notamment Nereis), petits crustacés, larves d'insectes aquatiques, araignées. Se nourrit par picotage ou sondage dans la vase et l'eau peu profonde.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Sur la côte atlantique française, en Méditerranée occidentale et jusqu'en Afrique du Nord. Quelques hivernants réguliers en France, nombre croissant en milder winters.",
+  "niche": "Nicheur très localisé en France : Camargue, Vendée, quelques sites côtiers bretons. Avril à juillet, préférence pour vasières et prés salés en eau peu profonde.",
+  "passage": "Passages migrateurs importants : février-avril au printemps, août-novembre en automne. Flux concentré sur les côtes atlantiques."
+ },
+ "seasonality_fr": "Visible surtout d'automne à printemps, avec des concentrations sur les côtes. Hivernant régulier. Quelques couples nicheurs en été dans les régions côtières. Nicheurs locaux et migrants se chevauchent d'octobre à avril.",
+ "song_fr": "Cris perçants et métalliques très caractéristiques : « teou-teou » ou « tiou-tiou » en vol. Appels d'alarme secs et répétés « tec-tec ». Très vocal, surtout lors de la défense territoriale et des manœuvres de groupe.",
+ "lookalikes": [
+  {
+   "scientific_name": "Tringa erythropus",
+   "common_name_fr": "Chevalier arlequin",
+   "why_fr": "Même taille, pattes rouges, mais bec plus long. Plumage hivernale similaire. Cris plus profonds et nasillards. Confusion possible en automne."
+  },
+  {
+   "scientific_name": "Tringa nebularia",
+   "common_name_fr": "Chevalier aboyeur",
+   "why_fr": "Plus grand, pattes gris-vert, mais ailes blanches en vol semblables. Cris plus forts et aboyants, moins aigus que le Gambette."
+  },
+  {
+   "scientific_name": "Tringa ochropus",
+   "common_name_fr": "Chevalier cul-blanc",
+   "why_fr": "Taille similaire, même habitat, mais plumage nettement plus sombre et tache blanche caractéristique du croupion. Cris plus rauques."
+  },
+  {
+   "scientific_name": "Tringa glareola",
+   "common_name_fr": "Chevalier sylvain",
+   "why_fr": "Plus petit (19-21 cm), teinte plus marron-grisâtre, pattes jaunes. Cris aigus et sifflants très distincts du gambette."
+  },
+  {
+   "scientific_name": "Actitis hypoleucos",
+   "common_name_fr": "Chevalier guignette",
+   "why_fr": "Beaucoup plus petit (19-21 cm), plumage plus homogène. Hochement distinctif de la tête. Habitat similaire mais vocalises très différentes, plus fines."
+  }
+ ],
+ "rarity_note": "Espèce régulière et bien établie en France, notamment sur les côtes atlantiques. Score BirdNET max 0,39 tous lieux confondus, maximum à Brest (0,39). Nicheur rare mais migrateur et hivernant réguliers. Plausible à l'écoute toute l'année, surtout près des zones côtières et des estuaires.",
+ "fun_facts": [
+  "Ses pattes d'un rouge vif donnent à l'espèce ses noms vernaculaires « Chevalier gambette » (gambetta = jambe en italien) et « pieds rouges » dans certaines régions françaises.",
+  "L'espèce affiche un comportement de défense territoriale extrêmement vigoureux : les combats entre mâles peuvent être violents, avec piqûres au cou et à la tête.",
+  "Contrairement à la plupart des passereaux, mâle et femelle chantent tous deux pour défendre leur territoire, ce qui est très rare chez les oiseaux limicoles."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Chevalier_gambette",
+  "https://en.wikipedia.org/wiki/Common_redshank",
+  "https://www.oiseaux.net/oiseaux/chevalier-gambette.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/3934",
+  "https://ebird.org/species/comred1",
+  "https://avicommons.org/",
+  "https://www.xeno-canto.org/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

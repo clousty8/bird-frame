@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Accipiter striatus",
+ "summary_fr": "L'Épervier brun est un petit rapace diurne nord-américain, le plus petit des éperviers mâles des États-Unis et du Canada. Chasseur agile et discret, il capture ses proies dans un vol rapide et manœuvrant à travers la végétation dense, ciblant presque exclusivement de petits passereaux comme les bruants et les fauvettes. Les femelles, nettement plus grandes que les mâles, peuvent s'attaquer à des oiseaux bien plus volumineux. Exceptionnellement rare en France, l'Épervier brun n'y apparaît que comme vagabond très occasionnel, surtout en automne et hiver. Avec ses ailes courtes et arrondies et sa queue longue, il affiche des traits caractéristiques des Accipitridae des zones tempérées nord-américaines. Sa présence hexagonale reste anecdotique et dépend entièrement de mouvements migratoires imprévisibles vers l'Europe occidentale.",
+ "habitat": "Forêts et boisements tempérés et boréaux, zones de conifères et feuillus mixtes. Plutôt montagne et zones boisées fermées.",
+ "diet": "Petits passereaux : bruants, fauvettes, pinsons, grimereaux, mésanges, et autres espèces de 4 g à 70 g. Occasionnellement insectes capturés en vol durant la migration.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": "Ne niche pas en France.",
+  "passage": "Vagrant très occasionnel d'automne et d'hiver, surtout octobre à décembre, rare et imprévisible."
+ },
+ "seasonality_fr": "Extrêmement rare toute l'année en France ; aperçu sporadique en automne et hiver, presque jamais en printemps ou été.",
+ "song_fr": "Cris aigus et répétés en vol, criaillements agressifs lors de confrontations. En détection acoustique, risque de confusion avec ses congénères européens (cris perçants).",
+ "lookalikes": [
+  {
+   "scientific_name": "Accipiter nisus",
+   "common_name_fr": "Épervier d'Europe",
+   "why_fr": "Silhouette et comportement de chasse similaires, cris comparables. Espèce bien présente en France, confusion possible à l'oreille."
+  },
+  {
+   "scientific_name": "Accipiter gentilis",
+   "common_name_fr": "Autour des palombes",
+   "why_fr": "Rapace forestier diurne ; cris plus graves mais silhouette de chasse analogue, risque de méprise acoustique pour le profane."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France, jamais nicheur, vagrant accidentel d'automne-hiver uniquement. Détection très improbable.",
+ "fun_facts": [
+  "Les mâles de l'Épervier brun sont les plus petits éperviers d'Amérique du Nord, de 23 à 30 cm, tandis que les femelles peuvent mesurer jusqu'à 37 cm.",
+  "Cet épervier manque de puissance brute mais compense par son agilité extrême en vol forestier, exploitant les lacunes entre les branches pour surprendre sa proie."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/%C3%89pervier_brun",
+  "https://en.wikipedia.org/wiki/Sharp-shinned_hawk",
+  "https://www.oiseaux.net/oiseaux/accipiter.striatus.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

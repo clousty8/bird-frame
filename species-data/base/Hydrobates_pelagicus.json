@@ -1,0 +1,83 @@
+{
+ "scientific_name": "Hydrobates pelagicus",
+ "common_name_fr": "Océanite tempête",
+ "birdnet_label": "Hydrobates pelagicus_Océanite tempête",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Procellariiformes",
+  "family": "Hydrobatidae",
+  "family_common": "Northern Storm-Petrels",
+  "genus": "Hydrobates",
+  "species": "Hydrobates pelagicus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Océanite tempête",
+   "url": "https://fr.wikipedia.org/wiki/Oc%C3%A9anite_temp%C3%AAte",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Océanite tempête, également appelé Pétrel tempête, est une espèce de Procellariiformes de la famille des hydrobatidés. Il est le seul membre du genre Hydrobates. Cet oiseau pélagique est le plus petit des oiseaux de mer d'Europe, où il est protégé. Extrêmement discret, il est de mœurs exclusivement nocturnes sur les lieux de reproduction et est rarement visible de la côte, sauf à l'occasion des tempêtes les plus violentes. Il est en revanche bien connu des pêcheurs puisqu'il suit souvent les navires en haute mer, volant au ras des vagues, et donnant parfois l'impression qu'il court sur la surface de l'eau.",
+   "fulltext_chars": 8389
+  },
+  "en": {
+   "title": "European storm petrel",
+   "url": "https://en.wikipedia.org/wiki/European_storm_petrel",
+   "description": "Migratory seabird in the family Hydrobatidae",
+   "extract": "The European storm petrel, also known as British storm petrel, or just storm petrel, is a species of seabird in the northern storm petrel family, Hydrobatidae. The small, square-tailed bird is entirely black except for a broad, white rump and a white band on the under wings, and it has a fluttering, bat-like flight. The large majority of the population breeds on islands off the northern coasts of Europe, with the greatest numbers in the Faroe Islands, United Kingdom, Ireland, and Iceland. The Mediterranean population is a separate subspecies whose strongholds are Filfla Island (Malta), Sicily, and the Balearic Islands. This subspecies is indiscernible at sea from its Atlantic relatives.",
+   "fulltext_chars": 23692
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f0/European_Storm-petrel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 700,
+  "height": 516,
+  "file": "European_Storm-petrel.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/f/f0/European_Storm-petrel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Otter",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:European_Storm-petrel.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0717,
+  "cities": {
+   "Le Mans": 0.014,
+   "Pornic": 0.025,
+   "Rennes": 0.021,
+   "Poitiers": 0.015,
+   "Marseille": 0.017,
+   "Toulouse": 0.011,
+   "Bordeaux": 0.014,
+   "Brest": 0.035,
+   "Ajaccio": 0.072,
+   "Perpignan": 0.015
+  },
+  "monthly_scores": [
+   0.0717,
+   0.0647,
+   0.0508,
+   0.0352,
+   0.0333,
+   0.0389,
+   0.0514,
+   0.0427,
+   0.031,
+   0.0427,
+   0.0586,
+   0.069
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   7,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:21Z"
+}

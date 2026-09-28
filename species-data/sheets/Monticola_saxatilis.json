@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Monticola saxatilis",
+ "summary_fr": "Le Monticole de roche, autrefois appelé Merle de roche, est un petit passereau robuste aux couleurs spectaculaires. Le mâle affiche une tête bleu-gris, un ventre rouge-orangé et des ailes brun foncé, tandis que la femelle reste plus discrète en brun. Espèce montagnarde migrante, il niche dans les zones rocailleuses et pierreuses d'altitude, du sud de l'Europe jusqu'en Asie centrale. Fortement migratrice, toute sa population quitte la région dès l'automne pour hiverner au sud du Sahara. En France, il demeure très rare, visible seulement en été dans les chaînes de montagne, particulièrement en Corse. Son chant clair et mélodieux résonne en cascade depuis les falaises, tandis qu'il se nourrit d'insectes et de baies.",
+ "habitat": "Zones rocailleuses ensoleillées, prairies rases et caillouteuses, falaises et pentes nues, généralement au-dessus de 1000 m d'altitude.",
+ "diet": "Insectes de grande taille (coléoptères, hyménoptères, orthoptères) et baies ; petits reptiles occasionnels.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne, au sud du Sahara.",
+  "niche": "Très localisé en France métropolitaine : Pyrénées, Alpes, Massif Central (Auvergne, Causses), Corse. Nichées de mai à juillet.",
+  "passage": "Arrivée en avril-mai au retour de l'hivernage ; départ en août-septembre avant la migration vers l'Afrique."
+ },
+ "seasonality_fr": "Présence exclusivement estivale en France (avril à septembre), époque de reproduction. Hivernant absent ; très rare en passage migratoire printanier ou automnal.",
+ "song_fr": "Chant clair et fluide, mélodieux et énergique, composé de phrases variées et cristallines ; cris d'alarme secs et répétés.",
+ "lookalikes": [
+  {
+   "scientific_name": "Monticola solitarius",
+   "common_name_fr": "Monticole bleu",
+   "why_fr": "Même genre, habitats alpins similaires. Le male bleu est distinct, mais jeunes et femelles confondables acoustiquement."
+  },
+  {
+   "scientific_name": "Turdus torquatus",
+   "common_name_fr": "Merle à plastron",
+   "why_fr": "Chant mélodieux clair similaire, plastron orange-roux rappelant le ventre rouge du Monticole."
+  },
+  {
+   "scientific_name": "Turdus philomelos",
+   "common_name_fr": "Grive musicienne",
+   "why_fr": "Chant fluide et cristallin très proche ; confusion possible lors de passages migratoires."
+  }
+ ],
+ "rarity_note": "Très rare en France, quasi absent de la façade atlantique et des plaines du nord. Limité strictement aux chaînes de montagne méditerranéennes et alpines, particulièrement en Corse. Estival strict, jamais en hiver.",
+ "fun_facts": [
+  "Olivier Messiaen a consacré une pièce magistrale au Monticole de roche dans son Catalogue d'oiseaux (1956-58).",
+  "L'espèce est monotypique : il n'existe qu'une seule sous-espèce reconnue, du Portugal jusqu'à la Chine.",
+  "Nicheur fidèle à ses falaises : un mâle peut revenir chaque année au même territoire, utilisant les mêmes cavités rocheuses."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Monticole_merle-de-roche",
+  "https://en.wikipedia.org/wiki/Common_rock_thrush",
+  "https://www.oiseaux.net/oiseaux/monticole.de.roche.html",
+  "https://www.lpo.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Calidris pugnax",
+ "common_name_fr": "Combattant varié",
+ "birdnet_label": "Calidris pugnax_Combattant varié",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Calidris",
+  "species": "Calidris pugnax"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Combattant varié",
+   "url": "https://fr.wikipedia.org/wiki/Combattant_vari%C3%A9",
+   "description": "espèce d'oiseaux charadriiformes de la famille des scolopacidae",
+   "extract": "Le Combattant varié, souvent appelé au XXe siècle Chevalier combattant mais en fait plus proche des bécasseaux, est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae et présentant un net dimorphisme sexuel, surtout en période de reproduction. Les modalités de cette dernière sont complexes puisque coexistent des couples temporaires, des mâles polygynes et des femelles polyandres.",
+   "fulltext_chars": 7309
+  },
+  "en": {
+   "title": "Ruff (bird)",
+   "url": "https://en.wikipedia.org/wiki/Ruff_(bird)",
+   "description": "Species of bird",
+   "extract": "The ruff is a medium-sized wading bird that breeds in marshes and wet meadows across northern Eurasia. This highly gregarious sandpiper is migratory and sometimes forms huge flocks in its winter grounds, which include southern and western Europe, Africa, southern Asia and Australia.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ruff_%28Philomachus_pugnax%29_near_Hodal_W_IMG_6534.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 718,
+  "height": 600,
+  "file": "Ruff_(Philomachus_pugnax)_near_Hodal_W_IMG_6534.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ruff_%28Philomachus_pugnax%29_near_Hodal_W_IMG_6534.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "J.M.Garg",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Ruff_(Philomachus_pugnax)_near_Hodal_W_IMG_6534.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2043,
+  "cities": {
+   "Le Mans": 0.101,
+   "Pornic": 0.1,
+   "Rennes": 0.111,
+   "Poitiers": 0.068,
+   "Paris": 0.103,
+   "Lille": 0.14,
+   "Strasbourg": 0.058,
+   "Lyon": 0.036,
+   "Grenoble": 0.045,
+   "Marseille": 0.077,
+   "Toulouse": 0.045,
+   "Bordeaux": 0.048,
+   "Brest": 0.121,
+   "Ajaccio": 0.204,
+   "Clermont-Ferrand": 0.037,
+   "Chamonix": 0.042,
+   "Perpignan": 0.067,
+   "Nancy": 0.07
+  },
+  "monthly_scores": [
+   0.1667,
+   0.1793,
+   0.2043,
+   0.1606,
+   0.0754,
+   0.0634,
+   0.0768,
+   0.1403,
+   0.131,
+   0.1279,
+   0.165,
+   0.172
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:07Z"
+}

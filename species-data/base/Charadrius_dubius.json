@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Charadrius dubius",
+ "common_name_fr": "Pluvier petit-gravelot",
+ "birdnet_label": "Charadrius dubius_Pluvier petit-gravelot",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Charadriidae",
+  "family_common": "Plovers and Lapwings",
+  "genus": "Charadrius",
+  "species": "Charadrius dubius"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pluvier petit-gravelot",
+   "url": "https://fr.wikipedia.org/wiki/Pluvier_petit-gravelot",
+   "description": "espèce d'oiseaux charadriiformes de la famille des charadriidae",
+   "extract": "Le Pluvier petit-gravelot ou Petit Gravelot est une espèce d'oiseaux Charadriiformes de la famille des Charadriidae. C'est un petit limicole très répandue à travers l'écozone paléarctique.",
+   "fulltext_chars": 5417
+  },
+  "en": {
+   "title": "Little ringed plover",
+   "url": "https://en.wikipedia.org/wiki/Little_ringed_plover",
+   "description": "Species of bird",
+   "extract": "The little ringed plover is a small plover native to the Old World. It has mostly brown upperparts, a black neckband and a black mask around the eye with a noticeable yellow eyering. Its forehead, belly and the rest of the breast are white. A migratory species, it breeds in open gravel areas near freshwater, including gravel pits, islands and river edges. Its diet consists mainly of insects and worms, which it forages for in muddy areas.",
+   "fulltext_chars": 3169
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/40/Charadrius_dubius%2C_Gironde%2C_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3764,
+  "height": 2508,
+  "file": "Charadrius_dubius,_Gironde,_France.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Charadrius_dubius%2C_Gironde%2C_France.jpg/1920px-Charadrius_dubius%2C_Gironde%2C_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Pierre Dalous",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Charadrius_dubius,_Gironde,_France.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.236,
+  "cities": {
+   "Le Mans": 0.144,
+   "Pornic": 0.097,
+   "Rennes": 0.098,
+   "Poitiers": 0.13,
+   "Paris": 0.179,
+   "Lille": 0.197,
+   "Strasbourg": 0.195,
+   "Lyon": 0.126,
+   "Grenoble": 0.106,
+   "Marseille": 0.132,
+   "Toulouse": 0.128,
+   "Bordeaux": 0.128,
+   "Brest": 0.054,
+   "Ajaccio": 0.236,
+   "Clermont-Ferrand": 0.129,
+   "Chamonix": 0.113,
+   "Perpignan": 0.147,
+   "Nancy": 0.199
+  },
+  "monthly_scores": [
+   0.1018,
+   0.1413,
+   0.236,
+   0.1994,
+   0.1548,
+   0.1217,
+   0.1354,
+   0.1531,
+   0.127,
+   0.1045,
+   0.1059,
+   0.1074
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:33Z"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Calidris alba",
+ "common_name_fr": "Bécasseau sanderling",
+ "birdnet_label": "Calidris alba_Bécasseau sanderling",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Calidris",
+  "species": "Calidris alba"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécasseau sanderling",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9casseau_sanderling",
+   "description": "espèce d'oiseaux",
+   "extract": "Le bécasseau sanderling est une espèce d'oiseaux de la famille des Scolopacidae.",
+   "fulltext_chars": 8337
+  },
+  "en": {
+   "title": "Sanderling",
+   "url": "https://en.wikipedia.org/wiki/Sanderling",
+   "description": "Species of bird",
+   "extract": "The sanderling is a small wading bird. It is a circumpolar Arctic breeder, being among the most extreme northern breeding birds in the world, nesting only on the coldest tundra, north of the 5°C July isotherm; in Europe, its southernmost breeding locality is Svalbard, where only a handful (5–15) pairs breed. It is a long-distance migrant, wintering south to South America, western and southern Europe, Africa, and Australia. It is highly gregarious in winter, sometimes forming large flocks on coastal mudflats or sandy beaches.",
+   "fulltext_chars": 7218
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/df/Calidris_alba_%28breeding_plumage%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2880,
+  "height": 2161,
+  "file": "Calidris_alba_(breeding_plumage).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Calidris_alba_%28breeding_plumage%29.jpg/1920px-Calidris_alba_%28breeding_plumage%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Hans Hillewaert",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Calidris_alba_(breeding_plumage).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.17,
+  "cities": {
+   "Le Mans": 0.085,
+   "Pornic": 0.134,
+   "Rennes": 0.131,
+   "Poitiers": 0.075,
+   "Paris": 0.062,
+   "Lille": 0.065,
+   "Strasbourg": 0.012,
+   "Lyon": 0.031,
+   "Grenoble": 0.027,
+   "Marseille": 0.047,
+   "Toulouse": 0.046,
+   "Bordeaux": 0.082,
+   "Brest": 0.17,
+   "Ajaccio": 0.168,
+   "Clermont-Ferrand": 0.042,
+   "Chamonix": 0.019,
+   "Perpignan": 0.047,
+   "Nancy": 0.021
+  },
+  "monthly_scores": [
+   0.1679,
+   0.1646,
+   0.1468,
+   0.0972,
+   0.0589,
+   0.0569,
+   0.0633,
+   0.1029,
+   0.1484,
+   0.17,
+   0.1443,
+   0.1598
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:27Z"
+}

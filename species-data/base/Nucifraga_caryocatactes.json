@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Nucifraga caryocatactes",
+ "common_name_fr": "Cassenoix moucheté",
+ "birdnet_label": "Nucifraga caryocatactes_Cassenoix moucheté",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Corvidae",
+  "family_common": "Crows, Jays, and Magpies",
+  "genus": "Nucifraga",
+  "species": "Nucifraga caryocatactes"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Cassenoix moucheté",
+   "url": "https://fr.wikipedia.org/wiki/Cassenoix_mouchet%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Cassenoix moucheté est une espèce de passereaux de la famille des Corvidae.",
+   "fulltext_chars": 7861
+  },
+  "en": {
+   "title": "Northern nutcracker",
+   "url": "https://en.wikipedia.org/wiki/Northern_nutcracker",
+   "description": "Species of bird",
+   "extract": "The northern nutcracker, previously known as the spotted nutcracker and Eurasian nutcracker, is a passerine bird in the crow family Corvidae. It is slightly smaller than the Eurasian jay but has a much larger bill and a slimmer looking head without any crest. The feathering over its body is predominantly chocolate brown with distinct white spots and patches. The wings and upper tail are black with a greenish-blue gloss.",
+   "fulltext_chars": 6603
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nucifraga_caryocatactes_Davos_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5306,
+  "height": 3537,
+  "file": "Nucifraga_caryocatactes_Davos_1.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Nucifraga_caryocatactes_Davos_1.jpg/1920px-Nucifraga_caryocatactes_Davos_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "kuhnmi",
+  "credit": "Spotted nutcracker",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Nucifraga_caryocatactes_Davos_1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3184,
+  "cities": {
+   "Poitiers": 0.015,
+   "Paris": 0.011,
+   "Strasbourg": 0.105,
+   "Lyon": 0.265,
+   "Grenoble": 0.214,
+   "Marseille": 0.024,
+   "Toulouse": 0.016,
+   "Ajaccio": 0.017,
+   "Clermont-Ferrand": 0.123,
+   "Chamonix": 0.318,
+   "Nancy": 0.056
+  },
+  "monthly_scores": [
+   0.0918,
+   0.0936,
+   0.121,
+   0.1201,
+   0.1246,
+   0.172,
+   0.2248,
+   0.3184,
+   0.2968,
+   0.1935,
+   0.1198,
+   0.1048
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:37Z"
+}

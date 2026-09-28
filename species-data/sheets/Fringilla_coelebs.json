@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Fringilla coelebs",
+ "summary_fr": "Le Pinson des arbres est un petit passereau très répandu de la famille des Fringillidés, reconnaissable au plumage du mâle : calotte bleu-gris, dos brun-noisette et poitrine rougeâtre, tandis que la femelle reste plus terne. Présent dans toute l'Europe en dehors de l'Islande et du nord de la Scandinavie, il s'étend vers l'est jusqu'en Sibérie centrale. En Europe centrale, c'est un migrateur partiel : certains individus restent l'année entière, tandis que les populations nordiques migrent vers des régions au climat plus favorable. Son chant vigoureux et inlassablement répété est typique : une série de notes descendantes suivie d'une fioriture finale complexe.",
+ "habitat": "Forêts claires à feuilles caduques et mixtes, haies, parcs et jardins. Préfère les zones boisées avec espaces libres entre les arbres : peu commun en forêt dense. Fréquente aussi les landes, taillis et vergers en plaine et moyenne montagne.",
+ "diet": "Granivore, principalement graines de hêtre, érable, bouleau et aune. En période de reproduction, régime insectivore : larves, chenilles et invertébrés pour nourrir les jeunes. Préfère picorer au sol les graines tombées sous les mangeoires.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Afrique du Nord (Maroc, Algérie) pour les populations migrantes",
+  "niche": null,
+  "passage": "Automne : août-novembre (populations nordiques vers le sud) ; printemps : février-avril (retour)."
+ },
+ "seasonality_fr": "Présent l'année entière en France (migrateur partiel). Plus abondant en période de reproduction (avril-juin). Les populations nordiques quittent leurs aires en automne pour revenir au printemps.",
+ "song_fr": "Chant vigoureux et stéréotypé : série brève de notes descendantes (« tchip-tchip-tchip ») suivie d'une fioriture finale complexe (« diddip-diddiooo »). Cri « pink » distinctif à l'arrêt, « yùp-yùp » en vol plus discret. Durée : environ 2,5 secondes.",
+ "lookalikes": [
+  {
+   "scientific_name": "Fringilla montifringilla",
+   "common_name_fr": "Pinson du Nord",
+   "why_fr": "Espèce très proche et parente : chant ressemblant, mêmes habitats en hiver, dimensions similaires mais croupion blanc chez le Pinson du Nord."
+  },
+  {
+   "scientific_name": "Linaria cannabina",
+   "common_name_fr": "Linotte mélodieuse",
+   "why_fr": "Petit fringille au chant fin et complexe pouvant être confondu acoustiquement, notamment chez les femelles aux caractéristiques moins distinctives."
+  },
+  {
+   "scientific_name": "Carduelis carduelis",
+   "common_name_fr": "Chardonneret élégant",
+   "why_fr": "Fringille au chant tintinnabulant parfois ressemblant, même environnement urbain et jardins."
+  }
+ ],
+ "rarity_note": "Très commun et régulier en France l'année entière. Parmi les passereaux reproducteurs les plus fréquents d'Europe. UICN : Préoccupation minimale. Population européenne : 130-240 millions de couples reproducteurs.",
+ "fun_facts": [
+  "Son nom latin « coelebs » signifie « célibataire » : Linné nommait ainsi l'espèce car seules les femelles migraient en Suède tandis que les mâles restaient sédentaires.",
+  "Autrefois capturé en masse pour la cage, il a failli disparaître des parcs de Londres à la fin du XIXe siècle avant que le piégeage ne soit interdit.",
+  "En Belgique, le sport traditionnel du vinkenzetting oppose les mâles dans des concours où le gagnant lance le plus d'appels en une heure."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pinson_des_arbres",
+  "https://en.wikipedia.org/wiki/Eurasian_chaffinch",
+  "https://www.oiseaux.net/fringilla-coelebs.html",
+  "https://www.iucnredlist.org/details/22718171/0",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

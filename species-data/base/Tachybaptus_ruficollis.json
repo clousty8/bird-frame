@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Tachybaptus ruficollis",
+ "common_name_fr": "Grèbe castagneux",
+ "birdnet_label": "Tachybaptus ruficollis_Grèbe castagneux",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Podicipediformes",
+  "family": "Podicipedidae",
+  "family_common": "Grebes",
+  "genus": "Tachybaptus",
+  "species": "Tachybaptus ruficollis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grèbe castagneux",
+   "url": "https://fr.wikipedia.org/wiki/Gr%C3%A8be_castagneux",
+   "description": "espèces d'oiseaux",
+   "extract": "Le Grèbe castagneux est une espèce d'oiseaux de la famille des Podicipedidae. Il doit son nom à la couleur de son dos, castagneux signifiant châtain. Cet oiseau est le plus petit des membres de la famille des grèbes, comme le suggère son autre nom vernaculaire, Petit Grèbe. Contrairement aux autres grèbes d’Europe, il pond régulièrement deux fois par an. Oiseau discret, le grèbe castagneux s’installe sur n’importe quel lac, étang, mare ou marais dont les rives présentent une végétation suffisamment dense.",
+   "fulltext_chars": 19819
+  },
+  "en": {
+   "title": "Little grebe",
+   "url": "https://en.wikipedia.org/wiki/Little_grebe",
+   "description": "Species of bird",
+   "extract": "The little grebe, also known as the dabchick, is a member of the grebe family of water birds. The genus name is from Ancient Greek takhus \"fast\" and bapto \"to sink under\". The specific ruficollis is from Latin rufus \"red\" and Modern Latin -collis, \"-necked\", itself derived from Latin collum \"neck\".",
+   "fulltext_chars": 3607
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/84/Little_grebe_Zwergtaucher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2180,
+  "height": 1453,
+  "file": "Little_grebe_Zwergtaucher.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Little_grebe_Zwergtaucher.jpg/1920px-Little_grebe_Zwergtaucher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Little_grebe_Zwergtaucher.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4001,
+  "cities": {
+   "Le Mans": 0.35,
+   "Pornic": 0.337,
+   "Rennes": 0.355,
+   "Poitiers": 0.308,
+   "Paris": 0.36,
+   "Lille": 0.37,
+   "Strasbourg": 0.324,
+   "Lyon": 0.262,
+   "Grenoble": 0.261,
+   "Marseille": 0.275,
+   "Toulouse": 0.25,
+   "Bordeaux": 0.279,
+   "Brest": 0.365,
+   "Ajaccio": 0.4,
+   "Clermont-Ferrand": 0.269,
+   "Chamonix": 0.269,
+   "Perpignan": 0.262,
+   "Nancy": 0.33
+  },
+  "monthly_scores": [
+   0.3972,
+   0.3647,
+   0.3367,
+   0.2573,
+   0.1783,
+   0.1793,
+   0.2311,
+   0.3219,
+   0.3701,
+   0.3651,
+   0.3922,
+   0.4001
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:13Z"
+}

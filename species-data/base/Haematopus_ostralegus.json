@@ -1,0 +1,96 @@
+{
+ "scientific_name": "Haematopus ostralegus",
+ "common_name_fr": "Huîtrier pie",
+ "birdnet_label": "Haematopus ostralegus_Huîtrier pie",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Haematopodidae",
+  "family_common": "Oystercatchers",
+  "genus": "Haematopus",
+  "species": "Haematopus ostralegus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Huîtrier pie",
+   "url": "https://fr.wikipedia.org/wiki/Hu%C3%AEtrier_pie",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Huîtrier pie, aussi appelé Pie de mer, est une espèce d'oiseaux Charadriiformes de la famille des Haematopodidae.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Eurasian oystercatcher",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_oystercatcher",
+   "description": "Species of bird",
+   "extract": "The Eurasian oystercatcher or European oystercatcher, also known as the common pied oystercatcher, or just oystercatcher, is a wader in the oystercatcher bird family Haematopodidae. It has striking black and white plumage, a long straight orange-red bill, red eyes and relatively short dull pink legs. The sexes are similar in appearance but the bill of the female is longer than that of the male.",
+   "fulltext_chars": 6727
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4848,
+  "height": 3212,
+  "file": "Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg/1920px-Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Richard Bartz",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4937,
+  "cities": {
+   "Le Mans": 0.215,
+   "Pornic": 0.326,
+   "Rennes": 0.361,
+   "Poitiers": 0.132,
+   "Paris": 0.148,
+   "Lille": 0.323,
+   "Strasbourg": 0.01,
+   "Lyon": 0.015,
+   "Grenoble": 0.011,
+   "Marseille": 0.035,
+   "Toulouse": 0.032,
+   "Bordeaux": 0.1,
+   "Brest": 0.494,
+   "Ajaccio": 0.159,
+   "Clermont-Ferrand": 0.029,
+   "Perpignan": 0.035,
+   "Nancy": 0.024
+  },
+  "monthly_scores": [
+   0.4834,
+   0.4937,
+   0.4782,
+   0.3735,
+   0.3159,
+   0.3319,
+   0.3945,
+   0.4243,
+   0.3498,
+   0.4129,
+   0.4619,
+   0.4644
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:21Z"
+}

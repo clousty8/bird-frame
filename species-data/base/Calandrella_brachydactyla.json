@@ -1,0 +1,76 @@
+{
+ "scientific_name": "Calandrella brachydactyla",
+ "common_name_fr": "Alouette calandrelle",
+ "birdnet_label": "Calandrella brachydactyla_Alouette calandrelle",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Alaudidae",
+  "family_common": "Larks",
+  "genus": "Calandrella",
+  "species": "Calandrella brachydactyla"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Alouette calandrelle",
+   "url": "https://fr.wikipedia.org/wiki/Alouette_calandrelle",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Alouette calandrelle est une espèce de passereaux qui, comme toutes les alouettes, appartient à la famille des Alaudidae. Olivier Messiaen a consacré à cet oiseau une pièce, qui en porte le nom, de son Catalogue d'oiseaux.",
+   "fulltext_chars": 2643
+  },
+  "en": {
+   "title": "Greater short-toed lark",
+   "url": "https://en.wikipedia.org/wiki/Greater_short-toed_lark",
+   "description": "Species of bird",
+   "extract": "The greater short-toed lark is a small passerine bird. The current scientific name is from Ancient Greek. The genus name, Calandrella, is a diminutive of kalandros, the calandra lark, and brachydactila is from brakhus, \"short\", and daktulos, \"toe\".",
+   "fulltext_chars": 6337
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Alondra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3436,
+  "height": 2291,
+  "file": "Alondra.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Alondra.jpg/1920px-Alondra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Juan Lacruz",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Alondra.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0777,
+  "cities": {
+   "Marseille": 0.02,
+   "Toulouse": 0.022,
+   "Bordeaux": 0.013,
+   "Ajaccio": 0.078,
+   "Perpignan": 0.024
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0497,
+   0.0777,
+   0.0715,
+   0.0612,
+   0.056,
+   0.0482,
+   0.0346,
+   0.0166,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:20Z"
+}

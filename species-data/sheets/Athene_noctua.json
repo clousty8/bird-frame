@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Athene noctua",
+ "summary_fr": "Petit rapace nocturne au tempérament délibérément combatif, la Chevêche d'Athéna est paradoxalement le plus diurne des strigidés : on la croise perchée en plein jour sur les poteaux, semblant vous épier avec ses yeux jaunes sévères encadrés de sourcils blancs. Commune en Europe du bassin méditerranéen jusqu'aux régions continentales, elle affectionne les campagnes ouvertes, les vergers et l'orée des villages. Ses cris caractéristiques — « kiou kiou » ou sifflements aigus — retentissent le soir et la nuit quand elle chasse insectes, petits rongeurs et jeunes oiseaux. Nichant dans les cavités d'arbres ou de bâtiments, elle reste fidèle à son territoire en France, bravant les hivers les plus rigoureux. Sa petite taille (26 cm) cache un prédateur redoutable autant qu'un symbole millénaire : déesse de la sagesse grecque, elle figure sur les pièces de monnaie d'Athènes depuis 2500 ans.",
+ "habitat": "Bocages, vergers, zones cultivées, abords des villages et parcs, du littoral aux zones boisées clairsemées. Affectionne les cavités naturelles ou bâties pour son domaine vital.",
+ "diet": "Insectes (coléoptères, criquets, perce-oreilles), vers de terre, petits mammifères (campagnols), jeunes passereaux, lézards et batraciens.",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "France entière, restant sur ses sites de reproduction même lors des hivers rigoureux.",
+  "niche": "Partout en France, dans des cavités d'arbres, de murs ou de nichoirs, de février à juillet.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente toute l'année en France. Audible et visible surtout en crépuscule et nuit, bien que perchée et visible aussi en journée en milieu découvert.",
+ "song_fr": "Série de cris caractéristiques « kiou kiou » ou « kiwitt » rapides et aigus ; également des sifflements, trilles et des sons de chatouille près du nid. Cris d'alarme stridents.",
+ "lookalikes": [
+  {
+   "scientific_name": "Strix aluco",
+   "common_name_fr": "Chouette hulotte",
+   "why_fr": "Cris rauques superficiellement similaires, mais hulotte beaucoup plus grosse (taille colombe) et plus sourde."
+  },
+  {
+   "scientific_name": "Tyto alba",
+   "common_name_fr": "Effraie des clochers",
+   "why_fr": "Tous deux chasseurs d'insectes et rongeurs, mais effraie beaucoup plus grande avec cris et silence différents."
+  }
+ ],
+ "rarity_note": "Détection BirdNET difficile (score bas, 0,18 en France). Bien que sédentaire et présente toute l'année, ses cris discrets et variables rendent la détection acoustique moins fiable que pour les oiseaux plus vocaux.",
+ "fun_facts": [
+  "Malgré son nom latin « noctua » (oiseau de nuit) et son statut de « hibou », c'est le plus diurne des strigidés : on la voit perchée en plain day, observant comme un philosophe.",
+  "Attribut historique de la déesse Athéna/Minerva, elle orne les tétradrachmes athéniennes depuis 510 av. J.-C. et figure toujours sur l'euro grec.",
+  "Ses pelotes de réjection (boulettes indigestibles) ne font que 35 mm, révélant un régime basé sur insectes et minuscules rongeurs."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Chev%C3%AAche_d'Ath%C3%A9na",
+  "https://en.wikipedia.org/wiki/Little_owl",
+  "https://www.oiseaux.net/oiseaux/chevechea.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

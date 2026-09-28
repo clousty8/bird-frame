@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Certhia brachydactyla",
+ "common_name_fr": "Grimpereau des jardins",
+ "birdnet_label": "Certhia brachydactyla_Grimpereau des jardins",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Certhiidae",
+  "family_common": "Treecreepers",
+  "genus": "Certhia",
+  "species": "Certhia brachydactyla"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grimpereau des jardins",
+   "url": "https://fr.wikipedia.org/wiki/Grimpereau_des_jardins",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Grimpereau des jardins est une espèce de petits passereaux de la famille des Certhiidae.",
+   "fulltext_chars": 5201
+  },
+  "en": {
+   "title": "Short-toed treecreeper",
+   "url": "https://en.wikipedia.org/wiki/Short-toed_treecreeper",
+   "description": "Species of bird",
+   "extract": "The short-toed treecreeper is a small passerine bird found in woodlands through much of the warmer regions of Europe and into north Africa. It has a generally more southerly distribution than the other European treecreeper species, the common treecreeper, with which it is easily confused where they both occur. The short-toed treecreeper tends to prefer deciduous trees and lower altitudes than its relative in these overlap areas. Although mainly sedentary, vagrants have occurred outside the breeding range.",
+   "fulltext_chars": 9352
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Short-toed_Treecreeper_%28Certhia_brachydactyla%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1200,
+  "height": 1800,
+  "file": "Short-toed_Treecreeper_(Certhia_brachydactyla).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Short-toed_Treecreeper_%28Certhia_brachydactyla%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "א (Aleph)",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Short-toed_Treecreeper_(Certhia_brachydactyla).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4628,
+  "cities": {
+   "Le Mans": 0.398,
+   "Pornic": 0.309,
+   "Rennes": 0.246,
+   "Poitiers": 0.449,
+   "Paris": 0.453,
+   "Lille": 0.399,
+   "Strasbourg": 0.364,
+   "Lyon": 0.38,
+   "Grenoble": 0.31,
+   "Marseille": 0.266,
+   "Toulouse": 0.385,
+   "Bordeaux": 0.463,
+   "Brest": 0.075,
+   "Ajaccio": 0.272,
+   "Clermont-Ferrand": 0.438,
+   "Chamonix": 0.297,
+   "Perpignan": 0.319,
+   "Nancy": 0.413
+  },
+  "monthly_scores": [
+   0.4472,
+   0.452,
+   0.4512,
+   0.4533,
+   0.3915,
+   0.412,
+   0.4408,
+   0.4259,
+   0.3692,
+   0.4065,
+   0.4478,
+   0.4628
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:23Z"
+}

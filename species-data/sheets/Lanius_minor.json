@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Lanius minor",
+ "summary_fr": "Petite pie-grièche insectivore de la famille des Laniidae, la Pie-grièche à poitrine rose se reconnaît au plumage gris-blanc des mâles, orné d'une large bande noire qui couvre l'œil et d'une poitrine délicatement rosée. Elle nichait autrefois en Europe du Sud et centrale, de la France jusqu'au Moyen-Orient, avant de partir hiverner en Afrique australe dès la fin de l'été. Longtemps présente du littoral méditerranéen à l'Île-de-France, elle a connu un déclin spectaculaire depuis les années 1970, victime de la transformation des paysages agricoles et de l'effondrement des populations d'insectes dont elle dépend. Chasseuse à l'affût depuis des perchoirs bien exposés, elle capture ses proies au sol ou en plein vol, contrairement à d'autres pies-grièches qui les empalent sur des épines en réserve. Le dernier couple connu en France, dans l'Hérault, a échoué à se reproduire en 2019, marquant la quasi-disparition de l'espèce du territoire national. Aujourd'hui, seuls quelques individus égarés sont encore susceptibles d'être observés lors des passages migratoires, principalement au printemps.",
+ "habitat": "Zones dégagées parsemées ou encadrées de bosquets peu denses et d'alignements d'arbres. Vignobles bordés d'arbres, savane arborée et paysages agricoles mêlant cultures variées et haies basses.",
+ "diet": "Insectivore spécialisée en coléoptères, papillons, mouches, sauterelles et criquets, complétée à l'occasion de petits lézards ou oisillons. Chasse au sol ou en vol depuis un perchoir exposé, sans accumuler de réserves de proies contrairement aux autres pies-grièches.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "En Afrique australe (Afrique du Sud, Botswana, Zimbabwe, Mozambique, Namibie).",
+  "niche": "Europe du Sud et centrale (Espagne, Italie, Hongrie, Roumanie, Bulgarie, Grèce). Ne niche plus en France métropolitaine depuis l'échec du dernier couple en 2019.",
+  "passage": "Passages migratoires en avril-mai vers les zones de reproduction en Europe, et août-septembre vers l'Afrique australe, surtout via la Méditerranée orientale et les îles grecques."
+ },
+ "seasonality_fr": "Historiquement visible en France d'avril à septembre lors des passages migratoires et de la nidification. Depuis 2019, seules des observations exceptionnelles et isolées restent possibles.",
+ "song_fr": "Cris âpres et répétés, notes dures et hachées, plus proches d'un cri d'alarme énergique que d'un chant mélodieux, rappelant les autres pies-grièches en plus discret.",
+ "lookalikes": [
+  {
+   "scientific_name": "Lanius excubitor",
+   "common_name_fr": "Pie-grièche grise",
+   "why_fr": "Très similaire en apparence, avec masque noir et dos gris, mais sans front noir ni poitrine rosée. Vocalisations proches pouvant tromper BirdNET."
+  },
+  {
+   "scientific_name": "Lanius meridionalis",
+   "common_name_fr": "Pie-grièche méridionale",
+   "why_fr": "Distribution partiellement partagée en Europe du Sud, plumage comparable. Distinction vocale difficile, notamment entre juvéniles et femelles."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France, où l'espèce est considérée comme quasiment éteinte : autrefois répandue, elle a décliné depuis les années 1970 et le dernier couple connu, dans l'Hérault, a échoué à se reproduire en 2019.",
+ "fun_facts": [
+  "Contrairement à ses cousines pies-grièches grises, elle empale très rarement ses proies sur des épines, préférant les consommer aussitôt capturées.",
+  "Son déclin dramatique en Europe de l'Ouest depuis les années 1970 résulte surtout de la transformation des paysages agricoles et de l'effondrement des populations d'insectes.",
+  "Le nom de genre Lanius signifie « boucher » en latin, évoquant sa redoutable prédation, tandis que minor (« plus petit ») la distingue de la Pie-grièche grise."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pie-gri%C3%A8che_%C3%A0_poitrine_rose",
+  "https://en.wikipedia.org/wiki/Lesser_grey_shrike",
+  "https://oiseaux.net/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

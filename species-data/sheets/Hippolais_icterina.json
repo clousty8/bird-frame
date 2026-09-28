@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Hippolais icterina",
+ "summary_fr": "L'Hypolaïs ictérine est une petite fauvette des régions tempérées d'Europe du Nord et de l'Est, aisément reconnaissable à son teint jaune-vert et à sa tête proéminente. Cet oiseau migrateur parcourt plus de 10 000 km chaque année pour rejoindre ses quartiers d'hiver en Afrique subsaharienne. En France, il ne reste que quelques semaines au printemps et à l'automne, en passage vers ses zones de nidification. Bavard et dynamique, il se montre moins discret que ses congénères, explorant bruyamment le feuillage des arbres feuillus à la recherche d'insectes. Son régime alimentaire, essentiellement insectivore en été, s'enrichit de baies à l'automne avant sa longue traversée méditerranéenne. Pris isolément, il est facilement confondu avec d'autres petites fauvettes du genre Hippolais ou avec certains petits fauvettes des roseaux.",
+ "habitat": "Bois clairs, bosquets, vergers, parcs et jardins avec arbres, préférant les essences feuillues et les futaies aérées.",
+ "diet": "Petits insectes capturés dans le feuillage ou en vol ; baies et petites graines en fin d'été avant la migration.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Afrique subsaharienne, principalement au sud de l'équateur.",
+  "niche": "Ne niche pas régulièrement en France ; reproduction localisée en Europe du Nord-Est et centres-est.",
+  "passage": "Passage migratoire en avril-mai vers le nord-est ; retour en août-septembre vers les quartiers d'hiver africains."
+ },
+ "seasonality_fr": "Visible uniquement lors des passages migratoires de printemps et d'automne en France. Occasion rare et précieuse pour l'observateur, concentrée de mi-avril à fin mai, puis d'août à septembre.",
+ "song_fr": "Chant rapide, bavard et nasal, émis d'une voix perçante, incorporant l'imitation d'autres espèces. Cris courts et secs : « tec » ou « teck » répétés, audibles lors des allers-retours dans la végétation.",
+ "lookalikes": [
+  {
+   "scientific_name": "Hippolais polyglotta",
+   "common_name_fr": "Hypolaïs polyglotte",
+   "why_fr": "Très similaire acoustiquement, chant tout aussi bavard et rapide, sympatrique en Méditerranée."
+  },
+  {
+   "scientific_name": "Acrocephalus scirpaceus",
+   "common_name_fr": "Roitelet verderolle",
+   "why_fr": "Fauvette des roseaux au timbre grave et bourdonnant, peut être confondue lors du passage."
+  },
+  {
+   "scientific_name": "Phylloscopus collybita",
+   "common_name_fr": "Pouillot véloce",
+   "why_fr": "Plus petit mais cris secs similaires, surtout audibles en migration."
+  }
+ ],
+ "rarity_note": "Rare en France, uniquement lors des passages migratoires. Max_score BirdNET : 0.0716, absent ou quasi-absent de novembre à février.",
+ "fun_facts": [
+  "Son nom français « ictérine » vient du grec ancien ikteros (jaune) : les anciens croyaient que voir cet oiseau guérissait la jaunisse.",
+  "Elle entreprend un périple de plus de 10 000 km aller-retour chaque année, reliant l'Europe du Nord à l'Afrique subsaharienne.",
+  "Son chant miméteur incorpore les vocalises d'autres oiseaux rencontrés, créant un babillage complexe et personnel."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Hypola%C3%AFs_ict%C3%A9rine",
+  "https://en.wikipedia.org/wiki/Icterine_warbler",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

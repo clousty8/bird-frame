@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Mareca penelope",
+ "summary_fr": "Le Canard siffleur est un canard barboteur élégant qui niche en Europe du Nord et en Sibérie, hivernant en grand nombre sur les côtes françaises et méditerranéennes. Les mâles se reconnaissent à leur tête rousse ornée d'une bande jaune pâle, leur plastron rose et leur ventre blanc immaculé. Ces canards sont extrêmement grégaires, vivant souvent en grands groupes compacts et voyageant ensemble. Leur cri caractéristique, un sifflement mélodieux et perçant, résonne particulièrement le soir et à l'aube. Malgré leur alimentation versatile combinant herbes aquatiques, algues et invertébrés, ils se nourrissent volontiers à terre dans les prés humides. Ces migrateurs puissants gagnent les côtes atlantiques et méditerranéennes en automne, formant de spectaculaires rassemblements de plusieurs milliers d'oiseaux dans les estuaires français.",
+ "habitat": "Estuaires, vasières, prés salés, baies et lagunes côtières. En migration et hivernage, fréquente les côtes basses et abritées, les lacs et réservoirs. Niche en toundra boisée et taïga du nord de l'Eurasie.",
+ "diet": "Principalement végétaux (herbes aquatiques, algues) et invertébrés. Se nourrit en barbotant à la surface ou en paturant à terre dans les prés humides.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Côtes françaises et méditerranéennes de l'Atlantique à la Méditerranée, estuaires et lagunes côtières de septembre à avril, avec concentration en décembre-février.",
+  "niche": "Toundra boisée et taïga du nord de l'Eurasie, de la Scandinavie à la Sibérie.",
+  "passage": "Passages migratoires marqués en septembre-octobre (vers le sud) et mars-avril (vers le nord)."
+ },
+ "seasonality_fr": "Présent en France principalement d'octobre à avril, avec concentrations maximales en décembre-février dans les estuaires côtiers. Plus rare en été.",
+ "song_fr": "Mâle : sifflement mélodieux et distinctif « wii-wuuuuu » ou « pjiew pjiew », entendu surtout le soir et à l'aube. Femelle : cri grave « rarr » ou grogement bas.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anas strepera",
+   "common_name_fr": "Canard chipeur",
+   "why_fr": "Silhouette et taille similaires, profil de la tête ressemblant. Sifflement du mâle peut prêter à confusion."
+  },
+  {
+   "scientific_name": "Anas crecca",
+   "common_name_fr": "Sarcelle d'hiver",
+   "why_fr": "Petits canards grégaires aux habitats similaires. Mâle a aussi une tête colorée."
+  }
+ ],
+ "rarity_note": "Régulier et parfois abondant en France comme hivernant et migrateur, notamment dans les estuaires atlantiques et méditerranéens. Très rare en tant que nicheur.",
+ "fun_facts": [
+  "Le nom scientifique Penelope vient d'une légende antique : il désignait une espèce de canard ou d'oie sauvage selon les philologues classiques.",
+  "Les mâles et femelles se forment en couples dans les aires d'hivernage et voyagent ensemble vers les zones de reproduction.",
+  "Ils peuvent parcourir plusieurs milliers de kilomètres entre leurs zones de nidification sibériennes et les côtes atlantiques françaises."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Canard_siffleur",
+  "https://en.wikipedia.org/wiki/Eurasian_wigeon",
+  "https://www.oiseaux.net/oiseaux/canard.siffleur.html",
+  "https://inpn.mnhn.fr/espece/Mareca%20penelope"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

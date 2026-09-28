@@ -1,0 +1,51 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Fringilla montifringilla",
+ "summary_fr": "Le Pinson du Nord est un petit passereau fingolaïde qui peuple les forêts boréales de Scandinavie jusqu'à Sakhaline. À chaque automne, depuis septembre, des millions d'individus quittent les régions arctiques pour envahir l'Europe occidentale, formant des troupes spectaculaires que l'on aperçoit surtout dans les hêtraies de novembre à février. Le mâle affiche un plumage nuptial très contrasté : tête noire brillante, dos strié de roux, poitrine et épaules orangées, tandis que la femelle reste plus discrète. Ces oiseaux sont fascinés par les faînes de hêtre, dont la richesse calorique leur permet de survivre les hivers rigoureux. Foncièrement grégaires en hiver, ils constituent des dortoirs communs de plusieurs centaines de milliers d'oiseaux qui s'endorment côte à côte dans les peuplements forestiers.",
+ "habitat": "Forêts boréales et circumboréales de conifères, bouleaux et saules lors de la reproduction. En hivernage, hêtraies et forêts claires d'Europe occidentale, avançant jusqu'aux jardins et fermes en cas d'enneigement intense.",
+ "diet": "En été, insectes et larves composent l'essentiel de son régime. En automne et hiver, granivore strict se nourrissant principalement de faînes de hêtre, complétées de graines de conifères, baies de sorbier et suif des mangeoires.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Toute l'Europe tempérée jusqu'à l'Afrique du Nord-Ouest, Moyen-Orient, Inde du Nord, Chine et Japon. En France, présence régulière novembre à février, concentrée en hêtraies.",
+  "niche": "Ne niche pas en France ; aire de reproduction limitée aux régions arctiques et subarctiques d'Europe du Nord et d'Asie du Nord, de la Norvège au détroit de Béring.",
+  "passage": "Passages migratoires marqués en septembre-octobre (automne) et février-mars (printemps). Arrivée en France généralement septembre-octobre, départ février-mars."
+ },
+ "seasonality_fr": "Présent en France essentiellement d'octobre à mars, avec pics de passage en novembre et février. Exceptionnel avant septembre ou après avril. Son arrivée varie selon l'abondance des faînes, donnant lieu à des invasions certaines années.",
+ "song_fr": "Chant vif et gazouillant émis en vol et depuis les branches, mélopée cristalline sans grande longueur. Cri d'alarme caractéristique : note nasillarde et grinçante, souvent perçue en vol chez les individus de passages.",
+ "lookalikes": [
+  {
+   "scientific_name": "Fringilla coelebs",
+   "common_name_fr": "Pinson des arbres",
+   "why_fr": "Même genre et taille similaire, mais mâle du Pinson des arbres arbore face grise non noire, dos rouille non noirâtre, et croupion gris-vert non blanc."
+  },
+  {
+   "scientific_name": "Carduelis carduelis",
+   "common_name_fr": "Chardonneret élégant",
+   "why_fr": "Finch de même taille avec appels secs gazouillants proches, mais masque facial rouge-blanc très distinctif et motifs alaires jaune-noir caractéristiques."
+  },
+  {
+   "scientific_name": "Linaria cannabina",
+   "common_name_fr": "Linotte mélodieuse",
+   "why_fr": "Chant gazouillant en vol comparable, taille proche, mais plumage plus uniforme grisâtre-brun sans contraste noir/blanc du Pinson du Nord."
+  },
+  {
+   "scientific_name": "Acanthis flammea",
+   "common_name_fr": "Sizerin flammé",
+   "why_fr": "Co-migrateur automnal partageant habitat hivernale et appels nasillards similaires, mais silhouette plus fine, calotte rouge et poitrine rosée chez le mâle."
+  }
+ ],
+ "rarity_note": "Régulier en France lors des passages de septembre-octobre et février-mars, localement abondant dans certaines régions les années de fructification de hêtre. Max_score BirdNET 0,27 indique présence modérée mais plausible avant septembre-avril.",
+ "fun_facts": [
+  "Les invasions les plus spectaculaires ont vu des troupes de plusieurs dizaines de millions d'oiseaux : le record absolu reste la troupe de 72 millions d'individus observée près de Thoune en Suisse en 1951.",
+  "Le mâle revêt progressivement son plumage nuptial noir brillant au cours de la migration printanière vers la taïga, se transformant de gris-brun en prince du nord sous les yeux des observateurs.",
+  "Les dortoirs communs où s'agglutinent les oiseaux en fin de journée produisent un vacarme impressionnant mélé de cris grinçants, un spectacle naturel qui a inspiré documentaires et études éthologiques."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pinson_du_Nord",
+  "https://en.wikipedia.org/wiki/Brambling",
+  "https://oiseaux.net/breve/pinson.nord.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

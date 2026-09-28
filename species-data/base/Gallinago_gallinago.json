@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Gallinago gallinago",
+ "common_name_fr": "Bécassine des marais",
+ "birdnet_label": "Gallinago gallinago_Bécassine des marais",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Gallinago",
+  "species": "Gallinago gallinago"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécassine des marais",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9cassine_des_marais",
+   "description": "espèce d'oiseaux",
+   "extract": "La Bécassine des marais est une espèce d’oiseaux Charadriiformes de la famille des Scolopacidae.",
+   "fulltext_chars": 5461
+  },
+  "en": {
+   "title": "Common snipe",
+   "url": "https://en.wikipedia.org/wiki/Common_snipe",
+   "description": "Species of bird",
+   "extract": "The common snipe is a small, stocky wader native to the Old World, where it breeds in marshes, bogs, tundra and wet meadows. It is usually shy and well-camouflaged, foraging in soft mud mainly for insects and earthworms but also some plant material. During courtship, males perform a \"winnowing\" display; flying high in circles and then taking shallow dives to produce a \"drumming\" sound by vibrating the tail feathers.",
+   "fulltext_chars": 6843
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gallinago_gallinago_Norfolk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4961,
+  "height": 3508,
+  "file": "Gallinago_gallinago_Norfolk.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Gallinago_gallinago_Norfolk.jpg/1920px-Gallinago_gallinago_Norfolk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Edd deane from Swaffham, England",
+  "credit": "Snipe",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Gallinago_gallinago_Norfolk.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3699,
+  "cities": {
+   "Le Mans": 0.255,
+   "Pornic": 0.274,
+   "Rennes": 0.276,
+   "Poitiers": 0.234,
+   "Paris": 0.264,
+   "Lille": 0.302,
+   "Strasbourg": 0.203,
+   "Lyon": 0.168,
+   "Grenoble": 0.145,
+   "Marseille": 0.205,
+   "Toulouse": 0.19,
+   "Bordeaux": 0.208,
+   "Brest": 0.282,
+   "Ajaccio": 0.37,
+   "Clermont-Ferrand": 0.188,
+   "Chamonix": 0.155,
+   "Perpignan": 0.198,
+   "Nancy": 0.221
+  },
+  "monthly_scores": [
+   0.369,
+   0.342,
+   0.2371,
+   0.1239,
+   0.0537,
+   0.0518,
+   0.0818,
+   0.2252,
+   0.3016,
+   0.2818,
+   0.3418,
+   0.3699
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:19Z"
+}

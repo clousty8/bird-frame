@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Tetrastes bonasia",
+ "common_name_fr": "Gélinotte des bois",
+ "birdnet_label": "Tetrastes bonasia_Gélinotte des bois",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Galliformes",
+  "family": "Phasianidae",
+  "family_common": "Pheasants, Grouse, and Allies",
+  "genus": "Tetrastes",
+  "species": "Tetrastes bonasia"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Gélinotte des bois",
+   "url": "https://fr.wikipedia.org/wiki/G%C3%A9linotte_des_bois",
+   "description": "espèce d'oiseaux",
+   "extract": "La Gélinotte des bois est une espèce de petits gallinacés faisant partie de la faune typique de certains habitats de sous-bois d'Eurasie et appartenant à la famille des Phasianidae, sous-famille des Tetraoninae. En raison de la chasse passée et du rétrécissement de son habitat, c'est une espèce qui a disparu d'une grande partie de son aire naturelle et potentielle de répartition.",
+   "fulltext_chars": 6922
+  },
+  "en": {
+   "title": "Hazel grouse",
+   "url": "https://en.wikipedia.org/wiki/Hazel_grouse",
+   "description": "Species of bird",
+   "extract": "The hazel grouse, sometimes called the hazel hen, is one of the smaller members of the grouse tribe of birds. It is a sedentary species, breeding across the Palearctic as far east as Hokkaido, and as far west as central Europe, in dense, damp, mixed coniferous woodland, preferably with some spruce. The bird is sometimes referred to as \"rabchick\" by early 20th century English speaking travellers to Russia.",
+   "fulltext_chars": 3161
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Hazel_Grouse_imported_from_iNaturalist_photo_116195913_on_11_June_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1536,
+  "file": "Hazel_Grouse_imported_from_iNaturalist_photo_116195913_on_11_June_2024.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Hazel_Grouse_imported_from_iNaturalist_photo_116195913_on_11_June_2024.jpg/1920px-Hazel_Grouse_imported_from_iNaturalist_photo_116195913_on_11_June_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "(c) Ilkka Tuunainen, some rights reserved (CC BY-SA)",
+  "credit": "https://www.inaturalist.org/photos/116195913",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Hazel_Grouse_imported_from_iNaturalist_photo_116195913_on_11_June_2024.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0225,
+  "cities": {
+   "Ajaccio": 0.022
+  },
+  "monthly_scores": [
+   0.0205,
+   0.0225,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.017,
+   0.021
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:25Z"
+}

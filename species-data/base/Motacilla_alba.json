@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Motacilla alba",
+ "common_name_fr": "Bergeronnette grise",
+ "birdnet_label": "Motacilla alba_Bergeronnette grise",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Motacillidae",
+  "family_common": "Wagtails and Pipits",
+  "genus": "Motacilla",
+  "species": "Motacilla alba"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bergeronnette grise",
+   "url": "https://fr.wikipedia.org/wiki/Bergeronnette_grise",
+   "description": "espèces d'oiseaux passériformes de la famille des motacillidae",
+   "extract": "La Bergeronnette grise, aussi appelée Hochequeue gris, est une espèce de petits passereaux de la famille des motacillidés la même que les pipits et la sentinelle.",
+   "fulltext_chars": 4739
+  },
+  "en": {
+   "title": "White wagtail",
+   "url": "https://en.wikipedia.org/wiki/White_wagtail",
+   "description": "Species of bird",
+   "extract": "The white wagtail is a small passerine bird in the family Motacillidae, which also includes pipits and longclaws. The species breeds in the Palearctic zone in most of Europe and Asia and parts of North Africa; it also has a toehold in western Alaska as a scarce breeder. It is resident in the mildest parts of its range, but otherwise migrates to Africa. In total, there are between 9 and 11 subspecies of M. alba; in Ireland and Great Britain, the black-backed subspecies known as the pied wagtail predominates.",
+   "fulltext_chars": 10744
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/31/White_wagtail_in_Satpura_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4479,
+  "height": 2986,
+  "file": "White_wagtail_in_Satpura_National_Park.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/White_wagtail_in_Satpura_National_Park.jpg/1920px-White_wagtail_in_Satpura_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Bernard Gagnon",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:White_wagtail_in_Satpura_National_Park.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9084,
+  "cities": {
+   "Le Mans": 0.739,
+   "Pornic": 0.75,
+   "Rennes": 0.781,
+   "Poitiers": 0.682,
+   "Paris": 0.72,
+   "Lille": 0.783,
+   "Strasbourg": 0.81,
+   "Lyon": 0.684,
+   "Grenoble": 0.735,
+   "Marseille": 0.845,
+   "Toulouse": 0.871,
+   "Bordeaux": 0.781,
+   "Brest": 0.827,
+   "Ajaccio": 0.887,
+   "Clermont-Ferrand": 0.674,
+   "Chamonix": 0.724,
+   "Perpignan": 0.908,
+   "Nancy": 0.788
+  },
+  "monthly_scores": [
+   0.8951,
+   0.8658,
+   0.8254,
+   0.7555,
+   0.8099,
+   0.7218,
+   0.7777,
+   0.8271,
+   0.7963,
+   0.8153,
+   0.9084,
+   0.9055
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:24Z"
+}

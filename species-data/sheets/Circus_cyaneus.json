@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Circus cyaneus",
+ "summary_fr": "Le Busard Saint-Martin est un rapace diurne de taille moyenne, reconnaissable en vol par son allure gracieuse et ses ailes en V légèrement relevées. Le mâle porte un plumage gris-bleu caractéristique avec une tache blanche au croupion, tandis que la femelle et les jeunes sont brun foncé avec les mêmes marques blanches. Chasseur foudroyant des espaces ouverts, il explore méthodiquement prés, marais et champs en volant très bas, surprenant ses proies par son approche furtive. En France, la population se compose de résidents permanents et de migrateurs venus du nord qui gonflent les effectifs en hiver. Espèce protégée et très vocal durant la nidification, le Busard Saint-Martin niche au sol dans les herbes hautes, souvent en cultures céréalières. Autrefois persécuté pour ses prédations supposées sur la volaille, il est aujourd'hui essentiellement menacé par la destruction de son habitat et les accidents agricoles durant l'élevage des jeunes.",
+ "habitat": "Milieux ouverts et semi-ouverts : landes, marais, prairies humides, steppes, dunes côtières et plaines cultivées, du littoral à la montagne.",
+ "diet": "Petits mammifères surtout (jusqu'à 95 % du régime : campagnols, mulots, musaraignes), complétés par des petits oiseaux (alouettes, pipits, jeunes passereaux), insectes et occasionnellement amphibiens.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France, où les nicheurs locaux sont rejoints par les migrateurs d'Europe du Nord et de l'Est.",
+  "niche": "Partout en France, avril à juin, souvent une seule nichée; nid au sol dans les herbes hautes.",
+  "passage": "Migrations marquées en avril et d'août à octobre, avec des pics notamment en septembre."
+ },
+ "seasonality_fr": "Présent toute l'année en France; plus commun et localisé en période hivernale et de reproduction. Audible principalement lors des parades nuptiales (février à juin).",
+ "song_fr": "Très vocal en période de reproduction : appel rauque « kew-kew » répété durant les parades aériennes du mâle, cris d'alarme secs et aigus des deux sexes au nid. Silencieux en hiver.",
+ "lookalikes": [
+  {
+   "scientific_name": "Circus pygargus",
+   "common_name_fr": "Busard cendré",
+   "why_fr": "Ressemblance acoustique possible ; appels similaires en vol, cris d'alarme proches au nid."
+  },
+  {
+   "scientific_name": "Circus aeruginosus",
+   "common_name_fr": "Busard des roseaux",
+   "why_fr": "Même famille, cris de chasse et d'alarme peuvent être confondus, surtout les juvéniles."
+  }
+ ],
+ "rarity_note": "Régulier en France, plus commun en hiver et au printemps dans les régions ouvertes; localisé et moins fréquent en montagne.",
+ "fun_facts": [
+  "Le mâle pratique des « passes de proies » spectaculaires : il lâche le repas en vol que la femelle rattrape en se retournant.",
+  "Espèce hautement vocale lors de la reproduction : les parades aériennes s'accompagnent de cris perçants qui dominent le paysage sonore des plaines.",
+  "Capable de prédation de petits lapins et de jeunes anatidés, qu'il peut noyer dans l'eau pour les maîtriser."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Busard_Saint-Martin",
+  "https://en.wikipedia.org/wiki/Hen_harrier",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

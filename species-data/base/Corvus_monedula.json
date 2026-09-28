@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Corvus monedula",
+ "common_name_fr": "Choucas des tours",
+ "birdnet_label": "Corvus monedula_Choucas des tours",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Corvidae",
+  "family_common": "Crows, Jays, and Magpies",
+  "genus": "Corvus",
+  "species": "Corvus monedula"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Choucas des tours",
+   "url": "https://fr.wikipedia.org/wiki/Choucas_des_tours",
+   "description": "espèce d'oiseaux passériformes de la famille des corvidae",
+   "extract": "Le Choucas des tours, aussi appelé Corbeau choucas, Choucas ou Corneille des clochers, est une espèce d'oiseaux de la famille des Corvidae.",
+   "fulltext_chars": 13025
+  },
+  "en": {
+   "title": "Western jackdaw",
+   "url": "https://en.wikipedia.org/wiki/Western_jackdaw",
+   "description": "Species of bird in the crow family Corvidae",
+   "extract": "The western jackdaw, also known as the Eurasian jackdaw, the European jackdaw, or simply the jackdaw, is a passerine bird in the crow family. It is found across Europe, western Asia and western North Africa; it is mostly resident, although northern and eastern populations migrate south in the winter. Four subspecies are recognised, which differ mainly in the darker or paler greyscale of the plumage on the head and nape. Linnaeus first described it formally, giving it the name Corvus monedula. The common name derives from the word jack, denoting \"small\", and daw, a less common synonym for \"jackdaw\", and the native English name for the bird.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a1/%D0%93%D0%B0%D0%BB%D0%BA%D0%B0_%28Corvus_monedula%29%2C_%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4304,
+  "height": 2888,
+  "file": "Галка_(Corvus_monedula),_Царицыно.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%D0%93%D0%B0%D0%BB%D0%BA%D0%B0_%28Corvus_monedula%29%2C_%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%BE.jpg/1920px-%D0%93%D0%B0%D0%BB%D0%BA%D0%B0_%28Corvus_monedula%29%2C_%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Dion Art",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%B0%D0%BB%D0%BA%D0%B0_(Corvus_monedula),_%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%BE.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.7463,
+  "cities": {
+   "Le Mans": 0.564,
+   "Pornic": 0.517,
+   "Rennes": 0.636,
+   "Poitiers": 0.435,
+   "Paris": 0.61,
+   "Lille": 0.746,
+   "Strasbourg": 0.353,
+   "Lyon": 0.355,
+   "Grenoble": 0.34,
+   "Marseille": 0.363,
+   "Toulouse": 0.268,
+   "Bordeaux": 0.251,
+   "Brest": 0.713,
+   "Ajaccio": 0.506,
+   "Clermont-Ferrand": 0.315,
+   "Chamonix": 0.353,
+   "Perpignan": 0.308,
+   "Nancy": 0.437
+  },
+  "monthly_scores": [
+   0.6391,
+   0.6334,
+   0.6416,
+   0.7316,
+   0.6771,
+   0.6484,
+   0.5563,
+   0.4513,
+   0.6804,
+   0.7463,
+   0.6605,
+   0.6449
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:42Z"
+}

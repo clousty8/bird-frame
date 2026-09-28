@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Turdus philomelos",
+ "summary_fr": "Grive élégante aux teintes brunes, la Grive musicienne est l'un des passereaux les plus familiers des jardins et des parcs d'Europe occidentale. Son nom latin philomelos, inspiré de Philomèle de la mythologie grecque, évoque son chant remarquablement complexe et mélodieux, fait de phrases musicales distinctes répétées deux ou trois fois. Cet oiseau se distingue par une particularité comportementale unique : il utilise une pierre comme enclume pour casser les coquilles d'escargots, ce qui révèle une intelligence remarquable. Migrateur partiel, la Grive musicienne niche un peu partout en France et en Europe centrale, tandis que d'autres populations se contentent de la traverser en automne et au printemps. Sexes identiques, elle possède des sous-ailes jaune-orangé très visibles en vol, une caractéristique utile pour la distinguer de ses cousines grives. Ses populations, bien que stables en France, ont connu des déclins notables dans le nord-ouest de l'Europe, liés aux changements agricoles.",
+ "habitat": "Sous-bois, bosquets, haies, jardins arborés, parcs urbains et boisements divers du littoral à la montagne.",
+ "diet": "Vers de terre, escargots, limaces, insectes et larves trouvés au sol ou dans la litière ; baies et petits fruits en hiver et en migration.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France, dans le sud et l'ouest, ainsi qu'en Afrique du Nord et en Europe méditerranéenne et atlantique.",
+  "niche": "Partout en France et en Europe de mars à août, le plus souvent en deux ou trois nichées par an.",
+  "passage": "Passages migratoires marqués en mars et d'octobre à novembre en provenance et à destination du sud-ouest."
+ },
+ "seasonality_fr": "Visible et audible toute l'année en France, y compris l'hiver, contrairement à beaucoup d'autres espèces.",
+ "song_fr": "Chant très caractéristique et mélodieux composé de phrases cristallines variées, répétées deux à quatre fois chacune (« pip-pip-pip », « kodidio-kodidio »), souvent entrecoupées d'imitations d'autres oiseaux. Cri d'alarme sec et répété « tic-tic » distinctive.",
+ "lookalikes": [
+  {
+   "scientific_name": "Turdus iliacus",
+   "common_name_fr": "Grive mauvis",
+   "why_fr": "Taille et silhouette proches. Sous-ailes rouges vs orangées chez la musicienne. Cris « seep » vs « tic-tic »."
+  },
+  {
+   "scientific_name": "Turdus viscivorus",
+   "common_name_fr": "Grive draine",
+   "why_fr": "Plus grande mais même morphologie générale. Sous-ailes blanches vs orangées. Chant moins mélodieux."
+  },
+  {
+   "scientific_name": "Turdus merula",
+   "common_name_fr": "Merle noir",
+   "why_fr": "Chant superficiellement similaire au loin, mais merle mâle nettement plus sombre. Habitats souvent proches."
+  }
+ ],
+ "rarity_note": "Très commune partout en France, toute l'année. Espèce régulière et bien établie, l'une des grives les plus fréquentes dans les jardins et parcs.",
+ "fun_facts": [
+  "La Grive musicienne est l'une des rares femelles passereaux à chanter, ce qui lui permet de défendre son propre territoire hivernal.",
+  "Elle possède un « enclume » préférée, une pierre plate qu'elle utilise régulièrement pour casser les coquilles d'escargots, illustrant ainsi une utilisation d'outils chez les oiseaux.",
+  "Son répertoire vocal dépasse la centaine de phrases différentes, beaucoup imitées de ses parents et de ses voisins pendant sa jeunesse."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Grive_musicienne",
+  "https://en.wikipedia.org/wiki/Song_thrush",
+  "https://www.oiseaux.net/fiches/grivemusicienne.html",
+  "https://www.lpo.fr/les-oiseaux/fiches-oiseaux/grive-musicienne"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

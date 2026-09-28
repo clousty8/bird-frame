@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Gavia arctica",
+ "summary_fr": "Le Plongeon arctique est un grand oiseau aquatique au corps fuselé, parfaitement adapté à la natation et à la plongée mais maladroit sur terre ferme. En plumage nuptial, il arbore une tête grise, une grande tache noire triangulaire sur la gorge et des bandes noires et blanches caractéristiques sur le cou et le dos. En hiver, son plumage devient terne et gris-brun, la gorge passant entièrement au blanc. Cet excellent plongeur capture ses proies jusqu'à 6 mètres de profondeur, se nourrissant principalement de poissons. Migrateur nord-européen, il niche sur les grands lacs froids d'Asie et d'Europe du Nord, puis hiverne sur les côtes atlantiques et méditerranéennes. Très rare en France métropolitaine, on le rencontre principalement en passage automnal et hivernal près des côtes.",
+ "habitat": "Lacs profonds et isolés lors de la nidification ; côtes maritimes abritées et champs de glaces côtières pour l'hivernage.",
+ "diet": "Poissons capturés en plongée (jusqu'à 6 m) ; occasionnellement petits invertébrés aquatiques, mollusques et crustacés.",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Côtes nord-atlantiques de la péninsule ibérique, mers Méditerranée, Noire et Caspienne, côtes nord-atlantiques.",
+  "niche": "Lacs profonds du nord-est asiatique et de Scandinavie, au-delà de la zone tempérée. Ne niche pas en France.",
+  "passage": "Passages en mars-avril (printemps) et septembre à novembre (automne) lors des migrations entre zones de nidification et hivernage."
+ },
+ "seasonality_fr": "Visible en France uniquement lors des passages migratoires, d'octobre à avril, très rarement en hiver sur les côtes. Absent en été.",
+ "song_fr": "Pendant la nidification, cris bruyants et caractéristiques : chant sifflé rhythmique oooéé-cu-cloooéé-cu-cluuéé, cris plaintifs áááh-oo, croassements knarr-knor. Cri d'alarme aigu uweek. Silencieux en hiver et lors des migrations.",
+ "lookalikes": [
+  {
+   "scientific_name": "Gavia immer",
+   "common_name_fr": "Plongeon huard",
+   "why_fr": "Taille supérieure et aspect plus massif ; plumage nuptial plus contrasté avec gorge entièrement noire."
+  },
+  {
+   "scientific_name": "Gavia stellata",
+   "common_name_fr": "Plongeon catmarin",
+   "why_fr": "Espèce plus petite, cris plus aigus ; présente une tache dorsale rouge en nuptial, absente chez l'arctique."
+  },
+  {
+   "scientific_name": "Gavia pacifica",
+   "common_name_fr": "Plongeon du Pacifique",
+   "why_fr": "Confusion possible sur des cris isolés ; la sous-espèce pacifica a la gorge verte au lieu de noire."
+  }
+ ],
+ "rarity_note": "Très rare en France métropolitaine. Observé surtout sur les côtes atlantiques et méditerranéennes en passage migratoire, jamais en grand nombre.",
+ "fun_facts": [
+  "La sous-espèce viridigularis (Asie de l'Est) possède une gorge verte distinctive au lieu de noire, d'où son nom latin.",
+  "Certaines populations de Sibérie effectuent des trajets migratoires de plus de 15 000 km, traversant l'Eurasie entière pour atteindre la Baltique puis revenant le long des côtes.",
+  "Très sensible au virus H5N1 de la grippe aviaire ; ses populations sont en déclin en Europe du Nord due à la pollution des lacs de nidification au mercure."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Plongeon_arctique",
+  "https://en.wikipedia.org/wiki/Black-throated_loon",
+  "https://www.oiseaux.net/oiseaux/plongeon.arctique.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

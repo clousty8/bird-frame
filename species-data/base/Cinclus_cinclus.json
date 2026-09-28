@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Cinclus cinclus",
+ "common_name_fr": "Cincle plongeur",
+ "birdnet_label": "Cinclus cinclus_Cincle plongeur",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Cinclidae",
+  "family_common": "Dippers",
+  "genus": "Cinclus",
+  "species": "Cinclus cinclus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Cincle plongeur",
+   "url": "https://fr.wikipedia.org/wiki/Cincle_plongeur",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Cincle plongeur est une espèce de passereaux de la famille des cinclidés. C'est un oiseau brun et blanc de la taille d'un merle qui vit à proximité des rivières d'Europe, d'Asie et d'Afrique du nord. Il est parfois appelé merle d'eau.",
+   "fulltext_chars": 7106
+  },
+  "en": {
+   "title": "White-throated dipper",
+   "url": "https://en.wikipedia.org/wiki/White-throated_dipper",
+   "description": "Species of bird",
+   "extract": "The white-throated dipper, also known as the European dipper or just dipper, is an aquatic, passerine bird found in Europe, the Middle East, Central Asia, and the Indian subcontinent. The species is divided into several subspecies, based primarily on colour differences, particularly of the pectoral band.",
+   "fulltext_chars": 7661
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cinclus_cinclus_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3208,
+  "height": 2138,
+  "file": "Cinclus_cinclus_2018.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Cinclus_cinclus_2018.jpg/1920px-Cinclus_cinclus_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Dirk-Jan van Roest",
+  "credit": "https://www.flickr.com/photos/djvanroest/39830455524/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Cinclus_cinclus_2018.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.169,
+  "cities": {
+   "Le Mans": 0.05,
+   "Pornic": 0.067,
+   "Rennes": 0.064,
+   "Poitiers": 0.061,
+   "Paris": 0.045,
+   "Lille": 0.042,
+   "Strasbourg": 0.05,
+   "Lyon": 0.074,
+   "Grenoble": 0.081,
+   "Marseille": 0.08,
+   "Toulouse": 0.06,
+   "Bordeaux": 0.062,
+   "Brest": 0.079,
+   "Ajaccio": 0.169,
+   "Clermont-Ferrand": 0.07,
+   "Chamonix": 0.08,
+   "Perpignan": 0.063,
+   "Nancy": 0.047
+  },
+  "monthly_scores": [
+   0.169,
+   0.1661,
+   0.1212,
+   0.0948,
+   0.0725,
+   0.0696,
+   0.0844,
+   0.0927,
+   0.0778,
+   0.1046,
+   0.1486,
+   0.1599
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:29Z"
+}

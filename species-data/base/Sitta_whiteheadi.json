@@ -1,0 +1,89 @@
+{
+ "scientific_name": "Sitta whiteheadi",
+ "common_name_fr": "Sittelle corse",
+ "birdnet_label": "Sitta whiteheadi_Sittelle corse",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sittidae",
+  "family_common": "Nuthatches",
+  "genus": "Sitta",
+  "species": "Sitta whiteheadi"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Sittelle corse",
+   "url": "https://fr.wikipedia.org/wiki/Sittelle_corse",
+   "description": "espèce d'oiseaux",
+   "extract": "La Sittelle corse, nommée pichjarina en corse, est une espèce d'oiseaux de la famille des Sittidae. C'est une sittelle relativement petite, mesurant près de 12 cm. Les parties supérieures sont gris bleuté, les parties inférieures blanc grisâtre. Le mâle se distingue de la femelle par sa calotte entièrement noire. L'espèce est sédentaire, territoriale et peu farouche. Elle se nourrit souvent haut dans les Pins laricio corses, consommant principalement des pignons, mais attrapant aussi quelques insectes volants. La saison de reproduction a lieu entre avril et mai ; le nid est placé dans le tronc d'un vieux pin, et la couvée compte cinq à six œufs. Les jeunes s'émancipent 22 à 24 jours après leur naissance.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Corsican nuthatch",
+   "url": "https://en.wikipedia.org/wiki/Corsican_nuthatch",
+   "description": "Species of bird",
+   "extract": "The Corsican nuthatch is a species of bird in the nuthatch family Sittidae. It is a relatively small nuthatch, measuring about 12 cm (4.7 in) in overall length. The upperparts are bluish-grey, the underparts greyish-white. The male is distinguished from the female by its entirely black crown. The species is sedentary, territorial and not very shy. It often feeds high in Corsican pines, consuming mainly pine seeds, but also catching some flying insects. The breeding season takes place between April and May; the nest is placed in the trunk of an old pine, and the clutch has five to six eggs. The young fledge 22 to 24 days after hatching.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Sitta_whiteheadi_-_Christoph_Moning_-_4_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1201,
+  "height": 1361,
+  "file": "Sitta_whiteheadi_-_Christoph_Moning_-_4_(cropped).jpeg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Sitta_whiteheadi_-_Christoph_Moning_-_4_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Christoph Moning (iNaturalist user christoph_moning)",
+  "credit": "iNaturalist photo 92960397, by christoph_moning, CC BY",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Sitta_whiteheadi_-_Christoph_Moning_-_4_(cropped).jpeg"
+ },
+ "france_universe": {
+  "max_score": 0.1976,
+  "cities": {
+   "Poitiers": 0.012,
+   "Lyon": 0.02,
+   "Grenoble": 0.024,
+   "Marseille": 0.053,
+   "Toulouse": 0.02,
+   "Bordeaux": 0.015,
+   "Ajaccio": 0.198,
+   "Clermont-Ferrand": 0.024,
+   "Chamonix": 0.014,
+   "Perpignan": 0.027
+  },
+  "monthly_scores": [
+   0.1479,
+   0.1695,
+   0.1976,
+   0.1038,
+   0.0811,
+   0.1007,
+   0.1408,
+   0.1092,
+   0.0583,
+   0.0874,
+   0.1147,
+   0.1318
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:07Z"
+}

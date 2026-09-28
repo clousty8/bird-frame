@@ -1,0 +1,83 @@
+{
+ "scientific_name": "Carduelis corsicana",
+ "common_name_fr": "Venturon corse",
+ "birdnet_label": "Carduelis corsicana_Venturon corse",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Fringillidae",
+  "family_common": "Finches, Euphonias, and Allies",
+  "genus": "Carduelis",
+  "species": "Carduelis corsicana"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Venturon corse",
+   "url": "https://fr.wikipedia.org/wiki/Venturon_corse",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Venturon corse est une espèce de passereaux appartenant à la famille des Fringillidae, qui se rencontre en Corse, Sardaigne et sur quelques îles italiennes.",
+   "fulltext_chars": 5629
+  },
+  "en": {
+   "title": "Corsican finch",
+   "url": "https://en.wikipedia.org/wiki/Corsican_finch",
+   "description": "Species of bird",
+   "extract": "The Corsican finch, also known as the Corsican citril finch or Mediterranean citril finch, is a species of passerine bird belonging to the family Fringillidae, the \"true\" finches. This species is endemic to Corsica and Sardinia and nearby islands in France and Italy.",
+   "fulltext_chars": 3453
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Corsican_finch_inaturalist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 641,
+  "file": "Corsican_finch_inaturalist.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/4/49/Corsican_finch_inaturalist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Christoph Moning",
+  "credit": "https://www.inaturalist.org/observations/128628056",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Corsican_finch_inaturalist.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3749,
+  "cities": {
+   "Marseille": 0.046,
+   "Toulouse": 0.012,
+   "Ajaccio": 0.375,
+   "Perpignan": 0.027
+  },
+  "monthly_scores": [
+   0.3027,
+   0.3232,
+   0.3749,
+   0.3536,
+   0.2913,
+   0.288,
+   0.3057,
+   0.3146,
+   0.2135,
+   0.2456,
+   0.2754,
+   0.2949
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:18Z"
+}

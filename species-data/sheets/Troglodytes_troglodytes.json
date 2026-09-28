@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Troglodytes troglodytes",
+ "summary_fr": "Le Troglodyte mignon est l'un des plus petits passereaux d'Europe, mesurant à peine 10 cm. Ce minuscule oiseau rond et brun possède une queue caractéristiquement dressée et une énergie débordante. Bien que minuscule, il produit un chant extraordinairement puissant et mélodieux, proportionnellement dix fois plus fort que celui d'un coq. Insectivore, il passe son temps à fouiller les fissures de l'écorce et le sous-bois pour y trouver sa nourriture. Actif toute l'année en France, le Troglodyte défend farouchement un petit territoire dont il est le seigneur incontesté. Les mâles construisent de remarquables nids sphériques en mousse, et plusieurs femelles peuvent se reproduire sur le même territoire. Capable de survivre aux hivers rigoureux grâce à son régime insectivore, il demeure visible quels que soient les mois dans l'Hexagone.",
+ "habitat": "Forêts tempérées et boréales, sous-bois dense, haies, parcs et jardins arborés avec fourrés épais, du littoral à la montagne.",
+ "diet": "Majoritairement insectivore : petits insectes, diptères, araignées, chenilles, petits crustacés et mille-pattes. Occasionnellement petites graines et baies en hiver.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France, où les nicheurs locaux sédentaires sont rejoints en automne par des migrateurs venus du nord et de l'est de l'Europe.",
+  "niche": "Partout en France métropolitaine, avec un pic d'avril à juillet pour les nichées.",
+  "passage": "Passages migratoires visibles en mars et d'octobre à novembre."
+ },
+ "seasonality_fr": "Visible et audible toute l'année en France. Très vocal au printemps et en hiver, où son chant résonne parfois près des éclairages publics.",
+ "song_fr": "Chant puissant et mélodieux composé de trilles répétitifs aigus et de phrases cristallines. Cris d'alarme : « tic-tic-tic » sec et répété ou « trrrrt » roulé.",
+ "lookalikes": [
+  {
+   "scientific_name": "Prunella modularis",
+   "common_name_fr": "Accenteur mouchet",
+   "why_fr": "Partage un habitat similaire et une petite taille ; chant grinçant similaire."
+  },
+  {
+   "scientific_name": "Regulus regulus",
+   "common_name_fr": "Roitelet huppé",
+   "why_fr": "Oiseau minuscule des forêts de conifères ; cris fins et aigus peuvent être confondus."
+  }
+ ],
+ "rarity_note": "Très commun partout en France, présent toute l'année. Score de détection maximal en France (0,90), atteignant 0,80 à 0,87 dans la région du Mans et de Pornic.",
+ "fun_facts": [
+  "Proportionnellement à sa taille, son chant est environ dix fois plus puissant que celui d'un coq, ce qui en fait un des oiseaux les plus bruyants d'Europe.",
+  "Le Troglodyte peut grouper jusqu'à vingt individus pour dormir ensemble en cercle serré, serrés les uns contre les autres dans un vieux nid, afin de se réchauffer les nuits d'hiver rigoureux."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Troglodyte_mignon",
+  "https://en.wikipedia.org/wiki/Eurasian_wren",
+  "https://oiseaux.net/troglodyte-mignon.html",
+  "https://www.lpo.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

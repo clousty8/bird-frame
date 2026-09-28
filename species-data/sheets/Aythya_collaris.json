@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Aythya collaris",
+ "summary_fr": "Le Fuligule à collier est un petit canard plongeur nord-américain, rarement observé en Europe. Le mâle se distingue par sa tête et son dos noirs, contrastant avec un plastron blanc et des yeux jaunes caractéristiques. La femelle est de teinte plus brune et terne. Le bec gris orné de deux anneaux blancs donne son surnom de « Ringbill » en anglais, alors que le collier châtain du cou, d'où vient son nom français, reste difficile à observer. C'est un véritable plongeur qui peut s'immerger profondément pour se nourrir d'une grande variété d'aliments. En Amérique du Nord, il niche dans les lacs et étangs boisés, puis migre vers les eaux douces du sud pour l'hiver. Sa présence en France demeure très exceptionnelle, limitée à quelques observations hivernales sporadiques.",
+ "habitat": "Lacs et étangs d'eau douce en Amérique du Nord ; occasionnellement baies côtières. En Europe, vagrances hivernales sur des eaux peu profondes.",
+ "diet": "Se nourrit principalement en plongée d'algues, de plantes aquatiques submergées comme le potamot, ainsi que de mollusques et d'insectes aquatiques. Occasionnellement petits poissons.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Hivernage principalement en Amérique du Nord (sud des États-Unis, Mexique) ; très occasionnellement observé en hivernage en Europe occidentale.",
+  "niche": "Ne niche pas en France. Reproduction en Amérique du Nord (nord des États-Unis, Canada).",
+  "passage": "Passages automnaux et printaniers très rares en France, observés principalement de septembre à novembre et en mars-avril."
+ },
+ "seasonality_fr": "Très rare et irrégulier en France, se limitant à de sporadiques observations hivernales. Quelques individus peuvent apparaître occasionnellement lors des passages migratoires.",
+ "song_fr": "Canard silencieux. Les femelles produisent un cri grave ressemblant à « trrr ». Peu vocaux comparés à d'autres fuligules.",
+ "lookalikes": [
+  {
+   "scientific_name": "Aythya fuligula",
+   "common_name_fr": "Fuligule morillon",
+   "why_fr": "Même genre et taille similaire. Mâle noir et blanc comme le Fuligule à collier. La crête de la tête et l'absence d'anneaux sur le bec permettent la distinction."
+  },
+  {
+   "scientific_name": "Aythya affinis",
+   "common_name_fr": "Petit Fuligule",
+   "why_fr": "Très proche du Fuligule à collier en taille et couleur. Les deux anneaux blancs du bec et la petite taille de la tête sont des clés d'identification."
+  },
+  {
+   "scientific_name": "Aythya ferina",
+   "common_name_fr": "Fuligule milouin",
+   "why_fr": "Autre fuligule plongeur. La tête rousse du mâle et le dos plus gris le distinguent clairement du Fuligule à collier."
+  }
+ ],
+ "rarity_note": "Très rare et accidentel en France. Visiteur hivernai irrégulier dont les observations demeurent sporadiques et exceptionnelles, surtout sur les eaux douces du littoral atlantique.",
+ "fun_facts": [
+  "Le nom « ringbill » en anglais fait référence aux deux anneaux blancs entourant son bec gris-bleu, bien plus visibles que le col châtain qui inspire son nom français.",
+  "Contrairement à beaucoup de canards, c'est un véritable plongeur capable de s'immerger profondément pour atteindre la végétation aquatique et les mollusques."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fuligule_%C3%A0_collier",
+  "https://en.wikipedia.org/wiki/Ring-necked_duck",
+  "https://www.oiseaux.net/oiseaux/fuligule.a.collier.html",
+  "https://www.avibase.bsc-eoc.org/species.jsp?avibaseid=1BE2EE0E847D1AD0"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Larus cachinnans",
+ "summary_fr": "Le Goéland pontique est un grand goéland élancé de 56 à 68 cm, longtemps rangé comme sous-espèce du Goéland leucophée avant d'être reconnu comme une espèce à part entière. Originaire du pourtour de la mer Noire et de la mer Caspienne, il niche sur des rives plates, des îles et des lacs de steppe plutôt que sur des falaises, et étend depuis quelques décennies son aire de reproduction vers l'Europe centrale, notamment la Pologne et l'est de l'Allemagne. En France, où il ne se reproduit pas, il apparaît surtout comme hivernant régulier bien que peu nombreux, principalement sur le littoral du nord et du nord-ouest, avec des passages notables au printemps et en arrière-saison lors des mouvements vers et depuis les zones de reproduction pontocaspiennes. Sa silhouette élancée, ses pattes et ailes proportionnellement longues, ses petits yeux sombres et son bec fin et allongé aident à le distinguer du Goéland argenté et du Goéland leucophée, avec lesquels il forme un complexe d'espèces proches, parfois hybridées. Charognard opportuniste, il varie son régime selon la saison, entre proies vivantes près des colonies et détritus en hiver.",
+ "habitat": "Rives plates, îles, dunes et lacs de steppe pour la reproduction ; en France, surtout littoral, estuaires, plans d'eau et décharges en hiver.",
+ "diet": "Charognard et prédateur opportuniste au régime varié : rongeurs comme les spermophiles près des colonies de reproduction, poissons, invertébrés, détritus et restes alimentaires en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Bénélux et nord/nord-ouest de la France, en régions côtières, où l'espèce hiverne en nombre encore restreint mais croissant depuis le pourtour pontocaspien.",
+  "niche": "Ne niche pas en France ; reproduction autour de la mer Noire et de la mer Caspienne, en expansion récente vers l'Europe centrale (Pologne, est de l'Allemagne, Lituanie).",
+  "passage": "Présent en dehors de l'hiver strict, de mars à avril et de juillet à octobre, lors des dispersions prénuptiales et postnuptiales depuis les colonies pontocaspiennes."
+ },
+ "seasonality_fr": "Visible surtout d'octobre à avril en régions côtières du nord et du nord-ouest, avec des individus présents une bonne partie de l'année hors période de reproduction pontocaspienne (mai-juin).",
+ "song_fr": "Cris rauques et perçants proches de ceux du Goéland argenté, qualifiés de « ricanements », d'où son nom scientifique cachinnans qui signifie « qui rit ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Larus michahellis",
+   "common_name_fr": "Goéland leucophée",
+   "why_fr": "Espèce très proche, longtemps confondue ; cris rauques similaires, pattes jaunes chez le leucophée contre roses pâles chez le pontique."
+  },
+  {
+   "scientific_name": "Larus argentatus",
+   "common_name_fr": "Goéland argenté",
+   "why_fr": "Taille et cris rauques comparables ; le pontique a un bec plus long et une silhouette plus élancée."
+  },
+  {
+   "scientific_name": "Larus fuscus",
+   "common_name_fr": "Goéland brun",
+   "why_fr": "Répertoire vocal proche ; le pontique s'en distingue par des pattes plus pâles et de plus petits yeux."
+  }
+ ],
+ "rarity_note": "Très localisé et peu nombreux en France métropolitaine (score de présence national très faible), en expansion hivernale progressive depuis le pourtour pontocaspien ; aucune reproduction confirmée sur le territoire.",
+ "fun_facts": [
+  "Son nom scientifique cachinnans, « qui rit » en latin, évoque ses cris rauques proches d'un ricanement.",
+  "Contrairement au Goéland leucophée, il ne niche jamais sur les falaises mais au sol, près de l'eau, dans les steppes pontocaspiennes.",
+  "Espèce en expansion vers l'ouest depuis la fin du XXe siècle, il gagne peu à peu l'Europe occidentale comme hivernant."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Go%C3%A9land_pontique",
+  "https://en.wikipedia.org/wiki/Caspian_gull",
+  "https://www.oiseaux.net/oiseaux/larus.cachinnans.html",
+  "https://www.inpn.mnhn.fr/espece/Larus%20cachinnans/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

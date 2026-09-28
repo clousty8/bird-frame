@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Sternula albifrons",
+ "common_name_fr": "Sterne naine",
+ "birdnet_label": "Sternula albifrons_Sterne naine",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Sternula",
+  "species": "Sternula albifrons"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Sterne naine",
+   "url": "https://fr.wikipedia.org/wiki/Sterne_naine",
+   "description": "espèce d'oiseaux",
+   "extract": "La Sterne naine est une espèce d'oiseaux Charadriiformes de la famille des Laridae.",
+   "fulltext_chars": 3371
+  },
+  "en": {
+   "title": "Little tern",
+   "url": "https://en.wikipedia.org/wiki/Little_tern",
+   "description": "Species of bird",
+   "extract": "The little tern is a small seabird of the family Laridae. It is widely distributed breeding on the coasts and inland waterways of Europe, Asia, north and west Africa, and eastern Australia. It winters in the subtropical and tropical oceans as far south as South Africa and Australia.",
+   "fulltext_chars": 4734
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sterna_albifrons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1280,
+  "height": 846,
+  "file": "Sterna_albifrons.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sterna_albifrons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Dûrzan cîrano",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Sterna_albifrons.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1345,
+  "cities": {
+   "Le Mans": 0.026,
+   "Pornic": 0.031,
+   "Rennes": 0.033,
+   "Poitiers": 0.023,
+   "Paris": 0.024,
+   "Lille": 0.026,
+   "Lyon": 0.012,
+   "Grenoble": 0.014,
+   "Marseille": 0.038,
+   "Toulouse": 0.025,
+   "Bordeaux": 0.025,
+   "Brest": 0.024,
+   "Ajaccio": 0.134,
+   "Clermont-Ferrand": 0.014,
+   "Chamonix": 0.011,
+   "Perpignan": 0.042,
+   "Nancy": 0.013
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0376,
+   0.0909,
+   0.1304,
+   0.1345,
+   0.1272,
+   0.1046,
+   0.0507,
+   0.0141,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:04Z"
+}

@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Phylloscopus sibilatrix",
+ "summary_fr": "Le Pouillot siffleur est un petit passereau d'à peine 11 à 13 centimètres, aux couleurs discrètes mais élégantes : vert olive clair sur le dos, blanc pur en dessous, avec une gorge jaune éclatante et une bande jaune au-dessus des yeux. C'est le plus corpulent des pouillots à bec large, et aussi l'un des plus faciles à reconnaître grâce à son chant très caractéristique qui débute par un bruit de machine à coudre avant de dégénérer en une série de notes descendantes. Migrateur de longue distance, il arrive en France au printemps pour nicher dans les forêts de feuillus bien structurées, du niveau de la mer aux étages montagnards, appréciant particulièrement les hêtraies et les chênaies où une strate arbustive riche offre de bons sites de nidification. En automne, il regagne l'Afrique tropicale où il passe l'hiver. Son alimentation composée essentiellement d'arthropodes le rend précieux pour l'équilibre écologique des forêts tempérées.",
+ "habitat": "Forêts de feuillus et forêts mixtes clairsemées, hêtraies, chênaies avec strate arbustive bien développée. Apprécie les futaies de plus de 80 % de couvert mais avec un sous-étage riche en perchoirs.",
+ "diet": "Insectes, araignées, mouches, mollusques et larves d'insectes. En automne, baies consommées occasionnellement.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique tropicale au sud du Sahara, notamment en zones forestières côtières et en forêts dégradées comme les fermes bien boisées.",
+  "niche": "Partout en France métropolitaine de mai à juillet, particulièrement du sud de la Grande-Bretagne à l'ouest de la Sibérie. Deux nichées possibles.",
+  "passage": "Passages marqués en avril-mai (printemps) et août-septembre (automne)."
+ },
+ "seasonality_fr": "Présent en France d'avril à septembre, avec un pic de présence et de chant en mai-juin pendant la reproduction. Totalement absent en hiver, car la population migre alors intégralement vers l'Afrique tropicale.",
+ "song_fr": "Chant très caractéristique en deux parties : première partie ressemblant au bruit d'une machine à coudre avec accélération progressive, seconde partie formée de notes descendantes « piüü-piüü-piüü ». Cri de contact : note douce et simple.",
+ "lookalikes": [
+  {
+   "scientific_name": "Phylloscopus trochilus",
+   "common_name_fr": "Pouillot fitis",
+   "why_fr": "Très similaire à première vue, mais chant plus simple et fluide, sans le bruit de machine à coudre caractéristique."
+  },
+  {
+   "scientific_name": "Phylloscopus collybita",
+   "common_name_fr": "Pouillot véloce",
+   "why_fr": "Plus petit et plus terne, chant nettement différent (« tchip-tchip-tchip »). Queue plus courte et projection alaire moins prononcée."
+  },
+  {
+   "scientific_name": "Phylloscopus bonelli",
+   "common_name_fr": "Pouillot de Bonelli",
+   "why_fr": "Chant et couleurs différents, plus discret. Répartition géographique partiellement différente, essentiellement sud-est."
+  }
+ ],
+ "rarity_note": "Régulier mais peu commun en France, plus présent dans les massifs forestiers qu'au nord et à l'ouest, avec un déclin bien documenté en Grande-Bretagne et en Scandinavie.",
+ "fun_facts": [
+  "Le début de son chant ressemble tant au bruit d'une machine à coudre que certains ornithologues français le surnomment familièrement le « pouillot couturier ».",
+  "La maturité sexuelle intervient après un an, et les couples sont généralement monogames pour la durée d'une saison, mais 30 à 60 % des mâles courtisent une deuxième femelle."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pouillot_siffleur",
+  "https://en.wikipedia.org/wiki/Wood_warbler",
+  "https://www.oiseaux.net/oiseaux/pouillot-siffleur.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

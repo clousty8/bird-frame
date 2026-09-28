@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Charadrius alexandrinus",
+ "common_name_fr": "Pluvier à collier interrompu",
+ "birdnet_label": "Charadrius alexandrinus_Pluvier à collier interrompu",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Charadriidae",
+  "family_common": "Plovers and Lapwings",
+  "genus": "Charadrius",
+  "species": "Charadrius alexandrinus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pluvier à collier interrompu",
+   "url": "https://fr.wikipedia.org/wiki/Pluvier_%C3%A0_collier_interrompu",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pluvier à collier interrompu ou Gravelot à collier interrompu, est une espèce d'oiseaux Charadriiformes de la famille des Charadriidae.",
+   "fulltext_chars": 5213
+  },
+  "en": {
+   "title": "Kentish plover",
+   "url": "https://en.wikipedia.org/wiki/Kentish_plover",
+   "description": "Species of bird",
+   "extract": "The Kentish plover is a small wader of the family Charadriidae that breeds on the shores of saline lakes, lagoons, and coasts, populating sand dunes, marshes, semi-arid desert, and tundra. Both male and female birds have pale plumages with a white underside, grey/brown back, dark legs and a dark bill; however, additionally the male birds also exhibit very dark incomplete breast bands, and dark markings either side of their head, therefore the Kentish plover is regarded as sexually dimorphic.",
+   "fulltext_chars": 20496
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/56/Kentish_Plover_%28_Charadrius_alexandrinus_%29_..._Southern_Spain_%2853416088471%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3538,
+  "height": 2139,
+  "file": "Kentish_Plover_(_Charadrius_alexandrinus_)_..._Southern_Spain_(53416088471).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kentish_Plover_%28_Charadrius_alexandrinus_%29_..._Southern_Spain_%2853416088471%29.jpg/1920px-Kentish_Plover_%28_Charadrius_alexandrinus_%29_..._Southern_Spain_%2853416088471%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "peterichman",
+  "credit": "Kentish Plover ( Charadrius alexandrinus ) ... Southern Spain",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Kentish_Plover_(_Charadrius_alexandrinus_)_..._Southern_Spain_(53416088471).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2308,
+  "cities": {
+   "Le Mans": 0.016,
+   "Pornic": 0.035,
+   "Rennes": 0.029,
+   "Poitiers": 0.023,
+   "Grenoble": 0.013,
+   "Marseille": 0.053,
+   "Toulouse": 0.036,
+   "Bordeaux": 0.036,
+   "Brest": 0.042,
+   "Ajaccio": 0.231,
+   "Clermont-Ferrand": 0.013,
+   "Perpignan": 0.056
+  },
+  "monthly_scores": [
+   0.2308,
+   0.2114,
+   0.1915,
+   0.1636,
+   0.1334,
+   0.1256,
+   0.1512,
+   0.1634,
+   0.146,
+   0.1422,
+   0.1991,
+   0.2285
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:33Z"
+}

@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Anser indicus",
+ "common_name_fr": "Oie à tête barrée",
+ "birdnet_label": "Anser indicus_Oie à tête barrée",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Anser",
+  "species": "Anser indicus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Oie à tête barrée",
+   "url": "https://fr.wikipedia.org/wiki/Oie_%C3%A0_t%C3%AAte_barr%C3%A9e",
+   "description": "espèce d'oiseaux anseriformes de la famille des anatidae",
+   "extract": "L'Oie à tête barrée, parfois appelée Oie tigrée est une espèce d'oiseaux de la famille des Anatidae.",
+   "fulltext_chars": 3163
+  },
+  "en": {
+   "title": "Bar-headed goose",
+   "url": "https://en.wikipedia.org/wiki/Bar-headed_goose",
+   "description": "Species of bird",
+   "extract": "The bar-headed goose is a goose that breeds in Central Asia in colonies of thousands near mountain lakes and winters in South Asia, as far south as peninsular India. It lays three to eight eggs at a time in a ground nest. It is known for the extreme altitudes it reaches when migrating across the Himalayas.",
+   "fulltext_chars": 7671
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bar-headed_Goose_%28Anser_indicus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2000,
+  "height": 1383,
+  "file": "Bar-headed_Goose_(Anser_indicus).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Bar-headed_Goose_%28Anser_indicus%29.jpg/1920px-Bar-headed_Goose_%28Anser_indicus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Imran Shah",
+  "credit": "https://www.flickr.com/photos/gilgit2/52691195283/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Bar-headed_Goose_(Anser_indicus).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0116,
+  "cities": {
+   "Strasbourg": 0.012
+  },
+  "monthly_scores": [
+   0.0116,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0103,
+   0.0107
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:21Z"
+}

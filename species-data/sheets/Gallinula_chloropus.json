@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Gallinula chloropus",
+ "summary_fr": "La Gallinule poule-d'eau est un oiseau d'eau très répandu en Eurasie et en Afrique, facilement reconnaissable à son bouclier frontal rouge vif prolongé par un bec rouge à pointe jaune, et à la tache blanche qui souligne chaque flanc de son plumage sombre. Longue d'une trentaine de centimètres, elle fréquente étangs, mares et cours d'eau à végétation dense, y compris en milieu urbain, où elle glane insectes, petits animaux aquatiques, herbes, graines et baies sur les berges ou en eau peu profonde. Souvent confondue avec la Foulque macroule, elle s'en distingue par son bec bicolore et l'absence de bouclier blanc. Le couple, fidèle, défend farouchement son territoire et peut élever jusqu'à quatre couvées par an ; les jeunes de la première nichée aident volontiers à nourrir leurs cadets. Très bruyante, elle pousse des cris métalliques et roulés depuis le couvert de la végétation. En France, elle est commune et régulière toute l'année, certaines populations restant sédentaires tandis que d'autres migrent selon les saisons.",
+ "habitat": "Étangs, mares, lacs bien végétalisés, cours d'eau, canaux et zones humides en général, y compris en milieu urbain ; du littoral à la montagne.",
+ "diet": "Régime omnivore : insectes, petits animaux aquatiques, herbes, graines et baies ; se nourrit sur les berges ou dans l'eau peu profonde.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Hivernage en France pour les populations sédentaires et les migrateurs méridionaux.",
+  "niche": "Reproduction en France d'avril à septembre, avec un pic en mai-juin ; deux à quatre couvées par an selon les conditions.",
+  "passage": "Mouvements marqués en mars (retour des migrateurs) et octobre-novembre (départ vers le sud)."
+ },
+ "seasonality_fr": "Présente en France toute l'année, bien que plus commune en période de reproduction. Visible et audible surtout en fin d'après-midi et à l'aube lors de ses passages entre cachettes et zones d'alimentation.",
+ "song_fr": "Cris soudains, brefs et métalliques, décrits comme des « krrou » ou des sons roulés ; émis généralement à couvert. Ensemble acoustique bruyant, typique des rails.",
+ "lookalikes": [
+  {
+   "scientific_name": "Fulica atra",
+   "common_name_fr": "Foulque macroule",
+   "why_fr": "Même habitat et silhouette générale, mais plus sombre, sans bouclier rouge visible et appels très différents."
+  },
+  {
+   "scientific_name": "Rallus aquaticus",
+   "common_name_fr": "Râle d'eau",
+   "why_fr": "Rail de même famille, taille comparable, cris roulés similaires mais plus aigus et notes différentes."
+  }
+ ],
+ "rarity_note": "Commune et régulière dans toute la France, toute l'année. Population stable, présente dans la plupart des zones humides favorables.",
+ "fun_facts": [
+  "Elle peut soulever ses poussins sur son dos pour les transporter en vol jusqu'à un lieu sûr quand elle se sent menacée.",
+  "Les jeunes de la première couvée aident activement leurs parents à élever les couvées suivantes.",
+  "Elle est capable de voler malgré sa silhouette trapue, et bascule ses ailes de manière caractéristique en vol."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Gallinule_poule-d'eau",
+  "https://en.wikipedia.org/wiki/Common_moorhen",
+  "https://www.oiseaux.net/oiseaux/gallinula.chloropus.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

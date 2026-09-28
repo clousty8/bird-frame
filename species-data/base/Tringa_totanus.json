@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Tringa totanus",
+ "common_name_fr": "Chevalier gambette",
+ "birdnet_label": "Tringa totanus_Chevalier gambette",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Tringa",
+  "species": "Tringa totanus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Chevalier gambette",
+   "url": "https://fr.wikipedia.org/wiki/Chevalier_gambette",
+   "description": "espèce d'oiseaux charadriiformes de la famille des scolopacidae",
+   "extract": "Le Chevalier gambette est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae.",
+   "fulltext_chars": 5457
+  },
+  "en": {
+   "title": "Common redshank",
+   "url": "https://en.wikipedia.org/wiki/Common_redshank",
+   "description": "Species of bird",
+   "extract": "The common redshank or simply redshank is a Eurasian wader in the large family Scolopacidae.",
+   "fulltext_chars": 4849
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Common_redshank_%28Tringa_totanus%29_Oppdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3296,
+  "height": 2198,
+  "file": "Common_redshank_(Tringa_totanus)_Oppdal.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Common_redshank_%28Tringa_totanus%29_Oppdal.jpg/1920px-Common_redshank_%28Tringa_totanus%29_Oppdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Charles J. Sharp",
+  "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Common_redshank_(Tringa_totanus)_Oppdal.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3856,
+  "cities": {
+   "Le Mans": 0.207,
+   "Pornic": 0.311,
+   "Rennes": 0.322,
+   "Poitiers": 0.171,
+   "Paris": 0.158,
+   "Lille": 0.237,
+   "Strasbourg": 0.031,
+   "Lyon": 0.052,
+   "Grenoble": 0.041,
+   "Marseille": 0.083,
+   "Toulouse": 0.101,
+   "Bordeaux": 0.173,
+   "Brest": 0.386,
+   "Ajaccio": 0.227,
+   "Clermont-Ferrand": 0.083,
+   "Chamonix": 0.03,
+   "Perpignan": 0.1,
+   "Nancy": 0.05
+  },
+  "monthly_scores": [
+   0.3818,
+   0.3494,
+   0.2484,
+   0.2056,
+   0.1575,
+   0.1312,
+   0.1987,
+   0.3463,
+   0.3214,
+   0.3076,
+   0.3663,
+   0.3856
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:16Z"
+}

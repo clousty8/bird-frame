@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Anthus spinoletta",
+ "common_name_fr": "Pipit spioncelle",
+ "birdnet_label": "Anthus spinoletta_Pipit spioncelle",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Motacillidae",
+  "family_common": "Wagtails and Pipits",
+  "genus": "Anthus",
+  "species": "Anthus spinoletta"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pipit spioncelle",
+   "url": "https://fr.wikipedia.org/wiki/Pipit_spioncelle",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pipit spioncelle est une espèce de passereaux appartenant à la famille des Motacillidae.",
+   "fulltext_chars": 3278
+  },
+  "en": {
+   "title": "Water pipit",
+   "url": "https://en.wikipedia.org/wiki/Water_pipit",
+   "description": "Species of passerine bird",
+   "extract": "The water pipit is a small passerine bird which breeds in the mountains of Southern Europe and the Palearctic eastwards to China. It is a short-distance migrant; many birds move to lower altitudes or wet open lowlands in winter.",
+   "fulltext_chars": 13802
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/00/Anthus_spinoletta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 642,
+  "height": 509,
+  "file": "Anthus_spinoletta.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/0/00/Anthus_spinoletta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Original uploader was Marboline at pl.wikipedia",
+  "credit": "Originally from [1].",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Anthus_spinoletta.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2979,
+  "cities": {
+   "Le Mans": 0.137,
+   "Pornic": 0.104,
+   "Rennes": 0.088,
+   "Poitiers": 0.154,
+   "Paris": 0.15,
+   "Lille": 0.111,
+   "Strasbourg": 0.165,
+   "Lyon": 0.199,
+   "Grenoble": 0.206,
+   "Marseille": 0.176,
+   "Toulouse": 0.172,
+   "Bordeaux": 0.168,
+   "Brest": 0.044,
+   "Ajaccio": 0.298,
+   "Clermont-Ferrand": 0.185,
+   "Chamonix": 0.203,
+   "Perpignan": 0.165,
+   "Nancy": 0.167
+  },
+  "monthly_scores": [
+   0.2861,
+   0.2979,
+   0.206,
+   0.1245,
+   0.0748,
+   0.0886,
+   0.1026,
+   0.1014,
+   0.1014,
+   0.1695,
+   0.2675,
+   0.2856
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:11Z"
+}

@@ -1,0 +1,77 @@
+{
+ "scientific_name": "Apus pallidus",
+ "common_name_fr": "Martinet pâle",
+ "birdnet_label": "Apus pallidus_Martinet pâle",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Apodiformes",
+  "family": "Apodidae",
+  "family_common": "Swifts",
+  "genus": "Apus",
+  "species": "Apus pallidus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Martinet pâle",
+   "url": "https://fr.wikipedia.org/wiki/Martinet_p%C3%A2le",
+   "description": "espèce d'oiseaux apodiformes de la famille des apodidae",
+   "extract": "Le Martinet pâle est une espèce d'oiseaux de la famille des Apodidae, proche du Martinet noir dont il est difficile à distinguer, et vivant principalement dans des zones côtières.",
+   "fulltext_chars": 5406
+  },
+  "en": {
+   "title": "Pallid swift",
+   "url": "https://en.wikipedia.org/wiki/Pallid_swift",
+   "description": "Species of bird",
+   "extract": "The pallid swift is a swift. Swifts have very short legs which they use only for clinging to vertical surfaces. The genus name Apus is Latin for a swift, thought by the ancients to be a type of swallow with no feet, and pallidus is Latin for \"pale\". Like other swifts they never settle voluntarily on the ground, but spend most of their lives in the air, living on the insects they catch in their beaks. They drink on the wing.",
+   "fulltext_chars": 2611
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pallid_Swift_by_Irvin_Calicut_IRV07813.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1203,
+  "height": 1251,
+  "file": "Pallid_Swift_by_Irvin_Calicut_IRV07813.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pallid_Swift_by_Irvin_Calicut_IRV07813.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Irvin calicut",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Pallid_Swift_by_Irvin_Calicut_IRV07813.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2447,
+  "cities": {
+   "Marseille": 0.03,
+   "Ajaccio": 0.245,
+   "Perpignan": 0.023
+  },
+  "monthly_scores": [
+   0.0,
+   0.0163,
+   0.0987,
+   0.1494,
+   0.1829,
+   0.2019,
+   0.2447,
+   0.2296,
+   0.1436,
+   0.0453,
+   0.0114,
+   0.0
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:32Z"
+}

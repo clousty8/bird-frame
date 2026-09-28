@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Serinus serinus",
+ "summary_fr": "Le Serin cini est le plus petit fringillidé d'Europe, un petit passereau au plumage jaune vif chez le mâle et plus terne chez la femelle. Cette espèce incontournable des jardins méditerranéens s'est remarquablement étendue depuis le XIXe siècle, conquérant progressivement toute la France et l'Europe du Nord. Aujourd'hui présent partout dans l'hexagone, il fréquente les villages, parcs et jardins où il picore les petites graines de plantes sauvages. Son apparence ronde, son petit bec conique et sa silhouette trapue le rendent reconnaissable. Sociable en dehors de la période de reproduction, il se déplace en petits groupes volontiers mélangés à d'autres fringillidés. Chez le serin, seul le mâle chante typiquement, déployant son vol nuptial caractéristique au-dessus de la cime des arbres au printemps.",
+ "habitat": "Villages, villes, parcs et jardins arborés, cimetières et vergers ; en régions méditerranéennes, oliveraies, clairières, maquis et broussailles.",
+ "diet": "Presque exclusivement granivore : petites graines de plantes sauvages (plantain, séneçon, mouron, graminées), graines de laitue et plantes maraîchères, petites semences d'arbres (bouleaux, aulnes, conifères). Complément minimal de verdure et quelques chenilles pendant la reproduction.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Bassin méditerranéen et Afrique du Nord de l'automne au printemps ; quelques populations restent sédentaires dans le Midi les hivers cléments.",
+  "niche": "Partout en France d'avril à juillet, avec deux ou trois couvées successives.",
+  "passage": "Retour vers mi-mars après l'hivernage méditerranéen ; migrations d'automne marquées de septembre à octobre vers les zones d'hivernage."
+ },
+ "seasonality_fr": "Présent toute l'année en France, plus abondant d'avril à septembre. En hiver, concentration dans le Midi et présence sporadique au nord selon la rigueur de la saison.",
+ "song_fr": "Chant du mâle très caractéristique : long trille « Sisisisi » sur des notes aiguës émis d'un perchoir élevé, souvent entrecoupé de brefs silences. Vol nuptial chaloupé et démonstratif au-dessus des arbres en chantant intensément.",
+ "lookalikes": [
+  {
+   "scientific_name": "Serinus citrinella",
+   "common_name_fr": "Venturon alpin",
+   "why_fr": "Très similaire acoustiquement, chant aussi en trilles aigus, légèrement plus grave et moins régulier que le Serin cini."
+  },
+  {
+   "scientific_name": "Carduelis carduelis",
+   "common_name_fr": "Chardonneret élégant",
+   "why_fr": "Appels et gazouillis aigus proches en tessiture, bien que le chant complet soit très différent."
+  }
+ ],
+ "rarity_note": "Commun à très commun partout en France, particulièrement abondant dans les régions méditerranéennes et les espaces urbains où il niche régulièrement.",
+ "fun_facts": [
+  "Le Serin cini a connu une expansion spectaculaire depuis les années 1850, passant du seul bassin méditerranéen à la couverture complète de la France en 170 ans.",
+  "Contrairement à la plupart des fringillidés, le mâle monopolise le chant pour défendre son territoire d'environ un hectare au printemps.",
+  "Son vol nuptial nerveux et papillonnant est très caractéristique et peut être observé au-dessus des villages au printemps."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Serin_cini",
+  "https://en.wikipedia.org/wiki/European_serin",
+  "https://www.oiseaux.net/oiseaux/serin.cini.html",
+  "https://www.lpo.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Stercorarius skua",
+ "summary_fr": "Le Grand Labbe est le plus grand de tous les labbes, un redoutable prédateur aérien des mers du Nord. Massif et puissant, il mesure plus de 50 cm et se reconnaît à ses ailes blanches à la base des rémiges et à son vol rapide et puissant. Loin d'être un simple pêcheur, c'est avant tout un pirate des airs : il poursuit sans relâche goélands, mouettes et fous de Bassan pour les forcer à abandonner leurs prises. Sans scrupule, il s'attaque aussi directement à d'autres oiseaux marins, tue des petits lapins et dévore même ses propres oisillons affamés. Férocement territorial, il défend son nid avec une agressivité redoutable, plongeant sur toute tête qui s'en approche. Il niche aux îles Féroé, en Islande et en Écosse, puis migre à l'automne vers les côtes atlantiques du Nouveau Monde.",
+ "habitat": "Côtes rocheuses, îles côtières et landes côtières pour la nidification ; reste en haute mer l'hiver et lors des passages.",
+ "diet": "Poisson capturé en surface ou volé à d'autres oiseaux (technique de prédation). Aussi oiseaux marins vivants, œufs, charognes, petits mammifères et baies.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Atlantique Nord, côtes est-américaines, rarement Méditerranée.",
+  "niche": "Îles Féroé, Islande, îles écossaises et côtes nord-ouest de l'Irlande ; mai-juin.",
+  "passage": "Octobre à novembre en France ; printemps avril-mai moins régulier."
+ },
+ "seasonality_fr": "En France, visible surtout d'octobre à novembre en migration postnuptiale, rarement au printemps. Peut être signalé sur les côtes atlantiques et méditerranéennes lors de vents forts du nord.",
+ "song_fr": "Cri caractéristique : succession de « hah-hah-hah-hah » rauques et graves. Aussi des cris de quaquement et de croassement, particulièrement lors de la défense du nid.",
+ "lookalikes": [
+  {
+   "scientific_name": "Stercorarius pomarinus",
+   "common_name_fr": "Labbe pomarin",
+   "why_fr": "Également grand labbe, mais silhouette plus ramassée et absence des taches blanches du Labbe parasite."
+  },
+  {
+   "scientific_name": "Stercorarius parasiticus",
+   "common_name_fr": "Labbe parasite",
+   "why_fr": "Nettement plus petit, moins massif. Critères acoustiques différents, moins agressif."
+  }
+ ],
+ "rarity_note": "Très rare et exceptionnel en France. Visible sporadiquement sur les côtes, surtout en octobre-novembre. Pas de nidification française.",
+ "fun_facts": [
+  "Connu sous le surnom « bonxie » en Grande-Bretagne, un terme d'origine shetlandaise venant du vieux norrois.",
+  "C'est un pirate aérien redoutable : il poursuit les oiseaux en vol jusqu'à leur faire lâcher leur repas, qu'il récupère en plongeant.",
+  "Ses adultes sont si féroces qu'aucun prédateur naturel ne les menace, sauf les aigles royaux et les pygargues."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Grand_Labbe",
+  "https://en.wikipedia.org/wiki/Great_skua",
+  "https://oiseaux.net/spip.php?article1211"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

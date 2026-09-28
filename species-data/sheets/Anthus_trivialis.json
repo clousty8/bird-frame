@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anthus trivialis",
+ "summary_fr": "Le Pipit des arbres est un petit passereau brun-olive strié de noir, proche cousin du Pipit farlouse mais reconnaissable à son corps plus rond, son bec plus robuste et surtout à sa parade nuptiale spectaculaire : l'oiseau s'élance d'un arbre, monte en vol battu, puis redescend en parachute sur les ailes raides en chantant à pleine voix. Il se reproduit dans toute l'Eurasie tempérée, du Royaume-Uni jusqu'à la Sibérie orientale, et affectionne en France les lisières boisées, les landes de bruyères et les clairières où alternent perchoirs et sol dégagé. Insectivore, il capture coléoptères, chenilles et araignées au sol, complétant son régime de graines et de baies hors saison de reproduction. La grande majorité de la population quitte l'Europe entre août et septembre pour hiverner en Afrique subsaharienne et en Inde, revenant nicher en avril-mai ; quelques individus isolés sont toutefois signalés en hivernage en France certaines années, surtout dans le sud, ce qui en fait un migrateur partiel plutôt qu'un migrateur strict. Mâle et femelle chantent tous deux, particularité rare chez les passereaux, et son chant sonore mêlant trilles et sifflements reste l'indice le plus sûr pour le distinguer de ses cousins pipits.",
+ "habitat": "Lisières boisées, landes de bruyères et zones de transition entre champs et taillis, du littoral à la moyenne montagne.",
+ "diet": "Insectes et invertébrés capturés au sol (coléoptères, chenilles, hémiptères, araignées) ; graines et baies en dehors de la reproduction.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Essentiellement en Afrique subsaharienne et en Inde ; de rares individus hivernent en France, surtout dans le sud.",
+  "niche": "Partout en France, d'avril à juin, généralement une nichée ; nid au sol camouflé par la végétation.",
+  "passage": "Passages marqués en avril-mai puis en août-septembre, parfois jusqu'à début novembre."
+ },
+ "seasonality_fr": "Surtout présent en France d'avril à septembre ; passages migratoires marqués au printemps et à l'automne, très minoritaire en hiver.",
+ "song_fr": "Chant sonore de trilles et sifflements variés, souvent lancé en vol nuptial : l'oiseau monte d'un arbre puis redescend en parachute, ailes raides, en chantant.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anthus pratensis",
+   "common_name_fr": "Pipit farlouse",
+   "why_fr": "Très semblable en plumage et taille, mais corps plus arrondi, bec plus épais ; se distingue surtout par le chant et la parade nuptiale."
+  },
+  {
+   "scientific_name": "Anthus spinoletta",
+   "common_name_fr": "Pipit spioncelle",
+   "why_fr": "Cris proches, notamment en vol, bien que l'habitat de montagne et la saison les séparent le plus souvent."
+  },
+  {
+   "scientific_name": "Anthus campestris",
+   "common_name_fr": "Pipit rousseline",
+   "why_fr": "Habitat ouvert partiellement similaire en migration ; chants toutefois nettement différents."
+  }
+ ],
+ "rarity_note": "Migrateur assez commun en France en période de reproduction et de passage ; modèle acoustique BirdNET moins fiable pour cette espèce que pour le Pipit farlouse.",
+ "fun_facts": [
+  "Mâle et femelle chantent tous deux, ce qui est rare chez les passereaux ; le chant peut résonner même la nuit près des lumières.",
+  "Sa parade nuptiale acrobatique est spectaculaire : l'oiseau s'élance d'un arbre, monte en vol, puis descend en parachute sur les ailes raides en chantant.",
+  "C'est l'une des sept espèces de pipits observables en France, mais une seule poignée y niche régulièrement."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pipit_des_arbres",
+  "https://en.wikipedia.org/wiki/Tree_pipit"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

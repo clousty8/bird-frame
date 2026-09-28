@@ -1,0 +1,56 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Actitis hypoleucos",
+ "summary_fr": "Le Chevalier guignette est un petit échassier limicole que l'on reconnaît d'abord à son allure : posé sur une pierre ou une berge, il hoche sans relâche la tête et la queue, un tic caractéristique qui lui a valu son nom vernaculaire. Mesurant 19 à 21 cm pour 40 à 60 grammes à peine, il porte un plumage brun-gris dessus et blanc sale dessous, avec une fine barre pâle qui remonte du bec vers l'œil. Il niche le long des rivières à lit mobile de moyenne montagne, notamment dans le haut bassin de la Loire qui héberge plus de 40 % des couples français, puis fréquente en dehors de la reproduction des rives variées : lacs, estuaires, côtes, en évitant les grandes vasières. Solitaire la plupart du temps, il vole bas au ras de l'eau, ailes raides et vibrantes, entrecoupant son vol de courts planés. Migrateur nocturne capable de parcourir jusqu'à 10 000 km, il hiverne surtout en Afrique subsaharienne, mais un nombre croissant d'individus choisit désormais de passer l'hiver en France, notamment sur le littoral atlantique, en plus des passages bien marqués du printemps et de l'automne.",
+ "habitat": "Rivières et fleuves à lit mobile, surtout en moyenne montagne, pour la nidification. En dehors de la reproduction, fréquente des milieux d'eau douce, saumâtre ou salée : lacs, côtes, estuaires, en évitant les vasières intertidales.",
+ "diet": "Petits invertébrés aquatiques et semi-aquatiques : vers (Nereis diversicolor), insectes et leurs larves (odonates), araignées, petits crustacés (Talitrus saltator, Orchestia gammarellus, jeunes Carcinus maenas). Chasse à vue dans les marécages et eaux peu profondes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Majoritairement en Afrique subsaharienne ; hivernage croissant en France et en Europe de l'Ouest, notamment sur le littoral atlantique.",
+  "niche": "Le long des rivières à lit mobile de moyenne montagne, surtout dans le haut bassin de la Loire (plus de 40 % des nicheurs français), d'avril à juillet.",
+  "passage": "Passage prénuptial de mars à mai, postnuptial de juillet à octobre, sur la quasi-totalité du territoire français."
+ },
+ "seasonality_fr": "Présent toute l'année : nicheur d'avril à juillet en moyenne montagne, passages migratoires marqués au printemps et à l'automne, et hivernage de plus en plus fréquent sur les côtes et cours d'eau français.",
+ "song_fr": "Sifflement fin et perçant ; au décollage, trille caractéristique « hididi hididi » ; parade nuptiale ponctuée de « tithidi tithidi » répétés, parfois de jour comme de nuit.",
+ "lookalikes": [
+  {
+   "scientific_name": "Tringa totanus",
+   "common_name_fr": "Chevalier gambette",
+   "why_fr": "Même habitat et silhouette d'échassier, mais plus gros, pattes rouges. Vocalises plus fortes et graves."
+  },
+  {
+   "scientific_name": "Tringa ochropus",
+   "common_name_fr": "Chevalier cul-blanc",
+   "why_fr": "Même taille environ, milieu humide, mais teinte plus foncée du dessus. Cris différents, plus rauques."
+  },
+  {
+   "scientific_name": "Tringa glareola",
+   "common_name_fr": "Chevalier sylvain",
+   "why_fr": "Petit chevalier des zones humides, plumage semblable marron-gris. Cris plus aigus et sifflants."
+  },
+  {
+   "scientific_name": "Calidris minuta",
+   "common_name_fr": "Bécasseau minute",
+   "why_fr": "Petit bécasseau, même habitat littoral et palustre. Proportions différentes, cris aigus très distincts."
+  }
+ ],
+ "rarity_note": "Espèce commune et régulière en France (score max BirdNET 0,52). Nicheur localisé en moyenne montagne, passage migratoire bien établi et hivernage croissant sur le littoral. Plausible toute l'année près des cours d'eau et des côtes.",
+ "fun_facts": [
+  "Son nom « guignette » vient du hochement incessant de la tête et de la queue, visible même au repos sur une pierre ou une berge.",
+  "Les poussins, couverts d'un duvet sombre, quittent le nid en quelques jours à peine et suivent aussitôt leurs parents sur les berges.",
+  "Migrateur nocturne, il peut parcourir jusqu'à 10 000 km entre l'Europe du Nord et l'Afrique subsaharienne pour rejoindre ses quartiers d'hiver."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Chevalier_guignette",
+  "https://en.wikipedia.org/wiki/Common_sandpiper",
+  "https://www.oiseaux.net/",
+  "https://www.avibase.bsc-eoc.org/",
+  "https://inpn.mnhn.fr/espece/cd_nom/4438",
+  "https://ebird.org/species/comsand1",
+  "https://avicommons.org/",
+  "https://www.xeno-canto.org/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

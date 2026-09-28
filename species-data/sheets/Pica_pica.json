@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Pica pica",
+ "summary_fr": "La Pie bavarde est l'un des oiseaux les plus reconnaissables d'Europe avec son plumage contrasté noir et blanc et sa longue queue élégante. Grand passereau de la famille des Corvidae, elle mesure 44 à 56 cm pour une envergure de 52 à 60 cm, avec des reflets métalliques bleuâtres, violacés et verdâtres sur son plumage noir. Très intelligente et curieuse, elle figure parmi les rares oiseaux à reconnaître leur reflet, démontrant des capacités cognitives équivalentes à celles des grands singes. Omnivore opportuniste, elle se nourrit d'invertébrés, de graines, de fruits, de petits vertébrés et de charognes, exploitant tout ce que l'environnement offre. Bruyante et peu farouche, elle s'est progressivement urbanisée depuis les années 1970, trouvant aux villes des conditions favorables à sa reproduction et sa survie. Bien qu'elle soit sédentaire stricte en France, les populations urbaines et périurbaines explosent tandis que les effectifs ruraux déclinent rapidement, phénomène mal expliqué mais probablement lié aux pesticides et aux modifications paysagères.",
+ "habitat": "Bocages, bois clairs, petits bosquets, délaissés routiers, parcs et jardins urbains, espaces verts des zones périurbaines. Rare en altitude et absente des forêts denses.",
+ "diet": "Invertébrés (limaces, insectes, vers de terre), fruits et graines diverses, œufs et oisillons d'autres espèces, charognes, détritus urbains ; petits vertébrés occasionnels (rongeurs, lézards). Plus de 80 % du régime alimentaire des adultes provient des invertébrés.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "En France, partout où elle niche. Les populations hivernales locales se renforcent en groupes au crépuscule et forment des dortoirs de quelques dizaines à une centaine d'individus.",
+  "niche": "Partout en France métropolitaine, reproduction de février à juin environ, avec un seul élevage annuel sauf en cas d'échec de première ponte.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente toute l'année en France. Extrêmement vocale et visible le jour, surtout au printemps lors de la défense territoriale. La nuit, elle se repose dans les dortoirs communaux en automne et hiver.",
+ "song_fr": "Vocalisations variées mais toujours nasales et rauques. Jacassement caractéristique en séries de « tché-tché-tché » d'alarme ou « tcha-ka » de conversation, claquant et gémissant. Les jeunes produisent un « uik-uik » plus aigu ressemblant à un aboiement.",
+ "lookalikes": [
+  {
+   "scientific_name": "Corvus corone",
+   "common_name_fr": "Corneille noire",
+   "why_fr": "Tous deux corvides avec des cris rauques et croassants. La distinction acoustique est possible : la Corneille a un croassement plus profond et moins jacassant que le caquetage nasalisé de la Pie."
+  },
+  {
+   "scientific_name": "Corvus cornix",
+   "common_name_fr": "Corneille mantelée",
+   "why_fr": "Corvide de même taille aux appels croassants proches de la Corneille noire. Rare en France mais présente à l'est. Tonalité similaire à celle de la Corneille noire."
+  },
+  {
+   "scientific_name": "Corvus monedula",
+   "common_name_fr": "Choucas des tours",
+   "why_fr": "Jacassement caractéristique « kia » plus aigu et moins rauque que la Pie. Confusion possible en environnement urbain ou sur enregistrements de faible qualité."
+  }
+ ],
+ "rarity_note": "Commune et régulière partout en France métropolitaine. Très abondante en zones urbaines et périurbaines, plus rare en montagne et en zones agricoles intensives. Le score BirdNET maximal de 0,93 confirme sa grande régularité.",
+ "fun_facts": [
+  "Capable de reconnaître et mémoriser les visages humains individuels, apprenant à distinguer les personnes dangereuses de celles inoffensives. Ses capacités cognitives sont du même ordre que celles des chimpanzés et des grands singes.",
+  "Contrairement à la légende populaire, les Pies ne sont pas des voleuses passionnées d'objets brillants. Une étude scientifique célèbre menée en 2014 a démenti ce mythe tenace.",
+  "En Île-de-France, sur 500 Pies baguées en trois ans, seules 4 ont été revues dans des parcs différents. C'est un oiseau extrêmement sédentaire et fidèle à son territoire."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pie_bavarde",
+  "https://en.wikipedia.org/wiki/Eurasian_magpie",
+  "https://www.oiseaux.net/pie.bavarde.html",
+  "https://www.lpo.fr/nos-guides/savez-vous/la-vie-des-oiseaux/la-pie-bavarde"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Cuculus canorus",
+ "common_name_fr": "Coucou gris",
+ "birdnet_label": "Cuculus canorus_Coucou gris",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Cuculiformes",
+  "family": "Cuculidae",
+  "family_common": "Cuckoos",
+  "genus": "Cuculus",
+  "species": "Cuculus canorus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Coucou gris",
+   "url": "https://fr.wikipedia.org/wiki/Coucou_gris",
+   "description": "espèce d'oiseaux cuculiformes de la famille des cuculidae",
+   "extract": "Le Coucou gris est une espèce d'oiseaux de la famille des Cuculidae. Il doit son nom vernaculaire à son chant. Son comportement est caractérisé par la pratique du parasitisme de couvée. Insectivore, il est de la taille d'un Faucon crécerelle ou d'un Épervier d'Europe.",
+   "fulltext_chars": 12865
+  },
+  "en": {
+   "title": "Common cuckoo",
+   "url": "https://en.wikipedia.org/wiki/Common_cuckoo",
+   "description": "Species of bird",
+   "extract": "The cuckoo, common cuckoo, European cuckoo or Eurasian cuckoo is a member of the cuckoo order of birds, Cuculiformes, which includes the roadrunners, the anis and the coucals.",
+   "fulltext_chars": 22350
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/54/Cuculus_canorus_441344397.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1536,
+  "height": 2048,
+  "file": "Cuculus_canorus_441344397.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/5/54/Cuculus_canorus_441344397.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Andrey Gulivanov",
+  "credit": "https://www.inaturalist.org/photos/441344397",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Cuculus_canorus_441344397.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.6782,
+  "cities": {
+   "Le Mans": 0.56,
+   "Pornic": 0.515,
+   "Rennes": 0.483,
+   "Poitiers": 0.612,
+   "Paris": 0.574,
+   "Lille": 0.522,
+   "Strasbourg": 0.678,
+   "Lyon": 0.647,
+   "Grenoble": 0.643,
+   "Marseille": 0.565,
+   "Toulouse": 0.612,
+   "Bordeaux": 0.604,
+   "Brest": 0.303,
+   "Ajaccio": 0.493,
+   "Clermont-Ferrand": 0.641,
+   "Chamonix": 0.632,
+   "Perpignan": 0.553,
+   "Nancy": 0.649
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.093,
+   0.4658,
+   0.6782,
+   0.4434,
+   0.1241,
+   0.0568,
+   0.0327,
+   0.0293,
+   0.0,
+   0.0
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:59Z"
+}

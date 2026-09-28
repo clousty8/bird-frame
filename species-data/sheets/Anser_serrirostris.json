@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anser serrirostris",
+ "summary_fr": "L'Oie de la toundra est une grande oie arctique qui niche dans le nord de la Sibérie, où deux sous-espèces se sont séparées il y a environ deux millions et demi d'années avant de renouer un contact secondaire porteur d'échanges génétiques. Franchement migratrice, elle hiverne surtout en Asie du Sud et centrale, et ne se montre qu'exceptionnellement en France, en petits groupes dispersés parmi d'autres oies grises. Elle mesure de 78 à 89 centimètres pour un poids compris entre 2 et 3,4 kilogrammes, et se reconnaît à son bec noir marqué d'une bande orange centrale ainsi qu'à ses pattes orangées. Les deux sous-espèces diffèrent par la taille et la forme du bec : rossicus, plus petite et trapue, niche du nord de la Russie jusqu'à la péninsule de Taïmyr, tandis que serrirostris, plus grande et au bec plus massif, occupe la Sibérie orientale. Ses couvertures alaires brun foncé, finement liserées de blanc, la distinguent des autres oies grises comme l'Oie rieuse. Son cri est un honkement sonore et grave, plus aigu chez la petite sous-espèce, souvent entendu en vol lors de ses déplacements hivernaux.",
+ "habitat": "Toundra, prairies arctiques et sous-arctiques, lacs et marécages des régions nordiques. En Sibérie du Nord, elle fréquente les zones ouvertes avec accès à l'eau douce.",
+ "diet": "Graminées, plantes aquatiques et herbes des zones humides. En hiver, consomme des débris de cultures et des chaumes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Très rare en France en hiver, d'octobre à mars, en petits effectifs dispersés parmi d'autres oies grises dans le nord et l'ouest ; l'essentiel de la population hiverne bien plus loin, en Asie du Sud et centrale.",
+  "niche": "Ne niche pas en France. Reproduction dans la toundra de Sibérie du Nord : rossicus du nord de la Russie jusqu'à la péninsule de Taïmyr, serrirostris plus à l'est en Sibérie orientale.",
+  "passage": null
+ },
+ "seasonality_fr": "Très rare en France, signalée principalement d'octobre à mars. Observations isolées, souvent en petit nombre mêlées à d'autres espèces d'oies.",
+ "song_fr": "Honkement bruyant et grave chez serrirostris, plus aigu chez rossicus. Cris de vol répétés en formation lors des déplacements.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anser fabalis",
+   "common_name_fr": "Oie des moissons",
+   "why_fr": "Cousine proche au bec noir et orange similaire. BirdNET peut confondre les honkements lors des vols migratoires."
+  },
+  {
+   "scientific_name": "Anser brachyrhynchus",
+   "common_name_fr": "Oie à bec court",
+   "why_fr": "Oie grise arctique au cri comparable, mais bec et pattes roses. La variabilité acoustique entre sous-espèces augmente le risque de confusion."
+  },
+  {
+   "scientific_name": "Anser albifrons",
+   "common_name_fr": "Oie rieuse",
+   "why_fr": "Pattern alaire proche et cris de vol de même intensité, vocalisations arctiques très similaires."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France ; aucune présence régulière détectée par BirdNET, quelques observations hivernales exceptionnelles dans le nord-ouest.",
+ "fun_facts": [
+  "Les deux sous-espèces, rossicus et serrirostris, se sont séparées il y a 2,5 millions d'années mais se contactent secondairement depuis 60 000 ans, créant un flux génétique continu.",
+  "Elle hiverne bien au-delà de la Méditerranée en Asie du Sud, contrairement à d'autres oies qui s'arrêtent en Europe méditerranéenne."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Oie_de_la_toundra",
+  "https://en.wikipedia.org/wiki/Tundra_bean_goose"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,96 @@
+{
+ "scientific_name": "Spatula querquedula",
+ "common_name_fr": "Sarcelle d'été",
+ "birdnet_label": "Spatula querquedula_Sarcelle d'été",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Spatula",
+  "species": "Spatula querquedula"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Sarcelle d'été",
+   "url": "https://fr.wikipedia.org/wiki/Sarcelle_d'%C3%A9t%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "La Sarcelle d'été est une espèce d'oiseaux aquatiques appartenant à la famille des Anatidae.",
+   "fulltext_chars": 3368
+  },
+  "en": {
+   "title": "Garganey",
+   "url": "https://en.wikipedia.org/wiki/Garganey",
+   "description": "Species of bird",
+   "extract": "The garganey is a small dabbling duck. It breeds in much of Europe and across the Palearctic, but is strictly migratory, with the entire population moving to Africa, India, Bangladesh and Australasia during the winter of the Northern hemisphere, where large flocks can occur. This species was first described by Carl Linnaeus in his landmark 1758 10th edition of Systema Naturae. Like other small ducks such as the Eurasian teal, this species rises easily from the water with a fast twisting wader-like flight.",
+   "fulltext_chars": 3790
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Anas_querquedula%2C_Llobregat_Delta%2C_Barcelona_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1949,
+  "height": 1400,
+  "file": "Anas_querquedula,_Llobregat_Delta,_Barcelona_5.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Anas_querquedula%2C_Llobregat_Delta%2C_Barcelona_5.jpg/1920px-Anas_querquedula%2C_Llobregat_Delta%2C_Barcelona_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Ferran Pestaña from Barcelona, España",
+  "credit": "Cerceta carretona - Xarrasclet - Garganey - Anas querquedula",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Anas_querquedula,_Llobregat_Delta,_Barcelona_5.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2735,
+  "cities": {
+   "Le Mans": 0.095,
+   "Pornic": 0.062,
+   "Rennes": 0.065,
+   "Poitiers": 0.075,
+   "Paris": 0.126,
+   "Lille": 0.141,
+   "Strasbourg": 0.148,
+   "Lyon": 0.087,
+   "Grenoble": 0.108,
+   "Marseille": 0.133,
+   "Toulouse": 0.094,
+   "Bordeaux": 0.06,
+   "Brest": 0.031,
+   "Ajaccio": 0.273,
+   "Clermont-Ferrand": 0.077,
+   "Chamonix": 0.099,
+   "Perpignan": 0.13,
+   "Nancy": 0.146
+  },
+  "monthly_scores": [
+   0.0526,
+   0.1064,
+   0.2735,
+   0.1719,
+   0.0581,
+   0.0453,
+   0.0515,
+   0.0878,
+   0.0926,
+   0.097,
+   0.0688,
+   0.0555
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:15Z"
+}

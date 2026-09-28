@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Cyanistes caeruleus",
+ "common_name_fr": "Mésange bleue",
+ "birdnet_label": "Cyanistes caeruleus_Mésange bleue",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Paridae",
+  "family_common": "Tits, Chickadees, and Titmice",
+  "genus": "Cyanistes",
+  "species": "Cyanistes caeruleus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Mésange bleue",
+   "url": "https://fr.wikipedia.org/wiki/M%C3%A9sange_bleue",
+   "description": "espèce d'oiseaux",
+   "extract": "La Mésange bleue est une espèce de passereaux de la famille des paridés.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Eurasian blue tit",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
+   "description": "Species of bird",
+   "extract": "The Eurasian blue tit is a small passerine bird in the tit family, Paridae. It is easily recognised by its blue and yellow plumage and small size.",
+   "fulltext_chars": 14655
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%D0%9B%D0%B0%D0%B7%D0%BE%D1%80%D0%B5%D0%B2%D0%BA%D0%B0_%28Cyanistes_caeruleus%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2640,
+  "height": 1888,
+  "file": "Лазоревка_(Cyanistes_caeruleus),_Битцевский_лес.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%D0%9B%D0%B0%D0%B7%D0%BE%D1%80%D0%B5%D0%B2%D0%BA%D0%B0_%28Cyanistes_caeruleus%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg/1920px-%D0%9B%D0%B0%D0%B7%D0%BE%D1%80%D0%B5%D0%B2%D0%BA%D0%B0_%28Cyanistes_caeruleus%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Dion Art",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D0%B7%D0%BE%D1%80%D0%B5%D0%B2%D0%BA%D0%B0_(Cyanistes_caeruleus),_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9834,
+  "cities": {
+   "Le Mans": 0.934,
+   "Pornic": 0.879,
+   "Rennes": 0.906,
+   "Poitiers": 0.919,
+   "Paris": 0.963,
+   "Lille": 0.975,
+   "Strasbourg": 0.983,
+   "Lyon": 0.941,
+   "Grenoble": 0.915,
+   "Marseille": 0.782,
+   "Toulouse": 0.829,
+   "Bordeaux": 0.856,
+   "Brest": 0.852,
+   "Ajaccio": 0.839,
+   "Clermont-Ferrand": 0.94,
+   "Chamonix": 0.945,
+   "Perpignan": 0.771,
+   "Nancy": 0.98
+  },
+  "monthly_scores": [
+   0.9828,
+   0.9834,
+   0.9677,
+   0.9567,
+   0.8815,
+   0.8564,
+   0.838,
+   0.8492,
+   0.8996,
+   0.9333,
+   0.9714,
+   0.9789
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:20Z"
+}

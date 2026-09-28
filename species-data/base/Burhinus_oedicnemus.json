@@ -1,0 +1,96 @@
+{
+ "scientific_name": "Burhinus oedicnemus",
+ "common_name_fr": "Oedicnème criard",
+ "birdnet_label": "Burhinus oedicnemus_Oedicnème criard",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Burhinidae",
+  "family_common": "Thick-knees",
+  "genus": "Burhinus",
+  "species": "Burhinus oedicnemus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Œdicnème criard",
+   "url": "https://fr.wikipedia.org/wiki/%C5%92dicn%C3%A8me_criard",
+   "description": "espèce d'oiseaux charadriiformes de la famille des burhinidae",
+   "extract": "L'Œdicnème criard ou œdicnème eurasien, est une espèce d'oiseaux charadriiformes de la famille des Burhinidae. Ce limicole est également appelé « courlis de terre » car son cri ressemble à celui des courlis. Il est semi-nocturne et donc souvent difficile à repérer de jour. Il est très bruyant en été, surtout de nuit, faisant entendre de longs sifflements.",
+   "fulltext_chars": 7078
+  },
+  "en": {
+   "title": "Eurasian stone-curlew",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_stone-curlew",
+   "description": "Species of bird",
+   "extract": "The Eurasian stone-curlew, Eurasian thick-knee, or simply stone-curlew, is a northern species of the Burhinidae (stone-curlew) bird family.",
+   "fulltext_chars": 4604
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/73/Burhinus_indicus%2C_central_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 768,
+  "file": "Burhinus_indicus,_central_India.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/7/73/Burhinus_indicus%2C_central_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Sumeet Moghe from Pune, india",
+  "credit": "Eurasian Thicknee\n\nUploaded by Snowmanradio",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Burhinus_indicus,_central_India.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1969,
+  "cities": {
+   "Le Mans": 0.025,
+   "Pornic": 0.027,
+   "Rennes": 0.024,
+   "Poitiers": 0.03,
+   "Paris": 0.02,
+   "Lille": 0.018,
+   "Lyon": 0.028,
+   "Grenoble": 0.028,
+   "Marseille": 0.054,
+   "Toulouse": 0.034,
+   "Bordeaux": 0.031,
+   "Brest": 0.018,
+   "Ajaccio": 0.197,
+   "Clermont-Ferrand": 0.029,
+   "Chamonix": 0.024,
+   "Perpignan": 0.056,
+   "Nancy": 0.011
+  },
+  "monthly_scores": [
+   0.1405,
+   0.166,
+   0.1969,
+   0.1363,
+   0.1126,
+   0.1125,
+   0.1198,
+   0.1033,
+   0.0797,
+   0.105,
+   0.1318,
+   0.1417
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:08Z"
+}

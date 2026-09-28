@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Gallinago delicata",
+ "summary_fr": "La Bécassine de Wilson est une petite limicole nord-américaine au long bec droit caractéristique, au plumage brun tacheté finement rayé de blanc. Nommée d'après l'ornithologue Alexander Wilson, elle se reproduit dans les marais, les tourbières et les prairies humides du Canada et du nord des États-Unis. Farouche et bien camouflée, elle se nourrit en sondant le sol mou pour y prélever des vers de terre et des larves d'insectes. Exceptionnelle en France, où elle n'apparaît qu'en passage migratoire lors de ses trajets vers ou depuis l'Amérique centrale et du Sud, la Bécassine de Wilson reste une découverte remarquable pour les observateurs. Lors de la parade nuptiale, le mâle se laisse tomber en piqués répétés depuis une grande hauteur ; l'air qui vibre dans ses rectrices externes écartées produit un bourdonnement grave et tremblant, entendu à l'aube, au crépuscule et parfois de nuit. Longtemps considérée comme une simple sous-espèce de la Bécassine des marais, elle n'a été reconnue comme espèce à part entière qu'en 2003, sur la base de différences de plumage, de voix et de comportement.",
+ "habitat": "Marais, tourbières, prairies et prés humides ou inondés en Amérique du Nord. Habitat de passage très variable en France lors de ses apparitions accidentelles.",
+ "diet": "Vers de terre, larves d'insectes et crustacés ; également des matières végétales et des graines.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Sud des États-Unis, Caraïbes et Amérique centrale et du Sud ; rarement sur la côte Pacifique nord-américaine.",
+  "niche": "Ne niche pas en France ; se reproduit au Canada et dans le nord des États-Unis, du printemps au début de l'été.",
+  "passage": "Avril à juin lors de ses déplacements ; possibilité d'apparitions à l'automne au retour vers le sud."
+ },
+ "seasonality_fr": "Extrêmement rare en France, où elle n'apparaît que de façon occasionnelle, surtout d'avril à juin, en tant que vagabonde égarée hors de son aire normale.",
+ "song_fr": "Lors des parades nuptiales, souvent à l'aube, au crépuscule ou la nuit, le mâle produit en piqué un bourdonnement vibrant et grave grâce au vent dans ses plumes caudales externes ; au sol, son cri est un « chik » sec et bref.",
+ "lookalikes": [
+  {
+   "scientific_name": "Gallinago gallinago",
+   "common_name_fr": "Bécassine des marais",
+   "why_fr": "Très proche ; se distingue par une bordure alaire blanche plus étroite et huit paires de rectrices contre sept chez la Bécassine des marais."
+  },
+  {
+   "scientific_name": "Lymnocryptes minimus",
+   "common_name_fr": "Bécassine sourde",
+   "why_fr": "Plus petite, avec des cris et un comportement de parade différents."
+  }
+ ],
+ "rarity_note": "Accidentelle en France : espèce nord-américaine vagabonde observée exceptionnellement lors de passages migratoires printaniers.",
+ "fun_facts": [
+  "Lors de sa parade nuptiale en piqué, le mâle produit avec ses plumes caudales externes un bourdonnement vibrant, parfois entendu la nuit.",
+  "Longtemps considérée comme une sous-espèce de la Bécassine des marais, elle n'a été élevée au rang d'espèce distincte qu'en 2003.",
+  "Son régime alimentaire spécialisé explique son attachement aux zones marécageuses au sol meuble, propice au sondage du bec."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/B%C3%A9cassine_de_Wilson",
+  "https://en.wikipedia.org/wiki/Wilson's_snipe",
+  "https://www.oiseaux.net/fiche/becassine.delicata.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

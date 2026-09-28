@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Crex crex",
+ "common_name_fr": "Râle des genêts",
+ "birdnet_label": "Crex crex_Râle des genêts",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Gruiformes",
+  "family": "Rallidae",
+  "family_common": "Rails, Gallinules, and Coots",
+  "genus": "Crex",
+  "species": "Crex crex"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Râle des genêts",
+   "url": "https://fr.wikipedia.org/wiki/R%C3%A2le_des_gen%C3%AAts",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Râle des genêts ou Roi caille, est une espèce d'oiseaux de l'ordre des Gruiformes et de la famille des Rallidae, la seule représentante du genre Crex. Il s'agit d'un oiseau migrateur nichant au sol. Il est assez farouche, mais est connu pour son cri nocturne. Il établit son nid à la mi-mai dans les prairies de fauche en Europe. Sa nidification dure deux mois. Durant l'hiver septentrional, il migre dans le sud de l'Afrique.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Corn crake",
+   "url": "https://en.wikipedia.org/wiki/Corn_crake",
+   "description": "Species of bird found in Europe, Asia and Africa",
+   "extract": "The corn crake, corncrake or landrail is a bird in the rail family. It breeds in Europe and Asia as far east as western China, and migrates to Africa for the Northern Hemisphere's winter. It is a medium-sized crake with buff- or grey-streaked brownish-black upperparts, chestnut markings on the wings, and blue-grey underparts with rust-coloured and white bars on the flanks and undertail. The strong bill is flesh-toned, the iris is pale brown, and the legs and feet are pale grey. Juveniles are similar in plumage to adults, and downy chicks are black, as with all rails. There are no subspecies, although individuals from the east of the breeding range tend to be slightly paler than their western counterparts. The male's call is a loud krek krek, from which the scientific name is derived. The corn crake is larger than its closest relative, the African crake, which shares its wintering range; that species is also darker-plumaged, and has a plainer face.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Crex_crex00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1102,
+  "height": 1440,
+  "file": "Crex_crex00.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Crex_crex00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Johann Friedrich Naumann",
+  "credit": "http://www.biologie.uni-hamburg.de/b-online/birds/regdeu.htm",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Crex_crex00.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0154,
+  "cities": {
+   "Ajaccio": 0.015
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0,
+   0.0154,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:18Z"
+}

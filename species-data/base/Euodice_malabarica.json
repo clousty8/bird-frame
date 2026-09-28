@@ -1,0 +1,78 @@
+{
+ "scientific_name": "Euodice malabarica",
+ "common_name_fr": "Capucin bec-de-plomb",
+ "birdnet_label": "Euodice malabarica_Capucin bec-de-plomb",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Estrildidae",
+  "family_common": "Waxbills and Allies",
+  "genus": "Euodice",
+  "species": "Euodice malabarica"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Capucin bec-de-plomb",
+   "url": "https://fr.wikipedia.org/wiki/Capucin_bec-de-plomb",
+   "description": "espèce d'oiseaux passériformes de la famille des Estrildidae",
+   "extract": "Le Capucin bec-de-plomb est une espèce de passereaux de la famille des Estrildidae.",
+   "fulltext_chars": 1511
+  },
+  "en": {
+   "title": "Indian silverbill",
+   "url": "https://en.wikipedia.org/wiki/Indian_silverbill",
+   "description": "Species of bird",
+   "extract": "The Indian silverbill or white-throated munia is a small passerine bird found in the Indian subcontinent and adjoining regions that was formerly considered to include the closely related African silverbill. This estrildid finch is a common resident breeding bird in the drier regions of the Middle East and the Indian subcontinent. It has also been introduced into many other parts of the world and has become established in some areas. They forage in small flocks in grassland and scrub habitats.",
+   "fulltext_chars": 3940
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Lonchura_malabarica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 400,
+  "height": 377,
+  "file": "Lonchura_malabarica.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Lonchura_malabarica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Lonchura_malabarica.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0486,
+  "cities": {
+   "Le Mans": 0.013,
+   "Poitiers": 0.024,
+   "Paris": 0.014,
+   "Lyon": 0.048,
+   "Grenoble": 0.045,
+   "Marseille": 0.034,
+   "Toulouse": 0.026,
+   "Bordeaux": 0.022,
+   "Clermont-Ferrand": 0.049,
+   "Chamonix": 0.032,
+   "Perpignan": 0.02,
+   "Nancy": 0.012
+  },
+  "monthly_scores": [
+   0.0447,
+   0.0416,
+   0.0373,
+   0.0134,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0249,
+   0.0478,
+   0.0486
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:00Z"
+}

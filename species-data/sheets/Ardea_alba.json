@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Ardea alba",
+ "summary_fr": "La Grande Aigrette est le plus grand héron blanc d'Europe, facilement reconnaissable à son plumage uniformément blanc et ses longs cou et bec. Autrefois décimée par la chasse pour ses plumes ornementales, elle s'est progressivement rétablie depuis sa protection intégrale. C'est un grand échassier cosmopolite qui fréquente tous les continents sauf l'Antarctique. En France, elle reconstitue lentement ses populations depuis quelques décennies et s'étend désormais vers le nord du pays. Elle chasse activement dans les zones humides, les eaux peu profondes et les marais, utilisant plusieurs stratégies : affût immobile, marche lente, ou utilisation de ses pattes pour faire fuir les proies. Elle niche en colonies dans les arbres au-dessus de l'eau. Son statut de conservation est actuellement non préoccupant à l'échelle mondiale.",
+ "habitat": "Zones humides boisées, lacs, étangs, marais, deltas fluviaux et côtiers, zones avec vastes étendues d'eau douce ou saumâtre et arbres pour nidifier.",
+ "diet": "Poissons, grenouilles, amphibiens, insectes aquatiques, petits mammifères, reptiles, crustacés ; occasionnellement oiseaux.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France et pourtour méditerranéen, surtout dans les grandes zones humides du sud et du centre.",
+  "niche": "Partout en France, avril à septembre, nidification coloniale dans les arbres ou roselières surplombant l'eau.",
+  "passage": "Passages marqués en mars-avril et septembre-octobre, mouvements importants depuis les régions d'Europe du Nord et de l'Est."
+ },
+ "seasonality_fr": "Présente toute l'année en France, plus abondante en période de nidification (avril-septembre). Les populations augmentent notablement en automne et hiver avec l'arrivée de migrateurs du Nord.",
+ "song_fr": "Peu vocale. Émet des sons graves et creux : « corr » bref ou croassements lors des interactions, surtout en colonie nuptiale. Cris d'alarme rauques et puissants.",
+ "lookalikes": [
+  {
+   "scientific_name": "Ardea cinerea",
+   "common_name_fr": "Héron cendré",
+   "why_fr": "Même taille mais plumage gris ; sons vocaux similaires mais plus profonds chez le Cendré."
+  },
+  {
+   "scientific_name": "Ardea intermedia",
+   "common_name_fr": "Aigrette intermédiaire",
+   "why_fr": "Plus petite, blanche, plumage nuptial moins fourni ; vocalises proches mais timbre légèrement différent."
+  },
+  {
+   "scientific_name": "Egretta garzetta",
+   "common_name_fr": "Petite Aigrette",
+   "why_fr": "Beaucoup plus petite, noire à petite taille, pieds jaunes ; cris nettement plus aigus et secs."
+  }
+ ],
+ "rarity_note": "Commun et en expansion en France depuis les années 2000. Autrefois rare, elle reconstitue régulièrement ses effectifs. Score France élevé (0,52), présente toute l'année dans les zones humides appropriées.",
+ "fun_facts": [
+  "Ses plumes nuptiales, magnifiques et longues, l'ont rendue presque extincts au XIXe siècle, chassée par les plumet-makers pour décorer les chapeaux des femmes.",
+  "Elle utilise ses pattes pour agiter l'eau et faire sortir les proies cachées avant de les transpercer avec un coup sec de son bec acéré.",
+  "En vol, elle replie son cou en formant une bosse sous la tête, ce qui aide à la reconnaître malgré sa grande taille."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Grande_Aigrette",
+  "https://en.wikipedia.org/wiki/Great_egret",
+  "https://oiseaux.net/ardea.alba.html",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/4326"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

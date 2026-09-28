@@ -1,0 +1,94 @@
+{
+ "scientific_name": "Mareca penelope",
+ "common_name_fr": "Canard siffleur",
+ "birdnet_label": "Mareca penelope_Canard siffleur",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Mareca",
+  "species": "Mareca penelope"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Canard siffleur",
+   "url": "https://fr.wikipedia.org/wiki/Canard_siffleur",
+   "description": "espèces d'oiseaux",
+   "extract": "Le Canard siffleur ou Canard siffleur d'Europe est une espèce d'oiseaux palmipèdes de la famille des Anatidae. Il niche dans le nord de l'Eurasie, migrant vers le sud à la fin de l'été. Le cri caractéristique du mâle est à l'origine de son nom.",
+   "fulltext_chars": 5940
+  },
+  "en": {
+   "title": "Eurasian wigeon",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_wigeon",
+   "description": "Species of bird",
+   "extract": "The Eurasian wigeon or European wigeon, also known as the widgeon or wigeon, is one of three extant species of wigeon in the dabbling duck genus Mareca. It is common and widespread within its Palearctic range.",
+   "fulltext_chars": 4614
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Anas_penelope_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 533,
+  "file": "Anas_penelope_001.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/3/31/Anas_penelope_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Maga-chan",
+  "credit": "photo taken by Maga-chan",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Anas_penelope_001.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3559,
+  "cities": {
+   "Le Mans": 0.26,
+   "Pornic": 0.255,
+   "Rennes": 0.294,
+   "Poitiers": 0.209,
+   "Paris": 0.248,
+   "Lille": 0.356,
+   "Strasbourg": 0.133,
+   "Lyon": 0.117,
+   "Grenoble": 0.096,
+   "Marseille": 0.129,
+   "Toulouse": 0.116,
+   "Bordeaux": 0.199,
+   "Brest": 0.305,
+   "Ajaccio": 0.349,
+   "Clermont-Ferrand": 0.146,
+   "Chamonix": 0.084,
+   "Perpignan": 0.108,
+   "Nancy": 0.159
+  },
+  "monthly_scores": [
+   0.3372,
+   0.349,
+   0.2833,
+   0.1317,
+   0.0251,
+   0.0186,
+   0.0379,
+   0.1001,
+   0.2333,
+   0.3559,
+   0.3352,
+   0.3335
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:35Z"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Spatula clypeata",
+ "summary_fr": "Le Canard souchet est un canard barboteur reconnaissable entre tous à son bec massif, allongé et évasé en spatule, unique dans ce genre. Là où la plupart des canards arrachent l'herbe aquatique, il filtre activement l'eau en l'aspirant puis en la rejetant sur les côtés, retenant plancton, larves et petits invertébrés grâce aux fines lamelles qui bordent son bec. Le dimorphisme sexuel est marqué : le mâle nuptial arbore une tête vert bouteille, une poitrine blanche et des flancs roux vif, tandis que la femelle reste brune et discrète, tout aussi trapue et longue de bec. En France, l'espèce est surtout un visiteur hivernal, avec 25 000 à 40 000 oiseaux venus du nord-est de l'Europe entre octobre et mars, auxquels s'ajoute une petite population nicheuse d'environ mille couples dans les marais de l'ouest et du centre. Calme et peu farouche, il reste silencieux la majeure partie de l'année et ne se manifeste que discrètement lors des parades nuptiales. En vol, ses ailes bleu pâle barrées d'un miroir vert bordé de blanc trahissent immédiatement l'espèce, même à distance.",
+ "habitat": "Marais ouverts, étangs, lacs et estuaires aux eaux douces ou légèrement saumâtres, sur fonds vaseux riches en invertébrés aquatiques.",
+ "diet": "Plancton, insectes aquatiques (adultes et larves), crustacés, mollusques, petits poissons comme les vairons et graines aquatiques, capturés par filtration active du bec.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France, où les nicheurs locaux sont rejoints par 15 000 à 30 000 oiseaux venus du nord-est de l'Europe ; certains poursuivent vers l'Afrique du Nord ou tropicale. Sites majeurs : Camargue, lac de Grand-Lieu, estuaire de la Loire, golfe du Morbihan.",
+  "niche": "Environ 700 à 1 300 couples nichent en France, surtout dans le marais breton, les étangs de Sologne, les marais arrière-littoraux picards et le lac de Grand-Lieu. Ponte en avril-mai.",
+  "passage": "Retour vers les zones de reproduction nordiques dès fin février, surtout en mars-avril. Passages d'automne d'août à novembre."
+ },
+ "seasonality_fr": "Visible surtout d'octobre à avril en France, avec un pic de décembre à février sur quelques grands sites. Présence faible en juillet-août ; espèce discrète, peu audible.",
+ "song_fr": "Très silencieux hors reproduction. Le mâle émet un « touk touk » nasal grave lors des parades ; la femelle produit un cancanement proche de celui de la Cane colvert, mais rarement entendu.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anas acuta",
+   "common_name_fr": "Canard pilet",
+   "why_fr": "Partage le même habitat hivernal et les mêmes sites de concentration ; ses cris de contact peuvent prêter à confusion en audio à distance."
+  },
+  {
+   "scientific_name": "Anas platyrhynchos",
+   "common_name_fr": "Canard colvert",
+   "why_fr": "Cancanement de la femelle souchet proche de celui de la cane colvert, bien que le plumage des deux espèces diffère nettement."
+  },
+  {
+   "scientific_name": "Spatula querquedula",
+   "common_name_fr": "Sarcelle d'été",
+   "why_fr": "Même genre, bec également élargi et cris de parade nasillards pouvant se confondre à l'oreille, surtout au printemps sur les mêmes zones humides."
+  }
+ ],
+ "rarity_note": "Régulier en France, jamais rare, malgré un score de zone modéré (max. 0,46). Concentré sur quelques sites majeurs en hiver mais démographiquement stable ; chassable sous protection AEWA.",
+ "fun_facts": [
+  "Unique parmi les canards barboteurs français, il « nage en rond » pour créer des remous et faire remonter la nourriture vers la surface.",
+  "Le mâle défend le territoire du nid plus longtemps après la ponte que les autres canards de surface, sans doute à cause de son alimentation spécialisée.",
+  "Son bec est un petit chef-d'œuvre d'ingénierie : ses lamelles pectinées filtrent l'eau tout en retenant le plancton directement vers la gorge."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Canard_souchet",
+  "https://en.wikipedia.org/wiki/Northern_shoveler",
+  "https://www.oiseaux.net/oiseaux/canard.souchet.html",
+  "https://www.lpo.fr/decouvrir-et-apprendre-les-oiseaux",
+  "https://inpn.mnhn.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

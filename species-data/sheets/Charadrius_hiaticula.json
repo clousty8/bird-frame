@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Charadrius hiaticula",
+ "summary_fr": "Le Pluvier grand-gravelot est un petit limicole trapu, reconnaissable à son masque noir, son collier noir et ses pattes orangées. Nicheur emblématique des côtes rocheuses et sableuses du nord de l'Europe, il fréquente régulièrement les littoraux français. Certaines populations restent en France toute l'année, tandis que d'autres migrent vers l'Afrique de l'Ouest et du Nord en automne avant de revenir au printemps. Le mâle porte des marques noires plus contrastées que la femelle. Bien que petit (20 cm), c'est un excellent migrateur nocturne qui s'oriente sur de longues distances. Il se nourrit en picotant le sol et les plages, la tête souvent baissée, à la recherche de petites proies. Très territorial, surtout en période de nidification, il défend farouchement son domaine.",
+ "habitat": "Côtes rocheuses, plages sableuses, estuaires et salants. Niche sur le sol nu ou garni de graviers, loin de la végétation dense.",
+ "diet": "Vers marins, mollusques, petits crustacés, insectes coléoptères, araignées ; exceptionnellement fragments végétaux.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France (côtes de l'Atlantique et de la Manche), en Péninsule Ibérique, puis en Afrique de l'Ouest et du Nord-Ouest jusqu'au banc d'Arguin.",
+  "niche": "Côtes rocheuses et sableuses du littoral français, d'avril à juillet. Surtout au nord et en Bretagne. Entre 3 et 4 œufs par nichée.",
+  "passage": "Passages marqués en juillet-août (départ des nicheurs) et février-mai (retour des migrateurs) ; certains oiseaux restent toute l'année."
+ },
+ "seasonality_fr": "Présent en France toute l'année, avec des effectifs variables selon les saisons. Plus abondant sur les côtes atlantiques et en Manche.",
+ "song_fr": "Cri très caractéristique « tiou-it » ou « peu-it » répété, souvent entendu en vol. Cris d'alarme secs rappelant d'autres petits limicoles.",
+ "lookalikes": [
+  {
+   "scientific_name": "Charadrius dubius",
+   "common_name_fr": "Pluvier petit-gravelot",
+   "why_fr": "Très ressemblant, mais plus petit avec un cerne oculaire jaune très visible et des pattes plus fines. Préfère les sites d'eau douce."
+  },
+  {
+   "scientific_name": "Charadrius alexandrinus",
+   "common_name_fr": "Pluvier à collier interrompu",
+   "why_fr": "Plumage plus pâle, collier noir interrompu sur la poitrine, pattes grisâtres. Habitat moins côtier."
+  }
+ ],
+ "rarity_note": "Régulier et assez commun sur les côtes françaises ; plus rare à l'intérieur des terres. Présent toute l'année.",
+ "fun_facts": [
+  "Excellent migrateur nocturne, certaines populations parcourent des milliers de kilomètres vers l'Afrique.",
+  "Le mâle et la femelle se relaient pour couver les œufs pendant 21-28 jours ; les jeunes volent en 3 semaines.",
+  "Son cri caractéristique « tiou-it » permet de le localiser sur les plages, particulièrement en période de nidification."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pluvier_grand-gravelot",
+  "https://en.wikipedia.org/wiki/Common_ringed_plover",
+  "https://www.oiseaux.net/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,96 @@
+{
+ "scientific_name": "Netta rufina",
+ "common_name_fr": "Nette rousse",
+ "birdnet_label": "Netta rufina_Nette rousse",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Netta",
+  "species": "Netta rufina"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Nette rousse",
+   "url": "https://fr.wikipedia.org/wiki/Nette_rousse",
+   "description": "espèce d'oiseaux",
+   "extract": "La Nette rousse est une espèce de canards plongeurs de la famille des Anatidae.",
+   "fulltext_chars": 2964
+  },
+  "en": {
+   "title": "Red-crested pochard",
+   "url": "https://en.wikipedia.org/wiki/Red-crested_pochard",
+   "description": "Species of bird",
+   "extract": "The red-crested pochard is a large diving duck. The scientific name is derived from Greek Netta \"duck\", and Latin rufina, \"golden-red\". Its breeding habitat is lowland marshes and lakes in southern Europe and it extends from the steppe and semi-desert areas on the Black Sea to Central Asia and Mongolia, wintering in the Indian subcontinent and Africa. It is somewhat migratory, and northern birds winter further south into north Africa.",
+   "fulltext_chars": 2158
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/99/Nette_rousse_%28Netta_rufina%29%2C_m%C3%A2le%2C_au_bord_du_L%C3%A9man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 6869,
+  "height": 5152,
+  "file": "Nette_rousse_(Netta_rufina),_mâle,_au_bord_du_Léman.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Nette_rousse_%28Netta_rufina%29%2C_m%C3%A2le%2C_au_bord_du_L%C3%A9man.jpg/1920px-Nette_rousse_%28Netta_rufina%29%2C_m%C3%A2le%2C_au_bord_du_L%C3%A9man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Christian David",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Nette_rousse_(Netta_rufina),_m%C3%A2le,_au_bord_du_L%C3%A9man.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1892,
+  "cities": {
+   "Le Mans": 0.029,
+   "Pornic": 0.012,
+   "Rennes": 0.012,
+   "Poitiers": 0.043,
+   "Paris": 0.066,
+   "Lille": 0.062,
+   "Strasbourg": 0.189,
+   "Lyon": 0.161,
+   "Grenoble": 0.156,
+   "Marseille": 0.118,
+   "Toulouse": 0.11,
+   "Bordeaux": 0.06,
+   "Ajaccio": 0.188,
+   "Clermont-Ferrand": 0.146,
+   "Chamonix": 0.169,
+   "Perpignan": 0.125,
+   "Nancy": 0.156
+  },
+  "monthly_scores": [
+   0.187,
+   0.1875,
+   0.1794,
+   0.1892,
+   0.1525,
+   0.1427,
+   0.137,
+   0.0965,
+   0.0911,
+   0.1184,
+   0.1681,
+   0.1844
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:09Z"
+}

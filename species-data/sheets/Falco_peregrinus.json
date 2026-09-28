@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Falco peregrinus",
+ "summary_fr": "Le Faucon pèlerin est l'oiseau le plus rapide du monde, capable de dépasser les 300 km/h lors de ses piqués spectaculaires. Ce rapace robuste et de taille moyenne chasse presque exclusivement d'autres oiseaux, qu'il repère grâce à sa vue extraordinaire, capable de détecter une proie à plus de six kilomètres. Contrairement à la plupart des rapaces, il ne construit pas de nid : il se contente d'une simple corniche rocheuse sur laquelle la femelle creuse une légère dépression. Autrefois menacé de disparition en Europe et en Amérique du Nord par le DDT et la persécution, le Faucon pèlerin a réalisé un spectaculaire retour en force depuis les années 1970 grâce à des mesures de protection strictes. Aujourd'hui, il colonise aussi les zones urbaines, nichant sur les grands bâtiments et les ponts, où il trouve une abondance de pigeons.",
+ "habitat": "Falaises, reliefs montagneux et littoraux rocheux. De plus en plus en zones urbaines sur les grands bâtiments, ponts et structures élevées.",
+ "diet": "Oiseaux de taille petite à grande, principalement pigeons, corbeaux et canards. Exceptionnellement petits mammifères ou insectes volants.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France, où la population sédentaire nicheuse est rejointe en automne-hiver par des oiseaux du nord-ouest de l'Europe.",
+  "niche": "Partout en France, surtout dans les reliefs et sur les littoraux. Reproduction d'avril à juin, nidification en falaise ou sur structures urbaines.",
+  "passage": "Passages marqués en septembre-octobre et février-mars, visibles sur les littoraux et en plaine ouverte."
+ },
+ "seasonality_fr": "Présent toute l'année. Les nicheurs locaux sont rejoints d'automne à mars par des hivernants venus du nord. Plus audible en hiver et au printemps lors de la défense territoriale.",
+ "song_fr": "Cri perçant et staccato « ka yak, ka yak » lors des interactions territoriales. Cri d'alerte rapide « kek-kek-kek » intensifié face à un intrus. Silencieux le reste du temps.",
+ "lookalikes": [
+  {
+   "scientific_name": "Falco subbuteo",
+   "common_name_fr": "Faucon hobereau",
+   "why_fr": "Cris aigus et secs similaires, bien que plus sourds ; taille et silhouette comparables."
+  },
+  {
+   "scientific_name": "Falco columbarius",
+   "common_name_fr": "Faucon émerillon",
+   "why_fr": "Appels rapides et perçants, tessiture acoustique proche, taille plus petite mais confusions possibles."
+  }
+ ],
+ "rarity_note": "Régulièrement observé en France, établi toute l'année. Nettement plus courant en Méditerranée. Populations urbaines en expansion depuis le début des années 2000.",
+ "fun_facts": [
+  "Oiseau le plus rapide du monde : le piqué atteint 389 km/h mesurés, supérieurs à la vitesse de chute libre.",
+  "Les falconnes sont jusqu'à 30 % plus grandes et lourdes que les mâles ; elles choisissent le site exact de nidification parmi plusieurs cuvettes préparées par le couple.",
+  "Disparu d'Europe du Nord au XXe siècle par le DDT, le Faucon pèlerin est revenu coloniser les villes depuis 1970, nichant aujourd'hui sur cathédrales, ponts et usines."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Faucon_p%C3%A8lerin",
+  "https://en.wikipedia.org/wiki/Peregrine_falcon",
+  "https://www.oiseaux.net/faucons/faucon.pelerin.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

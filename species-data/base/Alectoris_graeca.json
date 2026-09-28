@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Alectoris graeca",
+ "common_name_fr": "Perdrix bartavelle",
+ "birdnet_label": "Alectoris graeca_Perdrix bartavelle",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Galliformes",
+  "family": "Phasianidae",
+  "family_common": "Pheasants, Grouse, and Allies",
+  "genus": "Alectoris",
+  "species": "Alectoris graeca"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Perdrix bartavelle",
+   "url": "https://fr.wikipedia.org/wiki/Perdrix_bartavelle",
+   "description": "espèce d'oiseaux",
+   "extract": "La Perdrix bartavelle, ou simplement bartavelle, est une espèce d'oiseaux de la famille des Phasianidae. Ces perdrix du genre Alectoris sont originaires du sud-est de l'Europe, du sud-ouest de l'Asie et du Proche-Orient.",
+   "fulltext_chars": 7452
+  },
+  "en": {
+   "title": "Rock partridge",
+   "url": "https://en.wikipedia.org/wiki/Rock_partridge",
+   "description": "Species of bird",
+   "extract": "The rock partridge or common rock partridge is a gamebird in the pheasant family, Phasianidae, of the order Galliformes. It is native to southern Europe, and is closely related and very similar to its eastern equivalent, the chukar partridge, A. chukar.",
+   "fulltext_chars": 4578
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Steinhuhn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1000,
+  "height": 667,
+  "file": "Steinhuhn.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Steinhuhn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "FokusNatur",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Steinhuhn.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0455,
+  "cities": {
+   "Ajaccio": 0.045
+  },
+  "monthly_scores": [
+   0.0455,
+   0.0305,
+   0.0135,
+   0.0,
+   0.0,
+   0.0,
+   0.011,
+   0.0,
+   0.0,
+   0.0129,
+   0.0303,
+   0.0394
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:01Z"
+}

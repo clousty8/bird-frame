@@ -1,0 +1,86 @@
+{
+ "scientific_name": "Podiceps grisegena",
+ "common_name_fr": "Grèbe jougris",
+ "birdnet_label": "Podiceps grisegena_Grèbe jougris",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Podicipediformes",
+  "family": "Podicipedidae",
+  "family_common": "Grebes",
+  "genus": "Podiceps",
+  "species": "Podiceps grisegena"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grèbe jougris",
+   "url": "https://fr.wikipedia.org/wiki/Gr%C3%A8be_jougris",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Grèbe jougris est une espèce d'oiseaux de la famille des Podicipedidae. Il ressemble au Grèbe huppé, avec lequel il est souvent confondu. Cet oiseau aquatique est un migrateur de l'hémisphère Nord.",
+   "fulltext_chars": 12770
+  },
+  "en": {
+   "title": "Red-necked grebe",
+   "url": "https://en.wikipedia.org/wiki/Red-necked_grebe",
+   "description": "Species of migratory aquatic bird",
+   "extract": "The red-necked grebe is an aquatic bird found in the temperate regions of the northern hemisphere. A migratory bird, its wintering habitat is largely restricted to calm waters just beyond the waves around ocean coasts, although some birds may winter on large lakes. Grebes prefer shallow bodies of fresh water such as lakes, marshes or fish-ponds as breeding sites.",
+   "fulltext_chars": 17798
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/59/Podiceps_grisegena_%2833624738966%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4072,
+  "height": 2715,
+  "file": "Podiceps_grisegena_(33624738966).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Podiceps_grisegena_%2833624738966%29.jpg/1920px-Podiceps_grisegena_%2833624738966%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Donald Hobern from Copenhagen, Denmark",
+  "credit": "Podiceps grisegena",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Podiceps_grisegena_(33624738966).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0719,
+  "cities": {
+   "Le Mans": 0.014,
+   "Poitiers": 0.018,
+   "Paris": 0.02,
+   "Lille": 0.028,
+   "Strasbourg": 0.03,
+   "Lyon": 0.021,
+   "Grenoble": 0.02,
+   "Marseille": 0.024,
+   "Toulouse": 0.021,
+   "Bordeaux": 0.02,
+   "Ajaccio": 0.072,
+   "Clermont-Ferrand": 0.022,
+   "Chamonix": 0.019,
+   "Perpignan": 0.023,
+   "Nancy": 0.029
+  },
+  "monthly_scores": [
+   0.0687,
+   0.0686,
+   0.0469,
+   0.0295,
+   0.0137,
+   0.0102,
+   0.0,
+   0.0,
+   0.0101,
+   0.0278,
+   0.0656,
+   0.0719
+  ],
+  "months": [
+   1,
+   2,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:21Z"
+}

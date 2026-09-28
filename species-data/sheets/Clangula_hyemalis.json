@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Clangula hyemalis",
+ "summary_fr": "Canard plongeur élancé et gracieux, la Harelde kakawi est le seul représentant du genre Clangula. Le mâle se distingue par sa longue queue effilée et ses contrastes saisissants : en hiver, il arbore une tête et un cou largement blancs contrastant avec une poitrine noire, tandis qu'en été il noircit. La femelle, plus sobre, affiche un dos sombre et un ventre blanc. Excellent plongeur capable de descendre à 60 mètres, elle se nourrit en eau profonde. Ses cris musicaux, un caquètement caractéristique rappelant des yodèles, la rendent identifiable à l'oreille même en hiver. Migratrice boréale, elle fréquente sporadiquement les côtes françaises en passage ou hivernage, particulièrement les façades atlantiques. Grégaire en hiver, elle forme des rassemblements importants aux endroits de prédilection.",
+ "habitat": "Côtes marines tempérées et sub-arctiques, lagunes littorales, estuaires. En migration, elle fréquente l'Atlantique nord et le littoral français.",
+ "diet": "Mollusques (moules, palourdes), crustacés et petits poissons, capturés en plongée; quelques insectes aquatiques en été.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Côtes atlantiques et baltiques nord de l'Europe; petit nombre hiverne régulièrement au large des côtes françaises de l'Atlantique nord, principalement autour de Saint-Pierre-et-Miquelon et sporadiquement en baie de Seine.",
+  "niche": "Ne niche pas en France; reproduction en arctique et subarctique eurasien (toundra, lacs alpins).",
+  "passage": "Passages migratoires en mars-avril et octobre-novembre, l'essentiel de la population transitant par la Mer Baltique."
+ },
+ "seasonality_fr": "Visible en France principalement d'octobre à avril, plus rarement en mai. Très localisée côtière; absent l'été.",
+ "song_fr": "Cris musicaux très caractéristiques chez le mâle : caquètement ressemblant à un yodèle « ow-ow-owal-ow », particulièrement audible lors des rassemblements hivernaux.",
+ "lookalikes": [
+  {
+   "scientific_name": "Aythya fuligula",
+   "common_name_fr": "Fuligule morillon",
+   "why_fr": "Autre canard plongeur noir et blanc en hiver; silhouette plus trapue, absence de longue queue."
+  },
+  {
+   "scientific_name": "Aythya marila",
+   "common_name_fr": "Fuligule milouinan",
+   "why_fr": "Fuligule plongeur de taille similaire; mâle aussi noir et blanc, mais tête arrondie et pas de longue queue."
+  },
+  {
+   "scientific_name": "Melanitta nigra",
+   "common_name_fr": "Macreuse noire",
+   "why_fr": "Canard plongeur côtier ressemblant au mâle; taille supérieure, silhouette plus massive."
+  }
+ ],
+ "rarity_note": "Très rare en France; présence confinée aux côtes atlantiques nord en hiver ou passage. Effectifs réguliers au large de Terre-Neuve voisine.",
+ "fun_facts": [
+  "Le mâle et la femelle changent radicalement de plumage selon les saisons : le mâle passe du noir au blanc entre l'été et l'hiver.",
+  "Plongeur extraordinaire capable d'atteindre 60 mètres de profondeur, établissant le record chez les canards de surface.",
+  "Ses cris musicaux yodélés sont si distincts qu'ils ont inspiré son ancien nom anglais « oldsquaw » (vieille femme criarde)."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Harelde_kakawi",
+  "https://en.wikipedia.org/wiki/Long-tailed_duck",
+  "https://oiseaux.net/especes/harelde.kakawi.html",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

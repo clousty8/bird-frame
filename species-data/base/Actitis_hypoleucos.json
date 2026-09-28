@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Actitis hypoleucos",
+ "common_name_fr": "Chevalier guignette",
+ "birdnet_label": "Actitis hypoleucos_Chevalier guignette",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Actitis",
+  "species": "Actitis hypoleucos"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Chevalier guignette",
+   "url": "https://fr.wikipedia.org/wiki/Chevalier_guignette",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Chevalier guignette est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae. Ce petit échassier est assez répandu, et se rencontre dans la majeure partie de l'Eurasie, ainsi qu'en Afrique lors de ses migrations. Le hochement de sa tête et de sa queue lorsqu'il se pose est l'une de ses principales caractéristiques.",
+   "fulltext_chars": 8262
+  },
+  "en": {
+   "title": "Common sandpiper",
+   "url": "https://en.wikipedia.org/wiki/Common_sandpiper",
+   "description": "Species of bird",
+   "extract": "The common sandpiper is a small Palearctic wader. This bird and its American sister species, the spotted sandpiper, make up the genus Actitis. They are parapatric and replace each other geographically; stray birds of either species may settle down with breeders of the other and hybridize. Hybridization has also been reported between the common sandpiper and the green sandpiper, a member of the closely related genus Tringa.",
+   "fulltext_chars": 4218
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Common_sandpiper_%28Actitis_hypoleucos%29_Oppdal_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5222,
+  "height": 3482,
+  "file": "Common_sandpiper_(Actitis_hypoleucos)_Oppdal_2.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Common_sandpiper_%28Actitis_hypoleucos%29_Oppdal_2.jpg/1920px-Common_sandpiper_%28Actitis_hypoleucos%29_Oppdal_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Charles J. Sharp",
+  "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Common_sandpiper_(Actitis_hypoleucos)_Oppdal_2.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.5173,
+  "cities": {
+   "Le Mans": 0.479,
+   "Pornic": 0.517,
+   "Rennes": 0.482,
+   "Poitiers": 0.482,
+   "Paris": 0.426,
+   "Lille": 0.382,
+   "Strasbourg": 0.315,
+   "Lyon": 0.354,
+   "Grenoble": 0.316,
+   "Marseille": 0.309,
+   "Toulouse": 0.34,
+   "Bordeaux": 0.45,
+   "Brest": 0.415,
+   "Ajaccio": 0.402,
+   "Clermont-Ferrand": 0.39,
+   "Chamonix": 0.3,
+   "Perpignan": 0.301,
+   "Nancy": 0.349
+  },
+  "monthly_scores": [
+   0.283,
+   0.2806,
+   0.2849,
+   0.2843,
+   0.1984,
+   0.1811,
+   0.2621,
+   0.5173,
+   0.3567,
+   0.2597,
+   0.2855,
+   0.2969
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:03Z"
+}

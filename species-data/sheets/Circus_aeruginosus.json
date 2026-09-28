@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Circus aeruginosus",
+ "summary_fr": "Le Busard des roseaux est un rapace diurne élancé, très lié aux zones humides européennes. Mâle et femelle affichent des plumages contrastés : le mâle arbore des ailes grises aux extrémités noires et un corps brun, tandis que la femelle revêt une livrée entièrement brune avec la calotte et la gorge plus claires. Avec ses 125 à 135 cm d'envergure et son vol rasant au-dessus des roselières, il est remarquable pour sa technique de chasse : il surprend ses proies par une approche soudaine, épuisant même les oiseaux aquatiques en les forçant à plonger sans cesse. Nicheur en roselière, il construit un nid massif d'herbes sèches caché dans la végétation. Longtemps victime de persécutions et du drainage des marais, l'espèce s'est spectaculairement rétablie en Europe depuis 1975, inversant son déclin historique.",
+ "habitat": "Roselières étendues, zones marécageuses et humides, ainsi que grandes plaines cultivées en migration. Affectionne les milieux ouverts et herbacés offrant suffisamment de nourriture et de couvert.",
+ "diet": "Petits mammifères, petits oiseaux et œufs, poissons, amphibiens et insectes. Le régime s'adapte à la saison et à la disponibilité locale, avec une préférence marquée pour les vertébrés pendant la nidification.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Dans le bassin méditerranéen (sud de la France notamment) et en Afrique au sud du Sahara. Certains individus hivernent en France.",
+  "niche": "Partout en France, printemps et été, en particulier d'avril à juillet, avec une ponte entre avril et mai.",
+  "passage": "Passages migratoires marqués en mars (retour) et d'octobre à novembre (départ)."
+ },
+ "seasonality_fr": "Visible toute l'année en France, particulièrement abondant au printemps et en été. Les hivernants restent surtout dans le sud du pays, tandis que les nicheurs occupent zones humides et plaines du nord et du centre.",
+ "song_fr": "Peu vocal hors de la période de nidification. En vol nuptial, émet des cris rauques et perçants. Cri d'alarme au nid : sons aigus répétés ressemblant à des miaulements.",
+ "lookalikes": [
+  {
+   "scientific_name": "Circus cyaneus",
+   "common_name_fr": "Busard Saint-Martin",
+   "why_fr": "Même genre, morphologie et silhouette très proches. Cris et vocalizations similaires, différences subtiles en vol."
+  },
+  {
+   "scientific_name": "Circus pygargus",
+   "common_name_fr": "Busard cendré",
+   "why_fr": "Morphologie voisine, habitat et période de nidification comparables. Vocalises du même type, identification acoustique difficile."
+  },
+  {
+   "scientific_name": "Accipiter nisus",
+   "common_name_fr": "Épervier d'Europe",
+   "why_fr": "Prédateur aerial similaire chassant en vol rasant. Cris aigus comparables lors de la chasse."
+  }
+ ],
+ "rarity_note": "Espèce commune à régulière en France, bien établie dans les zones humides. Effectifs stables depuis les années 1980 après un spectaculaire rétablissement.",
+ "fun_facts": [
+  "Longtemps persécuté, l'espèce a vu sa population multipliée par plus de 5 au Danemark entre 1970 et 1982, redonnant espoir après des siècles de déclin.",
+  "Pendant la nidification, le mâle approvisionne la femelle et les jeunes en nourriture en effectuant des passes spectaculaires au-dessus du nid.",
+  "Les jeunes restent sous surveillance parentale jusqu'à quatre mois d'âge, formant des bandes familiales avant la migration d'automne."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Busard_des_roseaux",
+  "https://www.oiseaux.net/species/busard-des-roseaux/",
+  "https://inpn.mnhn.fr/espece/cd_nom/4330",
+  "https://www.lpo.fr/",
+  "https://avibase.bsc-eoc.org/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

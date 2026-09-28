@@ -1,0 +1,92 @@
+{
+ "scientific_name": "Curruca communis",
+ "common_name_fr": "Fauvette grisette",
+ "birdnet_label": "Curruca communis_Fauvette grisette",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sylviidae",
+  "family_common": "Sylviid Warblers and Allies",
+  "genus": "Curruca",
+  "species": "Curruca communis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fauvette grisette",
+   "url": "https://fr.wikipedia.org/wiki/Fauvette_grisette",
+   "description": "espèce d'oiseaux",
+   "extract": "La Fauvette grisette est une espèce de passereaux de la famille des Sylviidae.",
+   "fulltext_chars": 6048
+  },
+  "en": {
+   "title": "Common whitethroat",
+   "url": "https://en.wikipedia.org/wiki/Common_whitethroat",
+   "description": "Species of bird",
+   "extract": "The greater whitethroat or common whitethroat is a common and widespread Old World warbler which breeds throughout Europe and across much of temperate western Asia. This small passerine bird is strongly migratory, and winters in tropical Africa, Arabia, and Pakistan.",
+   "fulltext_chars": 3259
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Tallareta_vulgar_01_%28Sylvia_communis%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1800,
+  "height": 1200,
+  "file": "Tallareta_vulgar_01_(Sylvia_communis).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Tallareta_vulgar_01_%28Sylvia_communis%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "markkilner",
+  "credit": "https://www.flickr.com/photos/markkilner/3588814732/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Tallareta_vulgar_01_(Sylvia_communis).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.707,
+  "cities": {
+   "Le Mans": 0.601,
+   "Pornic": 0.524,
+   "Rennes": 0.593,
+   "Poitiers": 0.467,
+   "Paris": 0.6,
+   "Lille": 0.707,
+   "Strasbourg": 0.438,
+   "Lyon": 0.251,
+   "Grenoble": 0.185,
+   "Marseille": 0.133,
+   "Toulouse": 0.185,
+   "Bordeaux": 0.306,
+   "Brest": 0.437,
+   "Ajaccio": 0.216,
+   "Clermont-Ferrand": 0.295,
+   "Chamonix": 0.208,
+   "Perpignan": 0.132,
+   "Nancy": 0.488
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0652,
+   0.3931,
+   0.707,
+   0.6124,
+   0.4176,
+   0.1835,
+   0.0991,
+   0.0436,
+   0.0,
+   0.0
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:43Z"
+}

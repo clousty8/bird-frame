@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Fringilla montifringilla",
+ "common_name_fr": "Pinson du Nord",
+ "birdnet_label": "Fringilla montifringilla_Pinson du Nord",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Fringillidae",
+  "family_common": "Finches, Euphonias, and Allies",
+  "genus": "Fringilla",
+  "species": "Fringilla montifringilla"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pinson du Nord",
+   "url": "https://fr.wikipedia.org/wiki/Pinson_du_Nord",
+   "description": "espèce d'oiseaux passeriformes de la famille des fringillidae",
+   "extract": "Le Pinson du Nord est une espèce d'oiseaux appartenant à la famille des Fringillidae. C'est l'espèce la plus nordique du genre Fringilla et la seule qui soit monotypique.",
+   "fulltext_chars": 9542
+  },
+  "en": {
+   "title": "Brambling",
+   "url": "https://en.wikipedia.org/wiki/Brambling",
+   "description": "Species of bird",
+   "extract": "The brambling is a small passerine bird in the finch family Fringillidae. It has also been called the cock o' the north and the mountain finch. It is widespread and migratory, often seen in very large flocks.",
+   "fulltext_chars": 4332
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/98/Pinson_du_nord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3247,
+  "height": 2165,
+  "file": "Pinson_du_nord.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pinson_du_nord.jpg/1920px-Pinson_du_nord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Pierre Dalous",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Pinson_du_nord.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2699,
+  "cities": {
+   "Le Mans": 0.143,
+   "Pornic": 0.101,
+   "Rennes": 0.092,
+   "Poitiers": 0.182,
+   "Paris": 0.211,
+   "Lille": 0.27,
+   "Strasbourg": 0.186,
+   "Lyon": 0.241,
+   "Grenoble": 0.184,
+   "Marseille": 0.152,
+   "Toulouse": 0.17,
+   "Bordeaux": 0.189,
+   "Brest": 0.059,
+   "Ajaccio": 0.213,
+   "Clermont-Ferrand": 0.259,
+   "Chamonix": 0.178,
+   "Perpignan": 0.14,
+   "Nancy": 0.204
+  },
+  "monthly_scores": [
+   0.1929,
+   0.213,
+   0.1434,
+   0.021,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0461,
+   0.2699,
+   0.2586,
+   0.2089
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:30Z"
+}

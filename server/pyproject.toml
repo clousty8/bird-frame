@@ -1,0 +1,37 @@
+[project]
+name = "bird-frame-server"
+version = "0.1.0"
+description = "bird-frame — serveur FastAPI (ingestion nœuds, API navigateur, fiches espèces)"
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.32",
+    "sqlalchemy>=2.0",
+    "alembic>=1.13",
+    "pydantic>=2.9",
+    "pydantic-settings>=2.5",
+    "python-multipart>=0.0.12",
+    "pillow>=11.0",
+    "astral>=3.2",
+    "tzdata>=2024.2",
+    "jsonschema>=4.23",
+    "httpx>=0.27",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+    "ruff>=0.7",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"
+
+[tool.ruff.lint]
+# B008 (appel de fonction dans une valeur par défaut) est le motif *voulu* de FastAPI
+# pour `Depends(...)` — cf. la doc FastAPI elle-même, qui recommande cette exception.
+ignore = ["B008"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

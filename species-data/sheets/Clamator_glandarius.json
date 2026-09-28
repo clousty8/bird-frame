@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Clamator glandarius",
+ "summary_fr": "Le Coucou geai est un grand coucou du bassin méditerranéen, facilement identifiable à son cri sonore et répété « cher-cher-kri-kri » et à son vol ample rappelant celui d'une pie. En France, il ne fréquente que la frange méditerranéenne — Var, Pyrénées-Orientales et Corse — où il recherche les bois clairs de pins parasols et les terrains secs et chauds. Contrairement au Coucou gris, il parasite presque exclusivement les corvidés, en particulier la Pie bavarde, déposant ses œufs dans leurs nids ; ses poussins ne rejettent pas les autres occupants mais les concurrencent pour la nourriture. Grand amateur de chenilles processionnaires du pin, il rend un service précieux aux forestiers en consommant ces larves urticantes que peu d'autres oiseaux osent toucher. C'est un migrateur partiel : la majorité de la population hiverne en Afrique subsaharienne, mais certains individus reviennent dès janvier ou février et de rares mentions hivernales sont rapportées, si bien que l'espèce peut être signalée sur une bonne partie de l'année dans son aire méditerranéenne restreinte. Ses poussins savent même sécréter une odeur repoussante qui dissuade aussi les prédateurs des oisillons hôtes.",
+ "habitat": "Bois clairs de pins parasols et terrains ouverts, secs et chauds, limités en France à la frange méditerranéenne (Var, Pyrénées-Orientales, Corse).",
+ "diet": "Chenilles processionnaires du pin et autres chenilles velues, insectes, araignées et petites larves ; ces proies hérissées de poils urticants sont boudées par la plupart des autres oiseaux.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "L'essentiel de la population hiverne en Afrique subsaharienne, mais des individus sont parfois signalés en France en plein hiver, ce qui explique une présence rapportée sur douze mois.",
+  "niche": "Ceinture méditerranéenne française (Var, Pyrénées-Orientales, Corse), d'avril à juillet.",
+  "passage": "Retour souvent précoce, dès janvier ou février certaines années, bien avant les autres estivants ; départ vers l'Afrique en fin d'été et à l'automne."
+ },
+ "seasonality_fr": "Présent toute l'année sur le littoral méditerranéen, avec un pic net pendant la reproduction (mai-juin) ; le retour peut être très précoce et quelques individus restent parfois en hiver.",
+ "song_fr": "Cri puissant et très reconnaissable « cher-cher-kri-kri » et variantes, lancé en vol ou depuis un perchoir ; bien distinct des autres cris de la forêt méditerranéenne.",
+ "lookalikes": [
+  {
+   "scientific_name": "Cuculus canorus",
+   "common_name_fr": "Coucou gris",
+   "why_fr": "Même famille des Cuculidae et cri porté loin en forêt, mais son « cou-cou » est très différent du « cher-cher-kri-kri »."
+  },
+  {
+   "scientific_name": "Garrulus glandarius",
+   "common_name_fr": "Geai des chênes",
+   "why_fr": "Cri grinçant tout aussi sonore, même milieu boisé méditerranéen ; peut prêter à confusion pour une oreille peu exercée."
+  },
+  {
+   "scientific_name": "Pica pica",
+   "common_name_fr": "Pie bavarde",
+   "why_fr": "Hôte principal du Coucou geai, cris bruyants et habitat partagé, source de confusion vocale possible sur le terrain."
+  }
+ ],
+ "rarity_note": "Assez rare et localisée à la frange méditerranéenne (score BirdNET maximal de 0,0624, concentré à Ajaccio) ; migrateur partiel dont le retour précoce et de rares hivernages étalent la présence sur une grande partie de l'année.",
+ "fun_facts": [
+  "Le Coucou geai pratique une véritable « mafia avienne » décrite par l'ornithologue Manuel Soler : si la Pie bavarde détruit ses œufs, il détruit en représailles le nid ou les œufs de la pie.",
+  "Ses poussins sécrètent une odeur repoussante qui protège aussi, par ricochet, les oisillons de la pie hôte contre les prédateurs.",
+  "C'est le seul coucou d'Europe à parasiter presque exclusivement les corvidés, pies et corneilles en tête."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Coucou_geai",
+  "https://en.wikipedia.org/wiki/Great_spotted_cuckoo"
+ ],
+ "generated_at": "2026-09-27T21:30:00Z",
+ "generator_model": "claude-sonnet-5"
+}

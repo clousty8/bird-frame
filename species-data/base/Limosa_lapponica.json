@@ -1,0 +1,94 @@
+{
+ "scientific_name": "Limosa lapponica",
+ "common_name_fr": "Barge rousse",
+ "birdnet_label": "Limosa lapponica_Barge rousse",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Limosa",
+  "species": "Limosa lapponica"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Barge rousse",
+   "url": "https://fr.wikipedia.org/wiki/Barge_rousse",
+   "description": "espèce d'oiseaux",
+   "extract": "La Barge rousse est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae.",
+   "fulltext_chars": 8525
+  },
+  "en": {
+   "title": "Bar-tailed godwit",
+   "url": "https://en.wikipedia.org/wiki/Bar-tailed_godwit",
+   "description": "Species of bird",
+   "extract": "The bar-tailed godwit is a large and strongly migratory wader in the family Scolopacidae, which feeds on bristle-worms and shellfish on coastal mudflats and estuaries. It has distinctive red breeding plumage, long legs, and a long upturned bill. Bar-tailed godwits breed on Arctic coasts and tundra from Scandinavia to Alaska, and overwinter on coasts in temperate and tropical regions of Australia and New Zealand. The migration of the subspecies Limosa lapponica baueri across the Pacific Ocean from Alaska to New Zealand is the longest known non-stop flight of any bird, and also the longest journey without pausing to feed by any animal. The round-trip migration for this subspecies is over 29,000 km (18,020 mi).",
+   "fulltext_chars": 20106
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bar-tailed_Godwit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2279,
+  "height": 1519,
+  "file": "Bar-tailed_Godwit.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bar-tailed_Godwit.jpg/1920px-Bar-tailed_Godwit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Bar-tailed_Godwit.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1517,
+  "cities": {
+   "Le Mans": 0.073,
+   "Pornic": 0.097,
+   "Rennes": 0.114,
+   "Poitiers": 0.05,
+   "Paris": 0.059,
+   "Lille": 0.097,
+   "Strasbourg": 0.018,
+   "Lyon": 0.016,
+   "Grenoble": 0.014,
+   "Marseille": 0.035,
+   "Toulouse": 0.028,
+   "Bordeaux": 0.048,
+   "Brest": 0.152,
+   "Ajaccio": 0.15,
+   "Clermont-Ferrand": 0.021,
+   "Chamonix": 0.013,
+   "Perpignan": 0.036,
+   "Nancy": 0.026
+  },
+  "monthly_scores": [
+   0.1343,
+   0.1498,
+   0.1317,
+   0.0598,
+   0.0199,
+   0.0183,
+   0.0351,
+   0.1032,
+   0.1517,
+   0.1336,
+   0.1128,
+   0.1236
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:31Z"
+}

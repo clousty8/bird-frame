@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Motacilla alba",
+ "summary_fr": "La Bergeronnette grise est l'un des oiseaux les plus typiques des milieux ouverts français, reconnaissable à sa silhouette allongée et surtout au balancement perpétuel de sa queue qui a inspiré son nom. Cet élégant passereau bicolore, de taille modeste (16-19 cm), partage les caractéristiques de la famille des motacillidés avec les pipits mais se distingue par son allure effilée et sa confiance envers l'homme. Insectivore de terrain ouvert, elle se nourrit de mouches, moustiques et fourmis, les picorant au sol ou les capturant en vol, volontiers à proximité d'eau. Dynamique et territoriale, elle niche entre avril et août dans les interstices des murs de pierre, sous les toits ou sous les ponts, et peut élever deux à trois nichées par an. Ses populations françaises combinent des résidents permanents dans les régions tempérées et des migrateurs venus du nord rejoignant l'Europe méditerranéenne, ce qui en fait une présence constante bien que variable selon les saisons.",
+ "habitat": "Espaces ouverts et cultivés, prairies, berges, zones urbanisées ; toujours à proximité de l'eau et des habitations. Du littoral à la montagne, elle évite les zones boisées denses.",
+ "diet": "Insectivore exclusif se nourrissant essentiellement de mouches, moustiques, fourmis et petits arthropodes aquatiques. Capture ses proies au sol en piétinant ou en vol à courte distance.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Hivernage en France des populations sédentaires et des migrateurs méditerranéens. Les oiseaux d'Europe du Nord gagnent l'Afrique tropicale, le Moyen-Orient, l'Inde et l'Asie du Sud-Est.",
+  "niche": "Reproduction partout en France d'avril à août, sur tous les milieux ouverts et semi-ouverts accessible pour la nidification en crevasses ou cavités.",
+  "passage": "Passages migratoires marqués en mars et d'octobre à novembre, avec afflux d'oiseaux d'Europe du Nord et de l'Est traversant la France."
+ },
+ "seasonality_fr": "Visible en France toute l'année, avec des effectifs plus importants en automne et hiver. Entendue très régulièrement lors de ses déplacements au sol ou depuis les perchoirs.",
+ "song_fr": "Cri caractéristique « tschick » ou « tzip » secs et isolés ; chant peu structuré constitué de notes cristallines variées sans grande valeur territoriale, audible surtout au printemps.",
+ "lookalikes": [
+  {
+   "scientific_name": "Motacilla flava",
+   "common_name_fr": "Bergeronnette flavéole",
+   "why_fr": "Même genre et habitat similaire, mais jaune au lieu de gris ; cris proches mais plus courts."
+  },
+  {
+   "scientific_name": "Anthus trivialis",
+   "common_name_fr": "Pipit des arbres",
+   "why_fr": "Même famille (Motacillidae), silhouette effilée ; cris plus aigus et rythme différent."
+  }
+ ],
+ "rarity_note": "Très commune en France, toute l'année. Espèce régulière et abondante, bien présente sur l'ensemble du territoire métropolitain.",
+ "fun_facts": [
+  "Son nom français historique « lavandière » est utilisé depuis le XVIIIe siècle par Buffon, probablement en référence à ses allées et venues au bord de l'eau comme des femmes lavant du linge.",
+  "Elle est l'oiseau national de la Lettonie et apparaît sur les timbres de plusieurs pays.",
+  "Le balancement de sa queue est un signal de vigilance aux prédateurs potentiels, ce qui expliquerait pourquoi elle le maintient constamment."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bergeronnette_grise",
+  "https://en.wikipedia.org/wiki/White_wagtail",
+  "https://www.oiseaux.net/oiseaux/bergeronnette.grise.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

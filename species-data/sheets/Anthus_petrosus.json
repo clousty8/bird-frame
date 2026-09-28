@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anthus petrosus",
+ "summary_fr": "Le Pipit maritime est un petit passereau insectivore inféodé aux côtes rocheuses, où il se distingue par son plumage plus sombre et ses pattes foncées. Mesurant 16 à 17 centimètres, c'est le plus sombre des pipits européens. C'est un oiseau fortement territorial qui se nourrit au sol en picotant invertébrés et petits crustacés sur les rochers et en bordure d'eau, rarement en vol. Deux sous-espèces peuplent l'Europe atlantique : la nominate d'Europe du Nord, largement sédentaire, et la littoralis des îles britanniques et de l'ouest français, qui migre vers les côtes atlantiques plus chaudes. En Bretagne et Angleterre, il est présent toute l'année, défendant farouchement son territoire. Les combats territoriaux peuvent être remarquablement violents. Son allure aisée et sa queue constamment agitée en font un compagnon familier des littoraux rocheux, particulièrement en hiver.",
+ "habitat": "Côtes rocheuses, îles et îlots, rarement à plus de 100 mètres d'altitude, évitant les secteurs trop exposés aux tempêtes.",
+ "diet": "Petits invertébrés capturés au sol : insectes, crustacés, vers, mollusques, puces de sable, plus exceptionnellement petits poissons.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Côtes d'Europe occidentale, de la Normandie à l'Ibérie ; les hivernants côtiers français accueillent des migrateurs du nord.",
+  "niche": "Côtes rocheuses d'Europe du Nord et ouest, notamment Norvège, Suède, îles britanniques, Bretagne ; très localisé en France continentale.",
+  "passage": "Passages détectés en mars-avril et septembre-octobre pour les populations migratrices."
+ },
+ "seasonality_fr": "Visible toute l'année sur les côtes de Bretagne et d'Angleterre. Dans l'ouest français, plus régulier d'octobre à avril avec les migrateurs du nord.",
+ "song_fr": "Chant composé de notes cristallines crépitantes et bourdonnantes, suivi de cris aigus montants ; cri de fuite sec « pseep » intermédiaire entre celui du Pipit farlouse et du Pipit spioncelle.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anthus spinoletta",
+   "common_name_fr": "Pipit spioncelle",
+   "why_fr": "Était autrefois considéré comme la même espèce, très similaire acoustiquement en montagne et contexte hivernal."
+  },
+  {
+   "scientific_name": "Anthus pratensis",
+   "common_name_fr": "Pipit farlouse",
+   "why_fr": "Chants et cris superficiellement proches, mais le farlouse fréquente les terrains herbeux plutôt que les côtes rocheuses."
+  },
+  {
+   "scientific_name": "Anthus trivialis",
+   "common_name_fr": "Pipit des arbres",
+   "why_fr": "Cris de fuite similaires, confusion possible à la migration, habitat très différent (boisements)."
+  }
+ ],
+ "rarity_note": "Régulier mais localisé en France, strictement côtier. Plus commun en Bretagne et côtes vendéennes où il hiverne régulièrement. Très rare à l'intérieur des terres.",
+ "fun_facts": [
+  "Les deux sous-espèces diffèrent fortement : la nominate du nord est presque sédentaire tandis que littoralis du sud migre annuellement.",
+  "Oiseau étonnamment combatif : les mâles affrontements territoriaux peuvent être violents, et même un mâle résident assistera ses voisins pour chasser les intrus.",
+  "Le mâle effectue un vol nuptial caractéristique en s'élevant à 15-30 mètres puis en flottant lentement vers le sol avec des mouvements de parachute."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pipit_maritime",
+  "https://en.wikipedia.org/wiki/European_rock_pipit",
+  "https://www.oiseaux.net/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

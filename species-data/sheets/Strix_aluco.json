@@ -1,0 +1,52 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Strix aluco",
+ "summary_fr": "La Chouette hulotte ou Chat-huant est le rapace nocturne le plus courant d'Europe, facilement reconnaissable à son grand disque facial rond et ses yeux noirs. De taille moyenne (37 à 43 cm), elle affiche des plumages polymorphes allant du brun roux au gris, ce qui la camouffle efficacement dans les branchages. Strictement nocturne sauf pendant l'élevage des jeunes, elle chasse à l'affût en se fiant surtout à son audition exceptionnelle, capturant rongeurs, oiseaux et insectes qu'elle avale entiers. Farouchement territoriale et sédentaire en France, elle niche dans des cavités d'arbres ou des nichoirs, construisant une à deux nichées par an. Les jeunes qui ne trouvent pas de territoire libre après le sevrage risquent la famine, ce qui fait de la disponibilité d'espaces boisés un enjeu crucial.",
+ "habitat": "Forêts de feuillus ou mixtes, parcs arborés, jardins, cimetières boisés, et même villes avec espaces verts ; du littoral à 3 800 mètres d'altitude.",
+ "diet": "Rongeurs (mulots, campagnols) ; petits mammifères, oiseaux, chauve-souris, serpents, amphibiens et gros insectes. En milieu urbain, consommation accrue de pigeons.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Les adultes restent sur leur territoire toute l'année, même en hiver rigoureux, dans toute la France métropolitaine.",
+  "niche": "Partout en France, de février à avril pour la première nichée, les jeunes s'envolant vers mai-juin ; en cas de succès, une deuxième ponte peut survenir.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente toute l'année en France. Audible la nuit, notamment en automne et hiver quand les territoires sont fortement défendus. En ville, ses cris résonnent parfois la nuit près des éclairages publics.",
+ "song_fr": "Le mâle émet un « hou-hou » sonore suivi un à quatre secondes plus tard d'un « houu » grave et prolongé ; en période de reproduction, variations avec « Houou hou hououououououou ». La femelle produit une série de « kwèk » aigus et secs, très distincte du hululement mâle.",
+ "lookalikes": [
+  {
+   "scientific_name": "Strix uralensis",
+   "common_name_fr": "Chouette de l'Oural",
+   "why_fr": "Même genre Strix, hululements graves similaires, mais plus grande (plus de 60 cm vs 37-43 cm)."
+  },
+  {
+   "scientific_name": "Asio otus",
+   "common_name_fr": "Hibou moyen-duc",
+   "why_fr": "Nocturne avec hululements, mais voix plus rauque et aigrettes sur la tête (absentes chez Strix aluco)."
+  },
+  {
+   "scientific_name": "Bubo bubo",
+   "common_name_fr": "Grand-duc d'Europe",
+   "why_fr": "Rapace nocturne mais beaucoup plus grand et vocalise différemment, bien que partage le même habitat."
+  },
+  {
+   "scientific_name": "Tyto alba",
+   "common_name_fr": "Effraie des clochers",
+   "why_fr": "Nocturne sympatrique mais disque facial blanc distinc et répertoire vocal complètement différent (cris aigus, ronflement)."
+  }
+ ],
+ "rarity_note": "Commun partout en France, avec une population estimée à 198 000 couples. Espèce la plus commune parmi les rapaces nocturnes européens, régulièrement détectée même en milieu urbain.",
+ "fun_facts": [
+  "Seule espèce de Strigidé à coloniser en permanence les villes, y compris les plus grandes comme Paris, Lyon et Marseille.",
+  "L'audition asymétrique de la chouette hulotte est 10 fois meilleure que celle d'un humain, lui permettant de chasser dans l'obscurité totale en se fiant uniquement aux sons.",
+  "Mâle et femelle chantent, ce qui est rare chez les passereaux ; leur duet vocal est une arme territoriale puissante, entendue même en plein hiver."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Chouette_hulotte",
+  "https://en.wikipedia.org/wiki/Tawny_owl",
+  "https://www.oiseaux.net/strix.aluco.html",
+  "https://www.lpo.fr/les-oiseaux/fiches-oiseaux/chouette-hulotte"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

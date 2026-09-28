@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Coturnix coturnix",
+ "summary_fr": "Petite caille au plumage brun très cryptique, la Caille des blés est bien plus souvent entendue que vue : son cri caractéristique, résumé par l'onomatopée « paye tes dettes », trahit sa présence dans les prairies, les champs de céréales et les friches sèches qu'elle affectionne. Plaquée au sol, elle préfère détaler en courant plutôt que s'envoler, et ne se perche jamais. Largement répandue en France du printemps à l'été, elle y niche surtout d'avril à août, avec une ponte concentrée en mai-juin. La majorité des oiseaux gagnent ensuite l'Afrique subsaharienne ou le sous-continent indien pour hiverner, l'une des plus longues migrations parmi les galliformes ; mais une minorité reste hiverner en France, surtout dans le sud et sur le littoral, ce qui explique des mentions ponctuelles toute l'année. Son régime alimentaire varie fortement selon la saison : graines et pousses de graminées dominent hors reproduction, tandis que chenilles, escargots et insectes complètent le menu des jeunes. Discrète et solitaire, elle défend un petit territoire durant la reproduction, et sa chair peut, curieusement, devenir toxique après ingestion de certaines plantes, un phénomène rare appelé coturnisme.",
+ "habitat": "Prairies, friches, champs de céréales ou de luzerne, zones sèches et bien drainées, généralement en dessous de 1 000 m d'altitude.",
+ "diet": "Graines et pousses de graminées, surtout hors reproduction ; chenilles, petits escargots et insectes, surtout pendant l'élevage des jeunes.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Essentiellement en Afrique subsaharienne et dans le sous-continent indien ; une minorité hiverne aussi en France, surtout dans le sud et sur le littoral, lors d'hivers doux.",
+  "niche": "France entière, surtout centre, sud et façade est, d'avril à août ; ponte principale en mai-juin.",
+  "passage": "Passages marqués en avril-mai puis août-septembre ; des individus isolés peuvent être détectés en dehors de cette période."
+ },
+ "seasonality_fr": "Détectable toute l'année en France, mais l'essentiel de la population n'est présent que d'avril à septembre ; les mentions hivernales, plus rares, concernent surtout le sud et le littoral atlantique.",
+ "song_fr": "Cri du mâle rappelant « paye tes dettes », répété quatre à huit fois et précédé d'un bref râle ; cri de la femelle, plus discret, proche de « piou-pioup ». Émis tôt le matin, en soirée, parfois la nuit.",
+ "lookalikes": [
+  {
+   "scientific_name": "Perdix perdix",
+   "common_name_fr": "Perdrix grise",
+   "why_fr": "Même famille des Phasianidae, cri répétitif dans un registre proche pouvant brouiller la signature acoustique pour BirdNET."
+  },
+  {
+   "scientific_name": "Alectoris rufa",
+   "common_name_fr": "Perdrix rouge",
+   "why_fr": "Galliforme de milieux ouverts similaires, appels répétés dont le spectrogramme peut se rapprocher de celui de la caille."
+  }
+ ],
+ "rarity_note": "Espèce peu commune et très discrète en France, surtout audible du printemps à l'été ; les mentions hors saison de reproduction restent occasionnelles, notamment dans le sud.",
+ "fun_facts": [
+  "Son cri caractéristique « paye tes dettes » permet de la repérer à l'oreille bien avant de l'apercevoir, tant elle reste cachée dans la végétation.",
+  "Sa chair peut devenir toxique après que l'oiseau a consommé certaines plantes comme la ciguë ou l'hellébore, un phénomène rare appelé coturnisme."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Caille_des_bl%C3%A9s",
+  "https://en.wikipedia.org/wiki/Common_quail",
+  "https://www.oiseaux.net/",
+  "https://inpn.mnhn.fr/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

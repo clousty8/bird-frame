@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Streptopelia turtur",
+ "summary_fr": "Gracieuse tourterelle aux ailes tachetées de noir, la Tourterelle des bois est le seul colombidé migrateur à longue distance d'Europe. Elle arrive des savanes africaines de mai à juin pour se reproduire en haies et taillis, puis repart dès fin juillet traverser le Sahara. Ses effectifs s'effondrent depuis 40 ans : 78 % de déclin en Europe occidentale, entre autres du fait de la chasse et des changements agricoles. Son roucoulement doux, étouffé, mélancolique, reconnaissable entre tous, résonne dans les cultures et les bocages au cœur de l'été. Élancée et svelte, elle se distingue de la Tourterelle turque par un manteau écaillé de noir perlé et une tache blanche rayée au côté du cou. Elle niche au sol ou à faible hauteur, dans un nid rudimentaire. En France, elle demeure localement commune dans les régions chaudes et agricoles, mais devient rare ou absente en montagne.",
+ "habitat": "Cultures, bocages, vergers, taillis, lisières de forêts et zones agricoles avec buissons. Préfère les habitats ouverts ou semi-ouverts offrant des ressources alimentaires et des sites de nidification.",
+ "diet": "Essentiellement granivore : petites graines de plantes adventices, blé, orge, tournesol et graines de pin. Se nourrit au sol, surtout dans les champs et jachères.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Savanes buissonnantes d'Afrique sahélienne, du Sénégal au Soudan, en dortoirs importants.",
+  "niche": "Partout en France sauf massifs montagneux, principalement de mai à juillet. Deux nichées possibles selon les années.",
+  "passage": "Arrivée de mi-avril à mi-mai en provenance d'Afrique du Nord. Départ massif fin juillet à août, derniers oiseaux fin septembre début octobre."
+ },
+ "seasonality_fr": "Présente et chantante de mai à septembre ; quelques individus en migration passent les autres mois. Pic d'activité acoustique mai-juillet lors de la reproduction.",
+ "song_fr": "Roucoulement doux et étouffé, mélancolique, produit surtout au crépuscule et en matinée. Cri d'alarme plus rude. Les mâles roucoulent longuement en sous-bois pour former les couples.",
+ "lookalikes": [
+  {
+   "scientific_name": "Streptopelia decaocto",
+   "common_name_fr": "Tourterelle turque",
+   "why_fr": "Roucoulement plus rauque et répétitif ; taille plus massive ; manteau uni gris-bleu sans motifs noirs."
+  },
+  {
+   "scientific_name": "Columba palumbus",
+   "common_name_fr": "Pigeon ramier",
+   "why_fr": "Roucoulement profond à 5 syllabes distincts ; beaucoup plus gros ; taches blanches au cou."
+  },
+  {
+   "scientific_name": "Columba oenas",
+   "common_name_fr": "Pigeon colombin",
+   "why_fr": "Roucoulement simple et court ; plumage gris uniforme sans écailles noires."
+  }
+ ],
+ "rarity_note": "Modérément commune en France, surtout régions chaudes et agricoles (ouest, centre, sud-ouest). Absente des massifs montagneux. En déclin rapide mais encore largement détectable en période de reproduction.",
+ "fun_facts": [
+  "Seul colombidé d'Europe à migrer sur plus de 4000 km chaque année, traversant le Sahara pour hiverner en Afrique sub-sahélienne.",
+  "En plein déclin : la population française perd 1-2 % de ses effectifs chaque année, victimes de la chasse et des changements agricoles.",
+  "Contrairement à la Tourterelle turque envahissante, elle fuit les zones urbaines et reste confinée dans la végétation, d'où son surnom « timide »."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Tourterelle_des_bois",
+  "https://en.wikipedia.org/wiki/European_turtle_dove",
+  "https://www.oiseaux.net/oiseaux/tourterelle.des.bois.html",
+  "https://www.lpo.fr/la-lpo/actualites/la-tourterelle-des-bois-en-france-et-en-europe",
+  "https://inpn.mnhn.fr/espece/cd_nom/4518"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

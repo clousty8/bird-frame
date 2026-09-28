@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Limosa limosa",
+ "summary_fr": "Grande limicole aux longues pattes et long bec, la Barge à queue noire est un migrateur emblématique des zones humides françaises. Le mâle en plumage nuptial affiche une gorge et une poitrine orange vif, tandis que les deux sexes présentent en vol un motif distinctif de barre alaire blanche et queue noire. Fidèle à ses sites de reproduction, elle revient chaque printemps aux prés humides pour nicher à même le sol. En hiver et lors des migrations, elle fréquente estuaires, lagunes et bassins de décantation où elle sonde la vase à la recherche de proies. Longévity remarquable, avec des individus bagués observés plus de 17 ans après leur marquage. Espèce vulnérable, en déclin en Europe du Nord, elle subit la fragmentation de ses habitats et la destruction des zones humides qui menacent ses populations.",
+ "habitat": "Prés humides et marais pendant la reproduction. Estuaires, lagunes, vasières, bassins de décantation et zones inondées en hiver et migration.",
+ "diet": "Invertébrés, principalement annélides et vers de terre. En hiver en estuaires, petits bivalves et vers marins ; adaptation aux proies disponibles.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Baie de l'Aiguillon en Charente-Maritime rassemble 30 à 50 % des oiseaux hivernant en France. Autres hivernages côtiers français et en Afrique de l'Ouest.",
+  "niche": "Prés humides du nord-est de la France pour la sous-espèce L. l. limosa, niche surtout en Europe du Nord et centrale.",
+  "passage": "Passages marqués en mars et d'octobre à novembre."
+ },
+ "seasonality_fr": "Visible surtout d'avril à septembre en France. Présente toute l'année, mais densité variable selon les saisons et les populations (nicheuses, hivernantes, de passage).",
+ "song_fr": "Cri strident et caractéristique « weeka-weeka-weeka ». Appel d'alarme sec rappelant celui du Chevalier combattant.",
+ "lookalikes": [
+  {
+   "scientific_name": "Limosa lapponica",
+   "common_name_fr": "Barge rousse",
+   "why_fr": "Bec légèrement recourbé vers le haut, absence de barre alaire blanche marquée, queue uniforme."
+  },
+  {
+   "scientific_name": "Tringa totanus",
+   "common_name_fr": "Chevalier gambette",
+   "why_fr": "Beaucoup plus petit, cri très différent, pattes rouges en période nuptiale."
+  }
+ ],
+ "rarity_note": "Régulière en France, peu commune en région centre. Présente toute l'année avec densité variable. Plus abondante en hiver côtier, en baie de l'Aiguillon notamment.",
+ "fun_facts": [
+  "Les oiseaux bagués aux Pays-Bas montrent une fidélité exceptionnelle : ils reviennent nicher sur le même territoire chaque année, au point que les couples se retrouvent en trois jours en moyenne.",
+  "Très sensible aux dérangements humains : le simple passage répété de randonneurs réduit les densités de nidification jusqu'à 500 m autour des chemins.",
+  "En hiver, elle adopte les rizières du Portugal et d'Ibérie, utilisant le riz enfoui comme source alimentaire majeure."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Barge_%C3%A0_queue_noire",
+  "https://en.wikipedia.org/wiki/Black-tailed_godwit",
+  "https://www.oiseaux.net/fiche/Barge.a.queue.noire.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

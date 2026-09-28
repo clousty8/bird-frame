@@ -1,0 +1,68 @@
+{
+ "scientific_name": "Oxyura jamaicensis",
+ "common_name_fr": "Érismature rousse",
+ "birdnet_label": "Oxyura jamaicensis_Érismature rousse",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Oxyura",
+  "species": "Oxyura jamaicensis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Érismature rousse",
+   "url": "https://fr.wikipedia.org/wiki/%C3%89rismature_rousse",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Érismature rousse est une espèce de canards qui possède une caractéristique particulière : elle préfère fuir le danger à la nage ou en plongée plutôt que de s'éloigner à tire-d'aile. En vol, ses petites ailes battent si vite qu'elles bourdonnent.",
+   "fulltext_chars": 2908
+  },
+  "en": {
+   "title": "Ruddy duck",
+   "url": "https://en.wikipedia.org/wiki/Ruddy_duck",
+   "description": "Species of bird",
+   "extract": "The ruddy duck is a species of duck, one of six extant species of stiff-tailed duck. In the 1940s, the ruddy duck was introduced to the United Kingdom, where it established a population. Outside the Americas, the ruddy duck is considered a highly invasive species, prompting many countries to initiate culling projects to eradicate it from the native ecosystem.",
+   "fulltext_chars": 0
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ruddy_Duck_Full_Size_%28206584579%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1538,
+  "file": "Ruddy_Duck_Full_Size_(206584579).jpeg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Ruddy_Duck_Full_Size_%28206584579%29.jpeg/1920px-Ruddy_Duck_Full_Size_%28206584579%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Michael Warnock",
+  "credit": "Imported from 500px (archived version) by the Archive Team. (detail page)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Ruddy_Duck_Full_Size_(206584579).jpeg"
+ },
+ "france_universe": {
+  "max_score": 0.0183,
+  "cities": {
+   "Brest": 0.018,
+   "Ajaccio": 0.011
+  },
+  "monthly_scores": [
+   0.0183,
+   0.0142,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0145,
+   0.0177
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:17Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "scientific_name": "Tyto alba",
+  "summary_fr": "L'Effraie des clochers, aussi connue sous les noms de chouette effraie ou dame blanche, est l'une des chouettes les plus répandues au monde. Reconnaissable à son masque facial blanc caractéristique en forme de cœur, elle possède un plumage gris-brun sur le dos et blanchâtre dessous. C'est une excellente chasseresse nocturne qui se nourrit presque exclusivement de petits rongeurs : campagnols, mulots, souris. Son ouïe exceptionnelle, grâce à ses oreilles asymétriques et son disque facial, lui permet de localiser ses proies par le seul son, même en complète obscurité. Elle s'installe volontiers dans les clochers d'églises, les greniers des fermes et les combles des vieux bâtiments pour nicher et chasser depuis les champs ou prairies environnantes. Son vol est fameux pour son silence quasi absolu, grâce à sa morphologie alaire unique. En France, elle est sédentaire mais reçoit des renforts de populations migratrices l'automne.",
+  "habitat": "Zones ouvertes à semi-ouvertes : prairies, champs cultivés, marais, haies et bocages. Chasse au-dessus de terrains dégagés et niche dans des bâtiments isolés, clochers, granges ou combles.",
+  "diet": "Petits rongeurs (campagnols, mulots, souris) à 95%, plus rarement musaraignes, belettes, petits oiseaux et insectes. Peut ingérer jusqu'à 4 proies par nuit.",
+  "activity_pattern": "nocturne",
+  "migration": {
+    "statut": "migrateur partiel",
+    "hiverne": "La majorité des oiseaux français restent en place l'hiver, mais les populations septentrionales et orientales deviennent nomades lors de la pénurie de rongeurs.",
+    "niche": "Partout en France, nichant deux fois par an au printemps et en été selon l'abondance des proies. Pond de 4 à 15 œufs.",
+    "passage": "Arrivée et regroupement des migrateurs nord-européens à l'automne, passages notables en septembre-octobre et déplacements réguliers en février-mars."
+  },
+  "seasonality_fr": "Présente toute l'année en France. Plus discrète le jour où elle dort mais active dès la tombée de la nuit. Cris et chants audibles surtout d'automne en hiver.",
+  "song_fr": "Cri caractéristique : chuintement aigu ressemblant à un ronflement ou chuchotement strident (« khrûh »), parfois des soupirs humains. Claquements de bec quand dérangée. Cris d'alarme perçants.",
+  "lookalikes": [
+    {"scientific_name": "Asio otus", "common_name_fr": "Hibou moyen-duc", "why_fr": "Autres cris rauques et perçants de chouette nocturne pouvant prêter à confusion chez le non-expert."},
+    {"scientific_name": "Asio flammeus", "common_name_fr": "Hibou des marais", "why_fr": "Même habillement (apparence pâle) et vocalisations graves et étouffées parfois semblables."},
+    {"scientific_name": "Strix aluco", "common_name_fr": "Chouette hulotte", "why_fr": "Appels rauques d'autres strigiformes pouvant se confondre pour l'auditeur non averti."}
+  ],
+  "rarity_note": "Très commune partout en France, toute l'année. Score de détection élevé dans l'univers BirdNET (max_score 0.1877), régulière dans les jardins et zones cultivées.",
+  "fun_facts": [
+    "Son vol est le plus silencieux de tous les oiseaux de la planète grâce à ses plumes spécialisées avec des franges molles et des denticules réduisant la turbulence.",
+    "Elle repère ses proies à l'ouïe seule dans le noir total en exploitant l'asymétrie de ses oreilles pour une localisation stéréophonique verticale.",
+    "Longtemps diabolisée au Moyen Âge, elle était clouée sur les portes des granges pour conjurer le mauvais sort."
+  ],
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Effraie_des_clochers",
+    "https://en.wikipedia.org/wiki/Western_barn_owl",
+    "https://www.oiseaux.net/species/tyto-alba.html"
+  ],
+  "generated_at": "2026-09-27T17:00:00Z",
+  "generator_model": "claude-haiku-4-5"
+}

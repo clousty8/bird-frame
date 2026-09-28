@@ -1,0 +1,89 @@
+{
+ "scientific_name": "Hieraaetus pennatus",
+ "common_name_fr": "Aigle botté",
+ "birdnet_label": "Hieraaetus pennatus_Aigle botté",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Hieraaetus",
+  "species": "Hieraaetus pennatus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Aigle botté",
+   "url": "https://fr.wikipedia.org/wiki/Aigle_bott%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Aigle botté est une espèce d'oiseaux appartenant à la famille des Accipitridae. Sa taille est proche de celle d’une buse variable, autre rapace diurne bien plus commun en Europe. On discerne plusieurs formes (plumage) allant du clair au sombre, indépendantes du sexe des individus.",
+   "fulltext_chars": 10306
+  },
+  "en": {
+   "title": "Booted eagle",
+   "url": "https://en.wikipedia.org/wiki/Booted_eagle",
+   "description": "Species of bird",
+   "extract": "The booted eagle is a medium-sized mostly migratory bird of prey with a wide distribution in the Palearctic and southern Asia, wintering in the tropics of Africa and Asia, with a small, disjunct breeding population in south-western Africa. Like all eagles, it belongs to the family Accipitridae.",
+   "fulltext_chars": 8628
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/69/Booted_Eagle_NAUMANN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1102,
+  "height": 1457,
+  "file": "Booted_Eagle_NAUMANN.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/6/69/Booted_Eagle_NAUMANN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Booted_Eagle_NAUMANN.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.274,
+  "cities": {
+   "Poitiers": 0.015,
+   "Lyon": 0.039,
+   "Grenoble": 0.048,
+   "Marseille": 0.128,
+   "Toulouse": 0.163,
+   "Bordeaux": 0.1,
+   "Ajaccio": 0.274,
+   "Clermont-Ferrand": 0.048,
+   "Chamonix": 0.023,
+   "Perpignan": 0.155
+  },
+  "monthly_scores": [
+   0.2084,
+   0.2481,
+   0.274,
+   0.2231,
+   0.137,
+   0.1115,
+   0.1108,
+   0.1464,
+   0.1376,
+   0.1532,
+   0.2004,
+   0.2162
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:14Z"
+}

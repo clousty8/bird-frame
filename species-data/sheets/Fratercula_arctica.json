@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Fratercula arctica",
+ "summary_fr": "Le Macareux moine est un alcidé marin caractéristique du nord de l'Atlantique, célèbre pour sa silhouette trapue, son allure de manchot sur terre et son bec massif vivement coloré en période nuptiale. Cet oiseau pélagique passe la majorité de l'année en haute mer, ne regagnant les côtes rocheuses que pour se reproduire dans des terriers creusés en colonies denses. En France, il ne fréquente que les côtes bretonnes, principalement aux Sept-Îles, avec une population résiduelle estimée à moins de 200 couples. Pêcheur habile plongeant en eaux froides, il capture de petits poissons fourrages. Doté d'une impressionnante durée de vie pouvant atteindre 35 ans, il demeure fidèle à ses lieux de reproduction, où il émet des cris plaintifs et grinçants particuliers à la colonie.",
+ "habitat": "Océan Atlantique nord, côtes rocheuses avec falaises ou pentes herbeuses pour la nidification, haute mer le reste de l'année.",
+ "diet": "Petits poissons fourrages (lançon, hareng, sprat, capelan) capturés en plongée ; occasionnellement crustacés et mollusques.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": "Colonie côtière bretonne de mai à août, creusant des terriers où un seul œuf est pondu et incubé 40 à 43 jours ; envol des jeunes en juillet-août.",
+  "passage": "Mars-avril : arrivée aux colonies ; août-septembre : départ vers l'océan Atlantique. N'hiverne pas en France."
+ },
+ "seasonality_fr": "Visible et audible uniquement de mars à juillet sur les côtes bretonnes, lors de la saison de reproduction. Absent le reste de l'année.",
+ "song_fr": "Cris plaintifs et grinçants de tonalité grave, ressemblant à un « arrr-ouh » rauque, émis depuis les terriers et à proximité des nids ; présent surtout à l'aube et au crépuscule.",
+ "lookalikes": [
+  {
+   "scientific_name": "Alle alle",
+   "common_name_fr": "Mergule nain",
+   "why_fr": "Silhouette similaire en plumage hivernal, confusion possible ; cris aigus distincts."
+  },
+  {
+   "scientific_name": "Cepphus grylle",
+   "common_name_fr": "Guillemot à miroir",
+   "why_fr": "Alcidé de taille comparable avec plumage noir et blanc ; voix plus aiguë et sifflante."
+  }
+ ],
+ "rarity_note": "Très rare en France : ne se reproduit qu'exceptionnellement en Bretagne avec une population déclinante de 150 à 187 couples estimés. Aucune présence en hiver.",
+ "fun_facts": [
+  "Le Macareux moine peut tenir jusqu'à trente petits poissons à la fois entre sa langue rainurée et son bec pourvu de dentelures inversées.",
+  "Il est l'emblème de la Ligue pour la protection des oiseaux depuis 1912, sauvé de l'extinction par les ornithologues français qui ont imposé sa protection.",
+  "Ses poussins au premier envol sont attirés par les lumières artificielles et s'échouent au sol ; des enfants islandais les ramassent chaque été pour les relâcher en mer."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Macareux_moine",
+  "https://en.wikipedia.org/wiki/Atlantic_puffin",
+  "https://www.oiseaux.net/oiseaux/macareux.moine.html",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/4427",
+  "https://www.lpo.fr/qui-sommes-nous/l-histoire-de-la-lpo"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

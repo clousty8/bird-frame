@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Delichon urbicum",
+ "summary_fr": "L'Hirondelle de fenêtre est un petit passereau au plumage bleu acier avec un croupion blanc très visible, caractéristique qui la distingue des autres hirondelles. Elle est bien plus urbaine que ses cousines, construisant ses nids fermés sous les avant-toits des maisons en colonies parfois massives. Excellente aérienne, elle se nourrit exclusivement d'insectes qu'elle capture en vol, particulièrement des mouches et des pucerons. Contrairement à la plupart des oiseaux, mâle et femelle chantent : un gazouillement incessant et peu structuré mais caractéristique, renforcé encore par les cris d'alarme aigus qu'elle pousse face au danger. Migrante sur longue distance, elle quitte la France en octobre pour l'Afrique subsaharienne et revient entre avril et mai. Son histoire est intimement liée à l'essor urbain européen, qui lui a fourni des milliers de nouveaux sites de nidification, bien que ses populations aient connu des déclins marqués depuis les années 1970.",
+ "habitat": "Zones urbaines et péri-urbaines, parcs, jardins, falaises côtières. Elle niche sous les avant-toits, les corniches et les structures humaines. Habitats ouverts avec eau à proximité pendant la reproduction.",
+ "diet": "Insectes aériens : mouches, pucerons, petits diptères et hyménoptères. Chasse en moyenne à 21 mètres de hauteur, avec préférence pour les terrains ouverts près de l'eau.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne et Asie tropicale, de novembre à mars.",
+  "niche": "Toute la France métropolitaine, d'avril à septembre, deux à trois nichées par an.",
+  "passage": "Passages importants en avril-mai (retour) et septembre-octobre (départ)."
+ },
+ "seasonality_fr": "Visible de mi-avril à fin octobre dans les zones urbaines et rurales ; absente en hiver. Présente et audible surtout en juin-juillet lors de la nidification.",
+ "song_fr": "Gazouillement incessant et peu mélodieux, produit aussi bien par le mâle que la femelle. Cris de contact réguliers « tshirp » ; cri d'alarme aigu « tchièrr ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Hirundo rustica",
+   "common_name_fr": "Hirondelle rustique",
+   "why_fr": "Hirondelle commune très similaire acoustiquement ; cris de contact et appels comparables."
+  },
+  {
+   "scientific_name": "Riparia riparia",
+   "common_name_fr": "Hirondelle de rivage",
+   "why_fr": "Passereau migrateur au cri d'alarme et gazouillements ressemblant à ceux de l'Hirondelle de fenêtre."
+  }
+ ],
+ "rarity_note": "Commune et régulière en France métropolitaine. Présente dans tous les départements lors des périodes de migration et reproduction printanière.",
+ "fun_facts": [
+  "Mâle et femelle chantent ensemble, une rareté chez les passereaux français.",
+  "Elle construit son nid grain de boue par grain, ce qui peut prendre dix à dix-huit jours.",
+  "Ses populations françaises ont décliné de 41 % entre 1989 et 2009 selon le MNHN."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Hirondelle_de_fen%C3%AAtre",
+  "https://en.wikipedia.org/wiki/Western_house_martin",
+  "https://oiseaux.net",
+  "https://www.lpo.fr",
+  "https://inpn.mnhn.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

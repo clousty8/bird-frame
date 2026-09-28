@@ -1,0 +1,89 @@
+{
+ "scientific_name": "Anthus petrosus",
+ "common_name_fr": "Pipit maritime",
+ "birdnet_label": "Anthus petrosus_Pipit maritime",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Motacillidae",
+  "family_common": "Wagtails and Pipits",
+  "genus": "Anthus",
+  "species": "Anthus petrosus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pipit maritime",
+   "url": "https://fr.wikipedia.org/wiki/Pipit_maritime",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pipit maritime est une espèce de passereaux appartenant à la famille des Motacillidae.",
+   "fulltext_chars": 2745
+  },
+  "en": {
+   "title": "European rock pipit",
+   "url": "https://en.wikipedia.org/wiki/European_rock_pipit",
+   "description": "Small passerine bird that breeds in western Europe",
+   "extract": "The European rock pipit, or simply rock pipit, is a species of small passerine bird that breeds in western Europe on rocky coasts. It has streaked greyish-brown upperparts and buff underparts, and is similar in appearance to other European pipits. There are two subspecies, of which the nominate is non-migratory, and the Fennoscandian one is migratory, wintering in shoreline habitats further west and south in Europe. The European rock pipit is territorial at least in the breeding season, and year-round where it is resident. Males will sometimes enter an adjacent territory to assist the resident in repelling an intruder, behaviour only otherwise known from the African fiddler crab.",
+   "fulltext_chars": 12614
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Anthus_petrosus0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 794,
+  "height": 737,
+  "file": "Anthus_petrosus0.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/4/49/Anthus_petrosus0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "MPF",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Anthus_petrosus0.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4192,
+  "cities": {
+   "Le Mans": 0.089,
+   "Pornic": 0.258,
+   "Rennes": 0.246,
+   "Poitiers": 0.076,
+   "Paris": 0.031,
+   "Lille": 0.047,
+   "Toulouse": 0.012,
+   "Bordeaux": 0.054,
+   "Brest": 0.419,
+   "Clermont-Ferrand": 0.014
+  },
+  "monthly_scores": [
+   0.3209,
+   0.2991,
+   0.3686,
+   0.3599,
+   0.2695,
+   0.2881,
+   0.2998,
+   0.215,
+   0.2505,
+   0.4192,
+   0.3645,
+   0.3377
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:12Z"
+}

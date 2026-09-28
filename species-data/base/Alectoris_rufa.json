@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Alectoris rufa",
+ "common_name_fr": "Perdrix rouge",
+ "birdnet_label": "Alectoris rufa_Perdrix rouge",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Galliformes",
+  "family": "Phasianidae",
+  "family_common": "Pheasants, Grouse, and Allies",
+  "genus": "Alectoris",
+  "species": "Alectoris rufa"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Perdrix rouge",
+   "url": "https://fr.wikipedia.org/wiki/Perdrix_rouge",
+   "description": "espèce d'oiseaux",
+   "extract": "La Perdrix rouge est une espèce d'oiseaux de la famille des Phasianidae.",
+   "fulltext_chars": 11147
+  },
+  "en": {
+   "title": "Red-legged partridge",
+   "url": "https://en.wikipedia.org/wiki/Red-legged_partridge",
+   "description": "Species of bird",
+   "extract": "The red-legged partridge is a gamebird in the pheasant family Phasianidae of the order Galliformes, gallinaceous birds. It is sometimes known as French partridge, to distinguish it from the English or grey partridge. The genus name is from Ancient Greek alektoris a farmyard chicken, and rufa is Latin for red or rufous.",
+   "fulltext_chars": 7002
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/82/AlectorisRufa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2018,
+  "height": 2034,
+  "file": "AlectorisRufa.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/AlectorisRufa.jpg/1920px-AlectorisRufa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Arturo Nikolai",
+  "credit": "originally posted to Flickr as PERDIZ ROJA (Alectoris rufa)1",
+  "description_url": "https://commons.wikimedia.org/wiki/File:AlectorisRufa.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1639,
+  "cities": {
+   "Le Mans": 0.043,
+   "Pornic": 0.034,
+   "Rennes": 0.032,
+   "Poitiers": 0.052,
+   "Paris": 0.044,
+   "Lille": 0.044,
+   "Strasbourg": 0.034,
+   "Lyon": 0.072,
+   "Grenoble": 0.075,
+   "Marseille": 0.116,
+   "Toulouse": 0.135,
+   "Bordeaux": 0.085,
+   "Brest": 0.022,
+   "Ajaccio": 0.13,
+   "Clermont-Ferrand": 0.069,
+   "Chamonix": 0.053,
+   "Perpignan": 0.164,
+   "Nancy": 0.045
+  },
+  "monthly_scores": [
+   0.1325,
+   0.132,
+   0.1639,
+   0.1394,
+   0.1004,
+   0.0963,
+   0.0961,
+   0.0899,
+   0.0879,
+   0.1096,
+   0.1303,
+   0.1329
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:29Z"
+}

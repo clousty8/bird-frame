@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Apus melba",
+ "summary_fr": "Le Martinet à ventre blanc, aussi appelé Martinet alpin, est l'un des plus grands martinets d'Europe : 20 à 22 cm de long pour une envergure de 51 à 58 cm, nettement plus grande que celle du Martinet noir. Son ventre et sa gorge blancs, séparés par un collier brun sur un plumage brun-olivâtre, le distinguent aussitôt en vol. Comme tous les martinets, il passe l'essentiel de sa vie dans les airs : il boit, chasse et dort en plein ciel, laissant reposer tour à tour chacun de ses deux hémisphères cérébraux, une prouesse qui lui permet de rester en vol plusieurs mois sans jamais se poser. En France, il se reproduit surtout dans le quart sud-est, en colonies sur des falaises ou de hauts bâtiments ensoleillés, avant de repartir hiverner en Afrique subsaharienne ; quelques individus isolés sont toutefois signalés hors de cette période. Insectivore strict, il capture en plein vol mouches, guêpes, coléoptères et punaises. Son cri est un gazouillis aigu et saccadé, lancé en chœur lors des poursuites bruyantes autour des colonies.",
+ "habitat": "Zones de relief du bassin méditerranéen : falaises, gorges rocheuses et façades de hauts bâtiments ensoleillés, généralement en dessous de 1500 m d'altitude, parfois jusqu'à 2300 m.",
+ "diet": "Exclusivement des insectes capturés en plein vol : diptères, hyménoptères, coléoptères, homoptères et punaises, ainsi que quelques araignées.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "estivant",
+  "hiverne": "Hors de France, en Afrique subsaharienne (ouest, centre et est du continent).",
+  "niche": "Quart sud-est de la France d'avril à septembre : Alpes, Pyrénées, massifs provençaux et colonies urbaines comme Colmar.",
+  "passage": "Passages migratoires en avril-mai puis en août-septembre ; quelques individus isolés sont parfois notés en dehors de ces périodes."
+ },
+ "seasonality_fr": "Présent en France principalement d'avril à septembre pour nicher ; la plupart des oiseaux hivernent en Afrique subsaharienne, mais de rares observations isolées surviennent à d'autres saisons.",
+ "song_fr": "Cri perçant, un gazouillis aigu et saccadé, souvent lancé en groupe en vol lors de poursuites bruyantes autour des sites de nidification.",
+ "lookalikes": [
+  {
+   "scientific_name": "Apus apus",
+   "common_name_fr": "Martinet noir",
+   "why_fr": "Silhouette et cris de martinet similaires, mais le Martinet noir est nettement plus petit et entièrement sombre, sans ventre blanc."
+  },
+  {
+   "scientific_name": "Riparia riparia",
+   "common_name_fr": "Hirondelle de rivage",
+   "why_fr": "Taille et couleurs proches à distance, mais l'Hirondelle de rivage a des ailes plus courtes et un vol plus papillonnant."
+  }
+ ],
+ "rarity_note": "Espèce présente essentiellement dans le sud-est de la France, en particulier en zone méditerranéenne et alpine, avec une présence localement conséquente en période de nidification.",
+ "fun_facts": [
+  "Il peut rester en vol sans se poser pendant plus de deux cents jours d'affilée, dormant en plein ciel.",
+  "Avec une envergure pouvant atteindre 58 cm, c'est l'un des plus grands martinets d'Europe, nettement plus grand que le Martinet noir.",
+  "Son nid, fait de plumes et de feuilles collées avec de la salive, est bâti en colonies sur des falaises ou de hauts édifices."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Martinet_%C3%A0_ventre_blanc",
+  "https://en.wikipedia.org/wiki/Alpine_swift",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T22:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

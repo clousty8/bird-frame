@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Phoenicopterus roseus",
+ "common_name_fr": "Flamant rose",
+ "birdnet_label": "Phoenicopterus roseus_Flamant rose",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Phoenicopteriformes",
+  "family": "Phoenicopteridae",
+  "family_common": "Flamingos",
+  "genus": "Phoenicopterus",
+  "species": "Phoenicopterus roseus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Flamant rose",
+   "url": "https://fr.wikipedia.org/wiki/Flamant_rose",
+   "description": "espèce d'oiseaux du genre Phoenicopterus",
+   "extract": "Le Flamant rose est une espèce d'oiseaux Phoenicopteriformes de la famille des Phoenicopteridae. C'est l'espèce de flamant la plus répandue. Il est présent dans certaines parties de l'Afrique, de l'Asie et du sud de l'Europe.",
+   "fulltext_chars": 22577
+  },
+  "en": {
+   "title": "Greater flamingo",
+   "url": "https://en.wikipedia.org/wiki/Greater_flamingo",
+   "description": "Species of bird",
+   "extract": "The greater flamingo is the largest and most widespread species of the flamingo family. Common in the Old World, they are found in Northern (coastal) and Sub-Saharan Africa, the Indian subcontinent, Central Asia, the Middle East, the Levant, the Persian Gulf, the Gulf of Aden, the Red Sea, and the Mediterranean countries of Southern Europe.",
+   "fulltext_chars": 6414
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flamant_Rose_Villeneuve-l%C3%A8s-Maguelone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4435,
+  "height": 2956,
+  "file": "Flamant_Rose_Villeneuve-lès-Maguelone.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Flamant_Rose_Villeneuve-l%C3%A8s-Maguelone.jpg/1920px-Flamant_Rose_Villeneuve-l%C3%A8s-Maguelone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Alexandre Benbrik",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Flamant_Rose_Villeneuve-l%C3%A8s-Maguelone.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4113,
+  "cities": {
+   "Poitiers": 0.014,
+   "Strasbourg": 0.013,
+   "Lyon": 0.073,
+   "Grenoble": 0.097,
+   "Marseille": 0.198,
+   "Toulouse": 0.156,
+   "Bordeaux": 0.053,
+   "Ajaccio": 0.411,
+   "Clermont-Ferrand": 0.076,
+   "Chamonix": 0.062,
+   "Perpignan": 0.213,
+   "Nancy": 0.01
+  },
+  "monthly_scores": [
+   0.4113,
+   0.3911,
+   0.3769,
+   0.2832,
+   0.1809,
+   0.1649,
+   0.1985,
+   0.2207,
+   0.2483,
+   0.3031,
+   0.3534,
+   0.3961
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:13Z"
+}

@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Apus pallidus",
+ "summary_fr": "Le Martinet pâle est un petit apodiforme côtier, presque jumeau du Martinet noir dont il se distingue par un plumage un peu plus clair, un œil sombre bien visible, un ventre plus marbré et écailleux et des ailes plus droites. Comme tous les martinets, il passe l'essentiel de sa vie dans les airs, ne se posant que pour nicher, sur les toitures des villes côtières ou dans les falaises rocheuses et montagneuses. Il capture au vol insectes et araignées portés par le vent, parfois en formant des balles alimentaires pour ses jeunes. En France, où la population reste modeste, entre 1500 et 2500 couples, il niche sur le pourtour méditerranéen et la façade atlantique, avec des colonies plus récentes et isolées à Toulouse, Lyon et Besançon. Migrateur au long cours, il arrive dès avril, souvent avant le Martinet noir, et peut s'attarder jusqu'en décembre avant de rejoindre ses quartiers d'hiver au sud du Sahara. Son cri, un peu plus grave et dissyllabique, aide parfois à le repérer, mais la confusion avec le Martinet noir reste facile sans écoute comparative ou lecture de sonagramme.",
+ "habitat": "Côtes rocheuses et falaises méditerranéennes et atlantiques, toitures de bâtiments dans les agglomérations côtières ; quelques colonies isolées à l'intérieur des terres.",
+ "diet": "Insectes volants (diptères, hyménoptères, petits coléoptères) et araignées capturés en vol, souvent regroupés en boulettes pour nourrir les jeunes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Au sud du Sahara, en Afrique subsaharienne, avec plusieurs zones d'hivernage successives selon le suivi GPS de nicheurs de Gibraltar.",
+  "niche": "Côtes méditerranéenne et atlantique françaises, plus quelques colonies intérieures à Toulouse, Lyon et Besançon, d'avril à juillet.",
+  "passage": "Passages marqués en avril-mai puis en août-septembre."
+ },
+ "seasonality_fr": "Présent en France d'avril à décembre, avec un pic de présence entre avril et septembre ; les départs les plus tardifs interviennent en décembre.",
+ "song_fr": "Cri sec et criard, un peu plus grave et dissyllabique que celui du Martinet noir, mais la confusion reste facile sans écoute comparative.",
+ "lookalikes": [
+  {
+   "scientific_name": "Apus apus",
+   "common_name_fr": "Martinet noir",
+   "why_fr": "Cris sociaux très proches ; seule une écoute comparative ou un sonagramme permet de trancher avec certitude."
+  },
+  {
+   "scientific_name": "Apus melba",
+   "common_name_fr": "Martinet à ventre blanc",
+   "why_fr": "Cohabite en Méditerranée ; cri plus puissant et trille caractéristique, mais peut se mêler aux mêmes groupes en vol."
+  }
+ ],
+ "rarity_note": "Rare et localisé en France, cantonné aux côtes méditerranéenne et atlantique et à de rares colonies intérieures, mais régulier et fidèle à ses sites.",
+ "fun_facts": [
+  "Il ne se pose quasiment jamais de son vivant, dormant, s'accouplant et même s'alimentant en plein vol.",
+  "Le suivi GPS de nicheurs de Gibraltar révèle plusieurs zones d'hivernage différentes en Afrique au cours d'un même hiver.",
+  "Plus méridional que le Martinet noir, il arrive souvent plus tôt au printemps et repart plus tard en automne."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Martinet_p%C3%A2le",
+  "https://en.wikipedia.org/wiki/Pallid_swift",
+  "https://www.oiseaux.net",
+  "https://www.lpo.fr",
+  "https://www.inpn.mnhn.fr"
+ ],
+ "generated_at": "2026-09-27T21:30:00Z",
+ "generator_model": "claude-sonnet-5"
+}

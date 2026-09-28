@@ -1,0 +1,49 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Emberiza cirlus",
+ "summary_fr": "Le Bruant zizi est un petit passereau méditerranéen bien connu pour sa silhouette traçue et son plumage contrasté. Le mâle affiche une tête jaune rayée de noir avec une calotte brun olivâtre et une bavette noire distincte, tandis que le dos est roux et la poitrine jaunâtre traversée d'une bande olivâtre. La femelle, plus terne, ressemble au Bruant jaune mais s'en distingue par son croupion olivâtre strié. Résidant permanent des régions méditerranéennes et du sud de la France, il fréquente les paysages semi-ouverts ensoleillés avec haies, buissons et vergers. Son chant, un bref trille monotone et perçant souvent répété, est l'une de ses signatures sonores les plus reconnaissables lors des séjours en terrain favorable.",
+ "habitat": "Zones découvertes ou faiblement arborées et ensoleillées : champs avec haies, buissons ou arbres, orées de parcs, vergers et jardins. Préfère les endroits vallonnés ou pentus exposés au sud, jusqu'à 1500 m d'altitude.",
+ "diet": "Granivore à tendance omnivore : graines de champs, caryopses, baies et arthropodes. En été, consomme davantage d'invertébrés (sauterelles, criquets) pour nourrir les oisillons.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": null,
+  "niche": "buissons bas et denses (ronces, aubépine, prunellier, genêt)",
+  "passage": null
+ },
+ "seasonality_fr": "Présent en France toute l'année. Les populations méditerranéennes sont sédentaires, bien que les individus puissent se déplacer légèrement vers le sud lors d'hivers rigoureux. Reproduction avril à juillet (pic mai-juin) avec généralement deux couvées annuelles.",
+ "song_fr": "Chant caractéristique : bref trille monotone, répété et perçant, ressemblant à celui du Tarier des prés ou à la tonalité finale du Fauvette babillarde. D'où son nom français altération de « bruyant ». Émis depuis une position dégagée par le mâle en période nuptiale.",
+ "lookalikes": [
+  {
+   "scientific_name": "Emberiza citrinella",
+   "common_name_fr": "Bruant jaune",
+   "why_fr": "La femelle Bruant zizi ressemble au Bruant jaune, mais se distingue par ses marques faciales plus foncées, son croupion olivâtre strié (non jaune) et le dessin différent de la poitrine."
+  },
+  {
+   "scientific_name": "Emberiza calandra",
+   "common_name_fr": "Bruant proyer",
+   "why_fr": "Bunting plus massif avec des zones claires en vol semblables, mais chant plus lourd et silhouette plus robuste. Habitats similaires causent confusions acoustiques."
+  },
+  {
+   "scientific_name": "Emberiza schoeniclus",
+   "common_name_fr": "Bruant des roseaux",
+   "why_fr": "Autre bunting avec chant trillé, mais structure différente du motif tête/gorge et habitat de prédilection plus marécageux que le Bruant zizi."
+  }
+ ],
+ "rarity_note": "Espèce régulière et bien établie en France méridionale et centrale (score max 0,47). Fréquent à commun du sud du Massif central jusqu'aux zones méditerranéennes. Moins courant vers le nord (Île-de-France, Nord), où les observations restent hivales et sporadiques.",
+ "fun_facts": [
+  "Introduit en Nouvelle-Zélande au XIXe siècle, où existe toujours une population persistante dans l'île du Sud, isolée depuis plus de cent ans du stock européen.",
+  "Le village de Stokeinteignhead en Cornouailles (Devon) a choisi le Bruant zizi comme mascotte officiel, à cause de sa présence dans la région où il était autrefois bien plus répandu.",
+  "Capable de se reproduire dès l'âge d'un an et de produire trois couvées exceptionnellement en une saison, cette espèce compense les pertes par sa flexibilité reproductive."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bruant_zizi",
+  "https://en.wikipedia.org/wiki/Cirl_bunting",
+  "https://www.oiseaux.net/species/cirl.bunting.html",
+  "https://www.rspb.org.uk/birds-and-wildlife/wildlife-guides/bird-a-z/cirl-bunting",
+  "https://avibase.bsc-eoc.org/species.jsp?avibaseid=FE00000B90",
+  "https://inpn.mnhn.fr/espece/cd_nom/2622"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

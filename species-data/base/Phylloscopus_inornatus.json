@@ -1,0 +1,79 @@
+{
+ "scientific_name": "Phylloscopus inornatus",
+ "common_name_fr": "Pouillot à grands sourcils",
+ "birdnet_label": "Phylloscopus inornatus_Pouillot à grands sourcils",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Phylloscopidae",
+  "family_common": "Leaf Warblers",
+  "genus": "Phylloscopus",
+  "species": "Phylloscopus inornatus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pouillot à grands sourcils",
+   "url": "https://fr.wikipedia.org/wiki/Pouillot_%C3%A0_grands_sourcils",
+   "description": "espèces d'oiseaux",
+   "extract": "Le Pouillot à grands sourcils est une petite espèce de passereaux insectivores de la famille des Phylloscopidae.",
+   "fulltext_chars": 1622
+  },
+  "en": {
+   "title": "Yellow-browed warbler",
+   "url": "https://en.wikipedia.org/wiki/Yellow-browed_warbler",
+   "description": "Species of bird",
+   "extract": "The yellow-browed warbler is a leaf warbler which breeds in the east Palearctic. This warbler is strongly migratory and winters mainly in tropical South Asia and South-east Asia, but also in small numbers in western Europe. Like the rest of Phylloscopidae, it was formerly included in the Old World warbler assemblage.",
+   "fulltext_chars": 5573
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/05/Phylloscopus_inornatus_%28Yellow-browed_Warbler%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 860,
+  "height": 573,
+  "file": "Phylloscopus_inornatus_(Yellow-browed_Warbler).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/0/05/Phylloscopus_inornatus_%28Yellow-browed_Warbler%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "E.HOBA",
+  "credit": "https://www.flickr.com/photos/ehoba/2289003124/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Phylloscopus_inornatus_(Yellow-browed_Warbler).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0532,
+  "cities": {
+   "Le Mans": 0.037,
+   "Pornic": 0.053,
+   "Rennes": 0.047,
+   "Poitiers": 0.039,
+   "Paris": 0.027,
+   "Lille": 0.016,
+   "Lyon": 0.012,
+   "Bordeaux": 0.033,
+   "Brest": 0.051,
+   "Clermont-Ferrand": 0.023,
+   "Nancy": 0.01
+  },
+  "monthly_scores": [
+   0.0152,
+   0.0109,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0147,
+   0.0532,
+   0.0329,
+   0.0212
+  ],
+  "months": [
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:44Z"
+}

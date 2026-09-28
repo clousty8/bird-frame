@@ -1,0 +1,96 @@
+{
+ "scientific_name": "Emberiza cia",
+ "common_name_fr": "Bruant fou",
+ "birdnet_label": "Emberiza cia_Bruant fou",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Emberizidae",
+  "family_common": "Old World Buntings",
+  "genus": "Emberiza",
+  "species": "Emberiza cia"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bruant fou",
+   "url": "https://fr.wikipedia.org/wiki/Bruant_fou",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Bruant fou est une espèce de passereaux de la famille des Emberizidae.",
+   "fulltext_chars": 2920
+  },
+  "en": {
+   "title": "Rock bunting",
+   "url": "https://en.wikipedia.org/wiki/Rock_bunting",
+   "description": "Species of bird",
+   "extract": "The  rock bunting is a passerine bird in the bunting family Emberizidae, a group now separated by most modern authors from the finches, Fringillidae.",
+   "fulltext_chars": 1692
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Rock_Bunting_-_Spain_2031_%2822765128713%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1140,
+  "height": 760,
+  "file": "Rock_Bunting_-_Spain_2031_(22765128713).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Rock_Bunting_-_Spain_2031_%2822765128713%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Francesco Veronesi from Italy",
+  "credit": "Rock Bunting - Spain_2031",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Rock_Bunting_-_Spain_2031_(22765128713).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.154,
+  "cities": {
+   "Le Mans": 0.026,
+   "Pornic": 0.042,
+   "Rennes": 0.029,
+   "Poitiers": 0.043,
+   "Paris": 0.017,
+   "Lille": 0.013,
+   "Strasbourg": 0.013,
+   "Lyon": 0.043,
+   "Grenoble": 0.052,
+   "Marseille": 0.088,
+   "Toulouse": 0.091,
+   "Bordeaux": 0.076,
+   "Brest": 0.022,
+   "Ajaccio": 0.154,
+   "Clermont-Ferrand": 0.045,
+   "Chamonix": 0.039,
+   "Perpignan": 0.104,
+   "Nancy": 0.013
+  },
+  "monthly_scores": [
+   0.1534,
+   0.1518,
+   0.1137,
+   0.0764,
+   0.076,
+   0.0782,
+   0.0721,
+   0.0577,
+   0.0438,
+   0.0747,
+   0.1398,
+   0.154
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:31Z"
+}

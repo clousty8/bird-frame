@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anas platyrhynchos",
+ "summary_fr": "Le Canard colvert est le plus connu des canards sauvages européens et l'ancêtre de la plupart des races domestiques. Le mâle en plumage nuptial arbore une tête vert brillant très reconnaissable, tandis que la femelle affiche un plumage tacheté beige-brun discret qui la camoufle au sol pendant la couvaison. Excellent nageur et barboteur, il se nourrit en basculant sur l'avant pour atteindre le fond des eaux peu profondes. Très adaptable, il colonise aussi bien les rivières et étangs ruraux que les parcs urbains, où il s'acclimate bien à la présence humaine. En France, les populations sont en légère augmentation ; l'espèce compte entre 35 000 et 60 000 couples sédentaires, rejoints en automne par des migrateurs venus du nord. Les colverts hivernent volontiers sur les côtes en eaux saumâtres.",
+ "habitat": "Zones humides d'eau douce : marais, étangs, lacs, rivières calmes et parcs urbains, du littoral à 2 000 mètres d'altitude. En hiver, fréquent sur le littoral en eaux saumâtres.",
+ "diet": "Omnivore : plantes aquatiques, graines, herbes ; insectes, vers de terre, araignées et têtards ; œufs d'autres oiseaux occasionnellement. Se nourrit en barbotant ou en broutant.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France. Les nicheurs locaux restent sédentaires tandis que 180 000 à 200 000 oiseaux du nord hivernent, surtout en Camargue, baie de Somme et zones humides atlantiques.",
+  "niche": "Partout en France métropolitaine, d'avril à juillet. Deux nichées possibles. La femelle pond 8 à 12 œufs, incubation 28 jours.",
+  "passage": "Passages migratoires marqués en mars (printemps) et d'octobre à novembre (automne) ; retour vers les zones de reproduction de février à mai."
+ },
+ "seasonality_fr": "Visible toute l'année en France. Très grégaire en automne et hiver, formant de grands rassemblements. Plus discret lors de la période de nidification (avril-juillet).",
+ "song_fr": "Femelle : cri très reconnaissable, suite de « couacs » rauques partant fort et décroissant, souvent répétés. Mâle : « quack » plus doux et grave, ainsi que des sifflements lors de la parade nuptiale. En vol, ailes produisant un sifflement caractéristique.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anas rubripes",
+   "common_name_fr": "Canard noir",
+   "why_fr": "Femelles très semblables ; confusions possibles sur les cris rauques, bien que le Canard noir soit généralement plus grave."
+  },
+  {
+   "scientific_name": "Anas acuta",
+   "common_name_fr": "Canard pilet",
+   "why_fr": "Présent en Europe, silhouette plus élancée ; appel plus ténu que le Colvert, risque de confusion mineure."
+  },
+  {
+   "scientific_name": "Spatula clypeata",
+   "common_name_fr": "Canard souchet",
+   "why_fr": "Fréquent en milieu humide ; cris plus sourds et guttéraux, moins « rauques » que le Colvert."
+  }
+ ],
+ "rarity_note": "Très commun partout en France toute l'année. Espèce de préoccupation mineure (UICN). Le colvert sauvage le plus abondant d'Europe, estimé à 9 millions d'individus en Europe de l'Ouest.",
+ "fun_facts": [
+  "Le mâle colvert possède une tête vert brillant, mais en été il mue et revêt un plumage gris-beige appelé « plumage d'éclipse » semblable à celui de la femelle pour se camoufler, avant de reprendre ses vraies couleurs à l'automne.",
+  "Plus de 50 espèces de canards sauvages peuvent s'hybrider avec le Colvert, risquant de polluer génétiquement les populations locales, car plus de 3 millions de colverts d'élevage sont lâchés chaque année en Europe pour la chasse.",
+  "Le Colvert est un porteur sain du virus de la grippe aviaire H5N1 et H5N8, capable de le diffuser sur de longues distances lors de migrations sans développer de symptômes graves, ce qui en fait un vecteur épidémiologique majeur."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Canard_colvert",
+  "https://en.wikipedia.org/wiki/Mallard",
+  "https://www.oiseaux.net/oiseaux/canard.colvert.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

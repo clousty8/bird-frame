@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Pandion haliaetus",
+ "common_name_fr": "Balbuzard pêcheur",
+ "birdnet_label": "Pandion haliaetus_Balbuzard pêcheur",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Pandionidae",
+  "family_common": "Osprey",
+  "genus": "Pandion",
+  "species": "Pandion haliaetus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Balbuzard pêcheur",
+   "url": "https://fr.wikipedia.org/wiki/Balbuzard_p%C3%AAcheur",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Balbuzard pêcheur est une espèce de rapaces diurnes de taille moyenne ; c'est un piscivore spécialisé et cosmopolite.",
+   "fulltext_chars": 15632
+  },
+  "en": {
+   "title": "Osprey",
+   "url": "https://en.wikipedia.org/wiki/Osprey",
+   "description": "Species of bird",
+   "extract": "The osprey, historically known as sea hawk, river hawk, and fish hawk, is a diurnal, fish-eating bird of prey with a cosmopolitan range. It is a large raptor, reaching more than 60 cm (24 in) in length and a wingspan of 180 cm (71 in). It is brown on the upperparts and predominantly greyish on the head and underparts.",
+   "fulltext_chars": 20847
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Osprey_port_mahon_6.9.24_DSC_1315-topaz-denoiseraw-sharpen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3335,
+  "height": 2668,
+  "file": "Osprey_port_mahon_6.9.24_DSC_1315-topaz-denoiseraw-sharpen.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Osprey_port_mahon_6.9.24_DSC_1315-topaz-denoiseraw-sharpen.jpg/1920px-Osprey_port_mahon_6.9.24_DSC_1315-topaz-denoiseraw-sharpen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "lwolfartist",
+  "credit": "https://www.flickr.com/photos/151817352@N04/53784506807/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Osprey_port_mahon_6.9.24_DSC_1315-topaz-denoiseraw-sharpen.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2363,
+  "cities": {
+   "Le Mans": 0.028,
+   "Pornic": 0.025,
+   "Rennes": 0.023,
+   "Poitiers": 0.033,
+   "Paris": 0.032,
+   "Lille": 0.039,
+   "Strasbourg": 0.031,
+   "Lyon": 0.041,
+   "Grenoble": 0.042,
+   "Marseille": 0.068,
+   "Toulouse": 0.053,
+   "Bordeaux": 0.043,
+   "Brest": 0.019,
+   "Ajaccio": 0.236,
+   "Clermont-Ferrand": 0.044,
+   "Chamonix": 0.033,
+   "Perpignan": 0.064,
+   "Nancy": 0.034
+  },
+  "monthly_scores": [
+   0.2254,
+   0.2314,
+   0.2004,
+   0.1331,
+   0.0638,
+   0.0578,
+   0.0769,
+   0.1272,
+   0.1545,
+   0.2094,
+   0.2363,
+   0.2347
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:33Z"
+}

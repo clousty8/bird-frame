@@ -1,0 +1,74 @@
+{
+ "scientific_name": "Clamator glandarius",
+ "common_name_fr": "Coucou geai",
+ "birdnet_label": "Clamator glandarius_Coucou geai",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Cuculiformes",
+  "family": "Cuculidae",
+  "family_common": "Cuckoos",
+  "genus": "Clamator",
+  "species": "Clamator glandarius"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Coucou geai",
+   "url": "https://fr.wikipedia.org/wiki/Coucou_geai",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Coucou geai est une espèce d'oiseaux de la famille des Cuculidae. Selon la classification de référence du Congrès ornithologique international (version 15.1, 2025), c'est une espèce monotypique.",
+   "fulltext_chars": 3138
+  },
+  "en": {
+   "title": "Great spotted cuckoo",
+   "url": "https://en.wikipedia.org/wiki/Great_spotted_cuckoo",
+   "description": "Species of bird",
+   "extract": "The great spotted cuckoo is a member of the cuckoo order of birds, the Cuculiformes, which also includes the roadrunners, the anis and the coucals.",
+   "fulltext_chars": 3245
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cuco-rabilongo%2C_Great_Spotted_Cuckoo_%2852669464514%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3410,
+  "height": 2784,
+  "file": "Cuco-rabilongo,_Great_Spotted_Cuckoo_(52669464514)_(cropped).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Cuco-rabilongo%2C_Great_Spotted_Cuckoo_%2852669464514%29_%28cropped%29.jpg/1920px-Cuco-rabilongo%2C_Great_Spotted_Cuckoo_%2852669464514%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Luiz Lapa from Oeiras, Portugal",
+  "credit": "Cuco-rabilongo, Great Spotted Cuckoo",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Cuco-rabilongo,_Great_Spotted_Cuckoo_(52669464514)_(cropped).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0624,
+  "cities": {
+   "Marseille": 0.016,
+   "Toulouse": 0.01,
+   "Ajaccio": 0.062,
+   "Perpignan": 0.018
+  },
+  "monthly_scores": [
+   0.0178,
+   0.0266,
+   0.0624,
+   0.0614,
+   0.0463,
+   0.0464,
+   0.0526,
+   0.0484,
+   0.0322,
+   0.0267,
+   0.0195,
+   0.0183
+  ],
+  "months": [
+   3,
+   4,
+   7
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:39Z"
+}

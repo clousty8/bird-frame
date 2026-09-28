@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anser albifrons",
+ "summary_fr": "L'Oie rieuse est une grande oie de la famille des Anatidae, nommée pour son patch blanc caractéristique bordant la base du bec. De taille inférieure à l'Oie cendrée, elle se distingue par son plumage brun-gris et surtout par ses marquages ventro-abdominaux noir et blanc très contrastés, à tel point qu'elle est surnommée « specklebelly » en Amérique du Nord. Active, bruyante et grégaire, elle communique par un cri aigu et musical particulièrement reconnaissable. Espèce arctique, elle niche dans la toundra du Canada, Groenland, Alaska et Russie, puis migre vers le sud pour hiverner. En France, c'est une visiteuse hivernale et de passage, jamais reproductrice, que l'on rencontre surtout en hiver sur les littoraux et les estuaires du nord-ouest ou en Camargue.",
+ "habitat": "Zones humides ouvertes : littoraux, estuaires, marais, baies côtières et zones herbagères. Préfère les habitats côtiers en hiver.",
+ "diet": "Principalement herbivore : herbes aquatiques, graines de graminées et plantes basses ; complément de mollusques et invertébrés aquatiques.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Littoraux et zones humides du nord-ouest français (Bretagne, baies de la Manche), occasion­nellement en Camargue. Populations de l'Atlantique nord transitent par la France.",
+  "niche": "Ne niche pas en France. Les populations arctiques se reproduisent du Groenland au nord de la Russie.",
+  "passage": "Passages migratoires marqués en septembre-octobre et mars-avril ; présence hivernale d'octobre à avril selon les conditions météorologiques."
+ },
+ "seasonality_fr": "Visible et audible de septembre à avril, avec pics en novembre-décembre et février-mars. Absence quasi totale de mai à août.",
+ "song_fr": "Cri très caractéristique et musical : succession de « hé-hé » aigus et nasillards, reconnaissable entre tous les oiseaux aquatiques. Cris d'alarme bruyants et variés en vol.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anser anser",
+   "common_name_fr": "Oie cendrée",
+   "why_fr": "Taille plus importante et sons plus graves. L'absence de tache blanche au front la distingue, mais les cris des adultes sont rarement confondus."
+  },
+  {
+   "scientific_name": "Anser fabalis",
+   "common_name_fr": "Oie des moissons",
+   "why_fr": "Taille intermédiaire et cri aigu mais différent. Bec et pattes plus contrastés, sans tache frontale blanche."
+  },
+  {
+   "scientific_name": "Branta canadensis",
+   "common_name_fr": "Bernache du Canada",
+   "why_fr": "Cri grave et rauque très différent. Tête et cou noirs caractéristiques, moins de risque de confusion vocale."
+  }
+ ],
+ "rarity_note": "Migrante et hivernante rare en France, surtout sur les littoraux de la Manche et de Bretagne, absence quasi totale en l'Anjou/Vendée. Très peu régulière en eau douce intérieure.",
+ "fun_facts": [
+  "Son nom scientifique albifrons vient du latin albus (blanc) et frons (front), référence directe à sa tache blanche caractéristique.",
+  "Les marquages « poivre et sel » sur le ventre des adultes lui valent le surnom de « specklebelly » en Amérique du Nord, où elle est bien plus commune.",
+  "Les petits restent très longtemps avec leurs parents, parfois plusieurs années, créant des familles élargies lors des migrations."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Oie_rieuse",
+  "https://en.wikipedia.org/wiki/Greater_white-fronted_goose",
+  "https://www.oiseaux.net/oies/oierieuse.html",
+  "https://www.inpn.mnhn.fr/espece/Anser%20albifrons"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Arenaria interpres",
+ "summary_fr": "Limicole cosmopolite au plumage arlequin de brun, noir et blanc, le Tournepierre à collier tire son nom de sa technique de chasse caractéristique : il retourne pierres et coquilles sur l'estran pour capturer les invertébrés cachés dessous. Petit oiseau trappu aux pattes orange vif et au bec noir légèrement retroussé, il fréquente les côtes rocheuses et caillouteuses du monde entier. Migrateur long-courrier, il niche dans les toundras arctiques de l'Eurasie et de l'Amérique du Nord et se disperse l'hiver sur presque tous les littoraux continents. En France, c'est un migrant de passage régulier, surtout visible en petits groupes sur les côtes de l'Atlantique et de la Manche. Très sociale, l'espèce se regroupe souvent en bandes compactes pour se nourrir et reposer.",
+ "habitat": "Littoraux rocheux et caillouteux, estrans à galets, plages de graviers. En période de reproduction, toundra arctique ouverte, souvent près de l'eau.",
+ "diet": "Invertébrés marins et terrestres : mollusques, crustacés, annélides, insectes et leurs larves. Œufs d'autres oiseaux marins consommés occasionnellement.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Sur les côtes tempérées et tropicales du monde entier, notamment Afrique, sud de l'Asie, Australasie. Petites effectifs hivernent aussi en France côtière.",
+  "niche": "Toundra arctique de l'Eurasie (de l'Alaska à la Sibérie orientale) et de l'Amérique du Nord (Alaska et nord du Canada).",
+  "passage": "Passages importants en mars-avril (printemps) et septembre-octobre (automne) sur les côtes françaises de l'Atlantique et de la Manche."
+ },
+ "seasonality_fr": "Visible en France principalement lors des passages migratoires (mars-avril et août-octobre). Quelques individus hivernent sur les côtes atlantiques. Absent en plein été.",
+ "song_fr": "Cri caractéristique : un « tuit-tuit » ou « tit-it » staccato et sonore, parfois décrit comme un trille sec. Cri d'alarme rauque lors du dérangement.",
+ "lookalikes": [
+  {
+   "scientific_name": "Calidris canutus",
+   "common_name_fr": "Bécasseau maubèche",
+   "why_fr": "Même habitat côtier, taille comparable, cris staccato et rauques similaires lors de passage."
+  },
+  {
+   "scientific_name": "Calidris alpina",
+   "common_name_fr": "Bécasseau variable",
+   "why_fr": "Petit bécasseau côtier migrateur, cris aigus ressemblants, habitat estran caillouteux."
+  }
+ ],
+ "rarity_note": "Migrateur régulier sur les côtes françaises. Effectifs généralement modérés, parfois importants lors de pics migratoires. Rarement observé à l'intérieur des terres.",
+ "fun_facts": [
+  "Le Tournepierre à collier est l'un des oiseaux dont la longévité est la plus remarquable : des individus ont dépassé 20 ans, avec une mortalité annuelle adulte inférieure à 15%.",
+  "Cette espèce montre une incroyable fidélité à ses zones d'hivernage : jusqu'à 95% des oiseaux reviennent au même littoral l'année suivante, parcourant pourtant plusieurs milliers de kilomètres."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Tournepierre_%C3%A0_collier",
+  "https://en.wikipedia.org/wiki/Ruddy_turnstone",
+  "https://www.oiseaux.net/oiseaux/tournepierre.collier.html",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

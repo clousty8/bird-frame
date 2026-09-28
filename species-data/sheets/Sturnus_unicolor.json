@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Sturnus unicolor",
+ "summary_fr": "L'Étourneau unicolore est un passereau noir de la famille des Sturnidae, proche cousin de l'Étourneau sansonnet dont il partage la silhouette trapue et l'allure sociable. Son plumage est intégralement noir avec de beaux reflets métalliques iridescents pendant la reproduction ; en dehors de cette période, de petites taches blanches apparaissent au bout des plumes du dos, de la tête et de la poitrine, restant toutefois nettement plus discrètes que chez le sansonnet. Originaire du pourtour méditerranéen, il mesure 22 à 23 centimètres pour 70 à 115 grammes et étend progressivement son aire vers le nord depuis les années 1980. Très grégaire, il forme de grands rassemblements, parfois mêlés à ceux du sansonnet, et niche en colonies dans des cavités d'arbres ou de bâtiments. Ses cris rappellent ceux du sansonnet mais sonnent plus stridents, avec des sifflements étirés et de petits claquements secs. Omnivore, il chasse insectes, petits amphibiens et lézards au printemps et en été, puis se tourne vers les fruits et les graines en automne. En France, il reste cantonné aux régions méditerranéennes et au littoral atlantique proche de l'Espagne, où sa présence progresse lentement d'année en année.",
+ "habitat": "Zones ouvertes à herbe courte, terres agricoles et zones périurbaines ; niche aussi dans des cavités de bâtiments. Jusqu'à 2500 mètres d'altitude.",
+ "diet": "Omnivore : au printemps et en été, invertébrés (notamment coléoptères), petits amphibiens et lézards ; en automne, fruits sauvages ou cultivés (cerises, prunes, olives), graines et parfois céréales.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Péninsule Ibérique, Afrique du Nord-Ouest, sud de la France et îles méditerranéennes (Sicile, Corse, Sardaigne), où l'espèce réside toute l'année.",
+  "niche": "Sur toute son aire de répartition, d'avril à mi-juillet. Nicheur en colonies, souvent monogame, nid en cavité arborée ou dans des constructions humaines. Deux couvées fréquentes.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible et audible toute l'année dans les régions méditerranéennes et le sud de la France. Présence sporadique au-delà, avec une lente expansion vers le nord depuis les années 1980.",
+ "song_fr": "Cris et chant proches de ceux de l'Étourneau sansonnet mais plus stridents : sifflements étirés (« pi-iiiiou ») et petits claquements secs.",
+ "lookalikes": [
+  {
+   "scientific_name": "Sturnus vulgaris",
+   "common_name_fr": "Étourneau sansonnet",
+   "why_fr": "Espèce sœur, presque identique en taille et en cris ; le sansonnet montre des taches blanches nettement plus marquées en plumage frais. Hybridation possible."
+  },
+  {
+   "scientific_name": "Turdus merula",
+   "common_name_fr": "Merle noir",
+   "why_fr": "Silhouette et taille du mâle noir proches ; le merle a une queue plus longue, un chant flûté très différent et pas de reflets métalliques."
+  }
+ ],
+ "rarity_note": "En France, cantonné aux régions méditerranéennes et au littoral atlantique proche de l'Espagne ; en lente expansion vers le nord depuis les années 1980, mais toujours minoritaire face au sansonnet.",
+ "fun_facts": [
+  "Son plumage n'est pas noir toute l'année : hors saison de reproduction, de petites taches blanches apparaissent au bout de ses plumes, bien moins visibles que chez le sansonnet.",
+  "En période de reproduction, le mâle arbore de longues plumes de gorge hérissées formant une sorte de barbe, particulièrement visible quand il chante.",
+  "Il peut former des rassemblements hivernaux dépassant 100000 individus, souvent mêlés à des sansonnets, avec lesquels une hybridation est parfois observée."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/%C3%89tourneau_unicolore",
+  "https://en.wikipedia.org/wiki/Spotless_starling",
+  "https://www.oiseaux.net/oiseaux/etourneau.unicolore.html"
+ ],
+ "generated_at": "2026-09-27T21:30:00Z",
+ "generator_model": "claude-sonnet-5"
+}

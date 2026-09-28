@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anthus campestris",
+ "summary_fr": "Le Pipit rousseline est un passereau élancé et discret de la famille des Motacillidae, reconnaissable à son plumage beige sablé, à son sourcil crème bien marqué et à ses longues pattes jaunâtres. Mesurant une quinzaine de centimètres, il affectionne les terrains secs et dégagés, steppes, garrigues, landes, dunes et friches caillouteuses, où il marche vivement au sol pour chasser sauterelles et autres insectes. Migrateur au long cours, il quitte l'Afrique subsaharienne dès le mois de mars pour venir se reproduire en France, surtout dans le Midi méditerranéen et en Corse où il reste bien présent, avant de repartir hiverner au sud du Sahara dès la fin de l'été. Son chant, un disyllabe sonore et répété en « tchirée tchirée », souvent lancé depuis un poteau ou pendant un vol chanté caractéristique, permet de le repérer même quand il se fond dans le paysage. Sensible à la disparition des milieux semi-naturels ouverts au profit de l'agriculture intensive, il a nettement reculé en Europe tempérée au cours du vingtième siècle, au point de disparaître de certaines régions comme la Wallonie.",
+ "habitat": "Milieux ouverts, secs et peu végétalisés : steppes, garrigues, landes, dunes littorales, friches caillouteuses et vignobles du Midi.",
+ "diet": "Insectes et autres invertébrés (sauterelles, coléoptères, fourmis) capturés au sol en marchant. Régime strictement insectivore.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Hiverne en Afrique subsaharienne, au sud du Sahara ; absent de France en hiver, hormis de très rares mentions hivernales sur le littoral méditerranéen.",
+  "niche": "Niche en France de mai à juillet, surtout dans le Midi méditerranéen et en Corse où il reste bien présent, plus localement jusqu'en Drôme et en Ardèche.",
+  "passage": "Présent de mars à septembre-octobre, avec des passages plus marqués en avril-mai puis en septembre, notamment sur les caps de la Manche et de l'Atlantique."
+ },
+ "seasonality_fr": "Visible et audible en France du printemps à l'automne ; totalement absent en hiver, période qu'il passe en Afrique subsaharienne.",
+ "song_fr": "Chant caractéristique : répétition courte et sonore d'un disyllabe « tchirée tchirée ». Appel aigu et perçant « schip », plus haut que celui du Pipit farlouse.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anthus trivialis",
+   "common_name_fr": "Pipit des arbres",
+   "why_fr": "Taille et coloration proches ; chant différent, en descente musicale plutôt qu'en disyllabes répétés."
+  },
+  {
+   "scientific_name": "Anthus pratensis",
+   "common_name_fr": "Pipit farlouse",
+   "why_fr": "Ressemblance acoustique des appels ; le Pipit farlouse a un chant plus varié et des cris un peu plus graves."
+  },
+  {
+   "scientific_name": "Anthus cervinus",
+   "common_name_fr": "Pipit à gorge rousse",
+   "why_fr": "Confusion possible lors des passages migratoires ; voix assez proche, espèce toutefois bien plus rare en France."
+  }
+ ],
+ "rarity_note": "Nicheur peu commun et en déclin en France métropolitaine, mais encore bien présent en région méditerranéenne et en Corse ; absent en hiver.",
+ "fun_facts": [
+  "Autrefois plus répandu en Europe occidentale, le Pipit rousseline a disparu de Wallonie comme nicheur depuis 1949.",
+  "Il chasse en marchant activement au sol plutôt qu'en sautillant, une allure qui aide à le distinguer des autres pipits.",
+  "Le mâle chante volontiers en vol, montant en piqué après une ascension, avant de se poser au sommet d'un buisson ou d'un poteau."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pipit_rousseline",
+  "https://en.wikipedia.org/wiki/Tawny_pipit",
+  "https://www.oiseaux.net/oiseaux/pipit.rousseline.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/3688"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

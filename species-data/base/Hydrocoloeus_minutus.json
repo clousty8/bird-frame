@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Hydrocoloeus minutus",
+ "common_name_fr": "Mouette pygmée",
+ "birdnet_label": "Hydrocoloeus minutus_Mouette pygmée",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Hydrocoloeus",
+  "species": "Hydrocoloeus minutus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Mouette pygmée",
+   "url": "https://fr.wikipedia.org/wiki/Mouette_pygm%C3%A9e",
+   "description": "espèce d'oiseaux",
+   "extract": "La Mouette pygmée est une espèce d'oiseaux Charadriiformes de la famille des Laridae. Elle est actuellement le seul représentant du genre Hydrocoloeus récemment séparé du genre Larus ; il est toutefois possible que la Mouette rosée, phylogénétiquement très proche, soit elle aussi rattachée à ce genre.",
+   "fulltext_chars": 2663
+  },
+  "en": {
+   "title": "Little gull",
+   "url": "https://en.wikipedia.org/wiki/Little_gull",
+   "description": "Species of bird",
+   "extract": "The little gull is a species of gull belonging to the family Laridae which is mainly found in the Palearctic with some small colonies in North America. It breeds on freshwater lakes and marshes, and spends winters at sea. It is the smallest species of gull in the world, and the only species in the monospecific genus Hydrocoloeus.",
+   "fulltext_chars": 5382
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/63/Littlegull75.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 250,
+  "height": 190,
+  "file": "Littlegull75.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/6/63/Littlegull75.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Littlegull75.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1314,
+  "cities": {
+   "Le Mans": 0.027,
+   "Pornic": 0.037,
+   "Rennes": 0.039,
+   "Poitiers": 0.026,
+   "Paris": 0.022,
+   "Lille": 0.031,
+   "Lyon": 0.015,
+   "Grenoble": 0.019,
+   "Marseille": 0.03,
+   "Toulouse": 0.016,
+   "Bordeaux": 0.016,
+   "Brest": 0.058,
+   "Ajaccio": 0.131,
+   "Clermont-Ferrand": 0.015,
+   "Chamonix": 0.015,
+   "Perpignan": 0.022,
+   "Nancy": 0.012
+  },
+  "monthly_scores": [
+   0.1267,
+   0.1314,
+   0.1152,
+   0.0596,
+   0.033,
+   0.0345,
+   0.031,
+   0.0355,
+   0.0396,
+   0.0734,
+   0.1125,
+   0.1245
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:05Z"
+}

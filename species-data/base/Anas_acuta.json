@@ -1,0 +1,94 @@
+{
+ "scientific_name": "Anas acuta",
+ "common_name_fr": "Canard pilet",
+ "birdnet_label": "Anas acuta_Canard pilet",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Anas",
+  "species": "Anas acuta"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Canard pilet",
+   "url": "https://fr.wikipedia.org/wiki/Canard_pilet",
+   "description": "espèces d'oiseaux",
+   "extract": "Le Canard pilet est une espèce de canards barboteurs relativement commune et répandue dans les zones nordiques de l'Europe, de l'Asie et d'une grande partie du Canada, de l'Alaska et de la moitié ouest des États-Unis. Fait inhabituel pour un oiseau si répandu, il n'a pas de sous-espèce géographique sur l'essentiel de son aire de répartition, à l'exception du Canard pilet des îles Kerguelen et celui des Crozet, qui sont considérés comme espèces distinctes par certains auteurs.",
+   "fulltext_chars": 8755
+  },
+  "en": {
+   "title": "Northern pintail",
+   "url": "https://en.wikipedia.org/wiki/Northern_pintail",
+   "description": "Migratory duck that breeds in northern Eurasia and North America",
+   "extract": "The pintail or northern pintail is a duck species with wide geographic distribution that breeds in the northern areas of Europe and across the Palearctic and North America. It is migratory and winters south of its breeding range as far as the equator. Unusually for a bird with such a large range, it has no geographical subspecies, although the possibly conspecific duck Eaton's pintail is considered to be a separate species.",
+   "fulltext_chars": 13681
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Anas_acuta_20070302.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 682,
+  "file": "Anas_acuta_20070302.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Anas_acuta_20070302.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Adam Kumiszcza",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Anas_acuta_20070302.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3088,
+  "cities": {
+   "Le Mans": 0.171,
+   "Pornic": 0.188,
+   "Rennes": 0.18,
+   "Poitiers": 0.163,
+   "Paris": 0.151,
+   "Lille": 0.175,
+   "Strasbourg": 0.057,
+   "Lyon": 0.098,
+   "Grenoble": 0.089,
+   "Marseille": 0.123,
+   "Toulouse": 0.114,
+   "Bordeaux": 0.161,
+   "Brest": 0.158,
+   "Ajaccio": 0.309,
+   "Clermont-Ferrand": 0.12,
+   "Chamonix": 0.067,
+   "Perpignan": 0.115,
+   "Nancy": 0.079
+  },
+  "monthly_scores": [
+   0.2913,
+   0.3088,
+   0.2113,
+   0.0751,
+   0.0154,
+   0.0165,
+   0.0287,
+   0.0545,
+   0.1072,
+   0.1809,
+   0.2698,
+   0.286
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:09Z"
+}

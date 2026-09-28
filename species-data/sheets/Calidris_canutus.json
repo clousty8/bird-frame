@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Calidris canutus",
+ "summary_fr": "Le Bécasseau maubèche est un limicole côtier de taille moyenne, au plumage gris pâle et uni en hiver, roux vif sur la tête et la poitrine en parure nuptiale. Champion toutes catégories de la migration, il relie chaque année la toundra arctique aux rivages de Patagonie, un aller-retour qui peut dépasser 14 000 kilomètres. En France, il n'est pas un simple visiteur de passage : de petits effectifs stationnent toute l'année sur les grandes vasières atlantiques, avec des pics marqués au printemps et de la fin de l'été à l'automne, et quelques oiseaux y passent l'hiver. Grégaire, il forme des bandes compactes où sa silhouette trapue, ses pattes courtes et son bec droit et robuste le distinguent des autres petits bécasseaux. Il sonde le sable et la vase à la recherche de coques, de mollusques et de petits crustacés, avec une prédilection, sur ses haltes nord-américaines, pour les œufs de limules qui lui permettent de doubler son poids en deux semaines. La sous-espèce C. c. rufa, particulièrement dépendante de cette ressource, est aujourd'hui en danger critique d'extinction.",
+ "habitat": "Vasières littorales, baies et estuaires abrités, zones intertidales riches en invertébrés ; exceptionnel à l'intérieur des terres.",
+ "diet": "Mollusques bivalves (coques, myes), petits crustacés et larves d'insectes sondés dans la vase ; œufs de limules très recherchés lors des haltes nord-américaines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En petit nombre sur les grandes vasières atlantiques françaises (Baie de l'Aiguillon, littoral vendéen et charentais), au sein d'une population européenne surtout concentrée en mer des Wadden et sur les côtes britanniques.",
+  "niche": "Ne niche pas en France ; toundra arctique du Groenland, du Canada et de Sibérie selon la sous-espèce.",
+  "passage": "Passages marqués de mars à mai et d'août à octobre sur les côtes, avec des oiseaux présents en petit nombre le reste de l'année."
+ },
+ "seasonality_fr": "Présent toute l'année sur le littoral atlantique, en nombres nettement plus importants de mars à mai et d'août à octobre ; quelques hivernants le reste de l'année.",
+ "song_fr": "Cri de contact doux « nout » au sein du groupe. En vol, série de notes doubles « uètt-uètt » brèves et légèrement nasillardes. S'envole en poussant un « kikkik » sec.",
+ "lookalikes": [
+  {
+   "scientific_name": "Calidris alba",
+   "common_name_fr": "Bécasseau sanderling",
+   "why_fr": "Taille et silhouette proches, cris de contact similaires ; souvent observé en compagnie du maubèche sur les mêmes plages."
+  },
+  {
+   "scientific_name": "Calidris alpina",
+   "common_name_fr": "Bécasseau variable",
+   "why_fr": "Même habitat côtier et cris de contact proches ; le variable a un bec plus fin et légèrement décurvé."
+  },
+  {
+   "scientific_name": "Pluvialis squatarola",
+   "common_name_fr": "Pluvier argenté",
+   "why_fr": "Confusion possible en plumage hivernal gris pâle ; alimentation par à-coups chez le pluvier contre progression régulière chez le maubèche."
+  }
+ ],
+ "rarity_note": "Peu commun mais régulier sur les côtes françaises, présent toute l'année avec des pics migratoires marqués au printemps et à l'automne.",
+ "fun_facts": [
+  "Le Bécasseau maubèche effectue l'une des plus longues migrations du règne animal, certains individus parcourant environ 30 000 km aller-retour entre l'Arctique et la Terre de Feu.",
+  "En halte migratoire, il peut doubler son poids en deux semaines, accumulant les réserves nécessaires aux longs vols sans escale.",
+  "La sous-espèce C. c. rufa est en danger critique d'extinction, menacée par la surexploitation des œufs de limules dont elle dépend en baie du Delaware."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/B%C3%A9casseau_maub%C3%A8che",
+  "https://en.wikipedia.org/wiki/Red_knot",
+  "https://oiseaux.net/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

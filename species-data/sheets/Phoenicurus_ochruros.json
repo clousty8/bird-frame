@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Phoenicurus ochruros",
+ "summary_fr": "Le Rougequeue noir est un petit passereau au plumage sombre rehaussé d'une queue orange-rouge caractéristique, originaire des falaises et zones rocheuses d'Eurasie et du Maghreb. Originellement montagnard, il s'est remarquablement adapté aux habitations urbaines depuis environ un siècle, nichant désormais dans les fissures des vieux murs, sous les toits et en haut des poutres. Son chant très reconnaissable, parsemé d'un grincement métallique rappelant du papier froissé, permet de le localiser facilement, souvent depuis un perchoir dégagé. Contrairement à beaucoup de passereaux, mâle et femelle chantent tous deux toute l'année pour défendre leur territoire, ce qui les rend particulièrement vocaux en hiver. Partiellement migrateur en France, il est rejoint à l'automne par des oiseaux venus du nord et de l'est de l'Europe. Insectivore actif, il capture ses proies en piquant en vol ou à terre, complétant son régime par des baies en automne.",
+ "habitat": "Falaises rocheuses, éboulis et zones montagneuses ; également vieux murs urbains, toits, clochers et bâtiments industriels aux façades nues et escarpées.",
+ "diet": "Insectes capturés en vol ou au sol, larves et chenilles ; baies et petites graines en automne ; minuscules crustacés sur les rivages côtiers.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Côtes méditerranéennes, nord de l'Afrique et Moyen-Orient ; certaines populations d'Europe de l'Ouest sont sédentaires.",
+  "niche": "Falaises rocheuses, zones montagneuses et habitations urbaines ; nicheur dès février-mars, jusqu'à trois nichées par an jusqu'en juillet.",
+  "passage": "Passages marqués en mars (retour des migrateurs) et d'octobre à novembre (départ automnale des oiseaux du nord)."
+ },
+ "seasonality_fr": "Présent et audible toute l'année en France métropolitaine, avec des effectifs plus importants en hiver dus aux migrateurs du nord. Chante régulièrement même en plein hiver.",
+ "song_fr": "Chant caractéristique de trois à quatre secondes débutant par un trille rapide et contenant un grincement métallique très reconnaissable en milieu de phrase, rappelant du papier froissé ou du verre brisé ; cri d'inquiétude sec « sit » répété.",
+ "lookalikes": [
+  {
+   "scientific_name": "Phoenicurus phoenicurus",
+   "common_name_fr": "Rougequeue à front blanc",
+   "why_fr": "Chants similaires avec des notes rapides « tu tu tu » ; ressemblance visuelle certaine dans le spectre acoustique."
+  },
+  {
+   "scientific_name": "Erithacus rubecula",
+   "common_name_fr": "Rougegorge familier",
+   "why_fr": "Cris « tic » secs très semblables et timbre vocal comparable, particulièrement en contexte d'alarme."
+  }
+ ],
+ "rarity_note": "Très commun partout en France métropolitaine, présent toute l'année et classé selon les régions comme nicheur commun ou très commun.",
+ "fun_facts": [
+  "Mâle et femelle chantent tous deux, ce qui est rare chez les passereaux, et ils défendent chacun leur territoire même en hiver.",
+  "Parmi les rares oiseaux à chanter la nuit, notamment près des sources lumineuses urbaines qui les maintiennent actifs.",
+  "En un siècle, l'espèce est passée d'un habitat purement rupestre à la colonisation massive des zones urbaines, devenant un oiseau typiquement citadin."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Rougequeue_noir",
+  "https://en.wikipedia.org/wiki/Black_redstart",
+  "https://www.oiseaux.net/fiches/rougequeue.noir.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Buteo lagopus",
+ "summary_fr": "La Buse pattue est un rapace de taille moyenne-grande originaire des régions arctiques et subarctiques du nord. Son nom scientifique reflète une adaptation remarquable : ses pattes sont entièrement emplumées pour résister au froid extrême (lagopus signifie « patte de lièvre » en grec). En France, c'est un visiteur très rare, observé presque exclusivement en hiver lorsque les rigueurs du climat arctique deviennent insupportables. Contrairement à la plupart des rapaces, la Buse pattue est capable de faire du vol stationnaire, scrutant le sol à la recherche de petits rongeurs. Sa migration suit un pattern distinctif en deux phases : une traversée rapide des forêts, puis un déplacement lent au-dessus des zones ouvertes propices à la chasse. Avec sa silhouette imposante, ses ailes longues et une bande thoracique caractéristique, elle peut être confondue avec d'autres grands rapaces.",
+ "habitat": "Régions arctiques et subarctiques : toundra, taïga, terrains ouverts sans arbres. En hiver en France, marais, landes, prairies et zones agricoles.",
+ "diet": "Petits rongeurs (campagnols, lemmings) formant jusqu'à 90 % du régime ; complétés par de petits oiseaux (lagopèdes, perdrix des neiges) et petits mammifères.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "L'espèce hiverne en Europe centrale et occidentale, y compris occasionnellement en France lors des hivers rigoureux, surtout dans le nord-est.",
+  "niche": "Se reproduit exclusivement dans les régions arctiques et subarctiques (Scandinavie, Sibérie, Alaska, Canada) sur falaises et escarpements rocheux.",
+  "passage": "Passages migratoires d'octobre à avril, avec un pic novembre à février quand les conditions arctiques se durcissent et l'accès aux rongeurs devient impossible."
+ },
+ "seasonality_fr": "Observée presque exclusivement d'octobre à avril en France, avec un pic en hiver strict (décembre à février). Très rare en dehors de cette période.",
+ "song_fr": "Cri d'alarme aigu et cristallin « yik-yik-yik » chez le mâle, plus rauque chez la femelle. Cri descendant « kee-eer » pendant les poursuites aériennes.",
+ "lookalikes": [
+  {
+   "scientific_name": "Buteo buteo",
+   "common_name_fr": "Buse variable",
+   "why_fr": "Silhouette générale semblable mais plus petite, ailes plus courtes, absence de pattes emplumées complètement."
+  },
+  {
+   "scientific_name": "Circus cyaneus",
+   "common_name_fr": "Busard des roseaux",
+   "why_fr": "Envergure comparable et vol de chasse semblable, mais silhouette plus fine et structure alaire distincte."
+  },
+  {
+   "scientific_name": "Aquila chrysaetos",
+   "common_name_fr": "Aigle royal",
+   "why_fr": "Même habitat arctique et taille imposante, mais envergure plus grande, tête plus carrée et allure générale différente."
+  }
+ ],
+ "rarity_note": "Très rare en France, visible presque exclusivement lors d'hivers rigoureux. Observée principalement dans le nord-est (Alsace, Lorraine), exceptionnellement ailleurs.",
+ "fun_facts": [
+  "Seul rapace de sa catégorie capable de faire du vol stationnaire régulièrement, battant des ailes rapidement pour rester immobile au-dessus du sol en quête de rongeurs.",
+  "Sa migration suit un pattern distinctif en deux phases : traversée rapide de 1500 km en quinze jours pour franchir les forêts, puis déplacement lent de 1000 km avant l'hiver.",
+  "Ses pattes sont entièrement emplumées jusqu'aux doigts, adaptation unique au froid arctique ; le nom lagopus signifie littéralement « patte de lièvre »."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Buse_pattue",
+  "https://en.wikipedia.org/wiki/Rough-legged_buzzard",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

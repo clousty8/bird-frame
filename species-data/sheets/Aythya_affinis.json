@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Aythya affinis",
+ "summary_fr": "Le Petit Fuligule est un petit canard plongeur nord-américain à la silhouette compacte et au bec gris-bleu caractéristique. Les mâles affichent une tête noire irisée et une poitrine noire tranchant sur le ventre blanc, tandis que les femelles brunes portent une bande blanche caractéristique à la base du bec. Très proche du Fuligule milouinan, dont il se distingue surtout par la forme du crâne et les ailes en vol, ce canard plongeur fréquente les lacs et les eaux côtières d'Amérique du Nord. Il se nourrit en plongeant, consommant principalement des mollusques comme les moules et les palourdes. En hiver, il migre vers le sud, peuplant les eaux du golfe du Mexique, des Caraïbes et jusqu'à la Colombie. Occasionnellement observé en Europe occidentale comme vagabond rare, il reste une espèce accidentelle en France.",
+ "habitat": "Lacs et étendues d'eau côtières, lagunes et baies abritées, principalement en environnement dulcicole à légèrement saumâtre.",
+ "diet": "Mollusques (moules, palourdes, huîtres), graines de plantes aquatiques, quelques invertébrés aquatiques et petits poissons, notamment en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": "Ne niche pas en France.",
+  "passage": "Signalé très occasionnellement l'hiver (novembre à février) en tant que vagabond rare en Europe occidentale et dans les îles Britanniques."
+ },
+ "seasonality_fr": "Extrêmement rare et imprévisible en France. Les quelques observations documentées se concentrent en hiver, mais l'espèce ne peut être considérée comme régulière sur le territoire.",
+ "song_fr": "Peu vocal ; femelle émet un cri discordant caractéristique nommé « scaup », mâle produit des sifflements faibles en parade nuptiale.",
+ "lookalikes": [
+  {
+   "scientific_name": "Aythya marila",
+   "common_name_fr": "Fuligule milouinan",
+   "why_fr": "Extrêmement similaire ; mâles aux teintes irisées de la tête et profil du crâne différents selon la lumière ; femelles distinguées par moins de blanc à la base du bec."
+  },
+  {
+   "scientific_name": "Aythya collaris",
+   "common_name_fr": "Fuligule à dos blanc",
+   "why_fr": "Mâles ressemblent en plumage d'éclipse ; contraste ailes/ventre moins marqué que chez le Petit Fuligule."
+  }
+ ],
+ "rarity_note": "Vagabond exceptionnel en France et en Europe occidentale, jamais observé régulièrement. Max score BirdNET : 0,013 seulement.",
+ "fun_facts": [
+  "Nomme « bluebill » en Amérique du Nord en référence à son bec gris-bleu distinctif très reconnaissable.",
+  "Son nom de famille, milouinan pour le Fuligule milouinan, reflète leur ressemblance étroite : ils forment une superspèce."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Petit_Fuligule",
+  "https://en.wikipedia.org/wiki/Lesser_scaup",
+  "https://www.avibase.bsc-eoc.org/species.jsp?avibaseid=65B0661C69C9A1F3"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

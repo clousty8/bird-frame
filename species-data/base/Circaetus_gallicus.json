@@ -1,0 +1,94 @@
+{
+ "scientific_name": "Circaetus gallicus",
+ "common_name_fr": "Circaète Jean-le-Blanc",
+ "birdnet_label": "Circaetus gallicus_Circaète Jean-le-Blanc",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Circaetus",
+  "species": "Circaetus gallicus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Circaète Jean-le-Blanc",
+   "url": "https://fr.wikipedia.org/wiki/Circa%C3%A8te_Jean-le-Blanc",
+   "description": "espèce d'oiseaux accipitriformes de la famille des accipitridae",
+   "extract": "Le Circaète Jean-le-Blanc est une espèce de rapaces spécialisée dans la chasse aux reptiles, principalement les serpents, de la famille des Accipitridae.",
+   "fulltext_chars": 10395
+  },
+  "en": {
+   "title": "Short-toed snake eagle",
+   "url": "https://en.wikipedia.org/wiki/Short-toed_snake_eagle",
+   "description": "Species of bird",
+   "extract": "The short-toed snake eagle, also known as the short-toed eagle, is a medium-sized bird of prey in the family Accipitridae, which also includes many other diurnal raptors such as kites, buzzards and harriers. The genus name Circaetus is from the Ancient Greek kirkos, a type of hawk, and aetos, \"eagle\". The specific gallicus means \"of Gallia\".",
+   "fulltext_chars": 4716
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Circaetus_gallicus_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 888,
+  "height": 1280,
+  "file": "Circaetus_gallicus_01.JPG",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Circaetus_gallicus_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Orchi",
+  "credit": "Self-photographed",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Circaetus_gallicus_01.JPG"
+ },
+ "france_universe": {
+  "max_score": 0.208,
+  "cities": {
+   "Le Mans": 0.013,
+   "Pornic": 0.018,
+   "Poitiers": 0.042,
+   "Paris": 0.01,
+   "Strasbourg": 0.02,
+   "Lyon": 0.121,
+   "Grenoble": 0.13,
+   "Marseille": 0.156,
+   "Toulouse": 0.208,
+   "Bordeaux": 0.135,
+   "Ajaccio": 0.147,
+   "Clermont-Ferrand": 0.12,
+   "Chamonix": 0.089,
+   "Perpignan": 0.194,
+   "Nancy": 0.015
+  },
+  "monthly_scores": [
+   0.0831,
+   0.1002,
+   0.1467,
+   0.1779,
+   0.1491,
+   0.1375,
+   0.1575,
+   0.208,
+   0.1676,
+   0.094,
+   0.079,
+   0.0846
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:06Z"
+}

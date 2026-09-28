@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Ardeola ralloides",
+ "summary_fr": "Petit héron au plumage chamois remarquable, le Crabier chevelu est un migrateur du bassin méditerranéen qui apparaît surtout en été en France. Lors de la période nuptiale, les adultes se parent d'aigrettes brunes et blanches à la tête, formant une chevelure caractéristique qui inspire son nom. En vol, il étonne par la dominance du blanc de ses ailes, contraste saisissant avec son corps tannés. Oiseau discret des zones humides, le Crabier niche en petites colonies au sein de roselières ou de bosquets près de l'eau, souvent côtoyant autres hérons. Il se nourrit principalement de grenouilles, complétant son régime par des insectes et poissons. Ses cris caractéristiques, émis surtout le soir ou si dérangé, permettent de le détecter dans les marais qu'il fréquente.",
+ "habitat": "Marais, estuaires, deltas, galeries riveraines avec végétation bien développée, zones humides d'eau douce près d'arbres ou de roseaux.",
+ "diet": "Grenouilles et batraciens, insectes, poissons d'eau douce ; recherche activement dans les zones peu profondes.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne ; exceptionnellement en France dans les régions méditerranéennes les plus chaudes.",
+  "niche": "Côtes méditerranéennes et zones humides du sud de la France, avril à septembre, deux nichées possibles.",
+  "passage": "Mars à avril et septembre à novembre lors des migrations entre l'Europe et l'Afrique."
+ },
+ "seasonality_fr": "Visible principalement d'avril à septembre en France ; plus régulier dans le sud méditerranéen (Provence, Languedoc). Passages notables lors des migrations de printemps et d'automne.",
+ "song_fr": "Oiseau plutôt silencieux ; cri caractéristique « crak » ou « quack » émis notamment le soir, lors de dérangement ou en période de reproduction.",
+ "lookalikes": [
+  {
+   "scientific_name": "Nycticorax nycticorax",
+   "common_name_fr": "Bihoreau gris",
+   "why_fr": "Taille et habitat similaires, cris graves ressemblant dans les zones humides nocturnes."
+  },
+  {
+   "scientific_name": "Egretta garzetta",
+   "common_name_fr": "Aigrette garzette",
+   "why_fr": "Silhouette en vol similaire malgré le plumage différent, fréquente les mêmes marais."
+  }
+ ],
+ "rarity_note": "Rare en France, localisé aux régions méditerranéennes où il est surtout estival. Absent des régions continentales du nord.",
+ "fun_facts": [
+  "Son nom vient des aigrettes (plumes longues) brunes et blanches qui ornent sa tête durant la reproduction, formant une véritable chevelure.",
+  "En vol, il paraît soudainement blanc grâce à ses ailes blanches, transformation remarquable par rapport à son corps chamois posé.",
+  "Oiseau colonial, il niche avec d'autres hérons et aigrettes dans des structures de brindilles précaires construites dans les arbres ou roseaux."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Crabier_chevelu",
+  "https://en.wikipedia.org/wiki/Squacco_heron",
+  "https://www.oiseaux.net/oiseaux/crabier.chevelu.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

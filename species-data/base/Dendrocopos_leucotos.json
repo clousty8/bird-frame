@@ -1,0 +1,68 @@
+{
+ "scientific_name": "Dendrocopos leucotos",
+ "common_name_fr": "Pic à dos blanc",
+ "birdnet_label": "Dendrocopos leucotos_Pic à dos blanc",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Piciformes",
+  "family": "Picidae",
+  "family_common": "Woodpeckers",
+  "genus": "Dendrocopos",
+  "species": "Dendrocopos leucotos"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pic à dos blanc",
+   "url": "https://fr.wikipedia.org/wiki/Pic_%C3%A0_dos_blanc",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pic à dos blanc est une espèce d'oiseaux de la famille des Picidae du Paléarctique, présent de l'Europe au Pacifique.",
+   "fulltext_chars": 5530
+  },
+  "en": {
+   "title": "White-backed woodpecker",
+   "url": "https://en.wikipedia.org/wiki/White-backed_woodpecker",
+   "description": "Species of bird",
+   "extract": "The white-backed woodpecker is a Eurasian woodpecker belonging to the genus Dendrocopos.",
+   "fulltext_chars": 3268
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Dendrocopos_leucotos_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3264,
+  "height": 2448,
+  "file": "Dendrocopos_leucotos_2.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Dendrocopos_leucotos_2.jpg/1920px-Dendrocopos_leucotos_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Alastair Rae",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Dendrocopos_leucotos_2.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0273,
+  "cities": {
+   "Marseille": 0.012,
+   "Ajaccio": 0.027
+  },
+  "monthly_scores": [
+   0.0246,
+   0.0273,
+   0.0126,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0238,
+   0.0264
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:06Z"
+}

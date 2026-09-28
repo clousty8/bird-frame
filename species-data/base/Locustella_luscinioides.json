@@ -1,0 +1,79 @@
+{
+ "scientific_name": "Locustella luscinioides",
+ "common_name_fr": "Locustelle luscinioïde",
+ "birdnet_label": "Locustella luscinioides_Locustelle luscinioïde",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Locustellidae",
+  "family_common": "Grassbirds and Allies",
+  "genus": "Locustella",
+  "species": "Locustella luscinioides"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Locustelle luscinioïde",
+   "url": "https://fr.wikipedia.org/wiki/Locustelle_luscinio%C3%AFde",
+   "description": "espèce d'oiseaux",
+   "extract": "La Locustelle luscinioïde est une espèce de passereaux de la famille des Locustellidae.",
+   "fulltext_chars": 1604
+  },
+  "en": {
+   "title": "Savi's warbler",
+   "url": "https://en.wikipedia.org/wiki/Savi's_warbler",
+   "description": "Species of bird",
+   "extract": "Savi's warbler is a species of Old World warbler in the genus Locustella. It breeds in Europe and the western Palearctic. It is migratory, wintering in northern and sub-Saharan Africa.",
+   "fulltext_chars": 6880
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/84/Locustellaluscinioides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 880,
+  "file": "Locustellaluscinioides.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/8/84/Locustellaluscinioides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Created by Sergey Yeliseev.",
+  "credit": "https://www.flickr.com/photos/yeliseev/2568406971/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Locustellaluscinioides.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0586,
+  "cities": {
+   "Paris": 0.015,
+   "Lille": 0.021,
+   "Strasbourg": 0.033,
+   "Lyon": 0.012,
+   "Grenoble": 0.012,
+   "Marseille": 0.023,
+   "Toulouse": 0.013,
+   "Ajaccio": 0.059,
+   "Chamonix": 0.013,
+   "Perpignan": 0.022,
+   "Nancy": 0.028
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0252,
+   0.0586,
+   0.0447,
+   0.0339,
+   0.0271,
+   0.0297,
+   0.0183,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:41Z"
+}

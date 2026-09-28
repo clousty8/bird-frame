@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Calidris falcinellus",
+ "common_name_fr": "Bécasseau falcinelle",
+ "birdnet_label": "Calidris falcinellus_Bécasseau falcinelle",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Calidris",
+  "species": "Calidris falcinellus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécasseau falcinelle",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9casseau_falcinelle",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Bécasseau falcinelle, également appelé bécasseau platyrhynque, est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae.",
+   "fulltext_chars": 4976
+  },
+  "en": {
+   "title": "Broad-billed sandpiper",
+   "url": "https://en.wikipedia.org/wiki/Broad-billed_sandpiper",
+   "description": "Species of bird",
+   "extract": "The broad-billed sandpiper is a small wader. The scientific specific name falcinellus is the diminutive from Latin falx, falcis, \"a small sickle\". It was formerly treated in its own monospecific genus Limicola, but this was found to be embedded within the wider genus Calidris, into which it was transferred in 2004.",
+   "fulltext_chars": 3248
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Broad_billed_sandpiper_by_Sreedev_Puthur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3600,
+  "height": 2400,
+  "file": "Broad_billed_sandpiper_by_Sreedev_Puthur.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Broad_billed_sandpiper_by_Sreedev_Puthur.jpg/1920px-Broad_billed_sandpiper_by_Sreedev_Puthur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Sreedev Puthur",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Broad_billed_sandpiper_by_Sreedev_Puthur.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0149,
+  "cities": {
+   "Ajaccio": 0.015
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0,
+   0.0128,
+   0.0,
+   0.0,
+   0.0,
+   0.0142,
+   0.0149,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:20Z"
+}

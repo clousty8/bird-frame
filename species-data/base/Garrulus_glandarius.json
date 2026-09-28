@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Garrulus glandarius",
+ "common_name_fr": "Geai des chênes",
+ "birdnet_label": "Garrulus glandarius_Geai des chênes",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Corvidae",
+  "family_common": "Crows, Jays, and Magpies",
+  "genus": "Garrulus",
+  "species": "Garrulus glandarius"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Geai des chênes",
+   "url": "https://fr.wikipedia.org/wiki/Geai_des_ch%C3%AAnes",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Geai des chênes est une espèce de passereaux de la famille des Corvidae.",
+   "fulltext_chars": 16455
+  },
+  "en": {
+   "title": "Eurasian jay",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_jay",
+   "description": "Species of bird",
+   "extract": "The Eurasian jay is a species of passerine bird in the family Corvidae. It has pinkish brown plumage with a black stripe on each side of a whitish throat, a bright blue panel on the upper wing and a black tail. The Eurasian jay is a woodland bird that occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and farther to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look different from each other, especially when comparing forms at the extremes of its range.",
+   "fulltext_chars": 7528
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4183,
+  "height": 2859,
+  "file": "Garrulus_glandarius_1_Luc_Viatour.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg/1920px-Garrulus_glandarius_1_Luc_Viatour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Luc Viatour",
+  "credit": "own work www.lucnix.be\nNikon case D300 optical Sigma 300mm F2,8",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.7971,
+  "cities": {
+   "Le Mans": 0.724,
+   "Pornic": 0.663,
+   "Rennes": 0.63,
+   "Poitiers": 0.738,
+   "Paris": 0.761,
+   "Lille": 0.704,
+   "Strasbourg": 0.796,
+   "Lyon": 0.781,
+   "Grenoble": 0.742,
+   "Marseille": 0.666,
+   "Toulouse": 0.682,
+   "Bordeaux": 0.723,
+   "Brest": 0.478,
+   "Ajaccio": 0.665,
+   "Clermont-Ferrand": 0.783,
+   "Chamonix": 0.764,
+   "Perpignan": 0.633,
+   "Nancy": 0.797
+  },
+  "monthly_scores": [
+   0.5813,
+   0.5557,
+   0.5821,
+   0.6679,
+   0.5468,
+   0.5668,
+   0.5998,
+   0.6197,
+   0.7801,
+   0.7971,
+   0.6686,
+   0.6238
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:41Z"
+}

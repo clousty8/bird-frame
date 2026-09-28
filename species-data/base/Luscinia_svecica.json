@@ -1,0 +1,94 @@
+{
+ "scientific_name": "Luscinia svecica",
+ "common_name_fr": "Gorgebleue à miroir",
+ "birdnet_label": "Luscinia svecica_Gorgebleue à miroir",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Muscicapidae",
+  "family_common": "Old World Flycatchers",
+  "genus": "Luscinia",
+  "species": "Luscinia svecica"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Gorgebleue à miroir",
+   "url": "https://fr.wikipedia.org/wiki/Gorgebleue_%C3%A0_miroir",
+   "description": "espèce d'oiseaux",
+   "extract": "La Gorgebleue à miroir, aussi orthographié Gorge-bleue, est une espèce de passereaux appartenant à la famille des Muscicapidae. Il existe de nombreuses sous-espèces, mais seules trois d'entre elles sont présentes en Europe. Elles se distinguent aux couleurs de leur gorge.",
+   "fulltext_chars": 8569
+  },
+  "en": {
+   "title": "Bluethroat",
+   "url": "https://en.wikipedia.org/wiki/Bluethroat",
+   "description": "Species of bird",
+   "extract": "The bluethroat is a small passerine bird in the Old World flycatcher family. It is a migratory insectivorous species breeding in wet birch wood or bushy swamp in Europe and across the Palearctic with a foothold in western Alaska. It nests in tussocks or low in dense bushes. It winters in the Iberian Peninsula, the northern half of Africa, and in southern Asia. The bluethroat, and similar small European flycatchers, are often called chats.",
+   "fulltext_chars": 6200
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4130,
+  "height": 2754,
+  "file": "Bluethroat_(Luscinia_svecica_svecica)_male_Oppdal.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg/1920px-Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Charles J. Sharp",
+  "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Bluethroat_(Luscinia_svecica_svecica)_male_Oppdal.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1221,
+  "cities": {
+   "Le Mans": 0.091,
+   "Pornic": 0.061,
+   "Rennes": 0.053,
+   "Poitiers": 0.085,
+   "Paris": 0.099,
+   "Lille": 0.089,
+   "Strasbourg": 0.073,
+   "Lyon": 0.067,
+   "Grenoble": 0.056,
+   "Marseille": 0.051,
+   "Toulouse": 0.06,
+   "Bordeaux": 0.064,
+   "Brest": 0.023,
+   "Ajaccio": 0.122,
+   "Clermont-Ferrand": 0.073,
+   "Chamonix": 0.053,
+   "Perpignan": 0.05,
+   "Nancy": 0.086
+  },
+  "monthly_scores": [
+   0.0973,
+   0.1221,
+   0.11,
+   0.0991,
+   0.0753,
+   0.0538,
+   0.0437,
+   0.0356,
+   0.0475,
+   0.0801,
+   0.1067,
+   0.106
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:22Z"
+}

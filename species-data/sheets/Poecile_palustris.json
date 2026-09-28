@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Poecile palustris",
+ "summary_fr": "La Mésange nonnette est une petite mésange élégante qui doit son nom à sa calotte noire brillante et sa petite bavette sombre, rappelant le voile des religieuses. Présente partout en France, c'est une espèce sédentaire qui ne migre jamais et passe sa vie sur le même territoire. Très bavarde, elle communique par un répertoire varié de cris où le characteristic « pit-siou » la différencie nettement de sa cousine, la Mésange boréale. Omnivore curieuse, elle dévore insectes et araignées au printemps, avant de se tourner vers graines et baies l'automne venu. Acrobate agile, elle visite volontiers les mangeoires et les buissons, sautillant d'une branche à l'autre. Elle cache ses graines précieusement dans des craquelures d'écorce pour survivre à l'hiver, comptant sur sa mémoire spatiale exceptionnelle pour les retrouver.",
+ "habitat": "Forêts mixtes ou de feuillus, en particulier chênaies et hêtraies ; aulnaies humides, parcs et jardins anciens avec de vieux arbres fruitiers et buissons denses.",
+ "diet": "Au printemps et été, insectes, araignées et petits invertébrés. Automne et hiver, graines (épicéa, pin, faines) et baies variées (chèvrefeuille, sureau, aubépine). Cache massivement sa nourriture.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Toute la France, n'abandon pas son territoire en hiver.",
+  "niche": "Partout en France où le climat et l'habitat conviennent, généralement une nichée par an.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente toute l'année en France, observable et audible en permanence. Particulièrement active à l'aube et en fin d'après-midi, chante même en plein hiver les jours doux.",
+ "song_fr": "Cri caractéristique « pit-siou » ou « pit-siè » qui la différencie de la Mésange boréale ; chant rapide de cinq à dix notes monosyllabiques « tsiu tsiu tsiu », comparé aux « mitraillettes laser de films de science-fiction ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Poecile montanus",
+   "common_name_fr": "Mésange boréale",
+   "why_fr": "Morphologie très similaire, même calotte noire. Seule la voix permet de les distinguer avec certitude : le cri « pit-siou » de la nonnette versus « tchi-tchi » plus grave de la boréale."
+  }
+ ],
+ "rarity_note": "Commune et régulière en France selon les modèles de détection acoustique (scores régionaux 0,1 à 0,37). Populations stables à bien conservées, bien que certaines régions connaissent un déclin documenté.",
+ "fun_facts": [
+  "Elle cache jusqu'à 89 000 graines d'épicéa en un seul automne et les retrouve de mémoire, grâce à un hippocampe 31% plus développé que celui de la Mésange charbonnière.",
+  "Seule sa voix permet de la distinguer à coup sûr de la Mésange boréale : les ornithologues britanniques plaisantent en disant que c'est une chance que les oiseaux eux-mêmes ne se trompent pas !",
+  "Elle se noie jamais en cas de disette, contrairement à d'autres mésanges : elle ne s'attaque jamais aux cadavres d'autres animaux."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Mésange_nonnette",
+  "https://en.wikipedia.org/wiki/Marsh_tit"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

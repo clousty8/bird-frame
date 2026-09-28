@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Numenius phaeopus",
+ "common_name_fr": "Courlis corlieu",
+ "birdnet_label": "Numenius phaeopus_Courlis corlieu",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Numenius",
+  "species": "Numenius phaeopus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Courlis corlieu",
+   "url": "https://fr.wikipedia.org/wiki/Courlis_corlieu",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Courlis corlieu est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae. C'est un limicole qui niche en Eurasie.",
+   "fulltext_chars": 5157
+  },
+  "en": {
+   "title": "Eurasian whimbrel",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_whimbrel",
+   "description": "Species of bird",
+   "extract": "The Eurasian whimbrel, historically known as the white-rumped whimbrel in North America, is a wader in the large family Scolopacidae. It is one of the most widespread of the curlews, breeding across much of subarctic Palearctic region and Europe as far south as Scotland. This species and the Hudsonian whimbrel were split in 2019, although some taxonomic authorities still consider them to be conspecific.",
+   "fulltext_chars": 6681
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Whimbrel_Numenius_phaeopus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3543,
+  "height": 2362,
+  "file": "Whimbrel_Numenius_phaeopus.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Whimbrel_Numenius_phaeopus.jpg/1920px-Whimbrel_Numenius_phaeopus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Whimbrel_Numenius_phaeopus.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2883,
+  "cities": {
+   "Le Mans": 0.137,
+   "Pornic": 0.225,
+   "Rennes": 0.198,
+   "Poitiers": 0.146,
+   "Paris": 0.083,
+   "Lille": 0.069,
+   "Strasbourg": 0.021,
+   "Lyon": 0.044,
+   "Grenoble": 0.029,
+   "Marseille": 0.043,
+   "Toulouse": 0.063,
+   "Bordeaux": 0.166,
+   "Brest": 0.288,
+   "Ajaccio": 0.121,
+   "Clermont-Ferrand": 0.071,
+   "Chamonix": 0.025,
+   "Perpignan": 0.05,
+   "Nancy": 0.029
+  },
+  "monthly_scores": [
+   0.0667,
+   0.0831,
+   0.1391,
+   0.2883,
+   0.151,
+   0.1089,
+   0.1112,
+   0.2153,
+   0.1869,
+   0.1047,
+   0.0655,
+   0.0684
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:13Z"
+}

@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Remiz pendulinus",
+ "summary_fr": "Minuscule passereau d'à peine 10 cm et 9 à 18 grammes, la Rémiz penduline est l'un des oiseaux les plus remarquables de ses habitats de zones humides en France. Elle se reconnaît à sa petite taille, son masque noir facial contrastant avec sa tête et son ventre gris-blanc, et son dos couleur cannelle. Son trait le plus extraordinaire reste son nid : une remarquable poche tissée en forme de poire ou de boule, suspendue à une branche d'arbre ou de roseau. Autrefois utilisé en Europe centrale comme pantoufle d'enfant, ce chef-d'œuvre architectural témoigne de son ingéniosité. Partiellement migratrice en France, elle est sensiblement plus rare dans le nord-ouest du pays, où sa présence demeure exceptionnelle, qu'en régions méditerranéennes et continentales.",
+ "habitat": "Roselières, aulnaies, saulaies, et autres formations boisées riveraines près de l'eau ; étangs et canaux à végétation dense.",
+ "diet": "Insectes et araignées en toutes saisons ; petites graines de saules et autres plantes aquatiques l'hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Principalement en région méditerranéenne et en Europe du Sud (sud de la France, Afrique du Nord) ; quelques hivernants réguliers en zones côtières tempérées.",
+  "niche": "Se reproduit localement en régions continentales et méditerranéennes (avril à juillet) ; rare en niches en zones tempérées du nord-ouest.",
+  "passage": "Passages marqués en mars (printemps) et septembre-octobre (automne) en France septentrionale et centrale."
+ },
+ "seasonality_fr": "Audible et observable surtout de mars à octobre dans le nord de la France, mais présence possible toute l'année en régions méditerranéennes et côtières.",
+ "song_fr": "Sifflement de contact très fin, « tsiiiuy » descendant légèrement, à la sonorité douce et délicate. Chant simple composé de phrases courtes, chips aigus et trilles bien espacés, parfois ressemblant au bourdonnement d'un insecte.",
+ "lookalikes": [
+  {
+   "scientific_name": "Cyanistes caeruleus",
+   "common_name_fr": "Mésange bleue",
+   "why_fr": "Taille et habitat humide semblables ; appels aigus et trilles pouvant prêter à confusion acoustique."
+  },
+  {
+   "scientific_name": "Lophophanes cristatus",
+   "common_name_fr": "Mésange huppée",
+   "why_fr": "Petit tit des régions boisées ; cris et notes aigus parfois superposables en analyse spectrale."
+  },
+  {
+   "scientific_name": "Prunella modularis",
+   "common_name_fr": "Accenteur mouchet",
+   "why_fr": "Chant grinçant composé de trilles rapides, confondable avec celui de la Rémiz en conditions d'enregistrement bruyant."
+  }
+ ],
+ "rarity_note": "Espèce rare à très rare en France, particulièrement dans le nord-ouest (Le Mans, Pornic) où elle n'est de passage que rarissimement. Régulière en régions méditerranéennes et continentales du sud et de l'est.",
+ "fun_facts": [
+  "Son nid tissé, poche suspendue d'environ 25 cm de haut, a autrefois servi de modèle pour les pantoufles d'enfant en Europe centrale, témoignant de son excellence architecturale.",
+  "Mâle et femelle construisent ensemble ce nid laborieux en environ 20 jours, mobilisant une remarquable coopération parentale."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/R%C3%A9miz_penduline",
+  "https://en.wikipedia.org/wiki/Eurasian_penduline_tit"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

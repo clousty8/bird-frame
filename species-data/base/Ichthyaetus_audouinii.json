@@ -1,0 +1,83 @@
+{
+ "scientific_name": "Ichthyaetus audouinii",
+ "common_name_fr": "Goéland d'Audouin",
+ "birdnet_label": "Ichthyaetus audouinii_Goéland d'Audouin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Ichthyaetus",
+  "species": "Ichthyaetus audouinii"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Goéland d'Audouin",
+   "url": "https://fr.wikipedia.org/wiki/Go%C3%A9land_d'Audouin",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Goéland d'Audouin est une espèce d'oiseaux marins Charadriiformes de la famille des Laridae. Le nom de cette espèce commémore le zoologiste français Victor Audouin (1797-1841). Comme beaucoup d'autres mouettes et goélands, il était jusqu'à récemment classé dans le genre Larus.",
+   "fulltext_chars": 6899
+  },
+  "en": {
+   "title": "Audouin's gull",
+   "url": "https://en.wikipedia.org/wiki/Audouin's_gull",
+   "description": "Species of bird",
+   "extract": "Audouin's gull is a large gull restricted to the Mediterranean and the western coast of Saharan Africa and the Iberian Peninsula. The genus name is from Ancient Greek ikhthus, \"fish\", and aetos, \"eagle\", and \nthe specific audouinii and the English name are after the French naturalist Jean Victoire Audouin.",
+   "fulltext_chars": 2028
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/12/Audouin%27s_Gulls_%28Ichthyaetus_audouinii%29_-_Santa_Margalida%2C_Spain_2022-04-14_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1636,
+  "height": 1090,
+  "file": "Audouin's_Gulls_(Ichthyaetus_audouinii)_-_Santa_Margalida,_Spain_2022-04-14_(01).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/1/12/Audouin%27s_Gulls_%28Ichthyaetus_audouinii%29_-_Santa_Margalida%2C_Spain_2022-04-14_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Ryan Hodnett",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Audouin%27s_Gulls_(Ichthyaetus_audouinii)_-_Santa_Margalida,_Spain_2022-04-14_(01).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3469,
+  "cities": {
+   "Marseille": 0.064,
+   "Toulouse": 0.029,
+   "Ajaccio": 0.347,
+   "Perpignan": 0.069
+  },
+  "monthly_scores": [
+   0.3469,
+   0.3453,
+   0.3336,
+   0.2578,
+   0.2325,
+   0.2435,
+   0.2606,
+   0.2195,
+   0.1943,
+   0.2481,
+   0.3125,
+   0.3377
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:35Z"
+}

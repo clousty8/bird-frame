@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Chloris chloris",
+ "summary_fr": "Le Verdier d'Europe est une petite passéreau familier de la famille des fringillidés, très courant en France toute l'année. Son plumage vert olivâtre parsemé de taches jaunes vives sur les ailes et la queue le rend reconnaissable, surtout chez le mâle plus éclatant. Ce petit oiseau grégaire affectionne particulièrement les mangeoires garnies de graines de tournesol en hiver, où il se pose tranquillement pour manger, différemment des mésanges qui fuient avec leur butin. Partiellement migrateur, le Verdier reproduit localement est renforcé en hiver par des oiseaux venus du nord et de l'est. Ses trilles sonores et cristallins, souvent terminés par une roulade nasillarde caractéristique, sont remarquables même en vol nuptial spectaculaire. Population en déclin notable en France depuis deux décennies.",
+ "habitat": "Lisières de forêts, boqueteaux, haies, zones arbustives, jardins, parcs, vergers et même en milieu urbain. Apprécie les mosaïques de milieux ouverts et semi-boisés.",
+ "diet": "Graines de mercuriale, d'orme, d'if, de charme et d'aulne. Tournesol, lin, chanvre en cultures. Insectes en été, baies et petites graines en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Toute la France, les nicheurs locaux sédentaires sont rejoints par des oiseaux d'Europe du Nord et de l'Est en octobre-novembre.",
+  "niche": "Partout en France, d'avril à août, généralement deux pontes, exceptionnellement trois.",
+  "passage": "Passages marqués en mars (printemps) et octobre-novembre (automne)."
+ },
+ "seasonality_fr": "Visible et audible toute l'année en France, y compris en hiver. Les passages migratoires accentuent les populations aux équinoxes.",
+ "song_fr": "Trilles cristallins clairs et sonores rappelant une clochette, terminés par une roulade nasale traînante caractéristique. Cri de contact « khip-khip » répété. Chant léger « gugugu » des adultes.",
+ "lookalikes": [
+  {
+   "scientific_name": "Carduelis carduelis",
+   "common_name_fr": "Chardonneret élégant",
+   "why_fr": "Taches jaunes similaires aux ailes ; trilles et roulades nasales comparables."
+  },
+  {
+   "scientific_name": "Linaria cannabina",
+   "common_name_fr": "Linotte mélodieuse",
+   "why_fr": "Taille, comportement grégaire similaires ; chant avec trilles, mais tessiture plus douce."
+  },
+  {
+   "scientific_name": "Serinus serinus",
+   "common_name_fr": "Serin cini",
+   "why_fr": "Plumage jaune verdâtre ; chant avec trilles et gazouillements, roulade plus aiguë."
+  }
+ ],
+ "rarity_note": "Régulier et assez commun en France toute l'année, sauf populations fluctuantes et déclin avéré depuis les années 2000. Statut VU (vulnérable) en France selon UICN.",
+ "fun_facts": [
+  "Le Verdier s'est remarquablement bien adapté aux mangeoires hivernales et peut y rester une heure à manger tranquillement.",
+  "La trichomonose aviaire, une maladie transmise aux mangeoires, a contribué au déclin de ses populations en Grande-Bretagne et s'étend en Europe du Nord.",
+  "En vol nuptial, le mâle s'élance en battant mollement des ailes en chantant, ce vol onduleux est comparé à celui d'une chauve-souris."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Verdier_d'Europe",
+  "https://en.wikipedia.org/wiki/European_greenfinch",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

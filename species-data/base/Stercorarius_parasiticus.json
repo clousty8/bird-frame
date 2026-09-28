@@ -1,0 +1,78 @@
+{
+ "scientific_name": "Stercorarius parasiticus",
+ "common_name_fr": "Labbe parasite",
+ "birdnet_label": "Stercorarius parasiticus_Labbe parasite",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Stercorariidae",
+  "family_common": "Skuas and Jaegers",
+  "genus": "Stercorarius",
+  "species": "Stercorarius parasiticus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Labbe parasite",
+   "url": "https://fr.wikipedia.org/wiki/Labbe_parasite",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Labbe parasite est une espèce d'oiseaux marins de la famille des Stercorariidae. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 4914
+  },
+  "en": {
+   "title": "Parasitic jaeger",
+   "url": "https://en.wikipedia.org/wiki/Parasitic_jaeger",
+   "description": "Species of bird",
+   "extract": "The parasitic jaeger or arctic skua, also known as the parasitic skua or arctic jaeger, is a seabird in the skua family Stercorariidae. It is a migratory species breeding in Northern Fennoscandia, Scotland, Iceland, Greenland, Northern Canada, Alaska, and Siberia and wintering across the southern hemisphere. Kleptoparasitism is a major source of food for this species during migration and winter, and is where the name is derived from.",
+   "fulltext_chars": 5000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Arctic_skua_%28Stercorarius_parasiticus%29_on_an_ice_floe%2C_Svalbard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4819,
+  "height": 2711,
+  "file": "Arctic_skua_(Stercorarius_parasiticus)_on_an_ice_floe,_Svalbard.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Arctic_skua_%28Stercorarius_parasiticus%29_on_an_ice_floe%2C_Svalbard.jpg/1920px-Arctic_skua_%28Stercorarius_parasiticus%29_on_an_ice_floe%2C_Svalbard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "AWeith",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Arctic_skua_(Stercorarius_parasiticus)_on_an_ice_floe,_Svalbard.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1108,
+  "cities": {
+   "Ajaccio": 0.111
+  },
+  "monthly_scores": [
+   0.0913,
+   0.1068,
+   0.1108,
+   0.0654,
+   0.0433,
+   0.044,
+   0.0534,
+   0.0667,
+   0.071,
+   0.0796,
+   0.0884,
+   0.0946
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:25Z"
+}

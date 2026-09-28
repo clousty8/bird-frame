@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Aegypius monachus",
+ "summary_fr": "Le Vautour moine est l'un des plus grands rapaces du monde, avec une envergure pouvant dépasser 3 mètres et un poids atteignant 12,5 kilogrammes. Ce gigantesque charognard au plumage sombre presque noir et à la tête chauve, couverte d'un fin duvet évoquant la capuche d'un moine, est réparti à travers l'Eurasie tempérée, de l'Espagne à la Mandchourie. Son bec massif lui permet de déchirer les carcasses les plus coriaces et même de briser certains os pour atteindre la moelle. Contrairement aux vautours fauves, souvent bruyants et grégaires, il reste généralement silencieux, ne poussant que de rares cris sourds et gutturaux près du nid. Disparu de France au XIXe siècle, il y a été réintroduit à partir de 1992 dans les Grands Causses, puis dans les Baronnies et le Verdon, où une soixantaine de couples se reproduisent aujourd'hui. Ailleurs sur le territoire, il ne se montre qu'en hiver, en petit nombre, sur le pourtour méditerranéen et dans les Pyrénées. Il demeure l'un des rapaces les plus impressionnants qu'il soit possible d'observer en France.",
+ "habitat": "Régions montagneuses et semi-arides, prairies d'altitude, forêts claires ; niche dans de grands arbres ou sur des falaises peu dérangées.",
+ "diet": "Charognard strict : carcasses de grands mammifères, ongulés sauvages et bétail ; petits vertébrés à l'occasion.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Ailleurs qu'aux foyers réintroduits, rarement et en petit nombre sur le pourtour méditerranéen et dans les Pyrénées, d'octobre à avril.",
+  "niche": "Une population réintroduite se reproduit dans les Grands Causses, les Baronnies et le Verdon depuis 1992 (environ 60 couples en 2022) ; ailleurs, reproduction native en Espagne, en Turquie et en Asie centrale.",
+  "passage": "Passages irréguliers en fin d'hiver et en automne, surtout dans le sud et l'est du pays, en dehors des foyers de reproduction."
+ },
+ "seasonality_fr": "Visible toute l'année autour des foyers réintroduits du Sud (Grands Causses, Baronnies, Verdon) ; ailleurs, observations rares, surtout d'octobre à avril.",
+ "song_fr": "Remarquablement silencieux. Cris sourds et gutturaux, miaulements bas ou rugissements étouffés entre adultes au nid ; muet en vol et hors du site de nidification.",
+ "lookalikes": [
+  {
+   "scientific_name": "Gyps fulvus",
+   "common_name_fr": "Vautour fauve",
+   "why_fr": "Cohabite sur les mêmes falaises méditerranéennes ; cris rauques et geignements au nid pouvant être confondus par le modèle avec les cris sourds du Vautour moine."
+  },
+  {
+   "scientific_name": "Aquila chrysaetos",
+   "common_name_fr": "Aigle royal",
+   "why_fr": "Grand rapace des mêmes massifs montagneux ; ses jappements et cris aigus peuvent être confondus avec les grognements gutturaux du Vautour moine."
+  },
+  {
+   "scientific_name": "Corvus corax",
+   "common_name_fr": "Grand corbeau",
+   "why_fr": "Partage falaises et carcasses avec le Vautour moine ; ses croassements graves et gutturaux peuvent prêter à confusion avec les cris sourds émis au nid."
+  }
+ ],
+ "rarity_note": "Rare en France en dehors des foyers réintroduits du Sud (Grands Causses, Baronnies, Verdon) ; visiteur hivernal très rare ailleurs. Population mondiale : 15 600-21 000 individus.",
+ "fun_facts": [
+  "Le Vautour moine est le plus grand rapace du monde ; son envergure peut atteindre 3,1 mètres, comparable à celle d'un petit avion.",
+  "Son système immunitaire et son acidité gastrique extrême lui permettent de digérer les pathogènes les plus dangereux présents dans les carcasses.",
+  "Disparu de France au XIXe siècle, il y a été réintroduit dès 1992 dans les Grands Causses, où il niche de nouveau depuis."
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Cinereous_vulture",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/la-lpo-en-actions/conservation-d-especes-menacees/especes-prioritaires/missions-rapaces/vautours/grands-causses",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

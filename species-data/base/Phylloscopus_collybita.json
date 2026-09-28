@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Phylloscopus collybita",
+ "common_name_fr": "Pouillot véloce",
+ "birdnet_label": "Phylloscopus collybita_Pouillot véloce",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Phylloscopidae",
+  "family_common": "Leaf Warblers",
+  "genus": "Phylloscopus",
+  "species": "Phylloscopus collybita"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pouillot véloce",
+   "url": "https://fr.wikipedia.org/wiki/Pouillot_v%C3%A9loce",
+   "description": "espèce d'oiseaux passériformes de la famille des Phylloscopidae",
+   "extract": "Le Pouillot véloce est une espèce d'oiseaux de la famille des Phylloscopidae très répandue dans l'Ancien Monde. Brun verdâtre dessus et blanc cassé dessous, il possède un chant caractéristique à deux tons dont les francophones retiennent le rythme et le son métallique ressemblant à ceux de pièces de monnaie que l'on égrène, d'où le surnom de « compteur d'écus », et que les anglophones traduisent par un chiff-chaff qui lui a valu son nom vulgaire anglais de Common Chiffchaff. L'espèce est divisée en un certain nombre de sous-espèces, dont certaines sont désormais considérées comme des espèces à part entière. La femelle construit un nid en forme de dôme sur ou près du sol, et assume l'essentiel de la couvaison et de l'alimentation des oisillons, tandis que le mâle a peu d'implication dans la nidification, mais défend son territoire contre ses rivaux, et attaque les prédateurs potentiels.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Common chiffchaff",
+   "url": "https://en.wikipedia.org/wiki/Common_chiffchaff",
+   "description": "Small migratory passerine bird found in Europe, Asia and north Africa",
+   "extract": "The common chiffchaff, or simply the chiffchaff, is a common and widespread leaf warbler which breeds in open woodlands throughout northern and temperate Europe and the Palearctic.",
+   "fulltext_chars": 19041
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Chiffchaff_-_Phylloscopus_collybita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2531,
+  "height": 1687,
+  "file": "Chiffchaff_-_Phylloscopus_collybita.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Chiffchaff_-_Phylloscopus_collybita.jpg/1920px-Chiffchaff_-_Phylloscopus_collybita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Chiffchaff_-_Phylloscopus_collybita.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9511,
+  "cities": {
+   "Le Mans": 0.945,
+   "Pornic": 0.914,
+   "Rennes": 0.929,
+   "Poitiers": 0.906,
+   "Paris": 0.951,
+   "Lille": 0.948,
+   "Strasbourg": 0.938,
+   "Lyon": 0.84,
+   "Grenoble": 0.749,
+   "Marseille": 0.728,
+   "Toulouse": 0.792,
+   "Bordeaux": 0.798,
+   "Brest": 0.878,
+   "Ajaccio": 0.803,
+   "Clermont-Ferrand": 0.846,
+   "Chamonix": 0.834,
+   "Perpignan": 0.821,
+   "Nancy": 0.944
+  },
+  "monthly_scores": [
+   0.7661,
+   0.7901,
+   0.8114,
+   0.9511,
+   0.9349,
+   0.8847,
+   0.8078,
+   0.7156,
+   0.8165,
+   0.8348,
+   0.8214,
+   0.8025
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:22Z"
+}

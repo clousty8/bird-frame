@@ -1,0 +1,69 @@
+{
+ "scientific_name": "Charadrius morinellus",
+ "common_name_fr": "Pluvier guignard",
+ "birdnet_label": "Charadrius morinellus_Pluvier guignard",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Charadriidae",
+  "family_common": "Plovers and Lapwings",
+  "genus": "Charadrius",
+  "species": "Charadrius morinellus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Guignard d'Eurasie",
+   "url": "https://fr.wikipedia.org/wiki/Guignard_d'Eurasie",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Guignard d'Eurasie, ou Pluvier guignard, est une espèce d'oiseaux Charadriiformes de la famille des Charadriidae. Elle est l'unique représentante du genre Eudromias.",
+   "fulltext_chars": 3065
+  },
+  "en": {
+   "title": "Eurasian dotterel",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_dotterel",
+   "description": "Species of bird",
+   "extract": "The Eurasian dotterel, also known in Europe as just dotterel, is a small wader in the plover family of birds. It is the only species placed in the genus Eudromias.",
+   "fulltext_chars": 5476
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Charadrius_morinellus_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1087,
+  "height": 1385,
+  "file": "Charadrius_morinellus_male.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Charadrius_morinellus_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Charadrius_morinellus_male.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0592,
+  "cities": {
+   "Ajaccio": 0.059
+  },
+  "monthly_scores": [
+   0.035,
+   0.0402,
+   0.0592,
+   0.0444,
+   0.0152,
+   0.011,
+   0.0139,
+   0.0263,
+   0.0365,
+   0.0379,
+   0.0337,
+   0.0363
+  ],
+  "months": [
+   3
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:40Z"
+}

@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Pyrrhocorax graculus",
+ "common_name_fr": "Chocard à bec jaune",
+ "birdnet_label": "Pyrrhocorax graculus_Chocard à bec jaune",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Corvidae",
+  "family_common": "Crows, Jays, and Magpies",
+  "genus": "Pyrrhocorax",
+  "species": "Pyrrhocorax graculus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Chocard à bec jaune",
+   "url": "https://fr.wikipedia.org/wiki/Chocard_%C3%A0_bec_jaune",
+   "description": "espèce d'oiseaux passériformes de la famille des corvidae",
+   "extract": "Le Chocard à bec jaune est une espèce de passereaux de la famille des Corvidae et une des deux espèces du genres Pyrrhocorax avec le Crave à bec rouge. De plus, le chocard à bec jaune est beaucoup plus proche du Crave à bec rouge que du Choucas des tours, bien que le Choucas des tours et le Chocard à bec jaune soient souvent confondus, ce qui fait qu'en montagne, il est souvent appelé à tort Choucas.",
+   "fulltext_chars": 7749
+  },
+  "en": {
+   "title": "Alpine chough",
+   "url": "https://en.wikipedia.org/wiki/Alpine_chough",
+   "description": "Bird in the crow family",
+   "extract": "The Alpine chough or yellow-billed chough is a bird in the crow family, one of only two species in the genus Pyrrhocorax. Its two subspecies breed in high mountains from Spain eastwards through southern Europe and North Africa to Central Asia and Nepal, and it may nest at a higher altitude than any other bird. Its eggs have adaptations to the thin atmosphere that improve oxygen take-up and reduce water loss.",
+   "fulltext_chars": 16143
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Chocard_%C3%A0_bec_jaune.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1365,
+  "file": "Chocard_à_bec_jaune.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Chocard_%C3%A0_bec_jaune.jpg/1920px-Chocard_%C3%A0_bec_jaune.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Vianney Bajart",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Chocard_%C3%A0_bec_jaune.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2382,
+  "cities": {
+   "Poitiers": 0.013,
+   "Strasbourg": 0.114,
+   "Lyon": 0.195,
+   "Grenoble": 0.204,
+   "Marseille": 0.113,
+   "Toulouse": 0.093,
+   "Bordeaux": 0.034,
+   "Ajaccio": 0.109,
+   "Clermont-Ferrand": 0.116,
+   "Chamonix": 0.238,
+   "Perpignan": 0.082,
+   "Nancy": 0.045
+  },
+  "monthly_scores": [
+   0.1137,
+   0.1135,
+   0.1443,
+   0.1308,
+   0.1766,
+   0.2275,
+   0.2382,
+   0.1956,
+   0.1591,
+   0.2056,
+   0.1488,
+   0.1284
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:32Z"
+}

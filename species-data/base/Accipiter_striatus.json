@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Accipiter striatus",
+ "common_name_fr": "Épervier brun",
+ "birdnet_label": "Accipiter striatus_Épervier brun",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Accipiter",
+  "species": "Accipiter striatus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Épervier brun",
+   "url": "https://fr.wikipedia.org/wiki/%C3%89pervier_brun",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Épervier brun est une espèce de rapaces diurnes appartenant à la famille des Accipitridae.",
+   "fulltext_chars": 1670
+  },
+  "en": {
+   "title": "Sharp-shinned hawk",
+   "url": "https://en.wikipedia.org/wiki/Sharp-shinned_hawk",
+   "description": "Species of bird",
+   "extract": "The sharp-shinned hawk or northern sharp-shinned hawk, colloquially often nicknamed sharpie, is a small hawk, with males being the smallest hawks in the United States and Canada, but with the species averaging larger than some Neotropical species, such as the tiny hawk. The taxonomy is far from resolved, with some authorities considering the southern taxa to represent three separate species, white-breasted hawk, plain-breasted hawk, and rufous-thighed hawk. The American Ornithological Society and some other checklists keep all four species conspecific. A recent genetic study additionally recommended splitting the three Caribbean island populations as three additional separate species, though this has not yet been adopted by any of the ornithological authorities.",
+   "fulltext_chars": 17195
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Accipiter_striatus%2C_Canet_Road%2C_San_Luis_Obispo_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2208,
+  "height": 3100,
+  "file": "Accipiter_striatus,_Canet_Road,_San_Luis_Obispo_2.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Accipiter_striatus%2C_Canet_Road%2C_San_Luis_Obispo_2.jpg/1920px-Accipiter_striatus%2C_Canet_Road%2C_San_Luis_Obispo_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "ALAN SCHMIERER from near Patagonia, AZ, USA",
+  "credit": "HAWK, SHARP-SHINNED (11-30-08) canet rd, slo -05",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Accipiter_striatus,_Canet_Road,_San_Luis_Obispo_2.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.012,
+  "cities": {
+   "Pornic": 0.012
+  },
+  "monthly_scores": [
+   0.0112,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0103,
+   0.012,
+   0.0118
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:21Z"
+}

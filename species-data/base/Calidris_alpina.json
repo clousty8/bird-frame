@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Calidris alpina",
+ "common_name_fr": "Bécasseau variable",
+ "birdnet_label": "Calidris alpina_Bécasseau variable",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Calidris",
+  "species": "Calidris alpina"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécasseau variable",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9casseau_variable",
+   "description": "espèce d'oiseaux charadriiformes de la famille des scolopacidae",
+   "extract": "Le Bécasseau variable, également appelé bécasseau à dos roux, est une espèce d'oiseaux de la famille des Scolopacidae.",
+   "fulltext_chars": 8930
+  },
+  "en": {
+   "title": "Dunlin",
+   "url": "https://en.wikipedia.org/wiki/Dunlin",
+   "description": "Species of bird",
+   "extract": "The dunlin is a small wader in the genus Calidris. The English name is a dialect form of \"dunling\", first recorded in 1531–1532. It derives from dun, \"dull brown\", with the suffix -ling, meaning a person or thing with the given quality.",
+   "fulltext_chars": 7233
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Calidris_alpina_alpina%2C_Riga%2C_Latvia_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4000,
+  "height": 3000,
+  "file": "Calidris_alpina_alpina,_Riga,_Latvia_1.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Calidris_alpina_alpina%2C_Riga%2C_Latvia_1.jpg/1920px-Calidris_alpina_alpina%2C_Riga%2C_Latvia_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Jevgenijs Slihto from Riga, Latvia",
+  "credit": "Dunlin",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Calidris_alpina_alpina,_Riga,_Latvia_1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.42,
+  "cities": {
+   "Le Mans": 0.276,
+   "Pornic": 0.346,
+   "Rennes": 0.366,
+   "Poitiers": 0.228,
+   "Paris": 0.23,
+   "Lille": 0.28,
+   "Strasbourg": 0.082,
+   "Lyon": 0.084,
+   "Grenoble": 0.066,
+   "Marseille": 0.121,
+   "Toulouse": 0.142,
+   "Bordeaux": 0.235,
+   "Brest": 0.42,
+   "Ajaccio": 0.273,
+   "Clermont-Ferrand": 0.124,
+   "Chamonix": 0.058,
+   "Perpignan": 0.121,
+   "Nancy": 0.112
+  },
+  "monthly_scores": [
+   0.2811,
+   0.2689,
+   0.2171,
+   0.1846,
+   0.0902,
+   0.0859,
+   0.1348,
+   0.3464,
+   0.42,
+   0.3807,
+   0.3035,
+   0.2924
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:12Z"
+}

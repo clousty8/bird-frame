@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Phylloscopus ibericus",
+ "summary_fr": "Le Pouillot ibérique est un petit passereau insectivore de la famille des Phylloscopidae, longtemps considéré comme une simple variante du Pouillot véloce avant d'être reconnu comme espèce distincte en 2016. Son plumage vert olive, sans la teinte brunâtre du véloce, sa poitrine jaunâtre et son ventre blanc le rapprochent visuellement du Pouillot des saules, au point que seul le chant permet une identification fiable : une série de notes saccadées bien plus rapide et monotone que le disyllabique du véloce, suivie d'un crépitement puis de sifflements variés. Nicheur d'été typique de la péninsule Ibérique et du nord-ouest du Maghreb, où il occupe ripisylves et forêts de feuillus à sous-bois dense, il compte aussi quelques rares couples installés dans les Pyrénées-Atlantiques, seul point d'ancrage français de l'espèce. Après la reproduction, il rejoint ses quartiers d'hiver en Afrique subsaharienne. En France, il reste peu commun, surtout détecté au printemps et en été, lorsque les mâles chantent pour défendre leur territoire ; toute détection par BirdNET mérite d'être confrontée avec attention au chant du Pouillot véloce, bien plus répandu.",
+ "habitat": "Zones humides boisées, ripisylves et forêts de feuillus avec sous-bois dense, du niveau de la mer aux zones montagnardes de la péninsule Ibérique.",
+ "diet": "Petits insectes, larves et araignées glanés dans le feuillage ; quelques baies en dehors de la saison de reproduction.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": "Péninsule Ibérique et nord-ouest du Maroc ; quelques rares couples nicheurs dans les Pyrénées-Atlantiques, en France.",
+  "passage": "En France, présence surtout d'avril à juillet, avec des observations possibles de mars à août selon les années."
+ },
+ "seasonality_fr": "En France, observé de mars à août, avec un pic au printemps et en été ; les rares couples des Pyrénées-Atlantiques chantent durant cette période.",
+ "song_fr": "Chant nettement plus rapide et monotone que celui du Pouillot véloce : notes saccadées répétées, courts crépitements puis sifflements variés.",
+ "lookalikes": [
+  {
+   "scientific_name": "Phylloscopus collybita",
+   "common_name_fr": "Pouillot véloce",
+   "why_fr": "Très proche visuellement et vocalement ; seul le chant, plus rapide et moins disyllabique chez l'ibérique, permet de trancher."
+  },
+  {
+   "scientific_name": "Phylloscopus trochilus",
+   "common_name_fr": "Pouillot des saules",
+   "why_fr": "Partage le ventre blanc et la poitrine jaunâtre de l'ibérique, avec des phrases chantées qui peuvent prêter à confusion."
+  }
+ ],
+ "rarity_note": "Espèce rare et peu régulière en France, où seules les Pyrénées-Atlantiques accueillent quelques couples ; bien plus commune en Espagne et au Portugal.",
+ "fun_facts": [
+  "Considéré pendant des décennies comme une simple sous-espèce du Pouillot véloce, il n'a été reconnu comme espèce à part entière qu'en 2016.",
+  "Son plumage ressemble à s'y méprendre à celui du Pouillot véloce : seul le chant, plus rapide et crépitant, permet de le distinguer à coup sûr.",
+  "Les Pyrénées-Atlantiques abritent les seuls couples nicheurs connus de France, à la limite nord de son aire ibéro-marocaine."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pouillot_ib%C3%A9rique",
+  "https://en.wikipedia.org/wiki/Iberian_chiffchaff",
+  "https://oiseaux.net/oiseaux/pouillot-iberique"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

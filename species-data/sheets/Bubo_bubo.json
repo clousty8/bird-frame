@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Bubo bubo",
+ "summary_fr": "Le Grand-duc d'Europe est le plus grand rapace nocturne au monde, avec ses 75 cm de haut et ses impressionnantes aigrettes dressées. Cet oiseau aristocratique et massif domine les falaises rocheuses d'Eurasie, du Portugal à la Corée. Doté d'un plumage brun-roussâtre moucheté de noir et d'yeux rouge-orangé caractéristiques, il est un chasseur silencieux malgré sa grande envergure de 160 à 188 cm. Son régime alimentaire exceptionnellement varié couvre tous les échelons trophiques, des scarabées aux chevreuils, mais privilégie les mammifères et les oiseaux. Superprédateur sans rival naturel en Europe hormis l'homme, il occupe les falaises, les escarpements rocheux et les remparts de châteaux forts, souvent près de l'eau. Territorial toute l'année, il peut vivre plus de 20 ans et produit un cri caractéristique : le célèbre « bouhou ».",
+ "habitat": "Falaises rocheuses, escarpements, zones montagneuses ; aussi anciens nids de rapaces ou trous d'arbres en régions nordiques. Préfère les proximités de plans d'eau et les secteurs rocheux des régions méditerranéennes ou continentales.",
+ "diet": "Mammifères (campagnols, rats, lapins, hérissons, renardeaux, lièvres) et oiseaux de toutes tailles ; également serpents, lézards, amphibiens, poissons, crabes et insectes volumineux. Pas d'autre prédateur naturel en Europe.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "En France, l'espèce est présente toute l'année dans les massifs montagneux et zones rocheuses du sud et du centre, notamment les Alpes, le Massif central et les Pyrénées.",
+  "niche": "Nicheur résidant en France permanente, surtout en régions méditerranéennes et montagneuses ; reproduction de fin mars à début avril, avec 2 à 4 œufs en moyenne.",
+  "passage": null
+ },
+ "seasonality_fr": "Présent toute l'année en France, notamment de septembre à avril lorsqu'il est audible depuis les falaises. Chants nuptiaux en automne et hiver, particulièrement de septembre à février.",
+ "song_fr": "Cri caractéristique : « bouhou » ou « ouhouhou-ou-ouhouhouhouhou » entendu de très loin (d'où son nom latin Bubo bubo). Émis surtout de septembre à février durant la reproduction. Divers autres bruits moins connus.",
+ "lookalikes": [
+  {
+   "scientific_name": "Strix aluco",
+   "common_name_fr": "Chouette hulotte",
+   "why_fr": "Chouette noctambule de taille notable, mais bien plus petite (moitié du Grand-duc) ; cris plus aigus."
+  },
+  {
+   "scientific_name": "Asio otus",
+   "common_name_fr": "Hibou moyen-duc",
+   "why_fr": "Partage les aigrettes dressées du Grand-duc mais reste 5 fois plus léger ; cris flûtés caractéristiques."
+  },
+  {
+   "scientific_name": "Strix uralensis",
+   "common_name_fr": "Chouette de l'Oural",
+   "why_fr": "Vaste chouette europsienne sans aigrettes ; ton cri « kkooo-kooo » diffère du « bouhou » du Grand-duc."
+  }
+ ],
+ "rarity_note": "Localisé en France, présent toute l'année en zones rocheuses des régions montagneuses ou méditerranéennes (sud, centre, est). Population stable mais inégale selon les régions. Jamais commun.",
+ "fun_facts": [
+  "Supérprédateur capable de chasser d'autres rapaces nocturnes : aucun prédateur naturel en Europe hormis l'homme.",
+  "Vol d'une puissance remarquable malgré 3 kg pour une femelle : le plumage duveteux le rend silencieux, comme tous les hiboux.",
+  "Sa longévité dépasse 20 ans et l'envergure atteint 1,88 m : les plus grandes femelles font le double du poids des mâles."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Hibou_grand-duc",
+  "https://en.wikipedia.org/wiki/Eurasian_eagle-owl",
+  "https://oiseaux.net/bubo-bubo.html",
+  "https://www.lpo.fr/la-lpo/nos-publications/cahiers-d-ornithologie/all-about-raptors"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

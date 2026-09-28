@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Melanitta fusca",
+ "summary_fr": "Grand canard marin trapu au bec orangé, la Macreuse brune se reconnaît chez le mâle à son plumage noir luisant, ponctué d'une tache blanche triangulaire sur l'aile et d'une petite virgule blanche sous l'œil ; la femelle, plus terne, arbore un brun uniforme. Elle niche loin de la France, dans la toundra et les forêts claires de Scandinavie, de Russie du Nord et de Sibérie occidentale, jusqu'au bassin du Ienisseï. À l'automne, les populations gagnent les mers froides d'Europe du Nord et de la Baltique pour y passer l'hiver, et quelques groupes limités atteignent les côtes françaises, surtout en Manche et en Atlantique, entre octobre et avril, avec des mouvements plus marqués en fin d'automne et en fin d'hiver. Excellente plongeuse, elle descend souvent au-delà de vingt mètres pour arracher moules, coques et crustacés au fond marin, formant parfois de petits radeaux au large. Discrète vocalement, elle se signale surtout par le bruissement de ses ailes en vol. Classée Vulnérable par l'UICN, elle souffre du déclin de ses proies benthiques et des pollutions marines chroniques.",
+ "habitat": "Mers froides et littoraux exposés d'Europe du Nord ; en hivernage, baies abritées et estuaires des côtes atlantiques et de la Manche françaises.",
+ "diet": "Mollusques bivalves (moules, coques) et crustacés benthiques, capturés en plongée jusqu'à plus de vingt mètres de profondeur.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Principalement dans les mers du Nord, la Baltique et l'Atlantique nord-européen ; petits contingents sur les côtes françaises de la Manche et de l'Atlantique.",
+  "niche": "Ne niche pas en France ; reproduction dans la toundra et les forêts claires de Scandinavie, de Russie du Nord et de Sibérie occidentale jusqu'au Ienisseï.",
+  "passage": "Passages et présence hivernale d'octobre à avril, avec pointes en fin d'automne et en février-mars ; effectifs très variables selon les hivers."
+ },
+ "seasonality_fr": "Présente en France d'octobre à avril, avec des passages plus marqués en fin d'automne et en fin d'hiver ; totalement absente en été.",
+ "song_fr": "Espèce peu vocale hors des sites de reproduction arctiques ; en France, surtout le bruissement caractéristique des ailes en vol et de brefs sifflements ou grognements gutturaux.",
+ "lookalikes": [
+  {
+   "scientific_name": "Melanitta nigra",
+   "common_name_fr": "Macreuse noire",
+   "why_fr": "Même genre et silhouette proche ; le mâle est entièrement noir sans tache blanche, la femelle brune s'en distingue mal à distance."
+  },
+  {
+   "scientific_name": "Somateria mollissima",
+   "common_name_fr": "Eider à duvet",
+   "why_fr": "Autre gros canard marin plongeur partageant les mêmes eaux côtières hivernales, silhouette massive comparable en vol."
+  },
+  {
+   "scientific_name": "Mergellus albellus",
+   "common_name_fr": "Harle piette",
+   "why_fr": "Petit plongeur hivernant aux zones de présence parfois voisines ; confusion possible sur silhouette ou cris lointains en vol."
+  }
+ ],
+ "rarity_note": "Visiteuse peu commune et irrégulière sur les côtes françaises, en limite méridionale de son aire d'hivernage.",
+ "fun_facts": [
+  "Le mâle noir et blanc contraste fortement avec la femelle brune et terne, ce qui complique l'identification des groupes mixtes.",
+  "Elle peut plonger au-delà de vingt mètres pour atteindre ses proies benthiques, une profondeur remarquable chez les canards marins.",
+  "Son statut Vulnérable reflète un déclin marqué des effectifs depuis les années 1990, lié à la raréfaction des proies et aux pollutions des mers du Nord."
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Velvet_scoter",
+  "https://oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/",
+  "https://www.iucnredlist.org/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

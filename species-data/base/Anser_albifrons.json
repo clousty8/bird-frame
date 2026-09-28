@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Anser albifrons",
+ "common_name_fr": "Oie rieuse",
+ "birdnet_label": "Anser albifrons_Oie rieuse",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Anser",
+  "species": "Anser albifrons"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Oie rieuse",
+   "url": "https://fr.wikipedia.org/wiki/Oie_rieuse",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Oie rieuse est une espèce d'oies de la famille des Anatidae. Elle assez grande bien que de taille inférieure à l'Oie cendrée.",
+   "fulltext_chars": 3002
+  },
+  "en": {
+   "title": "Greater white-fronted goose",
+   "url": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose",
+   "description": "Species of bird",
+   "extract": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\". In the United Kingdom and Ireland, it has been known as the white-fronted goose; in North America, it is known as the greater white-fronted goose, and this name is also increasingly adopted internationally. Even more distinctive are the salt-and-pepper markings on the breast of adult birds, which is why the goose is colloquially called the \"specklebelly\" in North America.",
+   "fulltext_chars": 10786
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Anser_albifrons_albifrons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3517,
+  "height": 2637,
+  "file": "Anser_albifrons_albifrons.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Anser_albifrons_albifrons.jpg/1920px-Anser_albifrons_albifrons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Hans Hillewaert",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Anser_albifrons_albifrons.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1218,
+  "cities": {
+   "Le Mans": 0.035,
+   "Pornic": 0.02,
+   "Rennes": 0.028,
+   "Poitiers": 0.021,
+   "Paris": 0.063,
+   "Lille": 0.122,
+   "Strasbourg": 0.072,
+   "Lyon": 0.018,
+   "Grenoble": 0.018,
+   "Marseille": 0.026,
+   "Toulouse": 0.016,
+   "Bordeaux": 0.011,
+   "Brest": 0.018,
+   "Ajaccio": 0.094,
+   "Clermont-Ferrand": 0.018,
+   "Chamonix": 0.02,
+   "Perpignan": 0.021,
+   "Nancy": 0.069
+  },
+  "monthly_scores": [
+   0.1214,
+   0.1218,
+   0.0899,
+   0.0116,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0131,
+   0.1046,
+   0.114,
+   0.1216
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:23Z"
+}

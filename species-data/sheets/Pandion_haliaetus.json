@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Pandion haliaetus",
+ "summary_fr": "Rapace diurne de taille moyenne au profil singulier, le Balbuzard pêcheur est un piscivore spécialisé cosmopolite. Oiseau distinctif avec tête et poitrine blanches, bandeau noir caractéristique traversant l'oeil, ailes longues et étroites. Uniquement adapté à la chasse aquatique : orteils externes réversibles comme chez les chouettes, narines fermetures hermétiques, coussinets rugueux aux pattes pour maintenir les proies glissantes. Victime majeure du DDT dans les années 1950-70, disparu de France continentale, il opère un remarquable retour démographique depuis les années 1980. Deux noyaux de population distincts : littoraux corses (environ 25 couples nicheurs) et forêt d'Orléans en région Centre-Val de Loire (environ 20 couples). Nicheur strict des zones lacustres et fluviales poissonnueuses, migrateur vrai sur l'Europe occidentale, hivernant partiellement en Afrique du Nord et péninsule Ibérique.",
+ "habitat": "Lacs d'eau douce, fleuves, rivières, cours d'eau côtiers saumâtres peu profonds et poissonneux. Niche sur grands arbres, rebords rocheux, poteaux de téléphone ou plates-formes artificielles en proche proximité de l'eau.",
+ "diet": "Piscivore quasi strict (99 % de son régime). Capture poissons de 50 g à 2 kg en plongeant depuis 10 à 50 m de hauteur. Exceptionnellement petits mammifères, amphibiens, serpents, tortues ou crustacés.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique du Nord et péninsule Ibérique pour les nicheurs européens ; certains restent partiellement en Corse en hiver.",
+  "niche": "Forêt d'Orléans en région Centre-Val de Loire depuis 1984 et littoraux corses ; tentatives de recolonisation en Île-de-France et autres régions.",
+  "passage": "Passages migratoires marqués en mars et septembre-novembre entre quartiers d'hivernage africains et zones de reproduction euroasiatiques."
+ },
+ "seasonality_fr": "Présent toute l'année en Corse. Visible en France continentale surtout d'avril à octobre, avec pics lors des passages migratoires printaniers (mars) et automnaux (septembre-novembre).",
+ "song_fr": "Sifflements courts et aigus en vol. Cri d'alarme caractéristique : succession rapide de « piè » ou « piou ». Moins vocal que beaucoup de rapaces, ses appels servent surtout à la territorialité et la communication de couple.",
+ "lookalikes": [
+  {
+   "scientific_name": "Haliaeetus albicilla",
+   "common_name_fr": "Pygargue à queue blanche",
+   "why_fr": "Autre grand rapace piscivore. Possible confusion acoustique mineure chez BirdNET malgré morphologie très différente."
+  }
+ ],
+ "rarity_note": "Régulier en France lors des passages migratoires. Nicheur localisé et en lente expansion (Corse stabile, Centre-Val de Loire stable, tentatives ponctuelles ailleurs). Déterminant de présence humide.",
+ "fun_facts": [
+  "Unique parmi les rapaces diurnes : doigt externe réversible comme chez les chouettes, permettant de saisir des proies glissantes avec deux orteils vers l'avant et deux vers l'arrière.",
+  "Couples unis pour la vie, avec record de longévité dépassant 25 ans. Les deux parents chantent toute l'année pour défendre leur territoire nuptial.",
+  "Victime du DDT dans les années 1950-70, quasi-éteint en France, son retour spectaculaire après l'interdiction du pesticide en 1972 est une success-story de la conservation."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Balbuzard_p%C3%AAcheur",
+  "https://en.wikipedia.org/wiki/Osprey",
+  "https://www.lpo.fr/nos-actions/protection-d-espaces/les-rapaces",
+  "https://www.oiseaux.net/species/osprey.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

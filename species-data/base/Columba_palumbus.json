@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Columba palumbus",
+ "common_name_fr": "Pigeon ramier",
+ "birdnet_label": "Columba palumbus_Pigeon ramier",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Columbiformes",
+  "family": "Columbidae",
+  "family_common": "Pigeons and Doves",
+  "genus": "Columba",
+  "species": "Columba palumbus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pigeon ramier",
+   "url": "https://fr.wikipedia.org/wiki/Pigeon_ramier",
+   "description": "espèce d'oiseaux columbiformes de la famille des Columbidae",
+   "extract": "Le Pigeon ramier, est une espèce d'oiseaux de la famille des Columbidae. Il est parfois simplement appelé ramier ou palombe, c'est la plus grande et la plus commune des espèces de pigeons européens.",
+   "fulltext_chars": 19991
+  },
+  "en": {
+   "title": "Common wood pigeon",
+   "url": "https://en.wikipedia.org/wiki/Common_wood_pigeon",
+   "description": "Species of large, white/green-naped, arboreal bird of Eurasia",
+   "extract": "The common wood pigeon, also known simply as the wood pigeon, is a large pigeon native to the western Palearctic. It belongs to the genus Columba, which includes closely related species such as the rock dove. It has a flexible diet, feeding mainly on plant material, including cereals, and is therefore considered an agricultural pest. Wood pigeons are extensively hunted over much of their range, but this does not appear to have a major impact on their population numbers.",
+   "fulltext_chars": 8535
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Columba_palumbus_-garden_post-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3264,
+  "height": 2448,
+  "file": "Columba_palumbus_-garden_post-8.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Columba_palumbus_-garden_post-8.jpg/1920px-Columba_palumbus_-garden_post-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Tristan Ferne from UK",
+  "credit": "Our woodpigeon\n\nUploaded by Snowmanradio",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Columba_palumbus_-garden_post-8.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9971,
+  "cities": {
+   "Le Mans": 0.987,
+   "Pornic": 0.97,
+   "Rennes": 0.983,
+   "Poitiers": 0.965,
+   "Paris": 0.992,
+   "Lille": 0.997,
+   "Strasbourg": 0.982,
+   "Lyon": 0.913,
+   "Grenoble": 0.879,
+   "Marseille": 0.867,
+   "Toulouse": 0.878,
+   "Bordeaux": 0.922,
+   "Brest": 0.969,
+   "Ajaccio": 0.904,
+   "Clermont-Ferrand": 0.931,
+   "Chamonix": 0.895,
+   "Perpignan": 0.88,
+   "Nancy": 0.988
+  },
+  "monthly_scores": [
+   0.9572,
+   0.9775,
+   0.9942,
+   0.9967,
+   0.9971,
+   0.9946,
+   0.9923,
+   0.9963,
+   0.9909,
+   0.9615,
+   0.949,
+   0.9451
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:19Z"
+}

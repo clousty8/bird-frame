@@ -1,0 +1,94 @@
+{
+ "scientific_name": "Remiz pendulinus",
+ "common_name_fr": "Rémiz penduline",
+ "birdnet_label": "Remiz pendulinus_Rémiz penduline",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Remizidae",
+  "family_common": "Penduline-Tits",
+  "genus": "Remiz",
+  "species": "Remiz pendulinus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Rémiz penduline",
+   "url": "https://fr.wikipedia.org/wiki/R%C3%A9miz_penduline",
+   "description": "espèce d'oiseaux",
+   "extract": "La Rémiz penduline est une espèce de passereaux de la famille des Remizidae.",
+   "fulltext_chars": 2366
+  },
+  "en": {
+   "title": "Eurasian penduline tit",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_penduline_tit",
+   "description": "Species of bird",
+   "extract": "The Eurasian penduline tit or European penduline tit is a passerine bird of the genus Remiz. It is relatively widespread throughout the western Palearctic. It is migratory in the northern part of its range but resident in the southern part.",
+   "fulltext_chars": 4578
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Remiz_pendulinus_3_%28Martin_Mecnarowski%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 748,
+  "height": 523,
+  "file": "Remiz_pendulinus_3_(Martin_Mecnarowski).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Remiz_pendulinus_3_%28Martin_Mecnarowski%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Martin Mecnarowski (http://www.photomecan.eu/)",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Remiz_pendulinus_3_(Martin_Mecnarowski).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1368,
+  "cities": {
+   "Le Mans": 0.028,
+   "Pornic": 0.022,
+   "Rennes": 0.019,
+   "Poitiers": 0.045,
+   "Paris": 0.024,
+   "Lille": 0.015,
+   "Strasbourg": 0.021,
+   "Lyon": 0.053,
+   "Grenoble": 0.054,
+   "Marseille": 0.062,
+   "Toulouse": 0.053,
+   "Bordeaux": 0.067,
+   "Ajaccio": 0.137,
+   "Clermont-Ferrand": 0.063,
+   "Chamonix": 0.046,
+   "Perpignan": 0.05,
+   "Nancy": 0.02
+  },
+  "monthly_scores": [
+   0.1368,
+   0.135,
+   0.1046,
+   0.0628,
+   0.0501,
+   0.0526,
+   0.0527,
+   0.0394,
+   0.0346,
+   0.0715,
+   0.1191,
+   0.1318
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:03Z"
+}

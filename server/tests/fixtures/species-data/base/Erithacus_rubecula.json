@@ -1,0 +1,50 @@
+{
+  "scientific_name": "Erithacus rubecula",
+  "common_name_fr": "Rougegorge familier",
+  "birdnet_label": "Erithacus rubecula_Rougegorge familier",
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "family_common": "Old World Flycatchers",
+    "genus": "Erithacus",
+    "species": "Erithacus rubecula"
+  },
+  "wikipedia": {
+    "fr": {
+      "title": "Rouge-gorge familier",
+      "url": "https://fr.wikipedia.org/wiki/Rouge-gorge_familier",
+      "description": "espèce d'oiseaux",
+      "extract": "Le Rouge-gorge familier est une espèce de passereaux.",
+      "fulltext_chars": 17068
+    },
+    "en": {
+      "title": "European robin",
+      "url": "https://en.wikipedia.org/wiki/European_robin",
+      "description": "Species of bird",
+      "extract": "The European robin is a small insectivorous passerine bird.",
+      "fulltext_chars": 18314
+    }
+  },
+  "photo": {
+    "source": "wikipedia",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/test/robin-original.jpg",
+    "width": 3564,
+    "height": 2376,
+    "file": "robin.jpg",
+    "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/test/robin-1600.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Test Author",
+    "credit": "Own work",
+    "description_url": "https://commons.wikimedia.org/wiki/File:robin.jpg"
+  },
+  "france_universe": {
+    "max_score": 0.9939,
+    "cities": {"Pornic": 0.992, "Le Mans": 0.99},
+    "months": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+  },
+  "built_at": "2026-09-27T14:35:13Z"
+}

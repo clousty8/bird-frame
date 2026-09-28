@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Certhia familiaris",
+ "summary_fr": "Le Grimpereau des bois est un petit oiseau discret qui grimpe agilement le long des troncs d'arbre, progressant par petits bonds en spirale ascendante. Avec son bec incurvé et ses longues plumes raides à la queue, il possède les caractéristiques typiques des grimpereaux. Contrairement aux sittelles, il ne descend jamais tête en bas : une fois au sommet d'un arbre, il s'envole vers la base d'un autre arbre avec un vol erratique caractéristique. Il est physiquement similaire au Grimpereau des jardins mais s'en distingue par son chant plus trillé. Plutôt sédentaire en Europe occidentale, il fréquente les forêts de conifères et les vieux arbres qui lui fournissent des crevasses pour chercher ses proies. Cet insectivore spécialisé inspecte minutieusement l'écorce avec son fin bec recourbé, visitant jusqu'à trois cents arbres par jour. Malgré sa petite taille et son plumage cryptique, il n'est pas farouche et s'accommode bien de la présence humaine.",
+ "habitat": "Forêts de conifères, bois mixtes et régions boisées tempérées. Préfère les arbres matures à écorce lisse en forêts denses avec végétation arbustive.",
+ "diet": "Insectivore strict : insectes, cloportes, araignées, larves et chrysalides extraits des fissures d'écorce. Peut ajouter quelques graines de conifères en hiver. Prospecte méthodiquement depuis la base des troncs.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Sédentaire en Europe occidentale et dans le sud de sa répartition. Les oiseaux du nord se déplacent partiellement vers le sud et les populations de montagne descendent en altitude.",
+  "niche": "Nicheurs répandus en France dans les régions boisées, surtout en forêts de conifères dans le nord et l'est. Nicification en cavités d'arbres, derrière une écorce détachée ou en nichoirs.",
+  "passage": "Pas de migration nord-sud marquée en France ; mouvements altitudinaux possibles des populations de montagne en hiver."
+ },
+ "seasonality_fr": "Présent toute l'année en France. Plus actif et visible au chant de février à juin durant la saison de reproduction. Reste discret le reste de l'année mais détectable à l'écoute en forêt.",
+ "song_fr": "Chant caractéristique constitué de trilles et d'accélérations : débute par « srrih srrih » suivi de notes gazouillantes et d'un sifflement. Très différent du Grimpereau des jardins aux notes régulièrement espacées. Contact : appel fin et aigu en « ssrrî ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Certhia brachydactyla",
+   "common_name_fr": "Grimpereau des jardins",
+   "why_fr": "Aspect très similaire mais distinction auriculaire : chant espacé chez brachydactyla contre trilles chez familiaris. Détails visuels : bec plus court et sourcil plus blanc chez familiaris."
+  }
+ ],
+ "rarity_note": "Régulier en France mais pas commun, surtout en zones de conifères. Max_score BirdNET : 0.082. Rare ou absent en régions méditerranéennes et zones très agricoles.",
+ "fun_facts": [
+  "Peut visiter entre 250 et 300 arbres en une journée, grimpant ainsi deux à trois kilomètres de troncs et de branches.",
+  "La femelle et le mâle se partagent le territoire de nourrissage : elle préfère le haut des troncs, lui le bas, ce qui limite la concurrence intraconjugale.",
+  "Espérance de vie moyenne de deux ans, avec un record enregistré à 8 ans et 10 mois. Sert d'indicateur biologique de la fragmentation des habitats forestiers."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Grimpereau_des_bois",
+  "https://en.wikipedia.org/wiki/Eurasian_treecreeper",
+  "https://www.oiseaux.net/oiseaux/grimpereau.des.bois.html",
+  "https://www.lpo.fr/nos-actions/connaitre-et-identifier/fiches-oiseaux/grimpereau-des-bois"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

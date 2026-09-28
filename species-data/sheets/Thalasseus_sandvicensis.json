@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Thalasseus sandvicensis",
+ "summary_fr": "Grande sterne marine élégante au dos gris pâle et au ventre blanc, la Sterne caugek se distingue par sa pointe jaune caractéristique au bout du bec noir. Chasseur expert qui capture les petits poissons par piqué, elle niche en colonies très denses sur les côtes basses et sablonneuses de l'Atlantique Nord et de la mer du Nord. Long-courrier spectaculaire, elle peut parcourir plus de dix mille kilomètres entre ses aires de nidification européennes et ses zones d'hivernage en Afrique. Bruyante et vocale, elle pousse des cris caractéristiques grinçants, particulièrement lors du vol. Très grégaire, elle ne compte pas sur l'agressivité pour se défendre, mais plutôt sur la densité extraordinaire de ses nids, parfois séparés de moins de trente centimètres. Son existence dépend étroitement de la disponibilité de côtes tranquilles où établir ses colonies, ressource de plus en plus rare.",
+ "habitat": "Côtes basses et sablonneuses, bancs de sable et petites îles côtières, exceptionnellement lacs côtiers pour la reproduction. En hiver, espaces littoraux en mers chaudes et tropicales.",
+ "diet": "Petits poissons marins : lançons, sardines, anchois, harengs et sprats, capturés par piqué-plongeon. Régime exclusivement piscivore à plus de 98 pour cent.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Côtes africaines du Sénégal jusqu'en Afrique du Sud pour les populations européennes, ainsi qu'en Méditerranée et côtes de l'Inde et Sri Lanka.",
+  "niche": "Côtes de l'Atlantique Nord, mer du Nord et Baltique, depuis la Grande-Bretagne jusqu'à la Caspienne. Reproduction mai-juin.",
+  "passage": "Arrivée en avril-mai vers les zones de nidification, départ juillet-septembre vers l'Afrique. Passages migratoires visibles en mer."
+ },
+ "seasonality_fr": "Visible en période de reproduction d'avril à juillet, particulièrement sur les côtes nord de la France. Passages notables en avril-mai et août-septembre. Présente surtout en Manche et Atlantique Nord.",
+ "song_fr": "Cri caractéristique loud et grinçant : « kear-ik » ou « kerr ink », émis surtout en vol. Cris gutturaux lors de la parade nuptiale, bec pointé vers le haut : « krak-krak ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Hydroprogne caspia",
+   "common_name_fr": "Sterne caspienne",
+   "why_fr": "Très grande sterne au bec massif et cri puissant, peuvent être confondues en plumage hivernal."
+  },
+  {
+   "scientific_name": "Sterna hirundo",
+   "common_name_fr": "Sterne pierregarin",
+   "why_fr": "Cris et silhouette généraux similaires mais taille plus petite et bec sans pointe jaune."
+  }
+ ],
+ "rarity_note": "Migrateur régulier mais peu commun en France. Présent surtout sur les côtes nord-atlantiques et en Manche ; très rare en Méditerranée et dans l'intérieur.",
+ "fun_facts": [
+  "La Sterne caugek détient un record extraordinaire : des individus bagués en Europe du Nord ont été retrouvés en Afrique du Sud, parcourant plus de 10 000 km deux fois par an.",
+  "Ses nids ne sont que des simples creux dans le sable, parfois décorés de cailloux ou d'herbe, situés à moins de trente centimètres les uns des autres."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Sterne_caugek",
+  "https://en.wikipedia.org/wiki/Sandwich_tern",
+  "https://www.oiseaux.net/oiseaux/sterne.caugek.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

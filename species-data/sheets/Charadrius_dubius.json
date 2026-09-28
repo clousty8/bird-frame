@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Charadrius dubius",
+ "summary_fr": "Petit limicole gracile au plastron noir et au ventre blanc, le Pluvier petit-gravelot est un nicheur discret des berges sableuses et des gravières françaises. Il se distingue du Pluvier grand-gravelot par l'absence de barre alaire et par un anneau oculaire jaune vif, bien visible en période nuptiale. Un bandeau noir traverse l'oeil et se prolonge jusqu'au bec sombre, tandis que le front blanc tranche avec le capuchon brun. La majorité des nicheurs quittent la France à l'automne pour hiverner en Afrique subsaharienne, mais une minorité reste chaque hiver sur le littoral, notamment en Méditerranée, ce qui en fait un migrateur partiel plutôt qu'un migrateur strict. Fidèle aux milieux ouverts et peu végétalisés — gravières, sablières, vieux terrains d'extraction, bords de rivières —, il pond directement au sol, dans une simple cuvette creusée dans le sable ou les galets, où les oeufs mimétiques échappent aux prédateurs. Son cri aigu et saccadé, répété en vol, trahit souvent sa présence avant qu'on ne l'aperçoive, tant son plumage se fond dans son environnement minéral.",
+ "habitat": "Gravières, sablières, terrains d'extraction de granulats, berges sableuses et îles fluviales peu végétalisées ; fréquente aussi les vasières et bords d'étangs.",
+ "diet": "Insectes, vers, petits crustacés et mollusques, capturés en picorant activement le sable, la vase ou les graviers à vue.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Une minorité hiverne sur le littoral français, notamment en Méditerranée et sur la façade atlantique ; la majorité rejoint l'Afrique subsaharienne.",
+  "niche": "Côtes et zones humides intérieures de France, d'avril à septembre ; nicheur local et fragmentaire (Cotentin, Finistère, Corse, vallées alluviales).",
+  "passage": "Passages marqués en mars-avril puis d'août à octobre."
+ },
+ "seasonality_fr": "Bien plus visible et audible d'avril à septembre, période de nidification ; quelques hivernants réguliers en petit nombre sur le littoral méditerranéen et atlantique.",
+ "song_fr": "Cris aigus, secs et répétés, un « pip-pip-pip » ou « tii-tii » caractéristique lancé en vol ou à l'approche d'un intrus.",
+ "lookalikes": [
+  {
+   "scientific_name": "Charadrius hiaticula",
+   "common_name_fr": "Pluvier grand-gravelot",
+   "why_fr": "Très semblable, mais légèrement plus gros ; possède une barre alaire blanche ; cris moins aigus."
+  },
+  {
+   "scientific_name": "Charadrius alexandrinus",
+   "common_name_fr": "Pluvier à collier interrompu",
+   "why_fr": "Plus petit et pâle ; marques noires discontinues ; vocalises légèrement différentes."
+  },
+  {
+   "scientific_name": "Charadrius morinellus",
+   "common_name_fr": "Pluvier guignard",
+   "why_fr": "Coloration différente (bande abdominale rousse, face blanche) ; fréquente les terrains montagneux."
+  }
+ ],
+ "rarity_note": "Régulier mais peu abondant en France, surtout sur le littoral et les gravières intérieures ; nicheur discret et localisé, présent en petit nombre toute l'année.",
+ "fun_facts": [
+  "Ses oeufs mouchetés se confondent presque parfaitement avec les graviers et le sable du nid, une des meilleures défenses du couple contre les prédateurs.",
+  "L'expansion des gravières et sablières a favorisé son installation en France depuis le XXe siècle, loin des seules côtes naturelles d'origine."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pluvier_petit-gravelot",
+  "https://en.wikipedia.org/wiki/Little_ringed_plover",
+  "https://www.oiseaux.net/species/littrinpl.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

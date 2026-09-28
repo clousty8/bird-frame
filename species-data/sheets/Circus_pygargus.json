@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Circus pygargus",
+ "summary_fr": "Le Busard cendré est un rapace migrateur élancé aux ailes étroites et longues, appartenant à la famille des Accipitridés. Seul en France parmi les busards, le mâle arbore un plumage gris bleuté clair tacheté de roux, tandis que la femelle revêt des teintes brunes avec un croupion blanc distinctif. Cet oiseau des espaces ouverts niche exclusivement au sol dans les vastes plaines céréalières ou les zones humides avec végétation basse. Chasseur élégant aux battements aisés et légers, il survole les champs à faible altitude en quête de petits rongeurs, oiseaux et insectes. Le Busard cendré est un grand migrateur transsaharien : les populations européennes hivernent en Afrique subsaharienne, tandis qu'en France il n'est présent que quelques mois pour la reproduction. Espèce très menacée en Occident, dépendant entièrement des mesures de protection des nids dans les cultures, car les femelles pondent à même le sol cultivé.",
+ "habitat": "Plaines et vastes espaces ouverts, prairies humides, cultures céréalières, landes à végétation basse. Exige des milieux grands ouverts sans arbres hauts pour la reproduction.",
+ "diet": "Petits rongeurs (campagnols surtout), petits oiseaux (alouettes), œufs d'oiseaux, reptiles (lézards et serpents), insectes orthoptères (sauterelles et criquets). Suivant les régions, le régime s'adapte aux proies disponibles.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne (jusqu'au golfe de Guinée pour les oiseaux occidentaux) et, pour les populations orientales, sous-continent indien et péninsule arabique.",
+  "niche": "Niche dans le nord de l'Afrique (Maroc) et très largement en Europe, particulièrement en France, Espagne, Russie, Biélorussie et Pologne qui abritent l'essentiel de la population européenne. En France, reproduction avril à août.",
+  "passage": "Retour de migration en avril et mai (pics principaux), départ en août et septembre (la plupart quittent avant mi-octobre)."
+ },
+ "seasonality_fr": "Visible en France essentiellement d'avril à septembre durant la période de reproduction, plus rarement lors des passages migratoires d'automne et printemps. Absent en hiver (migration africaine).",
+ "song_fr": "Vol bas et régulier au-dessus des champs, rarement vocal en dehors du contexte de nidification. Cris rares et peu mélodieux comparé aux autres rapaces. Identification difficile en vol, distinguer du Busard Saint-Martin par l'allure plus élancée, les ailes plus longues et étroites, et un vol encore plus léger.",
+ "lookalikes": [
+  {
+   "scientific_name": "Circus cyaneus",
+   "common_name_fr": "Busard Saint-Martin",
+   "why_fr": "Habitus similaire, sympatrique en France. Mâle du cendré plus sombre et tacheté ; Saint-Martin tricolore gris, blanc et noir sans barres alaires typiques."
+  },
+  {
+   "scientific_name": "Circus macrourus",
+   "common_name_fr": "Busard pâle",
+   "why_fr": "Mâles ressemblants ; le pâle plus rare en France. Cendré plus foncé, avec barres sombres caractéristiques sous les ailes."
+  },
+  {
+   "scientific_name": "Circus aeruginosus",
+   "common_name_fr": "Busard des roseaux",
+   "why_fr": "Plus massif et plus roux, fréquente les zones humides. Bien distinct en vol malgré silhouette générale analogue."
+  }
+ ],
+ "rarity_note": "Nicheur rare et irrégulier en France, présent surtout avril-septembre. Bien que migrateur régulier, son absence hivernale et son effectif limité en font un oiseau peu courant à l'échelle nationale.",
+ "fun_facts": [
+  "Le mâle du Busard cendré effectue l'unique ravitaillement aérien typique des busards : il passe sa proie à la femelle en vol, elle se laissant basculer pour la saisir au passage.",
+  "Environ 70 % des couples de Busard cendré en Europe niche dans les champs cultivés, ce qui les rend extrêmement vulnérables aux moissons précoces et au labourage.",
+  "Migrateur de très longue distance, certains oiseaux russes et d'Asie centrale volent jusqu'en Afrique du Sud, parcourant plusieurs milliers de kilomètres aller-retour."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Busard_cendr%C3%A9",
+  "https://en.wikipedia.org/wiki/Montagu's_harrier",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

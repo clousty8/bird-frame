@@ -1,0 +1,71 @@
+{
+ "scientific_name": "Haliaeetus leucocephalus",
+ "common_name_fr": "Pygargue à tête blanche",
+ "birdnet_label": "Haliaeetus leucocephalus_Pygargue à tête blanche",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Haliaeetus",
+  "species": "Haliaeetus leucocephalus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pygargue à tête blanche",
+   "url": "https://fr.wikipedia.org/wiki/Pygargue_%C3%A0_t%C3%AAte_blanche",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pygargue à tête blanche est une espèce de rapaces diurne qui vit en Amérique du Nord.",
+   "fulltext_chars": 23257
+  },
+  "en": {
+   "title": "Bald eagle",
+   "url": "https://en.wikipedia.org/wiki/Bald_eagle",
+   "description": "Bird of prey species of North America",
+   "extract": "The bald eagle is a bird of prey found in North America. A sea eagle, it has two known subspecies and forms a species pair with the white-tailed eagle, which occupies the same niche as the bald eagle in the Palearctic. Its range includes most of Canada and Alaska, all of the contiguous United States, and northern Mexico. It is found near large bodies of open water with an abundant food supply and old-growth trees for nesting.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bald_Eagle_%28Haliaeetus_leucocephalus%29_Kachemak_Bay%2C_Alaska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2134,
+  "height": 2465,
+  "file": "Bald_Eagle_(Haliaeetus_leucocephalus)_Kachemak_Bay,_Alaska.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Bald_Eagle_%28Haliaeetus_leucocephalus%29_Kachemak_Bay%2C_Alaska.jpg/1920px-Bald_Eagle_%28Haliaeetus_leucocephalus%29_Kachemak_Bay%2C_Alaska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Andy  Morffew from Itchen Abbas, Hampshire, UK",
+  "credit": "Just Sitting!",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_(Haliaeetus_leucocephalus)_Kachemak_Bay,_Alaska.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.021,
+  "cities": {
+   "Le Mans": 0.011,
+   "Pornic": 0.021,
+   "Rennes": 0.014,
+   "Poitiers": 0.014,
+   "Bordeaux": 0.012
+  },
+  "monthly_scores": [
+   0.0207,
+   0.021,
+   0.0199,
+   0.0196,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0162,
+   0.0197
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:24Z"
+}

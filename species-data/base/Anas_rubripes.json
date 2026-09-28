@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Anas rubripes",
+ "common_name_fr": "Canard noir",
+ "birdnet_label": "Anas rubripes_Canard noir",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Anas",
+  "species": "Anas rubripes"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Canard noir",
+   "url": "https://fr.wikipedia.org/wiki/Canard_noir",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Canard noir, est une espèce d'oiseaux palmipèdes appartenant à la famille des Anatidae et à la sous-famille des Anatinae.",
+   "fulltext_chars": 1217
+  },
+  "en": {
+   "title": "American black duck",
+   "url": "https://en.wikipedia.org/wiki/American_black_duck",
+   "description": "Species of bird",
+   "extract": "The American black duck is a large dabbling duck in the family Anatidae. It was described by William Brewster in 1902. It is the heaviest species in the genus Anas, weighing 720–1,640 g (1.6–3.6 lb) on average and measuring 54–59 cm (21–23 in) in length with an 88–95 cm (35–37 in) wingspan. It somewhat resembles the female and eclipse male mallard in coloration, but has a darker plumage. The male and female are generally similar in appearance, but the male's bill is yellow, while the female's is dull green with dark marks on the upper mandible. It is native to eastern North America. During the breeding season, it is usually found in coastal and freshwater wetlands from Saskatchewan to the Atlantic in Canada and the Great Lakes and the Adirondacks in the United States. It is a partially migratory species, mostly wintering in the east-central United States, especially in coastal areas.",
+   "fulltext_chars": 14089
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f9/American_Black_Duck_pair_at_Green_Wood_Cemetery%2C_Brooklyn_%2862110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3545,
+  "height": 2353,
+  "file": "American_Black_Duck_pair_at_Green_Wood_Cemetery,_Brooklyn_(62110).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/American_Black_Duck_pair_at_Green_Wood_Cemetery%2C_Brooklyn_%2862110%29.jpg/1920px-American_Black_Duck_pair_at_Green_Wood_Cemetery%2C_Brooklyn_%2862110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Rhododendrites",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:American_Black_Duck_pair_at_Green_Wood_Cemetery,_Brooklyn_(62110).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0132,
+  "cities": {
+   "Pornic": 0.013
+  },
+  "monthly_scores": [
+   0.0116,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0106,
+   0.0132
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:20Z"
+}

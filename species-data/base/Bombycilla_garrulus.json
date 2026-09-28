@@ -1,0 +1,73 @@
+{
+ "scientific_name": "Bombycilla garrulus",
+ "common_name_fr": "Jaseur boréal",
+ "birdnet_label": "Bombycilla garrulus_Jaseur boréal",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Bombycillidae",
+  "family_common": "Waxwings",
+  "genus": "Bombycilla",
+  "species": "Bombycilla garrulus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Jaseur boréal",
+   "url": "https://fr.wikipedia.org/wiki/Jaseur_bor%C3%A9al",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Jaseur boréal, autrefois aussi nommé « Jaseur des neiges » est une espèce de passereaux frugivores migrateurs. Il se reproduit dans les forêts boréales du nord de l'Europe, de l'Asie et de l'Amérique du Nord. Le Jaseur d'Amérique n'est présent qu'en Amérique du Nord et le Jaseur du Japon n'est présent qu'en Asie. Le Jaseur boréal est le seul présent sur tous les continents ayant des zones subarctiques.",
+   "fulltext_chars": 8207
+  },
+  "en": {
+   "title": "Bohemian waxwing",
+   "url": "https://en.wikipedia.org/wiki/Bohemian_waxwing",
+   "description": "Passerine bird from Eurasia and North America",
+   "extract": "The Bohemian waxwing is a starling-sized passerine bird that breeds in the northern forests of the Palearctic and North America. It has mainly buff-grey plumage, black face markings and a pointed crest. Its wings are patterned with white and bright yellow, and some of the wing feathers have red tips, the resemblance of which to sealing wax gives these birds their common name. The two or three subspecies show only minor differences in appearance. Females are similar to males, although young birds are less well-marked and have few or no waxy wingtips. Although the Bohemian waxwing's range overlaps those of the cedar and Japanese waxwings, it is easily distinguished from them by size and plumage differences.",
+   "fulltext_chars": 21579
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bombycilla_garrulus_CT2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3888,
+  "height": 2592,
+  "file": "Bombycilla_garrulus_CT2.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Bombycilla_garrulus_CT2.jpg/1920px-Bombycilla_garrulus_CT2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Cephas",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Bombycilla_garrulus_CT2.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0459,
+  "cities": {
+   "Poitiers": 0.011,
+   "Paris": 0.012,
+   "Lyon": 0.015,
+   "Grenoble": 0.014,
+   "Ajaccio": 0.046,
+   "Clermont-Ferrand": 0.016,
+   "Chamonix": 0.013
+  },
+  "monthly_scores": [
+   0.0369,
+   0.0459,
+   0.0109,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.029,
+   0.0364
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:01Z"
+}

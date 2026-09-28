@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Carduelis corsicana",
+ "summary_fr": "Le Venturon corse est un petit fringille endémique de Corse, de Sardaigne et de quelques îles toscanes (Elbe, Capraia, Gorgona), absent du reste de la France métropolitaine. Longtemps considéré comme une sous-espèce du Venturon montagnard, il a été reconnu comme espèce à part entière au début des années 2000, sur la base de différences morphologiques, vocales et génétiques ; les deux lignées se seraient séparées il y a environ 1,37 million d'années. Contrairement à son cousin continental, attaché aux forêts de conifères montagnardes, le Venturon corse s'est adapté aux formations basses de maquis et de garrigue, du niveau de la mer jusqu'aux étages moyens selon les îles. Il se nourrit surtout de graines de plantes herbacées et arbustives, dont la composition varie d'une île à l'autre selon les ressources disponibles. Migrateur altitudinal plutôt que grand voyageur, il descend vers les vallées et le littoral en hiver pour remonter nicher en altitude au printemps. Son chant, plus long et plus modulé que celui du Venturon montagnard, a parfois été comparé à celui du Troglodyte mignon, tandis que son cri de vol reste plus faible et tremblotant.",
+ "habitat": "Maquis et garrigues méditerranéennes, landes à bruyère arborescente, et par endroits forêts claires de pin maritime ou de pin noir, du littoral jusqu'aux étages moyens de Corse et de Sardaigne.",
+ "diet": "Graines de plantes herbacées et arbustives (Grande Amourette, bourse-à-pasteur, romarin selon les îles), graines de pin en Sardaigne ; insectes et larves apportés aux jeunes en période de reproduction.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Descend des étages moyens vers les vallées, le maquis littoral et les plaines de Corse et de Sardaigne en dehors de la saison de reproduction.",
+  "niche": "Corse, de mars à juillet, du niveau de la mer aux moyennes altitudes selon les massifs ; ne niche pas ailleurs en France métropolitaine.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible toute l'année en Corse, plus vocal et actif au printemps pendant la reproduction ; hors de Corse et de Sardaigne, l'espèce n'est quasiment jamais observée en France métropolitaine.",
+ "song_fr": "Chant fluide et modulé, plus long et plus structuré que celui du Venturon montagnard, rappelant parfois celui du Troglodyte mignon ; cri de vol faible et tremblotant, moins sonore que chez son cousin continental.",
+ "lookalikes": [
+  {
+   "scientific_name": "Carduelis citrinella",
+   "common_name_fr": "Venturon montagnard",
+   "why_fr": "Très proches morphologiquement et vocalement ; dos brun rayé, sous-caudales grises et chant plus long du Venturon corse permettent de les distinguer."
+  },
+  {
+   "scientific_name": "Serinus serinus",
+   "common_name_fr": "Serin cini",
+   "why_fr": "Même milieu de garrigue et taille voisine ; chant plus sec et trillé du Serin cini, silhouette plus fine, permettent de le différencier."
+  }
+ ],
+ "rarity_note": "Endémique de Corse, de Sardaigne et de quelques îles toscanes ; en France métropolitaine, ne se rencontre que sur l'île de Corse, absent du continent.",
+ "fun_facts": [
+  "Reconnu comme espèce à part entière au début des années 2000, le Venturon corse s'est séparé du Venturon montagnard il y a environ 1,37 million d'années, bel exemple de spéciation insulaire.",
+  "Son régime varie d'une île à l'autre : Grande Amourette en Corse, romarin à Capraia, graines de pin en Sardaigne, selon les ressources locales.",
+  "Plutôt que de migrer loin, il pratique une migration altitudinale : il redescend vers le littoral en hiver et remonte nicher en altitude au printemps."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Venturon_corse",
+  "https://en.wikipedia.org/wiki/Corsican_finch",
+  "https://www.oiseaux.net/oiseaux/venturon.corse.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/5053"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

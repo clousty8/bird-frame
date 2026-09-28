@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Strix uralensis",
+ "summary_fr": "La Chouette de l'Oural est l'une des plus grandes chouettes du monde, avec 50 à 64 cm de longueur et une envergure pouvant atteindre 134 cm. Elle appartient à la famille des Strigidés et se reconnaît à son disque facial arrondi, ses petits yeux rapprochés et sa longue queue, qui la distinguent de la Chouette hulotte à laquelle elle ressemble beaucoup. Rapace nocturne inféodé aux grandes forêts boréales et aux forêts mixtes tempérées riches en rongeurs, elle chasse surtout campagnols et mulots, complétés à l'occasion par des musaraignes, de petits oiseaux et des amphibiens. Farouchement territoriale, elle défend son nid avec une agressivité redoutée, n'hésitant pas à s'en prendre à des rapaces plus imposants qu'elle, voire à l'homme. Répartie de la Scandinavie à la Sibérie jusqu'au Japon, où elle compte onze sous-espèces selon la classification de référence du Congrès ornithologique international, elle a autrefois vécu jusqu'en France, comme l'attestent des ossements médiévaux, avant d'en disparaître : elle n'y niche plus aujourd'hui. Malgré cette régression occidentale, l'espèce reste classée en Préoccupation mineure par l'UICN grâce à une aire de répartition globalement vaste et stable.",
+ "habitat": "Forêts denses de plaine et montagne, particulièrement la taïga boréale et les forêts tempérées mixtes riches en rongeurs.",
+ "diet": "Rongeurs (campagnols, mulots, souris), musaraignes, petits oiseaux (merles, geais, tétras) et amphibiens.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Occurrences hivernales exceptionnelles en France, seulement de novembre à février, quand de rares individus nordiques s'égarent vers l'ouest.",
+  "niche": "Ne niche pas en France ; population reproductrice en Scandinavie, Europe centrale et de l'Est, jusqu'en Sibérie et au Japon.",
+  "passage": null
+ },
+ "seasonality_fr": "Espèce accidentelle en France, où elle n'est signalée que l'hiver, de novembre à février, lors de rares incursions d'individus nordiques. Absente le reste de l'année.",
+ "song_fr": "Cri profond et rythmé transcrit « wohu... huw-huhuwo » ou « huow-huow-huow », avec des notes graves portant jusqu'à 2 km. Contact : cri rauque rappelant celui du héron. Alarme audible jusqu'à 1 500 m.",
+ "lookalikes": [
+  {
+   "scientific_name": "Strix aluco",
+   "common_name_fr": "Chouette hulotte",
+   "why_fr": "Chant très proche mais plus aigu et moins résonnant ; queue nettement plus courte chez la hulotte."
+  },
+  {
+   "scientific_name": "Strix nebulosa",
+   "common_name_fr": "Chouette lapone",
+   "why_fr": "Taille comparable et hululements graves similaires, mais disque facial à cercles concentriques marqués."
+  }
+ ],
+ "rarity_note": "Accidentelle en France métropolitaine, avec de très rares occurrences hivernales d'individus nordiques égarés.",
+ "fun_facts": [
+  "Ses oreilles sont parmi les plus grandes enregistrées chez les chouettes, essentielles pour la chasse acoustique en forêt dense.",
+  "Elle peut attaquer des rapaces plus puissants pour défendre sa couvée, voire s'en prendre à l'homme.",
+  "Elle compte 11 sous-espèces reconnues, qui s'étendent sur tout l'hémisphère nord, du Japon à la Scandinavie."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Chouette_de_l'Oural",
+  "https://en.wikipedia.org/wiki/Ural_owl"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

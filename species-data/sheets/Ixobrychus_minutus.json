@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Ixobrychus minutus",
+ "summary_fr": "Le Blongios nain est le plus petit héron d'Europe, à peine plus gros qu'un pigeon avec ses 140 à 150 grammes. Espèce très discrète des roselières et marais, le mâle arbore un élégant contraste entre calotte et dos noirs et une large plage beige orangé pâle sur les ailes, tandis que la femelle reste bien plus terne et striée. Contrairement à la plupart des hérons, c'est un oiseau vocal au printemps : son chant ressemble à un aboiement de chien lointain, étonnant venant d'un héron si furtif, et sert au mâle à délimiter son petit territoire de reproduction. Chasseur crépusculaire d'une grande discrétion, il capture poissons, batraciens et insectes aquatiques en avançant lentement dans les roseaux ou à l'affût immobile. Grand migrateur, il n'arrive en France qu'à partir de la mi-avril et repart dès août-septembre pour hiverner en Afrique orientale, même si quelques individus isolés restent parfois sur le pourtour méditerranéen. Longtemps en fort déclin, la population française, aujourd'hui estimée à quelques centaines de couples surtout en Camargue, se stabilise depuis les années 1990 grâce à la protection des zones humides.",
+ "habitat": "Roselières, marais, étangs, cours d'eau lents, gravières et bassins de retenue avec végétation herbeuse dense, du littoral aux estuaires.",
+ "diet": "Petits poissons, batraciens et insectes aquatiques chassés à l'affût dans les roselières et sur les berges, surtout au crépuscule.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Essentiellement en Afrique orientale, atteinte via l'Italie et le bassin méditerranéen ; de très rares individus hivernent aussi sur le littoral méditerranéen français.",
+  "niche": "Roselières d'Europe centrale et méridionale ; nidification rare et localisée en France (quelques centaines de couples), en forte régression historique.",
+  "passage": "Arrivée tardive de mi-avril à mai, départ vers l'Afrique en août-septembre ; de rares hivernants sont signalés en dehors de cette période, surtout en région méditerranéenne."
+ },
+ "seasonality_fr": "Présent en France surtout d'avril à septembre, avec un pic d'activité vocale en mai-juin lors de la reproduction ; de très rares individus hivernants sont parfois signalés le reste de l'année, notamment sur le littoral méditerranéen.",
+ "song_fr": "Chant caractéristique évoquant l'aboiement sourd d'un petit chien au loin, un « rou » roulé et rauque répété à intervalles réguliers ; cri d'alarme bref et sec.",
+ "lookalikes": [
+  {
+   "scientific_name": "Botaurus stellaris",
+   "common_name_fr": "Butor étoilé",
+   "why_fr": "Autre héron des roselières au cri sourd et porteur, mais bien plus grand et au mugissement grave, très différent du glapissement du Blongios."
+  },
+  {
+   "scientific_name": "Nycticorax nycticorax",
+   "common_name_fr": "Bihoreau gris",
+   "why_fr": "Partage les roselières et zones humides, avec un cri sourd bref pouvant prêter à confusion nocturne, malgré une silhouette bien différente."
+  },
+  {
+   "scientific_name": "Rallus aquaticus",
+   "common_name_fr": "Râle d'eau",
+   "why_fr": "Autre oiseau furtif des roselières aux cris grinçants et variés, parfois confondus avec l'aboiement du Blongios à distance."
+  }
+ ],
+ "rarity_note": "Espèce protégée, peu commune et très localisée en France (Camargue, marais audomarois), en légère reprise depuis les années 1990 après un fort déclin.",
+ "fun_facts": [
+  "C'est le plus petit héron d'Europe : à peine plus gros qu'un pigeon, pour seulement 140 à 150 grammes et 33 à 38 centimètres.",
+  "Son chant printanier ressemble à l'aboiement lointain d'un petit chien, surprenant venant d'un héron aussi discret et difficile à observer.",
+  "Il est si furtif dans les roseaux que ses effectifs réels restent mal connus, même dans des zones humides pourtant bien suivies."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Blongios_nain",
+  "https://en.wikipedia.org/wiki/Little_bittern",
+  "https://oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/espece/cd_nom/4234"
+ ],
+ "generated_at": "2026-09-27T21:30:00Z",
+ "generator_model": "claude-sonnet-5"
+}

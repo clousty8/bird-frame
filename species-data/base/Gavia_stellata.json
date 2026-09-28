@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Gavia stellata",
+ "common_name_fr": "Plongeon catmarin",
+ "birdnet_label": "Gavia stellata_Plongeon catmarin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Gaviiformes",
+  "family": "Gaviidae",
+  "family_common": "Loons",
+  "genus": "Gavia",
+  "species": "Gavia stellata"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Plongeon catmarin",
+   "url": "https://fr.wikipedia.org/wiki/Plongeon_catmarin",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Plongeon catmarin, aussi appelé Plongeon à gorge rouge, Plongeon à gorge rousse, et au Québec Huart à gorge rousse, est une espèce d'oiseaux de l'ordre des gaviiformes. C'est le plus petit membre de la famille des gaviidés ; il mesure de 52 à 70 cm de long et son envergure varie de 91 à 116 cm, parfois au-delà. C’est aussi celui qui a l’aire de répartition la plus étendue.",
+   "fulltext_chars": 11247
+  },
+  "en": {
+   "title": "Red-throated loon",
+   "url": "https://en.wikipedia.org/wiki/Red-throated_loon",
+   "description": "Migratory aquatic bird found in the northern hemisphere",
+   "extract": "The red-throated loon or red-throated diver is a migratory aquatic bird found in the Northern Hemisphere. The most widely distributed member of the loon or diver family, it breeds primarily in Arctic regions, and it winters in northern coastal waters. Ranging from 55 to 67 centimetres in length, the red-throated loon is the smallest and lightest of the world's loons. In winter, it is a nondescript bird, greyish above, fading to white below. During the breeding season, it acquires the distinctive reddish throat patch, which is the basis for its common name. Fish form the bulk of its diet, though amphibians, invertebrates, and plant material are sometimes eaten as well. A monogamous species, red-throated loons form long-term pair bonds. Both members of the pair help to build the nest, incubate the eggs, and feed the hatched young.",
+   "fulltext_chars": 20216
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/61/RedthroatedLoon23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 250,
+  "height": 185,
+  "file": "RedthroatedLoon23.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/6/61/RedthroatedLoon23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "David Menke",
+  "credit": "This image originates from the National Digital Library of the United States Fish and Wildlife Service at this page\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.See Category:Images from the United States Fish and Wildlife Service.",
+  "description_url": "https://commons.wikimedia.org/wiki/File:RedthroatedLoon23.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.077,
+  "cities": {
+   "Le Mans": 0.056,
+   "Pornic": 0.062,
+   "Rennes": 0.069,
+   "Poitiers": 0.044,
+   "Paris": 0.053,
+   "Lille": 0.067,
+   "Strasbourg": 0.017,
+   "Lyon": 0.022,
+   "Grenoble": 0.017,
+   "Marseille": 0.018,
+   "Toulouse": 0.015,
+   "Bordeaux": 0.022,
+   "Brest": 0.077,
+   "Ajaccio": 0.065,
+   "Clermont-Ferrand": 0.028,
+   "Chamonix": 0.017,
+   "Perpignan": 0.015,
+   "Nancy": 0.023
+  },
+  "monthly_scores": [
+   0.077,
+   0.0668,
+   0.0445,
+   0.0175,
+   0.0,
+   0.0123,
+   0.0186,
+   0.0,
+   0.0124,
+   0.0651,
+   0.0706,
+   0.0768
+  ],
+  "months": [
+   1,
+   2,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:20Z"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Curruca undata",
+ "common_name_fr": "Fauvette pitchou",
+ "birdnet_label": "Curruca undata_Fauvette pitchou",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sylviidae",
+  "family_common": "Sylviid Warblers and Allies",
+  "genus": "Curruca",
+  "species": "Curruca undata"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fauvette pitchou",
+   "url": "https://fr.wikipedia.org/wiki/Fauvette_pitchou",
+   "description": "espèce d'oiseaux",
+   "extract": "La Fauvette pitchou est une espèce de passereaux appartenant à la famille des Sylviidae.",
+   "fulltext_chars": 6204
+  },
+  "en": {
+   "title": "Dartford warbler",
+   "url": "https://en.wikipedia.org/wiki/Dartford_warbler",
+   "description": "Species of bird",
+   "extract": "The Dartford warbler is a Sylviid warbler from the warmer parts of western Europe and northwestern Africa. It is a small warbler with a long thin tail and a thin pointed bill. The adult male has grey-brown upperparts and is dull reddish-brown below except for the centre of the belly which has a dirty white patch. It has light speckles on the throat and a red eye-ring. The sexes are similar but the adult female is usually less grey above and paler below.",
+   "fulltext_chars": 8133
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/17/Dartford_Warbler_1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1179,
+  "height": 1035,
+  "file": "Dartford_Warbler_1_(cropped).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/1/17/Dartford_Warbler_1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Dean Eades BirdMad",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Dartford_Warbler_1_(cropped).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2141,
+  "cities": {
+   "Le Mans": 0.055,
+   "Pornic": 0.094,
+   "Rennes": 0.083,
+   "Poitiers": 0.059,
+   "Paris": 0.035,
+   "Lille": 0.021,
+   "Strasbourg": 0.012,
+   "Lyon": 0.035,
+   "Grenoble": 0.038,
+   "Marseille": 0.083,
+   "Toulouse": 0.082,
+   "Bordeaux": 0.077,
+   "Brest": 0.084,
+   "Ajaccio": 0.214,
+   "Clermont-Ferrand": 0.043,
+   "Chamonix": 0.024,
+   "Perpignan": 0.1,
+   "Nancy": 0.017
+  },
+  "monthly_scores": [
+   0.2084,
+   0.1898,
+   0.1435,
+   0.1108,
+   0.099,
+   0.0986,
+   0.0976,
+   0.0782,
+   0.0715,
+   0.1368,
+   0.1973,
+   0.2141
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:06Z"
+}

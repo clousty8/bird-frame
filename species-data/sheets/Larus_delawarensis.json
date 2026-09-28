@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Larus delawarensis",
+ "summary_fr": "Le Goéland à bec cerclé est une espèce nord-américaine de taille moyenne qui étend progressivement son aire de répartition vers l'Ouest. En France, ses apparitions restent sporadiques, concentrées en hiver et début de printemps, sans jamais être communes. Reconnaissable à sa tête et ses parties inférieures blanches ainsi qu'à son bec jaune relativement petit, orné d'un anneau noir distinctif, ce goéland ressemble au Goéland argenté mais demeure plus petit et plus gracile. Ces oiseaux sont hautement adaptables : on les trouve sur les côtes, les lacs, les rivières et de plus en plus en zones urbaines et sur les dépotoirs. Omnivores opportunistes, ils se nourrissent de poissons, insectes, graines et déchets alimentaires. En Amérique du Nord, ils nichent en colonies, souvent sur des îles, et la plupart migrent vers le sud en hiver. Leur expansion vers la France et l'Europe occidentale s'accélère, probablement due aux changements climatiques et à la disponibilité alimentaire accrue.",
+ "habitat": "Côtes, lacs, rivières et zones humides. S'adapte aux zones urbaines, dépotoirs et ports.",
+ "diet": "Omnivore opportuniste : poissons, insectes, graines, œufs et vers de terre. Scavenge volontiers en zones urbaines et vole la nourriture aux autres oiseaux.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Principalement en Amérique du Nord (golfe du Mexique, côtes atlantique et pacifique). Apparitions de plus en plus fréquentes en France, Irlande et Grande-Bretagne.",
+  "niche": "Reproduit au Canada et dans le nord des États-Unis, exclusivement. Ne niche pas en France.",
+  "passage": "Présent occasionnellement en France de janvier à avril, surtout sur les côtes atlantiques et normandes."
+ },
+ "seasonality_fr": "Visible surtout de janvier à avril, avec des observations sporadiques. Plus rare en été et automne en France.",
+ "song_fr": "Cris variés et rauques, similaires aux autres goélands. Appels aigus lors de l'alimentation, particulièrement en présence de nourriture ou en période de reproduction.",
+ "lookalikes": [
+  {
+   "scientific_name": "Larus argentatus",
+   "common_name_fr": "Goéland argenté",
+   "why_fr": "Très similaire mais plus grand, dos plus foncé. Confusion possible chez les immatures."
+  },
+  {
+   "scientific_name": "Larus canus",
+   "common_name_fr": "Goéland cendré",
+   "why_fr": "Également tête blanche et bec jaune, mais plus petit avec dos gris plus clair."
+  },
+  {
+   "scientific_name": "Chroicocephalus ridibundus",
+   "common_name_fr": "Mouette rieuse",
+   "why_fr": "Tête blanche et pattes jaunes, mais plus petit avec bec plus délicat et masque auriculaire."
+  }
+ ],
+ "rarity_note": "Espèce très rare en France, avec seulement quelques observations hivernales sporadiques. Jamais commune, même sur les côtes atlantiques et normandes où elle est la plus régulière.",
+ "fun_facts": [
+  "Cet oiseau a vu sa population augmenter spectaculairement après avoir été chassé pour ses plumes au XIXe siècle, devenant l'un des goélands les plus communs d'Amérique du Nord.",
+  "Record de longévité : un individu a atteint au moins 28 ans, observé en 2021 à Cleveland.",
+  "Vagabond transatlantique, son expansion vers l'Europe s'accélère depuis les années 1990 et pourrait être liée aux changements climatiques."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Go%C3%A9land_%C3%A0_bec_cercl%C3%A9",
+  "https://en.wikipedia.org/wiki/Ring-billed_gull"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

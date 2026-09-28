@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Ichthyaetus melanocephalus",
+ "summary_fr": "Mouette de taille moyenne, la Mouette mélanocéphale est un goéland côtier répandu en Europe depuis une expansion remarquable au cours des dernières décennies. Elle se distingue par son capuchon noir profond en période nuptiale et par ses ailes d'un gris pâle uniforme, sans les pointes noires caractéristiques de sa cousine la Mouette rieuse. Longtemps rare, elle colonise maintenant les côtes françaises depuis la Manche jusqu'à la Méditerranée, nidifiant en groupes importants dans les roselières et les marais côtiers. Très grégaire, elle se nourrit opportunistement de poissons, invertébrés aquatiques et débris, surtout près des côtes. Ses appels nasillards et graves, caractéristiques du groupe, retentissent surtout au printemps et en été dans les colonies bruyantes. L'espèce partage des zones d'hivernage avec d'autres mouettes sur les côtes méditerranéennes et atlantiques.",
+ "habitat": "Littoraux côtiers, roselières, marais et lacs côtiers. Niche en colonies dans les zones basses de roseaux ou sur les îles lacustres.",
+ "diet": "Omnivore opportuniste : poissons, invertébrés aquatiques, vers, œufs, jeunes oiseaux, charognes et débris alimentaires.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Côtes méditerranéennes et côtes atlantiques de la France et du sud de l'Europe.",
+  "niche": "Nicheur répandu et en expansion en France, de la Manche à la Méditerranée ; colonies importantes en Baie de Somme et côtes méditerranéennes.",
+  "passage": "Passages visibles en mars-avril (migration prénuptiale) et août-octobre (migration postnuptiale)."
+ },
+ "seasonality_fr": "Visible toute l'année sur les côtes françaises, avec effectifs variables selon la saison. Plus vocale et active dans les colonies d'avril à juillet.",
+ "song_fr": "Appels nasal et grave, très distinctif du groupe des mouettes. Cri caractéristique « yeah » guttural, particulièrement bruyante dans les colonies de reproduction.",
+ "lookalikes": [
+  {
+   "scientific_name": "Chroicocephalus ridibundus",
+   "common_name_fr": "Mouette rieuse",
+   "why_fr": "Capuchon brun chocolat et moins étendu; ailes gris clair avec pointes noires ; seul un croissant blanc autour de l'œil en période nuptiale."
+  },
+  {
+   "scientific_name": "Larus michahellis",
+   "common_name_fr": "Goéland leucophée",
+   "why_fr": "Plus grand; bec jaune à tache rouge; pattes jaunes; pas de capuchon noir distinctif."
+  }
+ ],
+ "rarity_note": "Régulière et en expansion notoire en France. Commune sur les côtes méditerranéennes et présente partout sur les façades maritimes, mais moins fréquente en Normandie et Bretagne que la Mouette rieuse.",
+ "fun_facts": [
+  "Son expansion en Europe depuis quelques décennies est spectaculaire : elle était autrefois confinée à la Mer Noire et n'a atteint la Grande-Bretagne que récemment.",
+  "Ses deux croissants blancs autour de l'œil en plumage nuptial forment un masque distinctif unique chez les mouettes méditerranéennes.",
+  "Elle est hautement grégaire et niche en colonies parfois très importantes, où ses appels graves créent un brouhaha caractéristique."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Mouette_m%C3%A9lanoc%C3%A9phale",
+  "https://en.wikipedia.org/wiki/Mediterranean_gull",
+  "https://www.oiseaux.net/oiseaux/mouette.melanocephale.html",
+  "https://www.lpo.fr/nos-actions/connaitre/fiches-especes",
+  "https://ebird.org/species/medgul/",
+  "https://avibase.bsc-eoc.org/species.jsp?avibaseid=51FBDBF1EC1BDCA9"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

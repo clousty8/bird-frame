@@ -1,0 +1,30 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Cuculus canorus",
+ "summary_fr": "Le Coucou gris est un oiseau migrateur au comportement fascinant : la femelle pond ses œufs dans les nids d'autres espèces, notamment des rousserolles et des bergeronnettes, qui élèvent alors ses poussins. L'oisillon, éclos avant ceux de l'espèce hôte, éjecte les autres œufs du nid et confisque toute l'alimentation. De taille moyenne avec des ailes pointues, le mâle au plumage gris bleuté ressemble à un Épervier d'Europe. Insectivore, il se nourrit principalement de chenilles velues, dont il est le seul oiseau à pouvoir digérer. Chaque printemps, son arrivée début avril en Europe signe le retour de la belle saison, un événement si marquant qu'il a inspiré des chansons et du folklore. En septembre, il regagne l'Afrique de l'Est. Son chant sonore « cou-cou » se diffuse dans les milieux ouverts, bois et haies de toute la France.",
+ "habitat": "Milieux ouverts, bois, haies, buissons et zones cultivées ; du littoral à la montagne, jusqu'à 2000 m d'altitude.",
+ "diet": "Insectes, principalement chenilles velues que peu d'oiseaux peuvent digérer ; aussi libellules, criquets et scarabées. Très exceptionnellement, œufs et poussins.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne, particulièrement Afrique de l'Est et du Sud.",
+  "niche": "Toute la France d'avril à juillet, dans milieux ouverts et forestiers.",
+  "passage": "Arrivée mars-avril, départ août-septembre."
+ },
+ "seasonality_fr": "Présent en France d'avril à septembre. Son chant caractéristique retentit surtout lors de son arrivée printanière, un signe très attendu du retour de la belle saison.",
+ "song_fr": "Chant du mâle : « cou-cou » sonore et clair, parfois « cou-cou-cou », émis à intervalles réguliers. Femelle : long trille glougloutant. Jeune affamé : « ssii-ssii-ssii » insistant.",
+ "lookalikes": [],
+ "rarity_note": "Commun en France d'avril à septembre. Score BirdNET maximal 0,68. Migrateur régulier bien établi, présent partout où existent ses hôtes de ponte.",
+ "fun_facts": [
+  "Le jeune Coucou gris naît aveugle et sans défense, mais possède un instinct inné qui lui permet de rejeter tous les autres œufs et poussins du nid, souvent bien plus gros que lui.",
+  "Son arrivée chaque printemps est un événement culturel célébré depuis le Moyen Âge, inspirant chansons populaires et folklore transmis de générations en générations.",
+  "C'est le seul oiseau européen capable de digérer les chenilles velues, ce qui en fait un prédateur unique et très efficace de ces insectes sinon inappétissants."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Coucou_gris",
+  "https://en.wikipedia.org/wiki/Common_cuckoo",
+  "https://oiseaux.net/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

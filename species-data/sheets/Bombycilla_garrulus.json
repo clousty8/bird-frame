@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Bombycilla garrulus",
+ "summary_fr": "Le Jaseur boréal est un passéreau frugivore aux plumes beige-rose, reconnaissable à sa crête pointue et ses ailes aux reflets jaunes et blancs, avec des extrémités rouges ressemblant à de la cire à cacheter. Cet oiseau migrateur se reproduit dans les forêts boréales circumpolaires du nord de l'Europe, de l'Asie et de l'Amérique du Nord. En France, il n'apparaît qu'en hiver, généralement de novembre à mars, en groupes parfois importants à la recherche de baies et de fruits. Peu craintif, il fréquente les jardins et les parcs où se trouvent des fruits abondants. Certaines années, des vagues spectaculaires d'invasions le poussent bien au sud de son aire d'hivernage habituelle, comme en 2004-2005 où plus d'un demi-million ont été observés en Allemagne seule.",
+ "habitat": "Forêts boréales de conifères (épicéas, pins) pour la reproduction. En hiver en France, milieux avec baies et fruits : haies, alignements d'arbres, jardins, parcs, lisières boisées.",
+ "diet": "Frugivore presque exclusif en hiver, consommant des baies de sorbier, de genièvre, de cotonéaster et d'autres fruits. Insectivore durant la reproduction, capturant surtout des moustiques, moucherons et petits insectes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "France et Europe occidentale (Grande-Bretagne à Kazakhstan et nord de la Chine). Les populations eurasiatiques hivernent du nord-ouest de l'Europe jusqu'au Japon.",
+  "niche": "Forêts boréales du nord de l'Europe, d'Asie et du nord-ouest de l'Amérique du Nord, entre 60°N et 70°N.",
+  "passage": "Migrations en septembre-octobre (en arrivant du nord) et février-mars (en repartant vers les aires de reproduction)."
+ },
+ "seasonality_fr": "Visible exclusivement en hiver en France, d'octobre/novembre à mars/avril. Présent surtout de décembre à février en fonction des années et de la disponibilité des fruits.",
+ "song_fr": "Appel caractéristique : trille aigu et bourdonnant « sirrrr », moins ondulant que celui du Jaseur d'Amérique. Bruit distinct des ailes lors des décollages et atterrissages en groupe.",
+ "lookalikes": [
+  {
+   "scientific_name": "Bombycilla cedrorum",
+   "common_name_fr": "Jaseur des cèdres",
+   "why_fr": "Plus petit, à gorge blanche et ventre jaunâtre. Trille moins grave. En Amérique du Nord uniquement."
+  },
+  {
+   "scientific_name": "Bombycilla japonica",
+   "common_name_fr": "Jaseur du Japon",
+   "why_fr": "Bande caudale rouge et crête moins prononcée. Trille plus aigu. Distribution asiatique, très rare en Occident."
+  }
+ ],
+ "rarity_note": "Rare et irrégulier en France, présent seulement l'hiver. Années fastes avec vagues d'invasion; années creuses avec observations très sporadiques ou nulles. Toujours en petits groupes à moyens, jamais nicheur en France.",
+ "fun_facts": [
+  "Peut consommer plusieurs centaines de baies par jour, plus du double de son poids corporel, et déféquer toutes les quatre minutes.",
+  "Peut s'intoxiquer en mangeant des fruits fermentés contenant de l'alcool, parfois mortellement, mais métabolise l'éthanol plus efficacement que les humains.",
+  "Oiseau de bon augure ou de malheur selon les régions : autrefois associé à la peste en Hollande (Pestvogel), mais vu comme un oiseau de beauté en France."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Jaseur_bor%C3%A9al",
+  "https://en.wikipedia.org/wiki/Bohemian_waxwing",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

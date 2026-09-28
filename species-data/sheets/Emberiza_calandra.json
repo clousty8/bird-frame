@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Emberiza calandra",
+ "summary_fr": "Le Bruant proyer est un grand bruant robuste au plumage brun-gris rayé, remarquable par l'absence quasi totale de dimorphisme sexuel, le mâle étant seulement un peu plus grand que la femelle. Autrefois commun dans les campagnes françaises, il a connu un déclin spectaculaire dû à l'intensification agricole, qui détruit son habitat et prive ses jeunes des insectes dont ils dépendent. Cette espèce exige des paysages complexes et diversifiés combinant haies, prairies, zones humides et petites parcelles de céréales, une mosaïque devenue rare. Il se nourrit surtout de graines d'herbacées sauvages, complétées de feuilles et de baies, et bascule vers les insectes, araignées et vers de terre pour nourrir ses jeunes. En période de reproduction, le mâle chante depuis un perchoir bien visible pour défendre son territoire et peut être polygame. Hors nidification, l'espèce forme de petits groupes, parfois de grands dortoirs hivernaux rassemblant plusieurs centaines d'oiseaux. Son chant, métallique et répétitif, évoque un trousseau de clés qu'on agite.",
+ "habitat": "Paysages semi-ouverts complexes : prairies, zones humides, haies bocagères, petites parcelles de céréales et délaissés cultivés, du littoral à la montagne.",
+ "diet": "Graines des herbacées et légumineuses cultivées (environ 75% de l'alimentation adulte) ; insectes, araignées et vers de terre surtout pour nourrir les jeunes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Les populations nordiques hivernent dans le sud de l'Europe ou en Asie mineure ; en France, une partie des oiseaux reste toute l'année, d'autres arrivent en automne.",
+  "niche": "Toute la France continentale d'avril-mai à juillet ; une ou deux nichées par saison selon les conditions.",
+  "passage": "Passages marqués en mars et d'octobre à novembre pour les populations migratrices."
+ },
+ "seasonality_fr": "Visible et audible surtout d'avril à juillet en période de reproduction. Présent aussi l'hiver, notamment en régions méditerranéennes et continentales, mais très discret et localisé.",
+ "song_fr": "Chant court et métallique ressemblant à des clés s'entrechoquant : « zick zick zick zick zick chnirrps ». Cris d'alarme en « ticks » secs et répétés, doublés en vol.",
+ "lookalikes": [
+  {
+   "scientific_name": "Emberiza citrinella",
+   "common_name_fr": "Bruant jaune",
+   "why_fr": "Autre bruant au chant métallique et répétitif, dans un registre acoustique proche et facilement confondable."
+  },
+  {
+   "scientific_name": "Melanocorypha calandra",
+   "common_name_fr": "Alouette calandre",
+   "why_fr": "Espèce sympatrique de taille comparable, partageant souvent les mêmes plaines agricoles ouvertes."
+  },
+  {
+   "scientific_name": "Lullula arborea",
+   "common_name_fr": "Alouette lulu",
+   "why_fr": "Chant incluant des séquences métalliques et répétitives pouvant prêter à confusion."
+  }
+ ],
+ "rarity_note": "Localisé en France : assez commun en régions méditerranéenne et continentale, plus rare en zone atlantique nord où les détections restent sporadiques.",
+ "fun_facts": [
+  "Contrairement à la plupart des bruants, la femelle du Bruant proyer chante aussi, une curiosité chez les passereaux.",
+  "Son chant présente des dialectes régionaux stables depuis des décennies, et les oiseaux réagissent plus fortement à un chant local qu'à un dialecte étranger.",
+  "Espèce bioindicatrice, son déclin en Europe du Nord signale la dégradation des paysages bocagers, dont la restauration profite aussi à de nombreuses autres espèces."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bruant_proyer",
+  "https://en.wikipedia.org/wiki/Corn_bunting",
+  "https://www.oiseaux.net/fiches/bruant.proyer.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

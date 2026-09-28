@@ -1,0 +1,81 @@
+{
+ "scientific_name": "Hippolais icterina",
+ "common_name_fr": "Hypolaïs ictérine",
+ "birdnet_label": "Hippolais icterina_Hypolaïs ictérine",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Acrocephalidae",
+  "family_common": "Reed Warblers and Allies",
+  "genus": "Hippolais",
+  "species": "Hippolais icterina"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Hypolaïs ictérine",
+   "url": "https://fr.wikipedia.org/wiki/Hypola%C3%AFs_ict%C3%A9rine",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Hypolaïs ictérine est une espèce de passereaux de la famille des Acrocephalidae.",
+   "fulltext_chars": 2622
+  },
+  "en": {
+   "title": "Icterine warbler",
+   "url": "https://en.wikipedia.org/wiki/Icterine_warbler",
+   "description": "Species of bird",
+   "extract": "The icterine warbler is an Old World warbler in the tree warbler genus Hippolais. It breeds in mainland Europe except the southwest, where it is replaced by its western counterpart, the melodious warbler. It is migratory, wintering in sub-Saharan Africa.",
+   "fulltext_chars": 3207
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hippolais_icterina_vogelartinfo_chris_romeiks_R7F2916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 664,
+  "height": 831,
+  "file": "Hippolais_icterina_vogelartinfo_chris_romeiks_R7F2916.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hippolais_icterina_vogelartinfo_chris_romeiks_R7F2916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "GFDL 1.2",
+  "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+  "author": "Vogelartinfo",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Hippolais_icterina_vogelartinfo_chris_romeiks_R7F2916.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0716,
+  "cities": {
+   "Paris": 0.016,
+   "Lille": 0.028,
+   "Strasbourg": 0.037,
+   "Lyon": 0.013,
+   "Grenoble": 0.011,
+   "Marseille": 0.015,
+   "Ajaccio": 0.072,
+   "Chamonix": 0.015,
+   "Perpignan": 0.012,
+   "Nancy": 0.031
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0221,
+   0.0716,
+   0.0586,
+   0.041,
+   0.0412,
+   0.07,
+   0.0647,
+   0.0144,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:21Z"
+}

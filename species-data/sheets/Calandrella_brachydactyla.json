@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Calandrella brachydactyla",
+ "summary_fr": "L'Alouette calandrelle est un petit passereau migrateur de la famille des Alaudidae, néanmoins liée aux régions méditerranéennes et eurasiatiques. Elle niche dans le sud de l'Europe et le Paléarctique ouest, puis hiverne au sud du Sahara. Petite, aux teintes gris-brun, elle se distingue par son corps élancé et son chant varié, alternant trilles secs et notes imitatives. En France, elle est surtout visible en passage migratoire, au printemps et à l'automne, dans les régions méridionales où les flux sont les plus importants. Elle affectionne les milieux ouverts et secs : cultures, pâturages arides et terrains dénudés. Pendant la migration, elle forme de grands vols compacts qui se meuvent en étroite synchronisation. Olivier Messiaen, le grand compositeur français, lui a dédié une pièce de son Catalogue d'oiseaux, attestant de la richesse de ses vocalises.",
+ "habitat": "Milieux ouverts et secs : cultures, pâturages arides, champs cultivés et terrains dénudés du littoral à la montagne.",
+ "diet": "Principalement des graines, notamment en hiver ; insectes et larves pendant la saison de reproduction et l'élevage des jeunes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne, au sud du Sahara.",
+  "niche": "Sud-ouest du Paléarctique (sud de l'Europe, nord-ouest de l'Afrique) ; nicheur très rare ou absent en France.",
+  "passage": "Passages marqués en mars-avril et surtout septembre-octobre, principalement dans le sud-ouest français."
+ },
+ "seasonality_fr": "Visible surtout en passage migratoire de mars à avril et d'août à novembre, principalement en France méridionale. Quelques individus hivernent dans les régions du sud ; nicheur très rare ou accidentel en France.",
+ "song_fr": "Chant varié combinant des trilles secs et des notes imitatives ; vol chanteur caractéristique. Cri d'alarme bref et répété.",
+ "lookalikes": [
+  {
+   "scientific_name": "Alauda arvensis",
+   "common_name_fr": "Alouette des champs",
+   "why_fr": "Ressemblance acoustique et morphologie similaire, chant complexe avec variations."
+  },
+  {
+   "scientific_name": "Melanocorypha calandra",
+   "common_name_fr": "Alouette calandre",
+   "why_fr": "Alouette de même envergure ; chant comparable avec éléments imitatifs."
+  },
+  {
+   "scientific_name": "Lullula arborea",
+   "common_name_fr": "Alouette lulu",
+   "why_fr": "Confusion possible en raison de la taille réduite et du chant mélodieux varié."
+  }
+ ],
+ "rarity_note": "Rare en France, essentiellement en passage migratoire. Nicheur très rare ou accidentel. Présence limitée au sud-ouest pendant les périodes de migration.",
+ "fun_facts": [
+  "Olivier Messiaen lui a dédié une pièce dans son Catalogue d'oiseaux, célèbre recueil de compositions ornithologiques.",
+  "Pendant la migration, elle forme de grands vols compacts qui se meuvent en parfaite synchronisation, comme une danse aérienne.",
+  "Ses différentes sous-espèces nichent sur une aire vaste s'étendant de la Méditerranée à la Mongolie."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Alouette_calandrelle",
+  "https://en.wikipedia.org/wiki/Greater_short-toed_lark"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

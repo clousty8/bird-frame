@@ -1,0 +1,32 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Merops apiaster",
+ "summary_fr": "Avec ses couleurs éclatantes mêlant turquoise, roux doré et jaune vif, le Guêpier d'Europe compte parmi les oiseaux les plus spectaculaires visibles en France. Acrobate aérien redoutable, il chasse en vol des hyménoptères — abeilles, guêpes, bourdons — qu'il assomme contre une branche pour en retirer le dard avant de les avaler, sans que cette prédation menace réellement les colonies d'abeilles domestiques. Grégaire, il niche en colonies parfois nombreuses dans des terriers creusés à même les berges sablonneuses des rivières ou les talus meubles, où son vol souple et ses cris roulés et liquides, lancés en groupe au-dessus des vallées, trahissent sa présence bien avant qu'on ne l'aperçoive. Migrateur au long cours, il quitte l'Afrique subsaharienne au printemps pour rejoindre le sud de la France, où le climat chaud convient à son régime insectivore, puis repart dès la fin de l'été. Sous l'effet du réchauffement climatique, son aire de nidification progresse vers le nord, rendant l'espèce de plus en plus commune loin de ses bastions méditerranéens traditionnels.",
+ "habitat": "Niche en colonies dans les berges sablonneuses des rivières, les falaises d'éboulis et les carrières de sable, où il creuse de longs terriers. Chasse dans les milieux ouverts et ensoleillés : garrigues, vignobles, prairies et abords des cours d'eau.",
+ "diet": "Insectes volants capturés en vol, surtout des hyménoptères (abeilles domestiques, guêpes, bourdons, frelons dont il retire le dard avant ingestion), mais aussi libellules et papillons. Son impact sur les ruchers reste globalement marginal.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Hiverne en Afrique subsaharienne, du Sahel jusqu'en Afrique australe pour les populations d'Europe centrale et orientale ; absent de France en hiver.",
+  "niche": "Niche de mai à juillet, surtout dans les vallées du Rhône, de la Loire, de la Saône et du Doubs, ainsi qu'en Provence et dans les Pyrénées-Orientales.",
+  "passage": "Arrivée en avril-mai, parfois dès fin mars ; départ vers l'Afrique en août-septembre."
+ },
+ "seasonality_fr": "Présent d'avril à septembre en France métropolitaine, avec un pic d'activité en juin-juillet pendant la nidification. Des individus isolés peuvent apparaître plus au nord lors des passages de printemps.",
+ "song_fr": "Cri roulé, liquide et sonore, souvent transcrit « prrup » ou « prreee », lancé en vol et audible à grande distance, en particulier lorsque des groupes passent en migration au-dessus des vallées.",
+ "lookalikes": [],
+ "rarity_note": "Espèce régulière mais très inégalement répartie : commune en Provence, Languedoc et Pyrénées-Orientales, plus rare et localisée au nord de la Loire, avec une extension progressive vers le nord.",
+ "fun_facts": [
+  "Avant d'avaler une abeille, il la frappe contre une branche pour en retirer le dard et en vider le venin.",
+  "Chaque automne, il traverse le Sahara sur plus de 7000 km, un voyage risqué où près d'un tiers des oiseaux ne survivent pas.",
+  "Pendant la parade nuptiale, le mâle offre des insectes à la femelle en plein vol avant l'accouplement."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Gu%C3%AApier_d'Europe",
+  "https://en.wikipedia.org/wiki/European_bee-eater",
+  "https://www.oiseaux.net/oiseaux/guepieur-europe.html",
+  "https://www.lpo.fr/decouvrir-la-nature/fiches-especes/fiches-especes/oiseaux/guepier-d-europe",
+  "https://www.inpn.mnhn.fr/espece/Merops%20apiaster"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

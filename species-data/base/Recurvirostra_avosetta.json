@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Recurvirostra avosetta",
+ "common_name_fr": "Avocette élégante",
+ "birdnet_label": "Recurvirostra avosetta_Avocette élégante",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Recurvirostridae",
+  "family_common": "Stilts and Avocets",
+  "genus": "Recurvirostra",
+  "species": "Recurvirostra avosetta"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Avocette élégante",
+   "url": "https://fr.wikipedia.org/wiki/Avocette_%C3%A9l%C3%A9gante",
+   "description": "espèce d'oiseaux du genre Recurvirostra",
+   "extract": "L'Avocette élégante est une espèce d'oiseaux Charadriiformes de la famille des Recurvirostridae. Il s'agit de la seule espèce du genre Recurvirostra vivant en Europe.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Pied avocet",
+   "url": "https://en.wikipedia.org/wiki/Pied_avocet",
+   "description": "Species of bird",
+   "extract": "The pied avocet is a species of wader in the Recurvirostridae family, the only member of the avocet genus Recurvirostra found in Europe, Africa, and Asia.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pied_Avocet%2C_Recurvirostra_avosetta_at_Marievale_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2827802004182%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3796,
+  "height": 2464,
+  "file": "Pied_Avocet,_Recurvirostra_avosetta_at_Marievale_Nature_Reserve,_Gauteng,_South_Africa_(27802004182).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Pied_Avocet%2C_Recurvirostra_avosetta_at_Marievale_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2827802004182%29.jpg/1920px-Pied_Avocet%2C_Recurvirostra_avosetta_at_Marievale_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2827802004182%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Derek Keats from Johannesburg, South Africa",
+  "credit": "Pied Avocet, Recurvirostra avosetta at Marievale Nature Reserve, Gauteng, South Africa",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Pied_Avocet,_Recurvirostra_avosetta_at_Marievale_Nature_Reserve,_Gauteng,_South_Africa_(27802004182).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2876,
+  "cities": {
+   "Le Mans": 0.145,
+   "Pornic": 0.112,
+   "Rennes": 0.147,
+   "Poitiers": 0.091,
+   "Paris": 0.149,
+   "Lille": 0.256,
+   "Strasbourg": 0.04,
+   "Lyon": 0.045,
+   "Grenoble": 0.044,
+   "Marseille": 0.115,
+   "Toulouse": 0.081,
+   "Bordeaux": 0.087,
+   "Brest": 0.093,
+   "Ajaccio": 0.288,
+   "Clermont-Ferrand": 0.057,
+   "Chamonix": 0.034,
+   "Perpignan": 0.109,
+   "Nancy": 0.067
+  },
+  "monthly_scores": [
+   0.2563,
+   0.2876,
+   0.2414,
+   0.2231,
+   0.2555,
+   0.2343,
+   0.2028,
+   0.1651,
+   0.1164,
+   0.1322,
+   0.2297,
+   0.2476
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:13Z"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Troglodytes troglodytes",
+ "common_name_fr": "Troglodyte mignon",
+ "birdnet_label": "Troglodytes troglodytes_Troglodyte mignon",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Troglodytidae",
+  "family_common": "Wrens",
+  "genus": "Troglodytes",
+  "species": "Troglodytes troglodytes"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Troglodyte mignon",
+   "url": "https://fr.wikipedia.org/wiki/Troglodyte_mignon",
+   "description": "petit oiseau de l'ordre des passereaux",
+   "extract": "Le Troglodyte mignon est une espèce de passereaux de la famille des Troglodytidae présente dans la quasi-totalité de l'Europe et une partie de l'Asie. Il est de très petite taille et d'une grande vivacité.",
+   "fulltext_chars": 19461
+  },
+  "en": {
+   "title": "Eurasian wren",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_wren",
+   "description": "Species of bird",
+   "extract": "The Eurasian wren is a very small insectivorous bird and the only member of the wren family found in the Old World, specifically in Eurasia and Africa (Maghreb). In Anglophone Europe, it is commonly known simply as the wren. It has a very short tail which is often held erect, a short neck and a relatively long thin bill. It is russet brown above, paler buff-brown below, overall finely barred darker, and has a cream buff supercilium. The sexes are alike.",
+   "fulltext_chars": 17867
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Eurasian_wren_2023_12_31_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4676,
+  "height": 3117,
+  "file": "Eurasian_wren_2023_12_31_02.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Eurasian_wren_2023_12_31_02.jpg/1920px-Eurasian_wren_2023_12_31_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Alexis Lours",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Eurasian_wren_2023_12_31_02.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.8956,
+  "cities": {
+   "Le Mans": 0.794,
+   "Pornic": 0.807,
+   "Rennes": 0.85,
+   "Poitiers": 0.679,
+   "Paris": 0.801,
+   "Lille": 0.867,
+   "Strasbourg": 0.606,
+   "Lyon": 0.526,
+   "Grenoble": 0.458,
+   "Marseille": 0.425,
+   "Toulouse": 0.474,
+   "Bordeaux": 0.649,
+   "Brest": 0.896,
+   "Ajaccio": 0.597,
+   "Clermont-Ferrand": 0.569,
+   "Chamonix": 0.471,
+   "Perpignan": 0.398,
+   "Nancy": 0.669
+  },
+  "monthly_scores": [
+   0.7972,
+   0.7948,
+   0.8554,
+   0.8956,
+   0.8801,
+   0.8499,
+   0.7972,
+   0.6365,
+   0.6767,
+   0.8371,
+   0.8176,
+   0.7982
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:39Z"
+}

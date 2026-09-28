@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Rissa tridactyla",
+ "summary_fr": "La Mouette tridactyle est une mouette véritablement pélagique, contrairement à la plupart de ses cousines qui fréquentent les côtes. Elle ne s'approche du littoral que pour se reproduire en colonies denses, nichant sur les parois de falaises verticales qui surplombent directement la mer. Avec une population mondiale de plusieurs millions de couples, c'est l'un des oiseaux de mer les plus abondants de l'hémisphère Nord. Son nom anglais « kittiwake » émane de son cri distinctif, une sorte de « kitti-ouék » aigu et nasillard. L'épithète tridactyle fait référence à sa caractéristique unique : contrairement aux autres mouettes et goélands, elle ne possède que trois doigts bien visibles, son doigt arrière étant réduit voire absent.",
+ "habitat": "Océans Atlantique et Pacifique Nord. En période de reproduction (mai à août), colonies sur les falaises côtières subarctiques et tempérées ; hors saison, haute mer.",
+ "diet": "Essentiellement poissons : lançons (préférés en été), capelans, sprats, harengs, merlans, morues. Accessoirement céphalopodes et crustacés ; déchets de poisson des bateaux.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Au large des océans Atlantique et Pacifique nord, jusqu'aux côtes tempérées du sud (côtes du New Jersey en Amérique du Nord).",
+  "niche": "Côtes subarctiques et arctiques, mai à septembre, en colonies denses sur falaises.",
+  "passage": "Passages migratoires marqués, particulièrement en automne (juillet-août) et au printemps."
+ },
+ "seasonality_fr": "Hivernale et migratrice en France. Visible principalement d'octobre à avril, surtout sur la côte atlantique. Absente ou très rare en période estivale.",
+ "song_fr": "Cri distinctif très sonore et aigu, répété, dont le nom « kittiwake » est une transcription. Autres vocalisations pour reconnaître le partenaire, les voisins et les petits au nid.",
+ "lookalikes": [
+  {
+   "scientific_name": "Larus canus",
+   "common_name_fr": "Goéland cendré",
+   "why_fr": "Taille et plumage gris-blanc similaires, mais le Goéland cendré a des points blancs au bout des ailes et des pattes jaune-vert."
+  },
+  {
+   "scientific_name": "Larus glaucoides",
+   "common_name_fr": "Goéland arctique",
+   "why_fr": "Silhouette proche mais le Goéland arctique a un point rouge sur le bec et des pattes rose vif."
+  }
+ ],
+ "rarity_note": "Rare et irrégulière en France continentale ; présence accidentelle sauf sur littoral breton (Brest surtout) où elle est occasionnelle en hiver. Très rare à l'intérieur des terres.",
+ "fun_facts": [
+  "Ses nids sont des structures minuscules collées avec de la boue et des excréments durcis sur les aspérités des falaises ; les jeunes ne peuvent quitter le nid que s'il est très étroit et périlleux pour les prédateurs.",
+  "L'espèce a basculé de « Préoccupation mineure » à « Vulnérable » en 2017, sa population ayant décliné de 40 % en trois générations du fait de la surexploitation des stocks de poisson.",
+  "Elle suit les bancs de harengs et de maquereaux, ce qui en fait un indicateur fiable pour les pêcheurs de la présence de poisson."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Mouette_tridactyle",
+  "https://en.wikipedia.org/wiki/Black-legged_kittiwake"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

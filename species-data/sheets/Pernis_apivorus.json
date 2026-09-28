@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Pernis apivorus",
+ "summary_fr": "Rapace élégant de taille moyenne, la Bondrée apivore est une migratrice de longue distance aux mœurs singulières : elle se nourrit surtout de larves et de pupes de guêpes et de frelons, dont elle creuse les nids souterrains jusqu'à 40 cm de profondeur à l'aide de ses serres puissantes. Son plumage brun très variable rappelle celui de la Buse variable, mais sa silhouette plus svelte, sa petite tête proéminente et sa longue queue barrée la distinguent en vol. Des plumes courtes et compactes autour des yeux et du bec, ainsi que des narines étroites, la protègent des piqûres des insectes qu'elle dérange. C'est une migratrice diurne spectaculaire, se regroupant parfois par milliers pour franchir les détroits méditerranéens et le Bosphore en route vers l'Afrique subsaharienne, où elle hiverne. En France, elle n'est présente que le temps de se reproduire, du printemps au cœur de l'été, dans les forêts matures pourvues de clairières et d'un sous-bois clairsemé. Discrète le reste du temps, elle se signale surtout par ses parades nuptiales et par les grands rassemblements migrateurs de fin d'été.",
+ "habitat": "Forêts matures avec clairières et sous-bois clairsemé, zones boisées mixtes ; parfois en campagne ou en friche à proximité du site de nidification.",
+ "diet": "Larves, pupes et adultes de guêpes, frelons et autres hyménoptères sociaux, dont les nids sont déterrés ; complément de batraciens, reptiles, petits mammifères, oisillons et insectes divers.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne, au sud du Sahara.",
+  "niche": "Forêts matures d'Europe tempérée et continentale ; saison de reproduction d'avril à juin, jeunes à l'envol dès juillet.",
+  "passage": "Retour massif en avril-mai, départ en août-septembre ; franchit en nombre les détroits méditerranéens et le Bosphore."
+ },
+ "seasonality_fr": "Présente en France d'avril à septembre-octobre, avec des pics de passage au printemps et en fin d'été ; nicheuse discrète, surtout visible en migration.",
+ "song_fr": "Cris sifflés assez mélodieux émis par le mâle en vol, parfois rendus par un « pii-lou » clair ; « ki-ki-ki » sec et martelé en cas d'excitation ou d'alarme.",
+ "lookalikes": [
+  {
+   "scientific_name": "Buteo buteo",
+   "common_name_fr": "Buse variable",
+   "why_fr": "Silhouette et plumage brun très semblables en vol ; cris moins mélodieux et plus miaulés."
+  }
+ ],
+ "rarity_note": "Régulière en France à la belle saison, surtout en migration ; nicheuse plus discrète et moins nombreuse, présence variable selon les régions.",
+ "fun_facts": [
+  "Elle déterre les nids souterrains de guêpes jusqu'à 40 cm de profondeur avec ses serres puissantes pour en extraire les larves.",
+  "Selon les données disponibles, c'est à ce jour le seul prédateur connu en Europe du frelon asiatique invasif Vespa velutina.",
+  "Un individu bagué en Allemagne a été retrouvé mort à 29 ans, un record de longévité pour l'espèce."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bondr%C3%A9e_apivore",
+  "https://en.wikipedia.org/wiki/European_honey_buzzard",
+  "https://www.oiseaux.net/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Hydrobates pelagicus",
+ "summary_fr": "L'Océanite tempête est le plus petit oiseau de mer d'Europe, un minuscule pétrel aux mœurs exclusivement marines. Entièrement noir hormis un croupion blanc et une bande blanche sous les ailes, il mesure à peine 14 à 17 cm et pèse 23 à 29 g, presque rien. Strictement nocturne sur ses sites de reproduction rocheux, il reste en haute mer le reste de l'année, volant au ras des vagues avec un battement d'ailes caractéristique en papillon. Myope terrestre, il ne revient à terre que pour nicher dans les crevasses rocheuses ou les terriers. Son appel distinctif est un ronronnement cristallin donné par les deux sexes en vol nuptial. Capable de localiser sa nourriture à l'odorat, il se nourrit en surface de petits poissons, calmars et organismes planctoniques. Largement migrateur dans l'Atlantique Nord, il hiverne aux larges des côtes africaines et revient nicher en Europe dès avril.",
+ "habitat": "Îles rocheuses et falaises côtières isolées lors de la nidification ; océan ouvert et eaux côtières durant le reste de l'année, loin des zones côtières.",
+ "diet": "Petits poissons, calmars, crustacés, zooplancton et organismes planctoniques, capturés en surface ou par de brefs piqués.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Large des côtes sud et sud-ouest de l'Afrique, entre l'Afrique du Sud et la Namibie; certains individus hivernent dans les eaux côtières d'Afrique de l'Ouest.",
+  "niche": "Îles rocheuses et falaises de l'Atlantique Nord-Est; niche sporadiquement en France (îlots bretons) et ne le fait pas régulièrement en France métropolitaine continentale.",
+  "passage": "Passages migratoires marqués en automne entre septembre et novembre lors du déplacement vers l'Afrique; retour en printemps d'avril à mai."
+ },
+ "seasonality_fr": "Observable en France principalement lors des passages migratoires, surtout d'octobre à novembre et d'avril à mai. Rarement visible depuis la côte en conditions normales, mais plus régulièrement en tempêtes lorsqu'il se rapproche des navires.",
+ "song_fr": "Appel caractéristique en vol nuptial: ronronnement cristallin très rapide, constitué de huit ou plus répétitions de 'ter-CHICK' se terminant en trille; variation géographique de l'appel entre populations atlantiques et méditerranéennes. Chant du mâle depuis le terrier: ronronnement grave 'arr-r-r-r-r'. Généralement silencieux en mer.",
+ "lookalikes": [],
+ "rarity_note": "Très rare et irrégulier en France, observé principalement lors de passages migratoires côtiers et en conditions tempétueuses. Score BirdNET français: 0,0717 (maximum), très localisé en Méditerranée (Ajaccio: 0,072) et côtes atlantiques.",
+ "fun_facts": [
+  "Capable de repérer sa nourriture à l'odeur grâce à des narines tubulaires et un bulbe olfactif développé, ce qui est très rare chez les oiseaux.",
+  "Donne l'impression de marcher sur l'eau en volant: il perd littéralement de l'altitude puis reprend de la vitesse en rasant les vagues.",
+  "Peut vivre plus de 33 ans; record européen actuellement détenu par un oiseau âgé de 33 ans et 10 mois."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Oc%C3%A9anite_temp%C3%AAte",
+  "https://en.wikipedia.org/wiki/European_storm_petrel"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

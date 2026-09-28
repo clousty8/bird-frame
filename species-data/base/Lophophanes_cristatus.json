@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Lophophanes cristatus",
+ "common_name_fr": "Mésange huppée",
+ "birdnet_label": "Lophophanes cristatus_Mésange huppée",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Paridae",
+  "family_common": "Tits, Chickadees, and Titmice",
+  "genus": "Lophophanes",
+  "species": "Lophophanes cristatus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Mésange huppée",
+   "url": "https://fr.wikipedia.org/wiki/M%C3%A9sange_hupp%C3%A9e",
+   "description": "espèce d'oiseaux passériformes de la famille des paridae",
+   "extract": "La Mésange huppée est une espèce de Passereaux de la famille des Paridés présente dans presque toute l'Europe jusqu'à l'Oural, sauf l'Irlande, l'Italie, certaines régions des Balkans et des Carpates, et le nord de la Scandinavie.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Crested tit",
+   "url": "https://en.wikipedia.org/wiki/Crested_tit",
+   "description": "Species of bird",
+   "extract": "The crested tit or European crested tit is a passerine bird in the tit family Paridae. It is a widespread and common resident breeder in coniferous forests throughout central and northern Europe and in deciduous woodland in France and the Iberian Peninsula. In Great Britain, it is mainly restricted to the ancient pinewoods of Inverness and Strathspey in Scotland, and rarely strays far from its haunts. A few vagrant crested tits have been seen in England. It is resident, and most individuals do not migrate.",
+   "fulltext_chars": 2739
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Lophophanes_cristatus_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1775,
+  "height": 1775,
+  "file": "Lophophanes_cristatus_-_01.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Lophophanes_cristatus_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Carlos Delgado",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Lophophanes_cristatus_-_01.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2694,
+  "cities": {
+   "Le Mans": 0.089,
+   "Pornic": 0.064,
+   "Rennes": 0.052,
+   "Poitiers": 0.136,
+   "Paris": 0.119,
+   "Lille": 0.077,
+   "Strasbourg": 0.152,
+   "Lyon": 0.243,
+   "Grenoble": 0.266,
+   "Marseille": 0.254,
+   "Toulouse": 0.259,
+   "Bordeaux": 0.182,
+   "Brest": 0.026,
+   "Ajaccio": 0.199,
+   "Clermont-Ferrand": 0.22,
+   "Chamonix": 0.254,
+   "Perpignan": 0.269,
+   "Nancy": 0.147
+  },
+  "monthly_scores": [
+   0.253,
+   0.2437,
+   0.2539,
+   0.1941,
+   0.1819,
+   0.203,
+   0.2299,
+   0.2379,
+   0.2307,
+   0.2656,
+   0.2694,
+   0.2631
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:30Z"
+}

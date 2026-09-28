@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Curruca hortensis",
+ "summary_fr": "La Fauvette orphée est une fauvette méditerranéenne de taille moyenne, sensiblement plus grande et plus massive que la Fauvette à tête noire. Le mâle porte un dos gris uni, un dessous blanchâtre et surtout une tête sombre contrastée, avec un masque noir cerclant l'œil pâle et une gorge d'un blanc immaculé qui tranche nettement. La femelle et les jeunes sont plus ternes, la tête moins sombre et le dos teinté de roussâtre. Visiteuse d'été et nicheuse en France, elle ne s'installe que dans le tiers sud-est du pays, sur le pourtour méditerranéen, où elle occupe garrigues, oliveraies et bois clairs jusqu'en août ; le reste de l'année, elle hiverne en Afrique subsaharienne, dans la zone soudano-sahélienne. Ses effectifs français, déjà réduits, sont en net recul. Discrète malgré sa taille, elle chasse insectes et araignées dans le feuillage et livre un chant fluide et flûté, construit de phrases variées, qui peut se confondre avec celui d'autres fauvettes méditerranéennes comme la Mélanocéphale.",
+ "habitat": "Garrigues, oliveraies et bois clairs de chênes du pourtour méditerranéen, en zones chaudes et sèches du Sud-Est de la France.",
+ "diet": "Insectes et petits arthropodes capturés en vol ou glanés sur le feuillage ; quelques baies en fin de saison.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "estivant",
+  "hiverne": "Afrique subsaharienne, principalement en zone soudano-sahélienne.",
+  "niche": "Sud-est de la France, en zone méditerranéenne (garrigues, oliveraies), d'avril à août ; population marginale et en déclin.",
+  "passage": "Arrivée en mars-avril, départ en août-septembre, essentiellement par le sud-est du pays."
+ },
+ "seasonality_fr": "Présente en France uniquement d'avril à août, dans le Sud-Est méditerranéen ; absente le reste de l'année.",
+ "song_fr": "Chant fluide et mélodieux fait de phrases variées, assez proche de celui d'autres fauvettes méditerranéennes ; cris de contact aigus et secs.",
+ "lookalikes": [
+  {
+   "scientific_name": "Curruca melanocephala",
+   "common_name_fr": "Fauvette mélanocéphale",
+   "why_fr": "Même taille et masque noir autour de l'œil, mais gorge moins blanche et chant plus sec, moins fluide."
+  },
+  {
+   "scientific_name": "Curruca communis",
+   "common_name_fr": "Fauvette grisette",
+   "why_fr": "Chant fluide de phrases variées assez similaire, oiseau plus petit, sans contraste céphalique marqué."
+  },
+  {
+   "scientific_name": "Sylvia atricapilla",
+   "common_name_fr": "Fauvette à tête noire",
+   "why_fr": "Chant plus grave et posé que celui de l'orphée ; tête entièrement noire chez le mâle, sans masque."
+  }
+ ],
+ "rarity_note": "Très rare et localisée en France, cantonnée aux garrigues du Sud-Est méditerranéen, aire de nidification morcelée et en net déclin.",
+ "fun_facts": [
+  "Son nom latin « hortensis » signifie « du jardin », alors qu'elle évite justement les jardins pour les garrigues sauvages du Sud-Est.",
+  "Sa population française, limitée au littoral méditerranéen, est en forte régression depuis plusieurs décennies.",
+  "Chaque année, elle parcourt plusieurs milliers de kilomètres entre les garrigues du Sud-Est et ses quartiers d'hiver en Afrique subsaharienne."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fauvette_orph%C3%A9e",
+  "https://en.wikipedia.org/wiki/Western_Orphean_warbler",
+  "https://www.oiseaux.net/",
+  "https://inpn.mnhn.fr/espece/cd_nom/889079/tab/statut"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Haematopus ostralegus",
+ "summary_fr": "Seul huîtrier d'Europe, l'Huîtrier pie est un limicole spectaculaire au plumage noir et blanc contrasté, au long bec orange vif et aux cris perçants très reconnaissables. Cet oiseau remarquable adapte sa stratégie alimentaire et même la forme de son bec selon le type de proies rencontrées : certains individus développent un bec pointu pour sonder et capturer les vers marins et petits mollusques enfoncés dans le sable ou la vase, tandis que d'autres acquièrent un bec trapu pour marteler et briser les coquilles épaisses des grosses moules et coques. Cette plasticité du bec se fait en seulement 2 à 3 semaines selon le régime adopté. Très social hors de la période de nidification, l'Huîtrier se rassemble en troupes importantes dans les estuaires et littoraux. Son activité est largement conditionnée par les rythmes des marées : il s'alimente jour et nuit en fonction de la disponibilité des zones d'alimentation, ce qui en fait un oiseau véritablement « crépusculaire » au sens étymologique. En France, il est un migrateur partiel, avec des populations côtières résidentes rejointes en automne par des oiseaux venus du nord de l'Europe.",
+ "habitat": "Littoraux et estuaires dominés par les marées, plages rocheuses et graveleuses, dunes côtières, plans d'eau intérieurs avec rives de gravier, prairies humides proches de l'eau.",
+ "diet": "Mollusques variés (moules, coques, tellines de la Baltique, lavagnons, patelles) ; vers de terre et polychètes marins ; occasionnellement crabes et crevettes.",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Populations des côtes atlantiques britanniques, irlandaises et de la Manche restent partiellement locales ; autres hivernent en Afrique du Nord et façades méditerranéennes.",
+  "niche": "Toute la côte atlantique française, estuaires et littoraux de la Manche et mer du Nord. Reproduction de mars à juin, site de nidification près des ressources alimentaires (côtes tranquilles, falaises, terrains alluviaux).",
+  "passage": "Passages migratoires marqués au printemps et automne pour les populations venues de Scandinavie, des pays baltes et Russie qui hivernent en mer du Nord et Afrique du Nord."
+ },
+ "seasonality_fr": "Visible toute l'année sur les côtes françaises. Activité forte au printemps (reproduction mars-juillet), automne et hiver. L'activité dépend des marées plus que de l'heure du jour.",
+ "song_fr": "Cri de contact distinctif très fort et strident : « k'tbiik » caractéristique, entendu en vol et au repos. Sur les territoires de nidification, cris répétés « kip kip kip » s'intensifiant en un trille puissant lors des cérémonies de défense territoriale.",
+ "lookalikes": [],
+ "rarity_note": "Régulier sur tous les littoraux français, particulièrement en Atlantique-Nord et Manche ; très peu observé à l'intérieur des terres. Plus abondant en zones côtières du nord et ouest que sur la Méditerranée.",
+ "fun_facts": [
+  "Son bec change de forme selon ses préférences alimentaires : pointu pour les vers, émoussé pour marteler les coquilles. Cette adaptation remarquable s'effectue en seulement 2 à 3 semaines.",
+  "Oiseau très social, l'Huîtrier s'alimente aussi bien la nuit que le jour selon les marées, ce qui en fait un oiseau tidal avant tout, indépendant du rythme solaire.",
+  "Long-vivant remarquable : un individu bagué aux Pays-Bas en 1949 a été retrouvé en 1993, prouvant une longévité d'au moins 44 ans en nature."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Hu%C3%AEtrier_pie",
+  "https://en.wikipedia.org/wiki/Eurasian_oystercatcher"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

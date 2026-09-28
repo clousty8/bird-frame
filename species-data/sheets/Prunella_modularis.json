@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Prunella modularis",
+ "summary_fr": "Petit passereau discret aux allures de moineau, l'Accenteur mouchet est un habitué méconnu des buissons et jardins français. Son dos brun foncé et sa tête gris-bleuté en font un oiseau au camouflage très efficace. Souvent observé à ras du sol dans les sous-bois denses, il se nourrit de petits insectes et de vers, complétant son régime de graines en hiver. Territorial toute l'année, il possède une stratégie de reproduction remarquable : la polyandrie est son système d'accouplement préféré, un arrangement où plusieurs mâles s'occupent de la même femelle. Son chant, souvent comparé à celui du Troglodyte mignon, se compose de phrases courtes et claires émises très rapidement, qui permettent de le repérer au sommet d'un arbre où il aime se poster pour chanter. Migrateur partiel, certaines populations se renforcent en hiver par des oiseaux venus du nord.",
+ "habitat": "Sous-bois denses, haies, fourrés, ainsi que parcs et jardins arborés. Fréquente aussi les conifères et les feuillus, toujours caché près du sol dans les broussailles.",
+ "diet": "Principalement petits insectes, araignées et vers de terre qu'il picote au sol ou dans l'humus. En hiver, consomme aussi de petites baies et graines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France, où les nicheurs locaux sédentaires sont rejoints à l'automne par des oiseaux migrateurs venus du nord et de l'est de l'Europe.",
+  "niche": "Partout en France métropolitaine, d'avril à août environ, avec généralement deux nichées par saison.",
+  "passage": "Passages visibles en mars (migration prénuptiale) et d'octobre à novembre (migration postnuptiale)."
+ },
+ "seasonality_fr": "Présent et audible toute l'année en France, bien que les effectifs augmentent en hiver avec l'arrivée de migrateurs. Chant audible surtout au printemps et en automne.",
+ "song_fr": "Chant composé de phrases courtes, claires et aiguës, débitées très rapidement, sans trilles. Son cri d'alarme est un « tic » sec et répété. La ressemblance avec le Troglodyte mignon est frappante, mais les trilles du Troglodyte manquent à l'Accenteur.",
+ "lookalikes": [
+  {
+   "scientific_name": "Troglodytes troglodytes",
+   "common_name_fr": "Troglodyte mignon",
+   "why_fr": "Chant rapide et fluide très ressemblant, bien que le Troglodyte ajoute des trilles caractéristiques que l'Accenteur n'a pas."
+  },
+  {
+   "scientific_name": "Cettia cetti",
+   "common_name_fr": "Bouscarle de Cetti",
+   "why_fr": "Chant très rapide et cascade sonore ; habitat similaire en buissons denses. Confusion possible en écoute."
+  },
+  {
+   "scientific_name": "Phylloscopus collybita",
+   "common_name_fr": "Pouillot véloce",
+   "why_fr": "Petit warbler au chant rapide et bref ; peut être confondu lors de passages migratoires."
+  }
+ ],
+ "rarity_note": "Commun et régulier partout en France, toute l'année. Score de fiabilité BirdNET très élevé (0,85), présenté dans tous les habitats propices du territoire.",
+ "fun_facts": [
+  "L'Accenteur mouchet est l'un des rares oiseaux à pratiquer la polyandrie : plusieurs mâles s'occupent d'une même femelle, et les petits d'une nichée peuvent avoir des pères différents.",
+  "Son nom vernaculaire français « traîne-buisson » (chez Buffon) décrit parfaitement son comportement discret, restant caché dans les buissons où son camouflage le rend pratiquement invisible.",
+  "Bien que petit et discret, un Accenteur mouchet bagué a atteint l'âge de neuf ans, révélant une longévité remarquable pour un petit passereau."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Accenteur_mouchet",
+  "https://en.wikipedia.org/wiki/Dunnock",
+  "https://www.oiseaux.net/oiseaux/accenteur.mouchet.html",
+  "https://avibase.bsc-eoc.org/species.jsp?avibaseid=F72DBC43E50ED33B"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

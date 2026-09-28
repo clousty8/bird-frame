@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Lyrurus tetrix",
+ "summary_fr": "Le Tétras lyre, ou coq des bouleaux, est un grand galliforme sédentaire emblématique des Alpes et du nord de l'Europe. Le mâle se distingue par son plumage noir aux reflets bleus intenses et sa queue spectaculaire en forme de lyre, tandis que la femelle arbore une livrée brune cryptique. Cet oiseau des forêts de conifères mixtes à clairières est célèbre pour ses parades nuptiales printanières sur des espaces ouverts appelés leks, où les mâles se livrent à des compétitions acérées, chantant avec puissance et se mesurant par des gestes rituels. En hiver, il s'enfuit dans la neige poudreuse pour se protéger du froid. Très vulnérable au dérangement humain et à la fragmentation de son habitat, notamment par le ski hors-piste et l'aménagement touristique, ses populations ont fortement régressé en France, en particulier hors des Alpes.",
+ "habitat": "Forêts de conifères avec clairières et lisières, landes parsemées d'arbustes de la famille des éricacées (airelles, bruyères), du littoral à 2300 m d'altitude.",
+ "diet": "Majoritairement végétarien : bourgeons, feuilles, graines, fleurs et baies ; complété par des insectes, araignées et invertébrés en saison.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France et dans les massifs montagneux d'Europe centrale, les oiseaux se regroupent pour survivre à l'hiver en zone enneigée poudreuse.",
+  "niche": "Massifs alpins du Chablais au Var, très localement dans les Ardennes et le Jura ; lek de parade de mars à juin en zones dégagées.",
+  "passage": "Arrivées d'oiseaux nordiques et orientaux en automne ; départs vers l'est et le nord au printemps."
+ },
+ "seasonality_fr": "Hivernant régulier dans les Alpes et présent toute l'année. Chant et parades nuptiales surtout mars à juin, audibles à l'aube et en crépuscule.",
+ "song_fr": "Mâle : roucoulements graves, puissants et rapides lors des parades, accompagnés de cris d'éternuement sonores et chuintants. Femelle : petits gloussements nasaux peu puissants.",
+ "lookalikes": [
+  {
+   "scientific_name": "Tetrao urogallus",
+   "common_name_fr": "Grand Tétras",
+   "why_fr": "Plus gros, chant plus profond et grave ; roulement à l'envol similaire mais plus sourd."
+  },
+  {
+   "scientific_name": "Bonasa bonasia",
+   "common_name_fr": "Gélinotte des bois",
+   "why_fr": "Bien plus petit, habitats similaires mais chant très différent, trille court et sec."
+  },
+  {
+   "scientific_name": "Lagopus lagopus",
+   "common_name_fr": "Lagopède des Alpes",
+   "why_fr": "Altitude similaire mais chant entièrement différent, cri de croassement caractéristique."
+  }
+ ],
+ "rarity_note": "Très rare en France en dehors des Alpes ; quasi absent des Ardennes. Max_score BirdNET 0,015 (détection possible mais très localisée, surtout hiver).",
+ "fun_facts": [
+  "Les doigts des pattes ont une frange d'écailles cornées qui agit comme des raquettes pour ne pas s'enfoncer dans la neige fraîche.",
+  "L'hiver, le Tétras lyre creuse un trou dans la neige poudreuse et s'y enfouit entièrement pour conserver sa chaleur corporelle.",
+  "Les mâles défendent farouchement leur petit territoire de parade (lek) toute l'année, participant à des combats rituels violents."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/T%C3%A9tras_lyre",
+  "https://en.wikipedia.org/wiki/Black_grouse",
+  "https://oiseaux.net/oiseaux/tetras.lyre.html",
+  "https://www.lpo.fr/connaitre-les-oiseaux/fiches-oiseaux/tetras-lyre",
+  "https://inpn.mnhn.fr/espece/cd_nom/4330"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

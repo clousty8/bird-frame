@@ -1,0 +1,68 @@
+{
+ "scientific_name": "Limnodromus scolopaceus",
+ "common_name_fr": "Bécassin à long bec",
+ "birdnet_label": "Limnodromus scolopaceus_Bécassin à long bec",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Limnodromus",
+  "species": "Limnodromus scolopaceus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécassin à long bec",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9cassin_%C3%A0_long_bec",
+   "description": "espèce d'oiseaux charadriiformes de la famille des scolopacidae",
+   "extract": "Le Bécassin à long bec ou Limnodrome à long bec, est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 3362
+  },
+  "en": {
+   "title": "Long-billed dowitcher",
+   "url": "https://en.wikipedia.org/wiki/Long-billed_dowitcher",
+   "description": "Species of bird",
+   "extract": "The long-billed dowitcher is a medium-sized shorebird with a relatively long bill belonging to the sandpiper family, Scolopacidae. In breeding plumage, adults are characterized by a rufous head and underparts with a darker mottled back and a large white upper rump only seen in flight. They feed in various freshwater habitats with their bill underwater in a \"sewing machine\" motion and have a mating display where males chase females in flight. The genus, Limnodromus is Ancient Greek from limne, \"marsh\" and dromos, \"racer\". The specific scolopaceus is Neo-Latin for \"snipe-like\", from Latin scolopax, scolopacis, a snipe or woodcock. The English name is from Iroquois and was first recorded in 1841.",
+   "fulltext_chars": 10259
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Long-billed_Dowitcher_-_Malheur_NWR_-_Oregon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1140,
+  "height": 760,
+  "file": "Long-billed_Dowitcher_-_Malheur_NWR_-_Oregon.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/9/96/Long-billed_Dowitcher_-_Malheur_NWR_-_Oregon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Francesco Veronesi from Italy",
+  "credit": "Long-billed Dowitcher - Malheur NWR - Oregon_S4E9199",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Long-billed_Dowitcher_-_Malheur_NWR_-_Oregon.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0111,
+  "cities": {
+   "Rennes": 0.011,
+   "Brest": 0.011
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0104,
+   0.0111,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:22Z"
+}

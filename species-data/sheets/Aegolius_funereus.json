@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Aegolius funereus",
+ "summary_fr": "La Nyctale de Tengmalm, ou Chouette boréale, est une petite chouette nocturne de la famille des Strigidés, originaire des forêts de conifères du nord de l'Europe. Difficile à observer, elle est protégée au niveau européen. En France, elle demeure une visiteuse exceptionnelle, ne s'aventurant en altitude que lors des invasions provoquées par la pénurie de rongeurs dans ses zones de nidification. Cette chouette trapue possède une grosse tête ronde ornée de disques faciaux blancs qui lui donnent un air étonné caractéristique. Ses yeux jaunes et son bec ivoire la distinguent d'autres petites chouettes. Excellente chasseuse, elle se poste à l'affût en forêt pour capturer ses proies avec un vol quasi silencieux. Seule espèce du genre Aegolius en Europe, elle demeure l'une des plus difficiles à localiser sur le continent.",
+ "habitat": "Forêts de conifères en altitude, taïga, forêts boréales et subalpines en montagne (Alpes, Pyrénées, Massif Central). En période de disette, peut s'aventurer en forêts mixtes de plaine.",
+ "diet": "Essentiellement petits mammifères (campagnols, souris, musaraignes) ; accessoirement petits oiseaux et invertébrés.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Rarement observée en France en hiver; l'espèce hiverne surtout en Europe du Nord et de l'Est, avec invasions occasionnelles vers le sud lors de pénuries alimentaires.",
+  "niche": "Ne niche pas en France; les populations nicheuses sont en Scandinavie, Europe de l'Est et Asie boréale.",
+  "passage": "Passages très irréguliers en novembre-décembre et février-mars lors des années de disette dans les zones de reproduction."
+ },
+ "seasonality_fr": "Visiteuse hivernale très rare et imprévisible en France, surtout en altitude. Observée principalement de novembre à mars lors des invasions liées aux cycles de rongeurs.",
+ "song_fr": "Chant de parade: série d'une douzaine de «hou» clairs et rapides, pouvant être répétée pendant des heures au printemps. Cri d'alarme: «tic-tic» sec et répété, évoquant le chant d'autres petites chouettes.",
+ "lookalikes": [
+  {
+   "scientific_name": "Athene noctua",
+   "common_name_fr": "Chevêche d'Athéna",
+   "why_fr": "Taille similaire et cris «tic» secs comparables, bien que la Chevêche soit plus terrestre."
+  },
+  {
+   "scientific_name": "Strix aluco",
+   "common_name_fr": "Chouette hulotte",
+   "why_fr": "Motifs de hooting nocturnes ressemblants, mais la Hulotte est plus grande et plus commune."
+  },
+  {
+   "scientific_name": "Asio otus",
+   "common_name_fr": "Hibou moyen-duc",
+   "why_fr": "Chants et cris de même tessiture, habitat forestier partagé en montagne."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France, absente de la plupart des régions. Visiteuse hivernale imprévisible, apparaissant surtout en Alpes et Pyrénées lors des années de disette dans le nord. Jamais nicheur sur le territoire français.",
+ "fun_facts": [
+  "Son bec couleur ivoire la distingue immédiatement de la Chevêche d'Athéna, dont le bec est jaune-verdâtre.",
+  "Elle possède des vertèbres spécialisées lui permettant de tourner la tête à plus de 270°, compensant l'immobilité de ses yeux.",
+  "Son vol est quasiment inaudible grâce à des «peignes» sur ses rémiges qui réduisent les frottements de l'air."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Nyctale_de_Tengmalm",
+  "https://en.wikipedia.org/wiki/Boreal_owl",
+  "https://www.oiseaux.net/oiseaux/nyctale.de.tengmalm.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4124",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

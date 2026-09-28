@@ -1,0 +1,80 @@
+{
+ "scientific_name": "Passer hispaniolensis",
+ "common_name_fr": "Moineau espagnol",
+ "birdnet_label": "Passer hispaniolensis_Moineau espagnol",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Passeridae",
+  "family_common": "Old World Sparrows",
+  "genus": "Passer",
+  "species": "Passer hispaniolensis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Moineau espagnol",
+   "url": "https://fr.wikipedia.org/wiki/Moineau_espagnol",
+   "description": "oiseau",
+   "extract": "Le Moineau espagnol est une espèce d'oiseaux appartenant à la famille des Passeridae. Il est présent dans la région méditerranéenne ainsi qu'en Asie centrale.",
+   "fulltext_chars": 6414
+  },
+  "en": {
+   "title": "Spanish sparrow",
+   "url": "https://en.wikipedia.org/wiki/Spanish_sparrow",
+   "description": "Species of bird",
+   "extract": "The Spanish sparrow or willow sparrow is a passerine bird of the sparrow family Passeridae. It is found in the Mediterranean region and south-west and central Asia. It is very similar to the closely related house sparrow, and the two species show their close relation in a \"biological mix-up\" of hybridisation in the Mediterranean region, which complicates the taxonomy of this species.",
+   "fulltext_chars": 11446
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Passer_Hispaniolensis_Male.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2307,
+  "height": 1536,
+  "file": "Passer_Hispaniolensis_Male.JPG",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Passer_Hispaniolensis_Male.JPG/1920px-Passer_Hispaniolensis_Male.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Francesco Canu",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Passer_Hispaniolensis_Male.JPG"
+ },
+ "france_universe": {
+  "max_score": 0.0961,
+  "cities": {
+   "Marseille": 0.021,
+   "Toulouse": 0.019,
+   "Ajaccio": 0.096,
+   "Perpignan": 0.026
+  },
+  "monthly_scores": [
+   0.0909,
+   0.0765,
+   0.073,
+   0.0671,
+   0.0626,
+   0.0577,
+   0.0514,
+   0.0451,
+   0.0339,
+   0.0485,
+   0.0828,
+   0.0961
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:27Z"
+}

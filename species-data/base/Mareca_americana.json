@@ -1,0 +1,71 @@
+{
+ "scientific_name": "Mareca americana",
+ "common_name_fr": "Canard d'Amérique",
+ "birdnet_label": "Mareca americana_Canard d'Amérique",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Mareca",
+  "species": "Mareca americana"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Canard d'Amérique",
+   "url": "https://fr.wikipedia.org/wiki/Canard_d'Am%C3%A9rique",
+   "description": "espèce d'oiseau",
+   "extract": "Le Canard d'Amérique, aussi appelé Canard à front blanc ou Canard siffleur d'Amérique, est une espèce d'oiseaux palmipèdes de la famille des Anatidae. Selon la classification de référence du Congrès ornithologique international (version 15.1, 2025), c'est une espèce monotypique.",
+   "fulltext_chars": 2408
+  },
+  "en": {
+   "title": "American wigeon",
+   "url": "https://en.wikipedia.org/wiki/American_wigeon",
+   "description": "Species of bird",
+   "extract": "The American wigeon, also known as the baldpate, is a species of dabbling duck found in North America. Formerly assigned to Anas, this species is classified with the other wigeons in the dabbling duck genus Mareca. It is the New World counterpart of the Eurasian wigeon.",
+   "fulltext_chars": 7448
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/19/American_Wigeon_-_Anas_americana%2C_Oakley_Street%2C_Cambridge%2C_Maryland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5184,
+  "height": 3456,
+  "file": "American_Wigeon_-_Anas_americana,_Oakley_Street,_Cambridge,_Maryland.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/American_Wigeon_-_Anas_americana%2C_Oakley_Street%2C_Cambridge%2C_Maryland.jpg/1920px-American_Wigeon_-_Anas_americana%2C_Oakley_Street%2C_Cambridge%2C_Maryland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Judy Gallagher",
+  "credit": "https://www.flickr.com/photos/52450054@N04/8534099742/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:American_Wigeon_-_Anas_americana,_Oakley_Street,_Cambridge,_Maryland.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0261,
+  "cities": {
+   "Pornic": 0.026,
+   "Rennes": 0.017,
+   "Poitiers": 0.014,
+   "Bordeaux": 0.025,
+   "Brest": 0.014
+  },
+  "monthly_scores": [
+   0.0242,
+   0.0224,
+   0.0159,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.015,
+   0.0255,
+   0.0261
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:07Z"
+}

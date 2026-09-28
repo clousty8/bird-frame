@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Certhia brachydactyla",
+ "summary_fr": "Petit passereau au plumage discret et tacheté, le Grimpereau des jardins est un acrobate de l'écorce qui ne cesse de progresser en spirale autour des troncs, appuyé sur sa queue rigide. Présent toute l'année en France tempérée, il reste un oiseau des forêts caducifoliées et des jardins arborés, où il fore l'écorce avec son bec fin et courbé pour déloger insectes et araignées. Plus méridional que son proche parent le Grimpereau des bois, il partage ses aires de répartition sans hybridation possible, les deux espèces ayant perdu leur interfécondité au cours de l'évolution. Sédentaire et territorial, le Grimpereau des jardins niche dans les cavités d'arbres et se nourrit quasi exclusivement d'invertébrés, complétant occasionnellement son régime par quelques petites graines en hiver. Son allure « collée » au tronc et son vol caractéristique qui le projette d'un arbre à l'autre le rendent aisément reconnaissable une fois aperçu, bien que son cri fin et ses déplacements discrets en fassent un oiseau facilement oublié.",
+ "habitat": "Forêts caducifoliées, parcs, jardins arborés et vergers, du littoral à la montagne. Préfère les bois de feuillus et les altitudes moins élevées que le Grimpereau des bois.",
+ "diet": "Insectes, araignées et petits invertébrés capturés en remontant les troncs ; petites graines en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Présent toute l'année en France, où l'espèce est sédentaire.",
+  "niche": "Partout en France dans son aire de distribution, avril à juin.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible et audible toute l'année en France. Activité maximale au printemps lors de la reproduction ; moins bruyant en automne et hiver.",
+ "song_fr": "Cri sifflé fin et cristallin, répété ; son inégal composé de notes espacées régulièrement. Variations géographiques mineures.",
+ "lookalikes": [
+  {
+   "scientific_name": "Certhia familiaris",
+   "common_name_fr": "Grimpereau des bois",
+   "why_fr": "Espèce très similaire, souvent impossible à distinguer à vue. Cris et chants proches, bien que le Grimpereau des bois ait une tonalité plus variable et riche."
+  }
+ ],
+ "rarity_note": "Régulier en France, où il est observé toute l'année, surtout dans les régions à forêts de feuillus. Peu commun ou absent en montagne élevée.",
+ "fun_facts": [
+  "Sa queue rigide joue le même rôle de support que celle des pics, un exemple frappant de convergence évolutive chez deux groupes d'oiseaux sans lien étroit.",
+  "Contrairement à la Sittelle torchepot qui descend les troncs la tête en avant, le Grimpereau remonte toujours en spirale et se projette au pied d'un autre arbre pour recommencer.",
+  "Il peut vivre jusqu'à 8 ans en nature et fait souvent deux nichées par an, maximisant sa reproduction dans un habitat fragmenté."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Grimpereau_des_jardins",
+  "https://en.wikipedia.org/wiki/Short-toed_treecreeper",
+  "https://www.oiseaux.net/oiseaux/grimpereau.des.jardins.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Tringa glareola",
+ "common_name_fr": "Chevalier sylvain",
+ "birdnet_label": "Tringa glareola_Chevalier sylvain",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Tringa",
+  "species": "Tringa glareola"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Chevalier sylvain",
+   "url": "https://fr.wikipedia.org/wiki/Chevalier_sylvain",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Chevalier sylvain est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 3546
+  },
+  "en": {
+   "title": "Wood sandpiper",
+   "url": "https://en.wikipedia.org/wiki/Wood_sandpiper",
+   "description": "Species of bird",
+   "extract": "The wood sandpiper is a small wader belonging to the sandpiper family Scolopacidae. A Eurasian species, it is the smallest of the shanks, a genus of mid-sized, long-legged waders that largely inhabit freshwater and wetland environments, as opposed to the maritime or coastal habitats of other, similar species.",
+   "fulltext_chars": 4934
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tringa_glareola_-_Laem_Phak_Bia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2200,
+  "height": 1467,
+  "file": "Tringa_glareola_-_Laem_Phak_Bia.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tringa_glareola_-_Laem_Phak_Bia.jpg/1920px-Tringa_glareola_-_Laem_Phak_Bia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Tringa_glareola_-_Laem_Phak_Bia.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.179,
+  "cities": {
+   "Le Mans": 0.067,
+   "Pornic": 0.053,
+   "Rennes": 0.053,
+   "Poitiers": 0.068,
+   "Paris": 0.081,
+   "Lille": 0.086,
+   "Strasbourg": 0.11,
+   "Lyon": 0.082,
+   "Grenoble": 0.076,
+   "Marseille": 0.08,
+   "Toulouse": 0.055,
+   "Bordeaux": 0.045,
+   "Brest": 0.038,
+   "Ajaccio": 0.179,
+   "Clermont-Ferrand": 0.071,
+   "Chamonix": 0.087,
+   "Perpignan": 0.066,
+   "Nancy": 0.1
+  },
+  "monthly_scores": [
+   0.0336,
+   0.0394,
+   0.1133,
+   0.1639,
+   0.0919,
+   0.0737,
+   0.0983,
+   0.179,
+   0.1551,
+   0.0867,
+   0.0425,
+   0.0392
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:10Z"
+}

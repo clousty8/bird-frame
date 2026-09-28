@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Hirundo rustica",
+ "summary_fr": "Distinctive petite hirondelle migratrice, l'Hirondelle rustique se reconnaît à sa queue profondément fourchue et sa gorge rouge-roux, délimitée par une bande bleue sombre à la poitrine. Elle construit ses nids en forme de coupe avec de la boue malaxée, les accrochant dans des structures accessibles comme les granges, les étables et les ponts. Elle se nourrit essentiellement d'insectes capturés en vol, avec une préférence marquée pour les grosses mouches. Les populations européennes sont hautement migratrices, hivernant en Afrique subsaharienne. Mâles et femelles sont territoriaux et chantent toute l'année, ce qui est inhabituel chez les passereaux. Connue pour son vol agile et gracieux, l'espèce s'associe étroitement aux établissements humains, où elle trouve des sites de nidification sécurisés. En France, c'est principalement un nicheur d'été, d'avril à septembre, bien que quelques individus hivernent les années clémentes.",
+ "habitat": "Pays ouverts avec végétation basse (prairies, bocages, parcs), préférence pour les zones avec eau à proximité. Présence d'structures accessibles (granges, étables) et de perchoirs exposés (fils, toits) essentiels pour la nidification.",
+ "diet": "Se nourrit en vol d'insectes, principalement de grosses mouches (70 % du régime en zones de reproduction). Consomme aussi des pucerons, papillons et hyménoptères ; s'abreuve en vol en rasant l'eau.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En Afrique subsaharienne pour les migrateurs européens ; quelques individus hivernent en France les années clémentes.",
+  "niche": "Partout en France à partir d'avril, principalement jusqu'en septembre, avec généralement deux nichées.",
+  "passage": "Pics de passage en avril (arrivée) et d'août à septembre (départ vers l'Afrique)."
+ },
+ "seasonality_fr": "Présente en France d'avril à septembre, avec activité maximale de mai à août. Absent durant l'hiver sauf hivernages sporadiques les années clémentes ; très audible durant la saison de reproduction.",
+ "song_fr": "Chant fluide composé de gargouillements et gazouillis mélodieux, terminé souvent par un grincement caractéristique. Cris d'alarme distincts : « witt » ou « splee-plink » quand excitée ; silflitt aigu pour signaler les prédateurs terrestres.",
+ "lookalikes": [
+  {
+   "scientific_name": "Delichon urbicum",
+   "common_name_fr": "Hirondelle de fenêtre",
+   "why_fr": "Hirondelle similaire, cris proches ; distinction par la bande blanche au croupion absente chez Hirundo rustica."
+  },
+  {
+   "scientific_name": "Riparia riparia",
+   "common_name_fr": "Hirondelle de rivage",
+   "why_fr": "Écologie comparable, signature acoustique moins mélodieuse avec cris plus secs et répétitifs."
+  }
+ ],
+ "rarity_note": "Très commune en France, présente durant toute la saison de passage et régulièrement en hiver les années clémentes. L'une des hirondelles les plus observées et les plus régulières du territoire.",
+ "fun_facts": [
+  "Mâles et femelles chantent toute l'année pour défendre leur territoire, ce qui est remarquablement inhabituel chez les passereaux.",
+  "Les filets caudaux allongés des mâles servent de signal de qualité ; les femelles préfèrent les mâles aux filets les plus longs.",
+  "Elle suit volontiers le laboureur ou les machines agricoles pour attraper les insectes perturbés, se montrant habituellement confiante envers l'homme."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Hirondelle_rustique",
+  "https://en.wikipedia.org/wiki/Barn_swallow",
+  "https://www.oiseaux.net/fiche.hirondelle.rustique.html",
+  "https://www.lpo.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

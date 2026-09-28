@@ -1,0 +1,89 @@
+{
+ "scientific_name": "Curruca curruca",
+ "common_name_fr": "Fauvette babillarde",
+ "birdnet_label": "Curruca curruca_Fauvette babillarde",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sylviidae",
+  "family_common": "Sylviid Warblers and Allies",
+  "genus": "Curruca",
+  "species": "Curruca curruca"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fauvette babillarde",
+   "url": "https://fr.wikipedia.org/wiki/Fauvette_babillarde",
+   "description": "espèce d'oiseaux passeriformes de la famille des sylviidae",
+   "extract": "La Fauvette babillarde est une espèce de passereaux migrateurs appartenant à la famille des Sylviidae. Très courante en Europe, mais restant discrète, elle affectionne les espaces couverts de buissons.",
+   "fulltext_chars": 5748
+  },
+  "en": {
+   "title": "Lesser whitethroat",
+   "url": "https://en.wikipedia.org/wiki/Lesser_whitethroat",
+   "description": "Species of bird",
+   "extract": "The lesser whitethroat is a common and widespread Old World warbler which breeds in temperate Europe, except the southwest, and in the western and central Palearctic. This small passerine bird is strongly migratory, wintering in Africa just south of the Sahara, Arabia and India.",
+   "fulltext_chars": 5203
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lesser_Whitethroat_%28Sylvia_curruca%29_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 450,
+  "file": "Lesser_Whitethroat_(Sylvia_curruca)_(4).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lesser_Whitethroat_%28Sylvia_curruca%29_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Ken Billington",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Lesser_Whitethroat_(Sylvia_curruca)_(4).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1854,
+  "cities": {
+   "Le Mans": 0.058,
+   "Pornic": 0.014,
+   "Rennes": 0.029,
+   "Poitiers": 0.031,
+   "Paris": 0.111,
+   "Lille": 0.185,
+   "Strasbourg": 0.15,
+   "Lyon": 0.035,
+   "Grenoble": 0.025,
+   "Marseille": 0.025,
+   "Toulouse": 0.014,
+   "Bordeaux": 0.013,
+   "Ajaccio": 0.073,
+   "Clermont-Ferrand": 0.028,
+   "Chamonix": 0.043,
+   "Perpignan": 0.019,
+   "Nancy": 0.143
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0335,
+   0.1293,
+   0.1854,
+   0.1063,
+   0.0547,
+   0.0351,
+   0.0502,
+   0.0263,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:10Z"
+}

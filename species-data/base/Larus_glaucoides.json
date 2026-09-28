@@ -1,0 +1,78 @@
+{
+ "scientific_name": "Larus glaucoides",
+ "common_name_fr": "Goéland arctique",
+ "birdnet_label": "Larus glaucoides_Goéland arctique",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Larus",
+  "species": "Larus glaucoides"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Goéland arctique",
+   "url": "https://fr.wikipedia.org/wiki/Go%C3%A9land_arctique",
+   "description": "espèce d'animaux",
+   "extract": "Le Goéland arctique ou Goéland à ailes blanches, est une espèce d'oiseaux marins Charadriiformes de la famille des Laridae, présente en Amérique du Nord et en Europe.",
+   "fulltext_chars": 3988
+  },
+  "en": {
+   "title": "Iceland gull",
+   "url": "https://en.wikipedia.org/wiki/Iceland_gull",
+   "description": "Species of bird in the genus Larus",
+   "extract": "The Iceland gull is a medium-sized gull that breeds in the Arctic regions of Canada and Greenland, but not in Iceland, where it is only seen during winter. The genus name is from Latin larus, which appears to have referred to a gull or other large seabird. The specific name glaucoides denotes its resemblance to Larus glaucus, a synonym of Larus hyperboreus, the glaucous gull; -oides is Ancient Greek and means \"resembling\".",
+   "fulltext_chars": 2947
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Larus_glaucoides_IthacaNY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2707,
+  "height": 1801,
+  "file": "Larus_glaucoides_IthacaNY.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Larus_glaucoides_IthacaNY.jpg/1920px-Larus_glaucoides_IthacaNY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Seabamirum on Flickr",
+  "credit": "Flickr",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Larus_glaucoides_IthacaNY.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.063,
+  "cities": {
+   "Le Mans": 0.015,
+   "Pornic": 0.041,
+   "Rennes": 0.032,
+   "Poitiers": 0.021,
+   "Bordeaux": 0.018,
+   "Brest": 0.063
+  },
+  "monthly_scores": [
+   0.0588,
+   0.0619,
+   0.063,
+   0.0299,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0222,
+   0.0507,
+   0.0572
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:23Z"
+}

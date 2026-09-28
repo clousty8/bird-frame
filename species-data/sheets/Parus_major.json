@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Parus major",
+ "summary_fr": "La Mésange charbonnière est la plus grande et la plus commune des mésanges eurasiatiques. Aisément reconnaissable à sa calotte et sa gorge noires, ses joues blanches éclatantes et sa poitrine jaune striée d'une bande noire centrale, elle habite une grande variété d'environnements : forêts de feuillus et mixtes, taïga, parcs, jardins et haies pourvu qu'il y ait des arbres. Elle niche traditionnellement dans les cavités naturelles des arbres ou des murs, mais apprécie aussi les nichoirs artificiels. Son régime alimentaire varie au rythme des saisons : principalement insectivore au printemps et en été, elle consomme chenilles, araignées et petits invertébrés. L'automne et l'hiver, elle se tourne vers les graines, baies et bourgeons, fréquentant régulièrement les mangeoires pour les graines de tournesol. Généralement sédentaire et fidèle à son territoire, elle peut connaître des migrations partielles certaines années.",
+ "habitat": "Forêts de feuillus ou mixtes, taïga, parcs, jardins, haies et vergers. Préfère les feuillus et évite les massifs denses de conifères. Nichoirs appréciés. Présente en plaine et jusqu'à 1 950 m d'altitude.",
+ "diet": "Printemps-été : insectivore (chenilles, araignées, petits invertébrés). Automne-hiver : granivore (graines, baies, bourgeons), fréquente les mangeoires pour les graines de tournesol et arachides.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Toute la France, présente l'année entière.",
+  "niche": "Mars à juin dans toute la France.",
+  "passage": "Mouvements migratoires partiels en automne certaines années, retour février-avril."
+ },
+ "seasonality_fr": "Présente toute l'année en France. Sédentaire sur la majorité du territoire, avec des mouvements migratoires partiels automne-hivernaux certaines années. Chante davantage entre février et juin.",
+ "song_fr": "Répertoire très varié de phrases aiguës au rythme bien marqué, répétées plusieurs fois. Chaque individu possède plusieurs variantes. Cris secs et répétés. Chant particulièrement audible février-juin.",
+ "lookalikes": [
+  {"scientific_name": "Cyanistes caeruleus", "common_name_fr": "Mésange bleue", "why_fr": "Habitats similaires, répertoire vocal proche et potentiel de confusion acoustique."},
+  {"scientific_name": "Periparus ater", "common_name_fr": "Mésange noire", "why_fr": "Fréquente les mêmes habitats, cris aigus pouvant prêter à confusion."}
+ ],
+ "rarity_note": "Très commune partout en France. Présente toute l'année et régulièrement détectée. L'une des mésanges les plus abondantes et les plus largement distribuées.",
+ "fun_facts": [
+  "Son bec s'allonge au fil des générations au Royaume-Uni, adaptation probablement aux mangeoires offrant des graines plus faciles d'accès.",
+  "Elle peut enfoncer le crâne d'autres petits oiseaux avec son puissant bec pour en manger le cerveau."
+ ],
+ "sources": ["https://fr.wikipedia.org/wiki/Mésange_charbonnière"],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

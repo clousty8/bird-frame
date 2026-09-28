@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Larus marinus",
+ "summary_fr": "Le Goéland marin est le plus grand goéland du monde, facilement reconnaissable à son imposant manteau noir et ses ailes noires contrastant avec sa tête blanche et ses dessous. Les adultes présentent des pattes rose chair et un puissant bec jaune orné d'une tache rouge. Cet oiseau marin côtier est un prédateur opportuniste très agressif et un charognard omnivore, capable de chasser aussi bien de petits poissons que d'autres oiseaux, des crustacés ou des petits mammifères. En France, l'espèce est présente toute l'année, sédentaire sur les côtes où elle se reproduit en Bretagne et Normandie, tandis que les populations nordiques y hivernent. Le Goéland marin fréquente les côtes rocheuses, les estuaires, les décharges et les ports, où il est souvent observé dominant les autres oiseaux par son agressivité.",
+ "habitat": "Côtes rocheuses et sablonneuses, estuaires, lacs et rivières côtiers, décharges, ports et environnements urbains littoraux du niveau de la mer jusqu'à la montagne.",
+ "diet": "Poissons, oiseaux de mer, crustacés, mollusques, petits mammifères, œufs, charognes et baies ; charognard efficace aux décharges et dans les ports.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Les populations nordiques hivernent sur les côtes de France, particulièrement en Bretagne, en Normandie et jusqu'au nord de l'Espagne.",
+  "niche": "Reproduit en Bretagne et Normandie (façade Atlantique, Manche et Mer du Nord), principalement sur les îles et côtes rocheuses, aussi sur les toits urbains.",
+  "passage": "Passages migratoires marqués d'août à novembre (migration sud) et en mars-avril (retour nord) ; certaines populations restent pratiquement sédentaires."
+ },
+ "seasonality_fr": "Présent et audible toute l'année en France métropolitaine. Communes reproduisant localement, renforcées en hiver par les migrateurs nordiques qui fuient la glace de la Baltique.",
+ "song_fr": "Cri caractéristique rauque et grave, haô-haô ou aouk, beaucoup plus profond que celui des autres goélands ; souvent entendu en vol ou au repos en colonie.",
+ "lookalikes": [
+  {
+   "scientific_name": "Larus argentatus",
+   "common_name_fr": "Goéland argenté",
+   "why_fr": "Sympatrique et de taille proche mais manteau gris plus clair ; cris rauques similaires pouvant prêter à confusion acoustique."
+  },
+  {
+   "scientific_name": "Larus fuscus",
+   "common_name_fr": "Goéland brun",
+   "why_fr": "Présent en France, dorsum gris à brun sombre ; cris également rauques rappelant celui du Goéland marin mais plus aigus."
+  },
+  {
+   "scientific_name": "Larus hyperboreus",
+   "common_name_fr": "Goéland bourgmestre",
+   "why_fr": "Très grand comme Larus marinus, mais manteau gris pâle et localités arctiques ; cris graves similaires mais espèce rare en France."
+  }
+ ],
+ "rarity_note": "Commun et régulier sur les côtes françaises métropolitaines, notamment en Bretagne et Normandie. Nicheur établi depuis les années 1930 ; populations stables à en hausse depuis 2010.",
+ "fun_facts": [
+  "Le Goéland marin est le plus grand goéland du monde, avec une envergure pouvant dépasser 1,7 mètre et un poids dépassant 2 kg ; seul le Goéland bourgmestre s'en rapproche.",
+  "Prédateur extrêmement agressif et dominateur, il capture et mange d'autres oiseaux de mer y compris des macareux, et s'approprie les proies d'autres oiseaux, voire d'aigles.",
+  "Les couples restent fidèles sur plusieurs années, se retrouvant au même nid ; la durée de vie dépasse 20 ans, avec des records à 35 ans en milieu sauvage."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Go%C3%A9land_marin",
+  "https://en.wikipedia.org/wiki/Great_black-backed_gull",
+  "https://www.oiseaux.net/oiseaux/goelands.marins.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

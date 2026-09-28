@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Sterna hirundo",
+ "summary_fr": "La Sterne pierregarin est un laridé élancé au vol souple qui rappelle celui de l'hirondelle, d'où son surnom d'« hirondelle de mer ». Elle se reconnaît à son plumage gris pâle et blanc, sa calotte noire bien nette et son bec rouge orangé à pointe sombre. Chasseuse agile, elle repère les bancs de petits poissons en vol stationnaire avant de plonger en piqué pour les saisir à la surface. En France, elle niche en colonies sur le littoral, les estuaires et le long de grands fleuves comme la Loire, principalement d'avril à août ; les couples défendent farouchement un territoire réduit, parfois espacé de quelques dizaines de centimètres seulement, et reviennent souvent année après année sur le même site. La majeure partie de la population hiverne loin de France, sur les côtes tropicales d'Afrique de l'Ouest et jusqu'en Amérique du Sud, mais quelques individus isolés sont désormais régulièrement observés en hiver sur le littoral français. Ses cris variés et souvent bruyants, dont l'alarme caractéristique « kee-yah », animent les colonies côtières au printemps et en été.",
+ "habitat": "Zones côtières et intérieures proches de l'eau : plages, îlots rocheux, gravières, lacs et grands fleuves. Niche sur des surfaces planes et dégagées à proximité immédiate de zones de pêche.",
+ "diet": "Petits poissons (éperlans, lançons, gobiidés) capturés en piqué depuis un vol stationnaire ; complète son régime avec des invertébrés aquatiques et des insectes saisis en surface.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Essentiellement sur les côtes tropicales et subtropicales d'Afrique de l'Ouest et centrale et jusqu'en Amérique du Sud ; quelques individus isolés hivernent désormais sur le littoral français.",
+  "niche": "Sur le littoral, les estuaires et les grands fleuves de France (Loire, Camargue…), d'avril à août ; parfois deux nichées.",
+  "passage": "Passages marqués en mars-avril puis d'août à octobre, particulièrement visibles sur le littoral atlantique et méditerranéen."
+ },
+ "seasonality_fr": "Présente surtout d'avril à octobre, avec un pic en mai-juin (nidification) puis en août-septembre (rassemblements avant migration) ; quelques individus isolés hivernent sur le littoral, en dehors de la présence principale.",
+ "song_fr": "Cris bruyants et variés : alarme « kee-yah » accentuée sur la première syllabe, « kyar » à l'envol, « keeur » à l'approche du nid avec un poisson, et « kek-kek-kek » staccato lors des affrontements.",
+ "lookalikes": [
+  {
+   "scientific_name": "Sterna paradisaea",
+   "common_name_fr": "Sterne arctique",
+   "why_fr": "Répertoire vocal très proche mais plus aigu, accent porté sur la deuxième syllabe du « kee-yah » plutôt que la première."
+  },
+  {
+   "scientific_name": "Thalasseus sandvicensis",
+   "common_name_fr": "Sterne caugek",
+   "why_fr": "Cris grinçants comparables en colonie mixte, bien que plus rauques et sur une tonalité différente."
+  },
+  {
+   "scientific_name": "Sternula albifrons",
+   "common_name_fr": "Sterne naine",
+   "why_fr": "Partage les mêmes habitats côtiers et fluviaux ; cris plus aigus et staccato, plus difficiles à distinguer en enregistrement bruité."
+  }
+ ],
+ "rarity_note": "Présence régulière sur le littoral et les grands fleuves français en nidification et en migration (score BirdNET modéré, 0,30) ; très rare en hiver, avec seulement quelques individus isolés sur les côtes.",
+ "fun_facts": [
+  "Elle repère ses proies en vol stationnaire avant de plonger en piqué pour les saisir à la surface de l'eau, une technique de chasse d'une grande précision.",
+  "Un individu bagué en Suède a été retrouvé mort en Nouvelle-Zélande cinq mois plus tard, après avoir parcouru environ 25 000 km.",
+  "Un couple peut revenir nicher sur le même site pendant 17 saisons consécutives ; environ 90 % des adultes expérimentés réutilisent leur territoire d'une année sur l'autre."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Sterne_pierregarin",
+  "https://en.wikipedia.org/wiki/Common_tern",
+  "https://www.oiseaux.net/oiseaux/sterne.pierregarin.html",
+  "https://www.lpo.fr/la-lpo/nos-combats/oiseaux-marins"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

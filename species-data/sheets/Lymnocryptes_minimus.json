@@ -1,0 +1,34 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Lymnocryptes minimus",
+ "summary_fr": "La Bécassine sourde est l'un des plus discrets limicoles d'Europe, minuscule bécassine nichant en zones froides du nord. Elle traverse la France lors de sa migration, d'octobre à mars, en quête des marais d'eau douce qui jalonnent son trajet. Son nom évocateur vient de son comportement unique face au danger : au lieu de s'envoler immédiatement, elle se plaque au sol, confiante dans son camouflage, ne décollant qu'au tout dernier moment, silencieusement, avec des battements d'ailes hésitants. Contrairement à la bécassine des marais, elle reste muette lors de son envol et en vol, ce qui accentue son caractère insaisissable. Elle sonde le sol vaseux en quête de vers, larves d'insectes et petits invertébrés aquatiques. Bien que rare en France, sa présence régulière et prévisible en font une espèce d'intérêt ornithologique certain pour qui sait la chercher.",
+ "habitat": "Marais d'eau douce aux herbes denses, zones humides et prairies humides, tourbières et toundra. Préfère les écosystèmes avec végétation basse et substrat vaseux.",
+ "diet": "Vers de terre et vermisseaux, larves de coléoptères, insectes et mouches, mollusques aquatiques, escargots. Complément de graines et plantes aquatiques.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Afrique occidentale et rives de l'océan Indien, zones côtières méditerranéennes et atlantiques.",
+  "niche": "Ne niche pas en France. Reproduction en Finlande, Scandinavie, Russie et Sibérie jusqu'à 70° de latitude nord.",
+  "passage": "Arrivée en France vers la mi-octobre, départ aux premières grandes gelées. Passages migratoires marqués d'octobre à mars."
+ },
+ "seasonality_fr": "Présente en France d'octobre à mars, surtout en zones de transition humides. Rare mais régulière, difficile à observer du fait de son comportement discret.",
+ "song_fr": "Silencieuse en hiver. Lors de la période de reproduction, le mâle émet un son distinctif rappelant un galop de cheval lors de ses parades aériennes.",
+ "lookalikes": [
+  {"scientific_name": "Gallinago gallinago", "common_name_fr": "Bécassine des marais", "why_fr": "Silhouette similaire mais plus grande. Cris distincts à l'envol pour les différencier."},
+  {"scientific_name": "Gallinago media", "common_name_fr": "Grande Bécassine", "why_fr": "Taille et aspect confondables en conditions difficiles. Chants courtois différents."}
+ ],
+ "rarity_note": "Très rare en France, espèce de passage strictement migratrice. Présence limitée aux marais d'octobre à mars. Détection opportune mais régulière lors des passages.",
+ "fun_facts": [
+  "Son genre Lymnocryptes est monotypique : elle en est l'unique représentante mondiale.",
+  "Elle doit son nom de « sourde » à son inaction contre le danger, se plaçant au sol plutôt que de fuir en volant immédiatement.",
+  "Elle ne crie pas lors de son envol, contrairement à la bécassine des marais, ce qui la rend encore plus difficile à détecter."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/B%C3%A9cassine_sourde",
+  "https://en.wikipedia.org/wiki/Jack_snipe",
+  "https://inpn.mnhn.fr/espece/cd_nom/4523",
+  "https://www.oiseaux.net/aves/scolopacidae/becassine.sourde.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

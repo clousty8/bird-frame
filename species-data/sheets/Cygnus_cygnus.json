@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Cygnus cygnus",
+ "summary_fr": "Grand cygne blanc des régions boréales eurasiatiques, le Cygne chanteur est un migrateur de longue distance qui hiverne régulièrement en France depuis octobre. Caractérisé par son bec jaune et noir, il se distingue du proche Cygne de Bewick par sa plus grande taille et son bec davantage jaune. Doté d'un cri puissant et claironnant ressemblant à une trompette, il est facilement identifiable à l'ouïe, même lors des passages en formation. Essentiellement végétarien, il filtre l'eau pour se nourrir ou broute les prés en hiver. Oiseau national de la Finlande, il niche dans la taïga scandimave et la toundra arctique, revenant chaque hiver dans le sud de l'Europe. Bien que nicheur accidentel en France, il reste un hivernant régulier mais peu abondant.",
+ "habitat": "En période de nidification : lacs, vastes tourbières et étendues d'eau de la taïga subarctique et toundra arctique d'Eurasie. En hiver : grands plans d'eau libres de glace en Europe de l'Ouest, associés à des champs et prairies pour le broutage.",
+ "diet": "Végétarien : plantes aquatiques dont il consomme toutes les parties (tiges, feuilles, racines et pousses) par filtration. En hiver, broutage dans les prés et champs de céréales à la manière des oies.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Europe de l'Ouest et sud de la France, rarement jusqu'à la Méditerranée. Concentration hivernale dans les pays baltes et du nord-ouest européen.",
+  "niche": "Taïga et toundra d'Eurasie : Scandinavie, Finlande, Russie sibérienne et Islande. Très rare nicheur en France depuis découvertes récentes en Dombes (4 couples depuis 2012).",
+  "passage": "Passages en octobre-novembre (automne) et mars-avril (printemps), particulièrement visibles en formation en Europe du Nord."
+ },
+ "seasonality_fr": "Hivernant régulier d'octobre à mars. Rarement présent d'avril à septembre, sauf vagabondages accidentels. Absence totale du territoire en été.",
+ "song_fr": "Cri puissant, grave et claironnant ressemblant à des coups de trompette. Plus résonnant et grave que celui du Cygne de Bewick. Le concert de grands groupes s'entend à plusieurs kilomètres.",
+ "lookalikes": [
+  {
+   "scientific_name": "Cygnus columbianus bewickii",
+   "common_name_fr": "Cygne de Bewick",
+   "why_fr": "Plus petit, cohabite en Europe. Différences : bec moins jaune (majorité noire), tête plus arrondie, cris plus légers. Taille est le critère principal."
+  },
+  {
+   "scientific_name": "Cygnus olor",
+   "common_name_fr": "Cygne tuberculé",
+   "why_fr": "Bec orange avec caroncule noire, vol beaucoup plus bruyant aux ailes. Presque silencieux contrairement aux cris bruyants du Cygne chanteur."
+  }
+ ],
+ "rarity_note": "Très rare en France. Hivernant régulier mais peu abondant (max_score 0.056), sauf lors de vagues hivernales exceptionnelles. Nicheur accidentel depuis 2012 en Dombes.",
+ "fun_facts": [
+  "Oiseau national de la Finlande depuis 1981 et figure sur la pièce de 1 euro finnoise.",
+  "Capable de vol à altitude extrême : en décembre 1967, un groupe migrant de l'Islande vers l'Irlande a été détecté à 8200 mètres d'altitude, utilisant le jet-stream pour réduire son temps de trajet à 7 heures.",
+  "Couples durables : les deux partenaires construisent ensemble le nid et se restent fidèles plusieurs années. L'envol des jeunes intervient 90 à 105 jours après l'éclosion."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Cygne_chanteur",
+  "https://en.wikipedia.org/wiki/Whooper_swan"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

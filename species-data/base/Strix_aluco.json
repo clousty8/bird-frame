@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Strix aluco",
+ "common_name_fr": "Chouette hulotte",
+ "birdnet_label": "Strix aluco_Chouette hulotte",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Strigiformes",
+  "family": "Strigidae",
+  "family_common": "Owls",
+  "genus": "Strix",
+  "species": "Strix aluco"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Chouette hulotte",
+   "url": "https://fr.wikipedia.org/wiki/Chouette_hulotte",
+   "description": "espèce d'oiseaux strigiformes de la famille des Strigidae",
+   "extract": "La Chouette hulotte ou Chat-huant, est une espèce d'oiseaux de la famille des Strigidae. Ce rapace nocturne est très répandu en Eurasie, notamment en Europe.",
+   "fulltext_chars": 22789
+  },
+  "en": {
+   "title": "Tawny owl",
+   "url": "https://en.wikipedia.org/wiki/Tawny_owl",
+   "description": "Stocky medium-sized owl species",
+   "extract": "The tawny owl, also called the brown owl, is a stocky, medium-sized owl in the family Strigidae. It is commonly found in woodlands across Europe, as well as western Siberia, and has seven recognized subspecies. The tawny owl's underparts are pale with dark streaks, whilst its upper body may be either brown or grey. The tawny owl typically makes its nest in a tree hole where it can protect its eggs and young against potential predators. It is non-migratory and highly territorial: as a result, when young birds grow up and leave the parental nest, if they cannot find a vacant territory to claim as their own, they will often starve.",
+   "fulltext_chars": 17051
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tawny_wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1128,
+  "height": 1674,
+  "file": "Tawny_wiki.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tawny_wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "K.-M. Hansche",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Tawny_wiki.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1477,
+  "cities": {
+   "Le Mans": 0.109,
+   "Pornic": 0.12,
+   "Rennes": 0.096,
+   "Poitiers": 0.148,
+   "Paris": 0.073,
+   "Lille": 0.044,
+   "Strasbourg": 0.047,
+   "Lyon": 0.097,
+   "Grenoble": 0.08,
+   "Marseille": 0.061,
+   "Toulouse": 0.065,
+   "Bordeaux": 0.128,
+   "Brest": 0.07,
+   "Ajaccio": 0.111,
+   "Clermont-Ferrand": 0.115,
+   "Chamonix": 0.071,
+   "Perpignan": 0.045,
+   "Nancy": 0.051
+  },
+  "monthly_scores": [
+   0.1293,
+   0.1345,
+   0.1477,
+   0.0908,
+   0.0731,
+   0.0928,
+   0.1093,
+   0.0959,
+   0.0796,
+   0.1127,
+   0.1287,
+   0.1298
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:02Z"
+}

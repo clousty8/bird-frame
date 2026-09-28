@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Dendrocopos major",
+ "summary_fr": "Le Pic épeiche est le plus commun et le plus répandu des pics d'Europe, familier des forêts françaises comme des grands jardins arborés. De taille moyenne, il se distingue par un plumage contrasté noir et blanc et une tache rouge vif sous la queue, complétée d'une nuque écarlate chez le mâle. Espèce diurne, il grimpe le long des troncs grâce à des rectrices rigides et des pattes zygodactyles, cherchant larves xylophages, fourmis et araignées qu'il extrait avec une langue visqueuse capable de sortir 40 mm au-delà du bec. En hiver, il complète son régime de graines de conifères, de noisettes et de glands, qu'il coince dans des « forges », fourches de branches ou fissures d'écorce, pour les décortiquer sans effort. Son tambourinage, jusqu'à 16 coups de bec par seconde, sert à défendre un territoire d'environ 5 hectares et s'entend jusqu'à 800 mètres alentour. Sédentaire dans l'ensemble, il peut errer loin de son nid quand les cônes viennent à manquer. Il niche dans une cavité creusée dans un tronc et n'hésite pas à agrandir celle d'une mésange pour s'y installer, au détriment de la couvée en place.",
+ "habitat": "Tous types de forêts (feuillus, conifères ou mixtes), parcs, jardins et vergers avec de vieux arbres, du littoral à 2000 m d'altitude.",
+ "diet": "Larves de coléoptères xylophages, fourmis, araignées, insectes ; graines de conifères, noisettes, glands et baies en hiver ; parfois œufs et oisillons d'autres cavicoles.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Toute la France, surtout en plaine ; les populations nordiques privées de cônes peuvent migrer vers le sud.",
+  "niche": "Partout en France, d'avril à juillet, une nichée de 4 à 7 œufs incubés 10 à 16 jours.",
+  "passage": "Mouvements irréguliers liés à la disponibilité des cônes ; les juvéniles peuvent errer jusqu'à 600 km du nid."
+ },
+ "seasonality_fr": "Présent et audible toute l'année. Tambourinage marqué de janvier à juillet, avec un pic d'intensité de mars à mai.",
+ "song_fr": "Cri caractéristique : un « kik » sec et explosif, ou un « krrarraarr » grinçant en cas de dérangement. Tambourinage puissant et rapide (10 à 16 coups par seconde), audible très loin.",
+ "lookalikes": [
+  {
+   "scientific_name": "Dendrocoptes medius",
+   "common_name_fr": "Pic mar",
+   "why_fr": "Tambourinage et cris secs semblables ; oiseau légèrement plus petit, au plastron blanc plus délicat."
+  },
+  {
+   "scientific_name": "Dendrocopos leucotos",
+   "common_name_fr": "Pic à dos blanc",
+   "why_fr": "Tambourinage similaire mais moins puissant ; large tache blanche sur le dos, moins de rouge au ventre."
+  },
+  {
+   "scientific_name": "Picus viridis",
+   "common_name_fr": "Pic vert",
+   "why_fr": "Cri différent (un « rire » caractéristique), mais confusion possible chez les débutants sur les cris sourds."
+  }
+ ],
+ "rarity_note": "Très commun et régulier partout en France ; score BirdNET maximal de 0,75, signe de son ubiquité dans tous les habitats.",
+ "fun_facts": [
+  "Son crâne est renforcé par des os épais et une boîte crânienne large : sans cela, le crâne imploserait sous les 20 G de force à chaque coup de bec.",
+  "Il se fabrique des « forges » en coinçant les fruits durs dans des fourches de branches ou des fissures d'écorce pour les décortiquer sans effort.",
+  "Sa recolonisation naturelle de l'Irlande, avec une première nidification prouvée en 2007, s'est faite depuis la Grande-Bretagne, quatre siècles après son extinction locale."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pic_%C3%A9peiche",
+  "https://en.wikipedia.org/wiki/Great_spotted_woodpecker",
+  "https://www.oiseaux.net/fiches/pic.epeiche.html",
+  "https://www.lpo.fr/nos-dossiers/tout-savoir-sur/tout-savoir-sur-le-pic-epeiche",
+  "https://inpn.mnhn.fr/espece/cd_nom/4314"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

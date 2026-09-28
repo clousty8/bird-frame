@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Corvus frugilegus",
+ "common_name_fr": "Corbeau freux",
+ "birdnet_label": "Corvus frugilegus_Corbeau freux",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Corvidae",
+  "family_common": "Crows, Jays, and Magpies",
+  "genus": "Corvus",
+  "species": "Corvus frugilegus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Corbeau freux",
+   "url": "https://fr.wikipedia.org/wiki/Corbeau_freux",
+   "description": "espèce d'oiseaux",
+   "extract": "Le corbeau freux, parfois simplement appelé « freux », est l’une des quatre espèces européennes du genre Corvus, de la famille des Corvidae. Les corbeaux freux sont des passereaux omnivores qui nichent en colonies.",
+   "fulltext_chars": 22132
+  },
+  "en": {
+   "title": "Rook (bird)",
+   "url": "https://en.wikipedia.org/wiki/Rook_(bird)",
+   "description": "Species of bird in the crow family Corvidae",
+   "extract": "The rook is a member of the family Corvidae in the passerine order of birds. It is found in the Palearctic, its range extending from Scandinavia and western Europe to eastern Siberia. It is a large, gregarious, black-feathered bird, distinguished from similar species by the whitish featherless area on the face. Rooks nest collectively in the tops of tall trees, often close to farms or villages; the groups of nests are known as rookeries.",
+   "fulltext_chars": 15309
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Rook-Corvus_frugilegus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3330,
+  "height": 3186,
+  "file": "Rook-Corvus_frugilegus.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Rook-Corvus_frugilegus.jpg/1920px-Rook-Corvus_frugilegus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Rook-Corvus_frugilegus.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.494,
+  "cities": {
+   "Le Mans": 0.218,
+   "Pornic": 0.284,
+   "Rennes": 0.328,
+   "Poitiers": 0.156,
+   "Paris": 0.207,
+   "Lille": 0.289,
+   "Strasbourg": 0.114,
+   "Lyon": 0.086,
+   "Grenoble": 0.06,
+   "Marseille": 0.032,
+   "Toulouse": 0.023,
+   "Bordeaux": 0.062,
+   "Brest": 0.494,
+   "Ajaccio": 0.023,
+   "Clermont-Ferrand": 0.093,
+   "Chamonix": 0.079,
+   "Perpignan": 0.011,
+   "Nancy": 0.133
+  },
+  "monthly_scores": [
+   0.4468,
+   0.4374,
+   0.4553,
+   0.4824,
+   0.4383,
+   0.3983,
+   0.3506,
+   0.2876,
+   0.3752,
+   0.494,
+   0.457,
+   0.4486
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:21Z"
+}

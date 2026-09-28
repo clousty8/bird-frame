@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Acrocephalus palustris",
+ "summary_fr": "La Rousserolle verderolle est un petit passéreau migrateur européen remarquable par ses extraordinaires capacités vocales : chaque mâle incorpore en moyenne 75 imitations d'autres espèces d'oiseaux dans son chant, certaines apprises lors de son hivernage en Afrique du Sud-Est. En France, c'est un nicheur très rare et hautement localisé, présent presque uniquement en Alsace et régions orientales, actif d'avril à août. Il fréquente les formations denses de plantes herbacées hautes des zones humides, particulièrement les massifs d'orties, de salicaire et de jeunes saules au bord de l'eau. Bien que très similaire en apparence à d'autres fauvettes des roseaux, le chant extraordinairement complexe et riche en imitations de la Rousserolle verderolle la distingue nettement de ses congénères. L'espèce se nourrit exclusivement d'insectes qu'elle glane dans la végétation. Elle hiverne dans les formations boisées d'Afrique du Sud-Est.",
+ "habitat": "Marais et zones humides avec formations denses d'herbacées hautes (orties, salicaire, chèvrefeuille des marais), bosquets de jeunes saules et végétation arbustive au bord de l'eau. Très occasionnellement dans les friches urbaines si la végétation dense convient.",
+ "diet": "Insectivore strict, glane de petits insectes dans la végétation, au sol ou en vol; peut aussi prélever occasionnellement des araignées et quelques baies en automne.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "estivant",
+  "hiverne": "Afrique du Sud-Est (Cap, Zambie, Malawi, Mozambique) dans les formations de taillis et bois bien végétalisés à des altitudes jusqu'à 2400 m.",
+  "niche": "Niche en Europe occidentale et centrale, en France surtout dans les régions orientales (Alsace notamment) durant le printemps-été (avril-août) dans les massifs de plantes herbacées denses.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente en France uniquement en période estivale (avril à août). Détectable principalement par le chant du mâle au lever et coucher du soleil, ainsi que sporadiquement toute la journée en période de nidification dans les zones humides appropriées.",
+ "song_fr": "Chant extraordinairement complexe composé de nombreuses imitations de cris d'autres oiseaux (75 espèces en moyenne), entrelaçées dans des phrases fluides et variées; ces imitations incluent des espèces africaines apprises en hivernage. Cris d'alarme plus simples et moins imitative.",
+ "lookalikes": [
+  {
+   "scientific_name": "Acrocephalus scirpaceus",
+   "common_name_fr": "Rousserolle effarvatte",
+   "why_fr": "Très similaire morphologiquement et écologiquement, voix comparable en tessiture mais sans la richesse exceptionnelle des imitations."
+  },
+  {
+   "scientific_name": "Acrocephalus arundinaceus",
+   "common_name_fr": "Rousserolle turdoïde",
+   "why_fr": "Grand Acrocephalus au chant plus fort et grave, peut prêter à confusion avec les jeunes verderolles moins vocalisantes."
+  },
+  {
+   "scientific_name": "Acrocephalus schoenobaenus",
+   "common_name_fr": "Phragmite des joncs",
+   "why_fr": "Fauvette similaire des zones humides, chant moins complexe mais overlappant partiellement avec les imitations simples."
+  }
+ ],
+ "rarity_note": "Nicheur très rare et hautement localisé en France, pratiquement limité à l'Alsace et quelques zones des Vosges; exceptionnellement rare lors des passages migratoires dans le reste du territoire.",
+ "fun_facts": [
+  "Chaque mâle intègre à son chant une moyenne de 75 imitations d'autres espèces d'oiseaux, certaines apprises durant son hivernage en Afrique du Sud-Est, ce qui rend son répertoire véritablement unique.",
+  "C'est l'un des rares passereaux où les deux sexes chantent, bien que le chant de la femelle soit beaucoup moins élaboré et moins imitative que celui du mâle.",
+  "L'apprentissage du répertoire vocal s'effectue uniquement pendant l'été de l'année de naissance et le premier hiver en Afrique; après cela, aucune imitation nouvelle n'est ajoutée."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Rousserolle_verderolle",
+  "https://en.wikipedia.org/wiki/Marsh_warbler"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

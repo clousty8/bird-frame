@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Limosa limosa",
+ "common_name_fr": "Barge à queue noire",
+ "birdnet_label": "Limosa limosa_Barge à queue noire",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Limosa",
+  "species": "Limosa limosa"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Barge à queue noire",
+   "url": "https://fr.wikipedia.org/wiki/Barge_%C3%A0_queue_noire",
+   "description": "espèce d'oiseaux",
+   "extract": "La Barge à queue noire est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae. C'est l'une des deux espèces de barges vivant en France. Comme de nombreux limicoles c'est une espèce à longue durée de vie.",
+   "fulltext_chars": 19805
+  },
+  "en": {
+   "title": "Black-tailed godwit",
+   "url": "https://en.wikipedia.org/wiki/Black-tailed_godwit",
+   "description": "Species of bird",
+   "extract": "The black-tailed godwit is a large, long-legged, long-billed shorebird first described by Carl Linnaeus in 1758. It is a member of the godwit genus, Limosa. There are four subspecies, all with orange head, neck and chest in breeding plumage and dull grey-brown winter coloration, and distinctive black and white wingbar at all times.",
+   "fulltext_chars": 10925
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/40/Black-tailed_Godwit_Uferschnepfe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3080,
+  "height": 3080,
+  "file": "Black-tailed_Godwit_Uferschnepfe.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Black-tailed_Godwit_Uferschnepfe.jpg/1920px-Black-tailed_Godwit_Uferschnepfe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Black-tailed_Godwit_Uferschnepfe.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2479,
+  "cities": {
+   "Le Mans": 0.142,
+   "Pornic": 0.2,
+   "Rennes": 0.197,
+   "Poitiers": 0.116,
+   "Paris": 0.11,
+   "Lille": 0.141,
+   "Strasbourg": 0.031,
+   "Lyon": 0.045,
+   "Grenoble": 0.038,
+   "Marseille": 0.071,
+   "Toulouse": 0.06,
+   "Bordeaux": 0.108,
+   "Brest": 0.248,
+   "Ajaccio": 0.195,
+   "Clermont-Ferrand": 0.06,
+   "Chamonix": 0.032,
+   "Perpignan": 0.069,
+   "Nancy": 0.046
+  },
+  "monthly_scores": [
+   0.2358,
+   0.2322,
+   0.2115,
+   0.1868,
+   0.0995,
+   0.0958,
+   0.1335,
+   0.2479,
+   0.2462,
+   0.237,
+   0.2477,
+   0.2379
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:31Z"
+}

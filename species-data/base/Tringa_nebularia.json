@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Tringa nebularia",
+ "common_name_fr": "Chevalier aboyeur",
+ "birdnet_label": "Tringa nebularia_Chevalier aboyeur",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Tringa",
+  "species": "Tringa nebularia"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Chevalier aboyeur",
+   "url": "https://fr.wikipedia.org/wiki/Chevalier_aboyeur",
+   "description": "espèce d'oiseaux charadriiformes de la famille des scolopacidae",
+   "extract": "Le Chevalier aboyeur est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae. C'est un limicole qui niche en Eurasie. Selon la classification de référence du Congrès ornithologique international (version 15.1, 2025), c'est une espèce monotypique.",
+   "fulltext_chars": 6989
+  },
+  "en": {
+   "title": "Common greenshank",
+   "url": "https://en.wikipedia.org/wiki/Common_greenshank",
+   "description": "Species of bird",
+   "extract": "The common greenshank is a wader in the large family Scolopacidae, the typical waders. The genus name Tringa is the Neo-Latin name given to the green sandpiper by Aldrovandus in 1599 based on Ancient Greek trungas, a thrush-sized, white-rumped, tail-bobbing wading bird mentioned by Aristotle. The specific nebularia is from Latin nebula \"mist\". Like the Norwegian Skoddefoll, this refers to the greenshank's damp marshy habitat.",
+   "fulltext_chars": 2919
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Chevalier_aboyeur_Thyna010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3562,
+  "height": 2375,
+  "file": "Chevalier_aboyeur_Thyna010.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chevalier_aboyeur_Thyna010.jpg/1920px-Chevalier_aboyeur_Thyna010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "El Golli Mohamed",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Chevalier_aboyeur_Thyna010.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3271,
+  "cities": {
+   "Le Mans": 0.209,
+   "Pornic": 0.253,
+   "Rennes": 0.269,
+   "Poitiers": 0.173,
+   "Paris": 0.177,
+   "Lille": 0.196,
+   "Strasbourg": 0.115,
+   "Lyon": 0.105,
+   "Grenoble": 0.099,
+   "Marseille": 0.121,
+   "Toulouse": 0.118,
+   "Bordeaux": 0.154,
+   "Brest": 0.327,
+   "Ajaccio": 0.261,
+   "Clermont-Ferrand": 0.114,
+   "Chamonix": 0.096,
+   "Perpignan": 0.12,
+   "Nancy": 0.128
+  },
+  "monthly_scores": [
+   0.2288,
+   0.2231,
+   0.2201,
+   0.1916,
+   0.1034,
+   0.0899,
+   0.1355,
+   0.3096,
+   0.3271,
+   0.2458,
+   0.2305,
+   0.2346
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:36Z"
+}

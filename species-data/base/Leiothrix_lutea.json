@@ -1,0 +1,84 @@
+{
+ "scientific_name": "Leiothrix lutea",
+ "common_name_fr": "Léiothrix jaune",
+ "birdnet_label": "Leiothrix lutea_Léiothrix jaune",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Leiothrichidae",
+  "family_common": "Laughingthrushes and Allies",
+  "genus": "Leiothrix",
+  "species": "Leiothrix lutea"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Léiothrix jaune",
+   "url": "https://fr.wikipedia.org/wiki/L%C3%A9iothrix_jaune",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Léiothrix jaune, plus connu sous le nom erroné de Rossignol du Japon, est une espèce d'oiseaux de la famille des Leiothrichidae d'origine asiatique.",
+   "fulltext_chars": 3213
+  },
+  "en": {
+   "title": "Red-billed leiothrix",
+   "url": "https://en.wikipedia.org/wiki/Red-billed_leiothrix",
+   "description": "Species of bird",
+   "extract": "The red-billed leiothrix is a member of the family Leiothrichidae, native to southern China and the Himalayas. Adults have bright red bills and a yellowish-white ring around their eyes. Their backs are dull olive green, and they have a bright yellow-orange throat with a yellow chin; females are somewhat duller than males, and juveniles have black bills. It has also been introduced in various parts of the world, with small populations of escapees having existed in Japan since the 1980s. It has become a common cagebird and amongst aviculturists it goes by various names, including Pekin robin, Pekin nightingale, Japanese nightingale, and Japanese (hill) robin, these all being misnomers as it is not native to Japan, nor is it a robin or a nightingale.",
+   "fulltext_chars": 6597
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/L%C3%A9iothrix_lutea_Rossignol_Japon3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2688,
+  "height": 1900,
+  "file": "Léiothrix_lutea_Rossignol_Japon3.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/L%C3%A9iothrix_lutea_Rossignol_Japon3.jpg/1920px-L%C3%A9iothrix_lutea_Rossignol_Japon3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Hyppolyte de Saint-Rambert",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:L%C3%A9iothrix_lutea_Rossignol_Japon3.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0545,
+  "cities": {
+   "Le Mans": 0.017,
+   "Pornic": 0.018,
+   "Rennes": 0.013,
+   "Poitiers": 0.03,
+   "Paris": 0.016,
+   "Strasbourg": 0.01,
+   "Lyon": 0.029,
+   "Grenoble": 0.032,
+   "Marseille": 0.026,
+   "Toulouse": 0.018,
+   "Bordeaux": 0.019,
+   "Ajaccio": 0.055,
+   "Clermont-Ferrand": 0.029,
+   "Chamonix": 0.029,
+   "Perpignan": 0.022,
+   "Nancy": 0.011
+  },
+  "monthly_scores": [
+   0.0476,
+   0.0491,
+   0.0545,
+   0.0258,
+   0.0188,
+   0.0248,
+   0.0269,
+   0.0249,
+   0.0206,
+   0.0348,
+   0.0386,
+   0.0434
+  ],
+  "months": [
+   3
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:43Z"
+}

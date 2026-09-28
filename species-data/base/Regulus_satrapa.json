@@ -1,0 +1,68 @@
+{
+ "scientific_name": "Regulus satrapa",
+ "common_name_fr": "Roitelet à couronne dorée",
+ "birdnet_label": "Regulus satrapa_Roitelet à couronne dorée",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Regulidae",
+  "family_common": "Kinglets",
+  "genus": "Regulus",
+  "species": "Regulus satrapa"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Roitelet à couronne dorée",
+   "url": "https://fr.wikipedia.org/wiki/Roitelet_%C3%A0_couronne_dor%C3%A9e",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Roitelet à couronne dorée est une espèce de passereaux appartenant à la famille des Regulidae. Il craint peu la présence humaine.",
+   "fulltext_chars": 5495
+  },
+  "en": {
+   "title": "Golden-crowned kinglet",
+   "url": "https://en.wikipedia.org/wiki/Golden-crowned_kinglet",
+   "description": "Species of bird",
+   "extract": "The golden-crowned kinglet is a very small songbird in the family Regulidae that lives throughout much of North America.",
+   "fulltext_chars": 4588
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/12/Golden-crowned_kinglet_%2801884%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2534,
+  "height": 2591,
+  "file": "Golden-crowned_kinglet_(01884).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Golden-crowned_kinglet_%2801884%29.jpg/1920px-Golden-crowned_kinglet_%2801884%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Rhododendrites",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Golden-crowned_kinglet_(01884).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.015,
+  "cities": {
+   "Pornic": 0.015,
+   "Poitiers": 0.01
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.015,
+   0.0128,
+   0.0109
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:18Z"
+}

@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Acanthis flammea",
+ "common_name_fr": "Sizerin flammé",
+ "birdnet_label": "Acanthis flammea_Sizerin flammé",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Fringillidae",
+  "family_common": "Finches, Euphonias, and Allies",
+  "genus": "Acanthis",
+  "species": "Acanthis flammea"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Sizerin flammé",
+   "url": "https://fr.wikipedia.org/wiki/Sizerin_flamm%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Sizerin flammé ou Sizerin cabaret est une espèce de passereaux appartenant à la famille des Fringillidae. Il est essentiellement granivore et insectivore. Il vit dans la forêt boréale paléarctique et néarctique. Certaines variétés élevées en cage sont considérées comme domestiques en droit français.",
+   "fulltext_chars": 6992
+  },
+  "en": {
+   "title": "Redpoll",
+   "url": "https://en.wikipedia.org/wiki/Redpoll",
+   "description": "Species of bird",
+   "extract": "The redpoll is a species of small passerine bird in the finch family Fringillidae. It is the only species placed in the genus Acanthis. It breeds in the Arctic and north temperate Holarctic tundra and taiga. The redpoll was formerly widely treated as three species: the common or mealy redpoll, the arctic or hoary redpoll, and the lesser redpoll.",
+   "fulltext_chars": 4272
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Acanthis_flammea_UL_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2718,
+  "height": 2718,
+  "file": "Acanthis_flammea_UL_02.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Acanthis_flammea_UL_02.jpg/1920px-Acanthis_flammea_UL_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Cephas",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Acanthis_flammea_UL_02.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0123,
+  "cities": {
+   "Ajaccio": 0.012
+  },
+  "monthly_scores": [
+   0.0102,
+   0.0123,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0102
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:20Z"
+}

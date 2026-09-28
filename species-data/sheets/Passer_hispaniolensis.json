@@ -1,0 +1,39 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Passer hispaniolensis",
+ "summary_fr": "Le Moineau espagnol est une espèce de petit passereau appartenant à la famille des Passeridae, très similaire au Moineau domestique mais bien distinct en plumage nuptial. Les mâles affichent une bavette noire étendue sur la poitrine, des stries de même couleur marquant les flancs, ainsi qu'une calotte marron vif bordée d'étroits sourcils blancs. Originaire de la région méditerranéenne et d'Asie centrale, il s'hybride fréquemment avec le Moineau domestique, ce qui complique considérablement la taxinomie du groupe. L'espèce est fortement grégaire et se reproduit en colonies parfois géantes, nidifiant dans les arbres et buissons des zones agricoles et semi-arides. Son bec est plus massif que celui du Moineau domestique. En France, elle demeure exceptionnelle et strictement localisée aux seules régions méditerranéennes, particulièrement en Provence et Corse.",
+ "habitat": "Zones agricoles, buissons, arbustes et arbres isolés des plaines et vallées. Apprécie le voisinage des zones humides mais reste très localisé près des habitations en France.",
+ "diet": "Graines de céréales et autres graminées ; insectes et feuilles consommés selon la saison. Les jeunes sont nourris essentiellement d'insectes les premiers jours.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En Europe méridionale et en Afrique du Nord selon les populations. Les individus et populations méditerranéens peuvent être partiellement migrateurs.",
+  "niche": "Reproduction en Espagne, Portugal, régions méditerranéennes, Balkans et Turquie ; colonies parfois très importantes avec centaines de milliers de couples.",
+  "passage": "Mouvements migratoires notamment au Moyen-Orient et en Asie centrale ; en France, présence principalement estivale et automnale."
+ },
+ "seasonality_fr": "Présent toute l'année en région méditerranéenne. En France, apparitions sporadiques surtout d'avril à septembre ; observations hivernales rares.",
+ "song_fr": "Vocalises très semblables à celles du Moineau domestique mais plus fortes et aiguës. Cris de présentation au nid : paires de gazouillis stridents distincts. Appels de vol et cris d'alarme similaires aux autres moineaux.",
+ "lookalikes": [
+  {
+   "scientific_name": "Passer domesticus",
+   "common_name_fr": "Moineau domestique",
+   "why_fr": "Espèce très proche, vocalisations similaires mais le Moineau domestique est plus grave. Hybridation fréquente en Méditerranée."
+  },
+  {
+   "scientific_name": "Passer italiae",
+   "common_name_fr": "Moineau cisalpin",
+   "why_fr": "Hybride ou espèce intermédiaire, vocalisations proches, distinguable par les cris plus aigus du Moineau espagnol."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France, limitée à quelques localités méditerranéennes (Provence, Corse). Espèce à considérer comme accidentelle en dehors de la Méditerranée.",
+ "fun_facts": [
+  "Les mâles consacrent plus de temps à la construction du nid que les femelles, et construisent parfois des nids partagés.",
+  "L'espèce s'hybride extensivement avec le Moineau domestique en Méditerranée, créant une zone de confusion taxonomique très complexe."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Moineau_espagnol",
+  "https://en.wikipedia.org/wiki/Spanish_sparrow"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

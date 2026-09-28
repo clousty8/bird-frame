@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Hippolais polyglotta",
+ "common_name_fr": "Hypolaïs polyglotte",
+ "birdnet_label": "Hippolais polyglotta_Hypolaïs polyglotte",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Acrocephalidae",
+  "family_common": "Reed Warblers and Allies",
+  "genus": "Hippolais",
+  "species": "Hippolais polyglotta"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Hypolaïs polyglotte",
+   "url": "https://fr.wikipedia.org/wiki/Hypola%C3%AFs_polyglotte",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Hypolaïs polyglotte est une espèce d'oiseaux de la famille des Acrocephalidae. C'est un visiteur d'été en France.",
+   "fulltext_chars": 4513
+  },
+  "en": {
+   "title": "Melodious warbler",
+   "url": "https://en.wikipedia.org/wiki/Melodious_warbler",
+   "description": "Species of bird",
+   "extract": "The melodious warbler is an Old World warbler in the tree warbler genus Hippolais. It breeds in southwest Europe and northwest Africa. It is migratory, wintering in sub-Saharan Africa. This small passerine bird is a species found in open woodland with bushes. Three to five eggs are laid in a nest in a tree or a bush. This is a common bird in many parts of its wide range and the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\".",
+   "fulltext_chars": 2543
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Melodious_Warbler_2025_05_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 6960,
+  "height": 4640,
+  "file": "Melodious_Warbler_2025_05_23.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Melodious_Warbler_2025_05_23.jpg/1920px-Melodious_Warbler_2025_05_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Alexis Lours",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Melodious_Warbler_2025_05_23.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.426,
+  "cities": {
+   "Le Mans": 0.365,
+   "Pornic": 0.411,
+   "Rennes": 0.335,
+   "Poitiers": 0.387,
+   "Paris": 0.285,
+   "Lille": 0.084,
+   "Strasbourg": 0.134,
+   "Lyon": 0.294,
+   "Grenoble": 0.225,
+   "Marseille": 0.199,
+   "Toulouse": 0.327,
+   "Bordeaux": 0.426,
+   "Brest": 0.139,
+   "Ajaccio": 0.194,
+   "Clermont-Ferrand": 0.337,
+   "Chamonix": 0.188,
+   "Perpignan": 0.235,
+   "Nancy": 0.17
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0162,
+   0.1588,
+   0.426,
+   0.3933,
+   0.2615,
+   0.1044,
+   0.0457,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:26Z"
+}

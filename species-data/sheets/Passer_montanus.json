@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Passer montanus",
+ "summary_fr": "Le Moineau friquet est un petit passereau trapu, au plumage brun discret et au plastron noir caractéristique. Son calotte marron et sa tache noire en virgule sur la joue le distinguent du Moineau domestique. Mâles et femelles sont identiques, cas unique parmi les moineaux paléarctiques. Autrefois commun en France, où il niche en colonies dans les cavités des arbres et des bâtiments, l'espèce a connu un déclin dramatique depuis les années 1990. L'intensification agricole, l'utilisation croissante d'herbicides et la réduction des friches hivernales ont fragmenté ses populations. Cependant, des plans de sauvegarde basés sur la pose de nichoirs et la restauration des couverts agricoles montrent des résultats prometteurs. Le Moineau friquet consomme principalement des graines et des insectes, en particulier des coccinelles. Il demeure grégaire, formant des pré-dortoirs importants en saison hivernale.",
+ "habitat": "Campagnes cultivées avec arbres épars, parcs, bois et lisières, villages. S'installe volontiers dans les cavités des arbres, bâtiments, poteaux téléphoniques. Préfère les milieux proches des zones humides riches en insectes.",
+ "diet": "Essentiellement des graines, insectes et bourgeons. Au printemps-été, consomme beaucoup d'insectes, notamment des coccinelles. Fréquente les mangeoires en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Dans toute la France, où les nicheurs locaux sont rejoints en hiver par des oiseaux migrateurs venus du nord et de l'est de l'Europe.",
+  "niche": "Localement en France d'avril à juillet, souvent deux à quatre nichées par saison. Nicheuse en déclin.",
+  "passage": "Passages marqués en mars puis d'octobre à novembre pour les populations migratrices du nord."
+ },
+ "seasonality_fr": "Visible toute l'année en France mais devenu rare depuis les années 1990. Passages migratoires marqués en automne et printemps pour les oiseaux du nord.",
+ "song_fr": "Voix plus mélodieuse et tonalité plus aiguë que le Moineau domestique. Cris « tett tett » et en vol « teck teck ». Chant rudimentaire surtout en avril, avec phrases répétées et notes claires.",
+ "lookalikes": [
+  {
+   "scientific_name": "Passer domesticus",
+   "common_name_fr": "Moineau domestique",
+   "why_fr": "Cris très similaires, mais plus rauques chez le domestique. Confusion possible à l'écoute, distinguer à la vue par la tache en virgule et la calotte marron."
+  },
+  {
+   "scientific_name": "Passer hispaniolensis",
+   "common_name_fr": "Moineau espagnol",
+   "why_fr": "Vocalises comparables, tonalité légèrement plus grave. Ressemblance acoustique très proche du friquet."
+  },
+  {
+   "scientific_name": "Passer italiae",
+   "common_name_fr": "Moineau cisalpin",
+   "why_fr": "Espèce très proche, vocalises quasiment indistinguibles. Confusion acoustique possible en chevauchement géographique."
+  }
+ ],
+ "rarity_note": "Autrefois commun en France, le Moineau friquet a connu un déclin spectaculaire depuis les années 1990, perdant 60 % de ses effectifs en une décennie. Inscrit à la liste Rouge UICN (EN) en France.",
+ "fun_facts": [
+  "Mâles et femelles ont un plumage identique, ce qui le rend unique parmi tous les moineaux du Paléarctique.",
+  "Il niche en colonies parfois importantes et accepte volontiers les nichoirs en bois ou en béton.",
+  "Son déclin en France est lié à l'agriculture intensive, mais des plans de sauvegarde locaux parviennent à restaurer les populations."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Moineau_friquet",
+  "https://en.wikipedia.org/wiki/Eurasian_tree_sparrow",
+  "https://www.oiseaux.net/oiseaux/moineau.friquet.html",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

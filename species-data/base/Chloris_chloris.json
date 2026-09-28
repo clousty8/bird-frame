@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Chloris chloris",
+ "common_name_fr": "Verdier d'Europe",
+ "birdnet_label": "Chloris chloris_Verdier d'Europe",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Fringillidae",
+  "family_common": "Finches, Euphonias, and Allies",
+  "genus": "Chloris",
+  "species": "Chloris chloris"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Verdier d'Europe",
+   "url": "https://fr.wikipedia.org/wiki/Verdier_d'Europe",
+   "description": "espèce d'oiseaux passériformes de la famille des Fringillidae",
+   "extract": "Le Verdier d'Europe est une petite espèce de passereaux partiellement migrateur, très répandu, de la famille des fringillidés.",
+   "fulltext_chars": 13040
+  },
+  "en": {
+   "title": "European greenfinch",
+   "url": "https://en.wikipedia.org/wiki/European_greenfinch",
+   "description": "Species of bird",
+   "extract": "The European greenfinch or simply the greenfinch is a small passerine bird in the finch family Fringillidae.",
+   "fulltext_chars": 5749
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/83/Gr%C3%BCnfink_%28Chloris_chloris%29_Sonnenblume-20250928-RM-104703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3682,
+  "height": 2761,
+  "file": "Grünfink_(Chloris_chloris)_Sonnenblume-20250928-RM-104703.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Gr%C3%BCnfink_%28Chloris_chloris%29_Sonnenblume-20250928-RM-104703.jpg/1920px-Gr%C3%BCnfink_%28Chloris_chloris%29_Sonnenblume-20250928-RM-104703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Reinhold Möller Ermell",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Gr%C3%BCnfink_(Chloris_chloris)_Sonnenblume-20250928-RM-104703.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.713,
+  "cities": {
+   "Le Mans": 0.55,
+   "Pornic": 0.481,
+   "Rennes": 0.508,
+   "Poitiers": 0.516,
+   "Paris": 0.588,
+   "Lille": 0.613,
+   "Strasbourg": 0.605,
+   "Lyon": 0.486,
+   "Grenoble": 0.45,
+   "Marseille": 0.479,
+   "Toulouse": 0.512,
+   "Bordeaux": 0.517,
+   "Brest": 0.448,
+   "Ajaccio": 0.713,
+   "Clermont-Ferrand": 0.506,
+   "Chamonix": 0.475,
+   "Perpignan": 0.493,
+   "Nancy": 0.608
+  },
+  "monthly_scores": [
+   0.4855,
+   0.5626,
+   0.7042,
+   0.713,
+   0.6729,
+   0.6402,
+   0.6134,
+   0.3775,
+   0.3092,
+   0.4653,
+   0.4839,
+   0.4756
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:43Z"
+}

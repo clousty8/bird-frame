@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Pluvialis squatarola",
+ "summary_fr": "Le Pluvier argenté est un grand limicole des zones côtières, reconnaissable à son plumage contrasté noir et blanc en période nuptiale. Migrateur de longue distance, il parcourt plus de 12 000 km entre ses aires de reproduction arctiques et ses zones d'hivernage réparties sur tous les continents. En France, il est un visiteur régulier des littoraux et des estuaires, particulièrement en Bretagne et Normandie. Malgré une population mondiale estimée à plus d'un million d'individus, il connaît un déclin important depuis deux décennies, classé vulnérable par l'UICN. Son comportement peu grégaire le distingue des autres pluviers : il se nourrit en groupes dispersés au rythme des marées, cherchant vers, mollusques et crustacés, avant de former de denses dortoirs à marée haute.",
+ "habitat": "Côtes marines, estuaires, plages et vasières. Aussi lacs et grands plans d'eau lors des haltes migratoires.",
+ "diet": "Vers polychètes, mollusques, crustacés, insectes et larves ; graines et végétaux à l'occasion.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Côtes françaises régulièrement, environ 17 % des migrateurs est-atlantiques, notamment en Bretagne et baie des Veys (Normandie).",
+  "niche": "Ne niche pas en France ; reproduction en zones arctiques d'Eurasie et d'Amérique du Nord.",
+  "passage": "Passages en mars (printemps) et d'octobre à novembre (automne)."
+ },
+ "seasonality_fr": "Présent surtout d'août à avril selon les années, avec un pic en automne et en hiver. Plus rare en mai-juillet.",
+ "song_fr": "Cri d'appel caractéristique en trois syllabes, la deuxième plus basse, plus long et aigu que le Pluvier doré. Chant territorial sur les aires arctiques rappelant le Courlis cendrés.",
+ "lookalikes": [
+  {
+   "scientific_name": "Pluvialis apricaria",
+   "common_name_fr": "Pluvier doré",
+   "why_fr": "Cri d'appel très proche, plumage hivernal gris similaire ; distinguer par le cri plus aigu et plus long du Pluvier argenté."
+  },
+  {
+   "scientific_name": "Numenius arquata",
+   "common_name_fr": "Courlis cendrés",
+   "why_fr": "Cri territorial du Pluvier argenté rappelle celui du Courlis ; habitats côtiers et estuariens partagés."
+  }
+ ],
+ "rarity_note": "Migrateur régulier en France, surtout côtier. Score maximal de 0,21 en France (zones côtières) ; rarement vu à l'intérieur des terres.",
+ "fun_facts": [
+  "Ses migrations transcontinentales sans escale le font voyager au-dessus d'océans entiers, notamment l'Asie et l'Atlantique.",
+  "Contrairement à la plupart des pluviers, il forme des couples durables et les deux parents participent activement à l'élevage des jeunes.",
+  "En hiver, il retourne souvent aux mêmes zones de nourrissage d'année en année, montrant une grande fidélité aux sites."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pluvier_argent%C3%A9",
+  "https://en.wikipedia.org/wiki/Grey_plover"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

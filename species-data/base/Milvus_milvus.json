@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Milvus milvus",
+ "common_name_fr": "Milan royal",
+ "birdnet_label": "Milvus milvus_Milan royal",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Milvus",
+  "species": "Milvus milvus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Milan royal",
+   "url": "https://fr.wikipedia.org/wiki/Milan_royal",
+   "description": "espèce d'oiseaux accipitriformes de la famille des accipitridae",
+   "extract": "Le Milan royal est une espèce de rapaces de la famille des Accipitridés peuplant l'écozone paléarctique occidentale.",
+   "fulltext_chars": 9470
+  },
+  "en": {
+   "title": "Red kite",
+   "url": "https://en.wikipedia.org/wiki/Red_kite",
+   "description": "Species of bird",
+   "extract": "The red kite is a bird of prey in the family Accipitridae, which also includes many other diurnal raptors such as eagles, buzzards, and harriers. The species currently breeds only in Europe, though it formerly also bred in West Asia and Northwest Africa. Historically, it was only resident in the milder parts of its range in Western Europe and Northwestern Africa, whereas all or most red kites in Northern mainland Europe wintered to the south and west, some also reaching western Asia, but an increasing number of northern birds now remain in that region year-round. Vagrants have reached north to Finland and south to Israel, Libya and the Gambia.",
+   "fulltext_chars": 22600
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Milvus_milvus_Jura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3634,
+  "height": 2596,
+  "file": "Milvus_milvus_Jura.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Milvus_milvus_Jura.jpg/1920px-Milvus_milvus_Jura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Noel Reynolds",
+  "credit": "Red Kite (Milvus milvus)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Milvus_milvus_Jura.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3862,
+  "cities": {
+   "Le Mans": 0.091,
+   "Pornic": 0.071,
+   "Rennes": 0.072,
+   "Poitiers": 0.14,
+   "Paris": 0.111,
+   "Lille": 0.11,
+   "Strasbourg": 0.372,
+   "Lyon": 0.271,
+   "Grenoble": 0.203,
+   "Marseille": 0.216,
+   "Toulouse": 0.386,
+   "Bordeaux": 0.297,
+   "Brest": 0.048,
+   "Ajaccio": 0.301,
+   "Clermont-Ferrand": 0.293,
+   "Chamonix": 0.224,
+   "Perpignan": 0.336,
+   "Nancy": 0.268
+  },
+  "monthly_scores": [
+   0.3121,
+   0.3152,
+   0.3862,
+   0.3724,
+   0.3636,
+   0.3328,
+   0.2829,
+   0.2271,
+   0.2678,
+   0.3749,
+   0.3614,
+   0.3304
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:16Z"
+}

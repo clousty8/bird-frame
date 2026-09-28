@@ -1,0 +1,34 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Otus scops",
+ "summary_fr": "Le Petit-duc scops est l'un des plus petits rapaces nocturnes d'Europe, à peine plus gros qu'un merle, et l'unique représentant des petits-ducs en France. Vêtu d'un plumage cryptique gris-brun ou roux-brun selon les individus, il se confond avec l'écorce des arbres où il se love le jour, aigrettes aplaties pour passer inaperçu. Il affectionne les zones ouvertes ou semi-ouvertes parsemées de feuillus, vergers, parcs et jardins arborés, du sud-est de l'Europe jusqu'à l'Asie centrale. En France, il demeure rare et cantonné surtout à la région méditerranéenne, bien qu'il progresse timidement vers le nord, jusque dans la Vienne. La nuit, il chasse à l'affût de petits insectes, criquets, sauterelles ou papillons de nuit, qu'il saisit en vol ou au sol avec ses serres grises. Son chant, un sifflement grave et flûté répété toutes les deux à trois secondes et proche de l'appel du crapaud accoucheur, trahit sa présence sur les sites de reproduction du printemps à l'été. La majorité de la population hiverne en Afrique subsaharienne, mais une minorité reste toute l'année dans le pourtour méditerranéen, ce qui en fait un migrateur partiel plutôt qu'un migrateur strict.",
+ "habitat": "Zones ouvertes et semi-ouvertes avec feuillus épars, parcs, vergers, jardins arborés, en dessous de 1500 m. En France surtout en région méditerranéenne.",
+ "diet": "Surtout insectes : orthoptères (criquets, sauterelles), coléoptères, papillons de nuit, araignées. Occasionnellement vers de terre, petits oiseaux, batraciens et petits mammifères.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Essentiellement en Afrique subsaharienne ; une minorité hiverne dans le pourtour méditerranéen, y compris parfois en France selon les années.",
+  "niche": "Europe du sud-est jusqu'à l'Asie centrale ; en France surtout en région méditerranéenne, jusque dans la Vienne. Reproduction d'avril à juillet.",
+  "passage": "Passages marqués en mars-avril puis en septembre-octobre."
+ },
+ "seasonality_fr": "Surtout présent d'avril à septembre en France, période de reproduction ; quelques oiseaux peuvent hiverner en région méditerranéenne le reste de l'année.",
+ "song_fr": "Sifflement grave et flûté, répété toutes les 2 à 3 secondes, proche de l'appel du crapaud accoucheur. Chant de la femelle semblable mais plus aigu, se modifiant après la formation du couple.",
+ "lookalikes": [
+  {"scientific_name": "Athene noctua", "common_name_fr": "Chevêche d'Athéna", "why_fr": "Cri monotone et répétitif pouvant être confondu de loin avec le sifflement rythmé du Petit-duc, surtout la nuit."},
+  {"scientific_name": "Glaucidium passerinum", "common_name_fr": "Chevêchette d'Europe", "why_fr": "Chant également composé de notes sifflées régulières et espacées, de rythme proche à l'oreille automatisée."}
+ ],
+ "rarity_note": "Rare et localisé en France, essentiellement en région méditerranéenne, avec une légère expansion vers le nord (Vienne).",
+ "fun_facts": [
+  "Son plumage cryptique gris ou roux-brun le rend quasi invisible perché sur une branche, où il se confond avec l'écorce.",
+  "Ses aigrettes, souvent prises pour des oreilles, sont des touffes de plumes qu'il peut aplatir pour mieux se camoufler.",
+  "Il peut se reproduire dès l'âge de dix mois, une maturité précoce pour un rapace nocturne."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Petit-duc_scops",
+  "https://en.wikipedia.org/wiki/Eurasian_scops_owl",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

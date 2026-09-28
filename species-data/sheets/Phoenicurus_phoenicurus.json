@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Phoenicurus phoenicurus",
+ "summary_fr": "Le Rougequeue à front blanc, surnommé Rossignol de muraille pour son chant mélancolique, est un petit passereau migrateur au plumage vif : le mâle arbore un front blanc net, une gorge et un masque noirs, une poitrine orangée et une queue rousse sans cesse frémissante ; la femelle, plus discrète et brun-gris, garde cette même queue rousse caractéristique. Chasseur à l'affût, il guette depuis un perchoir découvert avant de fondre sur ses proies en vol, un peu à la manière d'un gobemouche. Il arrive en France début avril, occupe les cavités des vieux arbres, des murs ou des nichoirs pour élever une ou deux couvées, puis disparaît dès la fin de l'été : toute la population rejoint l'Afrique subsaharienne pour l'hiver, franchissant le Sahara de nuit lors d'une migration exigeante. Son chant bref, composé de quelques notes claires suivies d'un bredouillis confus, se fait entendre au printemps dans les boisements clairs, les vergers et les parcs pourvus de vieux arbres. Espèce commune mais sensible à la disparition des cavités naturelles, elle reste un marqueur bienvenu de la belle saison plutôt qu'un habitué de l'hiver français.",
+ "habitat": "Forêts claires et bois de feuillus avec vieux arbres à cavités, vergers, parcs et grands jardins arborés ; présent des plaines jusqu'en moyenne montagne, pourvu que perchoirs dégagés et trous de nidification soient disponibles.",
+ "diet": "Insectivore : papillons, mouches, coléoptères et autres insectes volants capturés en vol ou glanés au sol depuis un perchoir d'affût ; complète son régime avec quelques baies en fin d'été avant la migration.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "N'hiverne pas en France ; gagne l'Afrique subsaharienne, de la zone sahélienne à l'Afrique de l'Est, où quelques individus égarés sont exceptionnellement signalés en hiver, surtout dans le sud du pays.",
+  "niche": "Reproducteur répandu en France, surtout au nord et à l'est, d'avril à août ; plus localisé et clairsemé sur le littoral breton et en basse Méditerranée.",
+  "passage": "Passages marqués : arrivée fin mars à mi-avril, retour vers l'Afrique de mi-août à début octobre, avec un pic en septembre."
+ },
+ "seasonality_fr": "Présent en France de fin mars à début octobre comme nicheur et migrateur ; absent en hiver, contrairement au Rougegorge qui reste toute l'année. Son chant s'entend surtout au printemps et au début de l'été.",
+ "song_fr": "Chant bref (1-2 secondes) : quelques notes claires suivies d'une partie plus embrouillée, comme hésitante. Cri de contact ascendant « huit-huit », voisin de celui du Pouillot fitis mais plus nerveux ; alarme en « tic » sec répété.",
+ "lookalikes": [
+  {
+   "scientific_name": "Phoenicurus ochruros",
+   "common_name_fr": "Rougequeue noir",
+   "why_fr": "Cris « tic » et silhouette très proches, queue rousse identique. Se distingue par le front noir (pas blanc) et une présence plus urbaine, souvent sédentaire."
+  },
+  {
+   "scientific_name": "Muscicapa striata",
+   "common_name_fr": "Gobemouche gris",
+   "why_fr": "Même technique de chasse au perchoir et gobements en vol, source de confusion sur enregistrements bruités ; chant et morphologie pourtant bien différents."
+  },
+  {
+   "scientific_name": "Ficedula albicollis",
+   "common_name_fr": "Gobemouche à collier",
+   "why_fr": "Cri de contact parfois proche de celui du Rougequeue. Présent surtout en Europe centrale, plus localisé en France ; chant et plumage distincts."
+  }
+ ],
+ "rarity_note": "Reproducteur régulier mais inégalement réparti en France : plus fréquent dans l'est, le centre et le sud que sur le littoral breton, où les vieux arbres à cavités se raréfient.",
+ "fun_facts": [
+  "Contrairement au Rougegorge, il déserte entièrement la France en hiver pour rejoindre l'Afrique subsaharienne, traversant le Sahara de nuit.",
+  "Le mâle peut se battre âprement pour une cavité de nidification convoitée, parfois jusqu'à blesser son rival.",
+  "Comme certains gobemouches, il est capable d'un bref vol stationnaire pour inspecter un poste de chasse avant de s'y percher."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Rougequeue_%C3%A0_front_blanc",
+  "https://en.wikipedia.org/wiki/Common_redstart",
+  "https://www.oiseaux.net/fiche.html?id=272",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/3936",
+  "https://www.lpo.fr/decouvrir-la-nature/fiches-especes/fiches-especes/oiseaux/rougequeue-a-front-blanc"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

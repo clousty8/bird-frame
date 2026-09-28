@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Recurvirostra avosetta",
+ "summary_fr": "L'Avocette élégante est un limicole caractéristique des lagunes et marais côtiers, reconnaissable à son long bec recourbé vers le haut, ses grandes pattes et son plumage bicolore noir et blanc. Mesurant environ 43 centimètres, elle se nourrit de petits invertébrés benthiques en fouillant la vase avec son bec distinctif. Elle niche en colonies semi-coloniales, pondant quatre œufs au sol dans une simple coupelle. L'espèce est très territoriale lors de l'élevage des poussins. Bien que largement distribuée en Europe, elle ne colonise la France que depuis le début du XXe siècle, progressant depuis la Méditerranée vers la côte atlantique. En France, elle reçoit le renfort de populations nordiques en hiver, tandis que certains individus hivernent en Afrique.",
+ "habitat": "Lagunes et marais côtiers saumâtres ou salés, estuaires, vasières intertidales, lacs peu profonds et marais salants. Préfère les zones avec des îlots de sable ou de boue et végétation clairsemée.",
+ "diet": "Petits invertébrés benthiques : annélides, crustacés (Corophium), vers, mollusques. Larves de chironomes, petits insectes de 4 à 15 mm. Occasionnellement petits poissons et graines. Besoins de 150 g par jour.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France dans le littoral de la Manche, côte atlantique et Méditerranée, renforcée par les populations nordiques. Certains individus hivernent en Afrique du Nord ou Europe du Sud.",
+  "niche": "En France du littoral de la Manche à la Méditerranée, principalement avril à juillet. Colonies importantes en Vendée (1300 paires), Normandie et Languedoc.",
+  "passage": "Passages marqués en mars et octobre-novembre lors des mouvements migratoires."
+ },
+ "seasonality_fr": "Présente toute l'année en France, avec un effectif accru en hiver. Hivernage régulier depuis la première moitié du XXe siècle ; niches surtout d'avril à juillet.",
+ "song_fr": "Sifflements flûtés distinctifs : plut-plut-plutt ou klup-klup-klup, souvent plaintifs. Cris d'alarme kvit-kvit-kvit en cas d'agitation, kriyu lors de passage de prédateurs près des poussins.",
+ "lookalikes": [
+  {
+   "scientific_name": "Haematopus ostralegus",
+   "common_name_fr": "Huîtrier pie",
+   "why_fr": "Limicole similaire partageant le même habitat ; cris aigus et perçants pouvant être confondus à distance."
+  },
+  {
+   "scientific_name": "Larus melanocephalus",
+   "common_name_fr": "Mouette mélanocéphale",
+   "why_fr": "Souvent niche en colonies mixtes avec l'avocette ; vocalises graves et cris ressemblants."
+  },
+  {
+   "scientific_name": "Gelochelidon nilotica",
+   "common_name_fr": "Sterne hansel",
+   "why_fr": "Partage les mêmes colonies de reproduction côtières ; appels secs et entrecoupés similaires."
+  }
+ ],
+ "rarity_note": "Peu commune en France métropolitaine, limitée au littoral. Surtout hivernante régulière et nicheuse localisée sur côtes atlantique, Manche et Méditerranée.",
+ "fun_facts": [
+  "L'avocette était autrefois absente de Grande-Bretagne au XIXe siècle, s'est rétablie spectaculairement depuis 1947 et est devenue le symbole de la Royal Society for the Protection of Birds.",
+  "Mâle et femelle possèdent des iris de couleurs différentes : rouge-brun chez les mâles, brun noisette chez les femelles."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Avocette_%C3%A9l%C3%A9gante",
+  "https://en.wikipedia.org/wiki/Pied_avocet"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

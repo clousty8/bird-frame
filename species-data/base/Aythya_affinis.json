@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Aythya affinis",
+ "common_name_fr": "Petit Fuligule",
+ "birdnet_label": "Aythya affinis_Petit Fuligule",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Aythya",
+  "species": "Aythya affinis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Petit Fuligule",
+   "url": "https://fr.wikipedia.org/wiki/Petit_Fuligule",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Petit fuligule ou Fuligule à tête noire est une espèce de fuligules.",
+   "fulltext_chars": 3104
+  },
+  "en": {
+   "title": "Lesser scaup",
+   "url": "https://en.wikipedia.org/wiki/Lesser_scaup",
+   "description": "Species of bird",
+   "extract": "The lesser scaup is a small North American diving duck that migrates south as far as Central America in winter. It is colloquially known as the little bluebill or broadbill because of its distinctive blue bill. The origin of the name scaup may stem from the bird's preference for feeding on scalp—the Scottish word for clams, oysters, and mussels; however, some credit it to the female's discordant scaup call as the name's source. It is apparently a very close relative of the Holarctic greater scaup or \"bluebill\", with which it forms a superspecies. The scientific name is derived from Ancient Greek and Latin, with aithuia being an Ancient Greek term for an unidentified seabird, used by Hesychius and Aristotle, among other authors, and affinis, Latin for \"related to\", from the lesser scaup's resemblance to the greater scaup.",
+   "fulltext_chars": 15644
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Lesser_Scaup_%28male%29_-_Aythya_affinis%2C_Oakley_Street%2C_Cambridge%2C_Maryland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5184,
+  "height": 3456,
+  "file": "Lesser_Scaup_(male)_-_Aythya_affinis,_Oakley_Street,_Cambridge,_Maryland.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Lesser_Scaup_%28male%29_-_Aythya_affinis%2C_Oakley_Street%2C_Cambridge%2C_Maryland.jpg/1920px-Lesser_Scaup_%28male%29_-_Aythya_affinis%2C_Oakley_Street%2C_Cambridge%2C_Maryland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Judy Gallagher",
+  "credit": "https://www.flickr.com/photos/52450054@N04/8619073616/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Lesser_Scaup_(male)_-_Aythya_affinis,_Oakley_Street,_Cambridge,_Maryland.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0131,
+  "cities": {
+   "Bordeaux": 0.013
+  },
+  "monthly_scores": [
+   0.0131,
+   0.0127,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0111,
+   0.0124
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:21Z"
+}

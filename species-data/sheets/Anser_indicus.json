@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anser indicus",
+ "summary_fr": "L'Oie à tête barrée est une espèce remarquable de l'Asie centrale, nichant sur le plateau tibétain et les lacs de montagne en Mongolie et en Chine jusqu'à 5000 mètres d'altitude. Chaque automne, elle entreprend une migration spectaculaire de plus de 2000 kilomètres, traversant l'Himalaya en seulement huit heures pour passer l'hiver en Inde du Nord. Ses adaptations physiologiques exceptionnelles, notamment une hémoglobine dotée d'une mutation unique et une efficacité respiratoire optimisée en milieu hypoxique, lui permettent de voler à plus de 6400 mètres d'altitude, un exploit égalé par peu d'oiseaux au monde. Elle s'adapte remarquablement au froid de l'altitude grâce à ses capillaires cardiaques densifiés et ses mitochondries musculaires optimisées. Entièrement sédentaire hors de son aire de nidification asiatique, elle demeure extrêmement rare en France, où seuls quelques rares passages hivernaux sporadiques ont été documentés.",
+ "habitat": "Lacs de haute montagne en Asie centrale, jusqu'à 5000 mètres d'altitude ; champs cultivés en hiver en Inde du Nord.",
+ "diet": "Herbes courtes dans les lacs alpins ; orge, riz, blé et autres cultures pendant l'hivernage en Inde.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Nord de l'Inde, de l'Assam au Tamil Nadu, très exceptionnellement en France.",
+  "niche": "Plateau tibétain, lacs d'Asie centrale (Mongolie, Chine), en colonies de milliers d'individus.",
+  "passage": "Migration en novembre-décembre vers l'Inde, retour en avril-mai ; quelques rares individus échappés documentés en France."
+ },
+ "seasonality_fr": "Visible uniquement lors de passages migratoires en novembre et décembre en France, extrêmement sporadiquement. Échappés de captivité observés occasionnellement.",
+ "song_fr": "Cris de bernache typiques ressemblant au honk du Canada, appels graves et mélancoliques émis surtout en vol lors des regroupements de migration.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anser anser",
+   "common_name_fr": "Oie cendrée",
+   "why_fr": "Similaire en taille et couleur globale, mais tête uniformément grise sans les barres blanches caractéristiques."
+  },
+  {
+   "scientific_name": "Anser fabalis",
+   "common_name_fr": "Oie des moissons",
+   "why_fr": "Bec et pattes nuancés d'orange, mais absence du contraste blanc sur la tête de l'Oie à tête barrée."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France, exceptionnellement documentée en passage. Strictement asiatique, ne niche jamais en France.",
+ "fun_facts": [
+  "L'une des plus hautes volatrices du monde, survolant le sommet de l'Everest à plus de 8848 mètres d'altitude.",
+  "Son hémoglobine présente une mutation unique qui augmente l'affinité pour l'oxygène en altitude extrême.",
+  "Elle traverse l'Himalaya sans escale en moins de huit heures, battant ses ailes plus vite qu'aucun autre oiseau en vol de croisière."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Oie_%C3%A0_t%C3%AAte_barr%C3%A9e",
+  "https://en.wikipedia.org/wiki/Bar-headed_goose",
+  "https://www.oiseaux.net/oiseaux/oie.a.tete.barree.html",
+  "https://avibase.bsc-eoc.org/species.jsp?avibaseid=2C2F8D44AE57E9A9"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

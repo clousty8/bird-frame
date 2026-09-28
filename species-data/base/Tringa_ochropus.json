@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Tringa ochropus",
+ "common_name_fr": "Chevalier cul-blanc",
+ "birdnet_label": "Tringa ochropus_Chevalier cul-blanc",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Tringa",
+  "species": "Tringa ochropus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Chevalier cul-blanc",
+   "url": "https://fr.wikipedia.org/wiki/Chevalier_cul-blanc",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Chevalier cul-blanc ou culblanc est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae. C'est un limicole migrateur nichant en Eurasie. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 4712
+  },
+  "en": {
+   "title": "Green sandpiper",
+   "url": "https://en.wikipedia.org/wiki/Green_sandpiper",
+   "description": "Species of bird",
+   "extract": "The green sandpiper is a small wader (shorebird) of the Old World.",
+   "fulltext_chars": 3410
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/da/Green_Sandpiper_%28Tringa_ochropus%29_%2844959964221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5472,
+  "height": 3648,
+  "file": "Green_Sandpiper_(Tringa_ochropus)_(44959964221).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Green_Sandpiper_%28Tringa_ochropus%29_%2844959964221%29.jpg/1920px-Green_Sandpiper_%28Tringa_ochropus%29_%2844959964221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Imran Shah from Islamabad, Pakistan",
+  "credit": "Green Sandpiper (Tringa ochropus)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Green_Sandpiper_(Tringa_ochropus)_(44959964221).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2782,
+  "cities": {
+   "Le Mans": 0.258,
+   "Pornic": 0.23,
+   "Rennes": 0.224,
+   "Poitiers": 0.25,
+   "Paris": 0.278,
+   "Lille": 0.276,
+   "Strasbourg": 0.187,
+   "Lyon": 0.201,
+   "Grenoble": 0.163,
+   "Marseille": 0.162,
+   "Toulouse": 0.176,
+   "Bordeaux": 0.21,
+   "Brest": 0.161,
+   "Ajaccio": 0.238,
+   "Clermont-Ferrand": 0.222,
+   "Chamonix": 0.159,
+   "Perpignan": 0.164,
+   "Nancy": 0.221
+  },
+  "monthly_scores": [
+   0.2138,
+   0.2339,
+   0.2383,
+   0.1038,
+   0.0656,
+   0.0838,
+   0.1598,
+   0.2782,
+   0.1744,
+   0.1227,
+   0.2111,
+   0.2218
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:14Z"
+}

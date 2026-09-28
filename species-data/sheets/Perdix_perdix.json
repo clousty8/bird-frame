@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Perdix perdix",
+ "summary_fr": "La Perdrix grise est un gallinacé robuste aux formes arrondies, nicheur des terres cultivées et des milieux ouverts d'Europe occidentale et d'Asie. Autrefois commune dans les plaines céréalières françaises du nord et du centre, elle a décliné dramatiquement depuis les années 1960, victime de l'intensification agricole et de l'usage massif de pesticides. Oiseau terricole qui vit en petites bandes hors reproduction, elle se nourrit surtout de graines chez l'adulte, tandis que les jeunes se nourrissent d'insectes essentiels à leur croissance. Elle se reconnaît à son plumage gris-roux, sa silhouette trapue et chez le mâle à une tache ventrale couleur rouille ressemblant à un fer à cheval. Sédentaire ou migrateur partiel selon les régions, elle peut effectuer des déplacements locaux l'hiver. Son chant caractéristique « kieerr-ik » s'entend surtout la nuit, tandis que de jour elle émet plutôt « ker-uit » ou « kirric ».",
+ "habitat": "Terres cultivées, notamment champs de céréales et de betteraves ; bocages, landes et pâturages ouverts du littoral à la montagne. Rejette les zones humides et forêts denses.",
+ "diet": "Graines et petits fruits en majorité chez l'adulte (céréales, adventices) ; chez les jeunes, insectes et petits invertébrés essentiels.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Résidente en France sur son aire de répartition, notamment les plaines céréalières du nord et du centre. Certaines populations nordiques hivernent en France, venues d'Europe du Nord et de l'Est.",
+  "niche": "Partout en France où persist son habitat, d'avril à juillet. Nid construit au sol en marge des champs de céréales.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente toute l'année en France dans les zones où elle se maintient, notamment le nord et centre du pays. Ses effectifs fluctuent fortement selon le succès de la reproduction.",
+ "song_fr": "Chant nocturne caractéristique « kieerr-ik » souvent émis la nuit. De jour, motif plutôt « ker-uit » ou « kirric-kirric ». Cri d'alarme « rick rick rick » en vol. Plus loquace en groupe et en vol.",
+ "lookalikes": [
+  {
+   "scientific_name": "Alectoris rufa",
+   "common_name_fr": "Perdrix rouge",
+   "why_fr": "Même habitat de terres ouvertes, cris ressemblants. Confusion possible à l'écoute, surtout en région méditerranéenne."
+  },
+  {
+   "scientific_name": "Coturnix coturnix",
+   "common_name_fr": "Caille des blés",
+   "why_fr": "Même écosystème agricole, cris perçus comme similaires par BirdNET malgré des différences acoustiques marquées."
+  }
+ ],
+ "rarity_note": "Rare à très rare en France actuellement. Espèce en fort déclin depuis les années 1960 ; environ 800 000 couples au printemps 2008, concentrés dans le nord et centre du pays.",
+ "fun_facts": [
+  "Le mâle et la femelle chantent, ce qui est rare chez les passereaux et les gallinacés. Chacun défend son territoire avec sa voix.",
+  "Les poussins peuvent voler après seulement 10-12 jours de vie, et adoptent des vols normaux à 16-20 jours.",
+  "Le déclin de l'espèce est largement attribué à l'exposition chronique aux pesticides durant la période critique de l'élevage des jeunes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Perdrix_grise",
+  "https://en.wikipedia.org/wiki/Grey_partridge",
+  "https://www.oiseaux.net/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

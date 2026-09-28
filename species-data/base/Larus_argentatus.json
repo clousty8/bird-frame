@@ -1,0 +1,92 @@
+{
+ "scientific_name": "Larus argentatus",
+ "common_name_fr": "Goéland argenté",
+ "birdnet_label": "Larus argentatus_Goéland argenté",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Larus",
+  "species": "Larus argentatus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Goéland argenté",
+   "url": "https://fr.wikipedia.org/wiki/Go%C3%A9land_argent%C3%A9",
+   "description": "espèce d'oiseaux charadriiformes de la famille des laridae",
+   "extract": "Le Goéland argenté est une espèce d'oiseaux marins Charadriiformes de la famille des Laridae. C'est un goéland de taille moyenne, blanc à dos gris, il est génétiquement proche des autres goélands à tête blanche du genre Larus. Mâle et femelle sont presque identiques, mais le juvénile possède un plumage très différent et met quatre ans à acquérir son plumage d'adulte.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "European herring gull",
+   "url": "https://en.wikipedia.org/wiki/European_herring_gull",
+   "description": "Species of bird",
+   "extract": "The European herring gull or simply herring gull is a large gull, up to 66 cm (26 in) long. It breeds throughout the northern and western coasts of Europe. Some European herring gulls, especially those resident in colder areas, migrate farther south in winter, but many are permanent residents, such as in Ireland, Britain, Iceland, or on the North Sea shores. They have a varied diet, including fish, crustaceans, as well as some plants, and are also scavengers, consuming carrion and food left by or stolen from humans.",
+   "fulltext_chars": 18986
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Larus_argentatus_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4288,
+  "height": 2848,
+  "file": "Larus_argentatus_1.JPG",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Larus_argentatus_1.JPG/1920px-Larus_argentatus_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Aiwok",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Larus_argentatus_1.JPG"
+ },
+ "france_universe": {
+  "max_score": 0.9233,
+  "cities": {
+   "Le Mans": 0.582,
+   "Pornic": 0.799,
+   "Rennes": 0.824,
+   "Poitiers": 0.339,
+   "Paris": 0.367,
+   "Lille": 0.588,
+   "Strasbourg": 0.013,
+   "Lyon": 0.016,
+   "Toulouse": 0.012,
+   "Bordeaux": 0.183,
+   "Brest": 0.923,
+   "Clermont-Ferrand": 0.048,
+   "Nancy": 0.037
+  },
+  "monthly_scores": [
+   0.9101,
+   0.9042,
+   0.916,
+   0.9233,
+   0.9152,
+   0.9026,
+   0.8983,
+   0.8974,
+   0.8907,
+   0.915,
+   0.9178,
+   0.9147
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:23Z"
+}

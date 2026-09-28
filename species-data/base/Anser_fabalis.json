@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Anser fabalis",
+ "common_name_fr": "Oie des moissons",
+ "birdnet_label": "Anser fabalis_Oie des moissons",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Anser",
+  "species": "Anser fabalis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Oie des moissons",
+   "url": "https://fr.wikipedia.org/wiki/Oie_des_moissons",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Oie des moissons, parfois aussi appelée Oie des moissons de la taïga, est une espèce de palmipèdes appartenant à la famille des Anatidae et à la sous-famille des Anserinae. Elle a récemment été séparée de l'Oie de la toundra précédemment considérée comme une sous-espèce.",
+   "fulltext_chars": 3089
+  },
+  "en": {
+   "title": "Taiga bean goose",
+   "url": "https://en.wikipedia.org/wiki/Taiga_bean_goose",
+   "description": "Species of bird",
+   "extract": "The taiga bean goose is a species of goose that breeds in northern Europe and Asia. It is migratory and winters further south in Europe and Asia. This and the tundra bean goose were recognised as separate species by the International Ornithologists' Union and the American Ornithological Society from 2007, but are still considered a single species by some other authorities, notably BirdLife International and the IUCN. The taiga and tundra bean goose diverged about 2.5 million years ago and established secondary contact c. 60,000 years ago, resulting in extensive gene flow.",
+   "fulltext_chars": 3628
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bean.goose.600pix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 600,
+  "height": 621,
+  "file": "Bean.goose.600pix.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bean.goose.600pix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Adrian Pingstone",
+  "credit": "en.wikipedia",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Bean.goose.600pix.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0354,
+  "cities": {
+   "Ajaccio": 0.035
+  },
+  "monthly_scores": [
+   0.0252,
+   0.0354,
+   0.0138,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.023,
+   0.0241
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:04Z"
+}

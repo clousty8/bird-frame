@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Psittacula krameri",
+ "summary_fr": "Originaire d'Asie et d'Afrique, la Perruche à collier s'est établie en France dans les années 1970-1980, d'abord en Île-de-France via les aéroports, puis s'est progressivement implantée dans les zones urbaines et périurbaines. Ce grand perroquet aux ailes vertes et à la queue bleue séduit par son tempérament social et son aptitude remarquable à parler, mais inquiète aussi par son statut d'espèce envahissante. On la reconnaît au premier coup d'œil chez le mâle à son collier noir et sa tache rouge sur la nuque ; la femelle est plus discrète. Essentiellement frugivore et granivore, elle fréquente les jardins des villes où elle visite régulièrement les mangeoires à oiseaux. Ses colonies dortoirs, spectaculaires par le nombre d'individus rassemblés, illustrent le succès reproducteur de cette espèce adaptable et résiliente, capable de survivre aux hivers du Nord.",
+ "habitat": "Zones urbaines et périurbaines, parcs, jardins et espaces verts des villes. En France, principalement Île-de-France et régions sud, mais présence croissante en métropole.",
+ "diet": "Fruits, graines et bourgeons, particulièrement appréciant les figues, mangues et goyaves ; en Europe, accès régulier aux mangeoires à oiseaux, fruits de jardins, végétation urbaine.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Reste en France toute l'année dans les zones urbaines établies, principalement villes d'Île-de-France, sud de la France et autres métropoles.",
+  "niche": "Se reproduit en France depuis plusieurs décennies, nichage dans les cavités d'arbres, vieux platanes, cavités urbaines ; couples se forment en automne pour reproduction printanière.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente toute l'année dans les zones urbaines établies. En hiver, elle recherche activement nourriture et points chauds en ville. Reproduction surtout mars-avril.",
+ "song_fr": "Cris très forts et distinctifs : aigus, des sifflements aigus kyii, kiiik, kiii-ah ainsi que des jacassements rauques en vol, particulièrement bruyants lors des regroupements. Silhouette vocale très distinctive comparée aux oiseaux indigènes français.",
+ "lookalikes": [
+  {
+   "scientific_name": "Psittacula eupatria",
+   "common_name_fr": "Perruche alexandre",
+   "why_fr": "Plus grande, crête notable, cris similaires mais voix plus grave et profonde. Rare en France."
+  }
+ ],
+ "rarity_note": "Localisée aux zones urbaines de France, populations croissantes mais géographiquement restreintes. Absente des milieux agricoles et naturels. Statut d'espèce exotique envahissante en France.",
+ "fun_facts": [
+  "Les populations françaises actuelles proviendraient d'oiseaux de compagnie échappés ou relâchés intentionnellement, notamment près des aéroports parisiens à partir des années 1970.",
+  "En Belgique, la population estimée à plusieurs milliers d'individus provient d'une quarantaine d'oiseaux échappés du zoo de Bruxelles en 1973-1974."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Perruche_%C3%A0_collier",
+  "https://en.wikipedia.org/wiki/Rose-ringed_parakeet",
+  "https://www.oiseaux.net/species/psittacula-krameri.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

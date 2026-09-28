@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Tetrao urogallus",
+ "summary_fr": "Le Grand Tétras, aussi appelé Grand Coq de bruyère, est le plus imposant des gallinacés d'Europe, les mâles les plus lourds dépassant parfois cinq kilogrammes. Il vit dans les vieilles forêts de conifères assez claires, riches en myrtilliers, des massifs montagneux d'Europe moyenne jusqu'aux taïgas boréales du nord et de Sibérie. Le dimorphisme sexuel y est spectaculaire : le coq, sombre et massif au plastron vert métallique, pèse près du double de la poule, plus discrète avec son plumage roux barré de noir. Chaque printemps, les mâles se rassemblent à l'aube sur des places de chant où ils paradent en lançant une série de « te-lep » qui s'accélère, suivie d'un claquement rappelant un bouchon de champagne puis d'un crissement de scie, devenant alors sourds et aveugles aux dangers alentour. Strictement herbivore, il se nourrit d'aiguilles et de bourgeons de conifères en hiver, puis de myrtilles et de plantes herbacées le reste de l'année. En France, il subsiste surtout dans les Pyrénées, avec de petites populations résiduelles dans le Jura et les Vosges, et a disparu des Alpes. Longtemps chassé malgré son déclin, il bénéficie depuis le 8 septembre 2026 d'une protection intégrale sur tout le territoire.",
+ "habitat": "Vieilles forêts de conifères ou mixtes à sous-bois clairsemé et riche en myrtilliers, en montagne dans les massifs d'Europe moyenne (Pyrénées, Jura, Vosges) ou en plaine dans les taïgas boréales du nord et de Sibérie.",
+ "diet": "Herbivore quasi strict : aiguilles et bourgeons de conifères en hiver, myrtilles, baies et plantes herbacées le reste de l'année ; les jeunes poussins se nourrissent surtout d'insectes durant leurs premières semaines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Dans les mêmes massifs français (Pyrénées, Jura, Vosges), en descendant parfois à plus basse altitude lors des hivers rigoureux et des fortes chutes de neige.",
+  "niche": "Dans les forêts de montagne des Pyrénées, du Jura et des Vosges, d'avril à juillet ; a disparu comme nicheur des Alpes françaises.",
+  "passage": null
+ },
+ "seasonality_fr": "Présent toute l'année dans ses massifs, mais bien moins détectable en été lorsqu'il se tient caché dans le couvert forestier dense ; le chant des mâles culmine d'avril à mai sur les places de parade.",
+ "song_fr": "Chant en trois temps : une série de « te-lep » rapides qui s'accélère sur six à sept secondes, suivie d'un « pokfok » sec comme un bouchon de champagne puis d'un crissement de scie répété plusieurs fois.",
+ "lookalikes": [
+  {
+   "scientific_name": "Lyrurus tetrix",
+   "common_name_fr": "Tétras lyre",
+   "why_fr": "Autre grand tétras de montagne, plus petit, au plumage noir bleuté ; certains sons de parade se chevauchent avec ceux du Grand Tétras."
+  },
+  {
+   "scientific_name": "Tetrastes bonasia",
+   "common_name_fr": "Gélinotte des bois",
+   "why_fr": "Petit tétras forestier au sifflement aigu très différent, mais qui partage le même habitat de conifères en montagne."
+  },
+  {
+   "scientific_name": "Phasianus colchicus",
+   "common_name_fr": "Faisan de Colchide",
+   "why_fr": "Grand gallinacé bruyant à l'envol, mais au cri raclant bien distinct des claquements et crissements du Grand Tétras."
+  }
+ ],
+ "rarity_note": "Espèce rare et très localisée en France, cantonnée aux Pyrénées (environ 6000 individus) et à de petites populations résiduelles du Jura et des Vosges ; protégée intégralement depuis septembre 2026.",
+ "fun_facts": [
+  "Le mâle peut peser jusqu'à quatre fois plus que la femelle, l'un des dimorphismes sexuels les plus marqués chez les oiseaux.",
+  "Pendant sa parade, le coq devient temporairement sourd et aveugle aux prédateurs, tout entier absorbé par son chant.",
+  "Les places de chant sont réutilisées d'année en année, parfois par plusieurs générations de mâles successives."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Grand_T%C3%A9tras",
+  "https://en.wikipedia.org/wiki/Western_capercaillie",
+  "https://www.oiseaux.net/fiches/grand.tetras.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

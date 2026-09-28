@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Charadrius alexandrinus",
+ "summary_fr": "Le Pluvier à collier interrompu est un petit limicole qu'on trouve sur les côtes et les lacs salés de toute la France. Cette espèce affiche un dimorphisme sexuel marqué : les mâles arborent en période nuptiale des marques noires distinctives et une nuque rousse, tandis que les femelles demeurent plus pâles. En France, les populations sont partiellement migratrices, certains oiseaux hivernant en Afrique du Nord tandis que d'autres demeurent toute l'année, surtout en régions méditerranéennes. L'espèce niche d'avril à juin sur les plages et les dunes faiblement végétalisées, en creusant de simples cuvettes tapissées de cailloux et de coquillages. Vulnérable au dérangement humain et à l'urbanisation des zones côtières, elle voit ses effectifs décliner. Malgré sa petite taille et son plumage discret, ce pluvier demeure reconnaissable à ses comportements distinctifs, notamment sa simulation d'aile cassée pour détourner les prédateurs de sa nichée.",
+ "habitat": "Côtes marines, marais salants, lacs alcalins ou salés, dunes côtières et plages à végétation clairsemée.",
+ "diet": "Petits invertébrés : insectes et larves, crustacés, mollusques, vers marins et autres arthropodes, capturés dans les zones humides et sablonneuses.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Les populations migratrices hivernent en Afrique du Nord et de l'Ouest ; quelques oiseaux demeurent en France méditerranéenne.",
+  "niche": "D'avril à juillet sur les côtes et lacs salés du sud et de l'ouest ; très rare ailleurs en France.",
+  "passage": "Passages en mars-avril et août-octobre pour les populations migratrices."
+ },
+ "seasonality_fr": "Davantage observé d'avril à septembre sur les côtes atlantiques et méditerranéennes. Pratiquement absent du centre et du nord en hiver.",
+ "song_fr": "Cri d'alarme caractéristique « kittup » ou « tuit-tuit » entendu en vol et au sol. Cris menaçants aigus et métalliques « dwee-dwee ». Poussins émettant au moins cinq types d'appels distincts.",
+ "lookalikes": [
+  {
+   "scientific_name": "Charadrius dubius",
+   "common_name_fr": "Petit Gravelot",
+   "why_fr": "Taille et silhouette très proches ; cris d'alarme similaires mais plus aigus."
+  },
+  {
+   "scientific_name": "Charadrius hiaticula",
+   "common_name_fr": "Gravelot à collier interrompu",
+   "why_fr": "Morphologie et comportement très similaires ; confusion possible sur les cris."
+  }
+ ],
+ "rarity_note": "Régulièrement présent sur les côtes atlantique et méditerranéenne d'avril à septembre. Rare en migration et pratiquement absent l'hiver.",
+ "fun_facts": [
+  "Le dimorphisme sexuel varie avec la saison et l'humidité : les mâles en zone sèche conservent un plumage moins flamboyant.",
+  "Les parents déplacent stratégiquement leurs poussins vers des zones plus riches en nourriture, améliorant ainsi leur croissance et leur survie.",
+  "L'espèce adapte scrupuleusement la quantité de matériau dans son nid pour équilibrer l'isolation thermique et la protection contre les prédateurs."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pluvier_%C3%A0_collier_interrompu",
+  "https://en.wikipedia.org/wiki/Kentish_plover",
+  "https://www.oiseaux.net/oiseaux/pluvier.a.collier.interrompu.html",
+  "https://www.inpn.mnhn.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

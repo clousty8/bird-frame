@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Podiceps cristatus",
+ "common_name_fr": "Grèbe huppé",
+ "birdnet_label": "Podiceps cristatus_Grèbe huppé",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Podicipediformes",
+  "family": "Podicipedidae",
+  "family_common": "Grebes",
+  "genus": "Podiceps",
+  "species": "Podiceps cristatus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grèbe huppé",
+   "url": "https://fr.wikipedia.org/wiki/Gr%C3%A8be_hupp%C3%A9",
+   "description": "espèces d'oiseaux",
+   "extract": "Le Grèbe huppé est une espèce d'oiseaux de la famille des Podicipedidae. C'est le plus grand des grèbes présents en Europe. Sa parade nuptiale est connue pour sa complexité.",
+   "fulltext_chars": 17457
+  },
+  "en": {
+   "title": "Great crested grebe",
+   "url": "https://en.wikipedia.org/wiki/Great_crested_grebe",
+   "description": "Species of bird",
+   "extract": "The great crested grebe is a member of the grebe family of water birds. The bird is characterised by its distinctive appearance, featuring striking black, orange-brown, and white plumage, and elaborate courtship display that involves synchronised dances and displays.",
+   "fulltext_chars": 4890
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/85/Great_crested_grebe_2025_10_16_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5678,
+  "height": 3785,
+  "file": "Great_crested_grebe_2025_10_16_05.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Great_crested_grebe_2025_10_16_05.jpg/1920px-Great_crested_grebe_2025_10_16_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Alexis Lours",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Great_crested_grebe_2025_10_16_05.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.5028,
+  "cities": {
+   "Le Mans": 0.455,
+   "Pornic": 0.397,
+   "Rennes": 0.399,
+   "Poitiers": 0.448,
+   "Paris": 0.482,
+   "Lille": 0.488,
+   "Strasbourg": 0.494,
+   "Lyon": 0.422,
+   "Grenoble": 0.393,
+   "Marseille": 0.279,
+   "Toulouse": 0.267,
+   "Bordeaux": 0.339,
+   "Brest": 0.325,
+   "Ajaccio": 0.461,
+   "Clermont-Ferrand": 0.429,
+   "Chamonix": 0.418,
+   "Perpignan": 0.234,
+   "Nancy": 0.503
+  },
+  "monthly_scores": [
+   0.4607,
+   0.4607,
+   0.4894,
+   0.5028,
+   0.416,
+   0.383,
+   0.3832,
+   0.4619,
+   0.4631,
+   0.4478,
+   0.4735,
+   0.4629
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:04Z"
+}

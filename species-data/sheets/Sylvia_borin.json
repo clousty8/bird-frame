@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Sylvia borin",
+ "summary_fr": "La Fauvette des jardins est une petite migratrice robuste qui niche dans toute l'Europe tempérée, du littoral montagnard. Son plumage gris-brun uniforme et sans contraste, loin des clichés de l'oiseau coloré, l'a longtemps fait confondre avec ses cousines fauvettes ou avec les hypolaïs. Mais son chant fluide montant et descendant, en strophes musicales de quelques secondes, demeure la meilleure signature acoustique. Ses ailes et queue longues, sa posture robuste et dynamique la distinguent de ses soeurs plus grêles. En France, elle passe l'hiver en Afrique subsaharienne et ne fréquente que les zones arborées, évitant les forêts fermées et les déserts. Elle jongle entre un régime insectivore pendant la reproduction et frugivore lors de ses migrations, se gavant notamment de figues pour préparer le long vol nocturne au-dessus du Sahara.",
+ "habitat": "Sous-bois avec dense sous-étage, haies, forêts caducifoliées et conifères jeunes, jardins et parcs arborés de plaine et montagne.",
+ "diet": "Insectes (pucerons, larves de hyménoptères et lépidoptères) saisis sur les feuilles durant la nidification ; fruits (figues, ronces) lors de la migration et en Afrique.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne, du Sahel jusqu'en Afrique du Sud ; habitats variés mais pas en forêt fermée.",
+  "niche": "Partout en France continentale et Corse, d'avril à septembre ; deux sous-espèces en Europe, s'hybridant en zone de sympatrie.",
+  "passage": "Passages printaniers en mars-avril, automnaux d'août à septembre ; traversée nocturne du Sahara sans halte alimentaire."
+ },
+ "seasonality_fr": "Visible et audible d'avril à septembre en France métropolitaine, pics de passage en mai et août-septembre. Absence totale l'hiver.",
+ "song_fr": "Chant flûté, musical et ondulant, montant et descendant sans ordre défini, en strophes de 3 à 8 secondes ; cri d'alarme tchèc-tchèc-tchèc nasillard et répété.",
+ "lookalikes": [
+  {"scientific_name": "Sylvia atricapilla", "common_name_fr": "Fauvette à tête noire", "why_fr": "Chant très semblable mais la Fauvette à tête noire termine par des sons flûtés clairs, absents chez Sylvia borin."},
+  {"scientific_name": "Acrocephalus palustris", "common_name_fr": "Rousserolle verderolle", "why_fr": "Gazouillis confondable ; la verderolle a un cri plus grinçant et des postures différentes."},
+  {"scientific_name": "Hippolais polyglotta", "common_name_fr": "Hypolaïs polyglotte", "why_fr": "Jeunes confondables ; l'Hypolaïs a un bec plus long et des parties inférieures teintées de jaune."},
+  {"scientific_name": "Sylvia communis", "common_name_fr": "Fauvette grisette", "why_fr": "Cris et subsong proches ; la Grisette a des liserés roux aux rémiges et une gorge plus blanche."}
+ ],
+ "rarity_note": "Régulière et commune en France durant la saison de reproduction, surtout en zones boisées du quart nord et du centre ; moins fréquente en sud-est et Méditerranée.",
+ "fun_facts": [
+  "Elle peut métaboliser jusqu'à 19 % de ses muscles pectoraux et 39 % de son tube digestif lors de la traversée nocturne du Sahara.",
+  "Seul un jeune sur quatre survit sa première année, déterminant majeur de ses effectifs.",
+  "Olivier Messiaen a composé une pièce pour piano dédiée à cette fauvette, inspiré par son chant fluide et mélancolique."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fauvette_des_jardins",
+  "https://en.wikipedia.org/wiki/Garden_warbler",
+  "https://www.oiseaux.net/oiseaux/fauvette.des.jardins.html",
+  "https://www.lpo.fr/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Periparus ater",
+ "common_name_fr": "Mésange noire",
+ "birdnet_label": "Periparus ater_Mésange noire",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Paridae",
+  "family_common": "Tits, Chickadees, and Titmice",
+  "genus": "Periparus",
+  "species": "Periparus ater"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Mésange noire",
+   "url": "https://fr.wikipedia.org/wiki/M%C3%A9sange_noire",
+   "description": "espèce d'oiseaux",
+   "extract": "La mésange noire, anciennement Parus ater, est une espèce de passereaux de la famille des Paridés.",
+   "fulltext_chars": 5481
+  },
+  "en": {
+   "title": "Coal tit",
+   "url": "https://en.wikipedia.org/wiki/Coal_tit",
+   "description": "Species of bird",
+   "extract": "The coal tit is a passerine bird in the tit family, Paridae. It is a widespread and common resident breeder in forests throughout the temperate to subtropical Palearctic, including North Africa. The black-crested tit is now included in this species.",
+   "fulltext_chars": 13728
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Coal_Tit_2026_03_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4892,
+  "height": 3261,
+  "file": "Coal_Tit_2026_03_23.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Coal_Tit_2026_03_23.jpg/1920px-Coal_Tit_2026_03_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Alexis Lours",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Coal_Tit_2026_03_23.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.398,
+  "cities": {
+   "Le Mans": 0.17,
+   "Pornic": 0.16,
+   "Rennes": 0.185,
+   "Poitiers": 0.162,
+   "Paris": 0.192,
+   "Lille": 0.192,
+   "Strasbourg": 0.228,
+   "Lyon": 0.285,
+   "Grenoble": 0.377,
+   "Marseille": 0.367,
+   "Toulouse": 0.356,
+   "Bordeaux": 0.229,
+   "Brest": 0.235,
+   "Ajaccio": 0.385,
+   "Clermont-Ferrand": 0.229,
+   "Chamonix": 0.367,
+   "Perpignan": 0.398,
+   "Nancy": 0.212
+  },
+  "monthly_scores": [
+   0.3778,
+   0.3852,
+   0.398,
+   0.3953,
+   0.3837,
+   0.3904,
+   0.3762,
+   0.3519,
+   0.346,
+   0.3778,
+   0.3722,
+   0.3853
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:14Z"
+}

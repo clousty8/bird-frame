@@ -1,0 +1,36 @@
+# bird-frame — racine du monorepo
+
+# Installation de développement BirdNET-Go (binaire, base vivante, clips, logs, sauvegardes)
+local-test/bin/
+local-test/data/
+local-test/logs/
+local-test/sauvegardes/
+local-test/*.pid
+local-test/config.yaml.bak-*
+local-test/.system_id
+local-test/config.yaml
+local-test/model-catalog.json
+local-test/diagnostics/
+local-test/tools/mic-status
+
+# Fork BirdNET-Go : dépôt git imbriqué, jamais versionné ici
+birdnet-go-ui/
+
+# Données locales du nouveau code
+server/data/
+server/.env
+node/config/*.env
+node/state/
+species-data/cache/
+.dev/
+
+# Outillage
+.venv/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+node_modules/
+web/dist/
+.playwright-mcp/
+.DS_Store

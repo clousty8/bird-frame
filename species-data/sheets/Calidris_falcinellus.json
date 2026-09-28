@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Calidris falcinellus",
+ "summary_fr": "Petit limicole de l'Arctique, le Bécasseau falcinelle est l'un des oiseaux les plus migrateurs au monde, effectuant un périple de plus de quatorze mille kilomètres chaque année. Fondamentalement asiatique, il niche dans les tourbières subarctiques de Fennoscandie et de Sibérie avant de traverser occasionnellement l'Europe de l'Ouest en route vers ses hivernages d'Afrique de l'Est et d'Asie du Sud-Est. Son nom français rappelle sa silhouette trapue et son bec légèrement aplati, caractères rarement évidents sur le terrain. En plumage d'été, il arbore des franges pâles et roussâtres sur les plumes du dos et une tête marquée d'une double barre sourcilière distinctive très caractéristique. Très grégaire, il se mêle volontiers aux petits bécasseaux dans les vasières côtières et les marais salants. Ses vocalisations sèches et criantes le distinguent du Bécasseau variable avec lequel on pourrait le confondre.",
+ "habitat": "Tourbières humides de taïga arctique à la nidification. Vasières côtières, marais salants et littoraux vaseux en migration et hivernage.",
+ "diet": "Invertébrés benthiques aquatiques, insectes, petits crustacés et vers; nourriture détectée à vue en sondant la boue molle.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": null,
+  "passage": "Passage très rare en France, avril à mai puis août à septembre. Reproducteur en Fennoscandie et Sibérie septentrionale."
+ },
+ "seasonality_fr": "Extrêmement rare et localisé en France. Quelques observations lors des passages migratoires (printemps tardif et fin d'été). Préférence pour les côtes atlantiques et méditerranéennes.",
+ "song_fr": "Cris secs et criards, tchip-tchip ou kik-kik très distincts des appels du Bécasseau variable. Trilles courtes et crépitantes en période de nidification.",
+ "lookalikes": [
+  {
+   "scientific_name": "Calidris minuta",
+   "common_name_fr": "Bécasseau minute",
+   "why_fr": "Plus petit mais voix similaire; appels secs en tchip rappelant le falcinelle."
+  },
+  {
+   "scientific_name": "Calidris alpina",
+   "common_name_fr": "Bécasseau variable",
+   "why_fr": "Taille comparable, double sourcil moins marqué. Cris plus doux que le falcinelle."
+  },
+  {
+   "scientific_name": "Calidris temminckii",
+   "common_name_fr": "Bécasseau de Temminck",
+   "why_fr": "Silhouette allongée similaire; appels pépiants et crépitants proches du falcinelle."
+  }
+ ],
+ "rarity_note": "Pratiquement accidentel en France, considéré comme un passage migratoire très exceptionnel. Historiquement une ou deux observations par an sur le territoire français.",
+ "fun_facts": [
+  "Le Bécasseau falcinelle effectue l'une des plus longues migrations du monde, parcourant jusqu'à 14 000 km entre ses terres de nidification arctiques et ses quartiers d'hiver australiens.",
+  "Son nom scientifique « falcinellus » signifie « petite faucille » en latin, en référence à la légère courbure de son bec.",
+  "Il niche en colonies lâches dans les tourbières arctiques où le sol reste gelé en profondeur, un habitat d'une extrême rigueur."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/B%C3%A9casseau_falcinelle",
+  "https://en.wikipedia.org/wiki/Broad-billed_sandpiper",
+  "https://www.oiseaux.net/oiseaux/calidris.falcinellus.html",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/4247"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

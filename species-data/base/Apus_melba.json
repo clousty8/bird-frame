@@ -1,0 +1,87 @@
+{
+ "scientific_name": "Apus melba",
+ "common_name_fr": "Martinet à ventre blanc",
+ "birdnet_label": "Apus melba_Martinet à ventre blanc",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Apodiformes",
+  "family": "Apodidae",
+  "family_common": "Swifts",
+  "genus": "Apus",
+  "species": "Apus melba"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Martinet à ventre blanc",
+   "url": "https://fr.wikipedia.org/wiki/Martinet_%C3%A0_ventre_blanc",
+   "description": "espèce d'oiseaux apodiformes de la famille des apodidae",
+   "extract": "Le Martinet à ventre blanc ou Martinet alpin, est une espèce d'oiseaux de la famille des Apodidae. Il peut voler sans s’arrêter pendant six mois.",
+   "fulltext_chars": 5001
+  },
+  "en": {
+   "title": "Alpine swift",
+   "url": "https://en.wikipedia.org/wiki/Alpine_swift",
+   "description": "Species of bird",
+   "extract": "The alpine swift is a species of swift found in Africa, southern Europe, and Asia. They breed in mountains from southern Europe to the Himalayas. Like common swifts, they are migratory; the southern European population winters further south in southern Africa. They have very short legs which are used for clinging to vertical surfaces. Like most swifts, they never settle voluntarily on the ground, spending most of their lives in the air living on the insects they catch in their beaks.",
+   "fulltext_chars": 11276
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/40/Alpine_Swift.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 351,
+  "height": 234,
+  "file": "Alpine_Swift.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/4/40/Alpine_Swift.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Alpine_Swift.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2941,
+  "cities": {
+   "Poitiers": 0.014,
+   "Strasbourg": 0.036,
+   "Lyon": 0.087,
+   "Grenoble": 0.099,
+   "Marseille": 0.171,
+   "Toulouse": 0.114,
+   "Bordeaux": 0.035,
+   "Ajaccio": 0.294,
+   "Clermont-Ferrand": 0.066,
+   "Chamonix": 0.084,
+   "Perpignan": 0.163,
+   "Nancy": 0.021
+  },
+  "monthly_scores": [
+   0.0262,
+   0.0335,
+   0.1331,
+   0.2198,
+   0.2505,
+   0.255,
+   0.2941,
+   0.2712,
+   0.1662,
+   0.0818,
+   0.0312,
+   0.0289
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:11Z"
+}

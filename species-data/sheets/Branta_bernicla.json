@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Branta bernicla",
+ "summary_fr": "Petite oie sombre au plumage gris-brun, la Bernache cravant se reconnaît à sa tête et son cou entièrement noirs, ornés chez l'adulte d'une fine tache blanche de chaque côté formant une sorte de collier discret. Nicheuse exclusive des toundras arctiques de Russie, du Canada et du Groenland, elle ne se reproduit jamais en France : les couples s'y installent en juin, loin au nord, avant que les familles n'entament un long voyage vers le sud dès la fin septembre. Les premières troupes rejoignent alors les littoraux atlantiques français, où elles hivernent jusqu'en mars, fouillant les vasières à marée basse en bandes grégaires et volubiles. Son régime, presque exclusivement herbivore, repose sur les zostères marines et les algues vertes comme la laitue de mer ; une grave épidémie ayant décimé les herbiers dans les années 1930 a bien failli lui être fatale, avant qu'elle n'apprenne à exploiter aussi les prairies et céréales d'hiver. Des individus isolés peuvent occasionnellement être signalés hors de la période hivernale stricte, sans pour autant que l'espèce y séjourne durablement. Intégralement protégée en France depuis 1981, elle demeure un symbole des grands rassemblements hivernaux d'oiseaux d'eau sur le littoral atlantique.",
+ "habitat": "Estuaires côtiers, vasières et zones humides salées en hiver ; toundra arctique en été. Presque exclusivement marine, elle fréquente rarement les eaux douces, et de façon très occasionnelle d'autres milieux hors de la période hivernale.",
+ "diet": "Herbivore quasi strict : zostères marines et naines, algues vertes comme les ulves et la laitue de mer. En hiver, complète son régime avec des graminées, des prés-salés pâturés et, plus rarement, des céréales d'hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Côtes atlantiques françaises, en particulier Charente-Maritime, Vendée, Bassin d'Arcachon, Finistère et Côtes-d'Armor, de fin septembre à mars, avec un maximum de novembre à février.",
+  "niche": "Ne niche pas en France. Reproduction exclusive dans les toundras arctiques de Russie centrale et nord-occidentale, du nord-est du Canada, du Groenland et du Spitzberg selon la sous-espèce.",
+  "passage": "Départs et arrivées marqués fin septembre et en mars-avril ; quelques individus isolés peuvent être observés en dehors de ces périodes, sans présence régulière."
+ },
+ "seasonality_fr": "Présente en nombre de fin septembre à mars sur le littoral atlantique, avec un pic de novembre à février. Des individus isolés sont occasionnellement notés en dehors de cette période, mais l'espèce ne séjourne pas en France au printemps ni en été.",
+ "song_fr": "Cris nasillards et haut perchés, un « krrouk » ou « ronk » répété en vol ou au repos. Les troupes en halte forment un brouhaha sonore et continu, audible de loin sur les vasières.",
+ "lookalikes": [
+  {
+   "scientific_name": "Branta canadensis",
+   "common_name_fr": "Bernache du Canada",
+   "why_fr": "Plus grande, cou plus long, marques blanches plus étendues sur la tête, cris plus profonds et rauques."
+  },
+  {
+   "scientific_name": "Branta leucopsis",
+   "common_name_fr": "Bernache nonnette",
+   "why_fr": "Tête entièrement blanche, cou noir, plus grande taille, présente en hiver mais dans des biotopes différents."
+  },
+  {
+   "scientific_name": "Anser anser",
+   "common_name_fr": "Oie cendrée",
+   "why_fr": "Beaucoup plus grande, plumage gris-brun plus clair, bec plus massif, cris profonds et graves."
+  }
+ ],
+ "rarity_note": "Régulière l'hiver sur les côtes atlantiques, où la Charente-Maritime concentre à elle seule jusqu'à la moitié de la population mondiale de la sous-espèce à ventre sombre ; absente ou occasionnelle ailleurs et hors saison.",
+ "fun_facts": [
+  "La France accueille près de la moitié de la population mondiale de la sous-espèce à ventre sombre, avec jusqu'à 250 000 individus hivernant sur ses côtes.",
+  "Dans les années 1930, une épidémie a détruit les herbiers de zostères dont elle dépendait presque totalement, la poussant au bord de la disparition avant qu'elle n'apprenne à diversifier son alimentation.",
+  "Très vocale, elle doit son nom anglais « brant » au vacarme distinctif que ses troupes produisent en vol et au repos."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bernache_cravant",
+  "https://en.wikipedia.org/wiki/Brant_(goose)",
+  "https://oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

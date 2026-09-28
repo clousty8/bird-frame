@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Netta rufina",
+ "summary_fr": "Élégant canard plongeur, la Nette rousse affiche un mâle spectaculaire : tête ronde roux-orangé éclatant, bec rouge vif et poitrine noire contrastant avec des flancs blanc pur. La femelle, plus discrète, porte un plumage brun terne éclairé par des joues pâles. Originaire des steppes d'Asie centrale et du pourtour de la mer Noire, l'espèce s'est installée en Europe occidentale jusqu'en Espagne, et ne niche en France que dans trois foyers isolés : le Bassin parisien, la Camargue et la Dombes. En dehors de la reproduction, elle fréquente aussi bien les grands plans d'eau végétalisés que les baies littorales, où de petits groupes stationnent toute l'année, renforcés l'hiver par des oiseaux venus du nord et de l'est de l'Europe. Grégaire hors nidification, elle plonge profondément pour arracher les herbiers aquatiques dont elle raffole, complétant son régime d'invertébrés et de petits poissons. Bien que présente en toutes saisons en petits effectifs, elle reste localisée et peu abondante sur le territoire, plus facile à observer en hiver sur les grands lacs et les côtes atlantique et méditerranéenne.",
+ "habitat": "Grands plans d'eau végétalisés, étangs à roselières abondantes ; sur le littoral en hiver, baies et lagunes côtières.",
+ "diet": "Surtout végétation aquatique récoltée en plongée ; complète son régime d'invertébrés et de petits poissons.",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Littoraux atlantique et méditerranéen ainsi que grands lacs intérieurs ; renforcée par des hivernants d'Europe du Nord et de l'Est.",
+  "niche": "Uniquement dans le Bassin parisien, en Camargue et dans la Dombes, de mai à juillet.",
+  "passage": "Passages peu marqués en mars, puis de septembre à octobre."
+ },
+ "seasonality_fr": "Présente toute l'année en petits effectifs, avec un pic d'octobre à avril lié aux hivernants ; plus discrète en été hors des sites de nidification.",
+ "song_fr": "Mâle : sifflement nasal et grinçant « vèèht ». Femelle : série de cris rauques « vrah-vrah-vrah ». Espèce peu vocale comparée aux autres canards.",
+ "lookalikes": [
+  {
+   "scientific_name": "Aythya ferina",
+   "common_name_fr": "Fuligule milouin",
+   "why_fr": "Mâle à tête rousse également, plumage plus sombre ; silhouette et cris de plongeon comparables."
+  },
+  {
+   "scientific_name": "Aythya fuligula",
+   "common_name_fr": "Fuligule morillon",
+   "why_fr": "Autre canard plongeur grégaire aux cris rauques proches en groupe hivernal."
+  }
+ ],
+ "rarity_note": "Espèce peu commune et localisée en France ; plus facile à observer en hiver sur les grands plans d'eau et le littoral, nicheuse confinée à trois régions seulement.",
+ "fun_facts": [
+  "Le mâle parasite parfois les nids du Canard colvert et du Fuligule milouin en y pondant ses propres œufs, une stratégie de reproduction opportuniste.",
+  "En parade nuptiale, le mâle hérisse les plumes de sa tête en une crête flamboyante pour séduire la femelle.",
+  "Contrairement aux canards de surface, elle plonge profondément grâce à des pattes postérieures bien adaptées à la nage subaquatique."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Nette_rousse",
+  "https://en.wikipedia.org/wiki/Red-crested_pochard"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

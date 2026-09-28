@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Carduelis carduelis",
+ "summary_fr": "Le Chardonneret élégant est un petit passereau à la livrée éclatante : face rouge écarlate cerclée de blanc et de noir, dos brun chaud et ailes noires barrées d'une large bande jaune vif du plus bel effet en vol. Exclusivement granivore, il doit son nom à sa prédilection pour les graines de chardons et de bardanes, qu'il extrait habilement grâce à son bec long et effilé sans se piquer aux épines. Répandu dans les vergers, les parcs et les jardins, il gagne à l'automne les terrains en friche et les bords de chemins riches en graines sauvages, où il se rassemble en bandes erratiques pouvant compter plusieurs dizaines d'individus. Son chant, un gazouillis cristallin et ininterrompu mêlant des « sticlitt » et des « didelitt », en a fait depuis des siècles un oiseau de cage très recherché : le braconnage reste aujourd'hui une menace sérieuse, avec un déclin de 40 % des effectifs français entre 2010 et 2020. Symbole de la Passion du Christ dans l'iconographie religieuse depuis le Moyen Âge, il orne d'innombrables tableaux de la Renaissance italienne, dont la célèbre Madone au chardonneret de Raphaël.",
+ "habitat": "Vergers, parcs, jardins et lieux cultivés ; en automne et hiver, terrains en friche, bords de routes et zones à découvert proches des mares et ruisseaux, où abondent les graines sauvages.",
+ "diet": "Exclusivement granivore : graines de chardon, bardane, bouleau et aulne. En hiver, fréquente les mangeoires pour les graines de tournesol et de niger.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France, où les nicheurs sédentaires sont rejoints par des migrateurs du nord et de l'est de l'Europe.",
+  "niche": "Toute la France d'avril à juillet, produisant deux à trois nichées par an.",
+  "passage": "Passages marqués en mars et d'octobre à novembre."
+ },
+ "seasonality_fr": "Visible et audible toute l'année en France. Plus grégaire à l'automne et en hiver, se regroupant en bandes pouvant compter plusieurs dizaines d'individus.",
+ "song_fr": "Chant fluide et mélodieux composé de gazouillis répétés, avec des séquences caractéristiques « sticlitt » et « didelitt ». Cri d'alarme doux « èh-i » et raclements gutturaux en cas d'agressivité.",
+ "lookalikes": [
+  {
+   "scientific_name": "Chloris chloris",
+   "common_name_fr": "Verdier d'Europe",
+   "why_fr": "Cris nasillards et trilles fluides émis en bandes similaires près des mangeoires, souvent confondus par l'IA avec les gazouillis du Chardonneret."
+  },
+  {
+   "scientific_name": "Linaria cannabina",
+   "common_name_fr": "Linotte mélodieuse",
+   "why_fr": "Gazouillis rapide et varié de tonalité proche, notamment les cris de contact en vol groupé, qui peuvent brouiller la reconnaissance automatique."
+  },
+  {
+   "scientific_name": "Serinus serinus",
+   "common_name_fr": "Serin cini",
+   "why_fr": "Chant grinçant et haché émis en petites troupes, avec des trilles aigus qui se superposent parfois à ceux du Chardonneret."
+  }
+ ],
+ "rarity_note": "Commun et régulier partout en France toute l'année, malgré un déclin net des effectifs lié au braconnage et aux changements d'habitat depuis 2010.",
+ "fun_facts": [
+  "Avec son bec long et pointu, le Chardonneret extrait sans se piquer les graines nichées au cœur des capitules épineux de chardon.",
+  "Symbole de la Passion du Christ en art chrétien depuis le XIIIe siècle, il orne notamment la Madone au chardonneret de Raphaël.",
+  "Très prisé comme oiseau de cage pour son chant, il reste aujourd'hui la cible d'un trafic illégal actif en France et au Maghreb."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Chardonneret_%C3%A9l%C3%A9gant",
+  "https://en.wikipedia.org/wiki/European_goldfinch",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

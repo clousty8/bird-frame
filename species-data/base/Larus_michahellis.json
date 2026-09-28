@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Larus michahellis",
+ "common_name_fr": "Goéland leucophée",
+ "birdnet_label": "Larus michahellis_Goéland leucophée",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Larus",
+  "species": "Larus michahellis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Goéland leucophée",
+   "url": "https://fr.wikipedia.org/wiki/Go%C3%A9land_leucoph%C3%A9e",
+   "description": "espèce d'oiseaux charadriiformes de la famille des laridae",
+   "extract": "Le Goéland leucophée est une espèce d'oiseaux Charadriiformes de la famille des Laridae, de taille moyenne, à manteau gris et pattes jaunes. Le Goéland leucophée est le goéland le plus répandu sur les côtes méditerranéennes de France, où il est souvent appelé gabian, de son nom provençal et occitan.",
+   "fulltext_chars": 7954
+  },
+  "en": {
+   "title": "Yellow-legged gull",
+   "url": "https://en.wikipedia.org/wiki/Yellow-legged_gull",
+   "description": "Species of bird",
+   "extract": "The yellow-legged gull or western yellow-legged gull is a large gull found in Europe, the Middle East and North Africa, which has only recently achieved wide recognition as a distinct species. It was formerly treated as a subspecies of either the Caspian gull L. cachinnans, or more broadly as a subspecies of the herring gull L. argentatus.\nThe genus name is from Latin Larus which appears to have referred to a gull or other large seabird, and the species name honours the German zoologist Karl Michahelles.",
+   "fulltext_chars": 6327
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Larus_michahellis_familier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 768,
+  "file": "Larus_michahellis_familier.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Larus_michahellis_familier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Maisrimer",
+  "credit": "myself",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Larus_michahellis_familier.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.942,
+  "cities": {
+   "Le Mans": 0.299,
+   "Pornic": 0.421,
+   "Rennes": 0.336,
+   "Poitiers": 0.4,
+   "Paris": 0.237,
+   "Lille": 0.111,
+   "Strasbourg": 0.234,
+   "Lyon": 0.451,
+   "Grenoble": 0.605,
+   "Marseille": 0.727,
+   "Toulouse": 0.535,
+   "Bordeaux": 0.499,
+   "Brest": 0.287,
+   "Ajaccio": 0.942,
+   "Clermont-Ferrand": 0.391,
+   "Chamonix": 0.525,
+   "Perpignan": 0.641,
+   "Nancy": 0.232
+  },
+  "monthly_scores": [
+   0.8945,
+   0.9082,
+   0.9222,
+   0.9419,
+   0.942,
+   0.9368,
+   0.9367,
+   0.9392,
+   0.9288,
+   0.9269,
+   0.8887,
+   0.8858
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:22Z"
+}

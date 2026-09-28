@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Accipiter nisus",
+ "summary_fr": "Petit rapace forestier aux ailes courtes et arrondies, l'Épervier d'Europe est l'un des oiseaux de proie les plus communs d'Europe malgré un dimorphisme sexuel exceptionnel : la femelle peut être 25 % plus grande que le mâle et peser le double. Gris bleuâtre chez le mâle avec des sous-caudales barrées d'orange, brun plus sombre chez la femelle, il se reconnaît à son vol ondulatoire caractéristique alternant battements rapides et glissés. Spécialiste de la chasse aux petits oiseaux des bois — tits, fringillidés, moineaux pour le mâle, grives et étourneaux pour la femelle — il chasse par attaques surprises à ras des arbres et haies. Autrefois victime des insecticides organochlorés qui effondra ses populations au milieu du XXe siècle, l'espèce a remarquablement récupéré depuis l'interdiction de ces produits chimiques et demeure régulière dans les milieux boisés de France.",
+ "habitat": "Bois de toutes sortes, forêts de conifères ou mixtes, suffisamment denses mais pas trop ; chasse aussi dans les haies, les talus boisés et les jardins des zones urbaines et péri-urbaines.",
+ "diet": "Petits oiseaux : mésanges, fringillidés, moineaux chez le mâle ; grives, étourneaux, voire pigeons et pies chez la femelle, jusqu'à 500 g. Rare : petits mammifères et très exceptionnellement des insectes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Les populations du nord et nord-est de l'Europe migrent vers le sud et le sud-est, certaines jusqu'en Afrique de l'Est équatoriale ou le sous-continent indien ; en France, les nicheurs locaux sont rejoints par des hivernants d'Europe du Nord.",
+  "niche": "Partout en France dans les bois et forêts adapté, d'avril à août ; construction d'un nid neuf chaque année, généralement près du précédent.",
+  "passage": "Mouvements migratoires marqués en mars et d'octobre à novembre ; les jeunes femelles se dispersent plus loin que les jeunes mâles."
+ },
+ "seasonality_fr": "Présent toute l'année en France. Discret et silencieux en hiver, il devient vocal pendant la reproduction (avril-septembre) avec ses cris caractéristiques « kyukyukyu » ou « kikiki ».",
+ "song_fr": "Cri principal pendant la reproduction : caquètement rapide en série de syllabes simples, « kyukyukyukyukyu » ou « kikikikiki », dont le rythme varie selon qu'il signale une parade, une alerte ou un retour au nid ; femelle : plainte « hui-ou » pour quémander la nourriture.",
+ "lookalikes": [
+  {
+   "scientific_name": "Accipiter gentilis",
+   "common_name_fr": "Autour des palombes",
+   "why_fr": "Plus massif avec des ailes plus longues et arrondies, queue arrondie à large base ; pattes plus puissantes à tarses épais."
+  },
+  {
+   "scientific_name": "Falco columbarius",
+   "common_name_fr": "Faucon émerillon",
+   "why_fr": "Taille similaire au mâle mais silhouette plus compacte et vol plus rapide ; pas d'ailes arrondies."
+  },
+  {
+   "scientific_name": "Accipiter badius",
+   "common_name_fr": "Épervier shikra",
+   "why_fr": "Plus petit que l'Épervier d'Europe avec des cris d'appel différents ; en Asie seulement."
+  }
+ ],
+ "rarity_note": "Régulier et relativement commun en France, surtout en zones boisées et périurbaines. Score BirdNET maximal de 0,33 indique une espèce plausible mais moins commune que les passereaux ou rapaces généralistes.",
+ "fun_facts": [
+  "Le dimorphisme sexuel inversé est extrême : la femelle peut chasser des proies 5 fois plus lourdes que celle du mâle, et dure trois jours de plus sans manger.",
+  "Les Éperviers d'Europe étaient autrefois abattus systématiquement pour protéger les pigeons de course, causant des effondrements de populations ; les études montrent qu'ils ne tuent pourtant moins d'1 % des pertes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/%C3%89pervier_d'Europe",
+  "https://en.wikipedia.org/wiki/Eurasian_sparrowhawk"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

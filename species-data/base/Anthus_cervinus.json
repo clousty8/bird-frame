@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Anthus cervinus",
+ "common_name_fr": "Pipit à gorge rousse",
+ "birdnet_label": "Anthus cervinus_Pipit à gorge rousse",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Motacillidae",
+  "family_common": "Wagtails and Pipits",
+  "genus": "Anthus",
+  "species": "Anthus cervinus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pipit à gorge rousse",
+   "url": "https://fr.wikipedia.org/wiki/Pipit_%C3%A0_gorge_rousse",
+   "description": "espèces d'oiseaux",
+   "extract": "Le Pipit à gorge rousse est une espèce de passereaux appartenant à la famille des Motacillidae.",
+   "fulltext_chars": 1825
+  },
+  "en": {
+   "title": "Red-throated pipit",
+   "url": "https://en.wikipedia.org/wiki/Red-throated_pipit",
+   "description": "Species of bird",
+   "extract": "The red-throated pipit is a small passerine bird, which breeds in the far north of Europe and the Palearctic, with a foothold in northern Alaska. It is a long-distance migrant, wintering to Africa and South-East Asia and western Alaska in North America. It is vagrant to Western Europe.",
+   "fulltext_chars": 2076
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/75/Red-throated_Pipit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2163,
+  "height": 2163,
+  "file": "Red-throated_Pipit.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Red-throated_Pipit.jpg/1920px-Red-throated_Pipit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Red-throated_Pipit.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0261,
+  "cities": {
+   "Ajaccio": 0.026
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0243,
+   0.025,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0179,
+   0.0261,
+   0.0121,
+   0.0104
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:07Z"
+}

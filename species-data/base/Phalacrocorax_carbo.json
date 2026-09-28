@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Phalacrocorax carbo",
+ "common_name_fr": "Grand Cormoran",
+ "birdnet_label": "Phalacrocorax carbo_Grand Cormoran",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Suliformes",
+  "family": "Phalacrocoracidae",
+  "family_common": "Cormorants and Shags",
+  "genus": "Phalacrocorax",
+  "species": "Phalacrocorax carbo"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grand Cormoran",
+   "url": "https://fr.wikipedia.org/wiki/Grand_Cormoran",
+   "description": "espèce d'oiseaux suliformes de la famille des phalacrocoracidae",
+   "extract": "Le Grand Cormoran ou Cormoran commun est une espèce d'oiseaux aquatiques piscivores de la famille des Phalacrocoracidés. Son aire de distribution est très vaste. On distingue habituellement cinq à huit sous-espèces.",
+   "fulltext_chars": 21158
+  },
+  "en": {
+   "title": "Great cormorant",
+   "url": "https://en.wikipedia.org/wiki/Great_cormorant",
+   "description": "Species of bird",
+   "extract": "The great cormorant, also known as just cormorant in Britain, as black shag or kawau in New Zealand, formerly also known as the great black cormorant across the Northern Hemisphere, the black cormorant in Australia, and the large cormorant in India, is a widespread member of the cormorant family of seabirds. It breeds in much of the Old World, Australasia, and the Atlantic coast of North America.",
+   "fulltext_chars": 11635
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Phalacrocorax_carbo_Vic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1378,
+  "height": 2067,
+  "file": "Phalacrocorax_carbo_Vic.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/6/68/Phalacrocorax_carbo_Vic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Phalacrocorax_carbo_Vic.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.826,
+  "cities": {
+   "Le Mans": 0.797,
+   "Pornic": 0.826,
+   "Rennes": 0.816,
+   "Poitiers": 0.792,
+   "Paris": 0.783,
+   "Lille": 0.798,
+   "Strasbourg": 0.651,
+   "Lyon": 0.702,
+   "Grenoble": 0.696,
+   "Marseille": 0.748,
+   "Toulouse": 0.744,
+   "Bordeaux": 0.791,
+   "Brest": 0.821,
+   "Ajaccio": 0.796,
+   "Clermont-Ferrand": 0.737,
+   "Chamonix": 0.651,
+   "Perpignan": 0.725,
+   "Nancy": 0.695
+  },
+  "monthly_scores": [
+   0.8189,
+   0.8013,
+   0.7319,
+   0.6701,
+   0.5821,
+   0.5848,
+   0.6474,
+   0.7524,
+   0.7902,
+   0.8111,
+   0.8204,
+   0.826
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:41Z"
+}

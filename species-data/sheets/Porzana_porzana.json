@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Porzana porzana",
+ "summary_fr": "La Marouette ponctuée est un petit oiseau furtif de la famille des Rallidae, à peine plus grand qu'un moineau. Nicheur du centre et nord de l'Eurasie, elle ne traverse la France qu'en passage, au printemps et surtout à l'automne, fréquentant les marais herbeux et les roselières. Colorée d'un dessus brunâtre et d'une poitrine bleu-gris ponctuée de blanc, elle est rarement observée en journée : elle reste cachée dans la végétation dense. On la détecte surtout à l'oreille, grâce à son cri distinctif en coup de fouet sec. Son statut de migrante rare en France en fait une capture mémorable pour les ornithologues, notamment sur les côtes atlantiques. Elle capture au cœur des marais les insectes et petits animaux aquatiques qui constituent son régime alimentaire.",
+ "habitat": "Marais herbeux, roselières denses et zones humides avec végétation aquatique abondante.",
+ "diet": "Insectes aquatiques, larves, petits crustacés et vers ; occasionnellement graines en migration.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Afrique sahélienne et sous-équatoriale, ainsi qu'en Inde et Pakistan.",
+  "niche": "Eurasie centrale et septentrionale, du sud de la Scandinavie aux Balkans et Caucase.",
+  "passage": "Passages migrateurs de mars à avril (printemps) et d'août à octobre (automne), plus abondants en automne."
+ },
+ "seasonality_fr": "Strictement de passage en France, visible quelques semaines au printemps et surtout en automne. Inactive la nuit, en chasse l'aube et le crépuscule.",
+ "song_fr": "Cri distinctif et répétitif en coup de fouet sec « hwuit-hwuit » très reconnaissable, rappelant le claquement d'un fouet ; aussi des cris de contact plus doux.",
+ "lookalikes": [
+  {
+   "scientific_name": "Zapornia parva",
+   "common_name_fr": "Marouette poussin",
+   "why_fr": "Plus petite, cri moins puissant ; risque de confusion acoustique sur enregistrements de mauvaise qualité."
+  },
+  {
+   "scientific_name": "Zapornia pusilla",
+   "common_name_fr": "Marouette de Baillon",
+   "why_fr": "Taille similaire, habitat identique ; cri très différent mais codes de reconnaissance peuvent les rapprocher."
+  },
+  {
+   "scientific_name": "Crex crex",
+   "common_name_fr": "Râle des genêts",
+   "why_fr": "Autre rallidae migrateur ; cri très distinct mais habitat et saison de passage peuvent créer des fausses alertes."
+  }
+ ],
+ "rarity_note": "Rare en France, espèce de passage migrants concentrée sur les zones côtières humides du printemps et surtout de l'automne.",
+ "fun_facts": [
+  "Son cri distinctif en coup de fouet lui vaut le nom de « spotted crake » en anglais ; les Français la désignent par ce même cri reconnaissable.",
+  "Entièrement terrestre et cryptique, elle reste presque invisible en journée, nichant dans une cavité sèche au cœur de la végétation épaisse.",
+  "Elle parcourt des milliers de kilomètres depuis les zones de reproduction eurasienne jusqu'aux hivernages africains, traversant la France rapidement en quelques semaines."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Marouette_ponctu%C3%A9e",
+  "https://en.wikipedia.org/wiki/Spotted_crake",
+  "https://www.oiseaux.net/porzana.porzana.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

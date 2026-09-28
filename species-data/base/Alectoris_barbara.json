@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Alectoris barbara",
+ "common_name_fr": "Perdrix gambra",
+ "birdnet_label": "Alectoris barbara_Perdrix gambra",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Galliformes",
+  "family": "Phasianidae",
+  "family_common": "Pheasants, Grouse, and Allies",
+  "genus": "Alectoris",
+  "species": "Alectoris barbara"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Perdrix gambra",
+   "url": "https://fr.wikipedia.org/wiki/Perdrix_gambra",
+   "description": "espèce d'oiseaux",
+   "extract": "La Perdrix gambra est une espèce d'oiseaux appartenant à la famille des Phasianidae.",
+   "fulltext_chars": 5195
+  },
+  "en": {
+   "title": "Barbary partridge",
+   "url": "https://en.wikipedia.org/wiki/Barbary_partridge",
+   "description": "Species of bird",
+   "extract": "The Barbary partridge is a gamebird in the pheasant family (Phasianidae) of the order Galliformes. It is native to North Africa.",
+   "fulltext_chars": 1634
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Alectoris_barbara_Tenerife.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3648,
+  "height": 2736,
+  "file": "Alectoris_barbara_Tenerife.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Alectoris_barbara_Tenerife.jpg/1920px-Alectoris_barbara_Tenerife.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Frits van der Meer from Utrecht, Nederland",
+  "credit": "barbarijse patrijzen",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Alectoris_barbara_Tenerife.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0456,
+  "cities": {
+   "Ajaccio": 0.046
+  },
+  "monthly_scores": [
+   0.0303,
+   0.0276,
+   0.0394,
+   0.0456,
+   0.0334,
+   0.0293,
+   0.0202,
+   0.0168,
+   0.0128,
+   0.0179,
+   0.0258,
+   0.0301
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:01Z"
+}

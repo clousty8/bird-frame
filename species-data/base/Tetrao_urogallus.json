@@ -1,0 +1,75 @@
+{
+ "scientific_name": "Tetrao urogallus",
+ "common_name_fr": "Grand Tétras",
+ "birdnet_label": "Tetrao urogallus_Grand Tétras",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Galliformes",
+  "family": "Phasianidae",
+  "family_common": "Pheasants, Grouse, and Allies",
+  "genus": "Tetrao",
+  "species": "Tetrao urogallus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grand Tétras",
+   "url": "https://fr.wikipedia.org/wiki/Grand_T%C3%A9tras",
+   "description": "espèce d'oiseaux de montagne",
+   "extract": "Le Grand Tétras, ou Grand Coq de bruyère, est un gros gallinacé vivant dans les forêts de conifères ou mixtes sous climat froid : les forêts boréales et sub-boréales de plaine en Europe du Nord et de l'Est et dans une partie importante de la Sibérie, et les forêts de montagne d'Europe moyenne et méridionale.",
+   "fulltext_chars": 16374
+  },
+  "en": {
+   "title": "Western capercaillie",
+   "url": "https://en.wikipedia.org/wiki/Western_capercaillie",
+   "description": "Species of bird",
+   "extract": "The western capercaillie, also known as the Eurasian capercaillie, wood grouse, heather cock, cock-of-the-woods, or simply capercaillie, is a heavy member of the grouse tribe and the largest of all extant grouse species. Found across Europe and the Palearctic, this primarily-ground-dwelling forest grouse is renowned for its courtship display. The bird shows extreme sexual dimorphism, with males nearly twice the size of females. The global population is listed as \"least concern\" under the IUCN, although the populations of central Europe are declining and fragmented, or possibly extirpated.",
+   "fulltext_chars": 21524
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Capercaillie_%288751340764%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3874,
+  "height": 3365,
+  "file": "Capercaillie_(8751340764).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Capercaillie_%288751340764%29.jpg/1920px-Capercaillie_%288751340764%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "sighmanb",
+  "credit": "Capercaillie",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Capercaillie_(8751340764).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0379,
+  "cities": {
+   "Poitiers": 0.01,
+   "Lyon": 0.016,
+   "Grenoble": 0.019,
+   "Marseille": 0.016,
+   "Toulouse": 0.011,
+   "Bordeaux": 0.012,
+   "Ajaccio": 0.038,
+   "Clermont-Ferrand": 0.014,
+   "Chamonix": 0.016
+  },
+  "monthly_scores": [
+   0.0284,
+   0.0379,
+   0.0146,
+   0.0,
+   0.0,
+   0.0106,
+   0.0,
+   0.0,
+   0.0,
+   0.0152,
+   0.0241,
+   0.0283
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:03Z"
+}

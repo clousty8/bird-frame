@@ -1,0 +1,89 @@
+{
+ "scientific_name": "Alopochen aegyptiaca",
+ "common_name_fr": "Ouette d'Égypte",
+ "birdnet_label": "Alopochen aegyptiaca_Ouette d'Égypte",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Alopochen",
+  "species": "Alopochen aegyptiaca"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Ouette d'Égypte",
+   "url": "https://fr.wikipedia.org/wiki/Ouette_d'%C3%89gypte",
+   "description": "espèce d'oiseaux anseriformes de la famille des anatidae",
+   "extract": "L’Ouette d'Égypte est une espèce d'oiseaux de la famille des anatidés. C'est la seule espèce du genre Alopochen à ne pas être éteinte. Elle appartient à la sous-famille des Tadorninae qui comprend notamment les tadornes. Elle est parfois désignée sous le nom d'Oie d'Égypte, notamment en Belgique et par mimétisme avec la désignation anglaise.",
+   "fulltext_chars": 7581
+  },
+  "en": {
+   "title": "Egyptian goose",
+   "url": "https://en.wikipedia.org/wiki/Egyptian_goose",
+   "description": "Species of goose",
+   "extract": "The Egyptian goose is an African member of the Anatidae family including ducks, geese, and swans. Because of its popularity chiefly as an ornamental bird, the species has also been introduced to Europe, the United States, and elsewhere outside its natural range. Egyptian geese were regularly represented in ancient Egyptian art.",
+   "fulltext_chars": 9186
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/81/Egyptian_Goose_%28Alopochen_aegyptiaca%29%2C_Lake_Ziway%2C_Ethiopia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4002,
+  "height": 2669,
+  "file": "Egyptian_Goose_(Alopochen_aegyptiaca),_Lake_Ziway,_Ethiopia.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Egyptian_Goose_%28Alopochen_aegyptiaca%29%2C_Lake_Ziway%2C_Ethiopia.jpg/1920px-Egyptian_Goose_%28Alopochen_aegyptiaca%29%2C_Lake_Ziway%2C_Ethiopia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Charles J. Sharp",
+  "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Egyptian_Goose_(Alopochen_aegyptiaca),_Lake_Ziway,_Ethiopia.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3761,
+  "cities": {
+   "Le Mans": 0.041,
+   "Poitiers": 0.019,
+   "Paris": 0.168,
+   "Lille": 0.372,
+   "Strasbourg": 0.376,
+   "Lyon": 0.022,
+   "Bordeaux": 0.013,
+   "Clermont-Ferrand": 0.028,
+   "Chamonix": 0.02,
+   "Nancy": 0.336
+  },
+  "monthly_scores": [
+   0.3334,
+   0.3138,
+   0.3223,
+   0.3643,
+   0.3353,
+   0.3359,
+   0.3666,
+   0.3718,
+   0.3136,
+   0.3115,
+   0.364,
+   0.3761
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:17Z"
+}

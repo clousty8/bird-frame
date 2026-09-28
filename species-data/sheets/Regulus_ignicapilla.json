@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Regulus ignicapilla",
+ "summary_fr": "Le Roitelet triple-bandeau est l'un des plus petits oiseaux d'Europe, pesant à peine 5 grammes. Malgré sa taille miniature, ce petit passereau niche dans les forêts tempérées du continent et d'Afrique du Nord. Il est migrateur partiel : les populations nordiques se déplacent vers le sud et l'ouest en hiver, tandis que les oiseaux méridionaux restent sédentaires. Cet oiseau hyperactif fouille inlassablement les branches à la recherche de minuscules insectes et araignées. Son diadème frontal orange chez le mâle et jaune chez la femelle se hérisse lors de l'excitation. Il est constamment en mouvement, exploitant les zones hautes des conifères. Contrairement à ses cousins les mésanges, le roitelet voyageur parcourt de grandes distances, formant parfois des groupes imposants en hiver.",
+ "habitat": "Forêts tempérées de feuillus ou de conifères, jardins avec arbustes, parcs et bosquets. Préfère les zones boisées où il fouille les branches en hauteur, mais s'adapte aussi aux milieux plus ouverts en hiver.",
+ "diet": "Exclusivement insectivore et arachnide. Se nourrit de pucerons, poux du bois, petites araignées et œufs d'insectes qu'il capture en inspectant les branches et rameaux, souvent en vol stationnaire. En période de migration ou d'hiver, ses besoins énergétiques doublent ou triplent.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Régions méditerranéennes et sud-ouest de l'Europe (sud de la Péninsule ibérique, sud-ouest de la France) pour les oiseaux du centre et nord de l'aire de reproduction.",
+  "niche": "Forêts et bosquets d'une grande partie de l'Europe tempérée, jusqu'au sud de la Scandinavie et à la Russie nord-occidentale. Absent des zones steppiques et du sud du Sahara.",
+  "passage": "Migrations visibles en avril-mai et en août-octobre, particulièrement en zones côtières. Les oiseaux du nord traversent la France pour gagner leurs quartiers d'hiver méditerranéens."
+ },
+ "seasonality_fr": "Présent en France toute l'année selon les régions. Nicheur et résident dans le sud et l'ouest (Aquitaine, Bretagne, Normandie), migrateur partiel au centre. Visible surtout d'avril à octobre partout en France, mais aussi en hiver dans les zones côtières et méridionales.",
+ "song_fr": "Appel de contact aigu et grêle : « zit-zit-zit » ou « sii-sii-sii », légèrement plus grave que son cousin le Roitelet huppé. Chant nuptial plus complexe mais bref (0,5 à 2,5 secondes), constitué d'une succession de notes sifflantes répétées jusqu'à 8 fois par minute durant la saison de reproduction.",
+ "lookalikes": [
+  {
+   "scientific_name": "Regulus regulus",
+   "common_name_fr": "Roitelet huppé",
+   "why_fr": "Appel très similaire mais plus aigu et fin. Cri « see-see-see » légèrement plus perçant. Les deux espèces restent souvent mélangées en hiver, rendant la distinction auditive délicate."
+  },
+  {
+   "scientific_name": "Phylloscopus collybita",
+   "common_name_fr": "Pouillot véloce",
+   "why_fr": "Cris de contact bas et roulés confondus à distance avec les appels du Roitelet. Possibilité lors de mauvaises conditions d'écoute ou en migration."
+  }
+ ],
+ "rarity_note": "Commune régulière en France, présente toute l'année au sud et à l'ouest, migratrice ailleurs. Détections les plus probables en coastal et zones méditerranéennes de septembre à mai.",
+ "fun_facts": [
+  "Le Roitelet triple-bandeau a des besoins énergétiques si élevés qu'il doit manger l'équivalent de 7 à 9 grammes de nourriture par jour en temps normal, mais jusqu'à 21 grammes en hiver ou lors de migration.",
+  "Le diadème frontal de ce roitelet ne lui sert pas seulement de parure : il se hérisse en cas d'excitation ou de dispute territoriale, doublant visuellement le volume de sa tête pour paraître plus menaçant.",
+  "C'est l'un des oiseaux les plus meurtris par les éoliennes en France : la LPO le cite comme l'espèce la plus souvent retrouvée morte au pied des turbines du continent."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Roitelet_%C3%A0_triple_bandeau",
+  "https://en.wikipedia.org/wiki/Common_firecrest",
+  "https://www.oiseaux.net/fiches/roitelet.triple.bandeau.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/3964"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

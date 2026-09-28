@@ -1,0 +1,51 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Tringa stagnatilis",
+ "summary_fr": "Le Chevalier stagnatile est un petit échassier élancé, long de 22 à 26 cm, reconnaissable à ses très longues pattes jaune verdâtre et à son bec fin, droit et sombre. Sa silhouette frêle et sa nage élégante en font une version miniature du Chevalier aboyeur, dont il partage le dos blanc visible en vol. Il niche dans les steppes herbeuses et les zones humides de taïga, de l'Europe la plus orientale jusqu'à l'Extrême-Orient russe, en colonies lâches installées près de mares et de prairies inondables. Aucune population ne se reproduit en France. L'espèce migre sur de longues distances vers l'Afrique subsaharienne, le sud de l'Asie et, plus marginalement, l'Australasie, où elle hiverne sur des zones humides d'eau douce ou saumâtre. En France, elle n'est observée qu'en petit nombre, surtout lors des passages migratoires de printemps et de fin d'été, mais quelques individus isolés peuvent être signalés à d'autres moments de l'année. Discrète et solitaire, elle fréquente les vasières et les plans d'eau calmes, glanant insectes et petits invertébrés en surface, loin des zones fréquentées par l'homme.",
+ "habitat": "Zones humides d'eau douce ou saumâtre : vasières, marais, bords de lacs et d'étangs ; en reproduction, steppes herbeuses et prairies humides de taïga.",
+ "diet": "Petits insectes aquatiques, larves, vers et menus crustacés, prélevés à la surface de l'eau ou dans la vase peu profonde.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Hiverne surtout en Afrique subsaharienne et en Asie du Sud, plus rarement en Australasie ; présence hivernale exceptionnelle en France, limitée à de rares individus isolés.",
+  "niche": "Ne niche pas en France ; population nicheuse dans les steppes et zones de taïga d'Europe orientale jusqu'à l'Extrême-Orient russe.",
+  "passage": "Passages principaux en avril-mai et d'août à septembre ; quelques individus isolés peuvent être notés en dehors de ces deux périodes."
+ },
+ "seasonality_fr": "Surtout observé lors des passages migratoires d'avril à mai et d'août à septembre en France ; présence isolée possible le reste de l'année, toujours en très petit nombre.",
+ "song_fr": "Cris peu caractéristiques, proches des autres petits chevaliers : courtes séries de notes sifflées et flûtées ; souvent silencieux lors des haltes migratoires.",
+ "lookalikes": [
+  {
+   "scientific_name": "Tringa nebularia",
+   "common_name_fr": "Chevalier aboyeur",
+   "why_fr": "Silhouette et cris très proches en plus grand ; le stagnatile est plus fin, au bec plus fin et droit."
+  },
+  {
+   "scientific_name": "Tringa ochropus",
+   "common_name_fr": "Chevalier cul-blanc",
+   "why_fr": "Petit chevalier des eaux douces aux cris comparables ; distinction par le croupion blanc tranché en vol."
+  },
+  {
+   "scientific_name": "Tringa totanus",
+   "common_name_fr": "Chevalier gambette",
+   "why_fr": "Appels plus criards et répétitifs ; pattes rouge orangé, à l'inverse des pattes jaunes du stagnatile."
+  },
+  {
+   "scientific_name": "Tringa glareola",
+   "common_name_fr": "Chevalier sylvain",
+   "why_fr": "Voix assez proche, chevalier des eaux douces de taille voisine mais un peu plus trapu."
+  }
+ ],
+ "rarity_note": "Rare et irrégulier en France, seulement en petit nombre lors des passages migratoires ; ni nidification ni hivernage significatif. Préoccupation mineure à l'échelle mondiale (UICN).",
+ "fun_facts": [
+  "C'est l'un des plus petits et des plus graciles chevaliers d'Europe, avec des pattes proportionnellement parmi les plus longues de la famille.",
+  "Son nom scientifique stagnatilis vient du latin stagnum, « marais », qui décrit bien son habitat de prédilection."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Chevalier_stagnatile",
+  "https://en.wikipedia.org/wiki/Marsh_sandpiper",
+  "https://www.oiseaux.net/oiseaux/chevalier.stagnatile.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/2591/tab/fiche"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,84 @@
+{
+ "scientific_name": "Montifringilla nivalis",
+ "common_name_fr": "Niverolle alpine",
+ "birdnet_label": "Montifringilla nivalis_Niverolle alpine",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Passeridae",
+  "family_common": "Old World Sparrows",
+  "genus": "Montifringilla",
+  "species": "Montifringilla nivalis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Niverolle alpine",
+   "url": "https://fr.wikipedia.org/wiki/Niverolle_alpine",
+   "description": "espèce d'oiseaux du Paléarctique",
+   "extract": "La Niverolle alpine est une espèce de passereaux de la famille des Passeridae, vivant en haute altitude dans les massifs montagneux d'Europe et d'Asie. C'est l'une des espèces d'oiseaux vivant le plus en altitude au monde.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "White-winged snowfinch",
+   "url": "https://en.wikipedia.org/wiki/White-winged_snowfinch",
+   "description": "Species of bird",
+   "extract": "The white-winged snowfinch is a small passerine bird. Despite its name, it is a sparrow rather than a true finch.",
+   "fulltext_chars": 2844
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/14/White-winged_Snowfinch_-_Lessinia_S4E3611_%2816415283598%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1140,
+  "height": 760,
+  "file": "White-winged_Snowfinch_-_Lessinia_S4E3611_(16415283598).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/1/14/White-winged_Snowfinch_-_Lessinia_S4E3611_%2816415283598%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Francesco Veronesi from Italy",
+  "credit": "White-winged Snowfinch - Lessinia_S4E3611",
+  "description_url": "https://commons.wikimedia.org/wiki/File:White-winged_Snowfinch_-_Lessinia_S4E3611_(16415283598).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0698,
+  "cities": {
+   "Poitiers": 0.029,
+   "Strasbourg": 0.013,
+   "Lyon": 0.064,
+   "Grenoble": 0.064,
+   "Marseille": 0.031,
+   "Toulouse": 0.027,
+   "Bordeaux": 0.032,
+   "Ajaccio": 0.054,
+   "Clermont-Ferrand": 0.07,
+   "Chamonix": 0.049,
+   "Perpignan": 0.014,
+   "Nancy": 0.012
+  },
+  "monthly_scores": [
+   0.0625,
+   0.0513,
+   0.0497,
+   0.0304,
+   0.0377,
+   0.0505,
+   0.0417,
+   0.0186,
+   0.0129,
+   0.0357,
+   0.0659,
+   0.0698
+  ],
+  "months": [
+   1,
+   2,
+   6,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:22Z"
+}

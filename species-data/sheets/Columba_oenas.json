@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Columba oenas",
+ "summary_fr": "Le Pigeon colombin est une espèce de taille modérée que l'on confond souvent avec le Pigeon ramier, mais il s'en distingue par sa silhouette plus compacte, son absence de taches blanches et son plumage gris homogène. Oiseaux forestiers de longue date, les colombins nichent dans les cavités des vieux arbres et fréquentent les milieux boisés riches en arbres creux. Ils se nourrissent principalement de graines sauvages et cultivées, complétées par des feuilles et des invertébrés. En France, les populations sont en déclin depuis trente ans, menacées par la perte d'habitat forestier et la chasse. Bien que partiellement sédentaires, une part importante des populations françaises migre selon les saisons. Leur appel distinctif est un roucoulement grave et rythme, fort différent du cooing mélodieux du ramier.",
+ "habitat": "Forêts anciennes et bocage avec présence de vieux arbres creux ; également en milieux substitutifs comme les vieux vergers, les parcs urbains et les falaises littorales, jusqu'à 1500 m d'altitude.",
+ "diet": "Graines sauvages et cultivées, feuilles et plantules ; baies, petits invertébrés et insectes en proportion variable selon la saison.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France et dans le reste du sud de l'Europe ; 100 000 à 200 000 individus hivernent en France avec les nicheurs sédentaires.",
+  "niche": "Partout en France où existent de vieux arbres cavitaires, du littoral à la montagne ; ponte de février à août avec jusqu'à trois nichées annuelles.",
+  "passage": "Migration prénuptiale discrète de fin février à avril ; migration postnuptiale de septembre à novembre."
+ },
+ "seasonality_fr": "Présent toute l'année en France, plus visible et auditif en période de reproduction (mars à août) ; moins détectable en hiver malgré la présence d'hivernants nombreux.",
+ "song_fr": "Roucoulement grave, profond et rythme « ou-wou ou-wou » distinctement différent du cooing tendre du Pigeon ramier ; émis depuis le perchoir notamment au printemps.",
+ "lookalikes": [
+  {
+   "scientific_name": "Columba palumbus",
+   "common_name_fr": "Pigeon ramier",
+   "why_fr": "Tailles similaires mais le ramier est plus gros, possède des taches blanches au cou et aux ailes ; son cri est modulé et mélodieux, jamais grave."
+  },
+  {
+   "scientific_name": "Columba livia",
+   "common_name_fr": "Pigeon biset",
+   "why_fr": "En milieu urbain, la forme domestique a des plumages variés ; la forme sauvage a des barres alaires plus marquées et un croupion blanc contrairement au colombin."
+  },
+  {
+   "scientific_name": "Streptopelia turtur",
+   "common_name_fr": "Tourterelle des bois",
+   "why_fr": "Plus petite, brun-roux avec motifs clairs sur les ailes ; appel monocorde très différent du roucoulement du colombin."
+  }
+ ],
+ "rarity_note": "Régulièrement présent en France toute l'année mais en decline important ; localement peu commun en région Pays de la Loire, plus régulier en zones forestières du nord et de l'est du pays.",
+ "fun_facts": [
+  "Contrairement aux autres Columba, le Pigeon colombin utilise des terriers de lapins pour nicher, une adaptation remarquable à la perte de ses habitats forestiers naturels.",
+  "Plus de 50 000 colombins sont abattus annuellement à la chasse en France, particulièrement en Aquitaine, où cette espèce se laisse plus facilement leurrer que le ramier.",
+  "L'espèce s'est maintenue en Suisse grâce à la pose de nichoirs en ville, notamment à Genève, malgré son déclin ailleurs."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pigeon_colombin",
+  "https://en.wikipedia.org/wiki/Stock_dove",
+  "https://oiseaux.net/pigeon.colombin.html",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Bucephala clangula",
+ "summary_fr": "Le Garrot à œil d'or est un canard plongeur de taille moyenne, reconnaissable à sa tête noire brillante et à sa tache ronde blanche caractéristique entre le bec et l'œil jaune. Hivernant et migrateur régulier en France, il fréquente les lacs, cours d'eau et côtes maritimes où il plonge pour se nourrir. Excellent nageur, c'est un oiseau moins grégaire que les autres canards, souvent observé seul ou en couple. Territorial et dynamique, il possède un aspect trappu et massif avec une grosse tête distincte. Son régime alimentaire se compose principalement de mollusques, crustacés et petits poissons capturés lors de plongées profondes. Fidèle à ses zones d'hivernage, il revisite régulièrement les mêmes eaux d'une année sur l'autre.",
+ "habitat": "Lacs, rivières et cours d'eau de montagne ou en plaine, ainsi que les eaux côtières, estuaires et baies littorales. Préfère les eaux calmes et relativement profondes, marines ou saumâtres.",
+ "diet": "Principalement mollusques et crustacés, complétés par des insectes aquatiques et petits poissons. Capture sa nourriture en plongée, jusqu'à 7 mètres de profondeur.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Trouve en France essentiellement d'octobre à avril, dans les eaux littorales du Nord et de la Manche, ainsi que sur les grands lacs intérieurs et le long du Rhône. Plus régulier en région méditerranéenne.",
+  "niche": "Ne niche pratiquement pas en France; reproduction limitée aux régions subarctiques (Scandinavie, Russie du Nord).",
+  "passage": "Passages migratoires visibles en mars-avril (printemps) et octobre-novembre (automne), particulièrement le long des côtes et des grands fleuves."
+ },
+ "seasonality_fr": "Présent en France d'octobre à avril, avec un pic en hiver. Quelques observations possibles en mai et septembre lors de passages. Moins régulier et moins facile à entendre en Anjou ou Pays de la Loire.",
+ "song_fr": "Mâles très vocaux, produisant des coups sifflants distincts et des bruits mécaniques lors des parades; femelles plus silencieuses. Cri caractéristique rappelant un « kouk-kouk » rauque.",
+ "lookalikes": [
+  {
+   "scientific_name": "Nyroca nyroca",
+   "common_name_fr": "Nette rousse",
+   "why_fr": "Canard plongeur semblable au tempérament moins grégaire, mais beaucoup plus petite et couleur de poitrine différente."
+  },
+  {
+   "scientific_name": "Aythya ferina",
+   "common_name_fr": "Fuligule milouin",
+   "why_fr": "Canard plongeur hivernant avec silhouette comparable et vocalises semblables lors du hivernage."
+  },
+  {
+   "scientific_name": "Aythya fuligula",
+   "common_name_fr": "Fuligule morillon",
+   "why_fr": "Plongeur hivernant aux allures similaires, cris de parade acoustiquement proches du Garrot."
+  }
+ ],
+ "rarity_note": "Hivernant régulier en France, particulièrement en régions nordiques et le long des côtes. Peu commun dans l'Ouest et rare en été.",
+ "fun_facts": [
+  "Son nom scientifique « clangula » vient du latin clangere signifiant « résonner », en référence à ses appels puissants et distincts.",
+  "C'est un excellent plongeur pouvant rester immergé jusqu'à 55 secondes et atteindre 7 mètres de profondeur pour se nourrir.",
+  "Les femelles sont fidèles à leurs sites de nidification, retournant chaque année au même trou d'arbre pour élever leur progéniture."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Garrot_%C3%A0_%C5%93il_d'or",
+  "https://en.wikipedia.org/wiki/Common_goldeneye",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

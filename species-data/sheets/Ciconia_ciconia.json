@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Ciconia ciconia",
+ "summary_fr": "Grande échassière blanche et noire au long cou et aux pattes rouge vif, la Cigogne blanche compte parmi les oiseaux les plus reconnaissables d'Europe, avec plus d'un mètre de hauteur et près de deux mètres d'envergure en vol. Longtemps considérée comme une migratrice stricte entre l'Europe et l'Afrique subsaharienne, elle a profondément changé de comportement en France depuis sa quasi-disparition des années 1970 : un programme de réintroduction en Alsace puis l'essor de colonies sur la façade atlantique et en Méditerranée ont ramené plusieurs centaines de couples nicheurs, tandis qu'un nombre croissant d'individus, profitant d'hivers plus doux et de ressources alimentaires abondantes, ne repartent plus vers l'Afrique et hivernent désormais sur place. Plutôt que de chanter, elle communique par un claquement de bec sonore, produit lors des parades nuptiales et des relèves au nid. Carnivore opportuniste, elle arpente prairies humides et champs à la recherche d'insectes, de vers, d'amphibiens et de petits rongeurs, et bâtit un nid monumental de branchages réutilisé et agrandi d'année en année par le même couple.",
+ "habitat": "Prairies humides, marais, lacs, rivières et terres agricoles ouvertes ; recherche les zones à végétation rase où les proies sont faciles à repérer et à saisir au sol.",
+ "diet": "Insectes, vers de terre, amphibiens, petits reptiles, rongeurs et parfois petits poissons ; chasse au sol en marchant lentement, à l'affût.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Hivernage historique en Afrique subsaharienne et en Inde, mais de plus en plus d'oiseaux restent désormais en France (façade atlantique, sud) ou en Espagne grâce à des hivers plus doux.",
+  "niche": "Colonies en expansion en Alsace-Lorraine, sur la façade atlantique (Charente-Maritime, Vendée) et en Méditerranée ; ponte de mars à juillet.",
+  "passage": "Migration prénuptiale en mars-avril et postnuptiale en août-septembre, observable dans toute la France chez les oiseaux encore migrateurs."
+ },
+ "seasonality_fr": "Présente toute l'année près des colonies et des sites d'hivernage désormais français, avec des pics de passage marqués au printemps et surtout à l'automne ailleurs.",
+ "song_fr": "Muette ou presque : signal principal par claquement de bec bruyant et répété, comparé à des rafales lointaines. Voix rare, réduite à de faibles sifflements chez l'adulte.",
+ "lookalikes": [
+  {
+   "scientific_name": "Grus grus",
+   "common_name_fr": "Grue cendrée",
+   "why_fr": "Autre grand migrateur des zones humides au cri sonore et trompetant, partageant des haltes migratoires communes avec la cigogne."
+  },
+  {
+   "scientific_name": "Ciconia nigra",
+   "common_name_fr": "Cigogne noire",
+   "why_fr": "Espèce cousine produisant elle aussi des claquements de bec, plus discrets, pouvant être confondus lors d'enregistrements de mauvaise qualité."
+  }
+ ],
+ "rarity_note": "Présence en expansion mais encore inégale en France, plus marquée en Alsace, sur la façade atlantique et dans le sud lors de la nidification et des passages.",
+ "fun_facts": [
+  "Pour éviter la traversée de la Méditerranée, où les courants ascendants nécessaires au vol plané ne se forment pas au-dessus de l'eau, elle détourne par le Levant à l'est ou Gibraltar à l'ouest.",
+  "Quasi disparue de France dans les années 1970, l'espèce doit son retour à un programme de réintroduction lancé en Alsace, suivi d'un essor spectaculaire sur la façade atlantique.",
+  "Son nid géant de branchages, agrandi chaque année par le même couple, peut atteindre plusieurs centaines de kilos et héberge souvent moineaux et étourneaux locataires."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Cigogne_blanche",
+  "https://www.lpo.fr/decouvrir-la-nature/fiches-especes/fiches-especes/oiseaux/cigogne-blanche",
+  "https://normandie.lpo.fr/oiseaux-de-normandie/inventaire-oiseaux-de-normandie-effectifs-et-populations/cigogne-blanche/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,70 @@
+{
+ "scientific_name": "Melospiza melodia",
+ "common_name_fr": "Bruant chanteur",
+ "birdnet_label": "Melospiza melodia_Bruant chanteur",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Passerellidae",
+  "family_common": "New World Sparrows",
+  "genus": "Melospiza",
+  "species": "Melospiza melodia"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bruant chanteur",
+   "url": "https://fr.wikipedia.org/wiki/Bruant_chanteur",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Bruant chanteur est une espèce de passereau de la famille des Passerellidae, qui vit en Amérique du Nord. Il s'agit d'un des oiseaux chanteurs les plus communs d'Amérique du Nord.",
+   "fulltext_chars": 9281
+  },
+  "en": {
+   "title": "Song sparrow",
+   "url": "https://en.wikipedia.org/wiki/Song_sparrow",
+   "description": "Species of bird",
+   "extract": "The song sparrow is a medium-sized New World sparrow. Among the native sparrows in North America, it is easily one of the most abundant, variable, and adaptable species.",
+   "fulltext_chars": 17601
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/51/Melospiza_melodia_JRVdH_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4560,
+  "height": 3648,
+  "file": "Melospiza_melodia_JRVdH_02.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Melospiza_melodia_JRVdH_02.jpg/1920px-Melospiza_melodia_JRVdH_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Cephas",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Melospiza_melodia_JRVdH_02.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.031,
+  "cities": {
+   "Pornic": 0.031,
+   "Rennes": 0.015,
+   "Poitiers": 0.014,
+   "Bordeaux": 0.015
+  },
+  "monthly_scores": [
+   0.0143,
+   0.0157,
+   0.0257,
+   0.0156,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.031,
+   0.0203,
+   0.0147
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:05Z"
+}

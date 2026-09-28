@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Lanius senator",
+ "summary_fr": "Petite pie-grièche aux allures reconnaissables, la Pie-grièche à tête rousse est le prince des oiseaux de proie des zones méditerranéennes françaises. Son plumage contrasté noir et blanc avec une calotte brun-roux en font un prédateur d'insectes aisément identifiable. Visiteur estival des milieux ouverts et semi-boisés du sud de la France, elle se montre fidèle à ses territoires de nidification d'année en année. Comme ses cousines, elle est une chasseuse active qui bondit depuis un perchoir élevé pour capturer des insectes au vol ou au sol, avant de les dépécer en vol. Elle fréquente vergers, friches herbeuses et garrigues méditerranéennes où elle installe son nid tôt en saison. Son chant discret mêle des imitations d'autres oiseaux et des cris grinçants caractéristiques.",
+ "habitat": "Milieux ouverts et semi-boisés du pourtour méditerranéen et du sud-ouest français : vergers, friches herbeuses riches en buissons, garrigues, zones cultives avec haies éparses, toujours dans des habitats dégagés offrant de bons perchoirs de chasse.",
+ "diet": "Gros insectes (coléoptères, criquets, sauterelles, libellules) et petits vertébrés (jeunes passereaux, petits rongeurs, lézards). Chasse depuis un perchoir exposé en effectuant des piqués ou des vols rasants pour capturer ses proies.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique tropicale, du Sénégal à l'Éthiopie et au sud jusqu'au Gabon.",
+  "niche": "Principalement avril à juillet en France métropolitaine, surtout dans le bassin méditerranéen et le sud-ouest. Une seule nichée généralement.",
+  "passage": "Passages printaniers en mars-avril (retour) et passages automnaux septembre à octobre (départ vers l'Afrique)."
+ },
+ "seasonality_fr": "Visible et audible de février à octobre en France, avec un pic de présence avril à septembre. Absente en hiver, ce qui en fait un visiteur strictement estival du sud et du sud-ouest français.",
+ "song_fr": "Chant discret et varié composé d'imitations d'autres oiseaux, agrémenté de cris secs, grinçants et sifflants. Cri d'alarme : cri rêche, légèrement roulé, caractéristique des pies-grièches. Peu vocale en comparaison d'autres membres de la famille.",
+ "lookalikes": [
+  {
+   "scientific_name": "Lanius collurio",
+   "common_name_fr": "Pie-grièche écorcheur",
+   "why_fr": "Taille similaire, aussi pie-grièche, cris proches mais moins grinçants ; écorcheur plus commune au nord."
+  },
+  {
+   "scientific_name": "Lanius minor",
+   "common_name_fr": "Pie-grièche à poitrine rose",
+   "why_fr": "Pie-grièche de la même région, cris semblables, mais poitrine rosée et absence de roux sur la calotte."
+  },
+  {
+   "scientific_name": "Lanius excubitor",
+   "common_name_fr": "Pie-grièche grise",
+   "why_fr": "Plus grande, plumage gris clair caractéristique, cris plus rauques et puissants que ceux de la tête rousse."
+  }
+ ],
+ "rarity_note": "Régulière en migration mais peu commune et fortement localisée au sud et sud-est français (Provence, Languedoc, Aquitaine). Présence sporadic au printemps et automne, absente hiver et été en France du Nord.",
+ "fun_facts": [
+  "Malgré son petit bec, elle s'attaque à des proies relativement grosses comme les petits passereaux et capture des insectes en vol avec une précision remarquable.",
+  "Elle revient souvent aux mêmes territoires de reproduction année après année, ce qui en fait une fidèle des paysages méditerranéens du sud français."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pie-gri%C3%A8che_%C3%A0_t%C3%AAte_rousse",
+  "https://en.wikipedia.org/wiki/Woodchat_shrike",
+  "https://www.oiseaux.net/lanius.senator.html",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/4401"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

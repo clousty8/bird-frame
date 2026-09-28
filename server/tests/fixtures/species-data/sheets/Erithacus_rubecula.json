@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "scientific_name": "Erithacus rubecula",
+  "summary_fr": "Le Rougegorge familier est un petit passereau bien connu des jardins europeens, reconnaissable a son plastron orange vif qui couvre la gorge et la poitrine. Il frequente les haies, les sous-bois clairs, les parcs et les jardins ou il cherche insectes, vers et araignees parmi la litiere de feuilles. Tres territorial, il defend farouchement son coin de jardin toute l'annee, y compris en hiver, ce qui explique pourquoi on l'entend chanter meme par temps froid. Male et femelle chantent tous les deux, un comportement rare chez les passereaux europeens. Peu farouche, il s'approche volontiers du jardinier qui beche, esperant profiter des vers mis a jour. En France, une partie de la population reste sedentaire toute l'annee, tandis que des oiseaux du nord de l'Europe viennent hiverner sur le territoire, renforcant les effectifs presents a la saison froide. Son nid, discret, est construit pres du sol dans une cavite naturelle ou un talus.",
+  "habitat": "Sous-bois, haies, jardins et parcs arborés, du littoral à la montagne.",
+  "diet": "Insectes, vers et araignées ; baies et graines en hiver.",
+  "activity_pattern": "diurne",
+  "migration": {
+    "statut": "migrateur partiel",
+    "hiverne": "Toute la France ; renforcé en hiver par des oiseaux d'Europe du Nord.",
+    "niche": "Partout en France, d'avril à juillet.",
+    "passage": "Mouvements marqués en mars et d'octobre à novembre."
+  },
+  "seasonality_fr": "Présent toute l'année ; chante même en hiver, surtout à l'aube.",
+  "song_fr": "Phrases fluides et mélancoliques, cristallines ; cri « tic » sec et répété.",
+  "lookalikes": [
+    {"scientific_name": "Turdus merula", "common_name_fr": null, "why_fr": "Confusion possible en vol rapide."}
+  ],
+  "rarity_note": "Très commun partout en France.",
+  "fun_facts": [
+    "Les deux sexes chantent, y compris en hiver pour défendre un territoire.",
+    "Il suit volontiers le jardinier pour attraper les vers mis au jour."
+  ],
+  "sources": ["https://fr.wikipedia.org/wiki/Rouge-gorge_familier"],
+  "generated_at": "2026-09-27T16:10:00Z",
+  "generator_model": "claude-haiku-4-5",
+  "reviewed_by_human": false
+}

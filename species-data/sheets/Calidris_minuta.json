@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Calidris minuta",
+ "summary_fr": "Le Bécasseau minute est un très petit limicole migrateur long-courrier, mesurant à peine 12 à 14 cm. Ses pattes noires, son fin bec pointu et ses mouvements vifs le distinguent des autres bécasseaux. Il niche dans les régions arctiques d'Europe et d'Asie, puis migre vers l'Afrique et l'Asie du Sud pour hiverner. Ses quartiers d'hiver s'étendent du Moyen-Orient jusqu'aux côtes africaines. En migration et en hiver, on le rencontre sur les vasières côtières et les plans d'eau intérieurs, où il se nourrit en picorant rapidement les petits invertébrés. Grégaire, il forme souvent des petits groupes avec d'autres bécasseaux sur les mudflats côtiers. Son allure délicate et ses déplacements saccadés le rendent reconnaissable, bien que sa petite taille le rende discret.",
+ "habitat": "Vasières et lagunes côtières, plans d'eau intérieurs peu profonds, sol sec à proximité des zones marécageuses en nidification arctique.",
+ "diet": "Petits invertébrés picorés dans la vase, notamment diptères et autres arthropodes aquatiques.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Afrique (sud du Sahara) et Asie du Sud, ne niche pas en France.",
+  "niche": "Régions arctiques d'Europe et d'Asie, ne niche pas en France.",
+  "passage": "Passages migratoires en avril-mai et août-octobre en France, variable selon les années."
+ },
+ "seasonality_fr": "Visible surtout lors des passages migratoires de printemps et d'automne. Présence hivernale possible mais rare en France.",
+ "song_fr": "Cri distinctif aigu « stit » ou « stitt » répété. En migration, émission de cris de contact caractéristiques des bécasseaux.",
+ "lookalikes": [
+  {
+   "scientific_name": "Calidris alba",
+   "common_name_fr": "Bécasseau sanderling",
+   "why_fr": "Taille comparable, fréquente les mêmes habitats. Pattes plus claires et bec plus robuste."
+  },
+  {
+   "scientific_name": "Calidris temminckii",
+   "common_name_fr": "Bécasseau de Temminck",
+   "why_fr": "Autre petit bécasseau aux pattes noires. Diffère par la projection alaire et la morphologie du bec."
+  },
+  {
+   "scientific_name": "Calidris ferruginea",
+   "common_name_fr": "Bécasseau cocorli",
+   "why_fr": "Petit wader similaire. Se distingue par la couleur du plumage et l'habitat de nidification."
+  }
+ ],
+ "rarity_note": "Régulier en France comme migrateur de passage, surtout en côte, mais peu nombreux. Présence hivernale exceptionnelle. Statut bénéficie du régime de protection totale des oiseaux en France.",
+ "fun_facts": [
+  "Son nom scientifique « minuta » signifie littéralement « petit » en latin, décrivant sa très petite taille parmi les limicoles.",
+  "Pendant la migration, il peut parcourir plusieurs milliers de kilomètres entre l'Arctique et l'Afrique, l'un des oiseaux les plus migrateurs."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/B%C3%A9casseau_minute",
+  "https://en.wikipedia.org/wiki/Little_stint",
+  "https://oiseaux.net/species/calidris_minuta.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/3283"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

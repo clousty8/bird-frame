@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "scientific_name": "Anas acuta",
+  "summary_fr": "Le Canard pilet est un elegant canard barboteur au corps allongé et au long cou blanc, reconnaissable à la queue pointue du mâle d'où provient son nom scientifique (acuta = pointue). Loin d'être un oiseau sédentaire, c'est un migrateur de grande distance qui quitte les zones de reproduction nordiques, dans la toundra et les prairies humides du Paléarctique et d'Amérique du Nord, pour hiverner aussi loin que les zones tropicales. En France, on le rencontre principalement lors des passages migratoires, formant de grands vols grégaires avec autres canards. Le dimorphisme sexuel est marqué : le mâle arbore une tête chocolat, un cou blanc pur et un poitrail blanc brillant ; la femelle, au contraire, affiche une livrée terne brun moucheté. Souvent mal compris, ce canard démontre une grande agilité en vol et une intelligence remarquable.",
+  "habitat": "Prairies humides ouvertes, toundra, lacs et estuaires; en hiver, aussi lagons côtiers et marais d'eau saumâtre.",
+  "diet": "Plantes aquatiques (rhizomes, graines) obtenues en barbotant et en enfonçant l'arrière-train; insectes aquatiques, mollusques et crustacés pendant la nidification.",
+  "activity_pattern": "crépusculaire",
+  "migration": {
+    "statut": "migrateur",
+    "hiverne": "Régions tropicales et subtropicales, jusqu'à l'équateur; populations mineures hivernent en Afrique du Nord et Asie du Sud.",
+    "niche": "Toundra et prairies humides du nord du Paléarctique et d'Amérique du Nord; ne niche pas en France.",
+    "passage": "Passages marqués en mars-avril (printemps) et septembre-novembre (automne); quelques hivernants réguliers en France."
+  },
+  "seasonality_fr": "Visible toute l'année en France, mais principalement de septembre à avril lors des passages et hivernage; plus rare en été.",
+  "song_fr": "Mâle: sifflet doux et fluide ressemblant à celui de la Sarcelle d'hiver; femelle: cri ressemblant à un quack de Canard colvert mais plus rauque et faible.",
+  "lookalikes": [
+    {
+      "scientific_name": "Anas platyrhynchos",
+      "common_name_fr": "Canard colvert",
+      "why_fr": "Tous deux sont des canards barboteurs, mais le pilet est plus élancé avec un cou plus long. Les cris du colvert (quack classique) diffèrent du sifflet du pilet."
+    },
+    {
+      "scientific_name": "Anas crecca",
+      "common_name_fr": "Sarcelle d'hiver",
+      "why_fr": "Canard barboteur plus petit avec cris aigus; le sifflet du mâle pilet est plus grave et plus fluide que celui de la Sarcelle."
+    }
+  ],
+  "rarity_note": "Régulier mais peu commun en France, présent toute l'année avec pics lors des migrations. Score BirdNET maximal 0,31 en France, largement inférieur au Canard colvert.",
+  "fun_facts": [
+    "Son nom scientifique, acuta, signifie « pointue » en latin, en référence aux rectrices centrales du mâle qui peuvent dépasser 10 cm en livrée nuptiale.",
+    "C'est un migrateur de grande distance : un oiseau bagué en Labrador (Canada) a été tué à la chasse en Angleterre seulement 9 jours plus tard."
+  ],
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Canard_pilet",
+    "https://en.wikipedia.org/wiki/Northern_pintail",
+    "https://www.oiseaux.net/",
+    "https://inpn.mnhn.fr/"
+  ],
+  "generated_at": "2026-09-27T17:00:00Z",
+  "generator_model": "claude-haiku-4-5"
+}

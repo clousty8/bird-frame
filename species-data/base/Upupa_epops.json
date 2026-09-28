@@ -1,0 +1,96 @@
+{
+ "scientific_name": "Upupa epops",
+ "common_name_fr": "Huppe fasciée",
+ "birdnet_label": "Upupa epops_Huppe fasciée",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Bucerotiformes",
+  "family": "Upupidae",
+  "family_common": "Hoopoes",
+  "genus": "Upupa",
+  "species": "Upupa epops"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Huppe fasciée",
+   "url": "https://fr.wikipedia.org/wiki/Huppe_fasci%C3%A9e",
+   "description": "espèce d'oiseaux",
+   "extract": "La Huppe fasciée est une espèce d'oiseaux, l'une des trois représentantes de la famille des Upupidae et du genre Upupa.",
+   "fulltext_chars": 14536
+  },
+  "en": {
+   "title": "Eurasian hoopoe",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_hoopoe",
+   "description": "Species of bird",
+   "extract": "The Eurasian hoopoe or common hoopoe is the most widespread species of hoopoe. It is a distinctive cinnamon coloured bird with black and white wings, a tall erectile crest, a broad white band across a black tail, and a long narrow downcurved bill. Its call is a soft \"oop-oop-oop\".",
+   "fulltext_chars": 13405
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/ABUBILLA_%28Upupa_epops%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 978,
+  "height": 1370,
+  "file": "ABUBILLA_(Upupa_epops).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/d/d3/ABUBILLA_%28Upupa_epops%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Arturo Nikolai",
+  "credit": "originally posted to Flickr as ABUBILLA (Upupa epops)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:ABUBILLA_(Upupa_epops).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4439,
+  "cities": {
+   "Le Mans": 0.024,
+   "Pornic": 0.028,
+   "Rennes": 0.015,
+   "Poitiers": 0.064,
+   "Paris": 0.021,
+   "Lille": 0.01,
+   "Strasbourg": 0.044,
+   "Lyon": 0.159,
+   "Grenoble": 0.211,
+   "Marseille": 0.334,
+   "Toulouse": 0.334,
+   "Bordeaux": 0.177,
+   "Ajaccio": 0.444,
+   "Clermont-Ferrand": 0.151,
+   "Chamonix": 0.139,
+   "Perpignan": 0.393,
+   "Nancy": 0.034
+  },
+  "monthly_scores": [
+   0.1469,
+   0.1749,
+   0.3321,
+   0.4439,
+   0.3812,
+   0.3242,
+   0.28,
+   0.2816,
+   0.159,
+   0.1374,
+   0.1597,
+   0.1607
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:25Z"
+}

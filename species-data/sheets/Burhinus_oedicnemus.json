@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Burhinus oedicnemus",
+ "summary_fr": "L'Œdicnème criard est un limicole pour le moins atypique : plutôt que les vasières et les rivages, il affectionne les terrains secs, caillouteux et découverts – steppes, garrigues, friches agricoles ou carrières. Ses grands yeux jaunes lui donnent un regard presque reptilien, précieux pour repérer proies et prédateurs à la tombée de la nuit, car l'espèce est surtout nocturne et se tient immobile et silencieuse de jour, confondue avec le sol grâce à son plumage strié. C'est à la nuit tombée qu'il se révèle, lançant de longs sifflements plaintifs si proches de ceux des courlis qu'on l'a longtemps surnommé « courlis de terre ». Son nom scientifique, littéralement « jambe gonflée », renvoie aux articulations proéminentes de ses longues pattes. En France, il niche surtout dans le Midi et en Corse, où une partie de la population reste sur place toute l'année tandis que les oiseaux du nord de son aire rejoignent l'Afrique subsaharienne pour l'hiver. Le couple peut mener deux nichées en une saison, élevant ses poussins à même le sol, à peine dissimulés dans une simple cuvette de terre.",
+ "habitat": "Terrains secs et ouverts avec sol nu ou ras : steppes, landes caillouteuses, garrigue, terrains agricoles extensifs, carrières et friches. Peu exigeant quant à l'altitude.",
+ "diet": "Insectes variés (sauterelles, criquets, coléoptères, mouches, forficules, chenilles), invertébrés terrestres (limaces, escargots), petits vertébrés occasionnels (batraciens, rongeurs, lézards) et œufs.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Une partie de la population méditerranéenne (Provence, Corse) reste sur place toute l'année ; les oiseaux nicheurs plus au nord de son aire quittent la France à l'automne pour l'Afrique subsaharienne.",
+  "niche": "Nicheur peu abondant en France, principalement en région méditerranéenne et dans le sud-est (Provence, Languedoc, Corse). Reproduction d'avril à août, parfois deux nichées.",
+  "passage": "Passage de transit observé au printemps (avril-mai) et surtout à l'automne (août-octobre), quand des oiseaux venus d'Europe plus septentrionale traversent la France vers l'Afrique."
+ },
+ "seasonality_fr": "Présent toute l'année dans le Midi et en Corse, avec un passage migratoire plus net ailleurs en France entre avril et octobre, marqué par des pics en mai et en septembre.",
+ "song_fr": "Sifflements plaintifs et profonds, souvent émis la nuit, ressemblant à celui des courlis. Cris d'alarme grinçants et rapides. Très vocal en période de reproduction.",
+ "lookalikes": [
+  {
+   "scientific_name": "Numenius arquata",
+   "common_name_fr": "Courlis cendré",
+   "why_fr": "Cris nocturnes plaintifs très proches, à l'origine du surnom « courlis de terre » donné à l'oedicnème."
+  },
+  {
+   "scientific_name": "Glareola pratincola",
+   "common_name_fr": "Glaréole à collier",
+   "why_fr": "Oiseau des milieux ouverts au comportement partiellement crépusculaire, cris pouvant prêter à confusion."
+  },
+  {
+   "scientific_name": "Charadrius dubius",
+   "common_name_fr": "Petit Gravelot",
+   "why_fr": "Limicole des mêmes terrains secs et caillouteux, cris perçants distincts mais habitat partagé."
+  }
+ ],
+ "rarity_note": "Peu commun et localisé en France : niche surtout dans le Midi et en Corse, avec des passages migratoires plus larges ailleurs au printemps et à l'automne.",
+ "fun_facts": [
+  "Ses grands yeux jaunes lui donnent une expression reptilienne caractéristique, adaptée à sa vision nocturne.",
+  "Contrairement à la plupart des limicoles, il préfère les terrains secs et rocheux aux zones humides.",
+  "Ses sifflements nocturnes sont si proches de ceux des courlis réels (Numenius) qu'il a longtemps porté le nom vernaculaire de « courlis de terre »."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/%C5%92dicn%C3%A8me_criard",
+  "https://en.wikipedia.org/wiki/Eurasian_stone-curlew",
+  "https://www.oiseaux.net/oiseaux/oedicneme.criard.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

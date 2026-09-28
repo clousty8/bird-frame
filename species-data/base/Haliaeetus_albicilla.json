@@ -1,0 +1,70 @@
+{
+ "scientific_name": "Haliaeetus albicilla",
+ "common_name_fr": "Pygargue à queue blanche",
+ "birdnet_label": "Haliaeetus albicilla_Pygargue à queue blanche",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Haliaeetus",
+  "species": "Haliaeetus albicilla"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pygargue à queue blanche",
+   "url": "https://fr.wikipedia.org/wiki/Pygargue_%C3%A0_queue_blanche",
+   "description": "espèce d'oiseaux accipitriformes de la famille des accipitridae",
+   "extract": "Le Pygargue à queue blanche appelé également grand aigle de mer, aigle barbu, orfraie ou encore haliète albicille, est une espèce de rapaces de grande envergure de la famille des Accipitridae. Il est surnommé aigle pêcheur.",
+   "fulltext_chars": 12016
+  },
+  "en": {
+   "title": "White-tailed eagle",
+   "url": "https://en.wikipedia.org/wiki/White-tailed_eagle",
+   "description": "Species of bird",
+   "extract": "The white-tailed eagle, sometimes known as the \"sea eagle\", is a large bird of prey, widely distributed across temperate Eurasia. Like other eagles, it is a member of the family Accipitridae which also includes other diurnal raptors such as hawks, kites, and harriers. One of up to eleven members in the genus Haliaeetus, which are commonly called sea eagles, it is also referred to as the white-tailed sea-eagle. Sometimes, it is known as the ern or erne, gray sea eagle and Eurasian sea eagle.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/2e/White_tailed_eagle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 557,
+  "height": 797,
+  "file": "White_tailed_eagle.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/2e/White_tailed_eagle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Surub",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:White_tailed_eagle.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0185,
+  "cities": {
+   "Lille": 0.016,
+   "Strasbourg": 0.015,
+   "Ajaccio": 0.019,
+   "Nancy": 0.012
+  },
+  "monthly_scores": [
+   0.018,
+   0.0173,
+   0.0143,
+   0.0163,
+   0.0102,
+   0.0,
+   0.01,
+   0.0105,
+   0.0121,
+   0.0146,
+   0.0165,
+   0.0185
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:26Z"
+}

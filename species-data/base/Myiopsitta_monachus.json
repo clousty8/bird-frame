@@ -1,0 +1,83 @@
+{
+ "scientific_name": "Myiopsitta monachus",
+ "common_name_fr": "Conure veuve",
+ "birdnet_label": "Myiopsitta monachus_Perriche veuve",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Psittaciformes",
+  "family": "Psittacidae",
+  "family_common": "New World and African Parrots",
+  "genus": "Myiopsitta",
+  "species": "Myiopsitta monachus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Conure veuve",
+   "url": "https://fr.wikipedia.org/wiki/Conure_veuve",
+   "description": "espèce d'oiseaux psittaciformes de la famille des psittacidae",
+   "extract": "La Perriche veuve, anciennement Conure veuve, encore appelée Perruche veuve, Perruche torrègne, Perruche moine, Perruche-souris, Perruche Quaker ou Perruche jeune-veuve, est une espèce d'oiseaux de l'ordre des Psittaciformes et de la famille des psittacidés. En tant que Psittacidé, le terme « conure » est à préférer, « perruche » étant plutôt réservé aux Psittaculidés.",
+   "fulltext_chars": 3804
+  },
+  "en": {
+   "title": "Monk parakeet",
+   "url": "https://en.wikipedia.org/wiki/Monk_parakeet",
+   "description": "South American true parrot",
+   "extract": "The monk parakeet, also known as the Monk parrot or Quaker parrot, is a species of true parrot in the family Psittacidae. It is a small to medium bright-green parrot with a greyish breast and greenish-yellow abdomen. It originates from the temperate to subtropical areas of South America. Self-sustaining feral populations occur in many places, mainly in areas of similar climate in North America and Europe.",
+   "fulltext_chars": 17451
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Monk_Parakeet_%28Myiopsitta_monachus%29_-Argentina-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 640,
+  "height": 800,
+  "file": "Monk_Parakeet_(Myiopsitta_monachus)_-Argentina-8.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/9/91/Monk_Parakeet_%28Myiopsitta_monachus%29_-Argentina-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Lip Kee Yap",
+  "credit": "originally posted to Flickr as Monk Parakeet (Myiopsitta monachus)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Monk_Parakeet_(Myiopsitta_monachus)_-Argentina-8.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3042,
+  "cities": {
+   "Marseille": 0.065,
+   "Toulouse": 0.037,
+   "Ajaccio": 0.304,
+   "Perpignan": 0.075
+  },
+  "monthly_scores": [
+   0.2979,
+   0.2732,
+   0.2106,
+   0.1212,
+   0.1026,
+   0.1198,
+   0.1528,
+   0.1513,
+   0.1157,
+   0.1784,
+   0.2828,
+   0.3042
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:09Z"
+}

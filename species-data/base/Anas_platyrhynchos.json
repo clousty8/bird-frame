@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Anas platyrhynchos",
+ "common_name_fr": "Canard colvert",
+ "birdnet_label": "Anas platyrhynchos_Canard colvert",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Anas",
+  "species": "Anas platyrhynchos"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Canard colvert",
+   "url": "https://fr.wikipedia.org/wiki/Canard_colvert",
+   "description": "espèce d'oiseaux anseriformes de la famille des Anatidae",
+   "extract": "Le Canard colvert, col-vert, ou Canard malard au Canada, est une espèce d'oiseaux de l'ordre des Ansériformes, de la famille des Anatidae et de la sous-famille des Anatinae. C'est certainement le plus connu et reconnaissable de tous les canards, du fait de l'existence de races de canards domestiques issues de cette espèce.",
+   "fulltext_chars": 22165
+  },
+  "en": {
+   "title": "Mallard",
+   "url": "https://en.wikipedia.org/wiki/Mallard",
+   "description": "Species of duck",
+   "extract": "The mallard or wild duck is a dabbling duck that breeds throughout the temperate and subtropical Americas, Eurasia, and North Africa. It has been introduced to New Zealand, Australia, Peru, Brazil, Uruguay, Argentina, Chile, Colombia, the Falkland Islands, and South Africa. Belonging to the subfamily Anatinae of the waterfowl family Anatidae, mallards live in wetlands, eat water plants and small animals, and are social animals preferring to congregate in groups or flocks of varying sizes.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2384,
+  "height": 2384,
+  "file": "Anas_platyrhynchos_male_female_quadrat.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/1920px-Anas_platyrhynchos_male_female_quadrat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female_quadrat.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9477,
+  "cities": {
+   "Le Mans": 0.882,
+   "Pornic": 0.821,
+   "Rennes": 0.873,
+   "Poitiers": 0.796,
+   "Paris": 0.917,
+   "Lille": 0.948,
+   "Strasbourg": 0.915,
+   "Lyon": 0.73,
+   "Grenoble": 0.702,
+   "Marseille": 0.723,
+   "Toulouse": 0.698,
+   "Bordeaux": 0.726,
+   "Brest": 0.864,
+   "Ajaccio": 0.726,
+   "Clermont-Ferrand": 0.733,
+   "Chamonix": 0.726,
+   "Perpignan": 0.699,
+   "Nancy": 0.919
+  },
+  "monthly_scores": [
+   0.8126,
+   0.8272,
+   0.899,
+   0.9477,
+   0.8814,
+   0.8032,
+   0.7315,
+   0.825,
+   0.8564,
+   0.8301,
+   0.8358,
+   0.825
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:22Z"
+}

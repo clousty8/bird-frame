@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Vanellus vanellus",
+ "common_name_fr": "Vanneau huppé",
+ "birdnet_label": "Vanellus vanellus_Vanneau huppé",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Charadriidae",
+  "family_common": "Plovers and Lapwings",
+  "genus": "Vanellus",
+  "species": "Vanellus vanellus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Vanneau huppé",
+   "url": "https://fr.wikipedia.org/wiki/Vanneau_hupp%C3%A9",
+   "description": "espèce d'oiseaux charadriiformes de la famille des charadriidae",
+   "extract": "Le Vanneau huppé est une espèce d'oiseaux Charadriiformes de la famille des Charadriidae. C'est un limicole qui vit souvent en bandes, commun en Europe et dans toute l'écozone paléarctique.",
+   "fulltext_chars": 4890
+  },
+  "en": {
+   "title": "Northern lapwing",
+   "url": "https://en.wikipedia.org/wiki/Northern_lapwing",
+   "description": "Species of bird",
+   "extract": "The northern lapwing, also known as the peewit or pewit, tuit or tewit, green plover, or pyewipe or just lapwing, is a bird in the lapwing subfamily. It is common through temperate Eurosiberia.",
+   "fulltext_chars": 8181
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Kiebitz_m_Ochsenmoor_3April2022-wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1616,
+  "file": "Kiebitz_m_Ochsenmoor_3April2022-wiki.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Kiebitz_m_Ochsenmoor_3April2022-wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Hauke Roy",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Kiebitz_m_Ochsenmoor_3April2022-wiki.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.5221,
+  "cities": {
+   "Le Mans": 0.412,
+   "Pornic": 0.372,
+   "Rennes": 0.392,
+   "Poitiers": 0.352,
+   "Paris": 0.433,
+   "Lille": 0.522,
+   "Strasbourg": 0.198,
+   "Lyon": 0.192,
+   "Grenoble": 0.148,
+   "Marseille": 0.233,
+   "Toulouse": 0.271,
+   "Bordeaux": 0.3,
+   "Brest": 0.308,
+   "Ajaccio": 0.366,
+   "Clermont-Ferrand": 0.25,
+   "Chamonix": 0.114,
+   "Perpignan": 0.282,
+   "Nancy": 0.27
+  },
+  "monthly_scores": [
+   0.3707,
+   0.3702,
+   0.4483,
+   0.4634,
+   0.4389,
+   0.4331,
+   0.4438,
+   0.4983,
+   0.5197,
+   0.5221,
+   0.4125,
+   0.4102
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:05Z"
+}

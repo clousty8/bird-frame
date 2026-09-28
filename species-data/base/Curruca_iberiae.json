@@ -1,0 +1,84 @@
+{
+ "scientific_name": "Curruca iberiae",
+ "common_name_fr": "Fauvette passerinette",
+ "birdnet_label": "Curruca iberiae_Fauvette passerinette",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sylviidae",
+  "family_common": "Sylviid Warblers and Allies",
+  "genus": "Curruca",
+  "species": "Curruca iberiae"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fauvette passerinette",
+   "url": "https://fr.wikipedia.org/wiki/Fauvette_passerinette",
+   "description": null,
+   "extract": "La Fauvette passerinette est une espèce migratrice de passereaux de la famille des Sylviidae.",
+   "fulltext_chars": 3738
+  },
+  "en": {
+   "title": "Western subalpine warbler",
+   "url": "https://en.wikipedia.org/wiki/Western_subalpine_warbler",
+   "description": "Species of bird",
+   "extract": "The western subalpine warbler is a small Sylviidae warbler which breeds in the southernmost areas of Europe and north-western Africa.",
+   "fulltext_chars": 3487
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fauvette_passerinette%2C_Leukerbad%2C_Suisse_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1280,
+  "height": 856,
+  "file": "Fauvette_passerinette,_Leukerbad,_Suisse_1.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fauvette_passerinette%2C_Leukerbad%2C_Suisse_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Baptried",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Fauvette_passerinette,_Leukerbad,_Suisse_1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.115,
+  "cities": {
+   "Poitiers": 0.019,
+   "Strasbourg": 0.011,
+   "Lyon": 0.059,
+   "Grenoble": 0.06,
+   "Marseille": 0.073,
+   "Toulouse": 0.115,
+   "Bordeaux": 0.056,
+   "Ajaccio": 0.053,
+   "Clermont-Ferrand": 0.055,
+   "Chamonix": 0.031,
+   "Perpignan": 0.103,
+   "Nancy": 0.011
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0471,
+   0.115,
+   0.1137,
+   0.111,
+   0.0949,
+   0.0723,
+   0.0419,
+   0.0169,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:24Z"
+}

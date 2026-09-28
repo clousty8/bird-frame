@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Jynx torquilla",
+ "summary_fr": "Le Torcol fourmilier est un pic peu banal, au plumage cryptique gris-brun qui le fait passer pour un fragment d'écorce ou une feuille morte. Son bec court et pointu, contrairement à celui de ses cousins, ne lui permet pas de creuser sa propre cavité : il s'installe dans un ancien trou de pic, une anfractuosité de mur ou un nichoir. Inféodé aux milieux ouverts et ensoleillés, vergers, jachères, bosquets, vignes, il se nourrit presque exclusivement de fourmis, chassées au sol grâce à une langue longue et gluante capable de collecter des centaines de proies en une seule séance. Revenu d'Afrique dès avril, il se signale par un chant nasillard et insistant, seul moment où cet oiseau très discret se laisse repérer. Son nom vient d'une capacité spectaculaire : tordre le cou à près de 180 degrés et siffler comme un serpent lorsqu'il se sent menacé, un numéro qui lui valut un rôle dans les rituels de magie amoureuse de l'Antiquité. En déclin marqué depuis le XIXe siècle en Europe, il reste néanmoins largement répandu à l'échelle mondiale.",
+ "habitat": "Milieux boisés semi-ouverts, secs et ensoleillés : bosquets, prairies, jachères, vergers, vignes, oliveraies, pinèdes claires, jardins. Nécessite des zones de terre nue ou d'herbe rase riches en fourmis, ainsi que des cavités d'arbres ou des nichoirs pour nicher.",
+ "diet": "Presque exclusivement des fourmis, à tous les stades (œufs, larves, adultes), capturées au sol avec une langue longue et poisseuse. Occasionnellement pucerons, petits coléoptères, chenilles ou araignées, plus rarement baies et graines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Populations continentales en Afrique subsaharienne ; hivernage minoritaire mais régulier sur le pourtour méditerranéen, notamment en Corse et dans le sud.",
+  "niche": "Toute la France métropolitaine d'avril à juillet, avec un pic des arrivées en avril-mai.",
+  "passage": "Passages migratoires marqués en avril puis de septembre à octobre."
+ },
+ "seasonality_fr": "Présent en France surtout d'avril à septembre comme nicheur, avec des passages nets au printemps et à l'automne. Quelques hivernants localisés subsistent dans le sud, notamment en Corse et sur le littoral méditerranéen.",
+ "song_fr": "Série rapide et nasillarde de notes perçantes du type « tien-tien-tien » ou « ty-ty-ty », entrecoupées de longues pauses, émise surtout d'avril à juin. Peut se confondre avec les cris de certains rapaces ou du Pic épeichette.",
+ "lookalikes": [
+  {
+   "scientific_name": "Accipiter nisus",
+   "common_name_fr": "Épervier d'Europe",
+   "why_fr": "Ses cris aigus sont souvent cités comme source de confusion avec le chant du Torcol."
+  },
+  {
+   "scientific_name": "Falco subbuteo",
+   "common_name_fr": "Faucon hobereau",
+   "why_fr": "Cris perçants rappelant le chant du Torcol selon les guides ornithologiques."
+  },
+  {
+   "scientific_name": "Dryobates minor",
+   "common_name_fr": "Pic épeichette",
+   "why_fr": "Chant nasillard proche, confusion possible en période de nidification."
+  }
+ ],
+ "rarity_note": "Régulier mais peu commun en France, surtout en avril-mai ; hivernage rare et localisé, principalement en Corse et sur le pourtour méditerranéen. Déclin marqué depuis le XIXe siècle en Europe.",
+ "fun_facts": [
+  "Son cou extraordinairement souple peut se tordre à près de 180 degrés, d'où son nom de « torcol », littéralement « tord-cou ».",
+  "Il peut accumuler jusqu'à 150 fourmis dans son gosier avant de retourner nourrir ses jeunes au nid.",
+  "Contrairement à la plupart des pics, mâle et femelle chantent tous deux pour défendre leur territoire."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Torcol_fourmilier",
+  "https://en.wikipedia.org/wiki/Eurasian_wryneck",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

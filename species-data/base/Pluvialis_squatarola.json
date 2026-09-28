@@ -1,0 +1,94 @@
+{
+ "scientific_name": "Pluvialis squatarola",
+ "common_name_fr": "Pluvier argenté",
+ "birdnet_label": "Pluvialis squatarola_Pluvier argenté",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Charadriidae",
+  "family_common": "Plovers and Lapwings",
+  "genus": "Pluvialis",
+  "species": "Pluvialis squatarola"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pluvier argenté",
+   "url": "https://fr.wikipedia.org/wiki/Pluvier_argent%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pluvier argenté est une espèce d'oiseaux Charadriiformes de la famille des Charadriidae. C'est un limicole migrateur de taille moyenne qui peut se trouver sur tous les continents.",
+   "fulltext_chars": 17925
+  },
+  "en": {
+   "title": "Grey plover",
+   "url": "https://en.wikipedia.org/wiki/Grey_plover",
+   "description": "Species of bird",
+   "extract": "The grey plover or black-bellied plover is a large plover breeding in Arctic regions. It is a long-distance migrant, with a nearly worldwide coastal distribution when not breeding.",
+   "fulltext_chars": 5166
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pluvier_argent%C3%A9_lac_sud_de_Tunis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3293,
+  "height": 2195,
+  "file": "Pluvier_argenté_lac_sud_de_Tunis.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Pluvier_argent%C3%A9_lac_sud_de_Tunis.jpg/1920px-Pluvier_argent%C3%A9_lac_sud_de_Tunis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "El Golli Mohamed",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Pluvier_argent%C3%A9_lac_sud_de_Tunis.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2112,
+  "cities": {
+   "Le Mans": 0.119,
+   "Pornic": 0.162,
+   "Rennes": 0.151,
+   "Poitiers": 0.116,
+   "Paris": 0.1,
+   "Lille": 0.101,
+   "Strasbourg": 0.027,
+   "Lyon": 0.06,
+   "Grenoble": 0.054,
+   "Marseille": 0.076,
+   "Toulouse": 0.069,
+   "Bordeaux": 0.119,
+   "Brest": 0.166,
+   "Ajaccio": 0.211,
+   "Clermont-Ferrand": 0.081,
+   "Chamonix": 0.035,
+   "Perpignan": 0.064,
+   "Nancy": 0.043
+  },
+  "monthly_scores": [
+   0.2039,
+   0.2112,
+   0.1548,
+   0.0886,
+   0.0458,
+   0.0418,
+   0.0474,
+   0.0666,
+   0.0987,
+   0.1656,
+   0.1743,
+   0.1947
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:35Z"
+}

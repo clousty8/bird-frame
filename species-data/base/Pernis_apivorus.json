@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Pernis apivorus",
+ "common_name_fr": "Bondrée apivore",
+ "birdnet_label": "Pernis apivorus_Bondrée apivore",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Pernis",
+  "species": "Pernis apivorus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bondrée apivore",
+   "url": "https://fr.wikipedia.org/wiki/Bondr%C3%A9e_apivore",
+   "description": "espèce d'oiseaux",
+   "extract": "La Bondrée apivore est une espèce de rapaces diurnes appartenant à la famille des Accipitridae. Cette espèce protégée, insectivore et migratrice, n'est présente que durant l'été en Europe.",
+   "fulltext_chars": 14537
+  },
+  "en": {
+   "title": "European honey buzzard",
+   "url": "https://en.wikipedia.org/wiki/European_honey_buzzard",
+   "description": "Species of bird",
+   "extract": "The European honey buzzard is an insectivorous bird of prey in the family Accipitridae breeding in Europe and western Asia, and wintering in Africa.",
+   "fulltext_chars": 6079
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Wespenbussard_European_honey_buzzard_Pernis_apivorus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2000,
+  "height": 3001,
+  "file": "Wespenbussard_European_honey_buzzard_Pernis_apivorus.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Wespenbussard_European_honey_buzzard_Pernis_apivorus.jpg/1920px-Wespenbussard_European_honey_buzzard_Pernis_apivorus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Wespenbussard_European_honey_buzzard_Pernis_apivorus.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1995,
+  "cities": {
+   "Le Mans": 0.096,
+   "Pornic": 0.078,
+   "Rennes": 0.053,
+   "Poitiers": 0.132,
+   "Paris": 0.095,
+   "Lille": 0.06,
+   "Strasbourg": 0.099,
+   "Lyon": 0.17,
+   "Grenoble": 0.146,
+   "Marseille": 0.138,
+   "Toulouse": 0.157,
+   "Bordeaux": 0.145,
+   "Brest": 0.024,
+   "Ajaccio": 0.199,
+   "Clermont-Ferrand": 0.175,
+   "Chamonix": 0.129,
+   "Perpignan": 0.145,
+   "Nancy": 0.097
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0503,
+   0.1661,
+   0.1811,
+   0.1536,
+   0.1435,
+   0.1995,
+   0.1895,
+   0.0575,
+   0.0103,
+   0.0
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:07Z"
+}

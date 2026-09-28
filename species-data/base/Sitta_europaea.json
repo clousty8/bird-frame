@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Sitta europaea",
+ "common_name_fr": "Sittelle torchepot",
+ "birdnet_label": "Sitta europaea_Sittelle torchepot",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sittidae",
+  "family_common": "Nuthatches",
+  "genus": "Sitta",
+  "species": "Sitta europaea"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Sittelle torchepot",
+   "url": "https://fr.wikipedia.org/wiki/Sittelle_torchepot",
+   "description": "espèce d'oiseaux passeriformes de la famille des sittidae",
+   "extract": "La Sittelle torchepot, également appelée le pic maçon, est une espèce de passereaux de la famille des Sittidae. C'est une sittelle de taille moyenne, mesurant 14 cm de longueur. Comme les autres sittelles, c'est un oiseau trapu à la queue courte et au long bec. Les parties supérieures sont bleu-gris, les parties inférieures de couleurs très variables selon la géographie, et peuvent être blanc pur ou roux jaunâtre, avec ou sans zone pâle sur la joue. L'oiseau a également un trait oculaire noir, et présente un certain dimorphisme sexuel, le mâle ayant des couleurs plus prononcées que la femelle. C'est un oiseau bruyant, au répertoire varié, émettant divers types de chants, en vuih, vuih, vuih, vuih… et, en cas d'excitation ou d'alerte, de longues séries de cris sonores en tuit répétés rapidement. Comme les autres membres de son genre, c'est un oiseau très agile qui escalade les arbres avec facilité, descendant parfois le long des troncs d'arbres tête la première.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Eurasian nuthatch",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_nuthatch",
+   "description": "Small passerine bird species",
+   "extract": "The Eurasian nuthatch, wood nuthatch, or simply nuthatch, is a small passerine bird found throughout the Palearctic and in Europe. Like other nuthatches, it is a short-tailed bird with a long bill, blue-gray upperparts and a black eye-stripe. It is a vocal bird with a repeated loud dwip call. There are more than 20 subspecies in three main groups; birds in the west of the range have orange-buff underparts and a white throat, those in Russia have whitish underparts, and those in the east have a similar appearance to European birds, but lack the white throat.",
+   "fulltext_chars": 22289
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Sitta_europaea_-Kent%2C_England-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2028,
+  "height": 1344,
+  "file": "Sitta_europaea_-Kent,_England-8.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Sitta_europaea_-Kent%2C_England-8.jpg/1920px-Sitta_europaea_-Kent%2C_England-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Smudge 9000",
+  "credit": "Flickr: Nuthatch (Sitta europaea)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Sitta_europaea_-Kent,_England-8.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.6725,
+  "cities": {
+   "Le Mans": 0.333,
+   "Pornic": 0.257,
+   "Rennes": 0.266,
+   "Poitiers": 0.38,
+   "Paris": 0.396,
+   "Lille": 0.345,
+   "Strasbourg": 0.673,
+   "Lyon": 0.519,
+   "Grenoble": 0.465,
+   "Marseille": 0.285,
+   "Toulouse": 0.436,
+   "Bordeaux": 0.43,
+   "Brest": 0.194,
+   "Ajaccio": 0.213,
+   "Clermont-Ferrand": 0.516,
+   "Chamonix": 0.531,
+   "Perpignan": 0.298,
+   "Nancy": 0.586
+  },
+  "monthly_scores": [
+   0.6581,
+   0.6642,
+   0.6725,
+   0.5916,
+   0.4384,
+   0.4646,
+   0.5538,
+   0.6517,
+   0.6328,
+   0.6372,
+   0.6554,
+   0.6573
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:00Z"
+}

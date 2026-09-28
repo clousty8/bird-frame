@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Regulus ignicapilla",
+ "common_name_fr": "Roitelet triple-bandeau",
+ "birdnet_label": "Regulus ignicapilla_Roitelet triple-bandeau",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Regulidae",
+  "family_common": "Kinglets",
+  "genus": "Regulus",
+  "species": "Regulus ignicapilla"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Roitelet à triple bandeau",
+   "url": "https://fr.wikipedia.org/wiki/Roitelet_%C3%A0_triple_bandeau",
+   "description": "espèce d'oiseaux passériformes de la famille des regulidae",
+   "extract": "Le Roitelet triple-bandeau est une des plus petites espèces d'oiseaux d'Europe de l'ordre des passériformes. Cette espèce niche dans la plupart des forêts tempérées de l'Europe au nord-ouest de l'Afrique. Elle est partiellement migratrice et leur zone d'hivernage se situe de l'Europe centrale au sud et à l'ouest de leur aire de reproduction. Si les populations des Îles Baléares et de l'Afrique du nord sont habituellement reconnues comme une sous-espèce différente, la population de Madère est en revanche dorénavant considérée comme une espèce en tant que telle sous le nom de Regulus madeirensis. Ce roitelet est constamment en mouvement et oscille souvent à la recherche d'insectes à manger. En hiver, il forme souvent des nuées importantes avec des mésanges. Il semble légèrement en déclin, mais il n'est pas considéré comme menacé du fait de sa toujours bonne implantation dans sa vaste zone de répartition, d'autant que l'espèce a connu une expansion au cours du siècle dernier.",
+   "fulltext_chars": 5441
+  },
+  "en": {
+   "title": "Common firecrest",
+   "url": "https://en.wikipedia.org/wiki/Common_firecrest",
+   "description": "Very small passerine bird from Europe and northwest Africa",
+   "extract": "The common firecrest, also known as the firecrest, is a very small passerine bird in the kinglet family. It breeds in most of temperate Europe and northwestern Africa, and is partially migratory, with birds from central Europe wintering to the south and west of their breeding range. Firecrests in the Balearic Islands and north Africa are widely recognised as a separate subspecies, but the population on Madeira, previously also treated as a subspecies, is now treated as a distinct species, the Madeira firecrest, Regulus madeirensis. A fossil ancestor of the firecrest has been identified from a single wing bone.",
+   "fulltext_chars": 21439
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Regulus_ignicapilla_Frank_Vassen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3856,
+  "height": 2712,
+  "file": "Regulus_ignicapilla_Frank_Vassen.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Regulus_ignicapilla_Frank_Vassen.jpg/1920px-Regulus_ignicapilla_Frank_Vassen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Frank Vassen",
+  "credit": "https://www.flickr.com/photos/42244964@N03/40229840573/in/faves-herbier/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Regulus_ignicapilla_Frank_Vassen.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4751,
+  "cities": {
+   "Le Mans": 0.289,
+   "Pornic": 0.325,
+   "Rennes": 0.272,
+   "Poitiers": 0.315,
+   "Paris": 0.246,
+   "Lille": 0.152,
+   "Strasbourg": 0.155,
+   "Lyon": 0.266,
+   "Grenoble": 0.262,
+   "Marseille": 0.323,
+   "Toulouse": 0.371,
+   "Bordeaux": 0.41,
+   "Brest": 0.218,
+   "Ajaccio": 0.475,
+   "Clermont-Ferrand": 0.304,
+   "Chamonix": 0.223,
+   "Perpignan": 0.345,
+   "Nancy": 0.178
+  },
+  "monthly_scores": [
+   0.462,
+   0.4606,
+   0.4213,
+   0.3849,
+   0.3231,
+   0.2902,
+   0.2751,
+   0.2529,
+   0.2952,
+   0.3935,
+   0.453,
+   0.4751
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:22Z"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Motacilla cinerea",
+ "common_name_fr": "Bergeronnette des ruisseaux",
+ "birdnet_label": "Motacilla cinerea_Bergeronnette des ruisseaux",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Motacillidae",
+  "family_common": "Wagtails and Pipits",
+  "genus": "Motacilla",
+  "species": "Motacilla cinerea"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bergeronnette des ruisseaux",
+   "url": "https://fr.wikipedia.org/wiki/Bergeronnette_des_ruisseaux",
+   "description": "espèces d'oiseaux passeriformes de la famille des motacillidae",
+   "extract": "La Bergeronnette des ruisseaux est une espèce de passereaux appartenant à la famille des Motacillidae, qui comme son nom l'indique, vit près des cours d'eau.",
+   "fulltext_chars": 3796
+  },
+  "en": {
+   "title": "Grey wagtail",
+   "url": "https://en.wikipedia.org/wiki/Grey_wagtail",
+   "description": "Species of bird",
+   "extract": "The grey wagtail is a member of the wagtail family, Motacillidae, measuring around 18–19 cm overall length. The species looks somewhat similar to the yellow wagtail but has the yellow on its underside restricted to the throat and vent. Breeding males have a black throat. The species is widely distributed, with several populations breeding in Eurosiberia and migrating to tropical regions in Asia and Africa. The species is always associated with running water when breeding, although they may use man-made structures near streams for the nest. Outside the breeding season, they may also be seen around lakes, coasts and other watery habitats. Like other wagtails, they frequently wag their tail and fly low with undulations and they have a sharp call that is often given in flight.",
+   "fulltext_chars": 5423
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Grey_wagtail_%28Motacilla_cinerea_robusta%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 640,
+  "file": "Grey_wagtail_(Motacilla_cinerea_robusta).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Grey_wagtail_%28Motacilla_cinerea_robusta%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Lip Kee Yap",
+  "credit": "Flickr: Grey wagtail (Motacilla cinerea robusta)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Grey_wagtail_(Motacilla_cinerea_robusta).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.5009,
+  "cities": {
+   "Le Mans": 0.323,
+   "Pornic": 0.309,
+   "Rennes": 0.31,
+   "Poitiers": 0.319,
+   "Paris": 0.326,
+   "Lille": 0.289,
+   "Strasbourg": 0.283,
+   "Lyon": 0.38,
+   "Grenoble": 0.395,
+   "Marseille": 0.362,
+   "Toulouse": 0.363,
+   "Bordeaux": 0.315,
+   "Brest": 0.307,
+   "Ajaccio": 0.501,
+   "Clermont-Ferrand": 0.342,
+   "Chamonix": 0.412,
+   "Perpignan": 0.374,
+   "Nancy": 0.3
+  },
+  "monthly_scores": [
+   0.4875,
+   0.4498,
+   0.3008,
+   0.2481,
+   0.213,
+   0.221,
+   0.2368,
+   0.2572,
+   0.3113,
+   0.412,
+   0.4771,
+   0.5009
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:05Z"
+}

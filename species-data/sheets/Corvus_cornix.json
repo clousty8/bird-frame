@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Corvus cornix",
+ "summary_fr": "La Corneille mantelée se reconnaît immédiatement à son plumage bicolore : tête, gorge, ailes et queue d'un noir brillant contrastant avec un corps gris cendré strié de sombre. Ce corvidé intelligent et opportuniste se nourrit de presque tout, des mollusques qu'il brise en les lâchant sur des rochers aux œufs volés dans les terriers de macareux, en passant par les petits vertébrés, les invertébrés et les restes humains. Longtemps considérée comme une simple variante de couleur de la Corneille noire, avec laquelle elle forme des hybrides fertiles là où leurs aires se chevauchent, elle est reconnue comme espèce à part entière depuis 2002. En France, sa présence est très inégale : elle niche toute l'année en Corse, où elle reste commune, tandis qu'ailleurs sur le continent elle n'apparaît guère qu'en hiver, surtout sur le littoral atlantique et dans le nord-ouest. Son cri, un croassement sec et répété, est presque impossible à distinguer de celui de la Corneille noire à l'oreille. Monogame, elle bâtit un nid volumineux de branchages, souvent placé haut dans un arbre, où la femelle couve seule pendant que le mâle la ravitaille.",
+ "habitat": "Régions ouvertes, terres agricoles, côtes rocheuses, villes et villages ; a besoin de grands arbres pour nicher mais s'adapte des plaines aux collines.",
+ "diet": "Omnivore opportuniste : mollusques et crabes brisés en chute, œufs d'oiseaux marins, petits mammifères et oiseaux, charognes, restes humains, noix et insectes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En Corse toute l'année, et de novembre à mars sur le littoral atlantique et le nord-ouest de la France continentale ; ailleurs en Europe surtout en Scandinavie et en Russie.",
+  "niche": "Toute l'année en Corse ; hors de France, dans le nord et l'est de l'Europe (Scandinavie, Russie, Écosse, Irlande) et, pour certaines sous-espèces, jusqu'au Moyen-Orient.",
+  "passage": "Migrations visibles en mars et d'octobre à novembre, notamment sur la côte est de la Grande-Bretagne et en Scandinavie ; peu marquées en France continentale."
+ },
+ "seasonality_fr": "Présente toute l'année en Corse, où elle niche et hiverne. Ailleurs en France métropolitaine, elle n'est généralement visible qu'en hiver, de novembre à mars, sur le littoral atlantique et le nord-ouest.",
+ "song_fr": "Cri d'appel presque impossible à distinguer de celui de la Corneille noire : croassement sec et répété en « kra-kra ». Émet aussi des vocalises rauques variées lors des parades et de la défense du nid.",
+ "lookalikes": [
+  {
+   "scientific_name": "Corvus corone",
+   "common_name_fr": "Corneille noire",
+   "why_fr": "Cri d'appel quasi identique ; corps entièrement noir au lieu de gris et noir. Hybrides fertiles possibles où les aires des deux espèces se chevauchent."
+  }
+ ],
+ "rarity_note": "Population sédentaire bien implantée en Corse, où elle est commune toute l'année ; sur le continent, présence surtout hivernale, limitée au littoral atlantique et au nord-ouest.",
+ "fun_facts": [
+  "Elle casse les coquilles de mollusques en les lâchant d'une grande hauteur sur des rochers, une technique remarquable chez les oiseaux.",
+  "Réputée fidèle à son partenaire, elle est associée à la loyauté conjugale dans le folklore d'Irlande et d'Écosse.",
+  "Elle s'introduit dans les terriers des macareux moines pour y dérober leurs œufs."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Corneille_mantel%C3%A9e",
+  "https://en.wikipedia.org/wiki/Hooded_crow",
+  "https://oiseaux.net/corvus_cornix.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

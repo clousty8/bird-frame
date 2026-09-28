@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Emberiza hortulana",
+ "summary_fr": "Petit bruant au plumage discret, le Bruant ortolan habite les paysages semi-ouverts d'Eurasie occidentale. Long-courrier remarquable, il bascule chaque année entre ses terres de reproduction du centre et du sud de la France (et toute l'Europe) et les savanes du Sahel, parcourant plus de 7000 km. Autrefois connu comme mets de luxe, capturé par milliers à l'automne, il a vu ses populations s'effondrer dramatiquement : depuis 1999, la loi française l'interdit à la chasse, mais l'intensification agricole, l'étalement urbain et le braconnage persistent le font décliner. La population française, estimée à 5000-8000 couples aujourd'hui, a diminué de 68 % en deux décennies. Les males défendent farouchement leur territoire au printemps avec un chant caractéristique, parfois imité par d'autres bruits. Une espèce en danger aujourd'hui, emblématique des menaces pesant sur les oiseaux des champs.",
+ "habitat": "Paysages semi-ouverts et mosaïques agricoles : cultures extensives, vignobles, prairies, vergers parsemés de perchoirs. Préfère les zones rocheuses ou riches en fourrés et haies, jusqu'à 2000 m d'altitude. Hiverne en savanes tropicales d'Afrique.",
+ "diet": "Graines de préférence ; insectes et petits invertébrés en période de reproduction, notamment fourmis et sauterelles.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Sahel et savanes d'Afrique de l'Ouest et centrale, du Sénégal à l'Éthiopie.",
+  "niche": "Centre et sud de la France (surtout Midi), avril à juillet ; populations résidentes complétées par nicheurs d'Europe du Nord.",
+  "passage": "Passages printemps (avril-mai) et automne marqués (juillet-septembre), pics en août."
+ },
+ "seasonality_fr": "Visible surtout lors des passages migratoires (avril-mai et août-septembre). Nicheurs de France sont sédentaires l'hiver sur place ou légèrement mobiles ; rares observations en hiver au nord du sud-ouest.",
+ "song_fr": "Phrase courte caractéristique : 5 à 6 notes descendants, transcrite « swee-swee-swee,dee-dee ». Appels aigus en vol, « tsleeu » ou « chu ». Capable d'imiter d'autres espèces et des dialectes régionaux.",
+ "lookalikes": [
+  {
+   "scientific_name": "Emberiza citrinella",
+   "common_name_fr": "Bruant jaune",
+   "why_fr": "Chant ressemblant, même contexte écologique en migration printanière ; plus jaune et plus contrasté."
+  },
+  {
+   "scientific_name": "Emberiza cirlus",
+   "common_name_fr": "Bruant zizi",
+   "why_fr": "Confusion acoustique possible en période de passage, chants rapides et peu mélodieux."
+  },
+  {
+   "scientific_name": "Emberiza schoeniclus",
+   "common_name_fr": "Bruant des roseaux",
+   "why_fr": "Appels de vol similaires ; habitat plus aquatique mais peut se rencontrer en passage."
+  }
+ ],
+ "rarity_note": "Passage migrant peu commun en France. Commun seulement dans le Midi lors des pics migratoires (août). Espèce en danger en France métropolitaine ; population stable seulement dans quelques hotspots méditerranéens.",
+ "fun_facts": [
+  "Autrefois servi en gastronomie française (étouffé à l'armagnac selon la tradition aquitaine), il était consommé par les palais royaux au XVIIIe siècle ; aujourd'hui totalement protégé.",
+  "Les populations ont décliné de 20-30 % en 15 ans (2000-2014) à cause du braconnage illégal lors de la migration : jusqu'à 30000 oiseaux tués par an en France.",
+  "Chaque population régionale développe des dialectes vocaux distincts, visibles dans les zones baltes et fennoscandinavie : une diversité génétique menacée par le déclin."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bruant_ortolan",
+  "https://en.wikipedia.org/wiki/Ortolan_bunting",
+  "https://www.oiseaux.net/oiseaux/bruant.ortolan.html",
+  "https://www.lpo.fr/",
+  "https://www.uicn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Cettia cetti",
+ "common_name_fr": "Bouscarle de Cetti",
+ "birdnet_label": "Cettia cetti_Bouscarle de Cetti",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Scotocercidae",
+  "family_common": "Bush Warblers and Allies",
+  "genus": "Cettia",
+  "species": "Cettia cetti"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bouscarle de Cetti",
+   "url": "https://fr.wikipedia.org/wiki/Bouscarle_de_Cetti",
+   "description": "espèce d'oiseaux passériformes de la famille des cettiidae",
+   "extract": "La Bouscarle de Cetti est une espèce de passereaux de la famille des Cettiidae.",
+   "fulltext_chars": 6398
+  },
+  "en": {
+   "title": "Cetti's warbler",
+   "url": "https://en.wikipedia.org/wiki/Cetti's_warbler",
+   "description": "Species of bird",
+   "extract": "Cetti's warbler is a small, brown warbler in the family Cettiidae, which breeds in southern and western Europe, northwest Africa and the east Palearctic as far as Afghanistan and northwest Pakistan. The sexes are alike. The bird is named after the 18th-century Italian zoologist, Francesco Cetti. This species is often difficult to see because of its skulking habits.",
+   "fulltext_chars": 5422
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/73/37-090505-cettis-warbler-at-Kalloni-east-river.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2000,
+  "height": 1334,
+  "file": "37-090505-cettis-warbler-at-Kalloni-east-river.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/37-090505-cettis-warbler-at-Kalloni-east-river.jpg/1920px-37-090505-cettis-warbler-at-Kalloni-east-river.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "author": "Mark S Jobling",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:37-090505-cettis-warbler-at-Kalloni-east-river.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.5718,
+  "cities": {
+   "Le Mans": 0.37,
+   "Pornic": 0.467,
+   "Rennes": 0.442,
+   "Poitiers": 0.359,
+   "Paris": 0.265,
+   "Lille": 0.23,
+   "Strasbourg": 0.066,
+   "Lyon": 0.182,
+   "Grenoble": 0.181,
+   "Marseille": 0.36,
+   "Toulouse": 0.355,
+   "Bordeaux": 0.365,
+   "Brest": 0.42,
+   "Ajaccio": 0.572,
+   "Clermont-Ferrand": 0.229,
+   "Chamonix": 0.127,
+   "Perpignan": 0.405,
+   "Nancy": 0.1
+  },
+  "monthly_scores": [
+   0.5681,
+   0.5314,
+   0.5546,
+   0.5496,
+   0.4015,
+   0.3363,
+   0.2869,
+   0.3519,
+   0.465,
+   0.536,
+   0.5455,
+   0.5718
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:01Z"
+}

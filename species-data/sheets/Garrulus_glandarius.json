@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Garrulus glandarius",
+ "summary_fr": "Le Geai des chênes est un passereaux coloré, facile à reconnaître avec son plumage rosé, ses ailes bleu vif et sa calotte rayée noir et blanc hérissable. Cet oiseau bruyant et bagarreur est un pilier des forêts et jardins européens, où son appétit pour les glands en fait le premier reboiseur naturel de chênes du continent. Omnivore et prédateur d'autres petits oiseaux au printemps, il stocke sa nourriture avec une mémoire remarquable, retrouvant ses caches grâce à des repères visuels ou même des cailloux qu'il dispose lui-même. Très territorial toute l'année, il défend son domaine avec agressivité, produisant des cris variés et rauques, mais capable aussi d'imiter remarquablement d'autres espèces. Généralement sédentaire en France, il devient migrateur partiel durant les hivers rigoureux.",
+ "habitat": "Bocages, forêts de feuillus et conifères, parcs et jardins arborés, du littoral à la montagne. Peut vivre en zone urbaine mais préfère les milieux boisés.",
+ "diet": "Omnivore : glands (stockés pour l'hiver), noix, châtaignes et autres graines ; insectes, vers de terre et larves en toute saison ; prédateur opportuniste d'œufs et d'oisillons d'autres oiseaux au printemps.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France où les geais sédentaires sont présents toute l'année, même l'hiver.",
+  "niche": "Toute la France, avril à juin, généralement une seule nichée annuelle dans un arbre ou un buisson.",
+  "passage": "Migrations marquées de septembre à octobre (départ vers le sud et l'ouest lors d'hivers rigoureux) et de mars à juin (retour vers le nord)."
+ },
+ "seasonality_fr": "Visible et audible toute l'année en France. Plus discrets en été durant la reproduction, particulièrement bruyants et actifs à l'automne (récolte des glands) et en hiver. Silhouette reconnaissable même de loin.",
+ "song_fr": "Cris rauques, brefs, forts et stridents : « raac, raac, raac ». Vocalisation très variée incluant gloussements, sifflements et miaulements. Excellent imitateur capable de reproduire les cris d'autres oiseaux et même de mammifères. Chant plus mélodieux au printemps lors de la reproduction.",
+ "lookalikes": [
+  {
+   "scientific_name": "Pica pica",
+   "common_name_fr": "Pie bavarde",
+   "why_fr": "Même famille des Corvidae, cris rauques et bruyants similaires, mais silhouette plus allongée."
+  },
+  {
+   "scientific_name": "Corvus corone",
+   "common_name_fr": "Corneille noire",
+   "why_fr": "Corvidae avec vocalisations fortes et variées, mais plus grande et plumage entièrement noir."
+  },
+  {
+   "scientific_name": "Nucifraga caryocatactes",
+   "common_name_fr": "Cassenoix moucheté",
+   "why_fr": "Même famille Corvidae, taille comparable, cris aigus répétés et variés, plumage moins coloré."
+  }
+ ],
+ "rarity_note": "Commune et régulière dans toute la France, toute l'année. Populations stables, parfois abondante en automne lors de la fructification des chênes.",
+ "fun_facts": [
+  "Un seul Geai enfouit environ 4600 glands par an, faisant de cette espèce le premier reboiseur naturel de chênes en Europe.",
+  "Il peut retrouver ses caches cachées grâce à sa mémoire remarquable des points de repère, et même place de petits cailloux pour marquer ses réserves.",
+  "Surnommé « sentinelle de la forêt » pour ses cris d'alerte stridents qui aversissent aussi les autres animaux (écureuils, renards) de la présence de prédateurs."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Geai_des_chênes",
+  "https://en.wikipedia.org/wiki/Eurasian_jay",
+  "https://oiseaux.net/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

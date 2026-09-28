@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Pyrrhocorax graculus",
+ "summary_fr": "Le Chocard à bec jaune est un passereau de montagne au plumage noir brillant, reconnaissable à son bec jaune et ses pattes rouges. Habitant les sommets les plus élevés d'Europe, d'Asie du Moyen-Orient et de l'Himalaya, il est un acrobate du ciel qui maîtrise avec virtuosité les courants d'air ascendants. Vivant en bandes souvent bruyantes, il se nourrit d'insectes en été et de baies en hiver, n'hésitant pas à s'approcher des refuges et bivouacs des alpinistes pour quémander de la nourriture. Bien que mondialement répandu dans ses biotopes alpins, cette espèce reste rare en France, confinée aux plus hauts massifs. Malgré les menaces du changement climatique qui repoussent progressivement son habitat alpin vers des altitudes plus élevées, l'espèce n'est pas menacée à l'échelle mondiale.",
+ "habitat": "Haute montagne jusqu'à 4000 m d'altitude, falaises, éboulis rocheux et prairies alpines pâturées.",
+ "diet": "Omnivore : insectes et invertébrés en été, baies, graines, charogne, et restes de nourriture humaine.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Hivers dans les chaînes montagneuses de toute son aire, y compris à haute altitude en France (Alpes, Pyrénées).",
+  "niche": "Niche en haute montagne, d'avril à juillet, généralement deux portées, dans les cavités et anfractuosités de falaises.",
+  "passage": "Passages migratoires en mars et d'octobre à novembre, certaines populations hivernant ou restant sédentaires."
+ },
+ "seasonality_fr": "Visible et audible toute l'année dans les hautes montagnes, particulièrement en été quand l'accessibilité des sommets s'améliore.",
+ "song_fr": "Appels vocaux distinctifs et facilement reconnaissables, cris rauques caractéristiques du genre Pyrrhocorax, souvent émis en vol acrobatique.",
+ "lookalikes": [
+  {
+   "scientific_name": "Pyrrhocorax pyrrhocorax",
+   "common_name_fr": "Crave à bec rouge",
+   "why_fr": "Très proche génétiquement, plumage entièrement noir similaire, mais bec et pattes rouges, cris et appels facilement confondus."
+  },
+  {
+   "scientific_name": "Corvus monedula",
+   "common_name_fr": "Choucas des tours",
+   "why_fr": "Même taille et poids, plumage noir, mais bec noir et pattes noires (jaunes et rouges chez le chocard), très souvent confondu en montagne."
+  }
+ ],
+ "rarity_note": "Rare en France, confiné aux plus hauts massifs montagneux (Alpes, Pyrénées, Corse) où il est peu fréquent même en habitat favorable.",
+ "fun_facts": [
+  "C'est un acrobate aérien impressionnant qui peut nicher à plus haute altitude que tout autre oiseau, excepté l'Oiseau du ciel du Tibet.",
+  "Il s'approche volontiers des alpinistes et des refuges montagnards pour voler restes et provisions, d'où son surnom d'« oiseau des alpinistes ».",
+  "Son nom scientifique Pyrrhocorax provient du grec pyrros (rouge de feu) et corax (corbeau), mais le chocard à bec jaune a le bec jaune et l'apparenté crave à bec rouge le bec rouge."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Chocard_%C3%A0_bec_jaune",
+  "https://en.wikipedia.org/wiki/Alpine_chough",
+  "https://www.oiseaux.net/oiseaux/chocard.a.bec.jaune.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

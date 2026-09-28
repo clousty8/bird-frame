@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Ichthyaetus audouinii",
+ "summary_fr": "Goéland de taille moyenne au bec rouge trapu, le Goéland d'Audouin se distingue par une spécialisation stricte : contrairement à la plupart de ses cousins, il boude les décharges et reste un pêcheur pur, capturant poissons et céphalopodes en mer, parfois de nuit au large. Longtemps compté parmi les goélands les plus menacés du monde, avec à peine un millier de couples dans les années 1960, il s'est depuis reconstitué grâce à une protection stricte, même si la concurrence du Goéland leucophée et les prises accidentelles continuent de peser sur ses colonies, ce qui lui vaut toujours le statut vulnérable à l'échelle mondiale. Restreint à la Méditerranée et aux côtes atlantiques ibéro-marocaines, il se reproduit en colonies denses sur de petits îlots rocheux, avec ses bastions en Espagne et en Italie. En France, il ne niche qu'en Corse, essentiellement sur la digue d'Aspretto près d'Ajaccio, où une cinquantaine à une centaine de couples s'installent chaque printemps. La majorité repart dès la fin de l'été hiverner au Maroc, en Mauritanie et jusqu'au Sénégal pour les jeunes oiseaux, mais quelques individus, souvent non reproducteurs, peuvent s'attarder sur le littoral méditerranéen le reste de l'année.",
+ "habitat": "Mers côtières et zones pélagiques ; se reproduit en colonies denses sur de petits îlots rocheux, essentiellement en Méditerranée occidentale et sur les côtes atlantiques ibéro-marocaines.",
+ "diet": "Poissons et céphalopodes capturés en mer, parfois de nuit au large ; contrairement à la plupart des goélands, ne fréquente jamais les décharges et ne consomme quasiment aucune charogne.",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Surtout au Maroc, en Mauritanie et jusqu'au Sénégal pour les jeunes oiseaux ; certains adultes en Espagne et au Portugal ; de rares individus, souvent non reproducteurs, restent l'hiver sur le littoral méditerranéen français.",
+  "niche": "Uniquement en Corse, d'avril à juillet, presque exclusivement sur la digue d'Aspretto près d'Ajaccio ; nidification exceptionnelle au banc d'Arguin (Gironde) de 2021 à 2023.",
+  "passage": "Retour vers les colonies en mars-avril, départ vers l'Afrique en août-septembre ; dispersion postnuptiale et individus erratiques signalés sur le littoral méditerranéen en dehors de ces périodes."
+ },
+ "seasonality_fr": "Surtout présent en Méditerranée d'avril à septembre autour de la colonie corse ; quelques individus, souvent non reproducteurs, peuvent être aperçus sur le littoral le reste de l'année.",
+ "song_fr": "Cri de contact aigu et nasillard, kiah ou kiu-u, plus grinçant que rauque ; cris d'alarme stridents en colonie, moins profonds que ceux des autres grands goélands.",
+ "lookalikes": [
+  {
+   "scientific_name": "Larus argentatus",
+   "common_name_fr": "Goéland argenté",
+   "why_fr": "Taille et silhouette proches ; cris moins nasillards et plus graves que ceux du Goéland d'Audouin."
+  },
+  {
+   "scientific_name": "Larus michahellis",
+   "common_name_fr": "Goéland leucophée",
+   "why_fr": "Sympatrique en Méditerranée et concurrent direct sur les sites de nidification ; cris plus rauques et hurlants."
+  },
+  {
+   "scientific_name": "Larus marinus",
+   "common_name_fr": "Goéland marin",
+   "why_fr": "Plus grand mais appels de base graves proches ; confusion acoustique moins probable en pratique."
+  }
+ ],
+ "rarity_note": "Très localisé en France : seule la Corse (Aspretto) l'accueille en nidification, avec de rares cas exceptionnels ailleurs ; espèce vulnérable à l'échelle mondiale mais en légère augmentation.",
+ "fun_facts": [
+  "Contrairement à ses cousins charognards, il boude les décharges et ne mange que du poisson frais pêché en mer, parfois en suivant les chalutiers.",
+  "Sa colonie d'Aspretto, sur une base militaire près d'Ajaccio, abrite à elle seule l'essentiel des effectifs français.",
+  "Un couple a niché trois années de suite, de 2021 à 2023, au banc d'Arguin en Gironde, un événement exceptionnel suivi de près par les scientifiques."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Go%C3%A9land_d'Audouin",
+  "https://en.wikipedia.org/wiki/Audouin's_gull",
+  "https://oiseaux.net/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T21:30:00Z",
+ "generator_model": "claude-sonnet-5"
+}

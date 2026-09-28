@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Asio otus",
+ "summary_fr": "Le Hibou moyen-duc est une chouette de taille moyenne reconnaissable à ses deux grandes aigrettes dressées sur la tête — bien que ce ne soient pas des oreilles mais des touffes de plumes. Espèce holarctique aux yeux jaune-orangé, il chasse principalement les petits rongeurs à la tombée de la nuit, en se fondant dans les arbres grâce à son plumage couleur d'écorce. Largement distribué en Europe et en Asie, il fréquente les sous-bois, les bosquets et les parcs de conifères. En France, les populations sont sédentaires ou migratrices selon leur provenance, avec des passages marqués au printemps et en automne. Mâle et femelle réoccupent chaque année les anciens nids abandonnés par d'autres espèces, où la femelle élève généralement quatre à six poussins.",
+ "habitat": "Sous-bois, bosquets dispersés dans les campagnes, forêts de conifères et parcs arborés. Choisit un ancien nid abandonné par un rapace, une pie ou une corneille.",
+ "diet": "Petits mammifères : campagnols (78 %), mulots (15 %) et autres rongeurs. Occasionnellement petits oiseaux comme les moineaux et pinsons, ainsi que reptiles, poissons et insectes coléoptères.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France, où les nicheurs locaux sédentaires sont rejoints par des migrateurs venus du nord et de l'est de l'Europe.",
+  "niche": "Partout en France métropolitaine sauf Corse, Sud-Ouest et certaines zones de l'Ouest. Reproduction en mars-avril avec une couvée par saison.",
+  "passage": "Passages migratoires marqués en mars et d'octobre à novembre."
+ },
+ "seasonality_fr": "Visible et audible toute l'année en France, principalement en automne et hiver avec l'arrivée des migrateurs du nord. Chants nuptiaux plus actifs en février-mars.",
+ "song_fr": "Chant caractéristique « hou hou hou hou » grave et lointain, répété à intervalles réguliers. Femelle produit une version plus faible et plus aiguë. Cri d'alarme « wupp wupp » et divers miaulements ressemblant à ceux d'un chat.",
+ "lookalikes": [
+  {
+   "scientific_name": "Asio flammeus",
+   "common_name_fr": "Hibou des marais",
+   "why_fr": "Confusions acoustiques possibles ; ressemblance morphologique mais habitats différents (marais plutôt que bois)."
+  },
+  {
+   "scientific_name": "Strix aluco",
+   "common_name_fr": "Chouette hulotte",
+   "why_fr": "Deux espèces nocturnes sympatriques ; chants distincts mais confusion possible en mauvaises conditions."
+  },
+  {
+   "scientific_name": "Bubo bubo",
+   "common_name_fr": "Grand-duc d'Europe",
+   "why_fr": "Grand-duc plus gros avec voix plus puissante et appels très différents."
+  }
+ ],
+ "rarity_note": "Peu commun en France (score 0,20), sauf en Corse où il est plus régulier. Rares à Le Mans et Pornic.",
+ "fun_facts": [
+  "Le Hibou moyen-duc possède des oreilles internes très asymétriques qui lui permettent d'entendre jusqu'à dix fois mieux que l'homme et de localiser une proie dans l'obscurité totale par le son seul.",
+  "Contrairement à beaucoup de chouettes, le Hibou moyen-duc est partiellement migrateur et participe à des rassemblements dortoirs réguliers où plusieurs individus se reposent ensemble dans un même bosquet."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Hibou_moyen-duc",
+  "https://en.wikipedia.org/wiki/Long-eared_owl",
+  "https://www.oiseaux.net/oiseaux/hibou.moyen.duc.html",
+  "https://www.lpo.fr/la-lpo/qui-sommes-nous"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

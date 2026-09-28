@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Acrocephalus schoenobaenus",
+ "summary_fr": "Le Phragmite des joncs est une petite fauvette migratrice de la famille des Acrocephalidae, reconnaissable à son sourcil pâle bien marqué et à son dos strié de brun et d'olive. Cet insectivore de 13 cm à peine passe l'hiver en Afrique subsaharienne, du Sénégal à l'Éthiopie, avant de traverser le Sahara au printemps et de revenir nicher en Europe d'avril à juillet. Contrairement à la plupart des fauvettes aquatiques, il ne se cantonne pas aux abords de l'eau : il colonise aussi les haies, les champs de céréales et les fourrés loin des zones humides. Son chant, rapide et chaotique, mêle sifflements, gazouillis et imitations d'autres espèces, et résonne depuis les roseaux ou les buissons ; il s'accompagne parfois d'un étonnant vol de parade où le mâle redescend en douceur, ailes déployées en V, comme un petit parachute. Actif surtout au crépuscule et à l'aube, il chasse les insectes dans la végétation basse grâce à des techniques de vol spécialisées, entre saisie au vol et bonds sur les proies.",
+ "habitat": "Roselières, marais, saulaies et jonçaies ; dépasse régulièrement les zones humides pour coloniser les buissons denses, haies, champs de céréales et fossés.",
+ "diet": "Insectes (éphémères, libellules, demoiselles, sauterelles, mouches, moustiques, papillons) ; baies en migration et en hivernage.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne, du Sénégal à l'Éthiopie, jusqu'en Afrique australe.",
+  "niche": "Partout en France, niche d'avril à juillet ; peut élever deux nichées.",
+  "passage": "Passages migratoires marqués : arrivée en mars-avril, départ en août-septembre ; traverse le Sahara en quelques jours après préparation alimentaire."
+ },
+ "seasonality_fr": "Présent en France d'avril à septembre, pics au printemps et en fin d'été. Rare en hiver en France métropolitaine, mais quelques hivernants observés occasionnellement.",
+ "song_fr": "Chant rapide, chaotique et varié : « tchrrr » sec et rapeux, « tsèc » incisif, mélange de sifflements, gazouillis, notes sèches, trilles et imitations d'autres espèces, jamais identique d'une fois à l'autre.",
+ "lookalikes": [
+  {
+   "scientific_name": "Acrocephalus scirpaceus",
+   "common_name_fr": "Rousserolle effarvatte",
+   "why_fr": "Allure semblable, chant rapide comparable, milieu similaire mais présente plus tard (mai-août)."
+  },
+  {
+   "scientific_name": "Acrocephalus palustris",
+   "common_name_fr": "Rousserolle verderolle",
+   "why_fr": "Petite taille proche, chant rapide migrateur, bien que plus discret que le Phragmite."
+  },
+  {
+   "scientific_name": "Acrocephalus melanopogon",
+   "common_name_fr": "Lusciniole à moustaches",
+   "why_fr": "Même famille, chant rapide et entrain semblable, mais plumage plus contrasté."
+  }
+ ],
+ "rarity_note": "Régulier en migration, reproduction locale commune dans les zones humides du nord et du centre-ouest. Détection plausible en France hors hivernage.",
+ "fun_facts": [
+  "Les mâles ayant le répertoire chansonnier le plus large se reproduisent avec plus de femelles : le succès reproducteur dépend de la richesse vocale.",
+  "En migration pré-saharienne, des oiseaux parcourent des centaines de kilomètres en quelques jours pour accumuler les réserves lipidiques : les plus lourds franchissent le Sahara sans escale, d'Afrique à la Grande-Bretagne.",
+  "Son vol de parade est spectaculaire : l'oiseau s'envole, monte à 2-5 mètres en chantant, puis redescend lentement ailes en V, comme un parachute."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Phragmite_des_joncs",
+  "https://en.wikipedia.org/wiki/Sedge_warbler",
+  "https://www.oiseaux.net/oiseaux/phragmite.des.joncs.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4556"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

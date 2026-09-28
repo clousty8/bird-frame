@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Strix uralensis",
+ "common_name_fr": "Chouette de l'Oural",
+ "birdnet_label": "Strix uralensis_Chouette de l'Oural",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Strigiformes",
+  "family": "Strigidae",
+  "family_common": "Owls",
+  "genus": "Strix",
+  "species": "Strix uralensis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Chouette de l'Oural",
+   "url": "https://fr.wikipedia.org/wiki/Chouette_de_l'Oural",
+   "description": "espèce d'oiseaux",
+   "extract": "La Chouette de l'Oural est une espèce de rapaces de la famille des Strigidae. Cet oiseau de proie nocturne peut être confondu avec la Chouette hulotte. Elle se rencontre en Europe de l'Est, en Scandinavie et dans les Balkans, ainsi qu'en Sibérie. Elle apprécie les forêts profondes. L'espèce n'est pas menacée.",
+   "fulltext_chars": 6653
+  },
+  "en": {
+   "title": "Ural owl",
+   "url": "https://en.wikipedia.org/wiki/Ural_owl",
+   "description": "Species of owl",
+   "extract": "The Ural owl is a large nocturnal owl. It is a member of the true owl family, Strigidae. The Ural owl is a member of the genus Strix, that is also the origin of the family's name under Linnaean taxonomy. Both its common name and scientific name refer to the Ural Mountains of Russia where the type specimen was collected. However, this species has an extremely broad distribution that extends as far west as much of Scandinavia, montane eastern Europe, and, sporadically, central Europe, thence sweeping across the Palearctic broadly through Russia to as far east as Sakhalin and throughout Japan. The Ural owl may include up to 15 subspecies, but most likely the number may be slightly fewer if accounting for clinal variations.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Strix_uralensis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2848,
+  "height": 3798,
+  "file": "Strix_uralensis.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Strix_uralensis.jpg/1920px-Strix_uralensis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Hans Hillewaert",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Strix_uralensis.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0195,
+  "cities": {
+   "Ajaccio": 0.02
+  },
+  "monthly_scores": [
+   0.0148,
+   0.0195,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0129,
+   0.0141
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:25Z"
+}

@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Eremophila alpestris",
+ "common_name_fr": "Alouette hausse-col",
+ "birdnet_label": "Eremophila alpestris_Alouette hausse-col",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Alaudidae",
+  "family_common": "Larks",
+  "genus": "Eremophila",
+  "species": "Eremophila alpestris"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Alouette hausse-col",
+   "url": "https://fr.wikipedia.org/wiki/Alouette_hausse-col",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Alouette hausse-col est une espèce d'oiseaux. Comme toutes les alouettes elle appartient à la famille des Alaudidae.",
+   "fulltext_chars": 3699
+  },
+  "en": {
+   "title": "Horned lark",
+   "url": "https://en.wikipedia.org/wiki/Horned_lark",
+   "description": "Species of bird",
+   "extract": "The horned lark or shore lark is a species of lark in the family Alaudidae found across the northern hemisphere. It is known as \"horned lark\" in North America for distinctive feathers on the heads of the male birds in summer, and as \"shore lark\" in Europe because it can be found on shorelines in the winter.",
+   "fulltext_chars": 7893
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Eremophila_alpestris2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 600,
+  "height": 400,
+  "file": "Eremophila_alpestris2.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Eremophila_alpestris2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5 se",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5/se/deed.en",
+  "author": "Daniel Pettersson",
+  "credit": "http://www.fagelfoto.se",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Eremophila_alpestris2.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0298,
+  "cities": {
+   "Ajaccio": 0.03
+  },
+  "monthly_scores": [
+   0.0216,
+   0.0253,
+   0.0298,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0149,
+   0.0227,
+   0.0225
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:05Z"
+}

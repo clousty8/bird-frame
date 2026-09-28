@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Upupa epops",
+ "summary_fr": "La Huppe fasciée est un oiseau spectaculaire et reconnaissable : plumage fauve orangé barré de noir et blanc sur les ailes et la queue, long bec fin et recourbé, et huppe érectile terminée de noir qu'elle déploie en éventail au sol ou quand elle s'alarme. Insectivore, elle chasse en marchant, sondant l'herbe rase et les écorces à la recherche de scarabées, grillons, courtilières et chenilles. Peu farouche mais solitaire et territoriale, elle vole par saccades ondulantes qui évoquent un immense papillon. Son chant, un « oup-oup-oup » grave et sourd répété par le mâle, a donné son nom à l'espèce dans de nombreuses langues européennes. Elle niche dans une cavité, vieil arbre, mur ou nichoir, où la femelle couveuse et les jeunes sécrètent une substance nauséabonde qui décourage les prédateurs. En France, la majorité des oiseaux reviennent au printemps pour se reproduire et repartent vers l'Afrique subsaharienne en fin d'été, certains hivernant localement. Ses populations, en déclin marqué depuis 1950 au nord et à l'ouest du pays, restent plus solides vers le sud et l'est. Protégée depuis 1981, elle demeure menacée par la disparition des vieux arbres à cavités et par la raréfaction des insectes due aux pesticides.",
+ "habitat": "Zones ouvertes de terre nue ou d'herbe rase pour se nourrir, à proximité de cavités de nidification : bois clairs, vergers, jardins, vignes et bocage, du littoral à moyenne montagne.",
+ "diet": "Essentiellement insectivore : scarabées, grillons, fourmis, courtilières, chenilles et sauterelles, capturés au sol en sondant l'herbe et les écorces avec son long bec recourbé ; parfois limaces et petits invertébrés.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Majorité des oiseaux en Afrique subsaharienne (Sahel) ; hivernage en France rare et localisé, surtout dans le Midi et sur le littoral.",
+  "niche": "Dans une grande partie de la France d'avril à juillet, dans les zones ouvertes pourvues de cavités.",
+  "passage": "Retour de printemps de fin février à mai, plus tardif au nord ; départs vers l'Afrique en août-septembre."
+ },
+ "seasonality_fr": "Présente surtout d'avril à septembre, avec un pic en avril-mai à l'arrivée des nicheurs ; quelques individus restent localement toute l'année.",
+ "song_fr": "Chant grave et sourd, trisyllabique, « oup-oup-oup » ou « houp-houp-houp », répété à intervalles réguliers par le mâle ; cris d'alarme rauques et croassants.",
+ "lookalikes": [
+  {
+   "scientific_name": "Streptopelia decaocto",
+   "common_name_fr": "Tourterelle turque",
+   "why_fr": "Roucoulement trisyllabique de rythme proche, pouvant se confondre à faible qualité d'enregistrement."
+  },
+  {
+   "scientific_name": "Cuculus canorus",
+   "common_name_fr": "Coucou gris",
+   "why_fr": "Hululement grave et régulier de tessiture voisine, surtout de loin."
+  },
+  {
+   "scientific_name": "Columba palumbus",
+   "common_name_fr": "Pigeon ramier",
+   "why_fr": "Roucoulement sourd et répétitif pouvant rappeler le rythme du chant de la huppe."
+  }
+ ],
+ "rarity_note": "Peu commune en France, plus présente au sud et à l'est ; en déclin marqué depuis 1950 au nord de la Loire et sur la façade atlantique.",
+ "fun_facts": [
+  "Les adultes nicheurs et les jeunes sécrètent, via une glande à la base de la queue, un liquide nauséabond qui repousse prédateurs et parasites.",
+  "Choisie oiseau national d'Israël en 2008, elle est aussi la messagère du roi Salomon dans le Coran.",
+  "Son vol saccadé et ondulant, comme celui d'un papillon géant, la rend reconnaissable même de loin."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Huppe_fasci%C3%A9e",
+  "https://en.wikipedia.org/wiki/Eurasian_hoopoe"
+ ],
+ "generated_at": "2026-09-27T22:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

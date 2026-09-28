@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Rallus aquaticus",
+ "summary_fr": "Le Râle d'eau est un habitant discret des roselières, que l'on entend bien plus souvent qu'on ne le voit. Son corps aplati latéralement lui permet de se faufiler entre les tiges denses, où ses parties inférieures gris ardoise, ses flancs barrés de noir et blanc et son long bec rougeâtre passent inaperçus dans la pénombre végétale. Territorial toute l'année, il défend farouchement son territoire et n'hésite pas à charger les intrus, y compris d'autres rallidés. Son cri est resté célèbre pour sa ressemblance avec le couinement d'un porcelet : une série de grognements suivie d'un couinement aigu, entendue surtout à l'aube et au crépuscule. Omnivore opportuniste, il capture sangsues, vers, mollusques et insectes dans la vase, complétant son régime de graines et de baies en hiver. Les populations du nord et de l'est de l'Europe migrent vers des climats plus doux, tandis qu'en France l'espèce reste largement présente toute l'année, ses effectifs se renforçant à l'automne avec l'arrivée d'oiseaux venus d'ailleurs. Malgré son allure furtive, il figure parmi les rallidés les plus largement répandus des zones humides tempérées d'Europe, d'Asie et d'Afrique du Nord.",
+ "habitat": "Roselières et zones marécageuses à végétation haute et dense, eaux stagnantes peu profondes, marais d'eau douce ou saumâtre, parfois carrières inondées ou tourbières.",
+ "diet": "Omnivore à dominante animale : sangsues, vers, mollusques, petits crustacés, araignées, insectes aquatiques et terrestres, parfois petits vertébrés ; graines, baies et pousses en automne et hiver.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Toute la France, avec un report vers les côtes et le sud en cas d'hiver rigoureux ; parfois jusqu'en Afrique du Nord.",
+  "niche": "Dans les roselières partout en France, d'avril à juillet, souvent deux nichées par saison.",
+  "passage": "Passages surtout en septembre-octobre vers le sud, retour vers les sites de reproduction en mars-avril."
+ },
+ "seasonality_fr": "Présent toute l'année en France, avec un renfort hivernal d'oiseaux venus du nord de l'Europe. S'entend surtout à l'aube et au crépuscule, davantage en période de reproduction.",
+ "song_fr": "Série de grognements suivie d'un couinement aigu façon porcelet, puis de nouveaux grognements ; aussi des ick-ick-ick, pitt ou tick espacés ; le couple chante souvent en alternance.",
+ "lookalikes": [
+  {
+   "scientific_name": "Porzana porzana",
+   "common_name_fr": "Marouette ponctuée",
+   "why_fr": "Autre petit rallidé des roselières aux cris ick similaires, mais plus petite et au bec plus court."
+  },
+  {
+   "scientific_name": "Gallinula chloropus",
+   "common_name_fr": "Gallinule poule-d'eau",
+   "why_fr": "Partage le même habitat aquatique et émet des grognements qui peuvent prêter à confusion."
+  },
+  {
+   "scientific_name": "Acrocephalus scirpaceus",
+   "common_name_fr": "Rousserolle effarvatte",
+   "why_fr": "Cohabite en roselière ; les deux espèces réagissent l'une à l'autre lors des chants nocturnes."
+  }
+ ],
+ "rarity_note": "Assez commun et régulier en France, plus visible en hiver sur le littoral et dans le sud ; plus rare en montagne. Score BirdNET maximal de 0,37.",
+ "fun_facts": [
+  "Son cri rappelle tant le couinement d'un porcelet qu'il lui a valu ce surnom dans plusieurs langues européennes.",
+  "Il migre de nuit sur de longues distances malgré un vol qui semble malhabile, et percute parfois lampadaires ou lignes électriques."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/R%C3%A2le_d'eau",
+  "https://en.wikipedia.org/wiki/Water_rail",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

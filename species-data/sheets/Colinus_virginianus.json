@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Colinus virginianus",
+ "summary_fr": "Le Colin de Virginie est un petit galliforme trapu, originaire d'Amérique du Nord, occasionnellement observé en France. Mesurant 24 à 27 cm, ce petit quail du Nouveau Monde se caractérise par un plastron blanc chez le mâle et un plumage brun-roux chez la femelle. Son cri caractéristique, un sifflement « bob-white » ou « bob-bob-white » distinctif, est à l'origine de son nom anglais « bobwhite ». Bien qu'extrêmement rare en France métropolitaine, où seules quelques populations introduites subsistent, il reste le quail le plus connu d'Amérique du Nord orientale. Ses populations sauvages ont décliné de près de 85 % depuis 1966 en raison de la destruction de son habitat. En France, il ne s'observe que pendant les mois hivernaux, probablement échappées de captivité ou relâchées dans certains secteurs.",
+ "habitat": "Champs et prairies semi-ouvertes, clairières forestières, territoires mosaïques alternant forêts et zones ouvertes. En France, les rares observations concernent des zones agricoles ou de bocage.",
+ "diet": "Graines et matières végétales (feuilles, bourgeons, baies), ainsi qu'insectes ; préférence pour les graines en hiver et les insectes en été.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Aucun hivernage connu en France ; les rares individus observés sont des oiseaux erratiques ou échappées.",
+  "niche": "Ne niche pas en France.",
+  "passage": "Observations anormales concentrées entre novembre et février ; statut strictement accidentel."
+ },
+ "seasonality_fr": "Extrêmement rare et imprévisible, observé uniquement en hiver (janvier à février, novembre à décembre) en France. Absent le reste de l'année.",
+ "song_fr": "Sifflement caractéristique « bob-white » ou « bob-bob-white » montant d'une octave complète, syllables lentes et espacées. Autres cris incluent des légers pépiements et des appels d'alerte plus rapides.",
+ "lookalikes": [
+  {
+   "scientific_name": "Coturnix coturnix",
+   "common_name_fr": "Caille des blés",
+   "why_fr": "Autre petit galliforme avec sifflets caractéristiques, bien que plus court et à tessiture différente."
+  },
+  {
+   "scientific_name": "Perdix perdix",
+   "common_name_fr": "Perdrix grise",
+   "why_fr": "Petit galliforme au cri distinctif parfois confondu avec d'autres petits oiseaux chasseurs."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France, jamais régulier. Seules observations anormales hivernales en zone côtière. Score BirdNET très faible (0,0188) signalant une détection hautement improbable.",
+ "fun_facts": [
+  "Son nom anglais « bobwhite » est une onomatopée du cri caractéristique qui a donné le nom à l'espèce.",
+  "Une sous-espèce, le Colin masqué (C. v. ridgwayi), est en voie de disparition critique avec moins de 500 individus à l'état sauvage."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Colin_de_Virginie",
+  "https://en.wikipedia.org/wiki/Northern_bobwhite",
+  "https://www.oiseaux.net/species/colinus_virginianus.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

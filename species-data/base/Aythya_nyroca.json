@@ -1,0 +1,85 @@
+{
+ "scientific_name": "Aythya nyroca",
+ "common_name_fr": "Fuligule nyroca",
+ "birdnet_label": "Aythya nyroca_Fuligule nyroca",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Aythya",
+  "species": "Aythya nyroca"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fuligule nyroca",
+   "url": "https://fr.wikipedia.org/wiki/Fuligule_nyroca",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Fuligule nyroca est une espèce d'oiseaux parfois citée sous le nom d’Anas nyroca appartenant à la famille des Anatidae.",
+   "fulltext_chars": 5910
+  },
+  "en": {
+   "title": "Ferruginous duck",
+   "url": "https://en.wikipedia.org/wiki/Ferruginous_duck",
+   "description": "Species of bird",
+   "extract": "The ferruginous duck, also known as the ferruginous pochard, common white-eye or white-eyed pochard, is a medium-sized diving duck native to the Palearctic. The scientific name is derived from the Ancient Greek word, αἴθυιᾰ, an unknown seabird mentioned by authors including Hesychius and Aristotle, and the Russian word, нырок, the Russian word for pochard, which occurs in the bird's Russian common name.",
+   "fulltext_chars": 5003
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Aythya_nyroca_at_Martin_Mere_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3860,
+  "height": 2172,
+  "file": "Aythya_nyroca_at_Martin_Mere_1.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Aythya_nyroca_at_Martin_Mere_1.jpg/1920px-Aythya_nyroca_at_Martin_Mere_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Francis Franklin",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Aythya_nyroca_at_Martin_Mere_1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1664,
+  "cities": {
+   "Pornic": 0.01,
+   "Rennes": 0.011,
+   "Marseille": 0.02,
+   "Brest": 0.011,
+   "Ajaccio": 0.166,
+   "Perpignan": 0.014
+  },
+  "monthly_scores": [
+   0.1647,
+   0.1664,
+   0.1148,
+   0.0669,
+   0.0532,
+   0.0555,
+   0.0631,
+   0.0617,
+   0.0558,
+   0.0806,
+   0.1466,
+   0.162
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:28Z"
+}

@@ -1,0 +1,87 @@
+{
+ "scientific_name": "Ciconia nigra",
+ "common_name_fr": "Cigogne noire",
+ "birdnet_label": "Ciconia nigra_Cigogne noire",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Ciconiiformes",
+  "family": "Ciconiidae",
+  "family_common": "Storks",
+  "genus": "Ciconia",
+  "species": "Ciconia nigra"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Cigogne noire",
+   "url": "https://fr.wikipedia.org/wiki/Cigogne_noire",
+   "description": "espèce d'oiseaux",
+   "extract": "La Cigogne noire est une espèce d'oiseaux de la famille des Ciconiidae. À peine plus petite et plus farouche que la Cigogne blanche, elle peut vivre jusqu'à 20 ans. Elle se nourrit principalement d'amphibiens et d'insectes. On la rencontre en Eurasie et en Afrique, où elle fréquente les forêts profondes avec de vieux arbres et proches de zones humides.",
+   "fulltext_chars": 9936
+  },
+  "en": {
+   "title": "Black stork",
+   "url": "https://en.wikipedia.org/wiki/Black_stork",
+   "description": "Species of bird",
+   "extract": "The black stork is a large bird in the stork family Ciconiidae. It was first described by Carl Linnaeus in the 10th edition of his Systema Naturae. Measuring on average 95 to 100 cm from beak tip to end of tail with a 145-to-155 cm (57-to-61 in) wingspan, the adult black stork has mainly black plumage, with white underparts, long red legs and a long pointed red beak. A widespread but uncommon species, it breeds in scattered locations across Europe, and east across the Palearctic to the Pacific Ocean. It is a long-distance migrant, with European populations wintering in tropical Sub-Saharan Africa, and Asian populations in the Indian subcontinent. When migrating between Europe and Africa, it avoids crossing broad expanses of the Mediterranean Sea and detours via the Levant in the east, the Strait of Sicily in the center, or the Strait of Gibraltar in the west. An isolated non-migratory population lives in Southern Africa.",
+   "fulltext_chars": 21599
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ciconia_nigra_-Kruger_National_Park-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2616,
+  "height": 3938,
+  "file": "Ciconia_nigra_-Kruger_National_Park-8.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ciconia_nigra_-Kruger_National_Park-8.jpg/1920px-Ciconia_nigra_-Kruger_National_Park-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Chris Eason",
+  "credit": "originally posted to Flickr as Black Storks",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Ciconia_nigra_-Kruger_National_Park-8.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0571,
+  "cities": {
+   "Le Mans": 0.014,
+   "Pornic": 0.018,
+   "Rennes": 0.016,
+   "Poitiers": 0.018,
+   "Paris": 0.013,
+   "Lille": 0.011,
+   "Strasbourg": 0.019,
+   "Lyon": 0.019,
+   "Grenoble": 0.017,
+   "Marseille": 0.02,
+   "Toulouse": 0.02,
+   "Bordeaux": 0.023,
+   "Brest": 0.015,
+   "Ajaccio": 0.057,
+   "Clermont-Ferrand": 0.02,
+   "Chamonix": 0.018,
+   "Perpignan": 0.018,
+   "Nancy": 0.016
+  },
+  "monthly_scores": [
+   0.0161,
+   0.0203,
+   0.0377,
+   0.036,
+   0.0347,
+   0.0387,
+   0.0539,
+   0.0571,
+   0.0461,
+   0.0331,
+   0.0194,
+   0.0174
+  ],
+  "months": [
+   7,
+   8
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:42Z"
+}

@@ -1,0 +1,29 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Sitta europaea",
+ "summary_fr": "La Sittelle torchepot est un petit passereau très agile des forêts et jardins de l'Eurasie tempérée. Reconnaissable à son plumage bleu-gris, sa gorge et poitrine blanc-chamoisé selon les régions, et son trait oculaire noir caractéristique, elle fascine par sa capacité unique de descendre les troncs tête la première. Oiseau bruyant au répertoire varié, elle émet des cris sonores « tuit » répétés rapidement ou des chants sifflés variés en « vuih, vuih, vuih ». Sociable en hiver, elle se joint volontiers aux volées mixtes d'alimentation, tandis que le reste de l'année elle défend farouchement son territoire en couple. En France, elle loge dans les cavités d'arbres, souvent d'anciens nids de pic, et l'entrée trop large est habilement maçonnée avec de la boue, pratique qui lui vaut son surnom de « torchepot ».",
+ "habitat": "Forêts mixtes ou de feuillus avec de grands et vieux arbres, en particulier chênes. Parcs, vieux vergers et zones boisées offrant au moins un hectare d'habitat adapté.",
+ "diet": "Principalement insectes, chenilles et coléoptères en été. En automne et hiver, régime complété de fruits secs, noisettes et faînes. Visiteur régulier des mangeoires. Fait des réserves de nourriture toute l'année, cachant les graines dans l'écorce des arbres.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Toute la France où elle est présente en permanence. Les territoires occupés par les couples le restent à l'année.",
+  "niche": "Partout en France, d'avril à août. Niche dans les cavités d'arbres, généralement d'anciens nids de pic, que la femelle réduit en maçonnant l'entrée.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente toute l'année en France, visible et audible en toutes saisons. Ses cris sonores retentissent même en hiver, facilitant la détection quand les feuillages tombent.",
+ "song_fr": "Cris sonores caractéristiques : « tuit » énergique répété rapidement en cas d'excitation ou d'alarme ; « zit » aigu lors de la quête alimentaire. Chant constitué de sifflements clairs légèrement modulés, montants en « vuih, vuih, vuih » ou descendants « viiu, viiu, viiu », ou en trille rapide « vivivivivi ».",
+ "lookalikes": [],
+ "rarity_note": "Très commune en France métropolitaine où elle est présente toute l'année. Bien qu'en limite sud de son aire de répartition eurasiatique, elle reste régulière partout où existent de vieux arbres feuillus.",
+ "fun_facts": [
+  "Elle est l'une des rares espèces à descendre les troncs tête première, ce que les pics ne peuvent pas faire, lui donnant accès à des zones inaccessibles aux autres oiseaux.",
+  "La femelle maçonne l'entrée de son nid avec de la boue pour réduire le diamètre et le protéger des prédateurs et des étourneaux sansonnets qui menacent la couvée.",
+  "Ses cachettes de graines sont si efficaces que certaines germent spontanément sur l'écorce, créant des tournesols ou noisetiers sur les vieux arbres des forêts."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Sittelle_torchepot",
+  "https://en.wikipedia.org/wiki/Eurasian_nuthatch"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

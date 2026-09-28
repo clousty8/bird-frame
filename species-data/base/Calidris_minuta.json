@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Calidris minuta",
+ "common_name_fr": "Bécasseau minute",
+ "birdnet_label": "Calidris minuta_Bécasseau minute",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Calidris",
+  "species": "Calidris minuta"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécasseau minute",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9casseau_minute",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Bécasseau minute est une espèce d'oiseaux de la famille des Scolopacidae. Son nom fait allusion à sa petite taille. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 4430
+  },
+  "en": {
+   "title": "Little stint",
+   "url": "https://en.wikipedia.org/wiki/Little_stint",
+   "description": "Species of bird",
+   "extract": "The little stint is a very small wader. It breeds in arctic Europe and Asia, and is a long-distance migrant, wintering south to Africa and south Asia. It occasionally is a vagrant to North America and to Australia. The genus name is from Ancient Greek kalidris or skalidris, a term used by Aristotle for some grey-coloured waterside birds. The specific minuta is Latin for \"small.",
+   "fulltext_chars": 2730
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Little_Stint_%28Calidris_minuta%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1800,
+  "height": 1350,
+  "file": "Little_Stint_(Calidris_minuta)_(1).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Little_Stint_%28Calidris_minuta%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Ken Billington",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Little_Stint_(Calidris_minuta)_(1).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1889,
+  "cities": {
+   "Le Mans": 0.052,
+   "Pornic": 0.076,
+   "Rennes": 0.073,
+   "Poitiers": 0.052,
+   "Paris": 0.036,
+   "Lille": 0.038,
+   "Strasbourg": 0.019,
+   "Lyon": 0.028,
+   "Grenoble": 0.026,
+   "Marseille": 0.052,
+   "Toulouse": 0.043,
+   "Bordeaux": 0.052,
+   "Brest": 0.1,
+   "Ajaccio": 0.189,
+   "Clermont-Ferrand": 0.032,
+   "Chamonix": 0.024,
+   "Perpignan": 0.051,
+   "Nancy": 0.022
+  },
+  "monthly_scores": [
+   0.1682,
+   0.168,
+   0.1624,
+   0.1336,
+   0.082,
+   0.0739,
+   0.0967,
+   0.152,
+   0.1889,
+   0.1513,
+   0.1515,
+   0.1693
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:10Z"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Athene noctua",
+ "common_name_fr": "Chevêche d'Athéna",
+ "birdnet_label": "Athene noctua_Chevêche d'Athéna",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Strigiformes",
+  "family": "Strigidae",
+  "family_common": "Owls",
+  "genus": "Athene",
+  "species": "Athene noctua"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Chevêche d'Athéna",
+   "url": "https://fr.wikipedia.org/wiki/Chev%C3%AAche_d'Ath%C3%A9na",
+   "description": "espèce d'oiseaux",
+   "extract": "La Chevêche d'Athéna, ou anciennement « Chouette chevêche », est une espèce d'oiseaux de la famille des strigidae de petite taille à l'aspect trapu. C'est le plus diurne des strigidés, malgré son nom latin. Dans la mythologie grecque, elle est l'attribut d'Athéna, incarnant la fonction de sagesse de la déesse.",
+   "fulltext_chars": 13060
+  },
+  "en": {
+   "title": "Little owl",
+   "url": "https://en.wikipedia.org/wiki/Little_owl",
+   "description": "Species of owl",
+   "extract": "The little owl, also known as the owl of Athena or owl of Minerva, is a bird that inhabits much of the temperate and warmer parts of Europe, the Palearctic east to Korea, and North Africa. It was introduced into Britain at the end of the 19th century and into the South Island of New Zealand in the early 20th century.",
+   "fulltext_chars": 14141
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Posing_%2819312516733%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3727,
+  "height": 2982,
+  "file": "Posing_(19312516733).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Posing_%2819312516733%29.jpg/1920px-Posing_%2819312516733%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Andy Morffew from Itchen Abbas, Hampshire, UK",
+  "credit": "Posing",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Posing_(19312516733).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1768,
+  "cities": {
+   "Le Mans": 0.045,
+   "Pornic": 0.049,
+   "Rennes": 0.043,
+   "Poitiers": 0.049,
+   "Paris": 0.039,
+   "Lille": 0.03,
+   "Strasbourg": 0.023,
+   "Lyon": 0.047,
+   "Grenoble": 0.052,
+   "Marseille": 0.069,
+   "Toulouse": 0.061,
+   "Bordeaux": 0.059,
+   "Brest": 0.035,
+   "Ajaccio": 0.177,
+   "Clermont-Ferrand": 0.048,
+   "Chamonix": 0.044,
+   "Perpignan": 0.07,
+   "Nancy": 0.027
+  },
+  "monthly_scores": [
+   0.1747,
+   0.1671,
+   0.1482,
+   0.0899,
+   0.0875,
+   0.0974,
+   0.1161,
+   0.0882,
+   0.07,
+   0.1034,
+   0.1593,
+   0.1768
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:26Z"
+}

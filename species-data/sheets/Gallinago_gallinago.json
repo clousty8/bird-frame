@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Gallinago gallinago",
+ "summary_fr": "La Bécassine des marais est un petit échassier trapu et bien camouflé, originaire des zones humides eurasiatiques. Avec ses 25 à 27 centimètres de longueur et son long bec pointé, elle explore les vases molles des marécages et prairies mouillées à la recherche d'insectes, vers et larves. Timide et difficile à observer, elle détale en zigzags chaotiques quand elle est surprise, émettant des cris secs caractéristiques. Durant le display nuptial, le mâle effectue des piqués spectaculaires en battant l'air de ses rectrices vibrantes, produisant un son si curieux qu'on l'appelle localement « blement du ciel ». Migrateur partiel, elle niche dans le centre et nord de l'Europe tandis que d'autres hivernent en Afrique. En France, sa population décline depuis les années 1980, victime du drainage des zones humides.",
+ "habitat": "Marécages, tourbières, zones humides, prairies mouillées et toundra, du littoral à la montagne.",
+ "diet": "Insectes, vers de terre, crustacés, mollusques, ainsi que quelques graines et baies en hiver.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Principalement en Europe occidentale ; les oiseaux du nord et de l'est migrent vers l'Afrique occidentale, l'Afrique du Nord et exceptionnellement plus loin.",
+  "niche": "Centre et nord de l'Europe et Asie du Nord ; une population locale niche partiellement en France, particulièrement dans les zones humides atlantiques et continentales.",
+  "passage": "Passages visibles en mars et septembre-novembre, périodes d'intense activité migratoire."
+ },
+ "seasonality_fr": "Présente toute l'année en France, avec des effectifs renforcés en hiver par les migrateurs du nord. Plus active en période de reproduction (avril à juillet) et lors des passages migratoires.",
+ "song_fr": "Chant de display peu mélodique, dominé par le bourdonnement caractéristique « v-v-v » produit par les rectrices vibrantes lors des piqués. Cri d'alarme sec : « croak » ou « scape scape ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Lymnocryptes minimus",
+   "common_name_fr": "Bécassine sourde",
+   "why_fr": "Plus petite, ressemblance de silhouette et d'habitat, cris similaires mais bécassine sourde très discrète."
+  },
+  {
+   "scientific_name": "Gallinago media",
+   "common_name_fr": "Bécassine double",
+   "why_fr": "Taille supérieure et queue plus longue, crépusculaire comme la bécassine des marais, confusion possible en vol."
+  }
+ ],
+ "rarity_note": "Régulière en France toute l'année comme nicheur et hivernant, renforcée en passages migratoires. Population déclinante depuis les années 1980 mais toujours bien établie dans les zones humides.",
+ "fun_facts": [
+  "Le bourdonnement caractéristique lors du display nuptial provient de deux rectrices pointées à 90° de la direction du vol, vibrant comme les cordes d'un instrument.",
+  "La bécassine des marais est très apprécée comme gibier en Europe, ce qui en fait une espèce prisée des chasseurs d'automne.",
+  "Elle peut atteindre 12 ans en liberté et est remarquablement fidèle à ses zones d'hivernage d'une année sur l'autre."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bécassine_des_marais",
+  "https://en.wikipedia.org/wiki/Common_snipe",
+  "https://www.oiseaux.net/oiseaux/becassine.des.marais.html",
+  "https://www.lpo.fr/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

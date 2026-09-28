@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Tringa nebularia",
+ "summary_fr": "Le Chevalier aboyeur est un limicole élancé et grisâtre, le plus grand des chevaliers européens. Ses longues pattes vert-olive et son bec gris légèrement fléchi vers le haut le distinguent de ses cousins. Migrateur régulier en France, il fréquente les côtes et les zones humides à la recherche de petits crustacés et invertébrés aquatiques. Son cri caractéristique, comparable au jappement d'un chiot, lui vaut son nom français. En Eurasie, il niche dans les marais des régions polaires. Les populations hivernales viennent du nord et s'installent sur le littoral atlantique et en Méditerranée, parfois dès le début de l'automne.",
+ "habitat": "Littoraux, vasières, marais salants, étangs et zones humides côtières ; en hiver aussi en milieux estuariens et mangroves.",
+ "diet": "Petits crustacés, vers aquatiques et insectes sondés dans la vase ; occasionnellement petits poissons et amphibiens.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Majoritairement le long de l'Atlantique (Bretagne, Aquitaine) et méditerranéen ; populations plus lointaines en Afrique, Inde et Australie.",
+  "niche": "Ne niche pas en France : reproduction en Écosse, Scandinavie et Sibérie.",
+  "passage": "Passages printemps de mars à mai, retours d'août à novembre avec regroupements pré-migratoires."
+ },
+ "seasonality_fr": "Visible septembre à avril surtout, minimum présent mai à août. Plus commun en automne et hiver sur les côtes bretonnes et atlantiques.",
+ "song_fr": "Cri très caractéristique : suite rapide de trois notes flûtées « teu-teu-teu » ; dans ses terres, sons rappelant un jappement de chiot d'où son nom.",
+ "lookalikes": [
+  {
+   "scientific_name": "Tringa stagnatilis",
+   "common_name_fr": "Chevalier stagnatile",
+   "why_fr": "Très similaire au premier abord : plus petit, bec plus fin, cri plus aigu. Confusion fréquente en passage."
+  },
+  {
+   "scientific_name": "Tringa totanus",
+   "common_name_fr": "Chevalier gambette",
+   "why_fr": "Pattes rouges (vs vert-olive), silhouette plus trapue, cris plus aigus et moins syllabés."
+  },
+  {
+   "scientific_name": "Tringa ochropus",
+   "common_name_fr": "Chevalier cul-blanc",
+   "why_fr": "Plus petit, bec plus fin et droit, pas de tache blanche au dos aussi marquée, cris sifflés très différents."
+  }
+ ],
+ "rarity_note": "Régulier en France lors des passages migratoires, surtout atlantique et côtes méditerranéennes en automne-hiver. Bien détecté par BirdNET sur sites côtiers.",
+ "fun_facts": [
+  "Son cri, comparé au jappement d'un jeune chien, lui a valu le surnom du « chevalier aboyeur » dans toutes les langues (Greenshank en anglais = « jambe verte »).",
+  "C'est le plus grand des six chevaliers du genre Tringa côtoyant l'Europe, mesurant 30 à 35 cm pour 150 à 260 grammes.",
+  "En vol, il affiche une tache blanche distincte au-dessus de la queue, remontant en pointe vers le dos, très utile pour l'identification."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Chevalier_aboyeur",
+  "https://en.wikipedia.org/wiki/Common_greenshank",
+  "https://www.oiseaux.net/fiche.html?l=chevalier_aboyeur",
+  "https://inpn.mnhn.fr/espece/cd_nom/3608/tab/informations"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

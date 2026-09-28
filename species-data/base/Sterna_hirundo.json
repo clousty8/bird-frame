@@ -1,0 +1,92 @@
+{
+ "scientific_name": "Sterna hirundo",
+ "common_name_fr": "Sterne pierregarin",
+ "birdnet_label": "Sterna hirundo_Sterne pierregarin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Sterna",
+  "species": "Sterna hirundo"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Sterne pierregarin",
+   "url": "https://fr.wikipedia.org/wiki/Sterne_pierregarin",
+   "description": "espèce d'oiseaux charadriiformes de la famille des laridae et du genre Sterna",
+   "extract": "La Sterne pierregarin, aussi connue sous les noms d'estorlet, de goélette ou d'hirondelle de mer, est une espèce d'oiseaux de la famille des laridés, migrateur et possédant une vaste aire de répartition dans les régions tempérées de l'hémisphère Nord et migrant dans les zones tropicales et dans l'hémisphère Sud.",
+   "fulltext_chars": 5708
+  },
+  "en": {
+   "title": "Common tern",
+   "url": "https://en.wikipedia.org/wiki/Common_tern",
+   "description": "Migratory seabird in the family Laridae with circumpolar distribution",
+   "extract": "The common tern is a seabird in the family Laridae. This bird has a circumpolar distribution, its four subspecies breeding in temperate and subarctic regions of Europe, Asia and North America. It is strongly migratory, wintering in coastal tropical and subtropical regions. Breeding adults have light grey upperparts, white to very light grey underparts, a black cap, orange-red legs, and a narrow pointed bill. Depending on the subspecies, the bill may be mostly red with a black tip or all black. There are several similar species, including the partly sympatric Arctic tern, which can be separated on plumage details, leg and bill colour, or vocalisations.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Common_tern_2025_07_08_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4986,
+  "height": 3324,
+  "file": "Common_tern_2025_07_08_08.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Common_tern_2025_07_08_08.jpg/1920px-Common_tern_2025_07_08_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Alexis Lours",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Common_tern_2025_07_08_08.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3012,
+  "cities": {
+   "Le Mans": 0.244,
+   "Pornic": 0.244,
+   "Rennes": 0.259,
+   "Poitiers": 0.194,
+   "Paris": 0.254,
+   "Lille": 0.301,
+   "Strasbourg": 0.186,
+   "Lyon": 0.144,
+   "Grenoble": 0.131,
+   "Marseille": 0.124,
+   "Toulouse": 0.1,
+   "Bordeaux": 0.121,
+   "Brest": 0.272,
+   "Ajaccio": 0.235,
+   "Clermont-Ferrand": 0.144,
+   "Chamonix": 0.149,
+   "Perpignan": 0.106,
+   "Nancy": 0.208
+  },
+  "monthly_scores": [
+   0.0149,
+   0.0223,
+   0.1162,
+   0.208,
+   0.3012,
+   0.2721,
+   0.283,
+   0.2682,
+   0.1077,
+   0.042,
+   0.019,
+   0.0166
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:11Z"
+}

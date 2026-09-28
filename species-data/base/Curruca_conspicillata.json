@@ -1,0 +1,82 @@
+{
+ "scientific_name": "Curruca conspicillata",
+ "common_name_fr": "Fauvette à lunettes",
+ "birdnet_label": "Curruca conspicillata_Fauvette à lunettes",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sylviidae",
+  "family_common": "Sylviid Warblers and Allies",
+  "genus": "Curruca",
+  "species": "Curruca conspicillata"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fauvette à lunettes",
+   "url": "https://fr.wikipedia.org/wiki/Fauvette_%C3%A0_lunettes",
+   "description": "espèce d'oiseaux",
+   "extract": "La Fauvette à lunettes est une espèce de passereaux de la famille des Sylviidae.",
+   "fulltext_chars": 1975
+  },
+  "en": {
+   "title": "Spectacled warbler",
+   "url": "https://en.wikipedia.org/wiki/Spectacled_warbler",
+   "description": "Species of bird",
+   "extract": "The spectacled warbler is a species of passerine bird in the warbler genus Curruca in the family Sylviidae. The specific conspicillata is from Latin conspicillum, a place to look from, equivalent to \"spectacled\".",
+   "fulltext_chars": 2258
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Sylvia_conspicillata_%2831033230297%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3648,
+  "height": 2577,
+  "file": "Sylvia_conspicillata_(31033230297).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sylvia_conspicillata_%2831033230297%29.jpg/1920px-Sylvia_conspicillata_%2831033230297%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Rolf Dietrich Brecher from Germany",
+  "credit": "DSC00570",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Sylvia_conspicillata_(31033230297).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1185,
+  "cities": {
+   "Marseille": 0.018,
+   "Toulouse": 0.012,
+   "Bordeaux": 0.012,
+   "Ajaccio": 0.118,
+   "Perpignan": 0.017
+  },
+  "monthly_scores": [
+   0.115,
+   0.1185,
+   0.0997,
+   0.0736,
+   0.0584,
+   0.0556,
+   0.0619,
+   0.0488,
+   0.0429,
+   0.0724,
+   0.0996,
+   0.1122
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:24Z"
+}

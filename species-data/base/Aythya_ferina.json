@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Aythya ferina",
+ "common_name_fr": "Fuligule milouin",
+ "birdnet_label": "Aythya ferina_Fuligule milouin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Aythya",
+  "species": "Aythya ferina"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fuligule milouin",
+   "url": "https://fr.wikipedia.org/wiki/Fuligule_milouin",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Fuligule milouin ou Milouin d'Europe est une espèce de canards plongeurs appartenant à la famille des Anatidae. Bien qu'elle soit encore commune en beaucoup d'endroits, cette espèce subit un déclin important et est donc considérée comme menacée d'extinction.",
+   "fulltext_chars": 13789
+  },
+  "en": {
+   "title": "Common pochard",
+   "url": "https://en.wikipedia.org/wiki/Common_pochard",
+   "description": "Species of bird",
+   "extract": "The common pochard, known simply as pochard in the United Kingdom, is a medium-sized diving duck in the family Anatidae. It is widespread across the Palearctic. It breeds primarily in Scandinavia and the steppe regions of Siberia, and winters farther south and west.",
+   "fulltext_chars": 9598
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BD%D1%8B%D1%80%D0%BE%D0%BA_%28Aythya_ferina%2C_mas%29%2C_%D0%91%D0%B5%D0%BB%D0%BE%D0%B5_%D0%BE%D0%B7%D0%B5%D1%80%D0%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1419,
+  "height": 873,
+  "file": "Красноголовый_нырок_(Aythya_ferina,_mas),_Белое_озеро.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/7/7d/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BD%D1%8B%D1%80%D0%BE%D0%BA_%28Aythya_ferina%2C_mas%29%2C_%D0%91%D0%B5%D0%BB%D0%BE%D0%B5_%D0%BE%D0%B7%D0%B5%D1%80%D0%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Dion Art",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BD%D1%8B%D1%80%D0%BE%D0%BA_(Aythya_ferina,_mas),_%D0%91%D0%B5%D0%BB%D0%BE%D0%B5_%D0%BE%D0%B7%D0%B5%D1%80%D0%BE.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3199,
+  "cities": {
+   "Le Mans": 0.263,
+   "Pornic": 0.203,
+   "Rennes": 0.206,
+   "Poitiers": 0.266,
+   "Paris": 0.288,
+   "Lille": 0.28,
+   "Strasbourg": 0.312,
+   "Lyon": 0.244,
+   "Grenoble": 0.203,
+   "Marseille": 0.159,
+   "Toulouse": 0.156,
+   "Bordeaux": 0.222,
+   "Brest": 0.141,
+   "Ajaccio": 0.32,
+   "Clermont-Ferrand": 0.267,
+   "Chamonix": 0.227,
+   "Perpignan": 0.137,
+   "Nancy": 0.311
+  },
+  "monthly_scores": [
+   0.3199,
+   0.3172,
+   0.2604,
+   0.229,
+   0.1657,
+   0.1545,
+   0.1662,
+   0.2007,
+   0.1955,
+   0.2369,
+   0.2993,
+   0.3124
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:37Z"
+}

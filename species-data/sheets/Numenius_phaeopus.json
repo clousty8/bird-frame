@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Numenius phaeopus",
+ "summary_fr": "Le Courlis corlieu est un limicole de taille moyenne au bec long et arqué, reconnaissable à sa tête finement rayée, avec deux bandes sombres encadrant une raie sommitale claire et de longs sourcils pâles. Il ne se reproduit pas en France : ses populations nichent dans la toundra et les landes subarctiques d'Islande, d'Écosse et de Sibérie, avant de rallier leurs quartiers d'hiver en Afrique ou en Asie du Sud, un vol capable de couvrir 5000 kilomètres sans escale en quelques jours. En France, l'espèce est un migrateur partiel : la plupart des oiseaux n'y font que transiter lors des haltes migratoires du printemps et de l'automne, mais quelques individus passent tout l'hiver sur les côtes atlantiques et en Manche, d'où une présence possible presque toute l'année malgré l'absence de nidification locale. Sur les vasières et les rochers, il sonde le sédiment ou picore en surface pour capturer petits crabes, vers et autres invertébrés. Volontiers solitaire ou en petits groupes, il peut se rassembler en reposoirs conséquents à marée haute, où son sifflement fluide et ondulant, rappelant son nom anglais « whimbrel », trahit sa présence bien avant qu'on ne l'aperçoive.",
+ "habitat": "Littoraux rocheux ou vaseux, estuaires et prairies humides côtières ; en migration, haltes dans les zones humides intérieures et les prés à végétation basse.",
+ "diet": "Petits crabes, vers et autres invertébrés benthiques sondés dans la vase ou picorés en surface ; baies avant la migration.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Essentiellement en Afrique de l'Ouest, en Afrique australe et en Asie du Sud selon la sous-espèce ; quelques hivernants réguliers en petit nombre sur les côtes atlantiques françaises et en Manche.",
+  "niche": "Ne niche pas en France. Reproduction en toundra et landes subarctiques d'Islande, d'Écosse et de Sibérie selon la sous-espèce.",
+  "passage": "Passages migratoires réguliers le long des côtes françaises, surtout en mars-mai puis août-octobre."
+ },
+ "seasonality_fr": "Vu et entendu surtout en halte migratoire d'avril à mai puis d'août à septembre sur les côtes ; quelques hivernants réguliers, notamment en Atlantique et en Manche.",
+ "song_fr": "Sifflement fluide et ondulant en trille rapide, à l'origine du nom anglais « whimbrel » ; cri d'alarme aigu et répété quand l'oiseau est dérangé.",
+ "lookalikes": [
+  {
+   "scientific_name": "Numenius arquata",
+   "common_name_fr": "Courlis cendré",
+   "why_fr": "Silhouette et cris très proches, mais plus grand, bec plus long ; confusion fréquente à distance."
+  },
+  {
+   "scientific_name": "Tringa nebularia",
+   "common_name_fr": "Chevalier aboyeur",
+   "why_fr": "Même écologie côtière et cris fluides, mais silhouette plus petite et élancée."
+  },
+  {
+   "scientific_name": "Limosa lapponica",
+   "common_name_fr": "Barge rousse",
+   "why_fr": "Fréquente les mêmes vasières avec un comportement de sondage similaire ; bec moins arqué."
+  }
+ ],
+ "rarity_note": "Migrateur partiel régulier mais peu abondant en France, surtout visible en halte côtière ; plus fréquent en Bretagne et sur le littoral atlantique qu'à l'intérieur des terres.",
+ "fun_facts": [
+  "Il peut relier l'Afrique de l'Ouest à l'Islande en vol battu, soit environ 5000 km, en seulement cinq jours.",
+  "Son nom anglais « whimbrel » imite son sifflement caractéristique en trille rapide.",
+  "Cinq sous-espèces eurasiatiques se répartissent des quartiers d'hiver différents, de l'Afrique à l'Australie."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Courlis_corlieu",
+  "https://en.wikipedia.org/wiki/Eurasian_whimbrel",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T22:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

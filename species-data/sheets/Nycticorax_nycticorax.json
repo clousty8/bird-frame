@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Nycticorax nycticorax",
+ "summary_fr": "Le Bihoreau gris est un petit héron trapu à la silhouette ramassée, calotte et dos noir luisant, ailes grises, dessous blanc et œil rouge vif qui tranche sur son allure discrète. De mœurs surtout nocturnes et crépusculaires, il passe la journée immobile dans le feuillage des arbres bordant étangs, rivières et roselières, avant de gagner ses postes de pêche à la tombée du jour. À l'affût, cou rentré, il fige puis détend le cou en un éclair pour saisir poissons, batraciens et insectes aquatiques ; certains individus font même vibrer leur bec à la surface pour attirer leurs proies, un usage d'outil rare chez les oiseaux. Son nom vient du grec « corbeau de nuit », en écho à ses croassements rauques entendus en vol au crépuscule. En France, l'espèce niche en colonies bruyantes dans des héronnières, souvent mêlée à d'autres hérons, d'avril à juillet ; la majorité des nicheurs migre ensuite vers l'Afrique subsaharienne, tandis qu'une petite population hiverne dans le sud, notamment en Camargue. Protégé depuis 1981, il reste localisé mais ses effectifs se sont stabilisés.",
+ "habitat": "Zones humides d'eau douce ou saumâtre bordées d'arbres, roselières, peupleraies, héronnières mêlées à d'autres hérons.",
+ "diet": "Petits poissons, batraciens, insectes aquatiques ; occasionnellement œufs et poussins d'autres oiseaux nichant en colonie.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Majorité vers l'Afrique subsaharienne ; petite population hivernante dans le sud de la France (Camargue, littoral méditerranéen), parfois ailleurs lors d'hivers doux.",
+  "niche": "Colonies dispersées sur tout le territoire hors montagne, d'avril à juillet, notamment en Camargue, Dombes, vallée de la Loire et Alsace.",
+  "passage": "Passage marqué en mars-avril à l'arrivée et de fin août à octobre au départ, le long des cours d'eau et des zones humides."
+ },
+ "seasonality_fr": "Présent presque toute l'année en très petit nombre grâce aux hivernants du sud, mais surtout visible d'avril à octobre ; pics de passage en mars et en septembre-octobre.",
+ "song_fr": "Croassements rauques et gutturaux « quok » ou « woc » lancés en vol ou depuis un arbre, rappelant un batracien ou une corneille ; bruyant la nuit dans les colonies.",
+ "lookalikes": [
+  {
+   "scientific_name": "Ardea cinerea",
+   "common_name_fr": "Héron cendré",
+   "why_fr": "Silhouette proche mais bien plus grand et élancé ; cris plus graves et profonds, typiques d'un vrai héron."
+  },
+  {
+   "scientific_name": "Botaurus stellaris",
+   "common_name_fr": "Butor étoilé",
+   "why_fr": "Fréquente les mêmes roselières nocturnes ; cris sourds proches d'un beuglement, plumage très différent."
+  }
+ ],
+ "rarity_note": "Espèce localisée et peu abondante en France, concentrée sur quelques grandes colonies (Camargue, Dombes, vallée de la Loire) ; petits effectifs hivernants dans le sud.",
+ "fun_facts": [
+  "Il fait vibrer son bec à la surface de l'eau pour attirer les poissons, une des rares techniques d'usage d'outil connues chez les oiseaux.",
+  "Son nom vient du grec « corbeau de nuit », inspiré par ses croassements rauques lancés au crépuscule.",
+  "Protégé en France depuis 1981, il niche en colonies bruyantes où des dizaines de nids peuvent occuper un seul grand arbre."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bihoreau_gris",
+  "https://en.wikipedia.org/wiki/Black-crowned_night_heron",
+  "https://www.oiseaux.net/oiseaux/bihoreau.gris.html",
+  "https://www.inpn.mnhn.fr/espece/Nycticorax%20nycticorax"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,83 @@
+{
+ "scientific_name": "Acrocephalus palustris",
+ "common_name_fr": "Rousserolle verderolle",
+ "birdnet_label": "Acrocephalus palustris_Rousserolle verderolle",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Acrocephalidae",
+  "family_common": "Reed Warblers and Allies",
+  "genus": "Acrocephalus",
+  "species": "Acrocephalus palustris"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Rousserolle verderolle",
+   "url": "https://fr.wikipedia.org/wiki/Rousserolle_verderolle",
+   "description": "espèce d'oiseaux",
+   "extract": "La Rousserolle verderolle est une espèce de fauvettes des marais.",
+   "fulltext_chars": 3164
+  },
+  "en": {
+   "title": "Marsh warbler",
+   "url": "https://en.wikipedia.org/wiki/Marsh_warbler",
+   "description": "Species of bird",
+   "extract": "The marsh warbler is an Old World warbler currently classified in the family Acrocephalidae. It breeds in temperate Europe and the western Palearctic and winters mainly in southeast Africa. It is notable for incorporating striking imitations of a wide variety of other birds into its song.",
+   "fulltext_chars": 7927
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Acrocephalus_palustris_%28Marek_Szczepanek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 354,
+  "height": 550,
+  "file": "Acrocephalus_palustris_(Marek_Szczepanek).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Acrocephalus_palustris_%28Marek_Szczepanek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Acrocephalus_palustris_(Marek_Szczepanek).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1583,
+  "cities": {
+   "Le Mans": 0.03,
+   "Poitiers": 0.018,
+   "Paris": 0.083,
+   "Lille": 0.141,
+   "Strasbourg": 0.158,
+   "Lyon": 0.039,
+   "Grenoble": 0.031,
+   "Marseille": 0.021,
+   "Ajaccio": 0.04,
+   "Clermont-Ferrand": 0.026,
+   "Chamonix": 0.049,
+   "Perpignan": 0.014,
+   "Nancy": 0.14
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0,
+   0.0388,
+   0.1583,
+   0.1348,
+   0.0591,
+   0.0147,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "months": [
+   5,
+   6,
+   7
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:30Z"
+}

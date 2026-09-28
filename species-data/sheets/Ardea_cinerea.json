@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Ardea cinerea",
+ "summary_fr": "Grand échassier caractérisé par un plumage gris et blanc, le Héron cendré est l'une des espèces les plus communes des zones humides d'Europe et d'Asie. Côté français, il fréquente lacs, rivières, étangs et côtes marines, où il chasse en demeurant immobile avant de projeter rapidement son long bec vers les proies. Très territorial, il niche en colonies perchées au sommet des arbres, appelées héronnières, où il construit un volumineux nid plat qu'il réutilise pendant de nombreuses années. Les populations nordiques migrent partiellement vers le sud en automne, tandis que d'autres restent sédentaires. Longtemps persécuté, il est aujourd'hui devenu une silhouette familière même en zones urbaines, où il s'accommode étonnamment bien de la proximité humaine et peut chasser à quelques mètres des promeneurs.",
+ "habitat": "Lacs, fleuves, rivières, étangs, marais, fossés, zones côtières et estuariens. Préfère les eaux peu profondes entourées d'une végétation haute et d'arbres pour se reposer et nidifier. S'accoutume de plus en plus aux parcs et espaces verts urbains.",
+ "diet": "Principalement poissons, mais aussi amphibiens, reptiles, crustacés, insectes, mollusques et petits mammifères (musaraignes d'eau, campagnols, rats). Végétaux occasionnels. Peut avaler des proies jusqu'à 30 cm de long.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Dans toute la France, du littoral aux régions méditerranéennes. Les nicheurs sédentaires sont renforcés en hiver par des populations venues du nord et de l'est de l'Europe.",
+  "niche": "Partout en France où existent des zones humides adéquates, de février à juillet, généralement avec une ou deux nichées selon les régions.",
+  "passage": "Passages migratoires marqués en mars et d'octobre à novembre, moins spectaculaires que ceux de la cigogne."
+ },
+ "seasonality_fr": "Visible et audible toute l'année. Plus abundant en hiver lors des arrivées des populations migratrices venues du nord et lors des vagues de froid qui concentrent les oiseaux vers les plans d'eau libres.",
+ "song_fr": "Cri caractéristique : fort croassement « fraaank » utile pour reconnaître l'espèce. À la colonie, diverses vocalisations gutturales et rauques, notamment lors des cérémonies d'accueil au nid.",
+ "lookalikes": [
+  {
+   "scientific_name": "Ardea purpurea",
+   "common_name_fr": "Héron pourpré",
+   "why_fr": "Silhouette similaire mais plus petit, plumage plus foncé avec teintes roussâtres, très discret dans les roseraies."
+  },
+  {
+   "scientific_name": "Egretta alba",
+   "common_name_fr": "Grande Aigrette",
+   "why_fr": "Plumage blanc au lieu de gris, corps plus effilé, cri différent : aboiement grave au lieu du croassement."
+  },
+  {
+   "scientific_name": "Ciconia ciconia",
+   "common_name_fr": "Cigogne blanche",
+   "why_fr": "Bien plus grande et massive, plumage noir et blanc, cou tendu en vol (héron le replie), claquement du bec distinctif."
+  }
+ ],
+ "rarity_note": "Très commun en France toute l'année. Regain numérique depuis sa protection en 1974 après les persécutions agricoles. Bien établi dans tous les habitats humides, des villes aux régions les plus reculées.",
+ "fun_facts": [
+  "Capable de rester littéralement immobile pendant de très longues minutes, le cou dressé, avant de frapper avec une vélocité étonnante.",
+  "Son nid peut atteindre plus d'un mètre de diamètre et s'agrandir chaque année ; certains nids sont utilisés par plusieurs générations.",
+  "En ville, sa distance de fuite est considérablement réduite : il s'habitue aux promeneurs et peut être observé à proximité immédiate, particulièrement le long de la Seine à Paris."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/H%C3%A9ron_cendr%C3%A9",
+  "https://en.wikipedia.org/wiki/Grey_heron"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

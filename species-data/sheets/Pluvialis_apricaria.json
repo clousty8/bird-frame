@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Pluvialis apricaria",
+ "summary_fr": "Le Pluvier doré est un limicole élégant au plumage doré toute l'année, qui se pare en saison nuptiale d'un plastron noir souligné d'une large bande blanche courant du front aux flancs. Il ne niche pas en France : sa reproduction se déroule en Arctique et subarctique, de l'Islande à la Sibérie occidentale, en passant par les îles Britanniques et la Scandinavie. C'est un migrateur partiel plutôt que strict, puisque certaines populations britanniques et irlandaises restent quasiment sédentaires, tandis que les nicheurs arctiques rejoignent l'Europe de l'Ouest pour l'hiver. En France, il fréquente surtout les grandes plaines agricoles et les zones côtières de la façade atlantique et de la Manche, où il forme d'impressionnants rassemblements aux côtés du Vanneau huppé. Excellent chasseur d'invertébrés, il capture ses proies à petits pas saccadés, s'arrêtant pour scruter le sol avant de picorer. Ses cris flûtés et mélancoliques, souvent émis en vol, trahissent sa présence bien avant qu'on ne l'aperçoive. Largement répandu et non menacé, il reste néanmoins sensible aux transformations de ses habitats de reproduction comme d'hivernage.",
+ "habitat": "Arctique : toundra, tourbières, landes et plateaux à végétation rase, des îles Britanniques à la Sibérie. En France (hivernage) : grandes plaines cultivées, prairies, polders, marais côtiers et estuaires.",
+ "diet": "Invertébrés variés : larves de coléoptères et de papillons, sauterelles, vers de terre, araignées, mollusques. En hivernage, part plus importante de graines et de baies (airelles, camarine).",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Surtout en Europe de l'Ouest et dans le bassin méditerranéen. En France, principalement sur les côtes atlantique et de la Manche, qui accueillent jusqu'à la moitié de la population hivernante d'Europe.",
+  "niche": "Ne niche pas en France. Reproduction en Arctique et subarctique, de l'Islande à la Sibérie occidentale, via les îles Britanniques et la Scandinavie, entre avril et juillet.",
+  "passage": "Passages actifs à partir de mi-février vers le nord, et de juillet à septembre vers le sud, avec des haltes majeures en mer des Wadden."
+ },
+ "seasonality_fr": "Présent en France presque toute l'année, absent seulement en juin. Hivernant régulier d'octobre à avril, surtout sur le littoral atlantique et la Manche, avec des passages marqués en fin d'hiver et en fin d'été.",
+ "song_fr": "Cri flûté traînant et mélancolique, plus doux que celui du Chevalier gambette. En reproduction : longs cris en deux syllabes « tloû » ou « tirr-piou » et trilles en vol.",
+ "lookalikes": [
+  {
+   "scientific_name": "Pluvialis squatarola",
+   "common_name_fr": "Pluvier argenté",
+   "why_fr": "Très semblable en hiver, mais plus gris, avec une tache noire sous l'aile et sans mouchetures dorées. Un peu plus gros, bec plus court."
+  },
+  {
+   "scientific_name": "Tringa totanus",
+   "common_name_fr": "Chevalier gambette",
+   "why_fr": "Cri flûté assez proche mais plus énergique. Silhouette différente, plus petit, pattes rouges."
+  }
+ ],
+ "rarity_note": "Hivernant régulier et parfois abondant sur le littoral atlantique et la Manche, plus discret ailleurs en France. Absent seulement en juin, période de reproduction hors de France. Non menacé.",
+ "fun_facts": [
+  "Au Royaume-Uni et en Irlande, certaines populations sont quasi sédentaires et n'effectuent que de très courts déplacements.",
+  "En Islande, l'arrivée du Pluvier doré au printemps est un événement suivi par la presse, annonçant traditionnellement le retour des beaux jours.",
+  "Une confusion sur l'oiseau le plus rapide lors d'une partie de chasse a inspiré à Hugh Beaver la création du Livre Guinness des Records en 1951."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pluvier_dor%C3%A9",
+  "https://en.wikipedia.org/wiki/European_golden_plover",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,85 @@
+{
+ "scientific_name": "Ixobrychus minutus",
+ "common_name_fr": "Blongios nain",
+ "birdnet_label": "Ixobrychus minutus_Blongios nain",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Pelecaniformes",
+  "family": "Ardeidae",
+  "family_common": "Herons, Egrets, and Bitterns",
+  "genus": "Ixobrychus",
+  "species": "Ixobrychus minutus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Blongios nain",
+   "url": "https://fr.wikipedia.org/wiki/Blongios_nain",
+   "description": null,
+   "extract": "Le Blongios nain, aussi dit Butor blongios, est une espèce de hérons nicheurs et migrateurs de la famille des Ardéidés. C'est le plus petit des hérons européens.",
+   "fulltext_chars": 10979
+  },
+  "en": {
+   "title": "Little bittern",
+   "url": "https://en.wikipedia.org/wiki/Little_bittern",
+   "description": "Species of bird",
+   "extract": "The little bittern is a wading bird in the heron family, Ardeidae. This species was formerly placed in the genus Ixobrychus.",
+   "fulltext_chars": 5681
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Little_Bittern_2025_06_03_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 6098,
+  "height": 4065,
+  "file": "Little_Bittern_2025_06_03_06.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Little_Bittern_2025_06_03_06.jpg/1920px-Little_Bittern_2025_06_03_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Alexis Lours",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Little_Bittern_2025_06_03_06.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0976,
+  "cities": {
+   "Strasbourg": 0.013,
+   "Lyon": 0.013,
+   "Grenoble": 0.011,
+   "Marseille": 0.021,
+   "Toulouse": 0.013,
+   "Bordeaux": 0.01,
+   "Ajaccio": 0.098,
+   "Clermont-Ferrand": 0.011,
+   "Chamonix": 0.013,
+   "Perpignan": 0.018,
+   "Nancy": 0.011
+  },
+  "monthly_scores": [
+   0.0371,
+   0.0362,
+   0.053,
+   0.0745,
+   0.0907,
+   0.0939,
+   0.0976,
+   0.0871,
+   0.0589,
+   0.0371,
+   0.0342,
+   0.0386
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:26Z"
+}

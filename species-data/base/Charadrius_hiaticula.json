@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Charadrius hiaticula",
+ "common_name_fr": "Pluvier grand-gravelot",
+ "birdnet_label": "Charadrius hiaticula_Pluvier grand-gravelot",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Charadriidae",
+  "family_common": "Plovers and Lapwings",
+  "genus": "Charadrius",
+  "species": "Charadrius hiaticula"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pluvier grand-gravelot",
+   "url": "https://fr.wikipedia.org/wiki/Pluvier_grand-gravelot",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pluvier grand-gravelot ou Grand Gravelot, est une espèce d'oiseaux Charadriiformes de la famille des Charadriidae. C'est un petit limicole qui niche dans le nord du paléarctique et qui peut migrer jusqu'au sud de l'Équateur pour passer l'hiver.",
+   "fulltext_chars": 5980
+  },
+  "en": {
+   "title": "Common ringed plover",
+   "url": "https://en.wikipedia.org/wiki/Common_ringed_plover",
+   "description": "Species of bird",
+   "extract": "The common ringed plover, great ringed plover or ringed plover is a species of bird in the family Charadriidae. It breeds across much of northern Eurasia, as well as Greenland.",
+   "fulltext_chars": 5021
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Common_ringed_plover_%28Charadrius_hiaticula%29_Oppdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5478,
+  "height": 3652,
+  "file": "Common_ringed_plover_(Charadrius_hiaticula)_Oppdal.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Common_ringed_plover_%28Charadrius_hiaticula%29_Oppdal.jpg/1920px-Common_ringed_plover_%28Charadrius_hiaticula%29_Oppdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Charles J. Sharp",
+  "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Common_ringed_plover_(Charadrius_hiaticula)_Oppdal.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3953,
+  "cities": {
+   "Le Mans": 0.227,
+   "Pornic": 0.316,
+   "Rennes": 0.32,
+   "Poitiers": 0.196,
+   "Paris": 0.164,
+   "Lille": 0.195,
+   "Strasbourg": 0.048,
+   "Lyon": 0.07,
+   "Grenoble": 0.052,
+   "Marseille": 0.089,
+   "Toulouse": 0.112,
+   "Bordeaux": 0.181,
+   "Brest": 0.395,
+   "Ajaccio": 0.235,
+   "Clermont-Ferrand": 0.102,
+   "Chamonix": 0.047,
+   "Perpignan": 0.101,
+   "Nancy": 0.069
+  },
+  "monthly_scores": [
+   0.1549,
+   0.1637,
+   0.1899,
+   0.1981,
+   0.134,
+   0.1193,
+   0.164,
+   0.357,
+   0.3953,
+   0.2685,
+   0.1837,
+   0.168
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:15Z"
+}

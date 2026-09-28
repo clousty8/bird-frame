@@ -1,0 +1,77 @@
+{
+ "scientific_name": "Curruca hortensis",
+ "common_name_fr": "Fauvette orphée",
+ "birdnet_label": "Curruca hortensis_Fauvette orphée",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sylviidae",
+  "family_common": "Sylviid Warblers and Allies",
+  "genus": "Curruca",
+  "species": "Curruca hortensis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fauvette orphée",
+   "url": "https://fr.wikipedia.org/wiki/Fauvette_orph%C3%A9e",
+   "description": "espèce d'oiseaux",
+   "extract": "La Fauvette orphée est une espèce de passereaux d'Europe appartenant à la famille des Sylviidae. L'espèce est migratrice.",
+   "fulltext_chars": 1447
+  },
+  "en": {
+   "title": "Western Orphean warbler",
+   "url": "https://en.wikipedia.org/wiki/Western_Orphean_warbler",
+   "description": "Species of bird",
+   "extract": "The western Orphean warbler is an Old World warbler of the genus Curruca. This species occurs in summer around the Mediterranean, through western Europe and extending into northwest Africa. It is migratory, wintering in Sub-Saharan Africa. It is a rare vagrant to northern and north-western Europe.",
+   "fulltext_chars": 2475
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sylvia_nisoria_hortensis_naumann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1102,
+  "height": 1574,
+  "file": "Sylvia_nisoria_hortensis_naumann.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sylvia_nisoria_hortensis_naumann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Sylvia_nisoria_hortensis_naumann.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0432,
+  "cities": {
+   "Strasbourg": 0.015,
+   "Lyon": 0.035,
+   "Grenoble": 0.03,
+   "Marseille": 0.027,
+   "Toulouse": 0.043,
+   "Bordeaux": 0.02,
+   "Ajaccio": 0.019,
+   "Clermont-Ferrand": 0.029,
+   "Chamonix": 0.023,
+   "Perpignan": 0.036,
+   "Nancy": 0.011
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0131,
+   0.0321,
+   0.0432,
+   0.0388,
+   0.0217,
+   0.0134,
+   0.0158,
+   0.013,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:03Z"
+}

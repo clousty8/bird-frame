@@ -1,0 +1,51 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Corvus corone",
+ "summary_fr": "La Corneille noire est l'un des oiseaux les plus communs et reconnaissables d'Europe de l'Ouest. Entièrement noire, bec robuste compris, elle mesure environ cinquante centimètres pour une envergure proche d'un mètre et pèse de 400 à 600 grammes. Omnivore et opportuniste, elle se nourrit aussi bien de graines et d'invertébrés que de petits mammifères, d'œufs, de fruits ou de charognes, et n'hésite pas à harceler d'autres oiseaux pour leur voler leur proie. Très intelligente, elle reconnaît les visages humains et sait résoudre des problèmes complexes pour atteindre sa nourriture. Sociable chez les jeunes, elle devient territoriale à l'âge adulte et forme des couples stables qui défendent leur domaine plusieurs années durant. Elle bâtit un gros nid de branchettes en hauteur, dans un arbre, dès la mi-mars, et se reproduit à partir de trois ans. En France, les couples nicheurs restent globalement sur place toute l'année, mais l'hiver voit affluer des oiseaux venus du nord et de l'est de l'Europe, qui grossissent parfois de vastes dortoirs rassemblant plusieurs milliers de corvidés. Son croassement rauque et puissant, entendu toute l'année, en fait l'un des sons les plus familiers des campagnes comme des villes.",
+ "habitat": "Partout en France, du littoral à la montagne : campagne ouverte, bocage, bois, parcs urbains et centres des grandes villes.",
+ "diet": "Omnivore et très opportuniste. Graines, invertébrés (insectes, vers de terre), petits mammifères, œufs et oisillons, fruits, charognes et déchets alimentaires.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Dans toute la France : les nicheurs, en grande partie sédentaires, sont rejoints en hiver par des oiseaux venus du nord et de l'est de l'Europe.",
+  "niche": "Partout en France métropolitaine, de la mi-mars à juillet environ.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente et vocale toute l'année en France. Les effectifs augmentent d'octobre à février avec l'arrivée d'oiseaux nordiques, qui repartent ensuite vers leurs quartiers de reproduction.",
+ "song_fr": "Croassement rauque et puissant « kraa » ou « kaak » répété, caractéristique et reconnaissable. Cris variés selon les contextes : défense territoriale, alarme, communication en groupe.",
+ "lookalikes": [
+  {
+   "scientific_name": "Corvus cornix",
+   "common_name_fr": "Corneille mantelée",
+   "why_fr": "Appels croassants très similaires, mais plumage gris et noir très distinct. Rare en France, surtout présente à l'est."
+  },
+  {
+   "scientific_name": "Corvus corax",
+   "common_name_fr": "Grand Corbeau",
+   "why_fr": "Cris plus profonds et variés, taille bien plus grande. Confusion possible en audio seul sur détections faibles."
+  },
+  {
+   "scientific_name": "Corvus frugilegus",
+   "common_name_fr": "Corbeau freux",
+   "why_fr": "Appels rauques similaires, légèrement plus aigus. Base du bec nue chez l'adulte. Assez courant en France en hiver."
+  },
+  {
+   "scientific_name": "Coloeus monedula",
+   "common_name_fr": "Choucas des tours",
+   "why_fr": "Jacassement caractéristique plus aigu que la Corneille, bien distinct mais confusion possible en bruit urbain."
+  }
+ ],
+ "rarity_note": "Très commune et régulière partout en France métropolitaine, toute l'année. L'une des espèces les plus abondantes des zones habitées et agricoles.",
+ "fun_facts": [
+  "Capable de reconnaître les visages humains et de retenir ceux qui l'ont dérangée, sa mémoire en fait un sujet fascinant de recherche scientifique.",
+  "Elle a été observée déposant des noix sur le passage de voitures pour les casser, puis ramassant les fragments."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Corneille_noire",
+  "https://en.wikipedia.org/wiki/Carrion_crow",
+  "https://www.oiseaux.net/corneille.noire.html",
+  "https://www.lpo.fr/nos-guides/savez-vous/la-vie-des-oiseaux/la-corneille-noire"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

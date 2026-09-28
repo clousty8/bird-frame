@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Curruca curruca",
+ "summary_fr": "La Fauvette babillarde est un petit passereau discret mais très courant en Europe, qui se reproduit dans toute la France continentale durant l'été avant de migrer vers l'Afrique tropicale dès septembre. Long de 12 à 14 cm, cet oiseau gris et blanc affectionne les espaces buissonneux — haies, jardins, landes — où il niche à basse hauteur dans un arbuste au feuillage dense. Fortement territorial, le mâle chante depuis son arrivée en avril pour défendre son domaine et défier ses congénères. Contrairement à la plupart des fauvettes du même genre qui lui ressemblent, ses sexes sont presque identiques. Insectivore strict au printemps et en été, elle complète son régime de baies en automne. Ses brefs cris « tsé » et son chant retentissant en crécelle sont distinctifs mais demeurent faciles à confondre avec d'autres fauvettes.",
+ "habitat": "Haies, buissons, jardins avec broussailles, landes, jeunes plantations d'arbres, lisière des forêts et cultures parsemées de buissons.",
+ "diet": "Insectes et araignées à la belle saison ; baies et petits fruits à l'automne avant la migration.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique tropicale, sans dépasser l'équateur, jusqu'au Cameroun et au Soudan.",
+  "niche": "Partout en France métropolitaine d'avril à août, souvent une nichée (exceptionnellement deux en juillet-août).",
+  "passage": "Arrivée progressive des mâles à la mi-avril, suivi des femelles une semaine plus tard ; départ en bloc en septembre vers les quartiers d'hiver."
+ },
+ "seasonality_fr": "Présente en France d'avril à septembre ; absente en hiver. Chante activement dès son retour au printemps, les mâles établissant leur territoire.",
+ "song_fr": "Chant retentissant en gazouillis rapide et bruyant, ressemblant à une crécelle, constitué de courtes strophes ; cri sec et strident « tsé » ressemblant à celui d'autres fauvettes.",
+ "lookalikes": [
+  {
+   "scientific_name": "Curruca communis",
+   "common_name_fr": "Fauvette grisette",
+   "why_fr": "Même habitat, plumage gris similaire, chant et cris proches en tessiture."
+  },
+  {
+   "scientific_name": "Sylvia borin",
+   "common_name_fr": "Fauvette des jardins",
+   "why_fr": "Habite le même type de buissons, chant bourdonnant facile à confondre en écoute rapide."
+  },
+  {
+   "scientific_name": "Curruca melanocephala",
+   "common_name_fr": "Fauvette mélanocéphale",
+   "why_fr": "Plus méridionale mais présente en été, cris et chant de même type et tessiture."
+  }
+ ],
+ "rarity_note": "Commune et régulière en France durant la belle saison ; facilement détectable acoustiquement à la période de nidification grâce à son chant retentissant.",
+ "fun_facts": [
+  "Peu dimorphe sexuel : le mâle ne se distingue de la femelle que par une teinte légèrement plus vive et une aile un peu plus longue.",
+  "Le record de longévité pour cette espèce baguée est de 9 ans, battu récemment au Royaume-Uni."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fauvette_babillarde",
+  "https://en.wikipedia.org/wiki/Lesser_whitethroat",
+  "https://oiseaux.net/fauvette.babillarde.html",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

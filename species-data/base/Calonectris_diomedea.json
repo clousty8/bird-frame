@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Calonectris diomedea",
+ "common_name_fr": "Puffin de Scopoli",
+ "birdnet_label": "Calonectris diomedea_Puffin cendré",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Procellariiformes",
+  "family": "Procellariidae",
+  "family_common": "Shearwaters and Petrels",
+  "genus": "Calonectris",
+  "species": "Calonectris diomedea"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Puffin de Scopoli",
+   "url": "https://fr.wikipedia.org/wiki/Puffin_de_Scopoli",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Puffin de Scopoli est une espèce d’oiseaux de mer du bassin méditerranéen, d'assez grande taille, de la famille des Procellariidae. Ces oiseaux grégaires hivernent au large, et reviennent chaque année nicher sur les îles et côtes rocheuses européennes, y compris françaises.",
+   "fulltext_chars": 14284
+  },
+  "en": {
+   "title": "Scopoli's shearwater",
+   "url": "https://en.wikipedia.org/wiki/Scopoli's_shearwater",
+   "description": "Species of bird",
+   "extract": "Scopoli's shearwater is a seabird in the petrel family Procellariidae. It breeds on rocky islands and on steep coasts in the Mediterranean but outside the breeding season it forages in the Atlantic. It is brownish grey above with darker wings and mostly white below. The bill is pale yellow with a dark patch near the tip. The sexes are alike. It was formerly considered to be conspecific with Cory's shearwater.",
+   "fulltext_chars": 4780
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Calonectris_diomedea%2C_Cabrera_National_Park_%2812076283283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 690,
+  "file": "Calonectris_diomedea,_Cabrera_National_Park_(12076283283).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Calonectris_diomedea%2C_Cabrera_National_Park_%2812076283283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Marcabrera",
+  "credit": "Skua_20100427_160034_03 - Version 2",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Calonectris_diomedea,_Cabrera_National_Park_(12076283283).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2963,
+  "cities": {
+   "Le Mans": 0.015,
+   "Pornic": 0.032,
+   "Rennes": 0.023,
+   "Poitiers": 0.025,
+   "Lyon": 0.015,
+   "Grenoble": 0.019,
+   "Marseille": 0.059,
+   "Toulouse": 0.031,
+   "Bordeaux": 0.033,
+   "Brest": 0.033,
+   "Ajaccio": 0.296,
+   "Clermont-Ferrand": 0.017,
+   "Chamonix": 0.013,
+   "Perpignan": 0.052
+  },
+  "monthly_scores": [
+   0.2404,
+   0.2665,
+   0.2963,
+   0.1711,
+   0.1189,
+   0.13,
+   0.1643,
+   0.1523,
+   0.1008,
+   0.1537,
+   0.2065,
+   0.2272
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:11Z"
+}

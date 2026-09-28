@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Mergellus albellus",
+ "summary_fr": "Le Harle piette est un petit canard plongeur aux formes élancées, seul représentant du genre Mergellus dans la famille des Anatidae. Le mâle adulte, avec son plumage noir et blanc caractéristique dit « glaçure craquée », est impossible à confondre en vol. Les femelles et jeunes mâles offrent une silhouette grise avec un front et une calotte châtains, les joues blanches et les lores noirs : on les appelle « têtes rouges ». Cet oiseau fait preuve d'une grande timidité et s'envole facilement au moindre dérangement. Il gère le poisson grâce à son bec effilé à extrémité recourbée et aux bords dentelés qui lui permettent une bonne adhérence sous l'eau. En France, le Harle piette n'est qu'un visiteur hivernal régulier sur les plans d'eau côtiers et continentaux, notamment en Normandie et sur les côtes atlantiques.",
+ "habitat": "Lacs et étangs d'eau douce, plans d'eau côtiers et estuaires avec zones boisées au rivage. Niche préférant les abords des rives arbustives à plus de 4 mètres de profondeur en climat subarctique.",
+ "diet": "Petit poisson capturé en plongée (ablettes, éperlans, petites carpes) ; rarement invertébrés aquatiques lors de l'élevage des jeunes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Côtes européennes côtières et plans d'eau continentaux : mer Baltique, mer Noire, Allemagne du Nord, Pays-Bas, Grande-Bretagne ; en France surtout en Normandie, Bretagne, Loire-Atlantique et estuaires de façade atlantique.",
+  "niche": "Taïga du Paléarctique boréal, de Scandinavie nord à la Tchoukotka ; niche toujours en cavités d'arbres anciens.",
+  "passage": "Arrivée progressive d'octobre à novembre, départ d'février à avril, avec pics de passage selon les conditions de gel."
+ },
+ "seasonality_fr": "Présent surtout d'octobre à avril en France, absent en juillet et août. Les passages printaniers sont parfois audibles lorsque les groupes s'échangent des cris d'impatience avant de regagner les zones de nidification.",
+ "song_fr": "Oiseau généralement silencieux. Cris rauques et grinçants en vol (« crro-crro »), léger ronronnement des ailes en vol qui contribue à sa détection acoustique. Calls d'alarme criards en cas de perturbation.",
+ "lookalikes": [
+  {
+   "scientific_name": "Bucephala clangula",
+   "common_name_fr": "Garrot à oeil d'or",
+   "why_fr": "Petit canard plongeur sympatrique en hiver. Le mâle du Garrot est aussi noir et blanc mais plus trapu ; le Harle piette a des ailes plus blanches visibles en vol et une silhouette plus élancée."
+  },
+  {
+   "scientific_name": "Mergus serrator",
+   "common_name_fr": "Harle huppé",
+   "why_fr": "Harle congénère, beaucoup plus grand et crêté. Cris plus graves. Ne se confondrait acoustiquement qu'avec les femelles, différentiables par la taille et le rythme vocal distinctif."
+  }
+ ],
+ "rarity_note": "Migrateur hivernal régulier en France côtière, peu commun et localisé. Score de détection 0,067 en moyenne française, max 0,067 à Lille et Nancy. Observations hivernales de novembre à mars surtout.",
+ "fun_facts": [
+  "Le Harle piette hybride occasionnellement avec le Garrot à oeil d'or, produisant des oiseaux intermédiaires en morphologie et cri.",
+  "Contrairement à ses cousins merganser, le Harle piette chasse exclusivement le petit poisson, pas les écrevisses ou crustacés."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Harle_piette",
+  "https://en.wikipedia.org/wiki/Smew",
+  "https://www.oiseaux.net/fiches/mergellus.albellus.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

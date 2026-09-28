@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Aegolius funereus",
+ "common_name_fr": "Nyctale de Tengmalm",
+ "birdnet_label": "Aegolius funereus_Nyctale de Tengmalm",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Strigiformes",
+  "family": "Strigidae",
+  "family_common": "Owls",
+  "genus": "Aegolius",
+  "species": "Aegolius funereus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Nyctale de Tengmalm",
+   "url": "https://fr.wikipedia.org/wiki/Nyctale_de_Tengmalm",
+   "description": "espèce d'oiseaux strigiformes de la famille des strigidae",
+   "extract": "La Nyctale de Tengmalm ou Chouette de Tengmalm ou, encore, Chouette boréale est une espèce de petits rapaces nocturnes de la famille des Strigidae. Difficile à observer, elle est protégée au niveau européen. Espèce d'origine boréale, elle est peu présente en France, on la retrouve principalement dans les massifs montagneux et les forêts froides, en altitude et les principaux plateaux de l'Est.",
+   "fulltext_chars": 13774
+  },
+  "en": {
+   "title": "Boreal owl",
+   "url": "https://en.wikipedia.org/wiki/Boreal_owl",
+   "description": "Species of owl",
+   "extract": "The boreal owl or Tengmalm's owl is a small owl in the \"true owl\" family Strigidae. It is known as the boreal owl or, more rarely, Richardson's owl after Sir John Richardson, in North America, and as Tengmalm's owl in Europe and Asia, after the Swedish naturalist Peter Gustaf Tengmalm.",
+   "fulltext_chars": 12891
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Aegolius_funereus_1388020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2075,
+  "height": 3072,
+  "file": "Aegolius_funereus_1388020.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Aegolius_funereus_1388020.jpg/1920px-Aegolius_funereus_1388020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 3.0 us",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+  "author": "Steven Katovich from United States USDA Forest Service",
+  "credit": "This image is Image Number 1388020 at Forestry Images, a source for forest health, natural resources and silviculture images operated by The Bugwood Network at the University of Georgia and the USDA Forest Service.\nCheck archived versions at web.archive/archive.is or on insectimages.org",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Aegolius_funereus_1388020.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0268,
+  "cities": {
+   "Ajaccio": 0.027
+  },
+  "monthly_scores": [
+   0.0241,
+   0.0268,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0204,
+   0.0228
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:06Z"
+}

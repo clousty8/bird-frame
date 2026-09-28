@@ -1,0 +1,88 @@
+{
+ "scientific_name": "Uria aalge",
+ "common_name_fr": "Guillemot marmette",
+ "birdnet_label": "Uria aalge_Guillemot marmette",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Alcidae",
+  "family_common": "Auks, Murres, and Puffins",
+  "genus": "Uria",
+  "species": "Uria aalge"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Guillemot de Troïl",
+   "url": "https://fr.wikipedia.org/wiki/Guillemot_de_Tro%C3%AFl",
+   "description": "espèce d'oiseaux",
+   "extract": "\n\nLe Guillemot de Troïl, connu aussi sous le nom de Guillemot marmette au Canada, est une espèce d'oiseaux Charadriiformes de la famille des Alcidae. C'est un oiseau marin qui vit au nord du tropique du Cancer.",
+   "fulltext_chars": 7632
+  },
+  "en": {
+   "title": "Common murre",
+   "url": "https://en.wikipedia.org/wiki/Common_murre",
+   "description": "Species of bird",
+   "extract": "The common murre or common guillemot is a large auk, one of several species called murre or guillemot. It has a circumpolar distribution, occurring in low-Arctic and boreal waters in the North Atlantic and North Pacific. It spends most of its time at sea, only coming to land to breed on rocky cliff shores or islands.",
+   "fulltext_chars": 19505
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/17/Common_Murre_RWD1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3775,
+  "height": 2833,
+  "file": "Common_Murre_RWD1.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Common_Murre_RWD1.jpg/1920px-Common_Murre_RWD1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "DickDaniels  (http://theworldbirds.org/)",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Common_Murre_RWD1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1589,
+  "cities": {
+   "Le Mans": 0.052,
+   "Pornic": 0.098,
+   "Rennes": 0.095,
+   "Poitiers": 0.043,
+   "Paris": 0.031,
+   "Lille": 0.043,
+   "Bordeaux": 0.028,
+   "Brest": 0.159,
+   "Clermont-Ferrand": 0.011
+  },
+  "monthly_scores": [
+   0.1201,
+   0.1194,
+   0.1453,
+   0.1252,
+   0.1259,
+   0.157,
+   0.1589,
+   0.0721,
+   0.0625,
+   0.1407,
+   0.1296,
+   0.1205
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:30Z"
+}

@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anthus cervinus",
+ "summary_fr": "Petit passereau des régions boréales, le Pipit à gorge rousse est un migrateur de longue distance qui traverse l'Europe chaque printemps et automne pour voyager entre ses aires de reproduction nordiques et ses quartiers d'hivernage africains ou asiatiques. En période nuptiale, le mâle arbore une gorge et un plastron d'un roux caractéristique qui le distingue des autres pipits, bien que dans ses autres plumages il reste peu distinctif avec son plumage brunâtre tacheté. Très rare en France où il n'est qu'un visiteur occasionnel durant les passages migratoires, cet oiseau peupleur de toundra se révèle cependant reconnaissable à son cri typique aigu et incisif « pssiiihh » qui le trahit immédiatement lors de son envol. Confondable acoustiquement avec le Pipit farlouse ou le Pipit des arbres, ses passages français sont limités aux zones herbeuses humides et aux abords des étangs, particulièrement en région méditerranéenne.",
+ "habitat": "Régions boréales, montagnes, marais et toundra en zone de reproduction ; zones herbeuses humides et abords d'étangs et salines en migration.",
+ "diet": "Insectes, araignées, vers et autres invertébrés ; petites graines trouvées au sol.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": "Ne niche pas en France ; reproduction en régions boréales du nord de l'Europe et d'Asie.",
+  "passage": "Mars à avril et août à décembre, avec passages les plus réguliers en septembre et octobre."
+ },
+ "seasonality_fr": "Visible uniquement en passages migratoires : mars à avril au printemps, août à décembre en automne, très rare mais régulier lors de ces périodes en France.",
+ "song_fr": "Cri typique aigu et incisif : « pssiiihh » affaiblissant progressivement ; chant moins fréquent composé de notes fines et métalliques en répétition rythmée avec trilles caractéristiques.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anthus pratensis",
+   "common_name_fr": "Pipit farlouse",
+   "why_fr": "Très similaire en apparence, habitats de migration superposés ; seul le cri distinctif « pssiiihh » du Pipit à gorge rousse permet une séparation fiable."
+  },
+  {
+   "scientific_name": "Anthus trivialis",
+   "common_name_fr": "Pipit des arbres",
+   "why_fr": "Ressemblance marquée en automne ; le Pipit à gorge rousse présente toutefois des stries plus nombreuses sur la calotte, le dos et les flancs."
+  }
+ ],
+ "rarity_note": "Très rare en France où il n'est qu'un migrateur occasionnel ; signalé presque exclusivement en région méditerranéenne (Ajaccio) avec un score BirdNET maximal de 0,026.",
+ "fun_facts": [
+  "Le mâle en plumage nuptial affiche une gorge rouille vif d'où provient le nom français de l'espèce, caractère totalement absent chez les autres pipits.",
+  "Grand migrateur effectuant des trajets de plusieurs milliers de kilomètres entre ses aires de reproduction boréales et ses quartiers d'hivernage en Afrique sub-saharienne et Asie du Sud-Est.",
+  "Son cri typique « pssiiihh » aigu et décroissant lui permet d'être distingué des pipits similaires même en vol, bien avant toute observation visuelle."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pipit_%C3%A0_gorge_rousse",
+  "https://en.wikipedia.org/wiki/Red-throated_pipit",
+  "https://www.oiseaux.net/species.html?species=anthus.cervinus"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

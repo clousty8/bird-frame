@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Emberiza citrinella",
+ "common_name_fr": "Bruant jaune",
+ "birdnet_label": "Emberiza citrinella_Bruant jaune",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Emberizidae",
+  "family_common": "Old World Buntings",
+  "genus": "Emberiza",
+  "species": "Emberiza citrinella"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bruant jaune",
+   "url": "https://fr.wikipedia.org/wiki/Bruant_jaune",
+   "description": "espèce d'oiseaux passériformes de la famille des emberizidae",
+   "extract": "Le Bruant jaune est une petite espèce de passereaux appartenant à la famille des Emberizidae, migrateur partiel. C'est une espèce en déclin.",
+   "fulltext_chars": 14213
+  },
+  "en": {
+   "title": "Yellowhammer",
+   "url": "https://en.wikipedia.org/wiki/Yellowhammer",
+   "description": "Passerine bird in the bunting family that is native to Eurasia",
+   "extract": "The yellowhammer is a passerine bird in the bunting family that is native to Eurasia and has been introduced to New Zealand and Australia. Most European birds remain in the breeding range year-round, but the eastern subspecies is partially migratory, with much of the population wintering further south. The male yellowhammer has a bright yellow head, streaked brown back, chestnut rump, and yellow under parts. Other plumages are duller versions of the same pattern. The yellowhammer is common in open areas with some shrubs or trees, and forms small flocks in winter. Its song has a rhythm like \"A little bit of bread and no cheese\". The song is very similar to that of its closest relative, the pine bunting, with which it interbreeds.",
+   "fulltext_chars": 18861
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/84/Yellowhammer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 586,
+  "height": 474,
+  "file": "Yellowhammer.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/8/84/Yellowhammer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Yellowhammer.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.5328,
+  "cities": {
+   "Le Mans": 0.167,
+   "Pornic": 0.114,
+   "Rennes": 0.13,
+   "Poitiers": 0.156,
+   "Paris": 0.239,
+   "Lille": 0.304,
+   "Strasbourg": 0.533,
+   "Lyon": 0.23,
+   "Grenoble": 0.161,
+   "Marseille": 0.074,
+   "Toulouse": 0.14,
+   "Bordeaux": 0.163,
+   "Brest": 0.1,
+   "Ajaccio": 0.083,
+   "Clermont-Ferrand": 0.217,
+   "Chamonix": 0.222,
+   "Perpignan": 0.082,
+   "Nancy": 0.436
+  },
+  "monthly_scores": [
+   0.2603,
+   0.2773,
+   0.3724,
+   0.4,
+   0.5247,
+   0.5328,
+   0.4507,
+   0.2066,
+   0.1805,
+   0.301,
+   0.2446,
+   0.238
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:02Z"
+}

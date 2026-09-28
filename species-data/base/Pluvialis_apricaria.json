@@ -1,0 +1,94 @@
+{
+ "scientific_name": "Pluvialis apricaria",
+ "common_name_fr": "Pluvier doré",
+ "birdnet_label": "Pluvialis apricaria_Pluvier doré",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Charadriidae",
+  "family_common": "Plovers and Lapwings",
+  "genus": "Pluvialis",
+  "species": "Pluvialis apricaria"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pluvier doré",
+   "url": "https://fr.wikipedia.org/wiki/Pluvier_dor%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pluvier doré est une espèce d'oiseaux Charadriiformes de la famille des Charadriidae. C'est un limicole paléarctique qui niche de l'Islande à la Sibérie et migre en Europe de l'Ouest et dans le bassin méditerranéen pour l'hiver.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "European golden plover",
+   "url": "https://en.wikipedia.org/wiki/European_golden_plover",
+   "description": "Species of bird",
+   "extract": "The European golden plover, also known as the Eurasian golden plover, greater golden plover, or just the golden plover within Europe, is a relatively large species of plover. This species is similar to two other golden plovers, the American golden plover, Pluvialis dominica, and Pacific golden plover, Pluvialis fulva, which are both slightly smaller, slimmer and longer-legged than European golden plover, and both have grey rather than white axillary (armpit) feathers.",
+   "fulltext_chars": 5474
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pluvierdore1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 683,
+  "file": "Pluvierdore1.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pluvierdore1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Sylvain Haye",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Pluvierdore1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3035,
+  "cities": {
+   "Le Mans": 0.103,
+   "Pornic": 0.15,
+   "Rennes": 0.149,
+   "Poitiers": 0.099,
+   "Paris": 0.086,
+   "Lille": 0.142,
+   "Strasbourg": 0.02,
+   "Lyon": 0.044,
+   "Grenoble": 0.039,
+   "Marseille": 0.086,
+   "Toulouse": 0.059,
+   "Bordeaux": 0.09,
+   "Brest": 0.192,
+   "Ajaccio": 0.304,
+   "Clermont-Ferrand": 0.059,
+   "Chamonix": 0.027,
+   "Perpignan": 0.07,
+   "Nancy": 0.031
+  },
+  "monthly_scores": [
+   0.2886,
+   0.3035,
+   0.2115,
+   0.0575,
+   0.0109,
+   0.0,
+   0.0226,
+   0.0576,
+   0.0761,
+   0.192,
+   0.2788,
+   0.2838
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:10Z"
+}

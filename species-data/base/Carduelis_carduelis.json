@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Carduelis carduelis",
+ "common_name_fr": "Chardonneret élégant",
+ "birdnet_label": "Carduelis carduelis_Chardonneret élégant",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Fringillidae",
+  "family_common": "Finches, Euphonias, and Allies",
+  "genus": "Carduelis",
+  "species": "Carduelis carduelis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Chardonneret élégant",
+   "url": "https://fr.wikipedia.org/wiki/Chardonneret_%C3%A9l%C3%A9gant",
+   "description": "espèce d'oiseaux passériformes de la famille des fringillidae",
+   "extract": "Le Chardonneret élégant est une espèce de passereaux de la famille des Fringillidae, partiellement migratrice, petite et très bariolée.",
+   "fulltext_chars": 16430
+  },
+  "en": {
+   "title": "European goldfinch",
+   "url": "https://en.wikipedia.org/wiki/European_goldfinch",
+   "description": "Species of bird",
+   "extract": "The European goldfinch, or simply goldfinch, is a small passerine bird in the finch family that is native to the Palearctic zone in Europe, northern Africa, and western Asia. It has been introduced to other areas, including Australia, New Zealand, Uruguay and the United States.",
+   "fulltext_chars": 11858
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Carduelis_carduelis_%282012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2794,
+  "height": 1864,
+  "file": "Carduelis_carduelis_(2012).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Carduelis_carduelis_%282012%29.jpg/1920px-Carduelis_carduelis_%282012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Pierre Dalous",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_(2012).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.8682,
+  "cities": {
+   "Le Mans": 0.648,
+   "Pornic": 0.575,
+   "Rennes": 0.644,
+   "Poitiers": 0.622,
+   "Paris": 0.694,
+   "Lille": 0.703,
+   "Strasbourg": 0.684,
+   "Lyon": 0.671,
+   "Grenoble": 0.77,
+   "Marseille": 0.832,
+   "Toulouse": 0.794,
+   "Bordeaux": 0.663,
+   "Brest": 0.649,
+   "Ajaccio": 0.801,
+   "Clermont-Ferrand": 0.649,
+   "Chamonix": 0.705,
+   "Perpignan": 0.868,
+   "Nancy": 0.681
+  },
+  "monthly_scores": [
+   0.7447,
+   0.7154,
+   0.778,
+   0.8425,
+   0.8682,
+   0.8642,
+   0.8336,
+   0.76,
+   0.618,
+   0.7066,
+   0.7581,
+   0.7604
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:39Z"
+}

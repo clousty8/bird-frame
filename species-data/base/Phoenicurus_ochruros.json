@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Phoenicurus ochruros",
+ "common_name_fr": "Rougequeue noir",
+ "birdnet_label": "Phoenicurus ochruros_Rougequeue noir",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Muscicapidae",
+  "family_common": "Old World Flycatchers",
+  "genus": "Phoenicurus",
+  "species": "Phoenicurus ochruros"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Rougequeue noir",
+   "url": "https://fr.wikipedia.org/wiki/Rougequeue_noir",
+   "description": "espèce d'oiseaux du genre Phoenicurus",
+   "extract": "Le Rougequeue noir est une espèce de petits passereaux partiellement migratrice très répandue, de la famille des Muscicapidae. Il est également parfois appelé rossignol des murailles ou queue rousse.",
+   "fulltext_chars": 12696
+  },
+  "en": {
+   "title": "Black redstart",
+   "url": "https://en.wikipedia.org/wiki/Black_redstart",
+   "description": "Species of bird",
+   "extract": "The black redstart is a small passerine bird in the Old World flycatcher family. It is a widespread breeder in rocky habitats across Eurasia and North Africa, from the British Isles south to Morocco and east to central China. It is resident in the milder parts of its range, but northern and eastern birds migrate.",
+   "fulltext_chars": 8420
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/94/Phoenicurus_ochruros_%40_Calanque_des_Pierres-Tomb%C3%A9es_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5184,
+  "height": 3888,
+  "file": "Phoenicurus_ochruros_@_Calanque_des_Pierres-Tombées_19.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Phoenicurus_ochruros_%40_Calanque_des_Pierres-Tomb%C3%A9es_19.jpg/1920px-Phoenicurus_ochruros_%40_Calanque_des_Pierres-Tomb%C3%A9es_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Rémih",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Phoenicurus_ochruros_@_Calanque_des_Pierres-Tomb%C3%A9es_19.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.8565,
+  "cities": {
+   "Le Mans": 0.365,
+   "Pornic": 0.36,
+   "Rennes": 0.265,
+   "Poitiers": 0.528,
+   "Paris": 0.403,
+   "Lille": 0.21,
+   "Strasbourg": 0.689,
+   "Lyon": 0.785,
+   "Grenoble": 0.758,
+   "Marseille": 0.669,
+   "Toulouse": 0.787,
+   "Bordeaux": 0.738,
+   "Brest": 0.175,
+   "Ajaccio": 0.856,
+   "Clermont-Ferrand": 0.751,
+   "Chamonix": 0.79,
+   "Perpignan": 0.785,
+   "Nancy": 0.606
+  },
+  "monthly_scores": [
+   0.8337,
+   0.8336,
+   0.7866,
+   0.7349,
+   0.7855,
+   0.79,
+   0.7509,
+   0.6705,
+   0.6513,
+   0.7313,
+   0.8459,
+   0.8565
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:40Z"
+}

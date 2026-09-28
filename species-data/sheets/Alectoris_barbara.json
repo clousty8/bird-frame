@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Alectoris barbara",
+ "summary_fr": "La Perdrix gambra est un galliforme trapu d'Afrique du Nord, au plumage subtilement bariolé, mesurant 30 à 36 cm pour 450 à 750 grammes. Elle ressemble beaucoup à ses cousines européennes, la Perdrix rouge et la Perdrix bartavelle, mais s'en distingue par un collet marron piqueté de blanc plutôt qu'un collier noir net, et par des scapulaires bleu-gris bordées de roux vif. Espèce foncièrement sédentaire, elle ne migre jamais, même dans son aire native du Maghreb, des îles Canaries, de Sardaigne et de Gibraltar, dont elle est l'oiseau national. Grégaire, elle forme en hiver des compagnies pouvant réunir une centaine d'individus, qui se scindent en couples au printemps venu. Omnivore, elle picore surtout des fourmis et d'autres insectes, complétés de graines, de jeunes pousses et de petits fruits, olives comprises à l'occasion. Elle niche à même le sol, parfois dans d'anciens nids de pie perchés dans les arbres pour échapper aux prédateurs terrestres. Des ossements retrouvés sur des sites paléolithiques et néolithiques attestent sa présence ancienne en France métropolitaine, mais elle en a totalement disparu depuis lors ; toute observation actuelle y resterait tout à fait exceptionnelle.",
+ "habitat": "Zones sèches, rocheuses et souvent vallonnées d'Afrique du Nord (Maroc, Algérie, Tunisie, Libye, nord du Tchad, Égypte) ; également aux îles Canaries, en Sardaigne et à Gibraltar.",
+ "diet": "Omnivore : insectes (surtout des fourmis), graines, jeunes pousses et petits fruits, olives à l'occasion.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": null,
+  "niche": "Ne niche pas en France, disparue du territoire métropolitain depuis le néolithique ; population native résidente en Afrique du Nord, aux Canaries, en Sardaigne et à Gibraltar.",
+  "passage": null
+ },
+ "seasonality_fr": "Disparue de France métropolitaine depuis le néolithique ; une observation y serait aujourd'hui tout à fait exceptionnelle, l'espèce vivant hors de son aire native nord-africaine et méditerranéenne.",
+ "song_fr": "Cri bruyant et répétitif ressemblant à « tre-tre-tre-tre-cheeche-tre-tre-tre » ; cris d'alarme secs émis lors de perturbations.",
+ "lookalikes": [
+  {
+   "scientific_name": "Alectoris rufa",
+   "common_name_fr": "Perdrix rouge",
+   "why_fr": "Très proche morphologiquement, même silhouette, pattes rouges ; cris similaires. Même genre Alectoris."
+  },
+  {
+   "scientific_name": "Alectoris graeca",
+   "common_name_fr": "Perdrix bartavelle",
+   "why_fr": "Morphologie comparable avec pattes rouges et flancs barrés ; cris du même type, confusion acoustique possible."
+  },
+  {
+   "scientific_name": "Perdix perdix",
+   "common_name_fr": "Perdrix grise",
+   "why_fr": "Perdrix commune en Europe ; vocalises qui peuvent se chevaucher, notamment les cris d'appel."
+  }
+ ],
+ "rarity_note": "Disparue de France métropolitaine depuis le néolithique ; espèce non migratrice, résidente en Afrique du Nord et dans quelques îles. Toute mention en France y serait accidentelle.",
+ "fun_facts": [
+  "Oiseau national de Gibraltar, où elle figure au revers des pièces locales d'une livre sterling.",
+  "Représentée par quatre sous-espèces distinctes réparties de la Mauritanie au nord-ouest de l'Égypte.",
+  "Plutôt que de s'envoler, elle préfère grimper en courant les versants rocheux qu'elle habite."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Perdrix_gambra",
+  "https://en.wikipedia.org/wiki/Barbary_partridge",
+  "https://oiseaux.net"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

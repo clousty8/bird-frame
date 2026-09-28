@@ -1,0 +1,80 @@
+{
+ "scientific_name": "Anser serrirostris",
+ "common_name_fr": "Oie de la toundra",
+ "birdnet_label": "Anser serrirostris_Oie de la toundra",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Anser",
+  "species": "Anser serrirostris"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Oie de la toundra",
+   "url": "https://fr.wikipedia.org/wiki/Oie_de_la_toundra",
+   "description": "espèce d'oiseau",
+   "extract": "L'Oie de la toundra, parfois aussi appelée Oie des moissons de la toundra, est une espèce d’oiseaux de la famille des Anatidae, quelquefois considérée comme une sous-espèce de l’Oie des moissons.",
+   "fulltext_chars": 1385
+  },
+  "en": {
+   "title": "Tundra bean goose",
+   "url": "https://en.wikipedia.org/wiki/Tundra_bean_goose",
+   "description": "Species of bird",
+   "extract": "The tundra bean goose is a goose that breeds in northern Siberia. This and the taiga bean goose are recognised as separate species by the American Ornithological Society and International Ornithologists' Union, but are considered a single species by other authorities. It is migratory and winters further south in Asia. The taiga and tundra bean goose diverged about 2.5 million years ago and established secondary contact ca. 60,000 years ago, resulting in extensive gene flow.",
+   "fulltext_chars": 2083
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/db/101777%E5%8F%B0%E5%8D%97%E7%99%BC%E7%8F%BE%E8%B1%86%E9%9B%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1982,
+  "height": 1445,
+  "file": "101777台南發現豆雁.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/101777%E5%8F%B0%E5%8D%97%E7%99%BC%E7%8F%BE%E8%B1%86%E9%9B%81.jpg/1920px-101777%E5%8F%B0%E5%8D%97%E7%99%BC%E7%8F%BE%E8%B1%86%E9%9B%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "邱文強",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:101777%E5%8F%B0%E5%8D%97%E7%99%BC%E7%8F%BE%E8%B1%86%E9%9B%81.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0497,
+  "cities": {
+   "Le Mans": 0.014,
+   "Poitiers": 0.019,
+   "Paris": 0.026,
+   "Lille": 0.037,
+   "Strasbourg": 0.05,
+   "Lyon": 0.031,
+   "Grenoble": 0.019,
+   "Marseille": 0.012,
+   "Toulouse": 0.011,
+   "Bordeaux": 0.015,
+   "Ajaccio": 0.021,
+   "Clermont-Ferrand": 0.033,
+   "Chamonix": 0.025,
+   "Nancy": 0.041
+  },
+  "monthly_scores": [
+   0.0414,
+   0.0286,
+   0.0211,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0373,
+   0.0497,
+   0.0472
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:00Z"
+}

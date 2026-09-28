@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Vanellus vanellus",
+ "summary_fr": "Le Vanneau huppé est un limicole grégaire reconnaissable à sa longue huppe noire effilée, à son dos vert irisé et à son ventre blanc contrastant avec des sous-caudales orangées. Commun en Europe tempérée et dans toute l'écozone paléarctique, il fréquente les terrains découverts : vasières, prairies humides et champs cultivés, où il niche au sol dans une simple cuvette grattée par le mâle. Son vol, aux ailes larges et arrondies au bruissement particulier, lui vaut son nom : le Vanneau rappelle le van, ce tamis que le vanneur agitait pour cribler le grain. Son activité est mixte : très démonstratif de jour en parade, avec vols acrobatiques et cris lancés à la volée, il chasse aussi de nuit, surtout par pleine lune, tapotant le sol du pied pour faire remonter vers et insectes. Migrateur partiel, il quitte en troupes compactes l'Europe continentale et nordique dès fin juillet pour hiverner plus au sud, tandis que les populations de l'ouest, dont celles de France, restent largement sédentaires. En hiver, il se rassemble en grand nombre au creux des sillons de labour. Son cri nasillard « pee-wit », entendu surtout au printemps, en fait un limicole facile à identifier à l'oreille.",
+ "habitat": "Terrains découverts : vasières, prairies humides, champs cultivés et landes d'Europe. Niche au sol en prairie humide ou en plaine agricole ; hiverne sur les terres ouvertes et les vasières littorales.",
+ "diet": "Insectes, araignées et vers de terre, capturés au sol après un tapotement du pied qui les fait remonter à la surface, une technique parfois appelée « appel des vers ».",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Sud de son aire de reproduction jusqu'en Afrique du Nord. En France, hiverne en grand nombre, surtout en régions maritimes et littorales.",
+  "niche": "En colonies éparses en Europe centrale et nordique d'avril à juillet, principalement dans les champs et les landes ; niche aussi en France.",
+  "passage": "Migrations marquées de fin juillet à septembre vers le sud et l'ouest, puis de mars à avril vers le nord."
+ },
+ "seasonality_fr": "Présent toute l'année en France, avec de très grands rassemblements hivernaux en régions maritimes. Très vocal pendant la parade nuptiale, au printemps.",
+ "song_fr": "Cri caractéristique « pee-wit » aigu et puissant ; en parade nuptiale, phrase nasillarde « pee-wit, wit wit, eeze wit ». Émet aussi des sons grinçants et miaulants.",
+ "lookalikes": [
+  {
+   "scientific_name": "Charadrius hiaticula",
+   "common_name_fr": "Pluvier grand-gravelot",
+   "why_fr": "Petits cris secs pouvant rappeler ceux du Vanneau, mais oiseau bien plus petit et dépourvu de huppe."
+  },
+  {
+   "scientific_name": "Pluvialis apricaria",
+   "common_name_fr": "Pluvier doré",
+   "why_fr": "Appels fluides d'une tessiture proche ; taille comparable mais absence de la huppe noire distinctive."
+  },
+  {
+   "scientific_name": "Pluvialis squatarola",
+   "common_name_fr": "Pluvier argenté",
+   "why_fr": "Cri sifflé aigu pouvant être confondu acoustiquement avec celui du Vanneau ; plumage noir et blanc."
+  }
+ ],
+ "rarity_note": "Commun en France, observé toute l'année et particulièrement abondant en hiver dans les régions côtières.",
+ "fun_facts": [
+  "Le nom « Vanneau » vient du bruit de ses ailes en vol, qui rappelle celui du van utilisé pour cribler le grain.",
+  "Malgré des parades très diurnes, il chasse volontiers la nuit, surtout au clair de lune.",
+  "Déclaré oiseau national de la République d'Irlande par l'Irish Wildlife Conservancy en 1990."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Vanneau_hupp%C3%A9",
+  "https://en.wikipedia.org/wiki/Northern_lapwing",
+  "https://www.oiseaux.net/oiseaux/vanneau.huppe.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "scientific_name": "Chlidonias leucopterus",
+  "summary_fr": "La Guifette leucoptère est une petite sterne élancée des zones humides d'Eurasie, reconnaissable à ses ailes blanches contrastant avec son corps sombre. Contrairement aux autres sternes qui plongent dans l'eau, elle vole bas en rasant la surface pour attraper insectes et petits poissons en vol ou à la surface, avec un battement d'aile léger et paresseux. C'est un migrateur long-courrier qui niche en Europe de l'Est et en Asie centrale, puis s'envole vers l'Afrique et l'Asie du Sud pour l'hiver. En France, elle ne figure que comme passage migratoire rare, surtout au printemps et en automne, concentrée dans les régions méditerranéennes et les grands lacs intérieurs. Son allure délicate et son vol caractéristique la rendent aisément reconnaissable une fois observée, bien que les confusions acoustiques avec ses cousines guifettes noires et moustac soient possibles.",
+  "habitat": "Marais d'eau douce, lacs et grandes pièces d'eau en période de nidification ; zones côtières et intérieures en haltes migratoires.",
+  "diet": "Insectes et petits invertébrés aquatiques capturés en vol ; petits poissons pris à la surface par picage en rasant l'eau.",
+  "activity_pattern": "diurne",
+  "migration": {
+    "statut": "de passage",
+    "hiverne": "Afrique du Nord, subsaharienne, Asie du Sud-Est et Australie, loin de la France.",
+    "niche": "Ne niche pas en France ; nidification en Europe du Sud-Est jusqu'en Asie centrale et Russie extrême-orientale.",
+    "passage": "Passages réguliers en mars-avril et septembre-octobre lors des migrations ; très rare, surtout observée en Méditerranée française."
+  },
+  "seasonality_fr": "Visible principalement lors des périodes de migration, de mars à mai et août à octobre, plus rarement en été. Absence complète en hiver hors de zones méditerranéennes très limitées.",
+  "song_fr": "Cris brefs et aigus, « kik-kik-kik » saccadé ressemblant à d'autres guifettes ; chant nuptial peu audible, rarement entendu en France.",
+  "lookalikes": [
+    {
+      "scientific_name": "Chlidonias niger",
+      "common_name_fr": "Guifette noire",
+      "why_fr": "Cris très semblables, morphologie proche en plumage d'hiver ; distinction nécessaire sur le chant et les modulations."
+    },
+    {
+      "scientific_name": "Chlidonias hybrida",
+      "common_name_fr": "Guifette moustac",
+      "why_fr": "Guifette aussi du genre Chlidonias, cris ressemblants et contexte écologique similaire lors du passage."
+    }
+  ],
+  "rarity_note": "Très rare en France : classée comme passage migratoire exceptionnel, surtout méditerranéen. Aucune nidification confirmée.",
+  "fun_facts": [
+    "Contrairement aux sternes plongeuses (Sterna), elle picore les insectes et petits poissons à la surface sans jamais plonger.",
+    "Son nom scientifique leucopterus signifie « ailes blanches » en grec ancien, caractère distinctif majeur en vol."
+  ],
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Guifette_leucopt%C3%A8re",
+    "https://en.wikipedia.org/wiki/White-winged_tern",
+    "https://www.oiseaux.net/",
+    "https://www.lpo.fr/"
+  ],
+  "generated_at": "2026-09-27T17:00:00Z",
+  "generator_model": "claude-haiku-4-5"
+}

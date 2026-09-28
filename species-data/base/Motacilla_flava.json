@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Motacilla flava",
+ "common_name_fr": "Bergeronnette printanière",
+ "birdnet_label": "Motacilla flava_Bergeronnette printanière",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Motacillidae",
+  "family_common": "Wagtails and Pipits",
+  "genus": "Motacilla",
+  "species": "Motacilla flava"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bergeronnette printanière",
+   "url": "https://fr.wikipedia.org/wiki/Bergeronnette_printani%C3%A8re",
+   "description": "espèce d'oiseaux passeriformes de la famille des mottacillidae",
+   "extract": "La Bergeronnette printanière est l'une des trois espèces de Bergeronnettes nicheuses en Europe occidentale. C'est la plus petite des bergeronnettes.",
+   "fulltext_chars": 5571
+  },
+  "en": {
+   "title": "Western yellow wagtail",
+   "url": "https://en.wikipedia.org/wiki/Western_yellow_wagtail",
+   "description": "Species of bird",
+   "extract": "The western yellow wagtail is a small passerine bird in the wagtail family Motacillidae, which also includes the pipits and longclaws. This species breeds in much of temperate Europe and Asia. Most populations are migratory, moving south to tropical Africa and southern Asia for the winter; the small population breeding in Egypt is however resident there.",
+   "fulltext_chars": 4142
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/13/Yellow_wagtail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1826,
+  "height": 1346,
+  "file": "Yellow_wagtail.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/1/13/Yellow_wagtail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Yellow_wagtail.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4444,
+  "cities": {
+   "Le Mans": 0.288,
+   "Pornic": 0.25,
+   "Rennes": 0.239,
+   "Poitiers": 0.253,
+   "Paris": 0.311,
+   "Lille": 0.334,
+   "Strasbourg": 0.234,
+   "Lyon": 0.191,
+   "Grenoble": 0.186,
+   "Marseille": 0.271,
+   "Toulouse": 0.274,
+   "Bordeaux": 0.286,
+   "Brest": 0.164,
+   "Ajaccio": 0.444,
+   "Clermont-Ferrand": 0.208,
+   "Chamonix": 0.159,
+   "Perpignan": 0.294,
+   "Nancy": 0.255
+  },
+  "monthly_scores": [
+   0.0193,
+   0.0337,
+   0.2173,
+   0.4444,
+   0.3258,
+   0.1994,
+   0.1877,
+   0.3337,
+   0.2574,
+   0.1273,
+   0.0326,
+   0.0244
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:25Z"
+}

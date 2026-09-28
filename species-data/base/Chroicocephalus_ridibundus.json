@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Chroicocephalus ridibundus",
+ "common_name_fr": "Mouette rieuse",
+ "birdnet_label": "Chroicocephalus ridibundus_Mouette rieuse",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Chroicocephalus",
+  "species": "Chroicocephalus ridibundus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Mouette rieuse",
+   "url": "https://fr.wikipedia.org/wiki/Mouette_rieuse",
+   "description": "espèce d'oiseaux charadriiformes de la famille des laridae",
+   "extract": "La Mouette rieuse est une espèce d'oiseaux Charadriiformes de la famille des Laridae. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 7725
+  },
+  "en": {
+   "title": "Black-headed gull",
+   "url": "https://en.wikipedia.org/wiki/Black-headed_gull",
+   "description": "Species of bird",
+   "extract": "The black-headed gull is a small gull that breeds in much of the Palearctic in Europe and Asia, and also locally in smaller numbers in coastal eastern Canada. Most of the population is migratory and winters further south, but many also remain in the milder areas of northwestern Europe. It was formerly sometimes cited as \"common black-headed gull\" to distinguish it from \"great black-headed gull\".",
+   "fulltext_chars": 15337
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Black-headed_Gull_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2549,
+  "height": 3300,
+  "file": "Black-headed_Gull_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Black-headed_Gull_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg/1920px-Black-headed_Gull_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Richard Crossley",
+  "credit": "The Crossley ID Guide Britain and Ireland",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Black-headed_Gull_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9171,
+  "cities": {
+   "Le Mans": 0.839,
+   "Pornic": 0.877,
+   "Rennes": 0.893,
+   "Poitiers": 0.777,
+   "Paris": 0.81,
+   "Lille": 0.846,
+   "Strasbourg": 0.496,
+   "Lyon": 0.562,
+   "Grenoble": 0.553,
+   "Marseille": 0.626,
+   "Toulouse": 0.568,
+   "Bordeaux": 0.715,
+   "Brest": 0.917,
+   "Ajaccio": 0.719,
+   "Clermont-Ferrand": 0.614,
+   "Chamonix": 0.488,
+   "Perpignan": 0.551,
+   "Nancy": 0.598
+  },
+  "monthly_scores": [
+   0.9035,
+   0.869,
+   0.7607,
+   0.6022,
+   0.5678,
+   0.5958,
+   0.7246,
+   0.8755,
+   0.8929,
+   0.9059,
+   0.9171,
+   0.9148
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:23Z"
+}

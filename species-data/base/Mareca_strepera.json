@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Mareca strepera",
+ "common_name_fr": "Canard chipeau",
+ "birdnet_label": "Mareca strepera_Canard chipeau",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Mareca",
+  "species": "Mareca strepera"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Canard chipeau",
+   "url": "https://fr.wikipedia.org/wiki/Canard_chipeau",
+   "description": "espèce d'oiseau",
+   "extract": "Le Canard chipeau, autrefois appelé « Ridelle » ou « ridenne » en picard, est une espèce d'oiseaux palmipèdes de la famille des Anatidae. Elle est présente en Eurasie et en Amérique du Nord.",
+   "fulltext_chars": 2902
+  },
+  "en": {
+   "title": "Gadwall",
+   "url": "https://en.wikipedia.org/wiki/Gadwall",
+   "description": "Species of bird",
+   "extract": "The gadwall is a common and widespread dabbling duck in the family Anatidae.",
+   "fulltext_chars": 5888
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Anas_strepera_pair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 918,
+  "height": 1024,
+  "file": "Anas_strepera_pair.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/24/Anas_strepera_pair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Anas_strepera_pair.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4323,
+  "cities": {
+   "Le Mans": 0.242,
+   "Pornic": 0.18,
+   "Rennes": 0.201,
+   "Poitiers": 0.224,
+   "Paris": 0.313,
+   "Lille": 0.432,
+   "Strasbourg": 0.32,
+   "Lyon": 0.197,
+   "Grenoble": 0.169,
+   "Marseille": 0.173,
+   "Toulouse": 0.201,
+   "Bordeaux": 0.23,
+   "Brest": 0.137,
+   "Ajaccio": 0.325,
+   "Clermont-Ferrand": 0.22,
+   "Chamonix": 0.176,
+   "Perpignan": 0.186,
+   "Nancy": 0.325
+  },
+  "monthly_scores": [
+   0.3429,
+   0.3565,
+   0.4124,
+   0.4323,
+   0.315,
+   0.2638,
+   0.245,
+   0.2921,
+   0.3423,
+   0.3629,
+   0.3429,
+   0.3393
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:26Z"
+}

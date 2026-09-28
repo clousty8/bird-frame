@@ -1,0 +1,92 @@
+{
+ "scientific_name": "Turdus iliacus",
+ "common_name_fr": "Grive mauvis",
+ "birdnet_label": "Turdus iliacus_Grive mauvis",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Turdidae",
+  "family_common": "Thrushes and Allies",
+  "genus": "Turdus",
+  "species": "Turdus iliacus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grive mauvis",
+   "url": "https://fr.wikipedia.org/wiki/Grive_mauvis",
+   "description": "espèce d'oiseaux",
+   "extract": "La Grive mauvis est une espèce de passereaux de taille moyenne appartenant à la famille des Turdidae. En France, l'espèce n'est visible qu'en période de migration et d'hivernage. Elle se reproduit plus au nord. Sa migration est nocturne.",
+   "fulltext_chars": 13605
+  },
+  "en": {
+   "title": "Redwing",
+   "url": "https://en.wikipedia.org/wiki/Redwing",
+   "description": "Species of bird",
+   "extract": "The redwing is a bird in the thrush family, Turdidae, native to Europe and the Palearctic, slightly smaller than the related song thrush.",
+   "fulltext_chars": 6296
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Turdus_iliacus_-Iceland-8_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 605,
+  "height": 800,
+  "file": "Turdus_iliacus_-Iceland-8_(1).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Turdus_iliacus_-Iceland-8_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Ómar Runólfsson",
+  "credit": "Redwing - Turdus iliacus - Skógarþröstur\n\nUploaded by Snowmanradio",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Turdus_iliacus_-Iceland-8_(1).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4595,
+  "cities": {
+   "Le Mans": 0.425,
+   "Pornic": 0.442,
+   "Rennes": 0.46,
+   "Poitiers": 0.377,
+   "Paris": 0.406,
+   "Lille": 0.45,
+   "Strasbourg": 0.127,
+   "Lyon": 0.209,
+   "Grenoble": 0.12,
+   "Marseille": 0.142,
+   "Toulouse": 0.192,
+   "Bordeaux": 0.32,
+   "Brest": 0.411,
+   "Ajaccio": 0.218,
+   "Clermont-Ferrand": 0.285,
+   "Chamonix": 0.106,
+   "Perpignan": 0.139,
+   "Nancy": 0.186
+  },
+  "monthly_scores": [
+   0.3824,
+   0.3051,
+   0.2672,
+   0.0701,
+   0.0,
+   0.0,
+   0.0234,
+   0.0121,
+   0.045,
+   0.4505,
+   0.4595,
+   0.4394
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:23Z"
+}

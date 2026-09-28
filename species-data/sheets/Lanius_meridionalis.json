@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Lanius meridionalis",
+ "summary_fr": "La Pie-grièche méridionale est un petit passereau de 24-25 cm, très proche génétiquement de la Pie-grièche grise, dont elle a été séparée à titre d'espèce dans les années 1990. Strictement méridionale en Europe, elle réside dans la péninsule Ibérique et une petite part du sud-ouest de la France (Aquitaine, Midi-Pyrénées). Gris foncé et blanc, masque noir caractéristique élargi, elle préfère les paysages arides ouverts avec buissons épineux et arbres dispersés sur calcaire. Comme ses cousines pie-grièches, elle chasse depuis des perchoirs élevés, se nourrissant surtout de gros insectes, complétés par de petits oiseaux et rongeurs, qu'elle empale spectaculairement sur des épines ou fils de fer. Excellente chanteuse, elle défend farouchement son territoire toute l'année.",
+ "habitat": "Paysages arides et ouverts, landes calcaires, prairies rocailleuses, terres stériles avec arbustes épineux et arbres dispersés.",
+ "diet": "Grands insectes (coléoptères, hyménoptères), petits oiseaux, rongeurs, lézards ; empale ses proies sur des épines ou du fil barbelé comme garde-manger.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Galice, Asturies, Pyrénées, et vallées du sud-ouest français (Landes, Aveyron). Certaines populations restent sédentaires en Ibérie.",
+  "niche": "Reproduction en Espagne, sud du Portugal, sud-est de la France jusqu'aux Pyrénées, avril à juillet.",
+  "passage": "Passages discrets en mars et octobre-novembre, peu marqués comparés à d'autres pie-grièches."
+ },
+ "seasonality_fr": "Présente toute l'année en Ibérie ; en France, surtout du printemps à l'automne, les hivernants étant moins nombreux. Chante et crie surtout en période de reproduction.",
+ "song_fr": "Chant variée et mélodieux composé de phrases cristallines rapides et trillées ; cri d'alarme sec et répété. Voix moins rauque que la Pie-grièche grise.",
+ "lookalikes": [
+  {
+   "scientific_name": "Lanius excubitor",
+   "common_name_fr": "Pie-grièche grise",
+   "why_fr": "Très similaire morphologiquement ; plumage plus pâle, masque moins marqué, sympatrique en limites d'aire."
+  },
+  {
+   "scientific_name": "Lanius minor",
+   "common_name_fr": "Pie-grièche à poitrine rose",
+   "why_fr": "Taille semblable, cris ressemblants, habitat parfois chevauchant en sud-est français."
+  },
+  {
+   "scientific_name": "Lanius senator",
+   "common_name_fr": "Pie-grièche à tête rousse",
+   "why_fr": "Confusions possibles en transit automnal, vocalises avec chevauchement fréquentiel."
+  }
+ ],
+ "rarity_note": "Très rare et localisée en France, quasi absente au-delà du sud-ouest (Aquitaine, Midi-Pyrénées). Présence irrégulière et faibles effectifs. Espèce endémique au sud-ouest de l'Europe.",
+ "fun_facts": [
+  "Considérée longtemps comme une simple sous-espèce de la Pie-grièche grise avant sa séparation génétique et morphologique confirmée par les ornithologues dans les années 1990.",
+  "Elle tue les oisillons de la Pie du Maghreb qui nichent dans les mêmes buissons épineux en Afrique du Nord, ce qui en fait une redoutable concurrente écologique."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pie-gri%C3%A8che_m%C3%A9ridionale",
+  "https://en.wikipedia.org/wiki/Iberian_grey_shrike"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

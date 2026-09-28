@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Podiceps auritus",
+ "summary_fr": "Le Grèbe esclavon est un petit grèbe aquatique nord-européen et asiatique, en déclin global mais régulier dans les eaux hivernales françaises. Surtout visible d'octobre à mars, c'est un migrateur passant par nos côtes et lacs d'hiver. En plumage nuptial estival, le mâle arbore des aigrettes dorées caractéristiques qui disparaissent en hiver, d'où la possible confusion avec le Grèbe à cou noir en plumage internuptial. Excellent plongeur, il capture poissons, mollusques et crustacés sous l'eau. Silencieux en hiver, il devient très bruyant en période de reproduction avec des trilles rappelant le Grèbe castagneux. Son bec droit et noir distingue bien d'autres grèbes. Protégé en Europe, l'espèce figure désormais à la liste rouge de l'UICN (vulnérable) en raison du déclin de ses populations. En France, il apparaît régulièrement sur les plans d'eau côtiers et continentaux lors de ses migrations et hivernage.",
+ "habitat": "Lacs et plans d'eau profonds côtiers ou continentaux en hiver ; prairies et étendues d'eau peu profonde bordées de végétation en période de nidification.",
+ "diet": "Petits poissons, mollusques, crustacés et insectes aquatiques capturés en plongée ; occasionnellement insectes en surface.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Sud et ouest de l'Europsie, notamment côtes françaises de l'Atlantique et lacs continentaux, d'octobre à mai.",
+  "niche": "Ne niche pas en France ; reproduction entre juin et août dans le nord de l'Europe (Islande, Scandinavie, Russie).",
+  "passage": "Passages migratoires en mars (printemps) et d'octobre à novembre (automne) ; hivernage de novembre à mars."
+ },
+ "seasonality_fr": "Hivernant régulier de novembre à mars dans nos eaux côtières et lacs continentaux. Visible lors des migrations de mars et d'octobre-novembre. Absent en période de nidification (mai à septembre).",
+ "song_fr": "Silencieux en hiver et durant les migrations. En période de reproduction, trilles profondes (bibibib) et appels sonores aigus (aouya) ; cris de parade bruyants et nasillards.",
+ "lookalikes": [
+  {
+   "scientific_name": "Podiceps nigricollis",
+   "common_name_fr": "Grèbe à cou noir",
+   "why_fr": "Confusion majeure en plumage internuptial : silhouette similaire, même taille, coloration gris-blanc-noir. Distingué par le bec légèrement retroussé du nigricollis."
+  },
+  {
+   "scientific_name": "Podiceps grisegena",
+   "common_name_fr": "Grèbe jougris",
+   "why_fr": "Appels et trilles émis lors des migrations peuvent prêter à confusion. Le jougris est plus roux et massif."
+  },
+  {
+   "scientific_name": "Tachybaptus ruficollis",
+   "common_name_fr": "Grèbe castagneux",
+   "why_fr": "Trilles similaires durant la nidification (Wikipedia note la ressemblance des trilles). Beaucoup plus petit, habitat différent en France."
+  }
+ ],
+ "rarity_note": "Régulièrement présent en hiver et migration en France, particulièrement dans le nord-ouest. Score maximal de 0,079 pour la détection acoustique : inégalement réparti selon les années et les sites.",
+ "fun_facts": [
+  "Ses aigrettes dorées en plumage nuptial s'aplatissent contre le crâne lors des plongées pour réduire la traînée.",
+  "Les poussins chevauchent le dos de leurs parents pendant les plongées, accrochés entre l'aile et le corps."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Gr%C3%A8be_esclavon",
+  "https://en.wikipedia.org/wiki/Horned_grebe",
+  "https://oiseaux.net/grebes.html",
+  "https://www.lpo.fr/discover/species/horned-grebe"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

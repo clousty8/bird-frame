@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Corvus monedula",
+ "summary_fr": "Le Choucas des tours est un petit corvidé noir très social, reconnaissable à sa nuque grise et ses yeux d'un blanc bleuâtre caractéristique. Vivant en colonies parfois importantes, il fréquente indifféremment les falaises, les bâtiments anciens et les zones urbaines. Omnivore opportuniste, il se nourrit de graines, fruits, insectes et vers au sol, et n'hésite pas à piller les miettes des villes. Ses vocalisations métalliques « kyak kyak » sont distinctives et permettent de le repérer facilement en vol, quand il évolue en bandes compactes. Étudié par le grand éthologiste Konrad Lorenz, le choucas a révélé une intelligence remarquable : utilisation d'outils, hiérarchie sociale complexe, reconnaissance des visages humains. En France, l'espèce est largement sédentaire, bien que renforcée en hiver par des populations migratrices venues du nord et de l'est de l'Europe.",
+ "habitat": "Falaises côtières, bâtiments anciens, églises, carrières abandonnées, grands arbres creux. S'adapte bien aux zones urbaines et semi-urbaines. Recherche des cavités pour y nicher, habituellement entre 0 et 1000 m d'altitude.",
+ "diet": "Omnivore opportuniste : graines, fruits et légumes, insectes, vers de terre, escargots, grenouilles. En milieu urbain, miettes alimentaires et restes anthropogéniques. Pille volontiers les nids des autres espèces.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France, les populations locales sédentaires étant renforcées en hiver par des oiseaux venus d'Europe du Nord et de l'Est.",
+  "niche": "Toute la France, nichage d'avril à juin dans des cavités : falaises, bâtiments, arbres creux, cheminées. Une ou deux nichées par an.",
+  "passage": "Passages importants en mars-avril (arrivée des migrateurs) et d'octobre à novembre (départ vers le sud)."
+ },
+ "seasonality_fr": "Visible et audible toute l'année en France. Présent en nombre accru en hiver quand les populations nordiques arrivent. Très vocal, particulièrement au petit matin lors du décollage des colonies de dortoir.",
+ "song_fr": "Cri distinctif métallique et grinçant « kyak kyak » ou « kak kak », souvent répété, servant de cri de contact. Alarm call grave et prolongé. Ensemble de vocalises roulées très variables, même lors de simples échanges perchés.",
+ "lookalikes": [
+  {
+   "scientific_name": "Corvus frugilegus",
+   "common_name_fr": "Corbeau freux",
+   "why_fr": "Corvidé de taille supérieure au Choucas, cris plus rauques et profonds, mais confusion possible à distance."
+  },
+  {
+   "scientific_name": "Corvus corone",
+   "common_name_fr": "Corneille noire",
+   "why_fr": "Sonorités « cra cra » graves proches ; Corneille plus grande et sans iris clair. Appels de contact similaires."
+  },
+  {
+   "scientific_name": "Corvus cornix",
+   "common_name_fr": "Corneille mantelée",
+   "why_fr": "Appels et cris similaires à la Corneille noire. Confusion vocale possible bien que plumage très différent."
+  }
+ ],
+ "rarity_note": "Commune en France toute l'année, en augmentation depuis les années 2000. Score BirdNET-Go maximal 0,75 (très bonne détection en France).",
+ "fun_facts": [
+  "Étudié pendant 40 ans par le biologiste Konrad Lorenz, le choucas a montré une hiérarchie sociale complexe basée sur le statut des couples au sein de la colonie.",
+  "Les populations de dortoir peuvent regrouper plusieurs milliers d'individus qui se rassemblent le soir et décollent ensemble le matin après des vocalises crescendo.",
+  "Le choucas est capable de reconnaître les visages des humains et peut mémoriser jusqu'à 50 visages différents, ce qui en fait l'un des oiseaux les plus intelligents."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Choucas_des_tours",
+  "https://en.wikipedia.org/wiki/Western_jackdaw",
+  "https://www.oiseaux.net/oiseaux/coloeus.monedula.html",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

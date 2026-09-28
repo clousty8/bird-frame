@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Podiceps grisegena",
+ "summary_fr": "Le Grèbe jougris est un canard plongeur aquatique de taille moyenne, plus petit que le Grèbe huppé mais toujours trapézoïdal en vol. En plumage nuptial, son cou roussâtre et ses joues blanc argenté le rendent reconnaissable. Cet oiseau aquatique peuplant les zones tempérées du nord de l'hémisphère est principalement migrateur mais certaines populations hivernent sur place. Il affectionne les lacs calmes, les étangs et les réservoirs riches en végétation aquatique. Excellent nageur et plongeur, il capture ses proies sous l'eau avec son long bec pointu. L'hiver, il devient très discret mais garde des cris rauques caractéristiques. Son statut reste stable mondialement malgré les menaces liées à la dégradation des zones humides.",
+ "habitat": "Lacs, étangs, marécages et réservoirs avec végétation aquatique abondante (roseaux). En hiver, eau côtière calme, baies et estuaires, ainsi que les grands lacs.",
+ "diet": "Invertébrés aquatiques (larves d'insectes, crustacés) l'été et poissons l'hiver ; mollusques et amphibiens occasionnellement.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Côtes de l'Atlantique Nord, Méditerranée, mers Noire et Caspienne, plus rarement lacs intérieurs.",
+  "niche": "Lacs d'eau douce peu profonds du centre et est de l'Europe, d'avril à juillet, avec deux sous-espèces réparties entre Europe-Asie occidentale et Amérique du Nord-Asie orientale.",
+  "passage": "Migrations notables en mars-avril (printemps) et septembre-novembre (automne) ; s'arrête sur des sites de mue avant de reprendre la migration."
+ },
+ "seasonality_fr": "Présent principalement d'octobre à avril en France, période de passage migratoire et hivernage. Plus discret en été, localisé sur quelques sites de reproduction du Nord-Est.",
+ "song_fr": "Silence strict en hiver. En période de reproduction : puissant cri rauque et croassement furieux ; cri habituel « kek-kek ». Duos bruyants lors des séances vocales entre rivaux territoriaux.",
+ "lookalikes": [
+  {
+   "scientific_name": "Podiceps cristatus",
+   "common_name_fr": "Grèbe huppé",
+   "why_fr": "Plus grand et porteur de huppe ; cou blanc toute l'année ; bec rosé. Même habitat aquatique."
+  },
+  {
+   "scientific_name": "Podiceps auritus",
+   "common_name_fr": "Grèbe esclavon",
+   "why_fr": "Plus petit avec calotte noire moins étendue ; cris plus aigus. Moins robuste."
+  },
+  {
+   "scientific_name": "Podiceps nigricollis",
+   "common_name_fr": "Grèbe à cou noir",
+   "why_fr": "Grèbe à cou noir nuptial plus petit, avec yeux rouges ; cris différents."
+  }
+ ],
+ "rarity_note": "Peu commun en France, présent surtout en passage migratoire et hivernage côtier. Score maximal BirdNET pour la France : 0,07, très en retrait du seuil de détection quotidien.",
+ "fun_facts": [
+  "Comme tous les grèbes, il avale ses propres plumes en grandes quantités, qu'il régurgite ensuite enrobant les arêtes de poisson, facilitant la digestion.",
+  "Capable de plonger jusqu'à 50 mètres sous l'eau et y rester longtemps à la recherche de nourriture."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Grèbe_jougris",
+  "https://en.wikipedia.org/wiki/Red-necked_grebe"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

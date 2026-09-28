@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Linaria cannabina",
+ "common_name_fr": "Linotte mélodieuse",
+ "birdnet_label": "Linaria cannabina_Linotte mélodieuse",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Fringillidae",
+  "family_common": "Finches, Euphonias, and Allies",
+  "genus": "Linaria",
+  "species": "Linaria cannabina"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Linotte mélodieuse",
+   "url": "https://fr.wikipedia.org/wiki/Linotte_m%C3%A9lodieuse",
+   "description": "espèce d'oiseau",
+   "extract": "La Linotte mélodieuse est une petite espèce de passereaux bruns, à la poitrine rosée de la famille des fringillidés. Son gazouillis est agréable et doux, son vol vif et léger.",
+   "fulltext_chars": 12717
+  },
+  "en": {
+   "title": "Common linnet",
+   "url": "https://en.wikipedia.org/wiki/Common_linnet",
+   "description": "Species of bird",
+   "extract": "The common linnet or Eurasian linnet is a small passerine bird of the finch family, Fringillidae. It derives its common name and the scientific name, Linaria, from its fondness for hemp seeds and flax seeds—flax being the English name of the plant from which linen is made.",
+   "fulltext_chars": 7602
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/48/Linaria_cannabina_-_Linotte_m%C3%A9lodieuse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2036,
+  "height": 1356,
+  "file": "Linaria_cannabina_-_Linotte_mélodieuse.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Linaria_cannabina_-_Linotte_m%C3%A9lodieuse.jpg/1920px-Linaria_cannabina_-_Linotte_m%C3%A9lodieuse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Pierre Dalous",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Linaria_cannabina_-_Linotte_m%C3%A9lodieuse.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.5647,
+  "cities": {
+   "Le Mans": 0.487,
+   "Pornic": 0.489,
+   "Rennes": 0.543,
+   "Poitiers": 0.377,
+   "Paris": 0.479,
+   "Lille": 0.565,
+   "Strasbourg": 0.25,
+   "Lyon": 0.201,
+   "Grenoble": 0.174,
+   "Marseille": 0.206,
+   "Toulouse": 0.275,
+   "Bordeaux": 0.357,
+   "Brest": 0.562,
+   "Ajaccio": 0.383,
+   "Clermont-Ferrand": 0.243,
+   "Chamonix": 0.156,
+   "Perpignan": 0.278,
+   "Nancy": 0.316
+  },
+  "monthly_scores": [
+   0.3705,
+   0.3692,
+   0.3776,
+   0.5618,
+   0.5647,
+   0.558,
+   0.5329,
+   0.4454,
+   0.457,
+   0.4307,
+   0.354,
+   0.383
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:02Z"
+}

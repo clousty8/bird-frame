@@ -1,0 +1,79 @@
+{
+ "scientific_name": "Cygnus cygnus",
+ "common_name_fr": "Cygne chanteur",
+ "birdnet_label": "Cygnus cygnus_Cygne chanteur",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Cygnus",
+  "species": "Cygnus cygnus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Cygne chanteur",
+   "url": "https://fr.wikipedia.org/wiki/Cygne_chanteur",
+   "description": "espèce de grands oiseaux palmipèdes",
+   "extract": "Le Cygne chanteur ou Cygne sauvage, est une espèce d'oiseaux appartenant à la famille des Anatidae. C'est un grand cygne de l'hémisphère Nord. Ce cygne eurasien est proche du Cygne trompette nord-américain. Le Cygne chanteur est l'oiseau national de la Finlande.",
+   "fulltext_chars": 8027
+  },
+  "en": {
+   "title": "Whooper swan",
+   "url": "https://en.wikipedia.org/wiki/Whooper_swan",
+   "description": "Species of bird",
+   "extract": "The whooper swan, is a large northern hemisphere swan. It is the Eurasian counterpart of the North American trumpeter swan.",
+   "fulltext_chars": 7849
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Whooper_swans_%28Cygnus_cygnus%29_pair_Oppdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2996,
+  "height": 1998,
+  "file": "Whooper_swans_(Cygnus_cygnus)_pair_Oppdal.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Whooper_swans_%28Cygnus_cygnus%29_pair_Oppdal.jpg/1920px-Whooper_swans_%28Cygnus_cygnus%29_pair_Oppdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Charles J. Sharp",
+  "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Whooper_swans_(Cygnus_cygnus)_pair_Oppdal.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0564,
+  "cities": {
+   "Le Mans": 0.024,
+   "Pornic": 0.034,
+   "Rennes": 0.042,
+   "Poitiers": 0.018,
+   "Paris": 0.02,
+   "Lille": 0.035,
+   "Bordeaux": 0.017,
+   "Brest": 0.056
+  },
+  "monthly_scores": [
+   0.0564,
+   0.0503,
+   0.0299,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0261,
+   0.0502,
+   0.0557
+  ],
+  "months": [
+   1,
+   2,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:42Z"
+}

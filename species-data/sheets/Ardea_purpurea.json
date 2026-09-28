@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Ardea purpurea",
+ "summary_fr": "Distingué du Héron cendré, bien plus commun, par sa silhouette élancée et son plumage brun-roux sombre, le Héron pourpré préfère se dissimuler dans les roselières denses plutôt que de s'exposer en plein champ. Cet ardéidé du Paléarctique occidental, long de 78 à 90 centimètres, possède des doigts anormalement longs qui lui permettent de marcher sur la vase molle et les feuilles flottantes, un talent rare parmi les hérons. Colonial, il niche en Europe centrale et méridionale, en Afrique du Nord et en Asie du Sud, souvent au cœur même des roseaux plutôt que dans les arbres. La grande majorité des oiseaux européens hivernent en Afrique tropicale, mais quelques individus restent chaque année en France, parfois en plein hiver, ce qui en fait un migrateur partiel plutôt qu'un migrateur strict. Son cou fin et serpentin, sa démarche lente et son refus de s'éloigner des roselières le distinguent nettement de ses congénères plus robustes. Menacé par la disparition des zones humides, il adopte face au danger une posture spectaculaire : il se dresse comme un roseau, bec pointé vers le ciel, parfaitement immobile.",
+ "habitat": "Zones humides avec couverture végétale dense, en particulier roselières (Phragmites), lagunes, lacs et marais d'eau douce, parfois mangroves côtières ou canaux agricoles.",
+ "diet": "Poissons, petits mammifères, amphibiens, reptiles, crustacés, mollusques d'eau, larves et insectes aquatiques, quelques insectes terrestres.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "La grande majorité des oiseaux européens hivernent en Afrique tropicale ; quelques individus isolés restent chaque année en France et en Europe de l'Ouest, y compris en plein hiver.",
+  "niche": "Europe centrale et méridionale, Afrique du Nord et Asie du Sud. Niche en colonies dans les roselières d'avril à juillet, souvent deux nichées.",
+  "passage": "Passages migratoires marqués en mars, puis d'octobre à novembre, en France."
+ },
+ "seasonality_fr": "Présent en France surtout d'avril à octobre, avec des passages marqués en mars puis en octobre-novembre. Quelques individus isolés sont notés en hiver, y compris en plein cœur de la saison froide.",
+ "song_fr": "Appel rude et claquant « frarnk », plus aigu et moins profond que celui du Héron cendré ; oiseau globalement peu bruyant hors période de nidification.",
+ "lookalikes": [
+  {
+   "scientific_name": "Ardea cinerea",
+   "common_name_fr": "Héron cendré",
+   "why_fr": "Bien plus commun, plus robuste, plumage gris. Chant plus grave et plus bruyant. Silhouette générale moins élancée."
+  },
+  {
+   "scientific_name": "Botaurus stellaris",
+   "common_name_fr": "Butor étoilé",
+   "why_fr": "Même habitat de roselière, taille comparable. Plumage chamois tacheté. Cri très distinctif « oong-ong-ong », grave et résonnant."
+  },
+  {
+   "scientific_name": "Ardea alba",
+   "common_name_fr": "Grande Aigrette",
+   "why_fr": "Plus grande, silhouette différente. Plumage entièrement blanc, sans teintes rousses."
+  }
+ ],
+ "rarity_note": "Nicheur régulier mais peu nombreux en France, localisé aux grandes zones humides du sud et du centre ; bien plus rare que le Héron cendré, population vulnérable à la disparition des roselières.",
+ "fun_facts": [
+  "Ses doigts anormalement longs lui permettent de marcher sur la vase molle et les feuilles flottantes, un talent unique parmi les grands hérons.",
+  "Face à une menace, il se dresse comme un roseau, bec pointé vers le ciel, immobile, pour se confondre avec la végétation."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/H%C3%A9ron_pourpr%C3%A9",
+  "https://en.wikipedia.org/wiki/Purple_heron",
+  "https://www.oiseaux.net/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

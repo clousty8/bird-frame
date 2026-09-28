@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Larus glaucoides",
+ "summary_fr": "Le Goéland arctique, aussi appelé Goéland à ailes blanches, est un goéland de taille moyenne originaire des régions arctiques du Canada et du Groenland. Son plumage blanc de la tête et du corps contraste avec les ailes gris clair et le dos blanc, caractéristiques qui le distinguent des autres goélands. Migrateur régulier, il se dispersait vers le sud en hiver, depuis l'Atlantique Nord jusqu'aux côtes britanniques et aux États-Unis. En France, il ne s'observe que durant la saison froide, principalement en octobre et novembre lors de sa descente vers le sud, ainsi que de janvier à avril. Il est omnivore comme ses congénères, se nourrissant principalement de poissons et de crustacés en mer, mais acceptant aussi les déchets et les opportunités alimentaires côtières. Ses trois sous-espèces, dont celle de Kumlien, ont longtemps suscité des débats taxonomiques, certaines ayant failli être élevées au rang d'espèce avant d'être regroupées.",
+ "habitat": "Côtes marines et estuaires, baies peu profondes, zones côtières rocheuses ou sableuses. En France, se rencontre principalement en hiver sur les côtes de l'Atlantique Nord et de la Manche.",
+ "diet": "Poissons, crustacés, œufs et oisillons d'autres espèces. Opportuniste, mange aussi baies, graines, charognes et déchets trouvés en zone côtière ou urbaine.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Côtes du nord-ouest européen, baie de Biscaye, exceptionnellement plus au sud. En France durant l'hiver : octobre à avril, surtout novembre à mars.",
+  "niche": "Groenland et îles arctiques canadiennes (Baffin, Banks, Ellesmere). Ne niche pas en France.",
+  "passage": "Mouvements migratoires marqués en octobre-novembre (descente), janvier-avril (remontée)."
+ },
+ "seasonality_fr": "Hivernant régulier en France d'octobre à avril, plus rare en mai-septembre. Visible sur les côtes atlantiques, avec occasionnellement des individus observés à l'intérieur près des grands plans d'eau en hiver rigoureux.",
+ "song_fr": "Cri rauque semblable au Goéland argenté mais plus aigu : cris roulés et « rires » caractéristiques des goélands, émis particulièrement en vol ou lors de disputes alimentaires.",
+ "lookalikes": [
+  {
+   "scientific_name": "Larus hyperboreus",
+   "common_name_fr": "Goéland bourgmestre",
+   "why_fr": "Plumage similaire très pâle, taille et proportions proches. Ressemble au Goéland arctique notamment en plumage juvénile."
+  },
+  {
+   "scientific_name": "Larus argentatus",
+   "common_name_fr": "Goéland argenté",
+   "why_fr": "Cri très similaire, plumage général comparable, tous deux présents en hiver en France. Distinctions acoustiques mineures."
+  },
+  {
+   "scientific_name": "Larus glaucus",
+   "common_name_fr": "Goéland à ailes blanches",
+   "why_fr": "Extrêmement similaire acoustiquement et visuellement, ressemble tellement qu'il en est le proche parent. Distinctions très fines."
+  }
+ ],
+ "rarity_note": "Rare mais régulier en France, hivernant occasionnel. Plus fréquent en Bretagne et côtes normandes. Jamais commun, population stable mais peu nombreuse.",
+ "fun_facts": [
+  "Le Goéland arctique met quatre ans pour atteindre le plumage et la maturité sexuelle de l'adulte, traversant plusieurs phases de plumage distinctes.",
+  "Son nom scientifique glaucoides signifie « ressemblant au Goéland bourgmestre » en raison de sa ressemblance avec cette espèce voisine.",
+  "Les trois sous-espèces (glaucoides, kumlieni et thayeri) se distinguent par des nuances de plumage, la thayeri étant généralement plus claire."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Go%C3%A9land_arctique",
+  "https://en.wikipedia.org/wiki/Iceland_gull",
+  "https://www.oiseaux.net/oiseaux/goelands.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

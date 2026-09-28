@@ -1,0 +1,86 @@
+{
+ "scientific_name": "Gavia immer",
+ "common_name_fr": "Plongeon huard",
+ "birdnet_label": "Gavia immer_Plongeon huard",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Gaviiformes",
+  "family": "Gaviidae",
+  "family_common": "Loons",
+  "genus": "Gavia",
+  "species": "Gavia immer"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Plongeon imbrin",
+   "url": "https://fr.wikipedia.org/wiki/Plongeon_imbrin",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Plongeon imbrin, aussi appelé le Plongeon huard en Europe, le Huard à collier au Canada ou le Richepaume en Acadie, est une espèce d'oiseaux de la famille des Gaviidae. Il est de grande taille, bien qu’un peu plus petit que le Plongeon à bec blanc auquel il ressemble fort. Il est plus grand, plus rare et plus septentrional que le Plongeon arctique.",
+   "fulltext_chars": 11447
+  },
+  "en": {
+   "title": "Common loon",
+   "url": "https://en.wikipedia.org/wiki/Common_loon",
+   "description": "Species of freshwater bird",
+   "extract": "The common loon or great northern diver is a large member of the loon, or diver, family of birds. Breeding adults have a plumage that includes a broad black head and neck with a greenish, purplish, or bluish sheen, blackish or blackish-grey upperparts, and pure white underparts except some black on the undertail coverts and vent. Non-breeding adults are brownish with a dark neck and head marked with dark grey-brown. Their upperparts are dark brownish-grey with an unclear pattern of squares on the shoulders, and the underparts, lower face, chin, and throat are whitish. The sexes look alike, though males are significantly heavier than females. During the breeding season, loons live on lakes and other waterways in Canada, the northern United States, and southern parts of Greenland and Iceland. Small numbers breed on Svalbard and sporadically elsewhere in Arctic Eurasia. Common loons winter on both coasts of North America as far north as Newfoundland and Alaska, and as far south as Mexico, as well as on the Atlantic coast of Europe.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Common_Loon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 925,
+  "height": 625,
+  "file": "Common_Loon.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Common_Loon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "P199",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Common_Loon.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2538,
+  "cities": {
+   "Le Mans": 0.096,
+   "Pornic": 0.187,
+   "Rennes": 0.186,
+   "Poitiers": 0.097,
+   "Paris": 0.032,
+   "Lille": 0.019,
+   "Lyon": 0.019,
+   "Toulouse": 0.027,
+   "Bordeaux": 0.073,
+   "Brest": 0.254,
+   "Clermont-Ferrand": 0.041,
+   "Perpignan": 0.015
+  },
+  "monthly_scores": [
+   0.2538,
+   0.2442,
+   0.2084,
+   0.1393,
+   0.0381,
+   0.0267,
+   0.0286,
+   0.0266,
+   0.0426,
+   0.1733,
+   0.2259,
+   0.2446
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:31Z"
+}

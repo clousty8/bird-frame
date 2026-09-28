@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Cisticola juncidis",
+ "summary_fr": "La Cisticole des joncs est l'un des plus petits passereaux d'Europe, mesurant à peine plus qu'une mésange. Toute compacte, elle fréquente les prairies humides, les roselières et zones marécageuses où elle se nourrit d'insectes qu'elle gribouille au sol. Son comportement la rend difficile à observer : elle reste cachée dans les herbes hautes et préfère se faire entendre plutôt que se montrer. Pendant la saison de reproduction, le mâle effectue un vol nuptial caractéristique, brusquement montant et descendant en zigzag tout en émettant à intervalles réguliers son cri distinctif. Bien que présente toute l'année en France, elle n'est jamais très commune, restant confinée surtout aux régions côtières et aux zones méditerranéennes. Elle construit un nid tubulaire original, suspendu dans les herbes denses, dans lequel elle pond quatre à six œufs.",
+ "habitat": "Prairies ouvertes et humides, zones marécageuses avec hautes herbes, roselières, zones cultivées. Généralement à basse altitude, peut monter jusqu'à 3000 m dans certaines régions.",
+ "diet": "Petits insectes (diptères, larves) trouvés au sol et au sein des herbes ; graines pour compléter son alimentation, notamment en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France, principalement sur la côte méditerranéenne et le long du Rhône ; quelques populations en Occitanie et côte atlantique.",
+  "niche": "Partout en France d'avril à juillet, avec possibilité de deux nichées par an.",
+  "passage": "Passages migratoires en mars et d'octobre à novembre pour les populations du nord de l'Europe."
+ },
+ "seasonality_fr": "Présente toute l'année en France, mais plus commun d'avril à septembre pendant la saison de reproduction. Visible surtout lors de ses vols de parade nuptiaux printaniers.",
+ "song_fr": "Cri distinctif « zit » émis à intervalles réguliers (environ toutes les 0,7 secondes) en vol, donnant son nom anglais. Émission d'une note stridente à chaque ondulation du vol. Cri de contact ou d'alarme « tchip » seul ; séries de clics métalliques lors des conflits territoriaux.",
+ "lookalikes": [
+  {
+   "scientific_name": "Acrocephalus schoenobaenus",
+   "common_name_fr": "Phragmite des joncs",
+   "why_fr": "Petite rousserolle des mêmes milieux humides avec chant gazouillé rapide, mais dénué des « zit » typiques de la Cisticole."
+  },
+  {
+   "scientific_name": "Locustella naevia",
+   "common_name_fr": "Locustelle tachetée",
+   "why_fr": "Petit warbler des prairies au chant grinçant et insectoïde, différent du « zit » répétitif et régulier de la Cisticole."
+  },
+  {
+   "scientific_name": "Acrocephalus palustris",
+   "common_name_fr": "Rousserolle verderolle",
+   "why_fr": "Rousserolle des zones humides avec chant plus riche et varié que le cri monotone de la Cisticole."
+  }
+ ],
+ "rarity_note": "Localement régulier mais peu commun en France, surtout sur la côte méditerranéenne et atlantique. Son répartition est en expansion depuis le milieu du XXe siècle.",
+ "fun_facts": [
+  "Son vol de parade nuptial est spectaculaire : le mâle monte puis plonge en zigzag tout en criant, formant une ondulation très distinctive dans le ciel.",
+  "Elle pond ses œufs dans un nid très original, un tube poché de laine, de duvet et de soie d'araignée, cousu entre les herbes comme un petit sac suspendu."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Cisticole_des_joncs",
+  "https://en.wikipedia.org/wiki/Zitting_cisticola",
+  "https://www.oiseaux.net/fiche/cisticole.des.joncs.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Gyps fulvus",
+ "summary_fr": "Le Vautour fauve est un grand rapace charognard de la famille des Accipitridés, autrefois appelé le griffon. Avec son envergure impressionnante de 2,6 mètres et son poids de 9 kilogrammes, il est l'un des plus grands oiseaux de France. Son plumage fauve varie entre les individus, tirant parfois sur le brun sombre ou le doré. Longtemps victime de la persécution humaine et de l'empoisonnement, il avait pratiquement disparu d'Europe. Grâce à des programmes de réintroduction depuis les années 1970, ses populations se reconstituent progressivement dans le sud et le centre du pays. Ce planeur remarquable utilise les courants ascendants thermiques et orographiques, parcourant des centaines de kilomètres pour détecter les carcasses grâce à sa vue perçante. Il vit en colonies, se reproduisant sur les falaises et formant une part essentielle du nettoyage écologique des milieux montagneux.",
+ "habitat": "Falaises calcaires, gorges et reliefs montagneux dans le sud et le centre-est de la France. Effectue des prospections alimentaires à grande distance (50 à 150 km autour des colonies).",
+ "diet": "Strictement charognard. Se nourrit de cadavres de grands animaux sauvages (chamois, mouflons) et domestiques (moutons, chèvres, bovins), détectés en vol uniquement par la vue.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Présent toute l'année en France, notamment dans le sud et le centre-est. Les nicheurs locaux sont occasionnellement rejoints par des individus erratiques venus d'autres régions.",
+  "niche": "Colonies principalement dans les Pyrénées, les Alpes et le Massif central. Reproduction entre novembre et janvier, pontes en janvier-février, envol des jeunes juillet-août.",
+  "passage": "Mouvements erratiques importants, surtout des jeunes. Présent potentiellement partout en France en dispersal, notamment après l'échec de la reproduction."
+ },
+ "seasonality_fr": "Visible toute l'année dans les régions de nidification et les zones de prospection. Présence possible dans d'autres régions à tout moment, notamment des jeunes en exploration.",
+ "song_fr": "Généralement silencieux en vol. Sons gutturaux et sifflements lors des interactions sociales au nid ou en colonie. Cris d'alarme peu fréquemment entendus.",
+ "lookalikes": [
+  {
+   "scientific_name": "Aegypius monachus",
+   "common_name_fr": "Vautour moine",
+   "why_fr": "Silhouette très similaire en vol, plumage très sombre prêtant à confusion à distance."
+  },
+  {
+   "scientific_name": "Aquila chrysaetos",
+   "common_name_fr": "Aigle royal",
+   "why_fr": "Grande taille, envergure impressionnante et vol plané similaire, mais silhouette moins lourde et profil différent."
+  },
+  {
+   "scientific_name": "Circaetus gallicus",
+   "common_name_fr": "Circaète Jean-le-Blanc",
+   "why_fr": "Vol plané et prospection similaires, mais taille plus petite et plumage plus pâle ; confusion possible à distance."
+  }
+ ],
+ "rarity_note": "Régulier en France méridionale et centrale, avec concentrations importantes dans les Pyrénées, les Alpes et le Massif central. Assez rare ailleurs mais potentiellement observable partout en dispersal.",
+ "fun_facts": [
+  "C'est un planeur extraordinaire : il peut parcourir plus de 300 kilomètres par jour en prospection alimentaire, utilisant uniquement les courants aériens.",
+  "Les vautours fauves sont des équarrisseurs naturels essentiels : un groupe de 50 oiseaux peut nettoyer une carcasse en quelques heures, prévenant ainsi la propagation de maladies.",
+  "Mâle et femelle ne construisent qu'un seul nid par an qui peut être réutilisé pendant des décennies, ce qui renforce les liens du couple."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Vautour_fauve",
+  "https://en.wikipedia.org/wiki/Eurasian_griffon_vulture",
+  "https://www.lpo.fr",
+  "https://inpn.mnhn.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

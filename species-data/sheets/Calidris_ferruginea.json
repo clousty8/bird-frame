@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Calidris ferruginea",
+ "summary_fr": "Le Bécasseau cocorli est un petit limicole élancé, reconnaissable en vol à son croupion blanc immaculé et à son bec noir légèrement incurvé vers le bas, comme une version miniature du courlis. Il niche exclusivement dans la toundra arctique de Sibérie, où les couples s'installent début juin pour une reproduction rapide avant de reprendre la route vers l'Afrique subsaharienne dès juillet. En parure nuptiale, son plumage roux orangé intense tranche avec la livrée gris-brun discrète qu'il porte le reste de l'année. Sur les côtes françaises, il reste surtout un visiteur de passage, plus marqué en fin d'été et à l'automne quand adultes puis jeunes font halte sur les vasières et les salins pour reconstituer leurs réserves ; quelques individus s'attardent parfois en hiver ou repassent au printemps. Grégaire, il se mêle volontiers aux bandes de bécasseaux variables pour sonder la vase à la recherche de vers et de petits crustacés. Sa réussite reproductrice dépend étroitement des cycles de lemmings arctiques, et la disparition des vasières asiatiques menace aujourd'hui ses populations mondiales.",
+ "habitat": "Vasières, bancs de sable, salins et lagunes côtières pendant les haltes migratoires ; toundra humide arctique pour la reproduction, hors de France.",
+ "diet": "Petits invertébrés (vers, mollusques, crustacés, insectes) capturés en sondant la vase ou le sable humide ; complète parfois avec des graines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Hivernage rare et localisé sur certaines côtes atlantiques et méditerranéennes françaises, en petit nombre.",
+  "niche": "Toundra arctique sibérienne, de juin à août ; ne niche pas en France.",
+  "passage": "Passages vers l'Afrique en juillet-septembre (adultes puis jeunes) ; retours printaniers en avril-mai."
+ },
+ "seasonality_fr": "Passage régulier mais peu abondant sur les côtes françaises de juillet à septembre ; quelques individus hivernent ou repassent au printemps (avril-mai).",
+ "song_fr": "Cri de vol flûté et ascendant, proche d'un « tirrp » ou « whaay », lancé surtout en halte migratoire ; silencieux hors période de reproduction arctique.",
+ "lookalikes": [
+  {
+   "scientific_name": "Calidris alpina",
+   "common_name_fr": "Bécasseau variable",
+   "why_fr": "Espèce la plus proche visuellement et acoustiquement, souvent mêlée aux mêmes bandes sur les vasières."
+  },
+  {
+   "scientific_name": "Calidris minuta",
+   "common_name_fr": "Bécasseau minute",
+   "why_fr": "Cris de vol de tonalité proche ; confusion fréquente en plumage internuptial ou juvénile."
+  },
+  {
+   "scientific_name": "Calidris temminckii",
+   "common_name_fr": "Bécasseau de Temminck",
+   "why_fr": "Silhouette et cris grêles similaires en halte migratoire, bien que plus petit et moins roux."
+  }
+ ],
+ "rarity_note": "Peu commun en France, observé surtout en halte migratoire automnale sur le littoral atlantique et méditerranéen ; hivernage occasionnel en petit nombre.",
+ "fun_facts": [
+  "Le mâle simule un faux nid au sol pendant la parade nuptiale, avant de poursuivre la femelle en vol chassé-croisé.",
+  "Ses populations dépendent des cycles de lemmings arctiques : quand ceux-ci se raréfient, les prédateurs se reportent sur les couvées de limicoles.",
+  "Capable de voler à environ 70 km/h, il relie l'Arctique sibérien à l'Afrique australe en quelques semaines de migration."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/B%C3%A9casseau_cocorli",
+  "https://en.wikipedia.org/wiki/Curlew_sandpiper",
+  "https://www.oiseaux.net/fiche/becasseau.cocorli.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

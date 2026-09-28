@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Picus sharpei",
+ "common_name_fr": "Pic de Sharpe",
+ "birdnet_label": "Picus sharpei_Pic de Sharpe",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Piciformes",
+  "family": "Picidae",
+  "family_common": "Woodpeckers",
+  "genus": "Picus",
+  "species": "Picus sharpei"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pic de Sharpe",
+   "url": "https://fr.wikipedia.org/wiki/Pic_de_Sharpe",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pic de Sharpe, ou pic ibérique, est une espèce d'oiseaux de la famille des Picidae. Il a longtemps été considéré comme une sous-espèce du Pic vert.",
+   "fulltext_chars": 2164
+  },
+  "en": {
+   "title": "Iberian green woodpecker",
+   "url": "https://en.wikipedia.org/wiki/Iberian_green_woodpecker",
+   "description": "Species of bird",
+   "extract": "The Iberian green woodpecker is a medium-sized woodpecker endemic to the Iberian peninsula. It was formerly considered as a subspecies of the European green woodpecker but differs in having little black on the head and a dusky rather than a black ring around each eye. Its sound has been described as sibilant, or hiss-like.",
+   "fulltext_chars": 1281
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/75/Picus_viridis_sharpei_055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 897,
+  "height": 1359,
+  "file": "Picus_viridis_sharpei_055.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/7/75/Picus_viridis_sharpei_055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0 es",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en",
+  "author": "Luis García (Zaqarbal)",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Picus_viridis_sharpei_055.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2233,
+  "cities": {
+   "Le Mans": 0.023,
+   "Pornic": 0.067,
+   "Rennes": 0.028,
+   "Poitiers": 0.057,
+   "Lyon": 0.022,
+   "Grenoble": 0.018,
+   "Marseille": 0.056,
+   "Toulouse": 0.183,
+   "Bordeaux": 0.223,
+   "Brest": 0.018,
+   "Clermont-Ferrand": 0.041,
+   "Perpignan": 0.153
+  },
+  "monthly_scores": [
+   0.1298,
+   0.1242,
+   0.2019,
+   0.2233,
+   0.1417,
+   0.1371,
+   0.1336,
+   0.1085,
+   0.0866,
+   0.1071,
+   0.1277,
+   0.138
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:34Z"
+}

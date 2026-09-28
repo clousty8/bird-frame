@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Anthus trivialis",
+ "common_name_fr": "Pipit des arbres",
+ "birdnet_label": "Anthus trivialis_Pipit des arbres",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Motacillidae",
+  "family_common": "Wagtails and Pipits",
+  "genus": "Anthus",
+  "species": "Anthus trivialis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pipit des arbres",
+   "url": "https://fr.wikipedia.org/wiki/Pipit_des_arbres",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pipit des arbres est une des sept espèces de pipits que l'on peut observer en France. Il est répandu à travers l'Eurasie, résidant dans les milieux moyennement boisés où il se nourrit majoritairement d'insectes ; il migre vers l'Afrique et l'Inde durant l'hiver.",
+   "fulltext_chars": 6405
+  },
+  "en": {
+   "title": "Tree pipit",
+   "url": "https://en.wikipedia.org/wiki/Tree_pipit",
+   "description": "Species of bird",
+   "extract": "The tree pipit is a small passerine bird that breeds throughout most of Europe and the Palearctic as far east as the East Siberian Mountains. It is a long-distance migrant, migrating in winter to Africa and southern Asia. The scientific name is from Latin: anthus is the name of a small bird of grasslands, and the specific  trivialis means \"common\".",
+   "fulltext_chars": 3751
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/db/Anthus_triviallis_%28Marek_Szczepanek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 650,
+  "height": 426,
+  "file": "Anthus_triviallis_(Marek_Szczepanek).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/d/db/Anthus_triviallis_%28Marek_Szczepanek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Anthus_triviallis_(Marek_Szczepanek).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1994,
+  "cities": {
+   "Le Mans": 0.183,
+   "Pornic": 0.199,
+   "Rennes": 0.173,
+   "Poitiers": 0.194,
+   "Paris": 0.154,
+   "Lille": 0.141,
+   "Strasbourg": 0.146,
+   "Lyon": 0.145,
+   "Grenoble": 0.118,
+   "Marseille": 0.128,
+   "Toulouse": 0.153,
+   "Bordeaux": 0.199,
+   "Brest": 0.124,
+   "Ajaccio": 0.197,
+   "Clermont-Ferrand": 0.167,
+   "Chamonix": 0.116,
+   "Perpignan": 0.123,
+   "Nancy": 0.143
+  },
+  "monthly_scores": [
+   0.0175,
+   0.0316,
+   0.1297,
+   0.1994,
+   0.1693,
+   0.1233,
+   0.1045,
+   0.1578,
+   0.1968,
+   0.0987,
+   0.0258,
+   0.0205
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:07Z"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Egretta garzetta",
+ "common_name_fr": "Aigrette garzette",
+ "birdnet_label": "Egretta garzetta_Aigrette garzette",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Pelecaniformes",
+  "family": "Ardeidae",
+  "family_common": "Herons, Egrets, and Bitterns",
+  "genus": "Egretta",
+  "species": "Egretta garzetta"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Aigrette garzette",
+   "url": "https://fr.wikipedia.org/wiki/Aigrette_garzette",
+   "description": "espèce d'oiseaux pelecaniformes de la famille des ardeidae",
+   "extract": "L'Aigrette garzette est une espèce d'oiseaux de la famille des Ardeidae.",
+   "fulltext_chars": 6563
+  },
+  "en": {
+   "title": "Little egret",
+   "url": "https://en.wikipedia.org/wiki/Little_egret",
+   "description": "Species of water bird",
+   "extract": "The little egret is a species of small heron in the family Ardeidae. It is a white bird with a slender black beak, long black legs and, in the western race, yellow feet. As an aquatic bird, it feeds in shallow water and on land, consuming a variety of small creatures. It breeds colonially, often with other species of water birds, making a platform nest of sticks in a tree, bush or reed bed. A clutch of three to five bluish-green eggs is laid and incubated by both parents for about three weeks. The young fledge at about six weeks of age.",
+   "fulltext_chars": 13708
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Aigrette_garzette_au_lac_sud_de_Tunis_%28site_RAMSAR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2758,
+  "height": 1827,
+  "file": "Aigrette_garzette_au_lac_sud_de_Tunis_(site_RAMSAR).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Aigrette_garzette_au_lac_sud_de_Tunis_%28site_RAMSAR%29.jpg/1920px-Aigrette_garzette_au_lac_sud_de_Tunis_%28site_RAMSAR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "El Golli Mohamed",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Aigrette_garzette_au_lac_sud_de_Tunis_(site_RAMSAR).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.8055,
+  "cities": {
+   "Le Mans": 0.657,
+   "Pornic": 0.767,
+   "Rennes": 0.752,
+   "Poitiers": 0.637,
+   "Paris": 0.509,
+   "Lille": 0.411,
+   "Strasbourg": 0.153,
+   "Lyon": 0.371,
+   "Grenoble": 0.38,
+   "Marseille": 0.495,
+   "Toulouse": 0.436,
+   "Bordeaux": 0.537,
+   "Brest": 0.806,
+   "Ajaccio": 0.682,
+   "Clermont-Ferrand": 0.422,
+   "Chamonix": 0.318,
+   "Perpignan": 0.448,
+   "Nancy": 0.233
+  },
+  "monthly_scores": [
+   0.6796,
+   0.6472,
+   0.6327,
+   0.6554,
+   0.6194,
+   0.6427,
+   0.6755,
+   0.7949,
+   0.8055,
+   0.7559,
+   0.7257,
+   0.6971
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:41Z"
+}

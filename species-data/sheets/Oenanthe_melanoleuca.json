@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Oenanthe melanoleuca",
+ "summary_fr": "Le Traquet noir et blanc est un petit passereau migrateur de la famille des gobemouches de l'Ancien Monde. Nicheur de Méditerranée orientale et des Balkans jusqu'à la Mer Caspienne et l'Iran, il hiverne au Sahel et en Afrique de l'Ouest subsaharienne. Le mâle en plumage nuptial affiche des contrastes saisissants : front, calotte et dos blanc pur, ailes noires intenses, masque facial noir caractéristique du genre Oenanthe. Les femelles sont plus discrètes, vêtues d'un plumage brun-gris sans les démarcations marquées du mâle. En France, cette espèce extrêmement rare n'est qu'une migratrice de passage, aperçue sporadiquement au printemps et plus régulièrement à l'automne lors de ses déplacements. Elle fréquente les milieux ouverts parsemés d'arbres, les pentes rocheuses et les pâturages secs. Une détection en France est un événement rarissime qui mérite d'être rapportée.",
+ "habitat": "Milieux ouverts avec arbres disséminés, pentes rocheuses, pâturages secs et semi-arides, savanes ; évite les zones densément boisées.",
+ "diet": "Insectes et arthropodes capturés au sol ou en vol ; régime spécialisé de petits invertébrés.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Sahel et Afrique de l'Ouest (Soudan), rarement observable en France en cette saison.",
+  "niche": "Méditerranée orientale, Europe du Sud-Est, jusqu'à la Mer Caspienne et l'Iran ; ne niche pas en France.",
+  "passage": "Passages migratoires en mars-avril et août-octobre en France, extrêmement rare."
+ },
+ "seasonality_fr": "Migratrice de passage très rare en France, observable surtout lors des passages d'automne (août-octobre) et exceptionnellement au printemps.",
+ "song_fr": "Chant rapide composé de notes rauques et entrelacées ; cris d'alarme secs et répétés caractéristiques du genre Oenanthe.",
+ "lookalikes": [
+  {
+   "scientific_name": "Oenanthe oenanthe",
+   "common_name_fr": "Traquet motteux",
+   "why_fr": "Morphologie et chant similaires ; confusion possible chez le mâle moins contrasté en plumage d'hiver."
+  },
+  {
+   "scientific_name": "Oenanthe hispanica",
+   "common_name_fr": "Traquet oreillard",
+   "why_fr": "Masque facial noir semblable, mais plus pâle et teinté de roux sur la tête et le dos."
+  },
+  {
+   "scientific_name": "Oenanthe pleschanka",
+   "common_name_fr": "Traquet pie",
+   "why_fr": "Motif noir et blanc similaire mais distribution géographique très différente."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France, vagrant occasionnel lors des migrations ; seule la région Ajaccio/Corse offre des probabilités non négligeables (max_score BirdNET très faible : 0,02).",
+ "fun_facts": [
+  "Le dimorphisme sexuel est marqué : le mâle affiche des contrastes noir et blanc éclatants tandis que la femelle est nettement plus discrète.",
+  "Cette espèce a un cycle migratoire trans-saharien : elle traverse le désert du Sahara deux fois par an entre ses territoires de reproduction méditerranéens et ses zones d'hivernage africaines."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Traquet_noir_et_blanc",
+  "https://en.wikipedia.org/wiki/Eastern_black-eared_wheatear",
+  "https://www.oiseaux.net/species/eastern.black.eared.wheatear.html",
+  "https://inpn.mnhn.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

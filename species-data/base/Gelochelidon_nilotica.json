@@ -1,0 +1,77 @@
+{
+ "scientific_name": "Gelochelidon nilotica",
+ "common_name_fr": "Sterne hansel",
+ "birdnet_label": "Gelochelidon nilotica_Sterne hansel",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Gelochelidon",
+  "species": "Gelochelidon nilotica"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Sterne hansel",
+   "url": "https://fr.wikipedia.org/wiki/Sterne_hansel",
+   "description": "espèce d'oiseaux",
+   "extract": "La Sterne hansel est une espèce d'oiseaux Charadriiformes de la famille des Laridae. Elle vit dans les marais d'eau douce et les lagunes côtières, mais elle migre au-dessus des mers.",
+   "fulltext_chars": 4940
+  },
+  "en": {
+   "title": "Gull-billed tern",
+   "url": "https://en.wikipedia.org/wiki/Gull-billed_tern",
+   "description": "Species of bird",
+   "extract": "The gull-billed tern is a tern in the family Laridae. It is widely distributed and breeds in scattered localities in Europe, Asia, northwest Africa, and the Americas. The Australian gull-billed tern was previously considered a subspecies.",
+   "fulltext_chars": 4056
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/73/Gull-billed_Tern_%28Gelochelidon_nilotica%29_Gilgit-Baltistan%2C_Pakistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1312,
+  "height": 1488,
+  "file": "Gull-billed_Tern_(Gelochelidon_nilotica)_Gilgit-Baltistan,_Pakistan.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/7/73/Gull-billed_Tern_%28Gelochelidon_nilotica%29_Gilgit-Baltistan%2C_Pakistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Imran Shah from Islamabad, Pakistan",
+  "credit": "Gull-billed Tern (Gelochelidon nilotica)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Gull-billed_Tern_(Gelochelidon_nilotica)_Gilgit-Baltistan,_Pakistan.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0737,
+  "cities": {
+   "Marseille": 0.022,
+   "Toulouse": 0.017,
+   "Bordeaux": 0.011,
+   "Ajaccio": 0.074,
+   "Perpignan": 0.027
+  },
+  "monthly_scores": [
+   0.0108,
+   0.0134,
+   0.0364,
+   0.0656,
+   0.0737,
+   0.0659,
+   0.0623,
+   0.0555,
+   0.0411,
+   0.0217,
+   0.0114,
+   0.0118
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:21Z"
+}

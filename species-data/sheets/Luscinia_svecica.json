@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Luscinia svecica",
+ "summary_fr": "La Gorgebleue à miroir est un petit passereau discret d'environ 13 centimètres, cousin du Rougegorge au sein de la famille des gobemouches de l'Ancien Monde. Le mâle affiche en période nuptiale une gorge bleu vif ornée d'une tache centrale rousse ou blanche selon la sous-espèce, tandis que femelles et jeunes portent une livrée beaucoup plus terne. Il fréquente les zones humides buissonnantes, roselières et rives boueuses, où il niche près du sol dans une végétation dense. En France, la sous-espèce namnetum occupe les marais littoraux de la façade atlantique, du Mont-Saint-Michel au Bassin d'Arcachon, tandis que la sous-espèce cyanecula se reproduit plus ponctuellement dans l'est et le centre du pays. C'est un migrateur partiel : la majorité des oiseaux rejoignent l'Afrique, la péninsule Ibérique ou l'Asie du Sud pour l'hiver, mais un petit contingent hiverne chaque année sur le littoral français. Insectivore, elle capture au sol comme dans les buissons insectes, larves, vers et araignées, complétés de baies en hiver. Son chant est un festival d'imitations : un même mâle peut reproduire le cri ou le chant de plus de trente espèces différentes, tissés dans de longues phrases flûtées et grinçantes.",
+ "habitat": "Zones humides buissonnantes : roselières, saulaies riveraines, fossés et talus à tamaris des marais littoraux. La sous-espèce namnetum affectionne les marais salants et prés humides de la façade atlantique.",
+ "diet": "Insectivore : insectes, larves, vers de terre et araignées glanés au sol ou dans les buissons ; complète son régime avec des baies, surtout en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Hivernage rare mais régulier en France, surtout sur les littoraux atlantique et méditerranéen ; l'essentiel de la population hiverne en Afrique du Nord et de l'Ouest, en péninsule Ibérique, en Arabie et en Asie du Sud.",
+  "niche": "Façade atlantique française (sous-espèce namnetum), de fin mars à juillet ; plus ponctuellement dans l'est et le centre du pays (sous-espèce cyanecula).",
+  "passage": "Passages migratoires marqués en mars-avril au printemps et de septembre à novembre en automne, notamment sur le littoral et en zones humides."
+ },
+ "seasonality_fr": "Présente en France de mars à octobre-novembre, avec un pic à l'arrivée des nicheurs fin mars-avril ; hivernage rare mais régulier sur le littoral, notamment atlantique et méditerranéen.",
+ "song_fr": "Chant varié fait de notes flûtées, bourdonnantes, roulées et stridentes, riche en imitations d'autres oiseaux ; cri d'alarme sec en « teck ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Phoenicurus ochruros",
+   "common_name_fr": "Rougequeue noir",
+   "why_fr": "Cri d'alarme « teck »/« tic » très proche ; petite taille et habitat de lisière comparables."
+  },
+  {
+   "scientific_name": "Saxicola rubicola",
+   "common_name_fr": "Tarier pâtre",
+   "why_fr": "Appel « tchak » ressemblant ; mêmes friches et buissons bas fréquentés."
+  },
+  {
+   "scientific_name": "Acrocephalus schoenobaenus",
+   "common_name_fr": "Phragmite des joncs",
+   "why_fr": "Même habitat de roselière ; chant tout aussi varié et bavard, riche en imitations."
+  }
+ ],
+ "rarity_note": "Peu commune en France mais régulière, notamment comme nicheuse et migratrice sur la façade atlantique ; hivernage occasionnel sur le littoral.",
+ "fun_facts": [
+  "Certains mâles peuvent imiter le chant de plus de trente espèces d'oiseaux différentes, le plus souvent d'autres petits passereaux.",
+  "La sous-espèce française namnetum, la plus petite de toutes, ne niche que sur la façade atlantique, du Mont-Saint-Michel au Bassin d'Arcachon.",
+  "Oiseau territorial toute l'année, il défend farouchement son domaine ; les combats entre mâles peuvent être très violents."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Gorgebleue_%C3%A0_miroir",
+  "https://en.wikipedia.org/wiki/Bluethroat",
+  "https://www.oiseaux.net/oiseaux/gorgebleue.a.miroir.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,33 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Curruca undata",
+ "summary_fr": "Petit passereau méditerranéen au plumage discret de teintes grises et rougeâtres, la Fauvette pitchou est un habitant des landes et broussailles du sud-ouest européen. Autrefois présente jusqu'en Angleterre, cette espèce a failli disparaître lors de l'hiver rigoureux de 1962-1963 qui a réduit la population française à une dizaine de couples. Depuis, elle s'est progressivement rétablie grâce à son excellente capacité reproductrice, avec deux ou trois nichées par an dans des ajoncs et bruyères proches du sol. Comme nombre de fauvettes, elle est essentiellement insectivore, se nourrissant de petits arthropodes l'été et complétant son régime de baies en hiver. Très territoriale, elle défend farouchement ses domaines avec des chants et cris caractéristiques, particulièrement audibles en hiver quand beaucoup d'autres oiseaux sont silencieux.",
+ "habitat": "Zones ouvertes de landes, broussailles et garrigues, souvent près des côtes. Affectionne les genêts, ajoncs et bruyères, rarement en forêt dense.",
+ "diet": "Essentiellement insectivore : coléoptères, lépidoptères, chenilles, araignées et autres petits arthropodes. Baies et petites graines en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Principalement dans son aire de reproduction en France méridionale, Ibérie et Afrique du Nord ; les populations hivernales peuvent être renforcées par des oiseaux en migration.",
+  "niche": "Partout dans le sud-ouest de la France, Ibérie et Afrique du Nord où elle se reproduit d'avril à juillet.",
+  "passage": "Mouvements migratoires peu marqués, avec quelques échanges entre populations en mars et septembre-octobre."
+ },
+ "seasonality_fr": "Présente toute l'année dans les régions où elle se reproduit. Visible et audible même en hiver, période où elle reste chantante pour défendre son territoire.",
+ "song_fr": "Chant caractéristique et énergique : succession rapide de notes gazouillantes formant un trille ou battement rappelant un bruit de crécelle. Cri d'alarme sec et répété.",
+ "lookalikes": [
+  {"scientific_name": "Curruca cantillans", "common_name_fr": "Fauvette passerginette", "why_fr": "Espèce très proche et sympatrique, taille et coloris similaires, chant aussi énergique."},
+  {"scientific_name": "Curruca subalpina", "common_name_fr": "Fauvette de l'Atlas", "why_fr": "Très proche morphologiquement, peut former superespèce selon taxonomies récentes."},
+  {"scientific_name": "Curruca melanocephala", "common_name_fr": "Fauvette mélanocéphale", "why_fr": "Légèrement plus grande, habitat et chant différents mais peut créer confusion auditive."}
+ ],
+ "rarity_note": "Rare en France métropolitaine, limitée au sud-ouest et régions méditerranéennes. Présente régulièrement mais en faible nombre ; beaucoup plus commune en Espagne et Afrique du Nord. Statut UICN : Quasi menacée.",
+ "fun_facts": [
+  "Jadis présente en Angleterre jusqu'au Heath de Dartford dont elle tire son nom anglais, l'espèce a complètement disparu du pays lors d'un hiver exceptionnellement rigoureux en 1962-1963.",
+  "Exceptionnellement parmi les petites fauvettes, l'espèce peut élever deux à trois nichées par an, ce qui lui permet de récupérer rapidement après une année difficile."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fauvette_pitchou",
+  "https://en.wikipedia.org/wiki/Dartford_warbler",
+  "https://www.oiseaux.net/oiseaux/fauvette.pitchou.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

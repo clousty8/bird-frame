@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Zapornia parva",
+ "summary_fr": "Minuscule oiseau de marais ne dépassant pas 19 cm, la Marouette poussin est l'une des trois marouettes de France mais y demeure exceptionnellement rare, n'étant visible qu'en migration. Cet oiseau secrète fréquente les roselières des régions orientales d'Europe et d'Asie, d'où il émigre en Afrique pour y passer l'hiver. Migrateur strict qui traverse la France surtout en mars et d'août à octobre, il affiche un dimorphisme sexuel remarquable : les mâles arborent un plumage bleu-gris tandis que les femelles portent des teintes chamoisées. Sa plus grande taille et l'absence de barres blanches sur les flancs le distinguent de la Marouette ponctuée. Timide et discret, il sort principalement la nuit et à la tombée du jour, préférant les lits de roseaux en eau profonde. Il s'alimente d'insectes et d'animaux aquatiques, probant dans la vase avec son bec court.",
+ "habitat": "Roselières et marais d'eau douce, zones plantées de joncs et de laîches. En migration, tous les habitats marécageux conviennent.",
+ "diet": "Insectes, crustacés et animaux aquatiques. Se nourrit en probant dans la vase avec son bec court et droit.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": null,
+  "passage": "Passages marqués en mars, puis d'août à octobre. Migration principalement nocturne."
+ },
+ "seasonality_fr": "Visible principalement en migration : mars et d'août à novembre. Absente en juin-juillet, période de nidification en Europe de l'Est. Peut être plus vocale et bruyante lors des passages.",
+ "song_fr": "Cri yappant et répété « kua kua » caractéristique, surtout entendu en période de migration. En nidification, cri d'appel musical, souvent émis en série.",
+ "lookalikes": [
+  {
+   "scientific_name": "Zapornia pusilla",
+   "common_name_fr": "Marouette de Baillon",
+   "why_fr": "Très similaire acoustiquement et morphologiquement ; femelle particulièrement confondable. La Marouette de Baillon est un peu plus petite, avec des flancs fortement barrés chez le mâle."
+  },
+  {
+   "scientific_name": "Porzana porzana",
+   "common_name_fr": "Marouette ponctuée",
+   "why_fr": "Autre marouette européenne de taille comparable. Présente des taches blanches et des barres sombres sur les flancs, l'absence de ces marques chez Z. parva permet de les distinguer acoustiquement."
+  }
+ ],
+ "rarity_note": "Très rare en France hors périodes de migration. Migrante régulière, observée principalement en passages printanier et automnal, avec effectifs très réduits.",
+ "fun_facts": [
+  "Le mâle et la femelle sont très différents : le mâle arbore un plumage bleu-gris tandis que la femelle porte des teintes chamoisées, tout comme ses cousins jeunes.",
+  "Extrêmement secrète, elle passe la plupart du temps inaperçue et sort rarement à découvert, préférant les épaisses végétations des marais.",
+  "Elle traverse la France uniquement deux fois par an en migration, empruntant des routes qui la mènent d'Europe de l'Est vers l'Afrique subsaharienne."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Marouette_poussin",
+  "https://en.wikipedia.org/wiki/Little_crake",
+  "https://oiseaux.net/oiseaux/marouette.poussin.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

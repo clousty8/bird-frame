@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Fulica atra",
+ "common_name_fr": "Foulque macroule",
+ "birdnet_label": "Fulica atra_Foulque macroule",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Gruiformes",
+  "family": "Rallidae",
+  "family_common": "Rails, Gallinules, and Coots",
+  "genus": "Fulica",
+  "species": "Fulica atra"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Foulque macroule",
+   "url": "https://fr.wikipedia.org/wiki/Foulque_macroule",
+   "description": "espèce d'oiseaux",
+   "extract": "La Foulque macroule est une espèce d'oiseaux de la famille des Rallidae. Originaire d'une vaste partie de l'Ancien Monde et de l'Océanie, elle est la principale espèce de foulques naturellement présente en Europe.",
+   "fulltext_chars": 6740
+  },
+  "en": {
+   "title": "Eurasian coot",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_coot",
+   "description": "Species of bird",
+   "extract": "The Eurasian coot, also known as the common coot or Australian coot, is a member of the rail and crake bird family, the Rallidae. It is found in Europe, Asia, Australia, New Zealand and parts of North Africa. It has a slaty-black body, a glossy black head and a white bill with a white frontal shield. The sexes are similar in appearance.",
+   "fulltext_chars": 6770
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/33/Eurasian_Coot_2026_03_23_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5642,
+  "height": 3761,
+  "file": "Eurasian_Coot_2026_03_23_01.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Eurasian_Coot_2026_03_23_01.jpg/1920px-Eurasian_Coot_2026_03_23_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Alexis Lours",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Eurasian_Coot_2026_03_23_01.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.7404,
+  "cities": {
+   "Le Mans": 0.541,
+   "Pornic": 0.415,
+   "Rennes": 0.445,
+   "Poitiers": 0.499,
+   "Paris": 0.661,
+   "Lille": 0.74,
+   "Strasbourg": 0.674,
+   "Lyon": 0.475,
+   "Grenoble": 0.448,
+   "Marseille": 0.409,
+   "Toulouse": 0.384,
+   "Bordeaux": 0.414,
+   "Brest": 0.308,
+   "Ajaccio": 0.549,
+   "Clermont-Ferrand": 0.476,
+   "Chamonix": 0.479,
+   "Perpignan": 0.383,
+   "Nancy": 0.694
+  },
+  "monthly_scores": [
+   0.6259,
+   0.6437,
+   0.6763,
+   0.7404,
+   0.6745,
+   0.6409,
+   0.6357,
+   0.7111,
+   0.6582,
+   0.5799,
+   0.6263,
+   0.6235
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:42Z"
+}

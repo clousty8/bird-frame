@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Rallus aquaticus",
+ "common_name_fr": "Râle d'eau",
+ "birdnet_label": "Rallus aquaticus_Râle d'eau",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Gruiformes",
+  "family": "Rallidae",
+  "family_common": "Rails, Gallinules, and Coots",
+  "genus": "Rallus",
+  "species": "Rallus aquaticus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Râle d'eau",
+   "url": "https://fr.wikipedia.org/wiki/R%C3%A2le_d'eau",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Râle d'eau est une espèce d'oiseaux de la famille des Rallidae. L'adulte mesure de 23 à 28 cm de long et a, comme les autres râles, un corps aplati latéralement lui permettant de se frayer plus facilement un chemin dans les roselières, son habitat préférentiel. Ses parties supérieures sont brunes et ses parties inférieures gris-bleu. Il a des rayures noires sur les flancs, de longs orteils, une courte queue et un long bec rougeâtre. Les jeunes sont similaires aux adultes, mais la partie gris-bleu du plumage de l'adulte est chamoisée chez les jeunes. Les nouveau-nés sont couverts d'un duvet noir, comme chez tous les autres râles.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Water rail",
+   "url": "https://en.wikipedia.org/wiki/Water_rail",
+   "description": "Species of bird",
+   "extract": "The water rail, western water rail or European water rail is a bird of the rail family which breeds in well-vegetated wetlands across Europe, Asia and North Africa. Northern and eastern populations are migratory, but this species is a permanent resident in the warmer parts of its breeding range. The adult is 23–28 cm (9–11 in) long, and, like other rails, has a body that is flattened laterally, allowing it easier passage through the reed beds it inhabits. It has mainly brown upperparts and blue-grey underparts, black barring on the flanks, long toes, a short tail and a long reddish bill. Immature birds are generally similar in appearance to the adults, but the blue-grey in the plumage is replaced by buff. The downy chicks are black, as with all rails. The former subspecies R. indicus has distinctive markings and a call that is very different from the pig-like squeal of the western rails, and is now usually split as a separate species, the brown-cheeked rail.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Water_rail_2022_04_30_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3503,
+  "height": 2308,
+  "file": "Water_rail_2022_04_30_01.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Water_rail_2022_04_30_01.jpg/1920px-Water_rail_2022_04_30_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Alexis Lours",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Water_rail_2022_04_30_01.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3706,
+  "cities": {
+   "Le Mans": 0.164,
+   "Pornic": 0.185,
+   "Rennes": 0.182,
+   "Poitiers": 0.164,
+   "Paris": 0.142,
+   "Lille": 0.126,
+   "Strasbourg": 0.091,
+   "Lyon": 0.119,
+   "Grenoble": 0.121,
+   "Marseille": 0.166,
+   "Toulouse": 0.145,
+   "Bordeaux": 0.163,
+   "Brest": 0.19,
+   "Ajaccio": 0.371,
+   "Clermont-Ferrand": 0.132,
+   "Chamonix": 0.109,
+   "Perpignan": 0.16,
+   "Nancy": 0.106
+  },
+  "monthly_scores": [
+   0.3706,
+   0.3549,
+   0.2729,
+   0.1563,
+   0.0929,
+   0.0915,
+   0.1233,
+   0.1441,
+   0.1632,
+   0.2273,
+   0.3317,
+   0.366
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:18Z"
+}

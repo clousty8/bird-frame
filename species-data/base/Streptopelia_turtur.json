@@ -1,0 +1,92 @@
+{
+ "scientific_name": "Streptopelia turtur",
+ "common_name_fr": "Tourterelle des bois",
+ "birdnet_label": "Streptopelia turtur_Tourterelle des bois",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Columbiformes",
+  "family": "Columbidae",
+  "family_common": "Pigeons and Doves",
+  "genus": "Streptopelia",
+  "species": "Streptopelia turtur"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Tourterelle des bois",
+   "url": "https://fr.wikipedia.org/wiki/Tourterelle_des_bois",
+   "description": "espèce d'oiseaux",
+   "extract": "La Tourterelle des bois est une espèce d'oiseaux de la famille des Columbidae et qui se reproduit dans le Paléarctique occidental, essentiellement dans les régions de basse altitude. C'est le seul colombidé migrateur à longue distance d'Europe, et aussi l'une des espèces connaissant un déclin parmi les plus rapides en Europe.",
+   "fulltext_chars": 21935
+  },
+  "en": {
+   "title": "European turtle dove",
+   "url": "https://en.wikipedia.org/wiki/European_turtle_dove",
+   "description": "Threatened or vulnerable species of bird",
+   "extract": "The European turtle dove is a threatened or vulnerable member of the bird family Columbidae, the doves and pigeons. It breeds over a wide area of the south western Palearctic including north Africa but migrates to northern sub-Saharan Africa in winter.",
+   "fulltext_chars": 8384
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8b/European_Turtle_Dove_%28Streptopelia_turtur%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2112,
+  "height": 3168,
+  "file": "European_Turtle_Dove_(Streptopelia_turtur).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/European_Turtle_Dove_%28Streptopelia_turtur%29.jpg/1920px-European_Turtle_Dove_%28Streptopelia_turtur%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Yuvalr",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:European_Turtle_Dove_(Streptopelia_turtur).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3958,
+  "cities": {
+   "Le Mans": 0.357,
+   "Pornic": 0.396,
+   "Rennes": 0.32,
+   "Poitiers": 0.384,
+   "Paris": 0.283,
+   "Lille": 0.131,
+   "Strasbourg": 0.143,
+   "Lyon": 0.283,
+   "Grenoble": 0.265,
+   "Marseille": 0.281,
+   "Toulouse": 0.283,
+   "Bordeaux": 0.36,
+   "Brest": 0.191,
+   "Ajaccio": 0.369,
+   "Clermont-Ferrand": 0.312,
+   "Chamonix": 0.236,
+   "Perpignan": 0.254,
+   "Nancy": 0.171
+  },
+  "monthly_scores": [
+   0.0136,
+   0.0166,
+   0.0632,
+   0.1939,
+   0.3926,
+   0.3958,
+   0.3206,
+   0.2315,
+   0.1224,
+   0.0457,
+   0.0169,
+   0.016
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:15Z"
+}

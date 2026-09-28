@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Calidris alba",
+ "summary_fr": "Petit limicole arctique aux allures élancées, le Bécasseau sanderling est un migrateur longue distance dont le plumage alterne entre le roux en période nuptiale et le gris pâle en hiver. Dépourvu du doigt postérieur caractéristique des autres bécasseaux, il se reconnaît à sa course sautillante distincte, le long des plages sableuses où il sonde le sable à la recherche de proies enfouies. Courtaud et trapu, avec un épais bec court et droit, il forme en hiver de grands rassemblements grégaires sur les vasières côtières et les plages d'Europe occidentale. Bien qu'il se reproduise exclusivement sur la toundra arctique nord du 5e parallèle, il parcourt 3000 à 10000 km entre ses aires de reproduction et ses zones d'hivernage en Afrique australe, Amérique du Sud ou Australie, ce qui en fait l'un des oiseaux migrateurs les plus extrêmes de la planète.",
+ "habitat": "Plages sableuses, vasières côtières et littoraux marins ; occasionnellement lacs et cours d'eau intérieurs lors des passages migratoires.",
+ "diet": "Petits invertébrés benthiques : isopodes, crabes des sables, mollusques, œufs de limule au printemps ; insectes et larves en zone de reproduction.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Afrique australe, Amérique du Sud, Australie ; côtes d'Europe occidentale pour certains individus.",
+  "niche": "Toundra arctique nord du 5°C d'isotherme juillet ; à travers le Canada, l'Alaska, la Sibérie et Svalbard.",
+  "passage": "Migrations marquées en mars (vers le Nord) et août-septembre (vers le Sud) ; présent surtout en automne en France."
+ },
+ "seasonality_fr": "Présent en France surtout lors des passages migratoires, plus fréquent de juillet à octobre et en février-mars ; occasionnel en hiver sur les côtes océaniques.",
+ "song_fr": "Cris aigus et trillés ; trille rapide « brrrip » lors des déplacements en vol ; peu vocal comparé à d'autres limicoles.",
+ "lookalikes": [
+  {
+   "scientific_name": "Calidris minuta",
+   "common_name_fr": "Bécasseau minute",
+   "why_fr": "Taille similaire mais bec plus court ; cris aigus comparables lors des passages."
+  },
+  {
+   "scientific_name": "Calidris temminckii",
+   "common_name_fr": "Bécasseau de Temminck",
+   "why_fr": "Plumage gris pâle semblable en hiver ; cris et silhouette légèrement différents."
+  },
+  {
+   "scientific_name": "Calidris ferruginea",
+   "common_name_fr": "Bécasseau cocorli",
+   "why_fr": "Confusions possibles sur le plumage d'automne ; bec courbe caractéristique permet l'identification."
+  }
+ ],
+ "rarity_note": "Migrateur régulier mais peu abondant en France ; plus fréquent sur les côtes atlantiques qu'en Méditerranée, rare à l'intérieur des terres.",
+ "fun_facts": [
+  "C'est l'un des oiseaux les plus migrateurs du monde, parcourant jusqu'à 10000 km entre ses lieux de reproduction en Arctique et d'hivernage australs.",
+  "Unique parmi les bécasseaux : il est dépourvu du doigt postérieur (hallux), une adaptation au fouissage dans le sable.",
+  "Son vol rapide révèle une barre alaire blanche très marquée, caractéristique qui permet son identification même en vol."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/B%C3%A9casseau_sanderling",
+  "https://en.wikipedia.org/wiki/Sanderling",
+  "https://www.oiseaux.net/oiseaux/becasseau.sanderling.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,53 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Buteo buteo",
+ "summary_fr": "La Buse variable est le rapace diurne le plus commun de France, familière des lisières entre bois et champs ouverts, où elle guette depuis un perchoir ou tournoie en larges cercles portée par les courants ascendants. Son plumage est d'une variabilité extrême, du blanc presque pur au brun presque noir, si bien qu'aucun individu ne ressemble vraiment à un autre ; seul un croissant clair sur la poitrine aide souvent à la reconnaître. Son cri, un miaulement plaintif lancé en vol, trahit sa présence bien avant qu'on ne l'aperçoive. Chasseuse opportuniste, elle se nourrit surtout de campagnols et petits rongeurs, mais varie son menu selon les saisons : lapins, oiseaux, reptiles, amphibiens, insectes et vers de terre, sans dédaigner la charogne par temps difficile. Fidèle à son partenaire, le couple bâtit son nid en hauteur, dans un arbre ou sur une paroi rocheuse. Sédentaire dans une large partie de la France, elle voit ses effectifs grossir l'hiver avec l'arrivée d'oiseaux du nord et de l'est de l'Europe. Longtemps persécutée, elle bénéficie aujourd'hui d'une protection légale qui a permis à ses populations de croître nettement depuis les années 1980, faisant d'elle l'un des rapaces les plus abondants du continent.",
+ "habitat": "Interfaces bois-champs ouverts, prairies, terres agricoles avec buissons isolés. Évite les landes, forêts de conifères denses et bâtiments. Territoire de l'ordre de 100 hectares.",
+ "diet": "Petits rongeurs (campagnols, souris), lapins de garenne, oiseaux (pigeons, grives, jeunes corvidés), reptiles, amphibiens, insectes, vers de terre. Opportuniste, peut se nourrir de charogne.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Afrique de l'Est et australe, sous-continent indien pour les populations migratrices ; les nicheurs locaux restent sur place.",
+  "niche": "Toute la France, de février à juin selon la latitude ; aussi Europe de l'Atlantique à l'Oural et nord-ouest de la Chine.",
+  "passage": "Migration de la sous-espèce steppique vulpinus visible en septembre-octobre puis en mars-avril sur certains sites de passage."
+ },
+ "seasonality_fr": "Résidente toute l'année en France. Augmentation des effectifs hivernaux avec l'arrivée de populations du nord-est migratrices. Nidification de février à juin selon la latitude.",
+ "song_fr": "Cri caractéristique ressemblant à un miaulement de chat (« piiou-piiou »), émis surtout en vol et lors de la défense du territoire.",
+ "lookalikes": [
+  {
+   "scientific_name": "Pernis apivorus",
+   "common_name_fr": "Bondrée apivore",
+   "why_fr": "Juvénile très variable, silhouette proche. Bec plus fin et long, cou plus allongé, motif d'aile différent en vol, ailes tenues à plat ou relevées au décollage."
+  },
+  {
+   "scientific_name": "Buteo lagopus",
+   "common_name_fr": "Buse pattue",
+   "why_fr": "Présente en hiver en France. Plus grande, tarses emplumés, base de queue blanche, battements d'ailes plus lents, vol plus effilé, carpal patch plus marqué."
+  },
+  {
+   "scientific_name": "Buteo rufinus",
+   "common_name_fr": "Buse féroce",
+   "why_fr": "Certains individus très proches, notamment la sous-espèce Buteo buteo vulpinus. En moyenne plus grande, pattes jaunes, silhouette plus robuste et compacte."
+  },
+  {
+   "scientific_name": "Accipiter gentilis",
+   "common_name_fr": "Autour des palombes",
+   "why_fr": "Même gabarit mais silhouette très différente : ailes courtes et arrondies, queue longue et carrée, vol rapide et direct, chasseuse spécialisée de petits oiseaux."
+  }
+ ],
+ "rarity_note": "Espèce commune et régulière en France toute l'année. Score BirdNET 0,72 : très forte détectabilité. Population en hausse depuis les années 1980 grâce à la protection légale.",
+ "fun_facts": [
+  "Son plumage est d'une variabilité extraordinaire : certains individus sont presque blancs, d'autres presque noirs, rendant l'identification par la couleur seule quasi impossible.",
+  "Elle peut vivre plus de 30 ans à l'état sauvage, mais les collisions routières et les éoliennes comptent parmi ses principales causes de mortalité modernes.",
+  "Le croissant clair qu'elle porte souvent sur la poitrine aide à identifier les individus sombres, bien qu'il soit absent chez les plus pâles comme chez les plus foncés."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Buse_variable",
+  "https://en.wikipedia.org/wiki/Common_buzzard",
+  "https://www.oiseaux.net/fiches/buse.variable.html",
+  "https://www.lpo.fr/nos-actions/connaitre-et-identifier/fiches-oiseaux/buse-variable",
+  "https://inpn.mnhn.fr/espece/cd_nom/4312"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

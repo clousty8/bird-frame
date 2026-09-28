@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Plegadis falcinellus",
+ "common_name_fr": "Ibis falcinelle",
+ "birdnet_label": "Plegadis falcinellus_Ibis falcinelle",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Pelecaniformes",
+  "family": "Threskiornithidae",
+  "family_common": "Ibises and Spoonbills",
+  "genus": "Plegadis",
+  "species": "Plegadis falcinellus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Ibis falcinelle",
+   "url": "https://fr.wikipedia.org/wiki/Ibis_falcinelle",
+   "description": "espèce d'oiseaux",
+   "extract": "L’Ibis falcinelle est une espèce d'oiseaux de la famille des Threskiornithidae.",
+   "fulltext_chars": 3201
+  },
+  "en": {
+   "title": "Glossy ibis",
+   "url": "https://en.wikipedia.org/wiki/Glossy_ibis",
+   "description": "Species of bird",
+   "extract": "The glossy ibis is a water bird in the order Pelecaniformes and the ibis and spoonbill family Threskiornithidae. The scientific name derives from Ancient Greek plegados and Latin, falcis, both meaning \"sickle\" and referring to the distinctive shape of the bill.",
+   "fulltext_chars": 8875
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/0f/023_Glossy_ibis_fishing_in_the_Camargue_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3592,
+  "height": 2395,
+  "file": "023_Glossy_ibis_fishing_in_the_Camargue_Photo_by_Giles_Laurent.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/023_Glossy_ibis_fishing_in_the_Camargue_Photo_by_Giles_Laurent.jpg/1920px-023_Glossy_ibis_fishing_in_the_Camargue_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Giles Laurent",
+  "credit": "Own work, from gileslaurent.com",
+  "description_url": "https://commons.wikimedia.org/wiki/File:023_Glossy_ibis_fishing_in_the_Camargue_Photo_by_Giles_Laurent.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1042,
+  "cities": {
+   "Le Mans": 0.011,
+   "Pornic": 0.015,
+   "Rennes": 0.015,
+   "Poitiers": 0.014,
+   "Paris": 0.01,
+   "Lyon": 0.014,
+   "Grenoble": 0.017,
+   "Marseille": 0.043,
+   "Toulouse": 0.026,
+   "Bordeaux": 0.018,
+   "Brest": 0.017,
+   "Ajaccio": 0.104,
+   "Clermont-Ferrand": 0.014,
+   "Chamonix": 0.011,
+   "Perpignan": 0.048
+  },
+  "monthly_scores": [
+   0.0513,
+   0.0566,
+   0.1042,
+   0.102,
+   0.0795,
+   0.0782,
+   0.0855,
+   0.0853,
+   0.0674,
+   0.0538,
+   0.0461,
+   0.0514
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:25Z"
+}

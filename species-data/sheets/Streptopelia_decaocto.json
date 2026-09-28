@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Streptopelia decaocto",
+ "summary_fr": "Reconnaissable à son plumage gris-beige et son élégant demi-collier noir souligné de blanc à la nuque, la Tourterelle turque est une histoire d'expansion exceptionnelle. Originaire du Moyen-Orient et d'Asie mineure, elle a colonisé toute l'Europe continentale en un siècle, phénomène encore largement inexpliqué par les biologistes. Echappée des élevages des Bahamas dans les années 1970, elle s'est établie en Amérique du Nord. Désormais très commune en France, elle prospère partout, des zones rurales aux cœurs urbains. Cette tourterelle adore la proximité humaine et fréquente jardins, parcs, espaces industriels. Elle se reproduit quasiment toute l'année quand les ressources alimentaires sont abondantes, établissant de multiples nichées. Son appel distinctif « goo-GOO-goo » retentit dans les villes et villages. Granivore, elle consomme graines et baies, formant parfois des troupes impressionnantes près des cultures.",
+ "habitat": "Zones urbaines, péri-urbaines et rurales anthropiques : jardins, parcs, espaces industriels, balcons, zones portuaires. Évite les centres-villes trop denses dépourvus d'espaces verts.",
+ "diet": "Graines variées (tournesol, mil, blé), baies, bourgeons. Fréquente les mangeoires en hiver, se regroupe près des silos agricoles.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Présente toute l'année en France, y compris en hiver ; nicheurs partiellement sédentaires.",
+  "niche": "Partout en France continentale et insulaire ; reproduction de février à octobre, parfois toute l'année en cas d'abondance alimentaire.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible et audible toute l'année en France. Chants et parades nuptiales intenses de février à septembre, reprennent en automne favorable. Moins visible en plein cœur de l'hiver urbain.",
+ "song_fr": "Appel vocal caractéristique en trois syllabes « goo-GOO-goo » répétées, accent sur la deuxième syllabe. Cri d'alarme raude « chrraï-chrraï » lors des envols.",
+ "lookalikes": [
+  {
+   "scientific_name": "Streptopelia turtur",
+   "common_name_fr": "Tourterelle des bois",
+   "why_fr": "Taille légèrement plus petite, roucoulement plus grave et différent (« tourr-r-r »), arrives au printemps."
+  },
+  {
+   "scientific_name": "Columba palumbus",
+   "common_name_fr": "Pigeon ramier",
+   "why_fr": "Plus gros, roucoulement à plusieurs notes « rou-rou-rouoouh », teintes bleutées sur les ailes et cou."
+  },
+  {
+   "scientific_name": "Columba livia",
+   "common_name_fr": "Pigeon biset",
+   "why_fr": "Taille plus grande, roucoulement prolongé « rouh-rouh-rouh », teintes ardoisées plus marquées."
+  }
+ ],
+ "rarity_note": "Très commune toute l'année en France métropolitaine, y compris en Corse. Une des espèces columbidés les plus abondantes des milieux anthropiques.",
+ "fun_facts": [
+  "Expansion géographique la plus rapide jamais documentée chez un oiseau : conquête de l'Europe en moins de cent ans, progression moyenne de 44 km/an à partir des années 1940.",
+  "Son nom scientifique « decaocto » (dix-huit) provient d'une légende grecque : une servante pleurait sa misère et ne gagnait que dix-huit pièces par an ; les dieux la transformèrent en oiseau qui crie éternellement « dix-huit ».",
+  "Contrairement à la plupart des colombidés, elle peut boire la tête baissée normalement, alors que pigeons et tourterelles dos-bois doivent incliner la tête pour avaler."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Tourterelle_turque",
+  "https://en.wikipedia.org/wiki/Eurasian_collared_dove",
+  "https://www.oiseaux.net/oiseaux/tourterelle.turque.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4417"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

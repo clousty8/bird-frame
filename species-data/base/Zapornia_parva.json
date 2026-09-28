@@ -1,0 +1,69 @@
+{
+ "scientific_name": "Zapornia parva",
+ "common_name_fr": "Marouette poussin",
+ "birdnet_label": "Zapornia parva_Marouette poussin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Gruiformes",
+  "family": "Rallidae",
+  "family_common": "Rails, Gallinules, and Coots",
+  "genus": "Zapornia",
+  "species": "Zapornia parva"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Marouette poussin",
+   "url": "https://fr.wikipedia.org/wiki/Marouette_poussin",
+   "description": "espèce d'oiseaux gruiformes de la famille des rallidae",
+   "extract": "La Marouette poussin est une espèce d'oiseaux de la famille des Rallidae. C'est l'une des trois espèces de marouettes vivant en France.",
+   "fulltext_chars": 3344
+  },
+  "en": {
+   "title": "Little crake",
+   "url": "https://en.wikipedia.org/wiki/Little_crake",
+   "description": "Species of bird",
+   "extract": "The little crake is a very small waterbird of the family Rallidae. parva is Latin for \"small\". This species was long included in the genus Porzana.",
+   "fulltext_chars": 1896
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/26/Schiribilla%28porzana-parva%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 533,
+  "file": "Schiribilla(porzana-parva).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/26/Schiribilla%28porzana-parva%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Cristiana",
+  "credit": "schiribilla(porzana-parva)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Schiribilla(porzana-parva).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0664,
+  "cities": {
+   "Ajaccio": 0.066
+  },
+  "monthly_scores": [
+   0.0152,
+   0.0244,
+   0.0664,
+   0.0485,
+   0.0129,
+   0.0,
+   0.0,
+   0.0113,
+   0.0244,
+   0.0378,
+   0.018,
+   0.0163
+  ],
+  "months": [
+   3
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:22Z"
+}

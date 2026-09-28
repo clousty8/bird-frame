@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Melanitta nigra",
+ "summary_fr": "La Macreuse noire est un canard plongeur marin de taille moyenne, l'une des trois espèces de macreuses observées en Europe. Le dimorphisme sexuel est marqué : le mâle arbore un plumage entièrement noir rehaussé d'une tache jaune orangé sur un bec renflé à la base, tandis que la femelle et les jeunes sont bruns, avec des joues et une gorge plus claires. Silencieuse la majeure partie de l'année, elle se manifeste lors des parades par un cri de cloche flûté et par un sifflement aigu produit en vol par sa dixième rémige rétrécie. Excellente plongeuse, elle descend jusqu'à vingt ou trente mètres pour capturer moules et coques. Elle ne niche pas en France mais sur les lacs et la toundra arctique, d'où elle revient hiverner en nombre sur nos côtes atlantiques et de la Manche, avec des pics entre janvier et février. Fait moins connu, plus de 20 000 mâles adultes stationnent aussi l'été dans la baie du Mont-Saint-Michel pour y muer, incapables de voler durant plusieurs semaines : une présence estivale bien réelle, quoique discrète, sur le littoral français.",
+ "habitat": "Lacs de montagne, toundra, taïga et landes du nord de l'Europe et de l'Asie en période de nidification ; en migration et hivernage, principalement en mer côtière entre 500 mètres et 2 kilomètres du littoral, dans des zones peu profondes de 10 à 20 mètres.",
+ "diet": "Mollusques marins (moules, coques), crustacés, vers et larves d'insectes aquatiques ; en eau douce, également limnées et petits poissons, complétés parfois de pousses vertes et de graines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Côtes atlantiques de France jusqu'au Portugal, eaux britanniques et irlandaises, mer Baltique et mer du Nord ; fortes concentrations dans l'estuaire de la Gironde et en baie du Mont-Saint-Michel.",
+  "niche": "Ne niche pas en France : lacs et toundra du nord de l'Europe et de l'Asie arctique (Norvège, Suède, Finlande, Islande, Russie), ponte de fin mai à juin, incubation de 27 à 31 jours.",
+  "passage": "Passages marqués en mars puis de septembre à novembre ; l'été, des rassemblements de mue (plus de 20 000 mâles) se forment en baie du Mont-Saint-Michel entre fin juin et mi-août."
+ },
+ "seasonality_fr": "Hivernante régulière sur les côtes françaises de septembre à avril, avec des pics en janvier-février. Présente aussi l'été : des milliers de mâles adultes se rassemblent en baie du Mont-Saint-Michel pour muer, incapables de voler.",
+ "song_fr": "Silencieuse en hiver et en migration. Lors des parades : cri de cloche aigu et flûté en « cour-li », grognements rauques chez la femelle, et appel « guiv-guiv » lors des migrations nocturnes.",
+ "lookalikes": [
+  {
+   "scientific_name": "Melanitta fusca",
+   "common_name_fr": "Macreuse brune",
+   "why_fr": "Espèce très proche ; cris de parade semblables mais plus rauques chez M. fusca. Confusion possible en mer à distance."
+  },
+  {
+   "scientific_name": "Somateria mollissima",
+   "common_name_fr": "Eider à duvet",
+   "why_fr": "Autre canard marin au mâle très sombre, mais cris gutturaux distinctifs et répartition partiellement chevauchante en hiver."
+  }
+ ],
+ "rarity_note": "Hivernante régulière et localement abondante sur les côtes françaises (environ 30 000 individus l'hiver) ; ne niche pas en France, mais accueille aussi d'importants rassemblements de mue estivale en baie du Mont-Saint-Michel.",
+ "fun_facts": [
+  "La Macreuse noire produit un sifflement aigu en vol grâce au rétrécissement de sa dixième rémige primaire, particulièrement audible lors des migrations.",
+  "Plus de 20 000 mâles adultes se regroupent chaque été dans la baie du Mont-Saint-Michel pour muer, une période durant laquelle ils sont incapables de voler.",
+  "Au Moyen Âge, on croyait qu'elle naissait spontanément de certains fruits de mer, ce qui permettait de la consommer les jours de jeûne religieux comme aliment « maigre »."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Macreuse_noire",
+  "https://en.wikipedia.org/wiki/Common_scoter",
+  "https://www.oiseaux.net/fiches/macreuse.noire.html",
+  "https://www.lpo.fr",
+  "https://inpn.mnhn.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Picus viridis",
+ "summary_fr": "Le Pic vert, ou Pivert, est un grand pic très commun en France et en Europe de l'Ouest. Majestueusement vêtu de vert et de rouge, il se reconnaît à son croupion jaune bien visible en vol et à son cri caractéristique en forme de rire sonore, souvent entendu avant de le voir. Contrairement à ses cousins, il cherche sa nourriture principalement au sol plutôt que dans les arbres, se spécialisant dans la capture de fourmis avec sa longue langue collante. Oiseau territorial mais discret, il apprécie les milieux semi-ouverts : forêts claires, bocages, parcs et jardins. Il niche en creusant des cavités dans les grands feuillus où il élève ses jeunes avec l'aide de sa partenaire. Présent toute l'année en France, il est parfois rejoint par des oiseaux venus du nord lors des hivers rigoureux.",
+ "habitat": "Milieux semi-ouverts, forêts claires, bocages, parcs et jardins arborés. Se nourrit au sol dans les pelouses et zones herbacées courtes, du littoral à la forêt subalpine.",
+ "diet": "Essentiellement des fourmis (genres Formica, Myrmica et Lasius) capturées au sol ou dans les fourmilières ; complément d'invertébrés divers, fruits et graines en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Toute la France, incluant les oiseaux nicheurs sédentaires renforcés par des migrateurs venus du nord et de l'est de l'Europe lors d'hivers rigoureux.",
+  "niche": "Partout en France, d'avril à juillet, avec une ou deux nichées selon le calendrier printanier.",
+  "passage": "Mouvements migratoires discrets en mars puis d'octobre à novembre pour les populations du nord."
+ },
+ "seasonality_fr": "Présent toute l'année en France ; le cri caractéristique résonne surtout au printemps et en été lors de la défense territoriale, puis en hiver chez certains individus.",
+ "song_fr": "Cri d'appel très caractéristique : long ricanement sonore rappelant un rire, transcrit « kia-kia-kia » ou « kleu-kleu-kleu », modulé en intensité et pitch. Tambourinage exceptionnel chez cette espèce.",
+ "lookalikes": [
+  {
+   "scientific_name": "Picus sharpei",
+   "common_name_fr": "Pic de Sharpe",
+   "why_fr": "Très similaire, vocalisations presque identiques. Distingué surtout par l'aire de répartition (Pyrénées, Ibérie)."
+  },
+  {
+   "scientific_name": "Picus canus",
+   "common_name_fr": "Pic cendré",
+   "why_fr": "Cri plus sifflé et pur. Plus petit, tête grisâtre sans masque noir net, croupion moins jaune."
+  }
+ ],
+ "rarity_note": "Très commun à commun partout en France. Score BirdNET maximum de 0,69 sur ses sites de répartition optimale.",
+ "fun_facts": [
+  "Son long ricanement, comparé au rire d'une personne, lui vaut le surnom anglais « yaffle », d'où le personnage « Professeur Yaffle » de la série d'animation Bagpuss.",
+  "Il peut enfoncer sa langue hors du bec jusqu'à 10 cm supplémentaires pour capturer les fourmis en profondeur ; cette langue est enduite d'un mucus gluant sécrété par des glandes salivaires géantes.",
+  "Paire de pic terrestre par excellence : mieux adapté pour creuser le sol que pour tambouriner sur le bois, contrairement à ses cousins."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pic_vert",
+  "https://en.wikipedia.org/wiki/European_green_woodpecker"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

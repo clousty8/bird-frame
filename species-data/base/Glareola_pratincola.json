@@ -1,0 +1,70 @@
+{
+ "scientific_name": "Glareola pratincola",
+ "common_name_fr": "Glaréole à collier",
+ "birdnet_label": "Glareola pratincola_Glaréole à collier",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Glareolidae",
+  "family_common": "Pratincoles and Coursers",
+  "genus": "Glareola",
+  "species": "Glareola pratincola"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Glaréole à collier",
+   "url": "https://fr.wikipedia.org/wiki/Glar%C3%A9ole_%C3%A0_collier",
+   "description": "espèce d'oiseaux",
+   "extract": "La Glaréole à collier est une espèce d'oiseaux limicoles de la famille des Glareolidae.",
+   "fulltext_chars": 3712
+  },
+  "en": {
+   "title": "Collared pratincole",
+   "url": "https://en.wikipedia.org/wiki/Collared_pratincole",
+   "description": "Species of bird",
+   "extract": "The collared pratincole, also known as the common pratincole or red-winged pratincole, is a wader in the pratincole family, Glareolidae. As with other pratincoles, it is native to the Old World.",
+   "fulltext_chars": 3965
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Glar%C3%A9ole_%C3%A0_collier_lac_de_Tunis%40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5104,
+  "height": 3836,
+  "file": "Glaréole_à_collier_lac_de_Tunis@.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Glar%C3%A9ole_%C3%A0_collier_lac_de_Tunis%40.jpg/1920px-Glar%C3%A9ole_%C3%A0_collier_lac_de_Tunis%40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Elgollimoh",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Glar%C3%A9ole_%C3%A0_collier_lac_de_Tunis@.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0513,
+  "cities": {
+   "Ajaccio": 0.051
+  },
+  "monthly_scores": [
+   0.0,
+   0.0102,
+   0.0305,
+   0.0471,
+   0.0504,
+   0.049,
+   0.0513,
+   0.0399,
+   0.0297,
+   0.019,
+   0.011,
+   0.0111
+  ],
+  "months": [
+   5,
+   7
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:44Z"
+}

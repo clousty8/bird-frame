@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Alcedo atthis",
+ "common_name_fr": "Martin-pêcheur d'Europe",
+ "birdnet_label": "Alcedo atthis_Martin-pêcheur d'Europe",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Coraciiformes",
+  "family": "Alcedinidae",
+  "family_common": "Kingfishers",
+  "genus": "Alcedo",
+  "species": "Alcedo atthis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Martin-pêcheur d'Europe",
+   "url": "https://fr.wikipedia.org/wiki/Martin-p%C3%AAcheur_d'Europe",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Martin-pêcheur d'Europe est une espèce d'oiseaux, espèce type de la famille des Alcedinidae. Cet oiseau est un très bon bioindicateur de la qualité d'un milieu aquatique.",
+   "fulltext_chars": 10134
+  },
+  "en": {
+   "title": "Common kingfisher",
+   "url": "https://en.wikipedia.org/wiki/Common_kingfisher",
+   "description": "Species of bird",
+   "extract": "The common kingfisher, also known as the Eurasian kingfisher and river kingfisher, is a small kingfisher with seven subspecies recognized within its wide distribution across Eurasia and North Africa. It is resident in much of its range, but migrates from areas where rivers freeze in winter.",
+   "fulltext_chars": 15067
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Common_Kingfisher_Alcedo_atthis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2000,
+  "height": 2000,
+  "file": "Common_Kingfisher_Alcedo_atthis.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Common_Kingfisher_Alcedo_atthis.jpg/1920px-Common_Kingfisher_Alcedo_atthis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4613,
+  "cities": {
+   "Le Mans": 0.415,
+   "Pornic": 0.399,
+   "Rennes": 0.373,
+   "Poitiers": 0.461,
+   "Paris": 0.418,
+   "Lille": 0.355,
+   "Strasbourg": 0.419,
+   "Lyon": 0.427,
+   "Grenoble": 0.373,
+   "Marseille": 0.346,
+   "Toulouse": 0.355,
+   "Bordeaux": 0.439,
+   "Brest": 0.317,
+   "Ajaccio": 0.455,
+   "Clermont-Ferrand": 0.452,
+   "Chamonix": 0.396,
+   "Perpignan": 0.323,
+   "Nancy": 0.428
+  },
+  "monthly_scores": [
+   0.4464,
+   0.3815,
+   0.234,
+   0.1413,
+   0.1244,
+   0.1377,
+   0.2094,
+   0.3894,
+   0.4613,
+   0.431,
+   0.441,
+   0.4549
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:23Z"
+}

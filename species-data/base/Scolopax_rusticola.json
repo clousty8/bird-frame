@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Scolopax rusticola",
+ "common_name_fr": "Bécasse des bois",
+ "birdnet_label": "Scolopax rusticola_Bécasse des bois",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Scolopax",
+  "species": "Scolopax rusticola"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécasse des bois",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9casse_des_bois",
+   "description": "espèce d'oiseaux charadriiformes de la famille des scolopacidae",
+   "extract": "La Bécasse des bois est une espèce d'oiseaux de taille moyenne, de la famille des Scolopacidae, oiseau migrateur discret et essentiellement nocturne.",
+   "fulltext_chars": 23417
+  },
+  "en": {
+   "title": "Eurasian woodcock",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_woodcock",
+   "description": "Species of bird",
+   "extract": "The Eurasian woodcock is a medium-small wading bird found in temperate and subarctic Eurasia. It has cryptic camouflage to suit its woodland habitat, with reddish-brown upperparts and buff-coloured underparts. Its eyes are set far back on its head to give it 360-degree vision and it probes in the ground for food with its long, sensitive bill, making it vulnerable to cold weather when the ground remains frozen.",
+   "fulltext_chars": 12945
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Scolopax_rusticola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 1164,
+  "file": "Scolopax_rusticola.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Scolopax_rusticola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Johann Friedrich Naumann",
+  "credit": "Naturgeschichte der Vögel Mitteleuropas 1905, or earlier works.",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Scolopax_rusticola.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2627,
+  "cities": {
+   "Le Mans": 0.032,
+   "Pornic": 0.033,
+   "Rennes": 0.035,
+   "Poitiers": 0.031,
+   "Paris": 0.029,
+   "Lille": 0.031,
+   "Lyon": 0.022,
+   "Grenoble": 0.029,
+   "Marseille": 0.055,
+   "Toulouse": 0.03,
+   "Bordeaux": 0.028,
+   "Brest": 0.038,
+   "Ajaccio": 0.263,
+   "Clermont-Ferrand": 0.026,
+   "Chamonix": 0.018,
+   "Perpignan": 0.04,
+   "Nancy": 0.014
+  },
+  "monthly_scores": [
+   0.2454,
+   0.2627,
+   0.1626,
+   0.0629,
+   0.026,
+   0.0235,
+   0.0213,
+   0.0185,
+   0.0244,
+   0.0993,
+   0.2248,
+   0.244
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:30Z"
+}

@@ -1,0 +1,70 @@
+{
+ "scientific_name": "Setophaga coronata",
+ "common_name_fr": "Paruline à croupion jaune",
+ "birdnet_label": "Setophaga coronata_Paruline à croupion jaune",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Parulidae",
+  "family_common": "New World Warblers",
+  "genus": "Setophaga",
+  "species": "Setophaga coronata"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Setophaga coronata",
+   "url": "https://fr.wikipedia.org/wiki/Setophaga_coronata",
+   "description": "espèce d'oiseaux du genre Setophaga",
+   "extract": "La Paruline à croupion jaune est une espèce de passereaux de la famille des Parulidae, native d'Amérique du Nord.",
+   "fulltext_chars": 3059
+  },
+  "en": {
+   "title": "Yellow-rumped warbler",
+   "url": "https://en.wikipedia.org/wiki/Yellow-rumped_warbler",
+   "description": "Species of bird",
+   "extract": "The yellow-rumped warbler is a North American bird species that can be commonly observed all across the continent. Its extensive range connects both the Pacific and Atlantic coasts of the U.S. as well as Canada and Central America, with the population concentrated in the continent's northern reaches during the breeding season and migrating southwards to southern North and Central America in the winter. It generally prefers coniferous forests or mixed coniferous-deciduous forests as its breeding habitat, while during the winter it can be found inhabiting more open areas such as shrublands that offer food resources. The yellow-rumped warbler is primarily insectivorous, though the species eats fruit such as juniper berries, especially in winter.",
+   "fulltext_chars": 14409
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/02/Yellow-rumped_warbler_%2853768%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4513,
+  "height": 3385,
+  "file": "Yellow-rumped_warbler_(53768).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Yellow-rumped_warbler_%2853768%29.jpg/1920px-Yellow-rumped_warbler_%2853768%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Rhododendrites",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Yellow-rumped_warbler_(53768).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0306,
+  "cities": {
+   "Pornic": 0.031,
+   "Rennes": 0.014,
+   "Poitiers": 0.019,
+   "Bordeaux": 0.021
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0106,
+   0.0306,
+   0.02,
+   0.0103,
+   0.0,
+   0.0,
+   0.0,
+   0.0131,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:05Z"
+}

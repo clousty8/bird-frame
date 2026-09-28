@@ -1,0 +1,92 @@
+{
+ "scientific_name": "Acrocephalus schoenobaenus",
+ "common_name_fr": "Phragmite des joncs",
+ "birdnet_label": "Acrocephalus schoenobaenus_Phragmite des joncs",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Acrocephalidae",
+  "family_common": "Reed Warblers and Allies",
+  "genus": "Acrocephalus",
+  "species": "Acrocephalus schoenobaenus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Phragmite des joncs",
+   "url": "https://fr.wikipedia.org/wiki/Phragmite_des_joncs",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Phragmite des joncs est une espèce d'oiseaux paléarctiques de la famille des Acrocephalidae.",
+   "fulltext_chars": 3076
+  },
+  "en": {
+   "title": "Sedge warbler",
+   "url": "https://en.wikipedia.org/wiki/Sedge_warbler",
+   "description": "Species of bird",
+   "extract": "The sedge warbler is an Old World warbler in the genus Acrocephalus. It is a medium-sized warbler with a brown, streaked back and wings and a distinct pale supercilium. Sedge warblers are migratory, crossing the Sahara to get from their European and Asian breeding grounds to spend winter in Africa. The male's song is composed of random chattering phrases and can include mimicry of other species. The sedge warbler is mostly insectivorous.",
+   "fulltext_chars": 10174
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/84/Acrocephalus_schoenobaenus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 613,
+  "file": "Acrocephalus_schoenobaenus.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/8/84/Acrocephalus_schoenobaenus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "GabrielBuissart",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Acrocephalus_schoenobaenus.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2962,
+  "cities": {
+   "Le Mans": 0.164,
+   "Pornic": 0.123,
+   "Rennes": 0.181,
+   "Poitiers": 0.081,
+   "Paris": 0.181,
+   "Lille": 0.296,
+   "Strasbourg": 0.093,
+   "Lyon": 0.03,
+   "Grenoble": 0.022,
+   "Marseille": 0.029,
+   "Toulouse": 0.018,
+   "Bordeaux": 0.033,
+   "Brest": 0.182,
+   "Ajaccio": 0.14,
+   "Clermont-Ferrand": 0.034,
+   "Chamonix": 0.032,
+   "Perpignan": 0.023,
+   "Nancy": 0.118
+  },
+  "monthly_scores": [
+   0.0,
+   0.0131,
+   0.0711,
+   0.187,
+   0.2962,
+   0.2073,
+   0.1266,
+   0.063,
+   0.0729,
+   0.0481,
+   0.0118,
+   0.0
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:12Z"
+}

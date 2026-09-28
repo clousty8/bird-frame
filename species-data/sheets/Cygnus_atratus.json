@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Cygnus atratus",
+ "summary_fr": "Cygne d'Australie au plumage entièrement noir et bec rouge vif, le Cygne noir mesure 110 à 140 cm et pèse entre 3,7 et 9 kg, en faisant l'un des plus gros oiseaux d'eau existants. Introduit en Europe au XIXe siècle comme oiseau d'ornement des parcs et lacs artificiels, il s'échappe régulièrement des collections. En France, il n'existe que sous forme d'individus errants ou temporairement établis, provenant d'échappées de captivité. Contrairement aux cygnes blancs, le Cygne noir est presque exclusivement herbivore et se nourrit de plantes aquatiques. En Australie, il est hautement nomade, ses mouvements répondant aux conditions climatiques et aux précipitations. À la mue post-nuptiale, il perd toutes ses rémiges à la fois et demeure terrestre pendant environ un mois.",
+ "habitat": "Lacs et plans d'eau artificiels des parcs, zones ornementales, retenues d'eau peu profonde.",
+ "diet": "Presque exclusivement herbivore : plantes aquatiques submergées et émergentes, algues.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": null,
+  "passage": "Apparitions occasionnelles d'individus échappés de collections ornementales, principalement à l'automne et en hiver."
+ },
+ "seasonality_fr": "Très rare en France. Seulement observé sous forme d'individus échappés ou établis temporairement dans des collections privées ou des parcs. Aucune population sauvage établie.",
+ "song_fr": "Cri sonore et mélodieux ressemblant à un clairon ou trompette, émis sur l'eau ou en vol. Sons de croassement plus doux. Sifflements aigus, particulièrement lors de l'accouplement ou de la défense du nid.",
+ "lookalikes": [
+  {
+   "scientific_name": "Cygnus olor",
+   "common_name_fr": "Cygne tuberculé",
+   "why_fr": "Taille similaire et silhouette comparable, bien que le Cygne tuberculé soit blanc. Cris de défense du nid potentiellement confondus acoustiquement."
+  },
+  {
+   "scientific_name": "Cygnus cygnus",
+   "common_name_fr": "Cygne chanteur",
+   "why_fr": "Appels sonores graves ressemblant à un clairon ou trompette, similaires aux cris du Cygne noir. Même tessiture et portée des vocalisations."
+  },
+  {
+   "scientific_name": "Cygnus columbianus",
+   "common_name_fr": "Cygne siffleur",
+   "why_fr": "Vocalisations musicales et fluides, bien que généralement plus douces et mélodieuses. Confusion possible avec les notes de croassement du Cygne noir."
+  }
+ ],
+ "rarity_note": "Très rare en France (score maximal 0,10 pour la zone). Uniquement présent sous forme d'individus échappés de captivité ou établis dans des collections ornementales privées. Pas d'établissement naturel stable.",
+ "fun_facts": [
+  "Le premier couple de Cygnes noirs introduits en France l'a été par l'impératrice Joséphine de Beauharnais, depuis le port de Nantes.",
+  "Le Cygne noir est l'emblème officiel de l'État de l'Australie-Occidentale, figurant sur son drapeau et ses armoiries depuis 1870.",
+  "En Australie, le Cygne noir est extrêmement nomade et suit les précipitations : lors de sécheresses, il migre vers des zones plus humides, abandonnant parfois même ses œufs."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Cygne_noir",
+  "https://en.wikipedia.org/wiki/Black_swan",
+  "https://www.oiseaux.net"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

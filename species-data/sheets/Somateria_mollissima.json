@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Somateria mollissima",
+ "summary_fr": "Imposant canard marin des mers froides du Nord, l'Eider à duvet est reconnaissable à sa silhouette massive et à son bec cunéiforme prolongeant le front. Le mâle affiche un plumage contrasté : calotte noire, joues blanches, nuque vert olive, dos blanc et poitrine légèrement rosée ; la femelle, brune et barrée de noir, rappelle une grande cane colvert. Excellent plongeur, il descend jusqu'à 25 mètres pour se nourrir de moules, de berniques et d'autres mollusques, avalés entiers puis broyés dans le gésier. Il niche en colonies sur les côtes arctiques et subarctiques, du Groenland à la Sibérie en passant par l'Islande et la Scandinavie, avec en France un unique couple nicheur connu, tout à fait marginal. L'hiver, en revanche, quelques centaines d'individus rejoignent régulièrement le littoral Manche-Atlantique, notamment la Baie des Veys et la côte du Pas-de-Calais, qui marquent la limite sud de son aire d'hivernage ; cette population hivernante décline fortement depuis la fin des années 1990. L'espèce doit aussi sa renommée à son duvet exceptionnellement doux, récolté depuis des siècles après le départ des oisillons pour garnir des édredons de grand luxe, une tradition toujours vivace en Islande et au Québec.",
+ "habitat": "Côtes maritimes rocheuses et sablonneuses, essentiellement en milieu arctique et subarctique ; hiverne aussi en estuaires et baies abritées du littoral Manche-Atlantique français.",
+ "diet": "Mollusques et crustacés (moules, berniques, pétoncles) avalés entiers, les coquilles étant ensuite broyées dans le gésier.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Présent l'hiver en petit nombre sur le littoral Manche-Atlantique (Baie des Veys, Pas-de-Calais), limite sud de son aire ; population en déclin. BirdNET-Go ne le détecte quasiment jamais dans les zones couvertes par le modèle (score maximal 0,047, aucun mois au-dessus du seuil).",
+  "niche": "Niche en colonies sur les côtes arctiques et subarctiques : Groenland, Islande, Scandinavie, Russie jusqu'en Sibérie ; en France, nicheur exceptionnel et irrégulier, un seul couple connu sur le littoral atlantique.",
+  "passage": "Pas de passage migratoire net et distinct : les hivernants arrivent en fin d'automne et repartent en mars-avril, sans pic marqué en dehors de cette période."
+ },
+ "seasonality_fr": "Présent en théorie de novembre à mars sur le littoral Manche-Atlantique, mais en pratique quasi indétectable par BirdNET-Go : le modèle de zone ne franchit le seuil de plausibilité dans aucun mois pour les sites suivis, l'espèce restant largement silencieuse et cantonnée au large.",
+ "song_fr": "Mâle : appel nasal et sonore, un « ah-ooo » presque humain, surtout entendu lors des parades. Femelle : quaquètement rauque proche du Colvert. Espèce généralement silencieuse hors saison de reproduction.",
+ "lookalikes": [
+  {
+   "scientific_name": "Clangula hyemalis",
+   "common_name_fr": "Harelde kakawi",
+   "why_fr": "Autre canard plongeur des mers froides du Nord, aux cris flûtés portant loin ; partage les mêmes habitats côtiers arctiques et hivernaux en France."
+  },
+  {
+   "scientific_name": "Melanitta nigra",
+   "common_name_fr": "Macreuse noire",
+   "why_fr": "Canard marin noir plongeant en groupes sur les côtes françaises en hiver ; silhouette et comportement de plongée proches, confusion possible au sonagramme."
+  },
+  {
+   "scientific_name": "Mergus merganser",
+   "common_name_fr": "Grand Harle",
+   "why_fr": "Grand canard plongeur au cri rauque ; fréquente aussi les eaux côtières froides en hiver, avec un gabarit et des vocalises pouvant prêter à confusion."
+  }
+ ],
+ "rarity_note": "Hivernant réel mais très rare et en déclin sur le littoral Manche-Atlantique (limite sud de l'aire) ; nicheur exceptionnel en France. Score de plausibilité BirdNET-Go très faible (0,047, sous le seuil de 0,05 tous les mois) : détection quasi nulle attendue.",
+ "fun_facts": [
+  "Le duvet de l'Eider, prélevé dans les nids après le départ des poussins, est le plus isolant du monde : une couette de 140x200 cm valait près de 4000 euros en 2011.",
+  "Malgré son gabarit imposant, il peut voler jusqu'à 113 km/h, alternant vol battu et vol plané, une allure peu commune chez les canards.",
+  "La femelle, brune et barrée, ressemble tant à une cane colvert qu'on ne la distingue souvent qu'à sa taille nettement plus grande."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Eider_%C3%A0_duvet",
+  "https://en.wikipedia.org/wiki/Common_eider",
+  "https://www.oiseaux.net/fiches/eider.a.duvet.html",
+  "https://normandie.lpo.fr/oiseaux-de-normandie/inventaire-oiseaux-de-normandie-effectifs-et-populations/eider-duvet/"
+ ],
+ "generated_at": "2026-09-27T22:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

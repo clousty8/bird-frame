@@ -1,0 +1,71 @@
+{
+ "scientific_name": "Lyrurus tetrix",
+ "common_name_fr": "Tétras lyre",
+ "birdnet_label": "Lyrurus tetrix_Tétras lyre",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Galliformes",
+  "family": "Phasianidae",
+  "family_common": "Pheasants, Grouse, and Allies",
+  "genus": "Lyrurus",
+  "species": "Lyrurus tetrix"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Tétras lyre",
+   "url": "https://fr.wikipedia.org/wiki/T%C3%A9tras_lyre",
+   "description": "espèce d'oiseaux galliformes de la famille des phasianidae",
+   "extract": "Le Tétras lyre, est également appelé coq des bouleaux ou petit coq de bruyère. C'est une espèce d'oiseaux sédentaire, symbole des Alpes européennes. Sa distribution est nordique et boréo-montagnarde.",
+   "fulltext_chars": 11794
+  },
+  "en": {
+   "title": "Black grouse",
+   "url": "https://en.wikipedia.org/wiki/Black_grouse",
+   "description": "Species of bird",
+   "extract": "The black grouse, also known as northern black grouse, Eurasian black grouse, blackgame or blackcock, is a large bird in the grouse tribe. It is a sedentary species, spanning across the Palearctic in moorland and steppe habitat when breeding, often near wooded areas. They will spend the winter perched in dense forests, feeding almost exclusively on the needles of conifers. The black grouse is one of two species of grouse in the genus Lyrurus, the other being the lesser-known Caucasian grouse.",
+   "fulltext_chars": 10073
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Birkhahn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3504,
+  "height": 2336,
+  "file": "Birkhahn.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Birkhahn.jpg/1920px-Birkhahn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Vnp at de.wikipedia",
+  "credit": "Verein Naturschutzpark e.V.",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Birkhahn.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0149,
+  "cities": {
+   "Pornic": 0.015,
+   "Rennes": 0.013,
+   "Poitiers": 0.013,
+   "Bordeaux": 0.013,
+   "Brest": 0.015
+  },
+  "monthly_scores": [
+   0.013,
+   0.0134,
+   0.0149,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0109,
+   0.0118
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:19Z"
+}

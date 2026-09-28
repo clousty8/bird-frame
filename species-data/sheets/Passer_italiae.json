@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Passer italiae",
+ "summary_fr": "Le Moineau cisalpin est un oiseau né d'un phénomène rare chez les vertébrés : la spéciation par hybridation. Issu d'un croisement ancien entre le Moineau domestique et le Moineau espagnol, il en garde une allure intermédiaire, avec une calotte et une nuque brun roux vif, des joues blanches et un plumage gris et brun proche de celui de ses deux parents. En France, on le rencontre surtout en Corse, où il occupe villes, villages et campagnes cultivées, ainsi que dans le sud-est du continent, du Var jusqu'aux vallées alpines proches de Briançon. Sociable et grégaire comme la plupart des moineaux, il vit en petites bandes autour des habitations et des exploitations agricoles, se nourrissant de graines et de céréales, complétées d'insectes pendant la reproduction. Longtemps considéré comme une simple forme intermédiaire, il a été reconnu comme une espèce génétiquement distincte grâce à une étude norvégienne de 2011, qui a confirmé son isolement reproductif vis-à-vis de ses deux espèces parentales.",
+ "habitat": "Villes, villages et zones agricoles du sud-est de la France (Var, Alpes jusqu'à Briançon) et surtout de la Corse, où l'espèce est bien implantée.",
+ "diet": "Graines et céréales toute l'année ; insectes capturés en complément pendant la reproduction pour nourrir les jeunes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Présent toute l'année en Corse et dans le sud-est de la France, jusque dans les Alpes (Chamonix, Grenoble).",
+  "niche": "Niche en Corse et dans le sud-est de la France, du Var aux Hautes-Alpes, d'avril à juillet.",
+  "passage": "Dispersion post-nuptiale parfois signalée jusqu'en Camargue, en provenance des populations italiennes voisines."
+ },
+ "seasonality_fr": "Visible et audible toute l'année, avec une présence la plus marquée en Corse et dans le sud-est de la France.",
+ "song_fr": "Chants et cris proches de ceux du Moineau domestique et du Moineau espagnol : pépiements et « tchip » répétés, difficiles à distinguer à l'oreille.",
+ "lookalikes": [
+  {
+   "scientific_name": "Passer domesticus",
+   "common_name_fr": "Moineau domestique",
+   "why_fr": "Espèce parentale : chants, cris et silhouette quasi identiques, confusion fréquente en France continentale."
+  },
+  {
+   "scientific_name": "Passer hispaniolensis",
+   "common_name_fr": "Moineau espagnol",
+   "why_fr": "Autre espèce parentale : cris « tchip » similaires, zone de contact directe dans le sud de l'Italie."
+  },
+  {
+   "scientific_name": "Passer montanus",
+   "common_name_fr": "Moineau friquet",
+   "why_fr": "Cris de contact assez proches, mêmes milieux ruraux et agricoles fréquentés."
+  }
+ ],
+ "rarity_note": "Bien implanté en Corse (forte présence autour d'Ajaccio) et régulier dans le sud-est de la France, jusque dans les Alpes ; plus discret ailleurs sur le continent.",
+ "fun_facts": [
+  "Né d'une hybridation stable entre Moineau domestique et Moineau espagnol, un cas rare de spéciation par croisement confirmé par la génétique en 2011.",
+  "Considéré de façon officieuse comme l'oiseau national de l'Italie, où il reste le passereau urbain le plus répandu.",
+  "Aussi à l'aise en ville, comme le Moineau domestique, qu'en pleine campagne, comme le Moineau espagnol."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Moineau_cisalpin",
+  "https://en.wikipedia.org/wiki/Italian_sparrow",
+  "https://www.oiseaux.net/oiseaux/moineau.cisalpin.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

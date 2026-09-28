@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Phalaropus lobatus",
+ "common_name_fr": "Phalarope à bec étroit",
+ "birdnet_label": "Phalaropus lobatus_Phalarope à bec étroit",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Phalaropus",
+  "species": "Phalaropus lobatus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Phalarope à bec étroit",
+   "url": "https://fr.wikipedia.org/wiki/Phalarope_%C3%A0_bec_%C3%A9troit",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Phalarope à bec étroit aussi nommé Phalarope hyperboré, Phalarope hyperboréen ou Phalarope à bec mince est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 4095
+  },
+  "en": {
+   "title": "Red-necked phalarope",
+   "url": "https://en.wikipedia.org/wiki/Red-necked_phalarope",
+   "description": "Species of bird",
+   "extract": "The red-necked phalarope, also known as the northern phalarope and hyperborean phalarope, is a small wader. This phalarope breeds in the Arctic regions of North America and Eurasia. It is migratory, and, unusually for a wader, winters at sea on tropical oceans.",
+   "fulltext_chars": 6016
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/33/Phalaropus_lobatus02%28js%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2979,
+  "height": 1986,
+  "file": "Phalaropus_lobatus02(js).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Phalaropus_lobatus02%28js%29.jpg/1920px-Phalaropus_lobatus02%28js%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Jerzy Strzelecki",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Phalaropus_lobatus02(js).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0277,
+  "cities": {
+   "Ajaccio": 0.028
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0277,
+   0.016,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0114,
+   0.0105,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:06Z"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Saxicola rubetra",
+ "summary_fr": "Le Tarier des prés est un petit passereau migrateur appartenant à la famille des gobemouches du Paléarctique. Les mâles revêtent un plumage nuptial spectaculaire avec un masque facial noir encadré de blanc et une poitrine orange vif, tandis que les femelles demeurent plus ternes. Cet oiseau typique des prairies naturelles biodiversifiées fréquente les milieux herbacés ouverts avec buissons épars, d'où il capture ses proies. Autrefois courant et très répandu en France, il a subi un déclin vertigineux de 60% depuis 2001, reflétant la régression massive des habitats prairiaux sous l'intensification agricole. Son statut de bioindicateur de la qualité des prairies en fait un excellent témoin de l'état écologique des milieux ouverts. Peu territorial, il ne chante que rarement sur ses territoires africains d'hivernage.",
+ "habitat": "Prairies naturelles et semi-naturelles biodiversifiées, zones alluviales enherbées, pâturages extensifs, talus herbeux, clairières. Préfère les milieux ouverts avec buissons épars, haies basses et végétation herbacée dense.",
+ "diet": "Insectes (papillons, mouches, diptères), coléoptères, carabes, araignées et petits vers. Chasse depuis un perchoir ou en vol stationnaire au-dessus des herbes. Petits fruits (baies) en automne.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique tropicale sub-saharienne (Sénégal à Kenya) en milieux ouverts cultivés ou non, savanes, jachères, champs de manioc et coton. Arrivée septembre-novembre, départ février-mars.",
+  "niche": "Europe et Asie occidentale. En France, reproduction avril à juillet dans les régions herbagères de plaine et basse montagne, jusqu'à 2420 m.",
+  "passage": "Passages migratoires avril-mai au printemps ; août-octobre à l'automne, avec pics en mai et septembre."
+ },
+ "seasonality_fr": "Visible et audible avril à octobre en France métropolitaine. Très rare en hiver (quelques hivernants occasionnels). Plus régulier au printemps (retour avril-mai) qu'à l'automne.",
+ "song_fr": "Cri d'alarme « tec-tec » ou « fiu-tec-tec » moins râpeux que celui du Tarier pâtre. Mâle émet un chant doux et crépitant durant la reproduction (avril-juillet), mélange de sifflements, de claquements et de trilles, souvent imité à partir d'autres espèces.",
+ "lookalikes": [
+  {
+   "scientific_name": "Saxicola rubicola",
+   "common_name_fr": "Tarier pâtre",
+   "why_fr": "Très similaires en apparence et acoustiquement ; cris « tec-tec » comparables mais plus rauques chez le Tarier pâtre."
+  },
+  {
+   "scientific_name": "Prunella modularis",
+   "common_name_fr": "Accenteur mouchet",
+   "why_fr": "Habitat et posture similaires ; chant grinçant de même tessiture pouvant prêter à confusion en détection acoustique."
+  },
+  {
+   "scientific_name": "Phoenicurus ochruros",
+   "common_name_fr": "Rougequeue noir",
+   "why_fr": "Silhouette et mouvements de queue assez proches ; cris d'alarme « tic » secs semblables."
+  }
+ ],
+ "rarity_note": "Migrateur régulier en France, observable chaque année au printemps et automne. Rareté variable selon les régions et les années, mais jamais exceptionnel. Présent surtout dans les milieux herbagers de la moitié nord et du centre.",
+ "fun_facts": [
+  "Bioindicateur reconnue de la qualité écologique des prairies naturelles et semi-naturelles, notamment de leur diversité floristique et entomologique.",
+  "Grand migrateur nocturne parcourant plusieurs milliers de kilomètres entre l'Europe et l'Afrique tropicale, avec arrêts importants sur les sites de relais.",
+  "Son déclin de 60% en France depuis 2001 est directement lié aux fauches précoces (mai-juin) qui détruisent les premières nichées, peu compatibles avec l'agriculture intensive."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Tarier_des_pr%C3%A9s",
+  "https://en.wikipedia.org/wiki/Whinchat",
+  "https://www.oiseaux.net/oiseaux/tarier.des.pres.html",
+  "https://inpn.mnhn.fr/espece/Saxicola/rubetra",
+  "https://www.lpo.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

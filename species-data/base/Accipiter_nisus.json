@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Accipiter nisus",
+ "common_name_fr": "Épervier d'Europe",
+ "birdnet_label": "Accipiter nisus_Épervier d'Europe",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Accipiter",
+  "species": "Accipiter nisus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Épervier d'Europe",
+   "url": "https://fr.wikipedia.org/wiki/%C3%89pervier_d'Europe",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Épervier d'Europe est une espèce de petits oiseaux de proie de la famille des Accipitridae.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Eurasian sparrowhawk",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_sparrowhawk",
+   "description": "Species of bird",
+   "extract": "The Eurasian sparrowhawk, also known as the northern sparrowhawk or simply the sparrowhawk, is a small bird of prey in the family Accipitridae. Adult male Eurasian sparrowhawks have bluish grey upperparts and orange-barred underparts; females and juveniles are brown above with brown barring below. The female is up to 25% larger than the male – one of the greatest size differences between the sexes in any bird species. Though it is a predator which specialises in catching woodland birds, the Eurasian sparrowhawk can be found in any habitat and often hunts garden birds in towns and cities. Males tend to take smaller birds, including tits, finches and sparrows; females catch primarily thrushes and starlings but are capable of killing birds weighing 500 g (18 oz) or more.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/4d/%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%28Accipiter_nisus%2C_m%29%2C_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2872,
+  "height": 4271,
+  "file": "Ястреб-перепелятник_(Accipiter_nisus,_m),_Измайловский_парк.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%28Accipiter_nisus%2C_m%29%2C_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.jpg/1920px-%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%28Accipiter_nisus%2C_m%29%2C_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Dion Art",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_(Accipiter_nisus,_m),_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3256,
+  "cities": {
+   "Le Mans": 0.224,
+   "Pornic": 0.212,
+   "Rennes": 0.219,
+   "Poitiers": 0.222,
+   "Paris": 0.24,
+   "Lille": 0.287,
+   "Strasbourg": 0.201,
+   "Lyon": 0.241,
+   "Grenoble": 0.249,
+   "Marseille": 0.265,
+   "Toulouse": 0.277,
+   "Bordeaux": 0.247,
+   "Brest": 0.201,
+   "Ajaccio": 0.326,
+   "Clermont-Ferrand": 0.235,
+   "Chamonix": 0.231,
+   "Perpignan": 0.26,
+   "Nancy": 0.212
+  },
+  "monthly_scores": [
+   0.3217,
+   0.3076,
+   0.2328,
+   0.1756,
+   0.0985,
+   0.0878,
+   0.1164,
+   0.1932,
+   0.2867,
+   0.2801,
+   0.3045,
+   0.3256
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:36Z"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "scientificName": "Erithacus rubecula",
+    "commonName": "Rougegorge familier",
+    "label": "Erithacus rubecula_Rougegorge familier",
+    "maxScore": 0.9939,
+    "cities": {"Pornic": 0.992, "Le Mans": 0.99},
+    "months": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+  },
+  {
+    "scientificName": "Turdus merula",
+    "commonName": "Merle noir",
+    "label": "Turdus merula_Merle noir",
+    "maxScore": 0.9995,
+    "cities": {"Pornic": 0.994, "Le Mans": 0.997},
+    "months": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+  },
+  {
+    "scientificName": "Parus major",
+    "commonName": "Mésange charbonnière",
+    "label": "Parus major_Mésange charbonnière",
+    "maxScore": 0.05,
+    "cities": {"Pornic": 0.03, "Le Mans": 0.02},
+    "months": [4, 5, 6]
+  }
+]

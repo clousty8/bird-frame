@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Phylloscopus bonelli",
+ "common_name_fr": "Pouillot de Bonelli",
+ "birdnet_label": "Phylloscopus bonelli_Pouillot de Bonelli",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Phylloscopidae",
+  "family_common": "Leaf Warblers",
+  "genus": "Phylloscopus",
+  "species": "Phylloscopus bonelli"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pouillot de Bonelli",
+   "url": "https://fr.wikipedia.org/wiki/Pouillot_de_Bonelli",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pouillot de Bonelli est une espèce de passereaux appartenant à la famille des Phylloscopidae.",
+   "fulltext_chars": 5411
+  },
+  "en": {
+   "title": "Western Bonelli's warbler",
+   "url": "https://en.wikipedia.org/wiki/Western_Bonelli's_warbler",
+   "description": "Species of bird",
+   "extract": "The western Bonelli's warbler is a warbler in the leaf warbler genus Phylloscopus. It was formerly regarded as the western subspecies of a wider \"Bonelli's warbler\" species, but as a result of modern taxonomic developments, they are now usually considered to be two species:Western Bonelli's warbler, Phylloscopus bonelli, which breeds in southwest Europe and north Africa\nEastern Bonelli's warbler, Phylloscopus orientalis, which breeds in southeast Europe and Asia Minor",
+   "fulltext_chars": 2307
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/70/Phylloscopus_bonelli_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3922,
+  "height": 2615,
+  "file": "Phylloscopus_bonelli_2.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Phylloscopus_bonelli_2.jpg/1920px-Phylloscopus_bonelli_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Kookaburra 81",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Phylloscopus_bonelli_2.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3222,
+  "cities": {
+   "Le Mans": 0.026,
+   "Pornic": 0.025,
+   "Rennes": 0.012,
+   "Poitiers": 0.075,
+   "Paris": 0.022,
+   "Strasbourg": 0.049,
+   "Lyon": 0.205,
+   "Grenoble": 0.218,
+   "Marseille": 0.233,
+   "Toulouse": 0.322,
+   "Bordeaux": 0.191,
+   "Ajaccio": 0.209,
+   "Clermont-Ferrand": 0.201,
+   "Chamonix": 0.156,
+   "Perpignan": 0.285,
+   "Nancy": 0.037
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0842,
+   0.2609,
+   0.3222,
+   0.2802,
+   0.2016,
+   0.1436,
+   0.1042,
+   0.033,
+   0.0,
+   0.0
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:36Z"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Dendrocopos major",
+ "common_name_fr": "Pic épeiche",
+ "birdnet_label": "Dendrocopos major_Pic épeiche",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Piciformes",
+  "family": "Picidae",
+  "family_common": "Woodpeckers",
+  "genus": "Dendrocopos",
+  "species": "Dendrocopos major"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pic épeiche",
+   "url": "https://fr.wikipedia.org/wiki/Pic_%C3%A9peiche",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pic épeiche est l'espèce de pics la plus répandue et la plus commune en Europe et dans le Nord de l'Asie. Faisant partie des pics de taille moyenne, il se caractérise par un plumage rayé de blanc et de noir et une tache rouge écarlate sur le bas-ventre près de la queue.",
+   "fulltext_chars": 13393
+  },
+  "en": {
+   "title": "Great spotted woodpecker",
+   "url": "https://en.wikipedia.org/wiki/Great_spotted_woodpecker",
+   "description": "Species of bird",
+   "extract": "The great spotted woodpecker is a medium-sized woodpecker with pied black and white plumage and a red patch on the lower belly. Males and young birds also have red markings on the neck or head. This species is found across the Palearctic including parts of North Africa. Across most of its range it is resident, but in the north some will migrate if the conifer cone crop fails. Some individuals have a tendency to wander, leading to the recolonisation of Ireland in the first decade of the 21st century and to vagrancy to North America. Great spotted woodpeckers chisel into trees to find food or excavate nest holes, and also drum for contact and territorial advertisement; like other woodpeckers, they have anatomical adaptations to manage the physical stresses from the hammering action.",
+   "fulltext_chars": 17640
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Pic_%C3%A9peiche_cap_n%C3%A9gro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1975,
+  "height": 1481,
+  "file": "Pic_épeiche_cap_négro.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Pic_%C3%A9peiche_cap_n%C3%A9gro.jpg/1920px-Pic_%C3%A9peiche_cap_n%C3%A9gro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "AbdAllah Elgolli",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Pic_%C3%A9peiche_cap_n%C3%A9gro.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.7454,
+  "cities": {
+   "Le Mans": 0.42,
+   "Pornic": 0.312,
+   "Rennes": 0.332,
+   "Poitiers": 0.4,
+   "Paris": 0.532,
+   "Lille": 0.549,
+   "Strasbourg": 0.745,
+   "Lyon": 0.506,
+   "Grenoble": 0.457,
+   "Marseille": 0.317,
+   "Toulouse": 0.348,
+   "Bordeaux": 0.359,
+   "Brest": 0.24,
+   "Ajaccio": 0.365,
+   "Clermont-Ferrand": 0.481,
+   "Chamonix": 0.562,
+   "Perpignan": 0.311,
+   "Nancy": 0.689
+  },
+  "monthly_scores": [
+   0.7346,
+   0.7136,
+   0.7014,
+   0.697,
+   0.6834,
+   0.7005,
+   0.7265,
+   0.7393,
+   0.7149,
+   0.7053,
+   0.739,
+   0.7454
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:42Z"
+}

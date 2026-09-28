@@ -1,0 +1,33 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Regulus regulus",
+ "summary_fr": "Le Roitelet huppé est l'un des plus petits oiseaux d'Europe, pesant à peine 5 grammes. Son minuscule silhouette aux teintes vert-olive, sa crête jaune et orange caractéristique et son incessante agitation le rendent immédiatement reconnaissable. Passereau forestier par excellence, il préfère les conifères où il glane inlassablement insectes et araignées sur les ramilles les plus fines. Oiseau en perpétuel mouvement, il se joint souvent aux mésanges en hiver pour des recherches alimentaires communes. Principalement migrateur partiel dans le nord de son aire eurasienne immense, le Roitelet huppé peuple les forêts de résineux d'Europe du nord au Japon. En France, il demeure un hivernant régulier et nicheur très localisé, surtout dans les régions montagneuses ou comportant de vastes plantations de conifères.",
+ "habitat": "Forêts de conifères et plantations d'épicéas, landes à genévriers, jardins et parcs avec résineux.",
+ "diet": "Insectes, araignées et petits arthropodes à cuticule molle, occasionnellement petites graines et pollen.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Hivernage régulier en France, notamment dans le quart nord-est et les zones de conifères. Les populations du nord et de l'est abandonnent leurs territoires en automne pour des régions plus méridionales.",
+  "niche": "Niche en France dans les forêts de résineux des régions nord-est et montagneuses, principalement d'avril à juin, souvent deux nichées.",
+  "passage": "Passages visibles en mars (printanier) et d'octobre à novembre (automnal), particulièrement importants aux points d'eau et zones forestières."
+ },
+ "seasonality_fr": "Présent toute l'année en France, plus visible et vocal en hiver quand il s'associe aux mésanges en quête de nourriture dans les pinèdes et les épicéas.",
+ "song_fr": "Cri de contact très aigu, un « tzi » ou « zit » fin et cristallin, répété régulièrement. Chant du mâle très aigu et accéléré, suite de notes doubles imitant parfois « cèdre » répétées, moins musical que celui du Roitelet triple-bandeau.",
+ "lookalikes": [
+  {"scientific_name": "Regulus ignicapillus", "common_name_fr": "Roitelet triple-bandeau", "why_fr": "Taille identique et structure de chant très proche. Distingué par sa raie blanche au-dessus de l'œil et ses couleurs plus vives ; chant plus harmonieux et mélopée différente."}
+ ],
+ "rarity_note": "Localisé mais régulier en France. Hivernant constant en forêts de résineux du nord-est. Nicheur rare et irruptif selon les années et conditions climatiques.",
+ "fun_facts": [
+  "Le plus petit oiseau d'Europe, le Roitelet huppé pèse entre 4 et 7 grammes, soit environ le poids d'une demi-cuillère à café.",
+  "Son nom scientifique Regulus regulus signifie littéralement « petit roi », issu du latin regulus qui est un diminutif de rex (roi).",
+  "En hiver, le Roitelet huppé conserve une température corporelle constante en tremblant et en se blottissant étroitement contre d'autres individus, pouvant perdre plus de 20% de son poids dans les périodes froides."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Roitelet_hupp%C3%A9",
+  "https://en.wikipedia.org/wiki/Goldcrest",
+  "https://www.oiseaux.net/oiseaux/roitelet.huppe.html",
+  "https://inpn.mnhn.fr/docs/download/cahiers/cahiers_du_patrimoine_naturel_cahier_41_2012.pdf"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

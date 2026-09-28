@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Oxyura jamaicensis",
+ "summary_fr": "Petit canard plongeur aux allures trapues, l'Érismature rousse doit son nom à la livrée rouille du mâle en plumage nuptial. Originaire d'Amérique du Nord, cette espèce aquatique s'est échappée d'élevage et s'est implantée en Europe, où elle pose un problème de conservation : elle s'hybride avec l'Érismature à tête blanche, une espèce en danger d'extinction. Plutôt que de fuir en volant, elle préfère disparaître sous l'eau ou se laisser porter par son envol laborieux. Ses petites ailes battent si vite qu'elles produisent un bourdonnement audible. En France, elle a été activement éradiquée au début des années 2000 et demeure extrêmement rare, observée surtout en hiver sur la côte atlantique et dans le sud. Le mâle effectue une parade caractéristique : il bombe sa poitrine avant de se la frapper avec sa queue relevée à quatre-vingt-dix degrés, créant un spectacle des plus étonnants.",
+ "habitat": "Plans d'eau douce, lacs, étangs et réservoirs. Préfère les zones avec végétation aquatique dense. En migration ou en hivernage, peut occasionnellement fréquenter les estuaires.",
+ "diet": "Aliments aquatiques : graines de plantes aquatiques, insectes aquatiques, larves et petits invertébrés trouvés au fond. Plonge profondément pour s'alimenter.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Extrêmement rare en France ; éventuellement janvier à février sur les côtes atlantiques (Brest, Vendée) et méditerranéennes, bien que les hivernants actuels sont très peu nombreux.",
+  "niche": "Ne niche pas en France ; les rares observations concernent des visiteurs égarés ou hivernants.",
+  "passage": "Décembre à février, exceptionnellement ; passages très irréguliers et en nombre infime."
+ },
+ "seasonality_fr": "Espèce essentiellement hivernale en France, observée très sporadiquement d'octobre à mars. Les mois de janvier et février offrent statistiquement les meilleures chances de rencontre sur le littoral ouest.",
+ "song_fr": "Peu vocale, surtout en automne. Mâle : claquements secs produits par la queue lors de la parade nuptiale, plus caractéristiques que les cris vocaux. Appels bas et rauques lors de l'interaction.",
+ "lookalikes": [
+  {
+   "scientific_name": "Oxyura leucocephala",
+   "common_name_fr": "Érismature à tête blanche",
+   "why_fr": "Canard plongeur de morphologie très proche, mêmes mœurs lacustres. Diffère par le motif de tête (blanc chez leucocephala). Confusion acoustique possible."
+  },
+  {
+   "scientific_name": "Aythya marila",
+   "common_name_fr": "Fuligule milouinan",
+   "why_fr": "Canard plongeur nord-européen à silhouette trapue et cris rauques comparables ; fréquente les mêmes plans d'eau que l'Érismature rousse, source de confusion pour un modèle acoustique."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France, bien que présente théoriquement dans le filtre de zone BirdNET. Espèce invasive actuellement éradiquée ; toute observation hivernale soupçonnée reste remarquable.",
+ "fun_facts": [
+  "Le mâle effectue une parade nuptiale spectaculaire : il relève sa courte queue à 90 degrés et se frappe la poitrine, générant des claquements sonores.",
+  "Elle s'hybride avec l'Érismature à tête blanche en danger d'extinction, ce qui a motivé des programmes d'éradication dans plusieurs pays européens.",
+  "Contrairement à la plupart des canards, elle préfère s'échapper au danger en plongeant plutôt qu'en prenant son envol laborieux."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/%C3%89rismature_rousse",
+  "https://en.wikipedia.org/wiki/Ruddy_duck",
+  "https://www.oiseaux.net/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

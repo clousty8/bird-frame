@@ -1,0 +1,92 @@
+{
+ "scientific_name": "Luscinia megarhynchos",
+ "common_name_fr": "Rossignol philomèle",
+ "birdnet_label": "Luscinia megarhynchos_Rossignol philomèle",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Muscicapidae",
+  "family_common": "Old World Flycatchers",
+  "genus": "Luscinia",
+  "species": "Luscinia megarhynchos"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Rossignol philomèle",
+   "url": "https://fr.wikipedia.org/wiki/Rossignol_philom%C3%A8le",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Rossignol philomèle est une espèce d’oiseaux de la famille des Muscicapidae.",
+   "fulltext_chars": 12009
+  },
+  "en": {
+   "title": "Common nightingale",
+   "url": "https://en.wikipedia.org/wiki/Common_nightingale",
+   "description": "Species of bird",
+   "extract": "The common nightingale, rufous nightingale or simply nightingale, is a small passerine bird which is known for its powerful and beautiful song, often described as one of the most beautiful sounds in nature. An Old World flycatcher, it belongs to a group of more terrestrial species, often called chats. Its range partly overlaps with that of the more northerly thrush nightingale, a closely related species with which hybrids have occurred.",
+   "fulltext_chars": 14228
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Luscinia_megarhynchos_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2047,
+  "height": 3071,
+  "file": "Luscinia_megarhynchos_-_01.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Luscinia_megarhynchos_-_01.jpg/1920px-Luscinia_megarhynchos_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Carlos Delgado",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Luscinia_megarhynchos_-_01.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.7139,
+  "cities": {
+   "Le Mans": 0.342,
+   "Pornic": 0.242,
+   "Rennes": 0.197,
+   "Poitiers": 0.402,
+   "Paris": 0.374,
+   "Lille": 0.225,
+   "Strasbourg": 0.476,
+   "Lyon": 0.533,
+   "Grenoble": 0.621,
+   "Marseille": 0.687,
+   "Toulouse": 0.67,
+   "Bordeaux": 0.484,
+   "Brest": 0.057,
+   "Ajaccio": 0.633,
+   "Clermont-Ferrand": 0.515,
+   "Chamonix": 0.52,
+   "Perpignan": 0.714,
+   "Nancy": 0.448
+  },
+  "monthly_scores": [
+   0.0113,
+   0.0169,
+   0.131,
+   0.6063,
+   0.7139,
+   0.5395,
+   0.2349,
+   0.1673,
+   0.0939,
+   0.0469,
+   0.0141,
+   0.0126
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:43Z"
+}

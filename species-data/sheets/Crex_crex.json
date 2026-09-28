@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Crex crex",
+ "summary_fr": "Le Râle des genêts, surnommé « Roi des cailles », est un petit oiseau migrateur au cri très reconnaissable. Bien qu'autrefois répandu, il a dramatiquement décliné en Europe occidentale en raison de la fauche précoce des prairies. Prédateur d'insectes et de vers, il niche au sol dans les prés humides où il mène une vie discrète et nocturne. Son chant caractéristique, ressemblant à un « crex crex » répété inlassablement, retentit surtout la nuit pour défendre son territoire. Mâles et femelles chantent, ce qui est rare chez les passereaux. Du printemps à l'automne en Europe, l'espèce hiverne en Afrique subsaharienne, accomplissant un voyage épuisant de plusieurs milliers de kilomètres deux fois par an. Silhouette compacte, plumage brun strié et petite taille le distinguent du Râle d'eau, plus robuste.",
+ "habitat": "Prairies humides de fauche traditionnelles, alpages et prairies d'altitude, tourbières, clairières herbacées. Évite les zones très marécageuses, les roseaux denses et tout habitat impénétrable.",
+ "diet": "Invertébrés principalement : coléoptères, mouches, orthoptères, fourmis, libellules, vers de terre, escargots. Complément occasionnel de végétaux et graines, surtout en période de reproduction.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique centrale et australe, du sud du Congo et de la Tanzanie jusqu'en Afrique du Sud.",
+  "niche": "Europe du Nord et centrale jusqu'à l'Asie de l'Ouest, essentiellement entre 41° et 62° N. Niche à même le sol dans les prairies de mai à juillet.",
+  "passage": "Arrive tardivement en mai, premiers mâles mi-mai après croissance des herbages. Départ débute mi-août, pic migratoire mi-septembre, fin octobre. Passages nord-africains en mars et septembre-octobre."
+ },
+ "seasonality_fr": "Présent en France d'avril à octobre, principalement mai à septembre. Visible toute l'année seulement en hivernage accidentel dans le sud. Nocturne mais audible surtout de nuit, parfois dès la fin d'après-midi.",
+ "song_fr": "Cri très caractéristique et inconfondible : un double crépitement régulier « crex crex » imitant une crécelle ou un ongle sur un peigne. Répété longtemps et intensément, surtout après minuit. Faibles gloussements aussi chez les deux sexes.",
+ "lookalikes": [
+  {
+   "scientific_name": "Porzana parva",
+   "common_name_fr": "Marouette poussin",
+   "why_fr": "Cris secs et répétitifs similaires ; taille comparable et habitat partagé."
+  },
+  {
+   "scientific_name": "Porzana porzana",
+   "common_name_fr": "Marouette de genêts",
+   "why_fr": "Habitat de prairie mouillée, cri très proche ; plus petit et queue courte."
+  },
+  {
+   "scientific_name": "Rallus aquaticus",
+   "common_name_fr": "Râle d'eau",
+   "why_fr": "Cris rauques ; plus robuste et préfère les roselières."
+  }
+ ],
+ "rarity_note": "Très rare en France, en déclin critique depuis des décennies. En 2020, moins de 230 couples estimés. Pratiquement disparu de Bretagne en 2026. Signalements principalement en avril en Corse.",
+ "fun_facts": [
+  "Son cri « crex crex » a donné son nom scientifique à l'espèce. Un mâle peut répéter ce cri plus de 20 000 fois par nuit au pic du territoire.",
+  "Migrateur remarquable : traverse deux fois par an le Sahara et les océans, parcourant 10 000 km annuels, avec une masse de seulement 150 grammes.",
+  "La femelle s'expose à la mort en restant sur ses œufs pendant la fauche. Des femelles sont régulièrement écrasées par les moissonneuses avant l'envol de leurs jeunes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Râle_des_genêts",
+  "https://en.wikipedia.org/wiki/Corn_crake",
+  "https://www.oiseaux.net/crex.html",
+  "https://www.lpo.fr/la-lpo/qui-sommes-nous"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

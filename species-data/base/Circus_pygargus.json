@@ -1,0 +1,89 @@
+{
+ "scientific_name": "Circus pygargus",
+ "common_name_fr": "Busard cendré",
+ "birdnet_label": "Circus pygargus_Busard cendré",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Circus",
+  "species": "Circus pygargus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Busard cendré",
+   "url": "https://fr.wikipedia.org/wiki/Busard_cendr%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Busard cendré est une espèce de rapaces diurnes migrateurs de la famille des Accipitridés. Il est parfois aussi appelé « busard de Montagu ».",
+   "fulltext_chars": 5541
+  },
+  "en": {
+   "title": "Montagu's harrier",
+   "url": "https://en.wikipedia.org/wiki/Montagu's_harrier",
+   "description": "Species of bird",
+   "extract": "Montagu's harrier is a species of harrier, a bird of prey in the family Accipitridae. It breeds in large open areas in the Palearctic and is migratory, wintering in Africa, the Indian subcontinent and parts of the Arabian Peninsula. Its common name commemorates the British naturalist George Montagu.",
+   "fulltext_chars": 14558
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flickr_-_don_macauley_-_Bird_015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1996,
+  "height": 1513,
+  "file": "Flickr_-_don_macauley_-_Bird_015.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Flickr_-_don_macauley_-_Bird_015.jpg/1920px-Flickr_-_don_macauley_-_Bird_015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Donald Macauley",
+  "credit": "Flickr: IMG_9250",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_don_macauley_-_Bird_015.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1428,
+  "cities": {
+   "Le Mans": 0.023,
+   "Pornic": 0.038,
+   "Rennes": 0.028,
+   "Poitiers": 0.03,
+   "Paris": 0.014,
+   "Lyon": 0.017,
+   "Grenoble": 0.018,
+   "Marseille": 0.042,
+   "Toulouse": 0.044,
+   "Bordeaux": 0.049,
+   "Brest": 0.033,
+   "Ajaccio": 0.143,
+   "Clermont-Ferrand": 0.023,
+   "Chamonix": 0.012,
+   "Perpignan": 0.046
+  },
+  "monthly_scores": [
+   0.0,
+   0.0154,
+   0.0825,
+   0.1428,
+   0.1174,
+   0.0981,
+   0.0867,
+   0.0995,
+   0.0966,
+   0.0433,
+   0.0129,
+   0.0108
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:02Z"
+}

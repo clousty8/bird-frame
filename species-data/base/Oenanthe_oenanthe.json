@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Oenanthe oenanthe",
+ "common_name_fr": "Traquet motteux",
+ "birdnet_label": "Oenanthe oenanthe_Traquet motteux",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Muscicapidae",
+  "family_common": "Old World Flycatchers",
+  "genus": "Oenanthe",
+  "species": "Oenanthe oenanthe"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Traquet motteux",
+   "url": "https://fr.wikipedia.org/wiki/Traquet_motteux",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Traquet motteux est une espèce de passereaux à bec fin insectivores migrateurs de la famille des Muscicapidae. C'est l'espèce de traquets la plus répandue.",
+   "fulltext_chars": 9012
+  },
+  "en": {
+   "title": "Northern wheatear",
+   "url": "https://en.wikipedia.org/wiki/Northern_wheatear",
+   "description": "Species of bird",
+   "extract": "The northern wheatear or wheatear is a small passerine bird in the Old World flycatcher family. It is the most widespread member of the wheatear genus Oenanthe in Europe and North and Central Asia. The northern wheatear is a migratory insectivorous species breeding in open stony country in Europe and east across the Palearctic with footholds in northeastern Canada and Greenland as well as in northwestern Canada and Alaska. It nests in rock crevices and rabbit burrows. All birds spend most of their winter in Africa.",
+   "fulltext_chars": 7331
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Oenanthe_oenanthe_01_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 560,
+  "height": 440,
+  "file": "Oenanthe_oenanthe_01_II.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Oenanthe_oenanthe_01_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 1.0",
+  "license_url": "https://creativecommons.org/licenses/by/1.0",
+  "author": "Philippe Kurlapski",
+  "credit": "Image:Oenanthe oenanthe 01.jpg",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Oenanthe_oenanthe_01_II.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3103,
+  "cities": {
+   "Le Mans": 0.185,
+   "Pornic": 0.269,
+   "Rennes": 0.241,
+   "Poitiers": 0.214,
+   "Paris": 0.137,
+   "Lille": 0.124,
+   "Strasbourg": 0.064,
+   "Lyon": 0.168,
+   "Grenoble": 0.194,
+   "Marseille": 0.265,
+   "Toulouse": 0.3,
+   "Bordeaux": 0.259,
+   "Brest": 0.281,
+   "Ajaccio": 0.31,
+   "Clermont-Ferrand": 0.175,
+   "Chamonix": 0.152,
+   "Perpignan": 0.308,
+   "Nancy": 0.079
+  },
+  "monthly_scores": [
+   0.0259,
+   0.0417,
+   0.1868,
+   0.3044,
+   0.216,
+   0.1664,
+   0.1732,
+   0.2678,
+   0.3103,
+   0.1514,
+   0.0392,
+   0.0319
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:38Z"
+}

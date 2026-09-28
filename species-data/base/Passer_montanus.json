@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Passer montanus",
+ "common_name_fr": "Moineau friquet",
+ "birdnet_label": "Passer montanus_Moineau friquet",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Passeridae",
+  "family_common": "Old World Sparrows",
+  "genus": "Passer",
+  "species": "Passer montanus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Moineau friquet",
+   "url": "https://fr.wikipedia.org/wiki/Moineau_friquet",
+   "description": "espèces d'oiseaux passériformes de la famille des passeridae",
+   "extract": "Le Moineau friquet est l'une des espèces de Moineaux largement répandues en Europe et en Asie. Il a été introduit en Australie et dans les années 1870 aux États-Unis.",
+   "fulltext_chars": 8641
+  },
+  "en": {
+   "title": "Eurasian tree sparrow",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_tree_sparrow",
+   "description": "Species of bird",
+   "extract": "The tree sparrow is a passerine bird in the sparrow family with a rich chestnut crown and nape and a black patch on each pure white cheek. The sexes have similar plumage, and young birds are duller versions of the adult. This sparrow breeds across much of temperate Eurasia and Southeast Asia and has been introduced elsewhere, including the United States, where it is known as the Eurasian tree sparrow or German sparrow to differentiate it from the native American tree sparrow. Although several subspecies are recognised, the appearance of this bird varies little across its extensive range.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tree-Sparrow-2009-16-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2557,
+  "height": 2000,
+  "file": "Tree-Sparrow-2009-16-02.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Tree-Sparrow-2009-16-02.jpg/1920px-Tree-Sparrow-2009-16-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Tree-Sparrow-2009-16-02.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3803,
+  "cities": {
+   "Le Mans": 0.038,
+   "Pornic": 0.025,
+   "Rennes": 0.029,
+   "Poitiers": 0.041,
+   "Paris": 0.055,
+   "Lille": 0.099,
+   "Strasbourg": 0.22,
+   "Lyon": 0.089,
+   "Grenoble": 0.118,
+   "Marseille": 0.173,
+   "Toulouse": 0.14,
+   "Bordeaux": 0.076,
+   "Brest": 0.022,
+   "Ajaccio": 0.38,
+   "Clermont-Ferrand": 0.071,
+   "Chamonix": 0.127,
+   "Perpignan": 0.192,
+   "Nancy": 0.148
+  },
+  "monthly_scores": [
+   0.3755,
+   0.3342,
+   0.2759,
+   0.2267,
+   0.1927,
+   0.2074,
+   0.2202,
+   0.1753,
+   0.1594,
+   0.2427,
+   0.3658,
+   0.3803
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:17Z"
+}

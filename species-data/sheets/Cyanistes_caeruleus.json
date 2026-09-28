@@ -1,0 +1,53 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Cyanistes caeruleus",
+ "summary_fr": "La Mésange bleue est une habituée facilement reconnaissable des jardins français, avec sa calotte bleu cobalt, ses joues blanches cerclées d'un bandeau noir et son ventre jaune vif contrastant avec un dos vert tendre. Mesurant à peine dix à douze centimètres pour environ onze grammes, elle compte parmi les plus petits passereaux d'Europe, mais son tempérament vif et son agilité acrobatique compensent largement sa taille modeste : elle se suspend tête en bas aux extrémités des branches pour traquer chenilles, araignées et petits insectes cachés sous les feuilles. Au printemps et en été, son régime devient presque exclusivement insectivore pour nourrir les nichées, tandis que l'hiver la ramène vers les graines, les bourgeons et les boules de graisse des mangeoires, où s'établit une hiérarchie sociale bien marquée. Cavernicole, elle niche volontiers dans un trou d'arbre, une fissure de mur ou un nichoir, et tapisse son nid d'herbes aromatiques aux vertus antiseptiques. Sédentaire sur la quasi-totalité du territoire français, elle reste visible toute l'année, jusque dans les centres urbains, où sa curiosité et sa familiarité envers l'homme en ont fait l'un des oiseaux de jardin les plus appréciés d'Europe.",
+ "habitat": "Forêts de feuillus, bosquets, bocages, parcs, jardins urbains et ruraux, vergers. Préfère les milieux arborés variés avec chênes et feuillus mixtes ; peu présente en conifères purs.",
+ "diet": "Insectes et araignées lors de la reproduction. Graines (aulne, bouleau) en hiver, complétées de baies, bourgeons et suif. Chasse de façon acrobatique sous les feuilles et les rameaux.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Partout en France ; les individus des zones montagneuses ou d'Europe centrale peuvent se montrer plus erratiques.",
+  "niche": "Partout en France, d'avril à juin, dans les cavités d'arbres, trous de murs ou nichoirs artificiels.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente et visible toute l'année en France. Espèce essentiellement sédentaire, un peu plus nomade en hiver selon les ressources alimentaires disponibles.",
+ "song_fr": "Chant plus aéré que celui de la Mésange charbonnière : « tsi-tsi-tsih » suivi d'un trille doux et métallique. Cri d'alarme strident « tserrretetetet ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Parus major",
+   "common_name_fr": "Mésange charbonnière",
+   "why_fr": "Répertoire vocal proche mais plus puissant ; s'en distingue par sa taille plus grande et sa cravate noire ventrale."
+  },
+  {
+   "scientific_name": "Poecile palustris",
+   "common_name_fr": "Mésange nonnette",
+   "why_fr": "Cris nasillards pouvant se confondre à l'oreille ; plumage terne sans bleu ni jaune, calotte noire mate."
+  },
+  {
+   "scientific_name": "Lophophanes cristatus",
+   "common_name_fr": "Mésange huppée",
+   "why_fr": "Cris aigus dans le même registre ; se reconnaît à sa huppe pointue et son plumage brun-gris, liée aux conifères."
+  },
+  {
+   "scientific_name": "Periparus ater",
+   "common_name_fr": "Mésange noire",
+   "why_fr": "Chant sec dans une tessiture voisine ; plus petite, gris-noir avec deux taches blanches distinctives sur la nuque."
+  }
+ ],
+ "rarity_note": "Espèce commune et régulière dans toutes les régions de France, présente toute l'année avec des scores de détection uniformément élevés, y compris hors des grandes zones urbaines.",
+ "fun_facts": [
+  "Dans les années 1920, des Mésanges bleues ont appris collectivement à percer les capsules des bouteilles de lait anglaises pour atteindre la crème.",
+  "La femelle tapisse son nid d'herbes odorantes comme la lavande ou la menthe, aux propriétés antiseptiques qui protègent les œufs des parasites.",
+  "Elle voit les ultraviolets, ce qui lui permet de distinguer les mâles les plus colorés des femelles, un critère clé du choix du partenaire."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/M%C3%A9sange_bleue",
+  "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
+  "https://www.oiseaux.net/fiches/mesange.bleue.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/2497",
+  "https://www.lpo.fr/la-lpo/nos-guides/le-guide-des-oiseaux"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

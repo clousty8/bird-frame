@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Riparia riparia",
+ "summary_fr": "L'Hirondelle de rivage est la seule hirondelle d'Europe au dos entièrement brun, reconnaissable à sa petite taille, sa queue courte et la fine bande pectorale brun cendré qui barre sa gorge blanche. Chaque printemps, dès la fin mars, elle est la première hirondelle à réapparaître en France, précédant de peu l'Hirondelle rustique. Plutôt que de nicher sous les toits comme ses cousines, elle creuse elle-même, dans les berges sablonneuses, les falaises meubles ou les carrières, un terrier en forme de galerie pouvant atteindre un mètre de long, débouchant sur une chambre où loge le nid. Ces colonies, parfois composées de plusieurs centaines de couples, résonnent d'un gazouillis graveleux continu, entrecoupé d'un cri d'alarme sec quand un rapace approche. Toute la journée, elle chasse en vol rapide et saccadé, au ras de l'eau, happant moucherons et petites mouches dont les larves se développent dans les rivières et les étangs. En France, elle ne niche que très localement, surtout dans le nord-est, avant de repartir dès août-septembre vers ses quartiers d'hiver d'Afrique orientale et australe, où elle échappe au froid européen.",
+ "habitat": "Elle fréquente les milieux aquatiques : cours d'eau, lacs, étangs et côtes marines, particulièrement là où affleurent des dépôts de sable meuble ou de gravier permettant de creuser. Elle niche en colonies dans les falaises, carrières de sable ou talus fluviaux.",
+ "diet": "Elle se nourrit exclusivement d'insectes capturés en vol, principalement des moucherons et autres petites mouches dont les larves sont aquatiques. Elle chasse à proximité de l'eau, souvent au ras de la surface.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Hiverne principalement en Afrique de l'Est et australe ; de rares individus isolés sont exceptionnellement signalés en hiver sur le littoral français.",
+  "niche": "Très rare nicheuse en France, surtout dans le nord-est ; niche en colonies de fin mars à août dans des terriers creusés en falaise de sable.",
+  "passage": "Passages principaux de fin mars à avril puis d'août à septembre ; quelques individus peuvent être notés en dehors de ces périodes."
+ },
+ "seasonality_fr": "Visible en France surtout lors des passages migratoires de fin mars à avril puis d'août à septembre ; nicheuse très localisée, surtout dans le nord-est, elle hiverne en Afrique et n'est qu'exceptionnellement notée en plein hiver sur le territoire.",
+ "song_fr": "Son chant est un gazouillis graveleux et continu en vol, devenant un murmure conversationnel au repos. Son cri d'alarme est sec et claquant, utilisé pour avertir la colonie de la présence d'un prédateur (faucon, corbeau) à proximité.",
+ "lookalikes": [
+  {
+   "scientific_name": "Hirundo rustica",
+   "common_name_fr": "Hirondelle rustique",
+   "why_fr": "Même taille et habitat aquatique. La rustique a une gorge rouge et un front roux, tandis que la rivage a un dos brun uniforme et une bande pectorale grise."
+  },
+  {
+   "scientific_name": "Delichon urbicum",
+   "common_name_fr": "Hirondelle de fenêtre",
+   "why_fr": "Taille similaire et cris proches. La fenêtre a le croupion blanc très visible et le dos entièrement noir-bleu, sans bande pectorale."
+  },
+  {
+   "scientific_name": "Ptyonoprogne rupestris",
+   "common_name_fr": "Hirondelle de rochers",
+   "why_fr": "Vocalises semblables et habitat rocheux parfois commun. La rochers est plus grande et plus robuste avec un plumage plus uniforme sans marquage pectoral distinct."
+  }
+ ],
+ "rarity_note": "Assez rare en France, où elle n'est nicheuse que dans le nord-est et en petit nombre ; surtout observée en migration sur le tiers nord du territoire, bien moins commune que ses cousines rustique et de fenêtre.",
+ "fun_facts": [
+  "L'Hirondelle de rivage est la première hirondelle à revenir en Europe chaque printemps, arrivant avant ses cousines rustique et de fenêtre dès la fin mars.",
+  "Elle excave elle-même des galeries de 60 cm à 1 mètre de long dans le sable ou l'argile, formant parfois des colonies de plusieurs centaines de paires.",
+  "Elle vole très bas, presque toujours à proximité immédiate de l'eau, et passe une grande partie de sa journée en vol continu pour capturer d'infimes insectes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Hirondelle_de_rivage",
+  "https://en.wikipedia.org/wiki/Sand_martin",
+  "https://www.oiseaux.net/index.php",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T21:30:00Z",
+ "generator_model": "claude-sonnet-5"
+}

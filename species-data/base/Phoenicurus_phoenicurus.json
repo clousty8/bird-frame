@@ -1,0 +1,94 @@
+{
+ "scientific_name": "Phoenicurus phoenicurus",
+ "common_name_fr": "Rougequeue à front blanc",
+ "birdnet_label": "Phoenicurus phoenicurus_Rougequeue à front blanc",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Muscicapidae",
+  "family_common": "Old World Flycatchers",
+  "genus": "Phoenicurus",
+  "species": "Phoenicurus phoenicurus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Rougequeue à front blanc",
+   "url": "https://fr.wikipedia.org/wiki/Rougequeue_%C3%A0_front_blanc",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Rougequeue à front blanc, dit aussi Rossignol de muraille, est une espèce de passereaux de la famille des Muscicapidae.",
+   "fulltext_chars": 6643
+  },
+  "en": {
+   "title": "Common redstart",
+   "url": "https://en.wikipedia.org/wiki/Common_redstart",
+   "description": "Species of bird",
+   "extract": "The common redstart, or often simply redstart, is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family, (Turdidae), but is now known to be an Old World flycatcher.",
+   "fulltext_chars": 7280
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/60/Gekraagderoodstaart2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 269,
+  "height": 400,
+  "file": "Gekraagderoodstaart2.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/6/60/Gekraagderoodstaart2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Monique Bogaerts",
+  "credit": "Transferred from nl.wikipedia to Commons.",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Gekraagderoodstaart2.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4214,
+  "cities": {
+   "Le Mans": 0.143,
+   "Pornic": 0.105,
+   "Rennes": 0.102,
+   "Poitiers": 0.18,
+   "Paris": 0.172,
+   "Lille": 0.138,
+   "Strasbourg": 0.27,
+   "Lyon": 0.302,
+   "Grenoble": 0.293,
+   "Marseille": 0.262,
+   "Toulouse": 0.215,
+   "Bordeaux": 0.156,
+   "Brest": 0.047,
+   "Ajaccio": 0.421,
+   "Clermont-Ferrand": 0.272,
+   "Chamonix": 0.296,
+   "Perpignan": 0.233,
+   "Nancy": 0.239
+  },
+  "monthly_scores": [
+   0.0312,
+   0.0519,
+   0.2355,
+   0.4214,
+   0.3045,
+   0.2203,
+   0.1663,
+   0.1835,
+   0.2737,
+   0.1979,
+   0.0485,
+   0.0375
+  ],
+  "months": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:12Z"
+}

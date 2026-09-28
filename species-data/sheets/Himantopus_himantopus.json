@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Himantopus himantopus",
+ "summary_fr": "L'Échasse blanche est un échassier élégant, reconnaissable à ses très longues pattes roses et à son plumage contrasté de noir et de blanc. Elle appartient à la famille des Recurvirostridae et se rencontre en Eurasie et en Afrique. En France, c'est un migrateur partiel : la majorité des oiseaux arrivent au printemps pour nicher en colonies dans les marais salants, étangs et zones humides, notamment en Camargue, dans la Dombes, en Bretagne, en Picardie et dans le Pas-de-Calais, avant de repartir hiverner en Afrique subsaharienne dès la fin de l'été, mais quelques individus restent désormais l'hiver dans le sud lors d'hivers doux. Son dos et ses ailes noirs tranchent avec son cou et son ventre blancs ; en vol, ses longues pattes dépassent largement de la queue et le dessous des ailes paraît entièrement sombre. Elle lance un cri insistant et plaintif, souvent répété en défense du territoire. Elle se nourrit d'invertébrés aquatiques, surtout insectes et mollusques, glanés dans la vase ou à la surface de l'eau, et sa bonne vision nocturne lui permet de chasser même dans l'obscurité. La couvée compte en général 3 à 4 œufs, incubés environ vingt-cinq jours par les deux parents.",
+ "habitat": "Étangs bordés de roseaux, champs inondés, rizières, salines, lagunes côtières et, plus rarement, estuaires. Toujours près d'eaux peu profondes offrant une bonne visibilité pour la chasse.",
+ "diet": "Invertébrés aquatiques, notamment insectes aquatiques, larves et mollusques capturés sur la vase, le sable ou à la surface de l'eau.",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Majorité des oiseaux en Afrique subsaharienne ; quelques individus hivernent désormais irrégulièrement dans le sud de la France, notamment en Camargue, lors d'hivers doux.",
+  "niche": "En France métropolitaine, surtout en Camargue, dans la Dombes, en Bretagne, en Picardie et dans le Pas-de-Calais, d'avril à juin.",
+  "passage": "Passages migratoires marqués en mars, puis d'août à octobre, plus nourris que la présence hivernale résiduelle."
+ },
+ "seasonality_fr": "En France, l'Échasse blanche est surtout visible d'avril à septembre sur ses sites de nidification, avec des passages migratoires en mars puis d'août à octobre ; quelques hivernants irréguliers subsistent dans le sud.",
+ "song_fr": "Cri insistant et plaintif, souvent répété en vol ou lors de la défense du territoire ; alarmes faites de notes aiguës et saccadées en cascade.",
+ "lookalikes": [
+  {
+   "scientific_name": "Recurvirostra avosetta",
+   "common_name_fr": "Avocette élégante",
+   "why_fr": "Même famille, habitats partagés, cris plaintifs proches mais moins criards ; silhouette différente si bien observée."
+  },
+  {
+   "scientific_name": "Tringa totanus",
+   "common_name_fr": "Chevalier gambette",
+   "why_fr": "Limicole de taille voisine des mêmes milieux humides ; cri de contact proche, mais notes plus ascendantes chez le Gambette."
+  },
+  {
+   "scientific_name": "Tringa nebularia",
+   "common_name_fr": "Chevalier aboyeur",
+   "why_fr": "Cris forts et répétés dans les mêmes zones humides ; vocalises plus toniques et prolongées que celles de l'Échasse."
+  }
+ ],
+ "rarity_note": "Peu commune en France, à répartition inégale : nicheuse régulière des zones humides méditerranéennes et atlantiques, avec de peu nombreux hivernants dans le sud certains hivers ; absente d'une grande partie du territoire hors saison de nidification.",
+ "fun_facts": [
+  "Ses très longues pattes lui permettent de patauger dans des eaux plus profondes que la plupart des autres limicoles, lui ouvrant des zones de pêche exclusives.",
+  "Sa bonne vision nocturne lui permet de continuer à chasser dans l'obscurité, y compris les nuits sans lune, un atout rare chez les échassiers.",
+  "Protégée en France depuis 1976 et inscrite à l'annexe I de la directive Oiseaux, elle bénéficie d'un statut de conservation strict."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/%C3%89chasse_blanche",
+  "https://en.wikipedia.org/wiki/Black-winged_stilt",
+  "https://www.oiseaux.net/oiseaux/echasse.blanche.html",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T21:30:00Z",
+ "generator_model": "claude-sonnet-5"
+}

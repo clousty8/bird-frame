@@ -1,0 +1,84 @@
+{
+ "scientific_name": "Merops apiaster",
+ "common_name_fr": "Guêpier d'Europe",
+ "birdnet_label": "Merops apiaster_Guêpier d'Europe",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Coraciiformes",
+  "family": "Meropidae",
+  "family_common": "Bee-eaters",
+  "genus": "Merops",
+  "species": "Merops apiaster"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Guêpier d'Europe",
+   "url": "https://fr.wikipedia.org/wiki/Gu%C3%AApier_d'Europe",
+   "description": "espèce d'oiseaux coraciiformes de la famille des Meropidae",
+   "extract": "Le Guêpier d'Europe est une espèce d'oiseaux de la famille des Meropidae. En raison de l'effet qu'il a sur l'environnement aride, certains auteurs le considèrent comme aménageur d'écosystèmes.",
+   "fulltext_chars": 6303
+  },
+  "en": {
+   "title": "European bee-eater",
+   "url": "https://en.wikipedia.org/wiki/European_bee-eater",
+   "description": "Species of bird of genus Merops",
+   "extract": "The European bee-eater is a bird species in the bee-eater family, Meropidae. It has the largest range of any bee-eater species, breeding in southern and central Europe, northern and southern Africa, and western Asia. Except for the resident southern African population, the species is strongly migratory, wintering in tropical Africa. This species occurs as a spring overshoot north of its usual range, with occasional breeding in northern Europe.",
+   "fulltext_chars": 5892
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/97/Gu%C3%A9pier_d%27Europe_Ichkeul_NP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4501,
+  "height": 3001,
+  "file": "Guépier_d'Europe_Ichkeul_NP.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Gu%C3%A9pier_d%27Europe_Ichkeul_NP.jpg/1920px-Gu%C3%A9pier_d%27Europe_Ichkeul_NP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "El Golli Mohamed",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Gu%C3%A9pier_d%27Europe_Ichkeul_NP.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4594,
+  "cities": {
+   "Strasbourg": 0.025,
+   "Lyon": 0.146,
+   "Grenoble": 0.211,
+   "Marseille": 0.384,
+   "Toulouse": 0.292,
+   "Bordeaux": 0.064,
+   "Ajaccio": 0.459,
+   "Clermont-Ferrand": 0.106,
+   "Chamonix": 0.137,
+   "Perpignan": 0.396,
+   "Nancy": 0.011
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0474,
+   0.3204,
+   0.4217,
+   0.3657,
+   0.3756,
+   0.4594,
+   0.2732,
+   0.0372,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:24Z"
+}

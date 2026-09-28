@@ -1,0 +1,86 @@
+{
+ "scientific_name": "Alca torda",
+ "common_name_fr": "Petit Pingouin",
+ "birdnet_label": "Alca torda_Petit Pingouin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Alcidae",
+  "family_common": "Auks, Murres, and Puffins",
+  "genus": "Alca",
+  "species": "Alca torda"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Petit Pingouin",
+   "url": "https://fr.wikipedia.org/wiki/Petit_Pingouin",
+   "description": "espèce d'oiseaux charadriiformes de la famille des alcidae",
+   "extract": "Le Petit Pingouin, appelé également Pingouin torda est une espèce d'oiseaux charadriiformes de la famille des Alcidae. C'est le seul représentant du genre Alca. Seul pingouin subsistant depuis la disparition du Grand Pingouin en 1844, il est présent en Manche et de l’Atlantique Nord jusqu'en mer de Barents, et également en Méditerranée occidentale.",
+   "fulltext_chars": 9886
+  },
+  "en": {
+   "title": "Razorbill",
+   "url": "https://en.wikipedia.org/wiki/Razorbill",
+   "description": "Species of auk",
+   "extract": "The razorbill is a North Atlantic colonial seabird and the only extant member of the genus Alca of the family Alcidae, the auks. It is the closest living relative of the extinct great auk. Historically, it has also been known as \"auk\", \"razor-billed auk\" and \"lesser auk\".",
+   "fulltext_chars": 14292
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/02/Razorbill_iceland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 500,
+  "height": 551,
+  "file": "Razorbill_iceland.JPG",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/0/02/Razorbill_iceland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Razorbill_iceland.JPG"
+ },
+ "france_universe": {
+  "max_score": 0.1245,
+  "cities": {
+   "Le Mans": 0.038,
+   "Pornic": 0.077,
+   "Rennes": 0.081,
+   "Poitiers": 0.036,
+   "Paris": 0.024,
+   "Lille": 0.043,
+   "Bordeaux": 0.037,
+   "Brest": 0.125,
+   "Clermont-Ferrand": 0.011
+  },
+  "monthly_scores": [
+   0.0935,
+   0.0933,
+   0.1132,
+   0.1022,
+   0.0971,
+   0.1161,
+   0.1035,
+   0.0366,
+   0.04,
+   0.1245,
+   0.0988,
+   0.0927
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:06Z"
+}

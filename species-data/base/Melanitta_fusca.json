@@ -1,0 +1,89 @@
+{
+ "scientific_name": "Melanitta fusca",
+ "common_name_fr": "Macreuse brune",
+ "birdnet_label": "Melanitta fusca_Macreuse brune",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Melanitta",
+  "species": "Melanitta fusca"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": null,
+   "url": null,
+   "description": null,
+   "extract": null,
+   "fulltext_chars": 0
+  },
+  "en": {
+   "title": "Velvet scoter",
+   "url": "https://en.wikipedia.org/wiki/Velvet_scoter",
+   "description": "Species of bird",
+   "extract": "The velvet scoter is a large sea duck, which breeds over the far north of Europe and the Palearctic west of the Yenisey basin. The genus name is derived from Ancient Greek melas \"black\" and netta \"duck\". The species name is from the Latin fuscus \"dusky brown\".",
+   "fulltext_chars": 3632
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/35/Velvet_Scoter%2C_Eyebrook_Reservoir%2C_Leics.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1103,
+  "height": 764,
+  "file": "Velvet_Scoter,_Eyebrook_Reservoir,_Leics.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/3/35/Velvet_Scoter%2C_Eyebrook_Reservoir%2C_Leics.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Vince",
+  "credit": "Poor record shot of Velvet Scoter, my equipment can't handle contrast or distance but still, well chuffed to see it..",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Velvet_Scoter,_Eyebrook_Reservoir,_Leics.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0881,
+  "cities": {
+   "Le Mans": 0.028,
+   "Pornic": 0.039,
+   "Rennes": 0.036,
+   "Poitiers": 0.034,
+   "Paris": 0.019,
+   "Lille": 0.025,
+   "Strasbourg": 0.01,
+   "Lyon": 0.021,
+   "Grenoble": 0.024,
+   "Marseille": 0.022,
+   "Toulouse": 0.011,
+   "Bordeaux": 0.025,
+   "Brest": 0.051,
+   "Ajaccio": 0.088,
+   "Clermont-Ferrand": 0.026,
+   "Chamonix": 0.018,
+   "Nancy": 0.012
+  },
+  "monthly_scores": [
+   0.0805,
+   0.0881,
+   0.0508,
+   0.0131,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0249,
+   0.0675,
+   0.0738
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:18Z"
+}

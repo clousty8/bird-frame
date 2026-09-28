@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Haliaeetus leucocephalus",
+ "summary_fr": "Le Pygargue à tête blanche est un grand rapace diurne emblématique d'Amérique du Nord, aisément reconnaissable à son corps brun sombre contrastant avec sa tête et sa queue d'un blanc éclatant chez l'adulte, plumage acquis vers quatre ou cinq ans seulement. Rattaché au genre Haliaeetus et non aux vrais aigles, il se distingue par un régime principalement piscivore : il fond en piqué au ras de l'eau pour saisir poissons vivants ou moribonds avec ses puissantes serres, mais complète volontiers son menu d'oiseaux aquatiques, de petits mammifères et de charognes, et n'hésite pas à voler leurs prises à d'autres prédateurs comme le balbuzard pêcheur. Longtemps décimé par la chasse et surtout par le DDT, qui fragilisait la coquille de ses œufs, il a connu depuis l'interdiction du pesticide une reconquête spectaculaire, retiré de la liste des espèces en danger en 2007. Choisi comme emblème national des États-Unis en 1782, il construit les plus grands nids d'arbre connus chez les oiseaux. En France, son apparition reste exceptionnelle : quelques individus égarés, probablement venus d'Amérique du Nord, y ont été signalés, surtout en hiver sur le littoral atlantique.",
+ "habitat": "Littoraux, lacs et rivières bordés de grands arbres matures pour la nidification ; zones d'eau douce ou saumâtre riches en poissons.",
+ "diet": "Principalement piscivore, capturant les poissons en surface ou en piqué ; complète son alimentation avec des oiseaux aquatiques, de petits mammifères et des charognes, et pratique le cleptoparasitisme envers d'autres rapaces.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": "Ne niche pas en France.",
+  "passage": "Passages hivernaux exceptionnels en novembre à avril, principalement sur les côtes atlantiques."
+ },
+ "seasonality_fr": "En France, observation exceptionnelle et imprévisible, essentiellement en hiver et au début du printemps, surtout sur les côtes atlantiques.",
+ "song_fr": "Cri strident et perçant, fait de sifflements aigus répétés et de sortes de gazouillis ou grognements ; les jeunes ont des cris plus rauques que les adultes.",
+ "lookalikes": [
+  {
+   "scientific_name": "Haliaeetus albicilla",
+   "common_name_fr": "Pygargue à queue blanche",
+   "why_fr": "Même genre, silhouette et cri similaires ; confusion possible chez les immatures bruns sans marquages blancs bien nets."
+  },
+  {
+   "scientific_name": "Aquila chrysaetos",
+   "common_name_fr": "Aigle royal",
+   "why_fr": "Taille et vol plané comparables ; l'Aigle royal n'a jamais la tête ni la queue blanches, à tout âge."
+  }
+ ],
+ "rarity_note": "Exceptionnel en France, uniquement en vagabond hivernal sur les côtes atlantiques ; aucune reproduction connue sur le territoire.",
+ "fun_facts": [
+  "Le Pygargue à tête blanche construit les plus grands nids connus chez les oiseaux, jusqu'à 4 mètres de haut pour près d'une tonne.",
+  "Son cri célèbre au cinéma n'est pas le sien : les studios lui prêtent souvent celui, plus impressionnant, de la Buse à queue rousse."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pygargue_%C3%A0_t%C3%AAte_blanche",
+  "https://en.wikipedia.org/wiki/Bald_eagle",
+  "https://avibase.bsc-eoc.org/species.jsp?lang=EN&avibaseid=3E4CE18BFF61F3EB",
+  "https://www.oiseaux.net/fiches/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Turdus iliacus",
+ "summary_fr": "La Grive mauvis est la plus petite des grives d'Europe, reconnaissable à ses flancs et à son dessous d'aile roux vif ainsi qu'à son net sourcil blanc crème. Elle ne se reproduit pas en France : ses populations nichent en Scandinavie, en Islande et jusqu'en Russie, dans des forêts de conifères et de bouleaux proches de la toundra. Elle rejoint la France en migratrice, dès la fin de l'été, pour y passer l'automne et l'hiver avant de repartir au printemps, et reste absente seulement durant la nidification, en mai et juin. Discrète et grégaire, elle forme en hiver des troupes de dizaines à plusieurs centaines d'individus, souvent mêlées à des litornes, des merles noirs et des étourneaux, dans les champs, prairies et bois clairs. Elle se nourrit alors surtout de baies, après avoir chassé insectes et vers de terre en période de reproduction plus au nord. Sa migration est presque entièrement nocturne, ponctuée d'un cri de contact aigu, le « tseep », qui trahit son passage dans le ciel obscur. Un peu plus petite et moins trapue que la Grive musicienne, elle s'en distingue par des teintes plus ternes et des flancs plus roux.",
+ "habitat": "En halte migratoire et en hivernage : champs, prairies, vergers et bois clairs, surtout en régions vallonnées ou proches de cours d'eau.",
+ "diet": "Insectes, vers de terre et arthropodes en période de reproduction ; baies de sorbier, aubépine et genévrier en automne et en hiver, une fois les proies animales plus rares.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "France entière durant l'hiver, avec une présence plus marquée à l'ouest et au centre ; effectifs maximaux de novembre à février.",
+  "niche": "Ne niche pas en France ; se reproduit en Scandinavie, en Islande et en Russie jusqu'à 165° E.",
+  "passage": "Présente en migration de la fin de l'été (août) à avril, avec des pics en mars et de septembre à novembre ; absente seulement en mai et juin."
+ },
+ "seasonality_fr": "Présente en France de fin d'été à avril, en migration puis en hivernage, avec des pics en septembre-octobre et décembre-janvier ; absente seulement en mai-juin, saison de reproduction plus au nord.",
+ "song_fr": "Chant fait de courtes phrases variées, parfois flûtées ; cri de contact « tseep » aigu et perçant, souvent le seul indice de son passage nocturne en migration.",
+ "lookalikes": [
+  {
+   "scientific_name": "Turdus philomelos",
+   "common_name_fr": "Grive musicienne",
+   "why_fr": "Taille et comportement proches, mais flancs moins rouges et plumage moins tacheté."
+  },
+  {
+   "scientific_name": "Turdus pilaris",
+   "common_name_fr": "Grive litorne",
+   "why_fr": "Tailles semblables en hiver et cris proches, mais tête grise et dos plus brun-clair."
+  },
+  {
+   "scientific_name": "Turdus viscivorus",
+   "common_name_fr": "Grive draine",
+   "why_fr": "Bien plus grande et plus lourde, taches ventrales plus grosses, moins rousse aux flancs."
+  }
+ ],
+ "rarity_note": "Migratrice et hivernante régulière et assez commune en France, présente de fin d'été à avril ; absente seulement pendant la reproduction, en mai-juin.",
+ "fun_facts": [
+  "Sa migration est presque entièrement nocturne : elle se repose le jour en dortoirs pouvant réunir plusieurs milliers d'individus.",
+  "Elle distingue les baies de myrtille les plus mûres grâce à leur réflectance ultraviolette, capacité sensorielle rare chez les oiseaux."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Grive_mauvis",
+  "https://en.wikipedia.org/wiki/Redwing",
+  "https://oiseaux.net/specie/redwing.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

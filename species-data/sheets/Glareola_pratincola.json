@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Glareola pratincola",
+ "summary_fr": "Petite glaréole élégante aux ailes longues et pointues, la Glaréole à collier est un oiseau insectivore aérien qui survole les milieux ouverts et découverts d'Europe et d'Afrique. Contrairement aux autres limicoles, elle capture ses proies en vol, comme une hirondelle, grâce à son bec court et ses ailes effilées. Migrateur long courrier, elle ne traverse la France que lors de ses passages saisonniers et reste exceptionnelle au nord du continent. Son allure légère et gracieuse, ses cris nets et ses vols acrobatiques la rendent caractéristique des zones humides méditerranéennes et africaines. Elle niche en colonies sur le sol nu, souvent près de l'eau, dans des deltas ou des zones herbeuses asséchées.",
+ "habitat": "Espaces ouverts et dégagés, prairies, steppes, deltas asséchés, souvent proximité de l'eau. Préfère les milieux ras sans végétation dense.",
+ "diet": "Insectes capturés en vol ou glanés au sol, notamment diptères, hyménoptères et petits coléoptères.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "En Afrique subsaharienne, du Sénégal à l'Éthiopie et jusqu'au sud de la Somalie.",
+  "niche": "Europe du Sud et Afrique du Nord jusqu'au Pakistan et au Caucase ; niche absente de France continentale.",
+  "passage": "Passages migratoires de février à avril (printemps) et d'août à décembre (automne) en bordure méditerranéenne."
+ },
+ "seasonality_fr": "Visible uniquement lors des passages migratoires en France, généralement février à avril et août à décembre, exclusivement en zone méditerranéenne (Corsica, littoral sud).",
+ "song_fr": "Cris nets et secs en vol, appels rappelant ceux des hirondelles ; chants mélodieux lors de la nidification, entrecoupés de cris d'alarme sec et répété.",
+ "lookalikes": [
+  {
+   "scientific_name": "Glareola nordmanni",
+   "common_name_fr": "Glaréole à ailes noires",
+   "why_fr": "Très similaire ; se distingue par absence de bordure blanche à l'arrière des ailes et dessous des ailes uniformément brun."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France, notée seulement en Corse et occasionnellement en région méditerranéenne lors de passages migratoires.",
+ "fun_facts": [
+  "Contrairement aux autres limicoles, elle chasse ses insectes en vol comme une hirondelle, d'où son allure aérienne très différente des autres échassiers.",
+  "Elle niche en colonies densément groupées sur le sol nu, cachant ses œufs au camouflage dans des creux peu profonds."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Glar%C3%A9ole_%C3%A0_collier",
+  "https://en.wikipedia.org/wiki/Collared_pratincole",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

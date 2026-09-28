@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Limosa lapponica",
+ "summary_fr": "Grand limicole détenteur du record mondial de vol sans escale, la Barge rousse relie l'Arctique aux tropiques en franchissant parfois plus de 13 000 kilomètres d'une seule traite. Reconnaissable en plumage nuptial à son roux vif, à ses longues pattes sombres et à son bec fin légèrement retroussé, elle niche dans la toundra arctique et subarctique, de la Scandinavie à l'Alaska selon la sous-espèce, mais jamais en France. Sur nos côtes, elle est un migrateur partiel : l'essentiel des effectifs transite lors de deux pics, en mars puis d'octobre à novembre, tandis que de petits contingents restent l'hiver sur les vasières atlantiques et que quelques individus non nicheurs s'y attardent même en été, d'où des observations possibles en faible nombre presque toute l'année. Le gros de la population hiverne bien plus loin, sur les côtes tropicales et tempérées d'Afrique, d'Asie du Sud-Est ou d'Océanie. Elle se nourrit surtout de vers marins, de petits mollusques bivalves et de crustacés qu'elle sonde dans la vase des estuaires, souvent en bandes mêlées à d'autres limicoles.",
+ "habitat": "Vasières, estuaires et côtes intertidales lors des passages et en hivernage ; toundra arctique et subarctique pour la reproduction, hors de France.",
+ "diet": "Vers marins (arénicoles, néréis), petits mollusques bivalves et crustacés variés sur les vasières ; insectes et baies sur les sites de reproduction.",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Petits effectifs sur les vasières atlantiques françaises ; le gros de la population hiverne en Afrique, en Asie du Sud-Est ou en Océanie selon la sous-espèce.",
+  "niche": "Toundra arctique et subarctique, de la Scandinavie à l'Alaska selon la sous-espèce ; ne niche pas en France.",
+  "passage": "Passage marqué en mars puis d'octobre à novembre, avec quelques individus présents en toute saison sur le littoral atlantique."
+ },
+ "seasonality_fr": "Surtout visible lors des pics de passage en mars et d'octobre à novembre sur le littoral atlantique, avec de petits effectifs présents toute l'année.",
+ "song_fr": "Cri d'alarme bref « ku-wit » ou « kirruk », répété en vol ou à l'envol ; peu vocale en halte migratoire hors période nuptiale.",
+ "lookalikes": [
+  {
+   "scientific_name": "Limosa limosa",
+   "common_name_fr": "Barge à queue noire",
+   "why_fr": "Même taille et silhouette, mais queue entièrement noire chez limosa (bariolée chez lapponica) et pas de barre alaire blanche."
+  },
+  {
+   "scientific_name": "Numenius arquata",
+   "common_name_fr": "Courlis cendré",
+   "why_fr": "Grand limicole aux longues pattes, mais bec plus arqué et silhouette plus massive."
+  },
+  {
+   "scientific_name": "Tringa nebularia",
+   "common_name_fr": "Chevalier aboyeur",
+   "why_fr": "Cris perçants semblables lors des envols, mais oiseau plus petit aux pattes plus longues."
+  }
+ ],
+ "rarity_note": "Peu commune en France, plus régulière sur le littoral atlantique lors des passages ; petits effectifs visibles toute l'année, hors reproduction.",
+ "fun_facts": [
+  "Un juvénile de cinq mois a volé sans escale de l'Alaska à la Tasmanie, soit 13 560 km parcourus en onze jours sans se poser ni s'alimenter.",
+  "Lors de ses traversées du Pacifique, elle transporte parfois des œufs vivants de triops collés aux pattes, reliant génétiquement des populations très éloignées.",
+  "Un individu bagué dans le Norfolk a été recontrôlé 34 ans plus tard au même endroit, un record de longévité pour l'espèce."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Barge_rousse",
+  "https://en.wikipedia.org/wiki/Bar-tailed_godwit",
+  "https://www.oiseaux.net/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

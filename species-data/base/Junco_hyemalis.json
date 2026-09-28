@@ -1,0 +1,69 @@
+{
+ "scientific_name": "Junco hyemalis",
+ "common_name_fr": "Junco ardoisé",
+ "birdnet_label": "Junco hyemalis_Junco ardoisé",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Passerellidae",
+  "family_common": "New World Sparrows",
+  "genus": "Junco",
+  "species": "Junco hyemalis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Junco ardoisé",
+   "url": "https://fr.wikipedia.org/wiki/Junco_ardois%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Junco ardoisé est une espèce de passereaux de la famille des Passerellidae, originaire du continent nord-américain. Cette espèce présente de nombreuses sous-espèces chez qui la variabilité de coloration du plumage est remarquable.",
+   "fulltext_chars": 4986
+  },
+  "en": {
+   "title": "Dark-eyed junco",
+   "url": "https://en.wikipedia.org/wiki/Dark-eyed_junco",
+   "description": "Species of bird",
+   "extract": "The dark-eyed junco is a species of junco, a group of small, grayish New World sparrows. The species is common across much of temperate North America and in summer it ranges far into the Arctic. It is a variable species, much like the related fox sparrow, and its systematics are still not completely resolved.",
+   "fulltext_chars": 20089
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Dark-eyed_junco_%2826426%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2593,
+  "height": 2143,
+  "file": "Dark-eyed_junco_(26426).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Dark-eyed_junco_%2826426%29.jpg/1920px-Dark-eyed_junco_%2826426%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Rhododendrites",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Dark-eyed_junco_(26426).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0195,
+  "cities": {
+   "Pornic": 0.02,
+   "Poitiers": 0.014,
+   "Bordeaux": 0.015
+  },
+  "monthly_scores": [
+   0.019,
+   0.0161,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.014,
+   0.0188,
+   0.0195
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:25Z"
+}

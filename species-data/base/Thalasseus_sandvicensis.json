@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Thalasseus sandvicensis",
+ "common_name_fr": "Sterne caugek",
+ "birdnet_label": "Thalasseus sandvicensis_Sterne caugek",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Thalasseus",
+  "species": "Thalasseus sandvicensis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Sterne caugek",
+   "url": "https://fr.wikipedia.org/wiki/Sterne_caugek",
+   "description": "espèce d'oiseaux",
+   "extract": "\n\nLa Sterne caugek est une espèce d'oiseaux marins Charadriiformes de la famille des Laridae. On lui donne aussi le nom de plovre criard, privaret, tavernot.",
+   "fulltext_chars": 10913
+  },
+  "en": {
+   "title": "Sandwich tern",
+   "url": "https://en.wikipedia.org/wiki/Sandwich_tern",
+   "description": "Species of bird",
+   "extract": "The Sandwich tern is a tern in the family Laridae. It is very closely related to the lesser crested tern, Chinese crested tern, Cabot's tern, and elegant tern and has been known to interbreed with both elegant and lesser crested terns. It breeds in the Palearctic from Europe to the Caspian Sea, and winters in the Mediterranean and on the coasts of Africa, India, and Sri Lanka.",
+   "fulltext_chars": 7583
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sandwich_tern_%28Thalasseus_sandvicensis%29_in_flight_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3836,
+  "height": 2557,
+  "file": "Sandwich_tern_(Thalasseus_sandvicensis)_in_flight_5.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Sandwich_tern_%28Thalasseus_sandvicensis%29_in_flight_5.jpg/1920px-Sandwich_tern_%28Thalasseus_sandvicensis%29_in_flight_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Charles J. Sharp",
+  "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Sandwich_tern_(Thalasseus_sandvicensis)_in_flight_5.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3571,
+  "cities": {
+   "Le Mans": 0.157,
+   "Pornic": 0.234,
+   "Rennes": 0.265,
+   "Poitiers": 0.112,
+   "Paris": 0.107,
+   "Lille": 0.165,
+   "Strasbourg": 0.016,
+   "Lyon": 0.025,
+   "Grenoble": 0.03,
+   "Marseille": 0.097,
+   "Toulouse": 0.066,
+   "Bordeaux": 0.089,
+   "Brest": 0.357,
+   "Ajaccio": 0.341,
+   "Clermont-Ferrand": 0.038,
+   "Chamonix": 0.017,
+   "Perpignan": 0.099,
+   "Nancy": 0.029
+  },
+  "monthly_scores": [
+   0.3218,
+   0.3413,
+   0.279,
+   0.2266,
+   0.1762,
+   0.1685,
+   0.2378,
+   0.3571,
+   0.3109,
+   0.2183,
+   0.2848,
+   0.3091
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:19Z"
+}

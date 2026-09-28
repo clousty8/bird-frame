@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Ardea cinerea",
+ "common_name_fr": "Héron cendré",
+ "birdnet_label": "Ardea cinerea_Héron cendré",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Pelecaniformes",
+  "family": "Ardeidae",
+  "family_common": "Herons, Egrets, and Bitterns",
+  "genus": "Ardea",
+  "species": "Ardea cinerea"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Héron cendré",
+   "url": "https://fr.wikipedia.org/wiki/H%C3%A9ron_cendr%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Héron cendré est une espèce d'oiseaux échassiers de la famille des Ardeidae.",
+   "fulltext_chars": 10621
+  },
+  "en": {
+   "title": "Grey heron",
+   "url": "https://en.wikipedia.org/wiki/Grey_heron",
+   "description": "Long-legged predatory wading bird",
+   "extract": "The grey heron is a long-legged wading bird of the heron family, Ardeidae, native throughout temperate Europe and Asia, and also parts of Africa. It is resident in much of its range, but some populations from the more northern parts migrate southwards in autumn. A bird of wetland areas, it can be seen around lakes, rivers, ponds, marshes and on the sea coast. It feeds mostly on aquatic creatures which it catches after standing stationary beside or in the water, or stalking its prey through the shallows.",
+   "fulltext_chars": 19666
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ardea_cinerea_2013-09-16_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2592,
+  "height": 3888,
+  "file": "Ardea_cinerea_2013-09-16_2.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Ardea_cinerea_2013-09-16_2.jpg/1920px-Ardea_cinerea_2013-09-16_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Laitche",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Ardea_cinerea_2013-09-16_2.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.8202,
+  "cities": {
+   "Le Mans": 0.793,
+   "Pornic": 0.785,
+   "Rennes": 0.803,
+   "Poitiers": 0.738,
+   "Paris": 0.802,
+   "Lille": 0.82,
+   "Strasbourg": 0.768,
+   "Lyon": 0.651,
+   "Grenoble": 0.627,
+   "Marseille": 0.611,
+   "Toulouse": 0.586,
+   "Bordeaux": 0.664,
+   "Brest": 0.803,
+   "Ajaccio": 0.698,
+   "Clermont-Ferrand": 0.667,
+   "Chamonix": 0.647,
+   "Perpignan": 0.567,
+   "Nancy": 0.78
+  },
+  "monthly_scores": [
+   0.6976,
+   0.6424,
+   0.5883,
+   0.6395,
+   0.6514,
+   0.6439,
+   0.693,
+   0.8202,
+   0.8009,
+   0.7412,
+   0.7083,
+   0.6963
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:41Z"
+}

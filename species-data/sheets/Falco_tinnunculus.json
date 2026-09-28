@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Falco tinnunculus",
+ "summary_fr": "Le Faucon crécerelle est le plus petit rapace diurne d'Europe et l'un des faucons les plus abondants de l'Ancien Monde. Robuste et adaptable, il fréquente les milieux ouverts, des bords de mer aux montagnes, mais s'est progressivement installé en ville, nichant sur les façades des immeubles ou les ponts. De la taille d'un pigeon, il se reconnaît à son manteau roux tacheté de noir et surtout à son vol stationnaire caractéristique, dit « en Saint-Esprit », qu'il exécute la tête baissée pour repérer ses proies au sol. Les mâles ont la tête gris-bleu et la queue grise, tandis que les femelles et les juvéniles conservent un plumage plus roux. Opportuniste, il se nourrit principalement de campagnols en Europe du Nord, mais n'hésite pas à chasser des oiseaux, des insectes ou des reptiles selon la région. Migrateur partiel en France, il reste commun toute l'année, bien qu'en léger déclin.",
+ "habitat": "Milieux ouverts et peu boisés : terres cultivées, pâturages, landes, marais, bords de routes, lisières de forêts. Aussi en zones urbaines et suburbaines, sur les bâtiments, les ponts et les falaises côtières.",
+ "diet": "Principalement des rongeurs (campagnols, mulots, souris) qui composent les trois quarts du régime en Europe du Nord. Aussi des petits oiseaux, insectes (surtout en automne), reptiles, amphibiens et chauves-souris selon les régions.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France, surtout dans les régions côtières et urbaines ; les populations du nord de l'Europe hivernent du Portugal à la Bulgarie en passant par la Méditerranée.",
+  "niche": "Partout en France où il y a des cavités ou des niches, de février à juillet. Les couples nichent dans d'anciens nids de corvidés, des cavités d'immeubles ou des nichoirs.",
+  "passage": "Déplacements importants en mars (printemps) et d'octobre à novembre (automne), notamment chez les juvéniles."
+ },
+ "seasonality_fr": "Visible toute l'année en France, bien que les effectifs fluctuent selon les migrations régionales. En ville, présent même en hiver. Son cri caractéristique « kee-kee-kee » est audible notamment aux alentours des sites de nidification.",
+ "song_fr": "Cri ou cri d'alarme : série rapide de « kee-kee-kee » ou « kik-kik-kik » aigus et répétés, donné en vol ou perché. Le cri d'appel est plus grave. Peu de chant au sens propre.",
+ "lookalikes": [
+  {
+   "scientific_name": "Falco naumanni",
+   "common_name_fr": "Crécerellette",
+   "why_fr": "Très petite espèce ressemblante ; cris plus aigus et enroués. Présence limitée en France."
+  },
+  {
+   "scientific_name": "Falco columbarius",
+   "common_name_fr": "Faucon émerillon",
+   "why_fr": "Plus petit et plus trapu ; cris différents mais confusion possible en migration."
+  },
+  {
+   "scientific_name": "Accipiter nisus",
+   "common_name_fr": "Épervier d'Europe",
+   "why_fr": "Silhouette en vol dissemblable, mais petite espèce rapace aux cris proches."
+  }
+ ],
+ "rarity_note": "Très commun et régulier partout en France toute l'année. C'est le rapace diurne le plus abondant et le plus facilement observable.",
+ "fun_facts": [
+  "Son vol sur place en battant des ailes rapidement, face au vent, lui permet de scruter le sol depuis 20 mètres de hauteur pour détecter le moindre rongeur.",
+  "Le Faucon crécerelle peut voir la lumière ultraviolette, ce qui lui permet de détecter les traces d'urine des rongeurs brillant sous le soleil.",
+  "Embaumé et vénéré par les Égyptiens comme manifestation du dieu Horus, il a été enterré dans des temples des vallées du Nil."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Faucon_cr%C3%A9cerelle",
+  "https://en.wikipedia.org/wiki/Common_kestrel",
+  "https://www.oiseaux.net/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

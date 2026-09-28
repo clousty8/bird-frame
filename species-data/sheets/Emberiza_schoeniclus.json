@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Emberiza schoeniclus",
+ "summary_fr": "Le Bruant des roseaux est un petit passereau de 15 à 16 cm, reconnaissable au mâle par sa tête noire et son collier blanc. Habitant des zones humides riche en roseaux et joncs, il fréquente également les champs et les marais. En période nuptiale, le mâle chante depuis des postes dégagés un trille monotone, perçant et répété qui lui vaut son nom. Territorial toute l'année, il se nourrit principalement d'insectes en été et de graines de graminées, en particulier des phragmites. Les populations d'Europe du Nord et de l'Est migrent vers l'Espagne en automne, tandis que celles du sud et de l'ouest restent résidentes. Le nid, souvent caché dans une touffe d'herbe ou un buisson, accueille quatre à cinq œufs. Le Bruant des roseaux bénéficie d'une protection totale en France, où les populations ont décliné avec la disparition des roselières.",
+ "habitat": "Zones humides à roseaux, joncs et saules. S'adapte aussi aux champs de céréales, colza et plantations de conifères, surtout hors saison de reproduction.",
+ "diet": "Insectes en été, notamment chenilles, papillons, diptères et coléoptères. Graines de graminées au printemps et en automne, en particulier phragmites et molinie. Occasionnellement limaces et petits crustacés.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Populations d'Europe du Nord et de l'Est hivernent en Espagne. Les oiseaux d'Europe Centrale et du Sud restent partiellement résidents.",
+  "niche": "Se reproduit partout en France, d'avril à juillet environ. Niche généralement près des étangs, marais et lacs, dans les touffes d'herbe ou buissons.",
+  "passage": "Passages migratoires marqués en mars et d'octobre à novembre pour les populations du nord."
+ },
+ "seasonality_fr": "Visible toute l'année en France, plus courant de mars à octobre. Le mâle chante surtout en période nuptiale, d'avril à août.",
+ "song_fr": "Chant caractéristique : trille monotone, rapide, perçant et répété ; cri de vol « tsirr ». Son pépiement bref est très distinctif.",
+ "lookalikes": [
+  {
+   "scientific_name": "Emberiza citrinella",
+   "common_name_fr": "Bruant jaune",
+   "why_fr": "Habitats et chants de buntings peuvent se chevauchir mais le Bruant jaune a une préférence pour les milieux plus secs."
+  },
+  {
+   "scientific_name": "Acrocephalus scirpaceus",
+   "common_name_fr": "Rousserolle effarvatte",
+   "why_fr": "Partage les mêmes zones humides avec roseaux ; chants bruyants mais tessiture et structure différentes."
+  }
+ ],
+ "rarity_note": "Régulier mais en déclin en France, particulièrement au nord. Score BirdNET Francia 0.47 : classé de présence modérée sur la plupart du territoire.",
+ "fun_facts": [
+  "En automne et hiver, son plumage devient beaucoup plus terne et ressemble davantage à celui de la femelle.",
+  "Le Bruant des roseaux est classé « EN » (En Danger) par l'UICN-France à cause de la destruction des roselières et des zones humides.",
+  "C'est l'un des rares passereaux dont la femelle chante aussi, ce qui est souvent un comportement défensif territorial."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bruant_des_roseaux",
+  "https://en.wikipedia.org/wiki/Common_reed_bunting",
+  "https://oiseaux.net/especes/bruant.des.roseaux.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

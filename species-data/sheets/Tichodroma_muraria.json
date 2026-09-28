@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Tichodroma muraria",
+ "summary_fr": "Seul représentant vivant de sa famille, le Tichodrome échelette est une petite merveille des falaises de montagne. Gris cendré au plumage discret, il se révèle à l'envol par ses ailes rouge vif semées de blanc, transformant son vol en ballet aérien. Insectivore spécialisé, il extrait ses proies des fissures de roche avec son bec fin et incurvé, explorant les parois verticales comme aucun autre oiseau ne sait le faire. Sa locomotion acrobatique, faite de sauts, d'escalades et de chutes contrôlées, a inspiré son nom vernaculaire « échelette ». En hiver, il descend en altitude et s'aventure jusque dans les villes, prospectant les façades des cathédrales. Les deux sexes chantent une mélodie précieuse et mélodieuse, territoire toute l'année, d'une grande confiance envers l'homme bien qu'étonnamment difficile à observer sur son milieu rocheux.",
+ "habitat": "Falaises rocheuses en altitude, parois de gorges, escarpements calcaires. En hiver, descend vers les falaises de basse altitude, bâtiments, constructions et carrières.",
+ "diet": "Arthropodes et invertébrés glanés sur les parois rocheuses, principalement insectes et larves. Extrait ses proies des fissures avec son bec fin ou les prend au vol.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Quitte les sommets en hiver pour se disperser dans des régions au climat plus favorable, visitant falaises de basse altitude, villes (Grenoble, Lyon, Paris, Chartres), et littoral.",
+  "niche": "Se reproduit dans les grands massifs montagneux d'Europe (Alpes, Pyrénées, Jura, Massif central à titre ponctuel), essentiellement au-dessus de 1000 m, parfois jusqu'à plus de 2800 m.",
+  "passage": "Migrations altitudinales surtout en automne et hiver ; peu d'observations en passages migratoires marqués."
+ },
+ "seasonality_fr": "Visible toute l'année en France, plus facilement en hiver et en montagne en été. Chante en toutes saisons, y compris l'hiver, pour défendre son territoire.",
+ "song_fr": "Chant élevé, mélodieux et varié fait de phrases cristallines, rappelant le grimpereau. Les deux sexes chantent, signalant notamment l'emplacement du nid à la femelle.",
+ "lookalikes": [
+  {
+   "scientific_name": "Sitta europaea",
+   "common_name_fr": "Sittelle torchepot",
+   "why_fr": "Habitat rocheux et comportement d'escalade similaires, mais morphologie distincte et cris très différents."
+  },
+  {
+   "scientific_name": "Certhia brachydactyla",
+   "common_name_fr": "Grimpereau des bois",
+   "why_fr": "Chant et comportement de prospection des crevasses proches, mais taille plus petite et cris caractéristiques différents."
+  }
+ ],
+ "rarity_note": "Espèce montagnarde strictement paléarctique, présente dans les grands massifs de France mais peu commune et localisée. Absente des régions sans relief significatif.",
+ "fun_facts": [
+  "C'est l'unique oiseau qui sait grimper sur les parois rocheuses verticales avec une légèreté remarquable, se laissant tomber comme une pierre pour recommencer son ascension.",
+  "Le dimorphisme sexuel saisonnier est marqué : les mâles ont la gorge noire en été et blanche en hiver, tandis que les femelles restent plus discrètes et tachées.",
+  "L'espèce est tellement spécifique des falaises que sa présence est déterminée par la géologie : le Jura sans reliefs mais calcaire la contient, tandis que les Vosges voisines, sans falaises, en sont dépourvues."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Tichodrome_%C3%A9chelette",
+  "https://en.wikipedia.org/wiki/Wallcreeper",
+  "https://www.oiseaux.net/tichodroma.muraria.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4428"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

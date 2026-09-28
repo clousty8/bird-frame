@@ -1,0 +1,74 @@
+{
+ "scientific_name": "Calidris maritima",
+ "common_name_fr": "Bécasseau violet",
+ "birdnet_label": "Calidris maritima_Bécasseau violet",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Calidris",
+  "species": "Calidris maritima"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécasseau violet",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9casseau_violet",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Bécasseau violet est une espèce d'oiseaux de la famille des Scolopacidae.",
+   "fulltext_chars": 4631
+  },
+  "en": {
+   "title": "Purple sandpiper",
+   "url": "https://en.wikipedia.org/wiki/Purple_sandpiper",
+   "description": "Species of bird",
+   "extract": "The purple sandpiper is a small shorebird in the sandpiper family Scolopacidae. This is a hardy sandpiper that breeds in the arctic and subarctic regions of Eurasia and North America and winters further south on the Atlantic coast.",
+   "fulltext_chars": 5605
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/53/Calidris_maritima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3570,
+  "height": 2380,
+  "file": "Calidris_maritima.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Calidris_maritima.jpg/1920px-Calidris_maritima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Calidris_maritima.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0372,
+  "cities": {
+   "Le Mans": 0.015,
+   "Pornic": 0.022,
+   "Rennes": 0.024,
+   "Poitiers": 0.013,
+   "Paris": 0.012,
+   "Lille": 0.019,
+   "Bordeaux": 0.013,
+   "Brest": 0.037
+  },
+  "monthly_scores": [
+   0.0358,
+   0.0372,
+   0.0255,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0166,
+   0.0261,
+   0.0323
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:04Z"
+}

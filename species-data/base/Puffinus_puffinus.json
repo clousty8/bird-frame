@@ -1,0 +1,82 @@
+{
+ "scientific_name": "Puffinus puffinus",
+ "common_name_fr": "Puffin des Anglais",
+ "birdnet_label": "Puffinus puffinus_Puffin des Anglais",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Procellariiformes",
+  "family": "Procellariidae",
+  "family_common": "Shearwaters and Petrels",
+  "genus": "Puffinus",
+  "species": "Puffinus puffinus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Puffin des Anglais",
+   "url": "https://fr.wikipedia.org/wiki/Puffin_des_Anglais",
+   "description": "espèce d'oiseaux procellariiformes de la famille des procellariidae",
+   "extract": "Le Puffin des Anglais est une espèce d'oiseaux de mer de la famille des Procellariidae.",
+   "fulltext_chars": 9804
+  },
+  "en": {
+   "title": "Manx shearwater",
+   "url": "https://en.wikipedia.org/wiki/Manx_shearwater",
+   "description": "Species of bird",
+   "extract": "The Manx shearwater is a medium-sized shearwater in the seabird family Procellariidae. The scientific name of this species records a name shift: Manx shearwaters were called Manks puffins in the 17th century. Puffin is an Anglo-Norman word for the cured carcasses of nestling shearwaters. The Atlantic puffin acquired the name much later, possibly because of its similar nesting habits.",
+   "fulltext_chars": 14236
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Manx_Shearwater.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4608,
+  "height": 3456,
+  "file": "Manx_Shearwater.JPG",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Manx_Shearwater.JPG/1920px-Manx_Shearwater.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Martin Reith",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Manx_Shearwater.JPG"
+ },
+ "france_universe": {
+  "max_score": 0.1748,
+  "cities": {
+   "Le Mans": 0.045,
+   "Pornic": 0.092,
+   "Rennes": 0.093,
+   "Poitiers": 0.032,
+   "Paris": 0.021,
+   "Lille": 0.026,
+   "Bordeaux": 0.024,
+   "Brest": 0.175
+  },
+  "monthly_scores": [
+   0.0,
+   0.0113,
+   0.0494,
+   0.1103,
+   0.1066,
+   0.1426,
+   0.1748,
+   0.1477,
+   0.1213,
+   0.0545,
+   0.0144,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:27Z"
+}

@@ -1,0 +1,69 @@
+{
+ "scientific_name": "Larus hyperboreus",
+ "common_name_fr": "Goéland bourgmestre",
+ "birdnet_label": "Larus hyperboreus_Goéland bourgmestre",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Larus",
+  "species": "Larus hyperboreus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Goéland bourgmestre",
+   "url": "https://fr.wikipedia.org/wiki/Go%C3%A9land_bourgmestre",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Goéland bourgmestre est une espèce d'oiseaux marins Charadriiformes de la famille des Laridae, nichant en Arctique.",
+   "fulltext_chars": 3838
+  },
+  "en": {
+   "title": "Glaucous gull",
+   "url": "https://en.wikipedia.org/wiki/Glaucous_gull",
+   "description": "Species of bird",
+   "extract": "The glaucous gull is a large gull, the second-largest gull in the world. The genus name is from Latin larus, which appears to have referred to a gull or other large seabird. The specific name hyperboreus is Latin for \"northern\" from the Ancient Greek Huperboreoi people from the far north \"Glaucous\" is from Latin glaucus and denotes the grey colour of the gull. An older English name for this species is burgomaster.",
+   "fulltext_chars": 3524
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Larus_hyperboreus1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1050,
+  "height": 691,
+  "file": "Larus_hyperboreus1.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Larus_hyperboreus1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "U.S. Fish and Wildlife Service",
+  "credit": "Fish and Wildlife Service",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Larus_hyperboreus1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0254,
+  "cities": {
+   "Pornic": 0.011,
+   "Rennes": 0.013,
+   "Brest": 0.025
+  },
+  "monthly_scores": [
+   0.0184,
+   0.0254,
+   0.0216,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0107,
+   0.0145
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:07Z"
+}

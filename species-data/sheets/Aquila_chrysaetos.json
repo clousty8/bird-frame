@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Aquila chrysaetos",
+ "summary_fr": "L'Aigle royal est l'un des plus grands rapaces d'Eurasie et d'Amérique du Nord, reconnaissable à son plumage brun foncé rehaussé d'une nuque dorée caractéristique. Puissant et agile, cet aigle chasse les lapins, marmottes et écureuils en rase-mottes ou en piqué spectaculaire pouvant atteindre 320 km/h. Il occupe surtout les montagnes et les falaises où il construit ses énormes aires, qu'il réutilise pendant des années. Monogame et très territorial, il défend farouchement un domaine vital de 22 à 33 km². En France, c'est un hôte rare mais régulier des massifs montagneux, particulièrement des Pyrénées, Alpes et du Massif central, et un visiteur sporadique du littoral en migration. Bien que moins bruyant que d'autres rapaces, il communique par des cris sifflants et des trompetements.",
+ "habitat": "Massifs montagneux et chaînes alpines, falaises et crêtes rocheuses, pré-montagne et forêts boréales ouvertes. Territoire très vaste de 22 à 33 km² en général, parfois jusqu'à 155 km² en terrain difficile.",
+ "diet": "Mammifères de petite à moyenne taille : lapins, lièvres, marmottes, écureuils et petits rongeurs. Aussi jeunes cervidés, renards, petits ongulés, et oiseaux de grande taille (grues, cygnes, corbeaux). Charognes l'hiver quand les proies sont rares.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Populations locales hivernent en France, particulièrement dans les Pyrénées et le Massif central. Rejointes par des migrateurs venant de l'est et du nord-ouest de l'Europe.",
+  "niche": "Niche dans les falaises et parfois les grands arbres des massifs montagneux français (Alpes, Pyrénées, Massif central), avril à septembre principalement.",
+  "passage": "Passages migratoires marqués en mars et d'août à novembre, lorsque des individus nordiques traversent la France."
+ },
+ "seasonality_fr": "Présent toute l'année en France, surtout de novembre à avril quand les migrateurs de l'Est rencontrent les populations locales. Plus régulier en automne et hiver dans le sud et les Alpes.",
+ "song_fr": "Généralement très silencieux. Cris faibles et aigus : des sifflements fins, des trompetements sourds, et un glapissement rappelant un aboiement de chiot (kiup) émis par les jeunes pour demander la nourriture.",
+ "lookalikes": [
+  {
+   "scientific_name": "Aquila heliaca",
+   "common_name_fr": "Aigle impérial",
+   "why_fr": "Taille légèrement inférieure, queue plus courte, cris et nuances de vol comparables; taches blanches sur les épaules le distinguent."
+  },
+  {
+   "scientific_name": "Haliaeetus albicilla",
+   "common_name_fr": "Pygargue à queue blanche",
+   "why_fr": "Très grande taille, ailes plus larges et vol plus lent et lourd; cris perçants caractéristiques différents."
+  },
+  {
+   "scientific_name": "Buteo buteo",
+   "common_name_fr": "Buse variable",
+   "why_fr": "Bien que très inférieure en taille, peut prêter à confusion de loin; envergure et proportions des ailes très différentes."
+  }
+ ],
+ "rarity_note": "Espèce rare mais régulière en France, surtout en montagne. Confidentiel partout sauf en Corse où il niche régulièrement. Maximum 0,26 (Ajaccio). Absent des plaines.",
+ "fun_facts": [
+  "Ses serres font jusqu'à 7 cm de long, aussi tranchantes qu'un rasoir, capables de transpercer la carapace d'une tortue.",
+  "Utilisé pour la chasse en Asie centrale depuis des siècles par les peuples kazakhs, kirghizes et mongols, les Berkutchi.",
+  "L'armée de l'air française a dressé des aigles royaux pour capturer des drones, exploitant leur incroyable agilité."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Aigle_royal",
+  "https://en.wikipedia.org/wiki/Golden_eagle",
+  "https://oiseaux.net/spip.php?article1022",
+  "https://www.lpo.fr/nos-actions/reserves-naturelles",
+  "https://inpn.mnhn.fr/espece/cd_nom/4527/tab/statut"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

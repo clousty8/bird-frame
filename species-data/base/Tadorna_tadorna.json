@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Tadorna tadorna",
+ "common_name_fr": "Tadorne de Belon",
+ "birdnet_label": "Tadorna tadorna_Tadorne de Belon",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Tadorna",
+  "species": "Tadorna tadorna"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Tadorne de Belon",
+   "url": "https://fr.wikipedia.org/wiki/Tadorne_de_Belon",
+   "description": "espèce d'oiseaux anseriformes de la famille des anatidae",
+   "extract": "Le Tadorne de Belon est une espèce d'oiseaux appartenant à la famille des Anatidae, peut-être appelé dans l'Antiquité chenalopex, vulpanser, ou « oie-renard ». Comme les autres espèces du genre Tadorna, il présente des caractéristiques intermédiaires entre celles des oies et celles des canards. Cette position intermédiaire est confirmée par les études phylogénétiques récentes.",
+   "fulltext_chars": 7453
+  },
+  "en": {
+   "title": "Common shelduck",
+   "url": "https://en.wikipedia.org/wiki/Common_shelduck",
+   "description": "Species of bird",
+   "extract": "The common shelduck is a waterfowl species of the shelduck genus Tadorna. It is widespread and common in the Palearctic, in Europe and northwest Africa mainly breeding on temperate coasts, saline pools and estuaries, and in Asia on inland salt lakes; increasingly it is also using open freshwater habitats inland. Wintering is in temperate to subtropical regions.",
+   "fulltext_chars": 5867
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/46/Tadorna_tadorna_by_Ludovic_Hirlimann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5622,
+  "height": 3750,
+  "file": "Tadorna_tadorna_by_Ludovic_Hirlimann.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Tadorna_tadorna_by_Ludovic_Hirlimann.jpg/1920px-Tadorna_tadorna_by_Ludovic_Hirlimann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Ludovic Hirlimann",
+  "credit": "https://www.flickr.com/photos/lhirlimann/12114515604/in/photolist-jsw4qG-62FTbA-tch5xA-dT1ybv-sTZ7JA-dqBoC-sRSWJU-diLwoR-A9yE4N-ybQLBE-am4PVt-tKfXyP-xZ1WqT-ajoiHy-yQSC25-7Uozof-dT79ty-ajbVEQ-cQbyyY-cGvjk5-eePsSP-9THRRf-9WDF4W-bDYEmQ-iYyVJa-7JzfeV-yeac1v-bSTxac-cDHrA1-ncvahb-q1omG4-btroiJ-nRbZPy-6nPijh-a8mx9i-rx81Bf-2XYrkF-bWt1gz-qaHQDy-paUjfy-mLVmXW-qNpMtP-cQqEfy-ekTbqc-bGC82D-apjBYE-6DR4Ua-cLx3cQ-jSFGnM-pDdXjE",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Tadorna_tadorna_by_Ludovic_Hirlimann.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4584,
+  "cities": {
+   "Le Mans": 0.356,
+   "Pornic": 0.372,
+   "Rennes": 0.409,
+   "Poitiers": 0.303,
+   "Paris": 0.298,
+   "Lille": 0.458,
+   "Strasbourg": 0.06,
+   "Lyon": 0.103,
+   "Grenoble": 0.098,
+   "Marseille": 0.225,
+   "Toulouse": 0.2,
+   "Bordeaux": 0.293,
+   "Brest": 0.377,
+   "Ajaccio": 0.433,
+   "Clermont-Ferrand": 0.151,
+   "Chamonix": 0.065,
+   "Perpignan": 0.238,
+   "Nancy": 0.104
+  },
+  "monthly_scores": [
+   0.423,
+   0.433,
+   0.4228,
+   0.4584,
+   0.4099,
+   0.369,
+   0.2721,
+   0.1957,
+   0.1701,
+   0.2145,
+   0.3782,
+   0.4065
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:24Z"
+}

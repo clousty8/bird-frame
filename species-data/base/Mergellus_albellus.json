@@ -1,0 +1,88 @@
+{
+ "scientific_name": "Mergellus albellus",
+ "common_name_fr": "Harle piette",
+ "birdnet_label": "Mergellus albellus_Harle piette",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Mergellus",
+  "species": "Mergellus albellus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Harle piette",
+   "url": "https://fr.wikipedia.org/wiki/Harle_piette",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Harle piette est une espèce d'oiseaux de la famille des Anatidae, l'unique représentante du genre Mergellus. Il appartient à la catégorie des canards plongeurs.",
+   "fulltext_chars": 1814
+  },
+  "en": {
+   "title": "Smew",
+   "url": "https://en.wikipedia.org/wiki/Smew",
+   "description": "Species of duck",
+   "extract": "The smew is a species of duck and is the only living member of the genus Mergellus. The genus is closely related to Mergus and is sometimes included in it; genetic studies have shown that it is the sister taxon to Mergus and Lophodytes. The smew has hybridised with the common goldeneye.",
+   "fulltext_chars": 4095
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Smew_RWD1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3290,
+  "height": 2468,
+  "file": "Smew_RWD1.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Smew_RWD1.jpg/1920px-Smew_RWD1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "DickDaniels  (http://theworldbirds.org/)",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Smew_RWD1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0669,
+  "cities": {
+   "Le Mans": 0.035,
+   "Pornic": 0.021,
+   "Rennes": 0.021,
+   "Poitiers": 0.035,
+   "Paris": 0.055,
+   "Lille": 0.067,
+   "Strasbourg": 0.048,
+   "Lyon": 0.03,
+   "Grenoble": 0.024,
+   "Marseille": 0.027,
+   "Toulouse": 0.023,
+   "Bordeaux": 0.023,
+   "Ajaccio": 0.053,
+   "Clermont-Ferrand": 0.032,
+   "Chamonix": 0.029,
+   "Perpignan": 0.025,
+   "Nancy": 0.051
+  },
+  "monthly_scores": [
+   0.0598,
+   0.0669,
+   0.0546,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0161,
+   0.0465,
+   0.0531
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:22Z"
+}

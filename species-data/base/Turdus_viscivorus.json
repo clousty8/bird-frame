@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Turdus viscivorus",
+ "common_name_fr": "Grive draine",
+ "birdnet_label": "Turdus viscivorus_Grive draine",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Turdidae",
+  "family_common": "Thrushes and Allies",
+  "genus": "Turdus",
+  "species": "Turdus viscivorus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grive draine",
+   "url": "https://fr.wikipedia.org/wiki/Grive_draine",
+   "description": "espèce d'oiseaux passériformes de la famille des turdidae",
+   "extract": "La Grive draine est une espèce de passereaux appartenant à la famille des Turdidae.",
+   "fulltext_chars": 5131
+  },
+  "en": {
+   "title": "Mistle thrush",
+   "url": "https://en.wikipedia.org/wiki/Mistle_thrush",
+   "description": "Bird in the family Turdidae from Europe, Asia and North Africa",
+   "extract": "The mistle thrush is a bird common to much of Europe, temperate Asia and North Africa. It is a year-round resident in a large part of its range, but northern and eastern populations migrate south for the winter, often in small flocks. It is a large thrush with pale grey-brown upper parts, a greyish-white chin and throat, and black spots on its pale yellow and off-white under parts. The sexes are similar in plumage, and its three subspecies show only minimal differences. The male has a loud, far-carrying song which is delivered even in wet and windy weather, earning the bird the old name of stormcock. Historically, the name was also sometimes spelled \"missel thrush\".",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Turdus_viscivorus_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 400,
+  "height": 330,
+  "file": "Turdus_viscivorus_1.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/24/Turdus_viscivorus_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Neil Phillips from uk",
+  "credit": "mistle thrush",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Turdus_viscivorus_1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3411,
+  "cities": {
+   "Le Mans": 0.258,
+   "Pornic": 0.248,
+   "Rennes": 0.26,
+   "Poitiers": 0.273,
+   "Paris": 0.249,
+   "Lille": 0.208,
+   "Strasbourg": 0.243,
+   "Lyon": 0.317,
+   "Grenoble": 0.304,
+   "Marseille": 0.272,
+   "Toulouse": 0.331,
+   "Bordeaux": 0.285,
+   "Brest": 0.26,
+   "Ajaccio": 0.341,
+   "Clermont-Ferrand": 0.316,
+   "Chamonix": 0.302,
+   "Perpignan": 0.315,
+   "Nancy": 0.249
+  },
+  "monthly_scores": [
+   0.3267,
+   0.3306,
+   0.3064,
+   0.2991,
+   0.285,
+   0.2995,
+   0.2406,
+   0.136,
+   0.1455,
+   0.2857,
+   0.3232,
+   0.3411
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:36Z"
+}

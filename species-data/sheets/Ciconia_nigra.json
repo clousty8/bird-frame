@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Ciconia nigra",
+ "summary_fr": "La Cigogne noire est un grand échassier au plumage noir lustré de reflets verts et violets, contrastant avec un ventre et des sous-caudales d'un blanc pur ; ses longues pattes et son bec effilé, tous deux rouge vif, achèvent une silhouette élégante bien différente de sa cousine la Cigogne blanche, plus familière des villages et des toits. Farouche et solitaire, elle fuit le voisinage humain et niche haut dans de vieux arbres ou sur des falaises, toujours à proximité de forêts humides, d'étangs ou de rivières où elle chasse à l'affût grenouilles, poissons et insectes, parfois en ombrageant l'eau de ses ailes pour mieux repérer ses proies. Disparue de France comme nicheuse pendant des décennies, elle y est revenue dans les années 1970 et compte aujourd'hui plusieurs dizaines de couples, surtout dans l'est et le centre du pays. Les oiseaux européens migrent vers l'Afrique subsaharienne en passant par les grands détroits, avec des pics de passage marqués en fin d'été et au début du printemps, ce qui en fait l'un des meilleurs moments pour espérer un contact acoustique avec son cri caractéristique, un « chee-leee » sifflant qui porte loin.",
+ "habitat": "Forêts anciennes avec grands arbres surplombant zones humides, étangs, rivières et marais ; en France surtout dans l'est, le centre et le sud-ouest, du bocage aux massifs montagneux.",
+ "diet": "Amphibiens (grenouilles, têtards), petits poissons et insectes aquatiques, capturés à l'affût en eau peu profonde ; occasionnellement petits reptiles, crustacés et mammifères.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Hiverne majoritairement en Afrique subsaharienne ; de rares individus, surtout ibériques, restent sur place ou stationnent exceptionnellement en France en hiver.",
+  "niche": "Niche en France depuis son retour dans les années 1970, dans une trentaine de départements (surtout est, centre, sud-ouest) ; environ 75 couples recensés en 2022, population en hausse.",
+  "passage": "Passages migratoires marqués d'août à septembre, puis retour en mars."
+ },
+ "seasonality_fr": "Présente toute l'année en faible nombre : nicheurs d'avril à août, forts passages migratoires en mars et août-septembre, hivernage exceptionnel.",
+ "song_fr": "Cri principal un « chee-leee » sifflant proche d'une inspiration forte ; sifflement de menace ; claquements de bec plus rares et moins sonores que chez la Cigogne blanche.",
+ "lookalikes": [
+  {
+   "scientific_name": "Ciconia ciconia",
+   "common_name_fr": "Cigogne blanche",
+   "why_fr": "Même taille et silhouette générale, mais plumage blanc et noir contrasté et cris différents ; possible confusion en vol silhouetté ou en cas d'enregistrement de mauvaise qualité."
+  },
+  {
+   "scientific_name": "Grus grus",
+   "common_name_fr": "Grue cendrée",
+   "why_fr": "Taille et silhouette en vol comparables ; cris différents mais parfois confondus par BirdNET sur des enregistrements lointains ou bruités."
+  },
+  {
+   "scientific_name": "Ardea cinerea",
+   "common_name_fr": "Héron cendré",
+   "why_fr": "Grand échassier gris fréquentant les mêmes zones humides et pratiquant la même chasse à l'affût ; silhouette en vol proche à distance."
+  }
+ ],
+ "rarity_note": "Espèce discrète mais en expansion en France (environ 75 couples nicheurs en 2022, présente dans une trentaine de départements) ; détections BirdNET rares, plus fréquentes lors des passages migratoires.",
+ "fun_facts": [
+  "Contrairement à la Cigogne blanche, sociable et nichant près des habitations, la Cigogne noire est farouche et solitaire, fuyant tout contact avec l'homme.",
+  "Elle a été observée ombrageant l'eau de ses ailes déployées pour mieux repérer poissons et grenouilles, une technique de pêche originale.",
+  "Disparue de France comme nicheuse pendant des décennies, elle y est revenue dans les années 1970 et niche aujourd'hui dans une trentaine de départements."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Cigogne_noire",
+  "https://en.wikipedia.org/wiki/Black_stork",
+  "https://www.lpo.fr/decouvrir-la-nature/fiches-especes/fiches-especes/oiseaux/cigogne-noire"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Oenanthe melanoleuca",
+ "common_name_fr": "Traquet noir et blanc",
+ "birdnet_label": "Oenanthe melanoleuca_Traquet noir et blanc",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Muscicapidae",
+  "family_common": "Old World Flycatchers",
+  "genus": "Oenanthe",
+  "species": "Oenanthe melanoleuca"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Traquet noir et blanc",
+   "url": "https://fr.wikipedia.org/wiki/Traquet_noir_et_blanc",
+   "description": null,
+   "extract": "Le Traquet noir et blanc est une espèce de passereaux de la famille des Muscicapidae.",
+   "fulltext_chars": 1387
+  },
+  "en": {
+   "title": "Eastern black-eared wheatear",
+   "url": "https://en.wikipedia.org/wiki/Eastern_black-eared_wheatear",
+   "description": "Species of bird",
+   "extract": "The eastern black-eared wheatear is a wheatear, a small migratory passerine bird that was formerly classed as a member of the thrush family Turdidae, but is now considered to be an Old World flycatcher. It was formerly considered conspecific with the western black-eared wheatear.",
+   "fulltext_chars": 2370
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Oostelijke-blonde-tapuit-3-2_%2828541306412%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 533,
+  "file": "Oostelijke-blonde-tapuit-3-2_(28541306412).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Oostelijke-blonde-tapuit-3-2_%2828541306412%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "yves hoebeke",
+  "credit": "oostelijke-blonde-tapuit-3-2.jpg",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Oostelijke-blonde-tapuit-3-2_(28541306412).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0204,
+  "cities": {
+   "Ajaccio": 0.02
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0187,
+   0.0176,
+   0.0159,
+   0.0172,
+   0.0204,
+   0.0196,
+   0.0121,
+   0.0136,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:25Z"
+}

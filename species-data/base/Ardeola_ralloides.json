@@ -1,0 +1,80 @@
+{
+ "scientific_name": "Ardeola ralloides",
+ "common_name_fr": "Crabier chevelu",
+ "birdnet_label": "Ardeola ralloides_Crabier chevelu",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Pelecaniformes",
+  "family": "Ardeidae",
+  "family_common": "Herons, Egrets, and Bitterns",
+  "genus": "Ardeola",
+  "species": "Ardeola ralloides"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Crabier chevelu",
+   "url": "https://fr.wikipedia.org/wiki/Crabier_chevelu",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Crabier chevelu ou héron crabier, est une espèce d'oiseaux échassiers de taille moyenne de la famille des Ardeidae.",
+   "fulltext_chars": 3626
+  },
+  "en": {
+   "title": "Squacco heron",
+   "url": "https://en.wikipedia.org/wiki/Squacco_heron",
+   "description": "Species of bird",
+   "extract": "The squacco heron is a small heron, 44–47 cm long, of which the body is 20–23 cm (8–9 in), with 80–92 cm wingspan. It is of Old World origins, breeding in southern Europe and the Greater Middle East.",
+   "fulltext_chars": 2316
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ardeola_ralloides_in_Ari%C3%A8ge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1956,
+  "height": 1304,
+  "file": "Ardeola_ralloides_in_Ariège.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Ardeola_ralloides_in_Ari%C3%A8ge.jpg/1920px-Ardeola_ralloides_in_Ari%C3%A8ge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Pierre Dalous\n\n\nCamera location43° 15′ 38.8″ N, 1° 39′ 44.7″ E View this and other nearby images on: OpenStreetMap 43.260778;    1.662417",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Ardeola_ralloides_in_Ari%C3%A8ge.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1647,
+  "cities": {
+   "Grenoble": 0.013,
+   "Marseille": 0.038,
+   "Toulouse": 0.015,
+   "Ajaccio": 0.165,
+   "Perpignan": 0.028
+  },
+  "monthly_scores": [
+   0.0399,
+   0.0401,
+   0.0914,
+   0.1647,
+   0.1618,
+   0.1454,
+   0.136,
+   0.1386,
+   0.1124,
+   0.0737,
+   0.0413,
+   0.0421
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:28Z"
+}

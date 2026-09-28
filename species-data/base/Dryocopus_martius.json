@@ -1,0 +1,96 @@
+{
+ "scientific_name": "Dryocopus martius",
+ "common_name_fr": "Pic noir",
+ "birdnet_label": "Dryocopus martius_Pic noir",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Piciformes",
+  "family": "Picidae",
+  "family_common": "Woodpeckers",
+  "genus": "Dryocopus",
+  "species": "Dryocopus martius"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pic noir",
+   "url": "https://fr.wikipedia.org/wiki/Pic_noir",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pic noir est une espèce d'oiseaux de la famille des Picidae. C'est la plus grande des espèces de pics européens.",
+   "fulltext_chars": 8619
+  },
+  "en": {
+   "title": "Black woodpecker",
+   "url": "https://en.wikipedia.org/wiki/Black_woodpecker",
+   "description": "Species of woodpecker",
+   "extract": "The black woodpecker is a large woodpecker that lives in mature forests across the northern Palearctic. It is the sole representative of its genus in that region, and its range is expanding. The black woodpecker is easily the largest woodpecker species in Europe as well as in the portion of Asia where it lives and is one of the largest species worldwide. This non-migratory species tends to make its home in old-growth forest or large forest stands and excavates a large tree hole to reside in. In turn, several species rely on black woodpeckers to secondarily reside in the holes made in trees by them. This woodpecker's diet consists mostly of carpenter ants. This species is closely related to, and fills the same ecological niche in Europe as, the pileated woodpecker of North America and the lineated woodpecker of South America, also being similar to the white-bellied woodpecker which is distributed to the south somewhat of the black woodpecker in Asia.",
+   "fulltext_chars": 8559
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Black_woodpecker_%28Dryocopus_martius%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1067,
+  "height": 1213,
+  "file": "Black_woodpecker_(Dryocopus_martius).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Black_woodpecker_%28Dryocopus_martius%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Clément Bardot",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Black_woodpecker_(Dryocopus_martius).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1516,
+  "cities": {
+   "Le Mans": 0.052,
+   "Pornic": 0.031,
+   "Rennes": 0.022,
+   "Poitiers": 0.077,
+   "Paris": 0.069,
+   "Lille": 0.059,
+   "Strasbourg": 0.152,
+   "Lyon": 0.145,
+   "Grenoble": 0.129,
+   "Marseille": 0.078,
+   "Toulouse": 0.126,
+   "Bordeaux": 0.122,
+   "Ajaccio": 0.039,
+   "Clermont-Ferrand": 0.142,
+   "Chamonix": 0.128,
+   "Perpignan": 0.071,
+   "Nancy": 0.118
+  },
+  "monthly_scores": [
+   0.1177,
+   0.1061,
+   0.126,
+   0.1516,
+   0.1161,
+   0.1124,
+   0.1179,
+   0.1267,
+   0.135,
+   0.1465,
+   0.1277,
+   0.1226
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:31Z"
+}

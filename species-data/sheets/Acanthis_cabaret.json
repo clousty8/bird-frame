@@ -1,0 +1,33 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Acanthis cabaret",
+ "summary_fr": "Le Sizerin cabaret est un petit passereau granivore de la famille des fringillidés, autrefois considéré comme une sous-espèce du Sizerin flammé. Petit oiseau de 11 à 14 centimètres, il affiche un plumage gris-brun tacheté, caractérisé par une tache rouge vif sur le front et, chez les mâles, une poitrine souvent teintée de rouge. Son habitat favori reste les bois clairs de bouleaux et de mélèzes du Paléarctique tempéré occidental et central. Oiseau partiellement migrateur, il niche dans les régions nordiques et hivernise en France où il visite les jardins et les bois, recherchant graines de bouleau, d'aulne et autres menues graines. Acrobate agile aux rameaux, il se suspend la tête en bas comme les autres petits fringilles pour atteindre les graines des chardons. Son apparence délicate en fait un hôte apprécié des observateurs, bien que moins connu que le Chardonneret.",
+ "habitat": "Bois clairs de bouleaux et mélèzes, fourrés et jardins arborés, à basse altitude en hiver.",
+ "diet": "Graines minuscules de bouleau, d'aulne et de chardon ; en période de reproduction, quelques petits invertébrés.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Dans l'ensemble de la France, particulièrement au sud, parfois jusqu'en février-mars.",
+  "niche": "Régions nordiques du Paléarctique, rarement en France continentale bien qu'irrégulier dans l'est.",
+  "passage": "Passages marqués de septembre à novembre et de février à avril."
+ },
+ "seasonality_fr": "Visible principalement en automne et en hiver en France, avec quelques mouvements printaniers. Moins commun à la belle saison.",
+ "song_fr": "Chant joyeux et rapide, sorte de gazouillis trisyllabique rappelant celui du Tarin des aulnes. Cri d'appel « chu-chu » mélodieux et répété en vol.",
+ "lookalikes": [
+  {"scientific_name": "Acanthis flammea", "common_name_fr": "Sizerin flammé", "why_fr": "Très proche, taille identique, tous deux sont des sizeríns. Chants très similaires, différence visible surtout sur les taches sus-caudales."},
+  {"scientific_name": "Linaria cannabina", "common_name_fr": "Linotte mélodieuse", "why_fr": "Finch de taille comparable, chant gazouillis et joyeux similaire. Habitats parfois proches en hiver."},
+  {"scientific_name": "Serinus serinus", "common_name_fr": "Serin cini", "why_fr": "Petit finch, chant très différent mais confusions possibles sur des fragments sonores."}
+ ],
+ "rarity_note": "Hivernant irrégulier en France, plutôt rare et capricieux selon les années. Présence liée aux hivers difficiles au nord.",
+ "fun_facts": [
+  "Le Sizerin cabaret doit son nom anglais à la tache carmin du front, rappelant un point rouge sur le visage.",
+  "C'est un acrobate au rameau : comme la plupart des petits fringilles, il se suspend la tête en bas pour atteindre les graines des chardons."
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Redpoll",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

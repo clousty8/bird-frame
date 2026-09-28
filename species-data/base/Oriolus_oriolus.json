@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Oriolus oriolus",
+ "common_name_fr": "Loriot d'Europe",
+ "birdnet_label": "Oriolus oriolus_Loriot d'Europe",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Oriolidae",
+  "family_common": "Old World Orioles",
+  "genus": "Oriolus",
+  "species": "Oriolus oriolus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Loriot d'Europe",
+   "url": "https://fr.wikipedia.org/wiki/Loriot_d'Europe",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Loriot d'Europe est une espèce de passereaux entièrement migratrice de la famille des Oriolidae, réputée pour sa couleur et son chant.",
+   "fulltext_chars": 6763
+  },
+  "en": {
+   "title": "Eurasian golden oriole",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_golden_oriole",
+   "description": "Species of bird",
+   "extract": "The Eurasian golden oriole, also known as the common golden oriole, is a species of passerine bird, measuring approximately 24cm in length with a wingspan of 44-45cm, and the only Old World oriole breeding in Northern Hemisphere temperate regions. It is a summer migrant in Europe and the Palearctic and spends the winter season in central and southern Africa.",
+   "fulltext_chars": 6169
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Goldenoriole26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2628,
+  "height": 3788,
+  "file": "Goldenoriole26.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Goldenoriole26.jpg/1920px-Goldenoriole26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Johann Friedrich Naumann / Franz Eugen Köhler",
+  "credit": "Naumann, Natural history of the birds of central Europe, 3rd Ed. Revised by G. Berg et al.; Edited by Carl R. Hennicke. Volume 4, Plate 5. https://archive.org/details/mobot31753003759294/page/n51/mode/2up",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Goldenoriole26.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3425,
+  "cities": {
+   "Le Mans": 0.109,
+   "Pornic": 0.082,
+   "Rennes": 0.054,
+   "Poitiers": 0.17,
+   "Paris": 0.111,
+   "Lille": 0.058,
+   "Strasbourg": 0.237,
+   "Lyon": 0.28,
+   "Grenoble": 0.293,
+   "Marseille": 0.29,
+   "Toulouse": 0.343,
+   "Bordeaux": 0.279,
+   "Brest": 0.011,
+   "Ajaccio": 0.325,
+   "Clermont-Ferrand": 0.274,
+   "Chamonix": 0.254,
+   "Perpignan": 0.295,
+   "Nancy": 0.185
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0233,
+   0.171,
+   0.3425,
+   0.3096,
+   0.2517,
+   0.2159,
+   0.0819,
+   0.02,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:35Z"
+}

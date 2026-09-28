@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "scientific_name": "Coracias garrulus",
+  "summary_fr": "Le Rollier d'Europe est la seule espèce de la famille des coraciidés à se reproduire en Europe. Spectaculaire avec ses plumages turquoise et son dos orange-brun, cet oiseau de taille moyenne capture les insectes depuis un perchoir bien en vue, avant de se lancer dans des piqués de chasse acrobatiques. Son nom anglais « roller » vient justement de ces tonneaux aériens impressionnants. Migrateur longue distance, il niche de avril à juillet en milieux ouverts avec arbres épars, puis s'envole vers l'Afrique subsaharienne pour l'hiver. En France, sa présence est très localisée et saisonnière, cantonnée aux régions méridionales durant la belle saison. Peu connu du grand public, le Rollier n'en reste pas moins une espèce remarquable avec sa robe brillante et ses comportements spectaculaires.",
+  "habitat": "Milieux ouverts variés avec vergers, bois clairs, buissons et friches herbeuses ; préfère les régions chaudes et sèches avec arbres épars pour la chasse et la nidification.",
+  "diet": "Gros insectes capturés en vol ou saisis au sol après un piqué : coléoptères, sauterelles, libellules, petits reptiles, lézards, petits rongeurs et batraciens.",
+  "activity_pattern": "diurne",
+  "migration": {
+    "statut": "migrateur",
+    "hiverne": "Afrique subsaharienne, surtout en savanes sèches boisées et broussailles du sud, depuis l'Angola à la Zambie et au-delà.",
+    "niche": "Régions méditerranéennes et sud-ouest de la France, avril à juillet ; reproduction impossible au nord de la France.",
+    "passage": "Traversées migratoires en mars-avril (printemps) et août-septembre (automne), surtout sur le pourtour méditerranéen."
+  },
+  "seasonality_fr": "Présent en France uniquement d'avril à octobre, avec pics en mai et septembre lors des passages. Absent en hiver car migrateur complet vers l'Afrique.",
+  "song_fr": "Appel caractéristique rauque et corbeau-like, séries de cris perçants et répétés surtout en alarme. Vocalises peu mélodieuses comparées aux passereaux, mais très distinctives.",
+  "lookalikes": [
+    {
+      "scientific_name": "Corvus corone",
+      "common_name_fr": "Corneille noire",
+      "why_fr": "Cris rauques et corbeau-like similaires, risque de confusion acoustique surtout en migration."
+    },
+    {
+      "scientific_name": "Garrulus glandarius",
+      "common_name_fr": "Geai des chênes",
+      "why_fr": "Appels durs et perçants, timbre rauque pouvant s'apparenter aux cris du rollier."
+    }
+  ],
+  "rarity_note": "Espèce rare et localisée en France, surtout en région méditerranéenne. Présence très irrégulière, jamais commune, avec déclin à long terme en Europe du Nord.",
+  "fun_facts": [
+    "Le Rollier effectue des tonneaux aériens spectaculaires lors du vol, d'où son nom anglais « roller ».",
+    "Il niche volontiers dans des nichoirs adaptés et peut devenir fidèle à un site de reproduction année après année.",
+    "Protégé intégralement en France depuis 1981, il bénéficie d'un statut de conservation prioritaire en raison de son déclin."
+  ],
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Rollier_d'Europe",
+    "https://en.wikipedia.org/wiki/European_roller",
+    "https://www.oiseaux.net/coracias.garrulus.html"
+  ],
+  "generated_at": "2026-09-27T17:00:00Z",
+  "generator_model": "claude-haiku-4-5"
+}

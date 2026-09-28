@@ -1,0 +1,78 @@
+{
+ "scientific_name": "Bubo bubo",
+ "common_name_fr": "Grand-duc d'Europe",
+ "birdnet_label": "Bubo bubo_Grand-duc d'Europe",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Strigiformes",
+  "family": "Strigidae",
+  "family_common": "Owls",
+  "genus": "Bubo",
+  "species": "Bubo bubo"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Hibou grand-duc",
+   "url": "https://fr.wikipedia.org/wiki/Hibou_grand-duc",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Hibou grand-duc, également appelé Grand-duc d'Europe, est une espèce de rapaces nocturnes qui vit dans une grande partie de l'Europe et de l'Asie.",
+   "fulltext_chars": 13043
+  },
+  "en": {
+   "title": "Eurasian eagle-owl",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_eagle-owl",
+   "description": "Species of owl",
+   "extract": "The Eurasian eagle-owl is a species of eagle-owl, a type of bird that resides much over Eurasia. It is often just called the eagle-owl in Europe and Asia.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bubo_bubo_1_%28Martin_Mecnarowski%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 559,
+  "height": 798,
+  "file": "Bubo_bubo_1_(Martin_Mecnarowski).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bubo_bubo_1_%28Martin_Mecnarowski%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Martin Mecnarowski (http://www.photomecan.eu/)",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Bubo_bubo_1_(Martin_Mecnarowski).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0538,
+  "cities": {
+   "Poitiers": 0.01,
+   "Lyon": 0.02,
+   "Grenoble": 0.027,
+   "Marseille": 0.031,
+   "Toulouse": 0.03,
+   "Bordeaux": 0.02,
+   "Ajaccio": 0.054,
+   "Clermont-Ferrand": 0.019,
+   "Chamonix": 0.017,
+   "Perpignan": 0.032
+  },
+  "monthly_scores": [
+   0.0499,
+   0.0538,
+   0.0433,
+   0.0156,
+   0.0106,
+   0.013,
+   0.0183,
+   0.0164,
+   0.0112,
+   0.0198,
+   0.0457,
+   0.0495
+  ],
+  "months": [
+   2
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:43Z"
+}

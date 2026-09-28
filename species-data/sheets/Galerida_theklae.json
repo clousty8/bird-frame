@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Galerida theklae",
+ "summary_fr": "Le Cochevis de Thékla est une petite alouette méditerranéenne dont l'aire de répartition s'étend du sud de la péninsule Ibérique jusqu'aux plateaux d'Afrique de l'Est, au Kenya. En France, cette espèce sédentaire reste cantonnée aux Pyrénées-Orientales et à l'Aude, où subsistent environ 400 couples, l'essentiel dans la zone protégée des Basses Corbières. Morphologiquement très proche du Cochevis huppé, il s'en distingue surtout à l'oreille : son chant est plus doux et plus mélodieux, tissé de sifflements mélancoliques et d'imitations variées. En vol, la différence saute aussi aux yeux, le dessous des ailes étant grisâtre chez le Thékla contre rougeâtre chez le huppé. Il affectionne les milieux arides et semi-arides : maquis, pentes rocailleuses et prairies clairsemées piquetées de buissons bas. Il niche au sol entre avril et mai, avec une ponte de trois à six œufs souvent indiscernables de ceux du huppé là où les deux espèces cohabitent. Son régime alimentaire associe graines, herbes et insectes, ces derniers devenant prépondérants pendant la reproduction. Sa présence méridionale régulière en fait une espèce acoustiquement plausible en zone méditerranéenne, surtout au printemps.",
+ "habitat": "Zones arides et semi-arides : maquis, pentes rocailleuses et prairies clairsemées piquetées de buissons bas.",
+ "diet": "Graines, herbes et insectes, ces derniers devenant prépondérants durant la période de reproduction.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Toute l'année sur son aire française, essentiellement les Pyrénées-Orientales et l'Aude.",
+  "niche": "Pyrénées-Orientales et Aude, d'avril à juillet, en général une seule couvée.",
+  "passage": null
+ },
+ "seasonality_fr": "Présent toute l'année dans ses secteurs français, avec un pic d'activité chanteuse d'avril à mai.",
+ "song_fr": "Chant varié et mélodieux, plus doux que celui du Cochevis huppé, mêlant sifflements mélancoliques et imitations ; peut chanter en vol, au sol ou depuis un perchoir exposé.",
+ "lookalikes": [
+  {
+   "scientific_name": "Galerida cristata",
+   "common_name_fr": "Cochevis huppé",
+   "why_fr": "Très proche morphologiquement ; chant plus rêche chez le huppé, et dessous d'aile rougeâtre au lieu de grisâtre chez le Thékla."
+  },
+  {
+   "scientific_name": "Calandrella brachydactyla",
+   "common_name_fr": "Alouette calandrelle",
+   "why_fr": "Autre petite alouette des milieux ouverts et secs ; chant différent mais confusion possible pour une oreille non exercée."
+  },
+  {
+   "scientific_name": "Alauda arvensis",
+   "common_name_fr": "Alouette des champs",
+   "why_fr": "Partage des habitats ouverts similaires ; chant nettement plus puissant et continu, moins mélancolique."
+  }
+ ],
+ "rarity_note": "Rare et très localisée en France métropolitaine, cantonnée aux Pyrénées-Orientales et à l'Aude avec environ 400 couples, mais observée régulièrement dans ce secteur.",
+ "fun_facts": [
+  "Présent dans le Roussillon depuis des siècles, le Thékla reste pourtant méconnu de nombreux ornithologues en raison de son aire française restreinte.",
+  "L'espèce doit son nom à l'ornithologue allemand Christian Ludwig Brehm, qui l'a décrite en 1857 en hommage à sa fille Thekla, décédée la même année."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Cochevis_de_Th%C3%A9kla",
+  "https://en.wikipedia.org/wiki/Thekla's_lark",
+  "https://www.oiseaux.net/fiches/cochevis.de.thekla.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

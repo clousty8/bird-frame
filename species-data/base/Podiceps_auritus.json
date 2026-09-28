@@ -1,0 +1,89 @@
+{
+ "scientific_name": "Podiceps auritus",
+ "common_name_fr": "Grèbe esclavon",
+ "birdnet_label": "Podiceps auritus_Grèbe esclavon",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Podicipediformes",
+  "family": "Podicipedidae",
+  "family_common": "Grebes",
+  "genus": "Podiceps",
+  "species": "Podiceps auritus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grèbe esclavon",
+   "url": "https://fr.wikipedia.org/wiki/Gr%C3%A8be_esclavon",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Grèbe esclavon, aussi appelé Grèbe cornu ou Grèbe oreillard, est une espèce d'oiseaux de la famille des Podicipedidae. En plumage internuptial, il est souvent confondu avec le Grèbe à cou noir. Cet oiseau est protégé en Europe.",
+   "fulltext_chars": 11749
+  },
+  "en": {
+   "title": "Horned grebe",
+   "url": "https://en.wikipedia.org/wiki/Horned_grebe",
+   "description": "Species of bird",
+   "extract": "The horned grebe or Slavonian grebe is a relatively small and threatened species of waterbird in the family Podicipedidae. There are two subspecies, P. a. auritus, which breeds in Eurasia, and P. a. cornutus, which breeds in North America. The Eurasian subspecies is distributed over most of northern Europe and northern Asia, breeding from Iceland east to the Russian Far East. The North American subspecies spans most of Canada and some of the United States. A small population was cited in Greenland in 1973, but is not mapped or further mentioned by subsequent authors.",
+   "fulltext_chars": 10262
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Podiceps_auritus_%2813909575538%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2829,
+  "height": 2047,
+  "file": "Podiceps_auritus_(13909575538)_(cropped).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Podiceps_auritus_%2813909575538%29_%28cropped%29.jpg/1920px-Podiceps_auritus_%2813909575538%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Ekaterina Chernetsova (Papchinskaya) from Saint-Petersburg, Russia",
+  "credit": "Podiceps auritus",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Podiceps_auritus_(13909575538)_(cropped).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0794,
+  "cities": {
+   "Le Mans": 0.018,
+   "Pornic": 0.017,
+   "Rennes": 0.017,
+   "Poitiers": 0.022,
+   "Paris": 0.02,
+   "Lille": 0.019,
+   "Strasbourg": 0.025,
+   "Lyon": 0.033,
+   "Grenoble": 0.033,
+   "Marseille": 0.032,
+   "Toulouse": 0.024,
+   "Bordeaux": 0.019,
+   "Brest": 0.017,
+   "Ajaccio": 0.079,
+   "Clermont-Ferrand": 0.031,
+   "Chamonix": 0.033,
+   "Perpignan": 0.027,
+   "Nancy": 0.022
+  },
+  "monthly_scores": [
+   0.0794,
+   0.0704,
+   0.0467,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0231,
+   0.0714,
+   0.0793
+  ],
+  "months": [
+   1,
+   2,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:19Z"
+}

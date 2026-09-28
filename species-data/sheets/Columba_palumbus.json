@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Columba palumbus",
+ "summary_fr": "Le Pigeon ramier est le plus grand pigeon européen et le plus commun en France, où il colonise rapidement les villes depuis quelques décennies. Cet oiseau gris-bleu au plastron rosé et au collier blanc caractéristique est extrêmement grégaire hors de la saison de reproduction, formant des dortoirs géants pouvant rassembler des milliers d'individus. Parfaitement adapté à la vie urbaine comme aux boisements ruraux, il se nourrit au sol de graines et de matière végétale, acceptant généreusement les miettes des jardins publics. Ses roucoulements distinctifs et mélancoliques résonnent dès la fin de février quand les mâles défendent farouchement leur territoire, et la reproduction s'étend de mars à juillet. Réputé nuisible pour les cultures, il subit une pression de chasse importante sans que cela n'affecte vraiment ses effectifs florissants.",
+ "habitat": "Boisements, parcs, jardins arborés, zones urbaines et rurales. S'adapte aussi aux peupleraies et zones cultivées.",
+ "diet": "Matière végétale : feuilles vertes, graines de céréales, baies, bourgeons. Occasionnellement petits invertébrés.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France et Europe occidentale, où les oiseaux locaux sont renforcés par des hivernants venus du nord.",
+  "niche": "Partout en France de février à octobre ; plusieurs nichées entre mars et juillet, jusqu'à 6 par an dans les zones chaudes.",
+  "passage": "Passages marqués en février-mars et septembre-octobre avec flux en provenance d'Europe du Nord et de l'Est."
+ },
+ "seasonality_fr": "Visible toute l'année en France, avec pics en hiver quand les dortoirs se gonflent d'oiseaux migrateurs. Audible dès la fin février lors de la défense territoriale.",
+ "song_fr": "Roucoulement caractéristique et monotone en cinq syllabes, souvent interprété en anglais comme « take two cows, Taffy ». Cri d'alarme sec moins distinctif.",
+ "lookalikes": [
+  {
+   "scientific_name": "Columba oenas",
+   "common_name_fr": "Pigeon colombin",
+   "why_fr": "Roucoulement similaire mais plus doux et moins guttural, plus rare en milieu urbain."
+  },
+  {
+   "scientific_name": "Columba livia",
+   "common_name_fr": "Pigeon biset",
+   "why_fr": "Cohabite en ville mais voix très différente, plus rauque ; taille et couleur aussi distinctes."
+  }
+ ],
+ "rarity_note": "Très commun partout en France toute l'année, en expansion constante surtout en milieu urbain. Effectifs stables ou croissants malgré une pression de chasse intense.",
+ "fun_facts": [
+  "Les effectifs du Pigeon ramier à Paris ont doublé entre 2001 et 2021, colonisant systématiquement les grandes villes.",
+  "Il produit un « lait de jabot » riche en protéines pour nourrir ses jeunes, similaire au lait des mammifères.",
+  "Les couples peuvent revenir nicher au même nid pendant des dizaines d'années, de génération en génération."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pigeon_ramier",
+  "https://en.wikipedia.org/wiki/Common_wood_pigeon",
+  "https://www.oiseaux.net/fiches/pigeon.ramier.html",
+  "https://www.lpo.fr/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

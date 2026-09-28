@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Cinclus cinclus",
+ "summary_fr": "Le Cincle plongeur est un petit passereau trapu vivant près des cours d'eau rapides et froids des régions montagneuses. Doté d'un plumage brun foncé à noir avec la gorge et la poitrine blanches et le ventre roux, il se distingue par un comportement aquatique très spécialisé. Contrairement aux autres passereaux, il se propulse sous l'eau comme s'il volait, en utilisant ses ailes pour marcher sur le fond contre le courant, où il capture des larves d'insectes aquatiques, de petits crustacés et des alevins. Ses yeux protégés par des membranes lui permettent de voir sous l'eau. Territorial et monogame, il construit un nid dôme fait de mousse près de l'eau et élève généralement deux nichées par an. Son allure caractéristique de bobine sur les rochers et ses cris métalliques le rendent aisément reconnaissable le long des torrents de montagne.",
+ "habitat": "Rivières et torrents rapides, oxygénés et au lit caillouteux des régions montagneuses : Pyrénées, Alpes, Corse, Jura. Aussi en Massif Central et résiduel en Bretagne. Altitude jusqu'à 2200 m.",
+ "diet": "Insectes aquatiques (larves de phryganes, éphémères), petits crustacés (amphipodes), mollusques, petits poissons et larves. Capture aussi des invertébrés terrestres sur les berges.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Eaux courantes non gelées de montagne basse et moyenne; descend vers les basses vallées et côtes quand ses torrents de montagne gèlent.",
+  "niche": "Mêmes torrents et rivières rapides de montagne, reproduction de février à avril avec généralement deux nichées.",
+  "passage": null
+ },
+ "seasonality_fr": "Présent toute l'année près des cours d'eau rapides non gelés. Plus visible en été quand les niveaux d'eau baissent. En hiver, concentration en basse montagne et basses vallées.",
+ "song_fr": "Chant fluide et mélodieux ressemblant à celui du troglodyte; sons sifflés, grinçants et gargouillants, durée souvent supérieure à 10 secondes. Cri sec et métallique « zil zil » en vol et lors des déplacements.",
+ "lookalikes": [
+  {
+   "scientific_name": "Troglodytes troglodytes",
+   "common_name_fr": "Troglodyte mignon",
+   "why_fr": "Chant fluide et grinçant de même tessiture; habite aussi près de l'eau mais taille plus petite et habitat différent."
+  }
+ ],
+ "rarity_note": "Localisé en France à ses habitats spécialisés de montagne. Rare ou absent des régions de plaines. Distribution fragmentée concentrée sur quelques chaînes montagneuses.",
+ "fun_facts": [
+  "Il vole littéralement sous l'eau, battant ses ailes pour « nager » sur le fond des torrents contre le courant.",
+  "C'est l'oiseau national de la Norvège depuis des siècles.",
+  "Il réutilise et améliore ses nids en forme de dôme d'année en année, au même endroit surplombant l'eau."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Cincle_plongeur",
+  "https://en.wikipedia.org/wiki/White-throated_dipper",
+  "https://www.oiseaux.net/oiseaux/cincle.plongeur.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

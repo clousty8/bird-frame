@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "scientific_name": "Branta leucopsis",
+  "summary_fr": "La Bernache nonnette est une oie arctique au plumage frappant : face et ventre blanc pur contrastant avec la tête, le cou et la poitrine noirs, comme encadrés d'un masque religieux. Plus petite que l'Oie cendrée, elle niche traditionnellement en Islande, au Groenland, à Svalbard et en Nouvelle-Zemble, se reproduisant sur les falaises rocheuses où les jeunes se lancent dans des sauts spectaculaires sans avoir maîtrisé le vol. Elle hiverne en Écosse, aux Pays-Bas et en Allemagne. En France, sa présence demeure accidentelle, limitée aux hivers rigoureux où elle peut errer jusqu'aux côtes atlantiques. Très sociale, elle se déplace en grands troupeaux. Longtemps entourée de légendes médiévales (on croyait qu'elle naissait de driftwood), cette espèce n'a rien de mystérieux : c'est un canard migrateur bien réel, aux populations en bonne santé.",
+  "habitat": "Toundra arctique pour la reproduction, falaises rocheuses ; en hiver et en passage, zones humides côtières, estuaires, prairies inondées et lacs peu profonds.",
+  "diet": "Principalement herbes et plantes aquatiques ; en hiver, algues, crustacés et petits invertébrés aquatiques quand la nourriture se fait rare.",
+  "activity_pattern": "diurne",
+  "migration": {
+    "statut": "de passage",
+    "hiverne": "Écosse (populations du Groenland et d'Islande), Solway Firth Angleterre/Écosse (population Svalbard), Wadden Sea Danemark/Allemagne/Pays-Bas (population Nouvelle-Zemble). Exceptionnellement en France lors d'hivers rigoureux.",
+    "niche": "Arctic : Groenland, Islande, Svalbard, Nouvelle-Zemble, régions arctiques côtières russes. Quelques cas de nidification historiques en France (Nord, Pas-de-Calais).",
+    "passage": "Passages en mars et d'octobre à novembre dans ses zones régulières ; en France, apparitions erratiques et imprévisibles durant les hivers rigoureux."
+  },
+  "seasonality_fr": "En France, présence surtout d'octobre à avril en fonction des conditions météorologiques hivernales. Visible exceptionnellement en printemps et automne. Absente en période estivale.",
+  "song_fr": "Cris nasaux et haut perchés, « honk » sec et répété, moins mélodieux que ceux de l'Oie cendrée. Conversations bruyantes au sein des troupes lors de vols ou repos.",
+  "lookalikes": [
+    {
+      "scientific_name": "Branta bernicla",
+      "common_name_fr": "Bernache cravant",
+      "why_fr": "Même genre Branta, plumage noir et blanc, mais ventre plus foncé et cravate blanche caractéristique au cou."
+    },
+    {
+      "scientific_name": "Anser anser",
+      "common_name_fr": "Oie cendrée",
+      "why_fr": "Taille similaire mais plumage gris-brun, cris plus graves et ronflants, moins contrastés que la nonnette."
+    },
+    {
+      "scientific_name": "Anser albifrons",
+      "common_name_fr": "Oie rieuse",
+      "why_fr": "Front blanc caractéristique et poitrine tachée, plumage brun-gris, cris plus mélodieux et rieurs."
+    }
+  ],
+  "rarity_note": "Très rare en France, présence accidentelle sauf lors d'hivers particulièrement rigoureux. Jamais commune hors de ses zones de reproduction et d'hivernage traditionnelles.",
+  "fun_facts": [
+    "Durant le Moyen Âge, on croyait que la Bernache nonnette naissait de barnacles (crustacés) attachés à des débris flottants : d'où son nom en anglais « barnacle goose ».",
+    "Les goslings se jettent de falaises de 200 à 300 mètres de haut sans savoir voler ; leur petit poids et leur léger duvet les protègent généralement des blessures.",
+    "Population mondiale estimée à environ 440 000 individus, répartie en cinq populations géographiquement distinctes avec des routes migratoires différentes."
+  ],
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Bernache_nonnette",
+    "https://en.wikipedia.org/wiki/Barnacle_goose",
+    "https://www.oiseaux.net/branta.leucopsis.html",
+    "https://www.inpn.mnhn.fr/espece/cd_nom/3996"
+  ],
+  "generated_at": "2026-09-27T17:00:00Z",
+  "generator_model": "claude-haiku-4-5"
+}

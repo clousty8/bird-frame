@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Calidris pugnax",
+ "summary_fr": "Le Combattant varié est un bécasseau de taille moyenne, célèbre pour le dimorphisme spectaculaire de ses mâles en plumage nuptial. Au printemps, ceux-ci arborent une collerette de plumes érectiles, des touffes céphaliques colorées et une peau faciale nue orangée, chaque individu portant un motif unique, tandis que les femelles, surnommées sottes en Picardie, gardent toute l'année un plumage gris-brun discret. Longtemps rangé parmi les chevaliers sous le nom de Chevalier combattant, il est aujourd'hui rattaché au genre Calidris, proche des bécasseaux. L'espèce niche dans les toundras et prairies humides du nord de l'Eurasie, de la Scandinavie à la Sibérie, et hiverne surtout en Afrique subsaharienne, où des effectifs considérables se rassemblent, notamment au Sénégal. En France, il apparaît essentiellement lors de ses longues migrations entre ces deux mondes, faisant halte dans les vasières côtières, les prairies inondées et les rives de plans d'eau pour reconstituer ses réserves ; quelques oiseaux, surtout des mâles, choisissent aussi d'hiverner sur le littoral atlantique. Sur ses sites de reproduction, les mâles se rassemblent en arènes appelées leks, où des combats symboliques rythment une parade nuptiale d'une remarquable complexité.",
+ "habitat": "Zones humides côtières et continentales : vasières intertidales, prairies humides inondées, tourbières et rives de plans d'eau, de préférence dans les secteurs dégagés.",
+ "diet": "Petits invertébrés : insectes (diptères, trichoptères, coléoptères), annélides, petits crustacés et mollusques, complétés par des graines et des algues.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Majoritairement en Afrique subsaharienne, notamment au Sénégal ; quelques individus, surtout des mâles, hivernent aussi sur le littoral atlantique français et ouest-européen.",
+  "niche": "Ne niche pas en France ; aire de reproduction du nord de l'Eurasie, de la Scandinavie à la Sibérie, dans les toundras et prairies humides.",
+  "passage": "Passages prénuptiaux en mars-avril et postnuptiaux d'août à octobre, avec un pic fin août-début septembre."
+ },
+ "seasonality_fr": "Observé surtout lors des migrations, de mars à avril puis d'août à octobre ; quelques individus se maintiennent en hiver sur le littoral atlantique.",
+ "song_fr": "Espèce le plus souvent silencieuse ; émet parfois de brefs cris en vol et un doux gue-gue-gue lors des parades sur les leks.",
+ "lookalikes": [
+  {
+   "scientific_name": "Calidris alpina",
+   "common_name_fr": "Bécasseau variable",
+   "why_fr": "Même habitat de vasières et cris de vol proches ; s'en distingue par une taille plus forte et un bec plus court."
+  },
+  {
+   "scientific_name": "Calidris minuta",
+   "common_name_fr": "Bécasseau minute",
+   "why_fr": "Bécasseau souvent grégaire au même endroit ; appels brefs pouvant se confondre, le Combattant étant nettement plus grand."
+  },
+  {
+   "scientific_name": "Tringa totanus",
+   "common_name_fr": "Chevalier gambette",
+   "why_fr": "Limicole migrateur du même habitat humide ; cris flûtés distincts, mais parfois confondus sur des enregistrements brefs."
+  }
+ ],
+ "rarity_note": "Migrateur régulier mais peu abondant, surtout perceptible en fin d'été et en automne ; discret et non quotidien.",
+ "fun_facts": [
+  "Les mâles se rassemblent sur des leks où ils rivalisent par des combats symboliques spectaculaires, d'où son nom français.",
+  "Chaque mâle arbore sa propre combinaison de motifs de collerette et de touffes, unique comme une empreinte digitale.",
+  "Certains oiseaux nés en Sibérie parcourent jusqu'à 30 000 km par an pour rejoindre leurs quartiers d'hiver en Afrique de l'Ouest."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Combattant_vari%C3%A9",
+  "https://en.wikipedia.org/wiki/Ruff_(bird)",
+  "https://www.oiseaux.net/aves/calidris.pugnax.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

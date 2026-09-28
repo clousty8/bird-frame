@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Gallinago media",
+ "common_name_fr": "Bécassine double",
+ "birdnet_label": "Gallinago media_Bécassine double",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Gallinago",
+  "species": "Gallinago media"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécassine double",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9cassine_double",
+   "description": "espèce d'oiseaux",
+   "extract": "La Bécassine double est une espèce d’oiseaux Charadriiformes de la famille des Scolopacidae. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 4230
+  },
+  "en": {
+   "title": "Great snipe",
+   "url": "https://en.wikipedia.org/wiki/Great_snipe",
+   "description": "Species of bird",
+   "extract": "The great snipe is a small stocky wader in the genus Gallinago. This bird's breeding habitat is marshes and wet meadows with short vegetation in northeastern Europe and northern Asia, from Scandinavia and Poland east across northern Russia to western Siberia, and south to northern Kazakhstan. Great snipe are migratory, wintering in tropical Africa. The European breeding population is in steep decline.",
+   "fulltext_chars": 4799
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/97/Gallinago_media.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1102,
+  "height": 1322,
+  "file": "Gallinago_media.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/9/97/Gallinago_media.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": null,
+  "credit": "Great Snipe from old german enc.",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Gallinago_media.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0197,
+  "cities": {
+   "Ajaccio": 0.02
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.018,
+   0.0197,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0103,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:25Z"
+}

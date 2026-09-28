@@ -1,0 +1,75 @@
+{
+ "scientific_name": "Picus canus",
+ "common_name_fr": "Pic cendré",
+ "birdnet_label": "Picus canus_Pic cendré",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Piciformes",
+  "family": "Picidae",
+  "family_common": "Woodpeckers",
+  "genus": "Picus",
+  "species": "Picus canus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pic cendré",
+   "url": "https://fr.wikipedia.org/wiki/Pic_cendr%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pic cendré est une espèce d'oiseaux appartenant à la famille des Picidae.",
+   "fulltext_chars": 3755
+  },
+  "en": {
+   "title": "Grey-headed woodpecker",
+   "url": "https://en.wikipedia.org/wiki/Grey-headed_woodpecker",
+   "description": "Species of bird",
+   "extract": "The grey-headed woodpecker, also known as the grey-faced woodpecker, is a Eurasian member of the woodpecker family, Picidae. Along with the more commonly found European green woodpecker and the Iberian green woodpecker, it is one of three closely related species found in Europe. Its distribution also stretches across large parts of the central and Eastern Palaearctic, all the way to the Pacific Ocean and south to the Himalaya and the Malay Peninsula.",
+   "fulltext_chars": 10665
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Pic_cendr%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3135,
+  "height": 2090,
+  "file": "Pic_cendré.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Pic_cendr%C3%A9.jpg/1920px-Pic_cendr%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Alexandre Benbrik",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Pic_cendr%C3%A9.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0425,
+  "cities": {
+   "Poitiers": 0.016,
+   "Paris": 0.011,
+   "Strasbourg": 0.022,
+   "Lyon": 0.041,
+   "Grenoble": 0.034,
+   "Ajaccio": 0.018,
+   "Clermont-Ferrand": 0.03,
+   "Chamonix": 0.043,
+   "Nancy": 0.019
+  },
+  "monthly_scores": [
+   0.0283,
+   0.0296,
+   0.0425,
+   0.0338,
+   0.0219,
+   0.0262,
+   0.0225,
+   0.0163,
+   0.0139,
+   0.0231,
+   0.0271,
+   0.0277
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:02Z"
+}

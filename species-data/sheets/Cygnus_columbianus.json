@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Cygnus columbianus",
+ "summary_fr": "Le Cygne siffleur est le plus petit cygne holarctique, avec un plumage entièrement blanc et un bec noir à 90 % dominé par une touche jaune à la base. Deux sous-espèces parcourent les mers du Nord : le Cygne siffleur nord-américain (C. c. columbianus) qui hiverne le long des côtes pacifiques et atlantiques des États-Unis, et le Cygne de Bewick eurasien (C. c. bewickii) qui franchit l'Arctique pour passer l'hiver en Europe du Nord et de l'Ouest, remontant jusqu'aux Îles Britanniques. Ses appels sonores, caractéristiques et haute-pitchés, rappellent des aboiements de chien de chasse, d'où son nom de « siffleur » en anglais. Monogame pour la vie, il nichait autrefois dans les zones humides arctiques aux côtés du Cygne chanteur, mais s'en distingue par sa taille plus réduite et sa vocalité marquée. Remarquablement, ses jeunes atteignent l'envol en seulement 60 à 75 jours, deux fois plus vite que ceux du Cygne tuberculé.",
+ "habitat": "Lacs, rivières et zones humides arctiques lors de la reproduction ; en hiver, prairies marécageuses, estuaires, baies côtières et réserves naturelles près de l'eau douce ou saumâtre.",
+ "diet": "Plantes aquatiques submergées (glycérie, potamot, zostère marine) ; en hiver et migration, récolte de grains oubliés au sol et tubercules (pommes de terre). Broutage diurne préférentiel.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Populations eurasiens (C. c. bewickii) hivernent en Europe du Nord-Ouest (Pays-Bas, Îles Britanniques, Scandinavie), le long du littoral de la Mer du Nord et de la Baltique. Quelques oiseaux peuvent gagner les côtes méditerranéennes en années rigides.",
+  "niche": "Reproduction exclusivement arctique et subarctique : toundra côtière sibérienne (C. c. bewickii, depuis la Péninsule de Kola à l'est), plaines côtières d'Alaska et du Canada (C. c. columbianus). Arrive aux zones de nidification vers mai, repart fin septembre.",
+  "passage": "Passages migratoires marqués d'automne (septembre-novembre) et printemps (février-mai). Escales hivernales en zones côtières tempérées, particulièrement octobre à mars en France nordique."
+ },
+ "seasonality_fr": "Visible principalement d'octobre à mars en France, lors des passages migratoires d'automne et de l'hivernage. Très rare l'été, complètement absent de la reproduction française. Audit nocturne possible lors de migrations nocturnes.",
+ "song_fr": "Appels sonores très caractéristiques : honkings aigus et fluides rappelant l'aboiement d'un chien de chasse en vol. Cri de vol trisyllabique et perçant : « wow-wow-wow » aigu. Bien plus vocal que le Cygne tuberculé mais différent du Cygne chanteur qui produit des appels graves et « musicaux ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Cygnus cygnus",
+   "common_name_fr": "Cygne chanteur",
+   "why_fr": "Cygne blanc sympatrique en hiver. Appels graves et « musicaux » différents du siffleur aigu. Bec jaune et noir mais plus jaune. Plus grand et massif en vol."
+  },
+  {
+   "scientific_name": "Cygnus olor",
+   "common_name_fr": "Cygne tuberculé",
+   "why_fr": "Cygne blanc résident. Tubercule noir sur le bec orange distinctif. Moins vocal et cris différents. Taille plus imposante et statut hivernant permanent."
+  },
+  {
+   "scientific_name": "Branta bernicla",
+   "common_name_fr": "Bernache cravant",
+   "why_fr": "Petite oie sauvage avec honkings aigus vaguement comparables. Beaucoup plus petite, cou plus court, allure de canard massif."
+  }
+ ],
+ "rarity_note": "Très rare en France, exceptionnel à Le Mans et Pornic. Visiteur hivernal irrégulier des régions côtières du nord et nord-ouest. Score BirdNET France maximal très bas (0,059), avec détection limitée à l'hiver et premières passages automne.",
+ "fun_facts": [
+  "Le Cygne siffleur possède environ 25 200 plumes en hiver, le plumage le plus dense de tous les oiseaux volants (80 % couvrant tête et cou) pour affronter l'Arctique.",
+  "Ses jeunes grandissent à une vitesse inédite : envol complet en 60-75 jours, deux fois plus vite que le Cygne tuberculé, adaptation critique pour l'arctique de courte saison.",
+  "Chaque individu Cygne de Bewick possède un motif bec unique. Les scientifiques en font des dessins détaillés et attribuent des noms pour suivre les populations en migration."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Cygne_siffleur",
+  "https://en.wikipedia.org/wiki/Tundra_swan",
+  "https://www.oiseaux.net/fiche.html?id=96",
+  "https://inpn.mnhn.fr/espece/cd_nom/4356",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Lullula arborea",
+ "summary_fr": "L'Alouette lulu est une petite alouette trapue à queue courte, mesurant 14 à 15 cm pour une envergure de 24 à 30 cm. Elle se reconnaît à ses larges sourcils blancs qui se rejoignent sur la nuque et au motif clair-sombre-clair visible au bord de l'aile en vol. Elle fréquente les milieux semi-ouverts : lisières forestières, landes et bois clairs souvent de conifères, avec des secteurs pierreux et sablonneux. Partiellement migratrice, elle reste sédentaire dans l'ouest et le sud de son aire tandis que les populations du nord et de l'est gagnent l'Afrique du Nord et le Moyen-Orient en hiver. Son chant, un « lululululu » mélodieux et fluté qui lui a donné son nom, est émis en vol spiralé ou depuis un perchoir, de jour comme de nuit, surtout en début de saison. Essentiellement granivore, elle complète son régime avec des insectes au printemps et en été, se nourrissant toujours au sol, seule ou en couple. Précoce, elle niche dès mars et élève deux à trois couvées par an, formant en été des groupes familiaux de vingt à trente individus. Protégée intégralement en France depuis 1981, elle reste classée préoccupation mineure malgré un déclin de sa population nicheuse française.",
+ "habitat": "Lisières forestières, landes et bois clairs souvent de conifères, avec secteurs pierreux et sablonneux propices au chant et à la nidification. Fréquente aussi les clairières et les champs voisins pour se nourrir.",
+ "diet": "Essentiellement granivore (graines), complétée par des insectes surtout au printemps et en été, période de reproduction. Se nourrit uniquement au sol, seule ou en couple.",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Les populations du sud et de l'ouest de l'Europe, dont la France, restent en place toute l'année. Celles du nord et de l'est hivernent en Afrique du Nord et au Moyen-Orient.",
+  "niche": "Niche dans toute la France métropolitaine favorable, du littoral atlantique au Rhin, dans les landes et lisières de pinèdes.",
+  "passage": "Départ des populations migratrices du nord et de l'est en octobre, retour de février à avril."
+ },
+ "seasonality_fr": "Présente toute l'année en France, avec un pic d'écoute au printemps quand elle chante dès l'aube, y compris la nuit, et un passage marqué à l'automne pour les populations migratrices.",
+ "song_fr": "Chant fluté et mélodieux, série de notes répétées en « lu-lu-lu » ou « lululululu », émis en vol spiralé ou depuis un perchoir, de jour comme de nuit dès le début du printemps.",
+ "lookalikes": [
+  {
+   "scientific_name": "Alauda arvensis",
+   "common_name_fr": "Alouette des champs",
+   "why_fr": "Environ 20 % plus grande, chant continu proche mais plus rapide et moins pur ; plumage similaire, sans sourcils blancs réunis sur la nuque."
+  },
+  {
+   "scientific_name": "Galerida cristata",
+   "common_name_fr": "Cochevis huppé",
+   "why_fr": "Habitat semi-ouvert comparable et petite huppe visible ; chant moins musical et plus heurté, source de confusion acoustique en zone de recouvrement."
+  },
+  {
+   "scientific_name": "Calandrella brachydactyla",
+   "common_name_fr": "Alouette calandrelle",
+   "why_fr": "Landes et zones sèches similaires, taille proche ; chant plus aigu et saccadé, moins fluté que celui de l'Alouette lulu."
+  }
+ ],
+ "rarity_note": "Régulière et en partie sédentaire en France, avec 110 000 à 170 000 couples nicheurs, mais en déclin ; bien répartie dans ses habitats favorables, du littoral atlantique au Rhin.",
+ "fun_facts": [
+  "Olivier Messiaen lui a dédié une pièce éponyme dans son Catalogue d'oiseaux.",
+  "Son nom scientifique, Lullula, est une onomatopée directement inspirée du son de son chant.",
+  "Les jeunes des premières couvées restent sur place et forment dès l'été des groupes familiaux de 20 à 30 individus, préfigurant les bandes migratrices d'automne."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Alouette_lulu",
+  "https://en.wikipedia.org/wiki/Woodlark",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Numenius arquata",
+ "common_name_fr": "Courlis cendré",
+ "birdnet_label": "Numenius arquata_Courlis cendré",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Numenius",
+  "species": "Numenius arquata"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Courlis cendré",
+   "url": "https://fr.wikipedia.org/wiki/Courlis_cendr%C3%A9",
+   "description": "espèce d'oiseaux charadriiformes de la famille des scolopacidae",
+   "extract": "Le Courlis cendré est une espèce d'oiseaux charadriiformes de la famille des Scolopacidae. C'est un limicole qui niche en Eurasie. C'est celui des courlis qui habite l'espace le plus étendu, puisqu'il se reproduit dans toute l'Europe tempérée et l'Asie. On en a même aperçu en Nouvelle-Écosse. En Europe, on l’appelle souvent simplement « courlis », parce que c’est l’espèce de courlis la plus commune.",
+   "fulltext_chars": 13602
+  },
+  "en": {
+   "title": "Eurasian curlew",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_curlew",
+   "description": "Species of bird",
+   "extract": "The Eurasian curlew or common curlew is a very large wader in the family Scolopacidae. It is one of the most widespread of the curlews, breeding across temperate Europe and Asia. In Europe, this species is often referred to just as the \"curlew\", and in Scotland known as the \"whaup\" in Scots.",
+   "fulltext_chars": 6189
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Curlew_%28Numenius_arquata%29_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2000,
+  "height": 1500,
+  "file": "Curlew_(Numenius_arquata)_(12).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Curlew_%28Numenius_arquata%29_%2812%29.jpg/1920px-Curlew_%28Numenius_arquata%29_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Ken Billington",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Curlew_(Numenius_arquata)_(12).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4803,
+  "cities": {
+   "Le Mans": 0.239,
+   "Pornic": 0.344,
+   "Rennes": 0.361,
+   "Poitiers": 0.187,
+   "Paris": 0.201,
+   "Lille": 0.269,
+   "Strasbourg": 0.054,
+   "Lyon": 0.063,
+   "Grenoble": 0.05,
+   "Marseille": 0.098,
+   "Toulouse": 0.088,
+   "Bordeaux": 0.174,
+   "Brest": 0.48,
+   "Ajaccio": 0.288,
+   "Clermont-Ferrand": 0.091,
+   "Chamonix": 0.039,
+   "Perpignan": 0.092,
+   "Nancy": 0.081
+  },
+  "monthly_scores": [
+   0.4526,
+   0.4004,
+   0.3024,
+   0.1867,
+   0.1097,
+   0.1291,
+   0.2149,
+   0.3747,
+   0.3784,
+   0.4644,
+   0.4803,
+   0.4792
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:21Z"
+}

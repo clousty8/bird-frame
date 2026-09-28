@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Erithacus rubecula",
+ "summary_fr": "Petit passereau au plastron orange vif, le Rougegorge familier est l'un des oiseaux les plus connus des jardins français. Auparavant rangé parmi les grives, il appartient désormais à la famille des gobemouches de l'Ancien Monde. Son allure ronde, ses grands yeux noirs et sa confiance envers l'homme en font un compagnon habituel du jardinier, qu'il suit pour saisir les vers et les larves mis à jour par la bêche. Territorial toute l'année, il défend farouchement son domaine contre ses congénères, au point que les combats peuvent être violents. Remarquablement, les deux sexes chantent, ce qui est rare chez les passereaux, et leur chant mélancolique résonne même en hiver, parfois la nuit. En France, les nicheurs sont partiellement sédentaires, rejoints en automne par des migrateurs venus du nord et de l'est de l'Europe.",
+ "habitat": "Sous-bois, jardins, parcs arborés et haies du littoral à la montagne. Fréquente volontiers les espaces semi-ouverts avec buissons et couvert.",
+ "diet": "Insectes, vers de terre, araignées et autres invertébrés capturés au sol. Complète son régime de baies et petites graines en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Tous les rougegorges hivernant en France, où les nicheurs locaux sédentaires sont rejoints par des populations du nord et de l'est de l'Europe fuyant l'hiver rigoureux.",
+  "niche": "Nicheur partout en France d'avril à août, avec généralement une ou deux nichées par saison.",
+  "passage": "Passages migratoires marqués en mars et d'octobre à novembre, particulièrement dans le nord et l'est."
+ },
+ "seasonality_fr": "Visible et audible toute l'année en France. C'est l'un des rares oiseaux à chanter activement en plein hiver, notamment en période de défense territoriale.",
+ "song_fr": "Chant fluide, mélancolique et mémoriel composé de phrases cristallines variées et de trilles. Cri d'alarme caractéristique : « tic » sec et répété, parfois doublé.",
+ "lookalikes": [
+  {
+   "scientific_name": "Phoenicurus ochruros",
+   "common_name_fr": "Rougequeue noir",
+   "why_fr": "Mêmes cris « tic » secs et nerveux ; plastron rougeâtre. Différence : queue rousse et comportement différent."
+  },
+  {
+   "scientific_name": "Prunella modularis",
+   "common_name_fr": "Accenteur mouchet",
+   "why_fr": "Chant grinçant, énergique, de même tessiture et saison. Morphologie plus grise et différente."
+  },
+  {
+   "scientific_name": "Luscinia megarhynchos",
+   "common_name_fr": "Rossignol philomèle",
+   "why_fr": "Chant puissant au printemps-été ; confusion possible sur enregistrements bruiteux. Rougegorge présent hiver, rossignol non."
+  }
+ ],
+ "rarity_note": "Très commun partout en France, présent toute l'année. Population stable à légèrement croissante.",
+ "fun_facts": [
+  "Les deux sexes chantent, y compris en hiver pour défendre chacun leur propre territoire, ce qui est très rare chez les passereaux.",
+  "Extraordinairement familier, il suit le jardinier pour attraper les vers mis à jour par la bêche, d'où son surnom de « compagnon du jardinier ».",
+  "Un rougegorge sans territoire meurt en quelques semaines ; il défend son domaine si agressivement que les combats peuvent être mortels."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Rouge-gorge_familier",
+  "https://en.wikipedia.org/wiki/European_robin",
+  "https://www.oiseaux.net/fiche.html?id=81"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

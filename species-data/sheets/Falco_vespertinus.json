@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Falco vespertinus",
+ "summary_fr": "Le Faucon kobez est un petit rapace migrateur aux ailes longues et effilées, dont le mâle affiche un plumage bleu-gris uniforme rehaussé de pattes et d'un dessous de queue rouge orangé, tandis que la femelle et les jeunes arborent des tons roux et orangés contrastant avec une face blanche barrée de noir. Chasseur aérien, il capture ses proies en vol stationnaire avant de plonger vers le sol, se nourrissant surtout de gros insectes comme criquets, sauterelles et libellules, complétés à l'occasion de petits rongeurs, oiseaux et amphibiens. Nicheur colonial d'Europe centrale et orientale, il ne construit pas son propre nid mais réutilise ceux des corvidés, notamment du corbeau freux, ce qui le rend très dépendant de la santé de ces colonies. Ses populations ont fortement décliné avec la disparition de ces sites et l'intensification de l'agriculture. Hivernant en Afrique, il ne fréquente la France qu'en visiteur peu commun, surtout lors des passages de printemps et d'automne, quelques individus égarés pouvant néanmoins apparaître à d'autres moments de l'année.",
+ "habitat": "Steppes, terres ouvertes et cultivées parsemées de bosquets ou de rideaux d'arbres pour se percher et nicher ; en halte migratoire, prairies et zones ouvertes fréquentées par des corvidés.",
+ "diet": "Gros insectes (sauterelles, criquets, libellules), complétés de petits rongeurs, oiseaux et amphibiens, surtout pour nourrir les oisillons.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Hiverne principalement en Afrique australe et orientale ; présence hivernale en France exceptionnelle et non documentée chaque année.",
+  "niche": "Ne niche pas en France ; reproduction en Europe centrale et orientale (Hongrie, Roumanie, Serbie) jusqu'en Russie méridionale et Asie centrale.",
+  "passage": "Essentiellement au printemps (avril-mai) et en automne (août-octobre) dans le sud du pays, mais de rares individus isolés peuvent être notés à d'autres périodes."
+ },
+ "seasonality_fr": "Espèce peu commune en France, observée surtout lors des passages migratoires de printemps et d'automne, avec de rares mentions isolées le reste de l'année.",
+ "song_fr": "Cris aigus et répétés en vol, sortes de crissements ; plus vocal lors des parades nuptiales au printemps, largement silencieux en halte migratoire.",
+ "lookalikes": [
+  {
+   "scientific_name": "Falco naumanni",
+   "common_name_fr": "Faucon crécerellette",
+   "why_fr": "Taille et technique de chasse proches, mâle bleu-gris ; s'en distingue par l'absence de pattes rouges chez le crécerellette."
+  },
+  {
+   "scientific_name": "Falco tinnunculus",
+   "common_name_fr": "Faucon crécerelle",
+   "why_fr": "Vol stationnaire semblable ; le crécerelle est un peu plus grand, tête grise et dos roux chez le mâle."
+  },
+  {
+   "scientific_name": "Falco columbarius",
+   "common_name_fr": "Faucon émerillon",
+   "why_fr": "Silhouette compacte de petit faucon ; l'émerillon chasse plus en vol rapide et rase-mottes, sans orange vif."
+  }
+ ],
+ "rarity_note": "Espèce peu commune en France, jamais nicheuse, présente surtout en passage ; cohérent avec le score de présence très faible du modèle BirdNET (0,07 au maximum).",
+ "fun_facts": [
+  "Le mâle bleu-gris et la femelle orangée sont si différents qu'on pourrait les prendre pour deux espèces distinctes.",
+  "Son nom latin « vespertinus » signifie « du soir », en référence à ses chasses d'insectes au crépuscule."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Faucon_kobez",
+  "https://en.wikipedia.org/wiki/Red-footed_falcon",
+  "https://www.oiseaux.net/oiseaux/faucon.kobez.html",
+  "https://birdlife.org/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

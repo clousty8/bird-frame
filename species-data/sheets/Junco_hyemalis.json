@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Junco hyemalis",
+ "summary_fr": "Le Junco ardoisé est un petit passéreau nord-américain de la famille des Passerellidae, rarement observé en Europe occidentale. Cet oiseau de 13 à 17 cm présente une grande variabilité selon les sous-espèces et les populations géographiques, caractérisé par un dessus sombre à gris et un ventre blanc pur. Les rectrices externes de la queue sont blanches, particulièrement visibles en vol. Normalement hivernant aux États-Unis ou en Amérique centrale, il se rencontre très sporadiquement en migration en Europe du Nord et occidentale. En France, c'est un visiteur exceptionnel et erratique, signalé principalement en hiver, dont l'observation reste remarquable pour l'ornithologue averti. Territorial et grégaire en hiver, cet oiseau se nourrit principalement au sol, durant la saison froide davantage de graines, en été d'insectes variés comme les coléoptères et les chenilles.",
+ "habitat": "Forêts de conifères et forêts mixtes en zone boréale. En hiver et lors de passages, lisière des bois, zones boisées clairsemées, parcs et jardins, habitats semi-ouverts.",
+ "diet": "Principalement graines (trois quarts de l'alimentation annuelle) et insectes, notamment coléoptères, fourmis et chenilles ; proportion d'insectes augmentée en période de reproduction.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Très rare et erratique en France, surtout d'octobre à mars ; signalé ponctuellement en jardins ou zones habitées. Vagabond régulier en Europe du Nord et occidentale.",
+  "niche": "Ne niche pas en France",
+  "passage": "Passages irréguliers en automne et hiver, très sporadiques"
+ },
+ "seasonality_fr": "Visiteur très rare en hiver, surtout octobre à mars. Observation exceptionnelle en France, souvent près des habitations et aux mangeoires.",
+ "song_fr": "Chant : trille métallique sur ton uniforme, similaire au Bruant familier. Cris d'appel : « tsik », « tchet », trilles doux en vol ; cris métalliques brefs souvent répétés.",
+ "lookalikes": [
+  {
+   "scientific_name": "Passerella iliaca",
+   "common_name_fr": "Bruant fauve",
+   "why_fr": "Taille et silhouette similaires, rougeâtre en plumage, mais voix plus riche et complexe."
+  },
+  {
+   "scientific_name": "Spizella passerina",
+   "common_name_fr": "Bruant des champs",
+   "why_fr": "Chant très similaire en trille, mais tonalité et structure vocale légèrement différentes."
+  }
+ ],
+ "rarity_note": "Très rare en France, visiteur occasionnel et imprévisible. Noté sporadiquement en migration hivernale en Europe du Nord et occidentale, jamais établi.",
+ "fun_facts": [
+  "Le groupe de Juncos ardoisés est appelé « blizzard », poétique allusion à leur apparition hivernale en troupes.",
+  "Ses sous-espèces sont tellement variables que certaines ont longtemps été considérées comme des espèces distinctes ; les mâles affichent des plumages bien plus contrastés que les femelles.",
+  "Certaines populations urbaines de Californie ne migrent plus et se sont adaptées à la vie en campus universitaire."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Junco_ardois%C3%A9",
+  "https://en.wikipedia.org/wiki/Dark-eyed_junco",
+  "https://www.oiseaux.net/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

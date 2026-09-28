@@ -1,0 +1,31 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Circaetus gallicus",
+ "summary_fr": "Le Circaète Jean-le-Blanc est un rapace de taille moyenne à grande, spécialisé presque exclusivement dans la chasse aux serpents et autres reptiles. Grand migrateur, il rejoint l'Afrique subsaharienne pour hiverner et ne revient nicher en Europe qu'au printemps, avec de très rares individus observés en hiver dans l'extrême sud de la France certaines années. Sa technique de chasse est spectaculaire : il plane longuement à faible vitesse au-dessus des milieux ouverts, puis s'immobilise dans les airs, les ailes largement déployées face au vent, dans une posture surnommée le « vol du Saint-Esprit », pour scruter le sol à la recherche de ses proies. Sa tête large et ronde, ses grands yeux jaunes dirigés vers l'avant et son bec court lui donnent une silhouette évoquant une ressemblance avec une chouette, bien qu'il appartienne à la famille des rapaces diurnes. Une fois une proie repérée, il se laisse tomber rapidement pour la saisir dans ses serres puis l'achève à coups de bec. Présent surtout dans le tiers méridional de la France, il niche dans les arbres des milieux boisés clairsemés et des garrigues chaudes, où il élève un unique poussin par saison.",
+ "habitat": "Milieux boisés ouverts alternant avec de grandes clairières, zones sablonneuses, terrains dégagés et cultivés des climats chauds à faibles précipitations. Du littoral à moins de 2000 mètres d'altitude.",
+ "diet": "Régime alimentaire presque exclusivement composé de serpents. Capture également des lézards occasionnellement. Très rarement des petits mammifères ou des oiseaux.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Essentiellement en Afrique subsaharienne, du Sénégal à l'Éthiopie ; de très rares individus hivernent exceptionnellement dans l'extrême sud de la France.",
+  "niche": "Plus fréquent dans le tiers méridional de la France ; pénètre exceptionnellement jusqu'au nord du pays. Se reproduit d'avril à août.",
+  "passage": "Arrivée en France fin mars à mai ; départ fin août à septembre selon les populations."
+ },
+ "seasonality_fr": "Visiteur d'été en France, présent de fin mars à septembre pour l'essentiel des effectifs ; observations hivernales exceptionnelles limitées au sud-est.",
+ "song_fr": "Généralement très silencieux. Émet occasionnellement des sifflements musicaux variés lors de la reproduction.",
+ "lookalikes": [
+  {"scientific_name": "Buteo buteo", "common_name_fr": "Buse variable", "why_fr": "Peut être confondue en vol à distance par la morphologie et la coloration générale."},
+  {"scientific_name": "Pernis apivorus", "common_name_fr": "Bondrée apivore", "why_fr": "Technique de chasse similaire à faible altitude et vol plané comparable."}
+ ],
+ "rarity_note": "Peu commun en France en général, absent du nord ; régulier et plus fréquent dans le sud et le sud-est en période de nidification.",
+ "fun_facts": [
+  "Sa technique du vol stationnaire, appelée « vol du Saint-Esprit », lui permet de scruter le sol en restant immobile dans les airs.",
+  "Le mâle séducteur laisse pendre une longue portion de couleuvre hors de son bec pour attirer la femelle en période d'accouplement."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Circa%C3%A8te_Jean-le-Blanc",
+  "https://en.wikipedia.org/wiki/Short-toed_snake_eagle"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

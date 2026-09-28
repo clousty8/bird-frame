@@ -1,0 +1,96 @@
+{
+ "scientific_name": "Jynx torquilla",
+ "common_name_fr": "Torcol fourmilier",
+ "birdnet_label": "Jynx torquilla_Torcol fourmilier",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Piciformes",
+  "family": "Picidae",
+  "family_common": "Woodpeckers",
+  "genus": "Jynx",
+  "species": "Jynx torquilla"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Torcol fourmilier",
+   "url": "https://fr.wikipedia.org/wiki/Torcol_fourmilier",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Torcol fourmilier est une espèce d'Oiseaux de la famille des pics (Picidae). Il se distingue en leur sein par son plumage très cryptique qui le fait ressembler à une feuille morte et par son bec relativement court, qui le rend incapable de creuser lui-même son nid. C'est également le seul pic de l'Ancien Monde à pouvoir être vraiment migrateur.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Eurasian wryneck",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_wryneck",
+   "description": "Species of bird",
+   "extract": "The Eurasian wryneck or northern wryneck is a species of wryneck in the woodpecker family. It mainly breeds in temperate regions of Europe and Asia. Most populations are migratory, wintering in tropical Africa and in southern Asia from Iran to the Indian subcontinent, but some are resident in northwestern Africa. It is a bird of open countryside, woodland and orchards.",
+   "fulltext_chars": 11926
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/da/Jynx_torquilla_no.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1605,
+  "height": 1217,
+  "file": "Jynx_torquilla_no.JPG",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/d/da/Jynx_torquilla_no.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "author": "Arnstein Rønning",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_no.JPG"
+ },
+ "france_universe": {
+  "max_score": 0.2374,
+  "cities": {
+   "Le Mans": 0.036,
+   "Pornic": 0.028,
+   "Rennes": 0.02,
+   "Poitiers": 0.054,
+   "Paris": 0.039,
+   "Lille": 0.028,
+   "Strasbourg": 0.069,
+   "Lyon": 0.097,
+   "Grenoble": 0.097,
+   "Marseille": 0.11,
+   "Toulouse": 0.099,
+   "Bordeaux": 0.071,
+   "Ajaccio": 0.237,
+   "Clermont-Ferrand": 0.088,
+   "Chamonix": 0.095,
+   "Perpignan": 0.106,
+   "Nancy": 0.058
+  },
+  "monthly_scores": [
+   0.0594,
+   0.0844,
+   0.1733,
+   0.2374,
+   0.1536,
+   0.1093,
+   0.0786,
+   0.082,
+   0.0842,
+   0.104,
+   0.0713,
+   0.0665
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:33Z"
+}

@@ -1,0 +1,52 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Oenanthe oenanthe",
+ "summary_fr": "Petit passereau à silhouette caractéristique, le Traquet motteux est un voyageur infatigable qui parcourt jusqu'à 30 000 kilomètres chaque année entre l'Afrique subsaharienne et ses zones de reproduction arctiques. Reconnaissable à son croupion blanc et sa queue terminée d'un motif noir en T inversé, il affectionne les terrains rocailleux et montagneux ouverts du Groenland à la Sibérie. Cet oiseau insectivore niche dans les fissures rocheuses et les terriers de petits mammifères, de 0 à 2 800 mètres d'altitude. Tous les individus quittent l'Europe et l'Asie à l'automne pour passer l'hiver en Afrique, complétant ainsi l'une des plus longues migrations du règne animal rapportée à leur taille. Son chant sifflé et crépitant, accompagné d'un cri d'alarme caractéristique « tchak », permet de le repérer lors des passages migratoires au printemps et à l'automne. Le mâle défend farouchement son domaine de reproduction, et c'est l'une des rares espèces où la femelle chante également.",
+ "habitat": "Terrains rocailleux ouverts, montagnes arides, landes herbeuses et zones steppiques, du niveau de la mer à 2 800 m d'altitude.",
+ "diet": "Insectes capturés au sol ou en vol : sauterelles, chenilles, papillons, petits mollusques et araignées ; baies en automne.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne. Tous les individus d'Europe et d'Asie y passent l'hiver, d'octobre à avril environ.",
+  "niche": "Partout en Europe et en Asie paléarctique, ainsi qu'au Groenland, en Islande et en Alaska, d'avril à août généralement.",
+  "passage": "Passages migratoires marqués en mars-avril au printemps et août-octobre en automne, visibles dans les zones de transition."
+ },
+ "seasonality_fr": "Présent surtout lors des migrations printanière et automnale, absent en hiver. Visible occasionnellement en montagne pendant la belle saison en zones de reproduction.",
+ "song_fr": "Chant sifflé et crépitant, fluide et variable. Cri d'alarme caractéristique « tchak » sec et répété. Cri d'appel bref ressemblant à un « huit ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Oenanthe melanoleuca",
+   "common_name_fr": "Traquet noir et blanc",
+   "why_fr": "Même genre, cris similaires ; différent par la livrée noir et blanc marquée."
+  },
+  {
+   "scientific_name": "Saxicola rubicola",
+   "common_name_fr": "Tarier pâtre",
+   "why_fr": "Même habitat rocailleux ouvert, cri « tchak » ressemblant, mais bien plus petit et plus foncé."
+  },
+  {
+   "scientific_name": "Saxicola rubetra",
+   "common_name_fr": "Tarier des prés",
+   "why_fr": "Habitats similaires en montagne, chant et cris proches, mais de taille inférieure."
+  },
+  {
+   "scientific_name": "Phoenicurus phoenicurus",
+   "common_name_fr": "Rougequeue à front blanc",
+   "why_fr": "Famille des Muscicapidae, cris secs « tic » ressemblants, mais queue plus rousse."
+  }
+ ],
+ "rarity_note": "Régulier et parfois commun en période de migration, notamment en montagne. Rare en hiver. Score BirdNET d'environ 0,31 en France, reflétant son statut de migrateur de passage.",
+ "fun_facts": [
+  "L'une des plus longues migrations connues : les oiseaux du Groenland traversent directement l'Atlantique Nord sur 2 500 à 3 500 km en automne.",
+  "Les oiseaux d'Alaska parcourent près de 15 000 km par trajet, traversant la Sibérie et le désert d'Arabie en moyenne 290 km par jour.",
+  "Trait rare chez les passereaux : les deux sexes chantent, chacun défendant son propre territoire même en hiver."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Traquet_motteux",
+  "https://en.wikipedia.org/wiki/Northern_wheatear",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/4386",
+  "https://www.oiseaux.net/oiseaux/traquet.motteux.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

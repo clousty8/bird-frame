@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Phylloscopus collybita",
+ "summary_fr": "Le Pouillot véloce est un petit passereau brun verdâtre très commun en France et dans toute l'Ancien Monde. Son nom vernaculaire évoque sa grande agilité, tandis que son chant caractéristique à deux tons, ressemblant au tintement de pièces de monnaie (d'où son surnom de « compteur d'écus »), est l'un des premiers signes du retour du printemps. Très territorial, le mâle défend farouchement son petit domaine contre ses rivaux, tandis que la femelle construit un nid en dôme sur ou près du sol. Contrairement à la plupart des passereaux, mâle et femelle chantent tous les deux, y compris en plein hiver pour défendre leur territoire. Autrefois migrateur strict, l'espèce a de plus en plus tendance à hiverner en Europe occidentale, bien au nord de ses zones d'hivernage traditionnelles du bassin méditerranéen.",
+ "habitat": "Forêts ouvertes avec grands arbres et couverture herbacée, bois et buissailles denses, haies et sous-bois ; en hiver, utilise aussi broussailles, parcs et jardins, souvent près de l'eau.",
+ "diet": "Petits insectes, particulièrement diptères provenant de plus de cinquante familles, ainsi que larves et œufs de lépidoptères ; occasionnellement petites graines et baies en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France, surtout en secteurs côtiers et urbains doux de l'ouest ; les nicheurs locaux sont rejoints par des oiseaux d'Europe du nord et de l'est.",
+  "niche": "Partout en France dans les milieux ouverts et les zones boisées ; période de reproduction d'avril à juillet, souvent deux nichées.",
+  "passage": "Passages migratoires marqués en mars (retour) et d'octobre à novembre (départ), avec arrivée de spécimens nord-européens en hiver."
+ },
+ "seasonality_fr": "Audible toute l'année en France, avec un pic d'intensité chanson au printemps et en hiver pour la défense territoriale. Présent et actif même en plein hiver, ce qui le distingue de la plupart des autres petits passereaux.",
+ "song_fr": "Chant distinctif à deux tons répétitif ressemblant à du « chiff-chaff », facilement reconnaissable ; cri d'alarme « hweet » moins disyllabique que celui du Pouillot fitis ; notes aiguës « chiip » en automne.",
+ "lookalikes": [
+  {
+   "scientific_name": "Phylloscopus trochilus",
+   "common_name_fr": "Pouillot fitis",
+   "why_fr": "Très similaire en apparence, mais pattes plus pâles, projection primaire plus longue, sourcil plus net et chant différent (« hooeet » disyllabique)."
+  },
+  {
+   "scientific_name": "Phylloscopus bonelli",
+   "common_name_fr": "Pouillot de Bonelli",
+   "why_fr": "Peut être confondu avec certaines sous-espèces ; différenciation par le chant et la morphologie alaire, visage moins marqué chez le Pouillot de Bonelli."
+  },
+  {
+   "scientific_name": "Phylloscopus ibericus",
+   "common_name_fr": "Pouillot ibérique",
+   "why_fr": "Plus clair, croupe plus verte, dessous plus jaune que le Pouillot véloce ; très difficile à distinguer sans le chant caractéristique « tit-tit-tit-tswee-tswee »."
+  }
+ ],
+ "rarity_note": "Très commun et largement répandu en France toute l'année, avec présence renforcée en hiver dans le nord et l'ouest où l'espèce a tendance à s'établir.",
+ "fun_facts": [
+  "Mâle et femelle chantent tous les deux, y compris en plein hiver la nuit près des éclairages publics, ce qui est exceptionnel chez les passereaux.",
+  "Le Pouillot véloce est l'un des premiers passereaux à retourner en Europe au printemps, souvent dès février-mars, et l'un des derniers à partir en automne.",
+  "Son surnom de « compteur d'écus » provient du tintement métallique de son chant, que l'on peut écouter pendant près de trois ans de sa vie moyenne."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pouillot_v%C3%A9loce",
+  "https://en.wikipedia.org/wiki/Common_chiffchaff"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

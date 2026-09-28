@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Regulus regulus",
+ "common_name_fr": "Roitelet huppé",
+ "birdnet_label": "Regulus regulus_Roitelet huppé",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Regulidae",
+  "family_common": "Kinglets",
+  "genus": "Regulus",
+  "species": "Regulus regulus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Roitelet huppé",
+   "url": "https://fr.wikipedia.org/wiki/Roitelet_hupp%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Roitelet huppé est une petite espèce de passereaux de la famille des Regulidae.",
+   "fulltext_chars": 4949
+  },
+  "en": {
+   "title": "Goldcrest",
+   "url": "https://en.wikipedia.org/wiki/Goldcrest",
+   "description": "Small passerine bird in the kinglet family",
+   "extract": "The goldcrest is a very small passerine bird in the kinglet family. Its colourful golden crest feathers, as well as being called the \"king of the birds\" in European folklore, gives rise to its English and scientific names. The scientific name, R. regulus, means 'petty king' or prince. Several subspecies are recognised across the very large distribution range that includes much of the Palearctic and the islands of Macaronesia and Iceland. Birds from the north and east of its breeding range migrate to winter further south.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Regulus_regulus0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1280,
+  "height": 1200,
+  "file": "Regulus_regulus0.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Regulus_regulus0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "author": "MPF",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Regulus_regulus0.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3845,
+  "cities": {
+   "Le Mans": 0.308,
+   "Pornic": 0.294,
+   "Rennes": 0.331,
+   "Poitiers": 0.274,
+   "Paris": 0.334,
+   "Lille": 0.384,
+   "Strasbourg": 0.279,
+   "Lyon": 0.264,
+   "Grenoble": 0.242,
+   "Marseille": 0.199,
+   "Toulouse": 0.163,
+   "Bordeaux": 0.211,
+   "Brest": 0.379,
+   "Ajaccio": 0.313,
+   "Clermont-Ferrand": 0.258,
+   "Chamonix": 0.262,
+   "Perpignan": 0.143,
+   "Nancy": 0.296
+  },
+  "monthly_scores": [
+   0.3127,
+   0.2941,
+   0.2724,
+   0.2483,
+   0.1866,
+   0.1782,
+   0.1574,
+   0.0888,
+   0.1813,
+   0.3845,
+   0.3351,
+   0.3144
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:17Z"
+}

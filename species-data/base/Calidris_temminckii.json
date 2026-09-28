@@ -1,0 +1,74 @@
+{
+ "scientific_name": "Calidris temminckii",
+ "common_name_fr": "Bécasseau de Temminck",
+ "birdnet_label": "Calidris temminckii_Bécasseau de Temminck",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Calidris",
+  "species": "Calidris temminckii"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécasseau de Temminck",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9casseau_de_Temminck",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Bécasseau de Temminck est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae. Son nom commémore le zoologiste Coenraad Jacob Temminck (1778-1858). Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 3863
+  },
+  "en": {
+   "title": "Temminck's stint",
+   "url": "https://en.wikipedia.org/wiki/Temminck's_stint",
+   "description": "Species of bird",
+   "extract": "Temminck's stint is a small wader native to the Old World. This bird's common name and Latin binomial commemorate the Dutch naturalist Coenraad Jacob Temminck. The genus name is from Ancient Greek kalidris or skalidris, a term used by Aristotle for some grey-coloured waterside birds.",
+   "fulltext_chars": 3238
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Temmincks_Stint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1460,
+  "height": 946,
+  "file": "Temmincks_Stint.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Temmincks_Stint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Temmincks_Stint.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0864,
+  "cities": {
+   "Ajaccio": 0.086
+  },
+  "monthly_scores": [
+   0.0331,
+   0.0388,
+   0.0653,
+   0.0647,
+   0.0509,
+   0.0493,
+   0.0629,
+   0.0864,
+   0.0759,
+   0.0462,
+   0.0341,
+   0.0348
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:19Z"
+}

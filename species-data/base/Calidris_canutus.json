@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Calidris canutus",
+ "common_name_fr": "Bécasseau maubèche",
+ "birdnet_label": "Calidris canutus_Bécasseau maubèche",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Calidris",
+  "species": "Calidris canutus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécasseau maubèche",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9casseau_maub%C3%A8che",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Bécasseau maubèche est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae.",
+   "fulltext_chars": 18869
+  },
+  "en": {
+   "title": "Red knot",
+   "url": "https://en.wikipedia.org/wiki/Red_knot",
+   "description": "Species of bird",
+   "extract": "The red knot or just knot is a medium-sized shorebird which breeds in tundra and the Arctic Cordillera in the far north of Canada, Europe, and Russia. It is the type species of the genus Calidris. Six subspecies are recognised.",
+   "fulltext_chars": 20944
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/45/Red_knot_Delaware.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2772,
+  "height": 2064,
+  "file": "Red_knot_Delaware.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Red_knot_Delaware.jpg/1920px-Red_knot_Delaware.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Gregory Breese/U. S. Fish and Wildlife Service; posted to Flickr by U.S. Fish and Wildlife Service Northeast Region",
+  "credit": "Cropped from https://www.flickr.com/photos/usfwsnortheast/4035558928/in/set-72157622516772109/ (Listed as Creative Commons license on Flickr; but identified as work of USFWS, thus Public Domain.)\n\n\n\n\n\n\nThis image originates from the National Digital Library of the United States Fish and Wildlife Service at this page\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.See Category:Images from the United States Fish and Wildlife Service.",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Red_knot_Delaware.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1233,
+  "cities": {
+   "Le Mans": 0.037,
+   "Pornic": 0.054,
+   "Rennes": 0.054,
+   "Poitiers": 0.034,
+   "Paris": 0.034,
+   "Lille": 0.061,
+   "Lyon": 0.018,
+   "Grenoble": 0.017,
+   "Marseille": 0.033,
+   "Toulouse": 0.023,
+   "Bordeaux": 0.038,
+   "Brest": 0.076,
+   "Ajaccio": 0.123,
+   "Clermont-Ferrand": 0.023,
+   "Chamonix": 0.012,
+   "Perpignan": 0.027,
+   "Nancy": 0.014
+  },
+  "monthly_scores": [
+   0.107,
+   0.1233,
+   0.1135,
+   0.0517,
+   0.0211,
+   0.0204,
+   0.0274,
+   0.075,
+   0.0733,
+   0.0765,
+   0.0946,
+   0.0996
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:07Z"
+}

@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Petronia petronia",
+ "summary_fr": "Le Moineau soulcie est un petit passereau des régions arides et rocheuses, très ressemblant à une femelle de moineau domestique mais plus terne. Il se distingue par un sourcil blanc marqué encadré de deux raies sombres et une tache jaune sur la gorge, généralement peu visible. Cet oiseau cavernicole niche dans les creux de rochers, les falaises ou les vieux bâtiments des zones ouvertes bénéficiant de plus de 2000 heures d'ensoleillement. Essentiellement granivore, il se nourrit au sol de graines (céréales, tournesol, genévrier, figues) et d'arthropodes en période de reproduction. Territorial toute l'année, il devient grégaire après la nidification, se rassemblant en petites bandes. En France, il ne niche que dans le sud, particulièrement en Languedoc, Provence et Corse. Les populations de montagne pratiquent une transhumance altitudinale en hiver, se déplaçant vers les zones basses.",
+ "habitat": "Régions rocheuses, sèches et ouvertes avec au moins 2000 heures d'ensoleillement annuel. Falaises, versants pierreux et zones d'habitations anciennes. Évite les zones boisées et les régions froides.",
+ "diet": "Essentiellement granivore : graines de céréales, tournesol, genévrier, figues et mûres. Arthropodes et orthoptères, particulièrement pour nourrir les jeunes au nid.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Hivernage en France principalement en zones de basse altitude du sud. Populations de montagne descendent en hiver ; quelques oiseaux asiatiques peuvent quitter pour des zones plus chaudes.",
+  "niche": "Niche en France en plaine et en montagne du sud (Languedoc, Queyras, Haute-Durance, Corse) d'avril à juillet environ. Entre 1000 et 10000 couples estimés en France.",
+  "passage": "Mouvements altitudinaux et migratoires peu connus ; transhumance plutôt que migration proprement dite pour les populations montagnardes."
+ },
+ "seasonality_fr": "Résident toute l'année en France dans le sud et les régions méditerranéennes. Pic d'activité au printemps lors des parades nuptiales. Visible principalement dans les zones rocheuses et ouvertes.",
+ "song_fr": "Chant fort et grinçant, caractéristique des zones rocheuses. Cris d'alarme secs. Les deux sexes chantent, ce qui est remarquable pour un moineau.",
+ "lookalikes": [
+  {
+   "scientific_name": "Passer domesticus",
+   "common_name_fr": "Moineau domestique",
+   "why_fr": "Taille similaire et pattern général proche ; le soulcie est plus terne avec sourcils marqués et tache jaune à la gorge."
+  },
+  {
+   "scientific_name": "Passer montanus",
+   "common_name_fr": "Moineau friquet",
+   "why_fr": "Calotte bicolore et bande blanche nuquéale distinctive chez le friquet ; soulcie moins contrasté avec sourcil blanc marqué."
+  }
+ ],
+ "rarity_note": "Rare et localisé en France, confiné au sud (Languedoc, Provence, Corse). Déclin marqué depuis le XIXe siècle, disparu d'Europe centrale. Estimé à 1000-10000 couples nicheurs en France.",
+ "fun_facts": [
+  "Le Moineau soulcie est la seule espèce du genre Petronia à l'échelle mondiale, ce qui en fait une relique ornithologique unique.",
+  "Sa tache jaune à la gorge joue un rôle crucial dans les parades nuptiales, signalant l'attrait du mâle et son statut social.",
+  "Les femelles qui font une deuxième couvée peuvent abandonner la première au mâle seul, ce qui crée des systèmes de paternité complexes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Moineau_soulcie",
+  "https://en.wikipedia.org/wiki/Rock_sparrow",
+  "https://www.oiseaux.net/oiseaux/moineau.soulcie.html",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/4652"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

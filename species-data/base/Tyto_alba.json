@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Tyto alba",
+ "common_name_fr": "Effraie des clochers",
+ "birdnet_label": "Tyto alba_Effraie des clochers",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Strigiformes",
+  "family": "Tytonidae",
+  "family_common": "Barn-Owls",
+  "genus": "Tyto",
+  "species": "Tyto alba"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Effraie des clochers",
+   "url": "https://fr.wikipedia.org/wiki/Effraie_des_clochers",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Effraie des clochers est une espèce de chouettes anciennement appelée Chouette effraie ou dame blanche. L'espèce peuple tous les continents, à l'exception de l'Antarctique et certaines îles. C'est l'espèce de Strigiformes la plus répandue au monde.",
+   "fulltext_chars": 20888
+  },
+  "en": {
+   "title": "Western barn owl",
+   "url": "https://en.wikipedia.org/wiki/Western_barn_owl",
+   "description": "Species of owl",
+   "extract": "The western barn owl is a species of barn owl native to Europe, southwestern Asia, and Africa. It was formerly considered a subspecies group together with barn owls native to other parts of the world, but this classification was found to be paraphyletic with respect to some other members of the genus.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/47/20181203_-_22.11_Kerkuil_%28Tyto_alba%29_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3648,
+  "height": 5472,
+  "file": "20181203_-_22.11_Kerkuil_(Tyto_alba)_22.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/20181203_-_22.11_Kerkuil_%28Tyto_alba%29_22.jpg/1920px-20181203_-_22.11_Kerkuil_%28Tyto_alba%29_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Rolf Tuinstra",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:20181203_-_22.11_Kerkuil_(Tyto_alba)_22.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1877,
+  "cities": {
+   "Le Mans": 0.036,
+   "Pornic": 0.047,
+   "Rennes": 0.049,
+   "Poitiers": 0.03,
+   "Paris": 0.032,
+   "Lille": 0.033,
+   "Lyon": 0.016,
+   "Grenoble": 0.022,
+   "Marseille": 0.041,
+   "Toulouse": 0.021,
+   "Bordeaux": 0.025,
+   "Brest": 0.056,
+   "Ajaccio": 0.188,
+   "Clermont-Ferrand": 0.017,
+   "Chamonix": 0.015,
+   "Perpignan": 0.029
+  },
+  "monthly_scores": [
+   0.1877,
+   0.18,
+   0.1216,
+   0.0613,
+   0.0452,
+   0.0536,
+   0.0661,
+   0.0611,
+   0.0439,
+   0.0853,
+   0.1598,
+   0.1783
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:09Z"
+}

@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Chlidonias hybrida",
+ "summary_fr": "La Guifette moustac est une stérne des marais mesurant 29 centimètres, reconnaissable à son plumage contrasté : calotte noire et joues blanches en été, avec un bec rouge et le dessous gris. C'est la plus grande des guifettes, prédateur aérien des zones humides qui capture des poissons et insectes à la surface de l'eau en vol léger et gracieux. Migrateur de longue distance depuis l'Europe, elle niche dans les marais tempérés en mai-juin, construisant son nid sur une végétation flottante. L'espèce traverse la France d'avril à octobre, hivernant en Afrique subsaharienne. En hiver, le plumage s'éclaircit considérablement avec un front blanc et des teintes plus pâles. Bien que régulière dans les zones humides du centre et de l'ouest, elle demeure vulnérable face à la destruction de ses habitats et aux perturbations du cycle des eaux.",
+ "habitat": "Lacs, étangs et marshes d'eau douce avec végétation flottante. Eaux littorales et lagunes côtières lors des passages migratoires.",
+ "diet": "Petits poissons, amphibiens, insectes et crustacés capturés à la surface de l'eau en vol.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne, du sud du Sahara jusqu'à l'Afrique australes, notamment régions côtières et lacs.",
+  "niche": "France entière en zones humides appropriées, mai-juin pour la ponte. Trois œufs en une seule nichée. Élevage et indépendance des jeunes juin-juillet.",
+  "passage": "Passages migrateurs mars-avril (printemps) et août-octobre (automne), avec concentrations en avril et septembre-octobre."
+ },
+ "seasonality_fr": "Visible avril-octobre dans les zones humides continentales et côtières. Hivernage strict en Afrique durant novembre-mars. Passages les plus visibles avril et septembre-octobre.",
+ "song_fr": "Cri caractéristique « krekk » sec et répété, permettant une identification acoustique aisée. Vocalisations intensifiées lors de la nidification et la défense du territoire.",
+ "lookalikes": [
+  {
+   "scientific_name": "Chlidonias niger",
+   "common_name_fr": "Guifette noire",
+   "why_fr": "Autre guifette avec plumage moins contrasté. Confusion possible sur cris, surtout en plumage hivernal pâle."
+  },
+  {
+   "scientific_name": "Chlidonias leucopterus",
+   "common_name_fr": "Guifette leucoptère",
+   "why_fr": "Guifette congénère aux ailes blanches. Ressemblance acoustique et physique en vol, distinction difficile sans vue claire."
+  },
+  {
+   "scientific_name": "Sterna hirundo",
+   "common_name_fr": "Sterne pierregarin",
+   "why_fr": "Autre petit stérne aquatique. Confusion acoustique possible notamment en automne et hiver, quand les plumages se rapprochent."
+  }
+ ],
+ "rarity_note": "Régulière en France durant la période de passage et nidification, avril-octobre. Peu fréquente mais régulière dans les zones humides du centre et de l'ouest. Absente en hiver. Vulnérable (statut VU en France) due à la dégradation des habitats.",
+ "fun_facts": [
+  "La Guifette moustac est la plus grande espèce du genre Chlidonias, les autres guifettes étant plus petites et plus légères.",
+  "Les mâles et femelles chantent et défendent les territoires toute l'année dans les zones de reproduction, contrairement à beaucoup d'autres oiseaux.",
+  "Son nom scientifique hybridus vient du fait que Peter Simon Pallas pensait autrefois que c'était un hybride entre la Sterne commune et la Guifette leucoptère."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Guifette_moustac",
+  "https://en.wikipedia.org/wiki/Whiskered_tern",
+  "https://oiseaux.net/oiseaux/Chlidonias_hybrida.html",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/3638"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

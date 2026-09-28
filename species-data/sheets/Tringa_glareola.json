@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Tringa glareola",
+ "summary_fr": "Le Chevalier sylvain est un petit limicole eurasiatique appartenant à la famille des Scolopacidae. Plus petit des « chevaliers » du genre Tringa, il se distingue par ses longues pattes fines et sa silhouette élancée. Migrateur de longue distance, il niche en tourbières et zones humides subarctiques d'Europe du Nord et d'Asie, se reproduisant avec succès depuis les Highlands écossais jusqu'à la Sibérie. En hiver, il gagne l'Afrique sub-saharienne, Madagascar et le sud de l'Asie pour exploiter les zones humides tropicales. En France, il n'est qu'un visiteur de passage, particulièrement visible en automne lors de ses mouvements migratoires. Il fréquente les vasières, berges inondées et étendues d'eau peu profonde où il se nourrit en sondant la vase avec persistance. Ses performances migratoires sont remarquables pour sa petite taille.",
+ "habitat": "Zones humides à eau peu profonde : vasières, berges inondées, petits lacs de montagne, tourbières. Préfère les habitats d'eau douce en migration et hivernage, évite les côtes marines.",
+ "diet": "Petits invertébrés aquatiques capturés en sondant la vase : insectes, larves, petits crustacés, vers et arthropodes divers.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique sub-saharienne (surtout zones sahéliennes), Madagascar et sud de l'Asie du Sud-Est. Hiverne rarement en France, occasionnellement en Méditerranée.",
+  "niche": "Ne niche pas en France. Niche en tourbières subarctiques d'Europe du Nord (Scandinavie surtout) et d'Asie, d'avril à juillet.",
+  "passage": "Passages migratoires majeurs en avril-mai (printemps, discret) et août à octobre (automne, plus visible). Apparitions irrégulières et localisées selon les années."
+ },
+ "seasonality_fr": "Présent en France exclusivement en migration, surtout à l'automne (août à octobre). Très rare au printemps et pratiquement absent en hiver. Passages imprévisibles d'année en année.",
+ "song_fr": "Cri caractéristique aigu « tiu-u » ou « tiu-tiu » en vol ; trilles et pépiements tremblés lors des parades nuptiales. Vocalisations moins fortes que celles du Chevalier combattant.",
+ "lookalikes": [
+  {"scientific_name": "Tringa totanus", "common_name_fr": "Chevalier gambette", "why_fr": "Proche parent, cris « tiu-tiu » similaires, taille voisine mais silhouette plus trapue."},
+  {"scientific_name": "Tringa stagnatilis", "common_name_fr": "Chevalier stagnatile", "why_fr": "Encore plus petit, cris similaires au chevalier sylvain, fréquente mêmes habitats."},
+  {"scientific_name": "Tringa ochropus", "common_name_fr": "Chevalier cul-blanc", "why_fr": "Taille et cris comparables, mais rump-patch blanc plus visible chez T. ochropus."},
+  {"scientific_name": "Actitis hypoleucos", "common_name_fr": "Chevalier guignette", "why_fr": "Plus petit, bobs et sautille caractéristiques, voix perçante mais différente."}
+ ],
+ "rarity_note": "Espèce rare et irrégulière en France ; surtout de passage en automne. Statut UICN : Préoccupation mineure à l'échelle mondiale.",
+ "fun_facts": [
+  "Un individu bagué en Sibérie a parcouru 1100 kilomètres en une seule journée — l'un des records de vitesse chez les oiseaux migrateurs.",
+  "Mâle et femelle partagent l'incubation et l'élevage des poussins, contrairement à beaucoup d'autres limicoles."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Chevalier_sylvain",
+  "https://en.wikipedia.org/wiki/Wood_sandpiper",
+  "https://avibase.bsc-eoc.org/",
+  "https://www.oiseaux.net/",
+  "https://www.iucnredlist.org/species/22693447/132547651"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

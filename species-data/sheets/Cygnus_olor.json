@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Cygnus olor",
+ "summary_fr": "Le Cygne tuberculé est un cygne blanc majestueux, l'un des oiseaux volants les plus lourds d'Europe. Son nom évoque deux caractéristiques : la bosse noire (tubercule) à la base de son bec orange vif, et son relative discrétion vocale par rapport aux autres cygnes. Pesant autour de 10 kg et mesurant jusqu'à 170 cm de long, ce grand voilier des plans d'eau se reconnaît à son port altier et ses longs cous courbes. Malgré son apparence calme, il défend farouchement son territoire lors de la reproduction, capable de se montrer agressif envers tout intrus. Ses vocalises, bien que moins remarquables que celles du Cygne chanteur, comprennent plusieurs types de cris territoriaux et de contact. Le bruit caractéristique de ses ailes en vol, audible à plusieurs kilomètres, reste sa signature sonore la plus distinctive.",
+ "habitat": "Plans d'eau calmes avec berges peu profondes et roselières, notamment les lacs, rivières, étangs et parcs bien pourvus en plantes aquatiques. Accepte les eaux eutrophes. En hiver, fréquente également les estuaires, les lagunes côtières et les baies abritées.",
+ "diet": "Principalement végétal : plantes aquatiques submergées, roseaux, algues, feuilles de saules. Se nourrit aussi au sol de graminées et plantes terrestres. Consomme accessoirement petits mollusques, amphibiens, insectes et organismes aquatiques. Peut ingérer accidentellement de la grenaille de plomb lors de la fouille du fond.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Centres et ouest de l'Europe, notamment le long des côtes baltiques, de la Mer du Nord, de l'Atlantique. Groupes hivernants descendant jusqu'au Moyen-Orient selon les rigueurs de l'hiver.",
+  "niche": "Eurasie tempérée : centre et nord de l'Europe, sud de la Scandinavie, Russie sud-est, Kazakhstan, Sibérie sud-est, nord de la Chine.",
+  "passage": "Mouvements migratoires irréguliers en France, largement influencés par les conditions climatiques. Augmentation des effectifs en hiver."
+ },
+ "seasonality_fr": "Présent toute l'année en France. Plus abondant en hiver lors des arrivées de populations nordiques et centre-européennes. Niche sur les plans d'eau de France centrale et septentrionale du printemps à l'été.",
+ "song_fr": "Moins vocal que le Cygne chanteur. Produit plusieurs cris : salutations entre partenaires, défense territoriale, appels de contact. Le son le plus caractéristique reste le bruit distinctif et vibrant des ailes en vol, audible à 1-2 km, particulier à cette espèce.",
+ "lookalikes": [
+  {
+   "scientific_name": "Cygnus cygnus",
+   "common_name_fr": "Cygne chanteur",
+   "why_fr": "Cygne blanc Eurasien sympatrique. Très vocal (contrairement au muet), bec noir et jaune sans tubercule, cou plus droit en vol."
+  },
+  {
+   "scientific_name": "Cygnus columbianus",
+   "common_name_fr": "Cygne siffleur",
+   "why_fr": "Plus petit, bec noir et jaune, très vocal. Possibilité de confusion acoustique à distance avec le Cygne tuberculé juvénile."
+  }
+ ],
+ "rarity_note": "Commun en France, présent toute l'année. Pleinement établi comme nicheur en Europe occidentale et centrale. Observations régulières sur tous les plans d'eau de taille suffisante.",
+ "fun_facts": [
+  "Son bruit d'ailes distinctif en vol lui a valu le nom de « cygne muet » en contraste avec les espèces plus bruyantes, mais ce surnom est trompeur.",
+  "Les cygnes sont monogames et réutilisent le même nid année après année, le restaurant ou le reconstruisant, pouvant atteindre 2 m de diamètre."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Cygne_tubercul%C3%A9",
+  "https://en.wikipedia.org/wiki/Mute_swan",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

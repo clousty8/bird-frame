@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Tachybaptus ruficollis",
+ "summary_fr": "Le Grèbe castagneux est le plus petit grèbe d'Europe, reconnaissable à sa silhouette ronde et son dos châtain. Contrairement à ses cousins grèbes, il est insectivore plutôt que piscivore, ce qui lui permet de coloniser les petits étangs et marais. Discret et méfiant, il se cache habilement dans la végétation dense. Deux fois par an, il pond régulièrement, une particularité chez les grèbes européens. Son trille sonore et hennissant résonne surtout en période de nidification, tandis qu'il reste silencieux en hiver. Ses pattes situées très en arrière du corps le rendent maladroit à terre mais excellent plongeur. France compte environ 2500 à 3000 couples, renforcés en hiver par des migrateurs du nord. Cet oiseau aquatique incarne la discrétion des milieux humides tempérés.",
+ "habitat": "Lacs, étangs, marais et gravières avec végétation dense sur les rives. Préfère les plans d'eau de petite taille. Fréquente aussi les réservoirs, les baies côtières abritées et les estuaires.",
+ "diet": "Principalement insectes aquatiques (libellules, éphémères, perles, dytiques). Consomme aussi petits crustacés (aselles, gammares), mollusques, têtards, petites grenouilles et petits poissons de 5 à 7 cm.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Toute la France, où les nicheurs locaux se mêlent aux oiseaux du nord et de l'est de l'Europe en hiver.",
+  "niche": "Partout en France, d'avril à juillet, nichées flottantes parmi les roseaux et joncs.",
+  "passage": "Passages migratoires en mars, puis d'octobre à novembre."
+ },
+ "seasonality_fr": "Présent toute l'année en France. Visible sur les plans d'eau, surtout en période de reproduction d'avril à juillet. Plus silencieux en hiver mais peut être entendu lors des beaux jours ensoleillés.",
+ "song_fr": "Trille sonore et hennissante en période nuptiale (mars-juillet). Appels caractéristiques « bii-iip » et bruits métalliques « ûit-ûit ». Chante surtout de mars à fin juillet, plus discret en hiver.",
+ "lookalikes": [
+  {
+   "scientific_name": "Podiceps nigricollis",
+   "common_name_fr": "Grèbe à cou noir",
+   "why_fr": "Trilles sonores similaires en période nuptiale. En hiver, confusion possible sur le plumage mais le castagneux est plus petit et au cou plus court."
+  }
+ ],
+ "rarity_note": "Régulier et commun en France. Environ 2500-3000 couples nicheurs, renforcés en hiver jusqu'à 5000 individus. Statut de conservation stable en Europe.",
+ "fun_facts": [
+  "Contrairement aux autres grèbes d'Europe, le Grèbe castagneux pond régulièrement deux fois par an.",
+  "Ses pattes lobées sont situées très en arrière du corps, ce qui le rend excellent plongeur mais très maladroit à terre.",
+  "C'est le régime alimentaire insectivore, plus rare chez les grèbes, qui lui permet de survivre sur de petits plans d'eau sans poissons."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Grèbe_castagneux",
+  "https://en.wikipedia.org/wiki/Little_grebe"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

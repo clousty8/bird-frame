@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Poecile montanus",
+ "summary_fr": "Petit passereau forestier de la famille des paridés, la Mésange boréale est largement distribuée en Europe du Nord et du centre. Son plumage gris-brun et blanc cassé, rehaussé d'une calotte noire mate et d'une bavette caractéristique, la rend très similaire à la Mésange nonnette dont elle se distingue par une tête plus volumineuse et des joues blanches marquées à l'arrière. Spécialiste des forêts de conifères, elle s'aventure moins au sud que sa cousine, préférant les régions plus froides. Remarquablement autonome, elle creuse elle-même ses cavités de nidification, même dans le bois dur, contrairement aux autres mésanges. En France, la Mésange boréale reste largement résiduelle avec quelques flux migratoires saisonniers depuis le nord et l'est. Son chant rapide, composé de gazouillis doux répétés, est caractéristique et permet une bonne identification acoustique, bien qu'elle partage certains cris d'alarme avec d'autres mésanges.",
+ "habitat": "Forêts de conifères et bois morts, zones boisées humides, du niveau de la mer à la montagne. Affectionne particulièrement les sapinières et épicéas des régions tempérées et subarctiques.",
+ "diet": "Insectes, larves et araignées ; graines et baies en hiver. Fouille l'écorce des arbres et capture en vol ses proies.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Partout en France où elle est présente à l'année, avec des apports de populations nordiques en hiver.",
+  "niche": "Régions montagnardes et forestières du nord et du centre de la France, avril à juillet. Nidification rare en plaine.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente toute l'année en France, surtout dans les régions favorables de montagne et de forêt. Plus difficile à détecter en été lors de la nidification.",
+ "song_fr": "Chant fluide composé de gazouillis rapides suivis de lentes répétitions de sifflements doux : tsiu tsiu tsiu. Cris d'alarme aigus ressemblant à d'autres mésanges, souvent entendus en réaction aux prédateurs.",
+ "lookalikes": [
+  {
+   "scientific_name": "Poecile palustris",
+   "common_name_fr": "Mésange nonnette",
+   "why_fr": "Très similaire ; distinction par calotte noire brillante chez nonnette vs mate chez boréale, joues blanches plus étendues."
+  },
+  {
+   "scientific_name": "Lophophanes cristatus",
+   "common_name_fr": "Mésange huppée",
+   "why_fr": "Similarité des cris aigus et des contextes forestiers ; absence de crête chez boréale vs crête visible chez huppée."
+  }
+ ],
+ "rarity_note": "Régulière en montagne et zones forestières du nord-est de la France ; peu commune en plaine et dans le centre-ouest. Présence plus forte en hiver.",
+ "fun_facts": [
+  "Contrairement à la Mésange nonnette, elle creuse elle-même ses trous de nidification, même dans le bois dur.",
+  "Elle est plus nordique que la Mésange nonnette, adaptée à des régions plus froides et conifères."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/M%C3%A9sange_bor%C3%A9ale",
+  "https://en.wikipedia.org/wiki/Willow_tit",
+  "https://www.oiseaux.net/familles/paridae.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Melospiza melodia",
+ "summary_fr": "Petit bruant nord-américain au plumage brun striés et à la tache centrale thoracique distinctive, le Bruant chanteur est l'une des espèces les plus communes et adaptables d'Amérique du Nord. Son nom dérive de son chant complexe, composé de plusieurs mélodies répétées, dont les trois premières notes rappellent l'Hymne à la Joie de Beethoven. Territorial toute l'année, il occupe une grande variété d'habitats pourvu qu'il y ait des buissons et une source d'eau : fourrés, prairies, lisières forestières, jusqu'aux jardins et zones résidentielles. En France, l'espèce ne constitue qu'un vagabond très rare, enregistré principalement en automne et hiver lors des passages migratoires d'oiseaux d'Europe du Nord. Les détections acoustiques restent exceptionnelles et résultent probablement du débordement de migration depuis l'Amérique du Nord vers l'ouest.",
+ "habitat": "Fourrés, roseaux, prairies buissonneuses et jardins, toujours près d'une source d'eau (rivière, étang, littoral).",
+ "diet": "Graines et fruits l'année durant ; augmentation notable d'insectes et d'invertébrés en période de reproduction.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Populations de l'Amérique du Nord tempérée qui migrent hivernent dans les États du sud des É.-U. et au Mexique. En France, seuls des individus hivernants occasionnels sont signalés.",
+  "niche": "Niche en Amérique du Nord, du Canada aux États-Unis. Ne niche pas en France.",
+  "passage": "Vagabond très rare en automne-hiver (septembre-février), avec quelques observations printanières (mars-avril)."
+ },
+ "seasonality_fr": "En France, exceptionnel. Observations principalement en automne (octobre-novembre) et hiver (décembre-février), rarement au printemps (mars-avril).",
+ "song_fr": "Chant composé de plusieurs mélodies répétées (5-15 types différents selon l'individu), souvent 180-200 fois par heure. Les trois premières notes sont caractéristiques : son, sol, mi-sol (rappelant Beethoven). Cris d'alarme variés (tchunk, tchip, tik, chip).",
+ "lookalikes": [
+  {
+   "scientific_name": "Melospiza lincolnii",
+   "common_name_fr": "Bruant de Lincoln",
+   "why_fr": "Très proche de Melospiza melodia, distinguable par sa queue plus courte et grise. Chant et motifs très similaires."
+  },
+  {
+   "scientific_name": "Passerculus sandwichensis",
+   "common_name_fr": "Bruant des sauges",
+   "why_fr": "Sparrow nord-américain au plumage rayé similaire et aux vocalisations comparables en structure et tessiture."
+  }
+ ],
+ "rarity_note": "Vagabond exceptionnel en France, jamais régulier. Enregistré seulement lors des passages migratoires ou hivernage accidentel. Risque acoustique de détection très faible mais existe.",
+ "fun_facts": [
+  "Les trois premières notes de son chant ressemblent remarquablement aux quatre premières notes de la Symphonie n°5 de Beethoven, ce qui a inspiré son surnom anglais.",
+  "Chaque mâle dispose d'un répertoire de 5 à 13 mélodies différentes, qu'il jongle pour communiquer sa dominance et attirer les femelles.",
+  "Environ 52 sous-espèces géographiques existent, avec une variation extrême de taille et de coloration d'Alaska à Basse-Californie."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bruant_chanteur",
+  "https://en.wikipedia.org/wiki/Song_sparrow",
+  "https://oiseaux.net/species/melospiza.melodia.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

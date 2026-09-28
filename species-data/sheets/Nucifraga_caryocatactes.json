@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Nucifraga caryocatactes",
+ "summary_fr": "Le Cassenoix moucheté est un passereau robuste de la famille des Corvidae, reconnaissable à son corps brun chocolat distinctif tacheté de blanc et à son bec noir imposant. Oiseau des forêts de conifères montagnardes européennes, il fascine par ses capacités cognitives exceptionnelles. Herbivore à dominante végétale, il se nourrit principalement de graines de pins — particulièrement les pins cembros en altitude — et de noisettes, qu'il cache en milliers pour l'hiver. Sa mémoire prodigue lui permet de retrouver la majorité de ses cachettes même sous la neige épaisse, une adaptation remarquable à l'environnement alpin. Cet oiseau sédentaire dans sa zone de reproduction entreprend parfois des migrations invasives en masse lors des années où les ressources alimentaires manquent, particulièrement depuis la Scandinavie. Son plumage distinctif et son comportement territorial le rendent mémorable des montagnards européens.",
+ "habitat": "Forêts de conifères montagnardes avec épicéas denses et pins cembros; niche jusqu'à 2200 m d'altitude; territoire variant de dix à cent hectares selon les ressources alimentaires.",
+ "diet": "Graines de conifères et noisettes, constituant le régime principal. Cache plusieurs milliers de graines pour l'hiver, retrouvant deux à trois quarts de ses réserves. Complément de baies, fruits secs et petits invertébrés.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Hiverne dans les zones de montagne où il se reproduit, se nourrissant de ses réserves cachées; migrations invasives irrégulières lors de manque de ressources alimentaires.",
+  "niche": "Niche en France dans le Jura, les Vosges et les Alpes, d'avril à juillet; nichées précoces avant la fonte des neiges.",
+  "passage": null
+ },
+ "seasonality_fr": "Présent toute l'année dans les massifs montagnards du centre et de l'est; demeure silencieux en hiver malgré son activité soutenue.",
+ "song_fr": "Cris secs et répétés « kree kree kree » ou « kra kra kra » émis en série surtout en été; résonance caractéristique, moins criard que le Geai des chênes; silencieux en hiver.",
+ "lookalikes": [
+  {
+   "scientific_name": "Garrulus glandarius",
+   "common_name_fr": "Geai des chênes",
+   "why_fr": "Cris rauques en série d'un autre corvide partageant le même habitat montagnard, pouvant causer confusion acoustique."
+  }
+ ],
+ "rarity_note": "Peu commun en France, confiné aux zones montagnardes du centre et de l'est; absent de plaine sauf lors d'irruptions exceptionnelles.",
+ "fun_facts": [
+  "Sa mémoire prodigieuse lui permet de retrouver jusqu'aux trois quarts de ses caches dispersées sur plusieurs kilomètres, même sous la neige.",
+  "Il se reproduit très tôt au printemps, souvent dès février-mars, avant même la fonte complète des neiges en montagne.",
+  "Le couple sédentaire ignore mutuellement les cachettes de l'autre, chacun gardant secret le trésor de son partenaire."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Cassenoix_moucheté",
+  "https://en.wikipedia.org/wiki/Northern_nutcracker",
+  "https://oiseaux.net"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

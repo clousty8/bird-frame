@@ -1,0 +1,96 @@
+{
+ "scientific_name": "Ciconia ciconia",
+ "common_name_fr": "Cigogne blanche",
+ "birdnet_label": "Ciconia ciconia_Cigogne blanche",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Ciconiiformes",
+  "family": "Ciconiidae",
+  "family_common": "Storks",
+  "genus": "Ciconia",
+  "species": "Ciconia ciconia"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Cigogne blanche",
+   "url": "https://fr.wikipedia.org/wiki/Cigogne_blanche",
+   "description": "espèce d'oiseaux ciconiiformes de la famille des ciconiidae",
+   "extract": "La Cigogne blanche est une grande espèce d'oiseaux échassiers de la famille des Ciconiidés. Son plumage est principalement blanc, avec du noir sur les ailes. Les adultes ont de longues pattes rouges et un bec rouge long et droit, et mesurent en moyenne 100 à 115 cm du bout du bec au bout de la queue, avec une envergure comprise entre 155 et 215 cm. Son espérance de vie est de 20 à 30 ans.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "White stork",
+   "url": "https://en.wikipedia.org/wiki/White_stork",
+   "description": "Species of bird",
+   "extract": "The white stork is a large bird in the stork family, Ciconiidae. Its plumage is mainly white, with black on the bird's wings. Adults have long red legs and long pointed red beaks, and measure on average 100–115 cm (39–45 in) from beak tip to end of tail, with a 155–215 cm (61–85 in) wingspan. The two subspecies, which differ slightly in size, breed in Europe north to Finland, northwestern Africa, Palearctic east to southern Kazakhstan and southern Africa. The white stork is a long-distance migrant, wintering in Africa from tropical Sub-Saharan Africa to as far south as South Africa, or on the Indian subcontinent. When migrating between Europe and Africa, it avoids crossing the Mediterranean Sea and detours via the Levant in the east or the Strait of Gibraltar in the west, because the air thermals on which it depends for soaring do not form over water.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Stork_%28Palic%2C_Serbia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1245,
+  "height": 1860,
+  "file": "Stork_(Palic,_Serbia).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Stork_%28Palic%2C_Serbia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Dcabrilo",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Stork_(Palic,_Serbia).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2124,
+  "cities": {
+   "Le Mans": 0.07,
+   "Pornic": 0.052,
+   "Rennes": 0.039,
+   "Poitiers": 0.093,
+   "Paris": 0.088,
+   "Lille": 0.064,
+   "Strasbourg": 0.183,
+   "Lyon": 0.177,
+   "Grenoble": 0.147,
+   "Marseille": 0.122,
+   "Toulouse": 0.212,
+   "Bordeaux": 0.152,
+   "Brest": 0.016,
+   "Ajaccio": 0.154,
+   "Clermont-Ferrand": 0.169,
+   "Chamonix": 0.15,
+   "Perpignan": 0.155,
+   "Nancy": 0.152
+  },
+  "monthly_scores": [
+   0.1421,
+   0.1665,
+   0.2124,
+   0.1763,
+   0.1832,
+   0.1733,
+   0.1621,
+   0.1278,
+   0.0428,
+   0.0644,
+   0.1512,
+   0.1502
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:35Z"
+}

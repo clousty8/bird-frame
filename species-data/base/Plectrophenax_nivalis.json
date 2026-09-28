@@ -1,0 +1,76 @@
+{
+ "scientific_name": "Plectrophenax nivalis",
+ "common_name_fr": "Plectrophane des neiges",
+ "birdnet_label": "Plectrophenax nivalis_Plectrophane des neiges",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Calcariidae",
+  "family_common": "Longspurs and Snow Buntings",
+  "genus": "Plectrophenax",
+  "species": "Plectrophenax nivalis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bruant des neiges",
+   "url": "https://fr.wikipedia.org/wiki/Bruant_des_neiges",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Bruant des neiges, pour lequel le nom normalisé de « Plectrophane des neiges » a été proposé, est une espèce de passereaux appartenant à la famille des Calcariidae.",
+   "fulltext_chars": 5421
+  },
+  "en": {
+   "title": "Snow bunting",
+   "url": "https://en.wikipedia.org/wiki/Snow_bunting",
+   "description": "Species of bird",
+   "extract": "The snow bunting is a passerine bird in the family Calcariidae. It is an Arctic specialist, with a circumpolar Arctic breeding range throughout the northern hemisphere. There are small isolated populations on a few high mountain tops south of the Arctic region, including the Cairngorms in central Scotland and the Saint Elias Mountains on the southern Alaska-Yukon border, as well as the Cape Breton Highlands. The snow bunting is the most northerly recorded passerine in the world.",
+   "fulltext_chars": 13752
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Snj%C3%B3tittlingur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 407,
+  "height": 316,
+  "file": "Snjótittlingur.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Snj%C3%B3tittlingur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "pbonenfant",
+  "credit": "Snow Bunting",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Snj%C3%B3tittlingur.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0371,
+  "cities": {
+   "Le Mans": 0.021,
+   "Pornic": 0.029,
+   "Rennes": 0.029,
+   "Poitiers": 0.018,
+   "Paris": 0.019,
+   "Lille": 0.026,
+   "Bordeaux": 0.016,
+   "Brest": 0.037,
+   "Ajaccio": 0.032,
+   "Nancy": 0.01
+  },
+  "monthly_scores": [
+   0.0344,
+   0.0371,
+   0.0257,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0158,
+   0.0245,
+   0.0298
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:04Z"
+}

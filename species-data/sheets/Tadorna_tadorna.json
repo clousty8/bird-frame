@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Tadorna tadorna",
+ "summary_fr": "La Tadorne de Belon est un anatidé élégant de taille moyenne, aux caractéristiques intermédiaires entre oies et canards. Le mâle affiche une tête noir verdâtre, un bec rouge caractéristique orné d'une caroncule et une bande pectorale rousse sur un corps blanc. La femelle, aussi colorée, en diffère par l'absence de caroncule. Ces oiseaux grégaires se nourrissent en surface dans les zones humides côtières et les estuaires, où ils explorent la vase et les eaux peu profondes à la recherche d'invertébrés. Couples formés dès l'hiver, ils nichent au printemps dans des terriers ou des cavités et défendent farouchement leur territoire alimentaire. En France, les populations locales sédentaires accueillent à l'automne des migrateurs du nord. Moultes et crèches estivales sont classiques, les adultes partant généralement en juillet vers la mer des Wadden.",
+ "habitat": "Zones humides côtières (estuaires, vasières, lacs saumâtres ou salés) et habitats continentaux. Niche dans des terriers, cavités d'arbres, talus ou sous des buissons. De plus en plus dans les lacs d'eau douce en milieu ouvert.",
+ "diet": "Essentiellement hydrobies, petits escargots marins capturés en surface ou en eau peu profonde. Consomme aussi des crustacés (Artemia, Corophium) et annélides.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France, notamment côtière, et en Méditerranée occidentale. Rejoint par des oiseaux migrateurs du nord et de l'est de l'Europe. Aussi en Afrique du Nord en régions tempérées à subtropicales.",
+  "niche": "Partout en France côtière et estuarienne, d'avril à juillet. Occupation territoriale importante, nidification généralement avril-mai.",
+  "passage": "Arrivées marquées en septembre-octobre des populations nordiques. Départs printemiers février-mars. Mouvements estivaux massifs juin-juillet vers les zones de mue, notamment la mer des Wadden."
+ },
+ "seasonality_fr": "Visible toute l'année en France, particulièrement en zones côtières. Effectifs renforcés à l'automne et l'hiver par les migrateurs du nord-est. Moins visible en milieu terrestre.",
+ "song_fr": "Relativement silencieuse hors reproduction. En saison de nidification, le mâle émet deux cris caractéristiques : « ak-ak-ak » rapide et nasal, plus bas « ark-ark ». Femelles avec poussins produisent des cris doux et nasillards. Appel général : honk sonore et distinctif.",
+ "lookalikes": [
+  {
+   "scientific_name": "Tadorna ferruginea",
+   "common_name_fr": "Tadorne casarca",
+   "why_fr": "Espèce apparentée du même genre, confusion possible au passage. Cris plus aigus et sifflements distincts."
+  },
+  {
+   "scientific_name": "Anser anser",
+   "common_name_fr": "Oie cendrée",
+   "why_fr": "Honkings graves similaires. Taille supérieure mais chevauchement acoustique possible."
+  },
+  {
+   "scientific_name": "Branta leucopsis",
+   "common_name_fr": "Bernache nonnette",
+   "why_fr": "Appels courts et rauques pouvant se confondre avec les cris de nidification du Tadorne."
+  }
+ ],
+ "rarity_note": "Régulière et commune en France côtière toute l'année, avec renforcements saisonniers à l'automne-hiver. Présente sur tous les mois et régions littorales du filtre BirdNET.",
+ "fun_facts": [
+  "La caroncule rouge du mâle, particulièrement gonflée en période de reproduction, joue un rôle dans les parades nuptiales.",
+  "Les adultes organisent des crèches de centaines de poussins sous surveillance d'un petit nombre d'adultes.",
+  "Moultes massives : plus de 100 000 oiseaux se concentrent en été en mer des Wadden, un spectacle remarquable."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Tadorne_de_Belon",
+  "https://en.wikipedia.org/wiki/Common_shelduck",
+  "https://www.oiseaux.net/oiseaux/tadorne.de.belon.html",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,92 @@
+{
+ "scientific_name": "Rissa tridactyla",
+ "common_name_fr": "Mouette tridactyle",
+ "birdnet_label": "Rissa tridactyla_Mouette tridactyle",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Rissa",
+  "species": "Rissa tridactyla"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Mouette tridactyle",
+   "url": "https://fr.wikipedia.org/wiki/Mouette_tridactyle",
+   "description": "espèce d'oiseaux",
+   "extract": "La Mouette tridactyle est une espèce d'oiseaux marins Charadriiformes de la famille des Laridae. Contrairement à la plupart des mouettes et goélands, il s'agit d'une espèce réellement pélagique qui ne s'approche du littoral que pour la reproduction. Celle-ci se déroule généralement au flanc de falaises verticales surplombant directement la mer. Elle ne vit que dans l'hémisphère nord, tant dans le Pacifique que dans l'Atlantique. Avec une population mondiale évaluée à plusieurs millions de couples, il s'agit d'un des oiseaux de mer les plus abondants de l'hémisphère nord.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Black-legged kittiwake",
+   "url": "https://en.wikipedia.org/wiki/Black-legged_kittiwake",
+   "description": "Species of bird",
+   "extract": "The black-legged kittiwake is a seabird species in the gull family Laridae. This species was first described by Carl Linnaeus in his landmark 1758 10th edition of Systema Naturae as Larus tridactylus. The English name is derived from its call, a shrill 'kittee-wa-aaake, kitte-wa-aaake'. In North America, this species is known as the black-legged kittiwake to differentiate it from the red-legged kittiwake, but in Europe, where it is the only member of the genus, it is often known just as kittiwake.",
+   "fulltext_chars": 20433
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/75/Kittiwake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1113,
+  "height": 1455,
+  "file": "Kittiwake.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/7/75/Kittiwake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Hanno",
+  "credit": "uploaded by the photographer",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Kittiwake.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1575,
+  "cities": {
+   "Le Mans": 0.046,
+   "Pornic": 0.09,
+   "Rennes": 0.089,
+   "Poitiers": 0.043,
+   "Paris": 0.024,
+   "Lille": 0.042,
+   "Marseille": 0.015,
+   "Toulouse": 0.018,
+   "Bordeaux": 0.031,
+   "Brest": 0.157,
+   "Ajaccio": 0.05,
+   "Clermont-Ferrand": 0.016,
+   "Perpignan": 0.017
+  },
+  "monthly_scores": [
+   0.1135,
+   0.1184,
+   0.1324,
+   0.0907,
+   0.0803,
+   0.1121,
+   0.1575,
+   0.0915,
+   0.0579,
+   0.1291,
+   0.1207,
+   0.1153
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:30Z"
+}

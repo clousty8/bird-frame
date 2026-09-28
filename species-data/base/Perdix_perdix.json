@@ -1,0 +1,92 @@
+{
+ "scientific_name": "Perdix perdix",
+ "common_name_fr": "Perdrix grise",
+ "birdnet_label": "Perdix perdix_Perdrix grise",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Galliformes",
+  "family": "Phasianidae",
+  "family_common": "Pheasants, Grouse, and Allies",
+  "genus": "Perdix",
+  "species": "Perdix perdix"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Perdrix grise",
+   "url": "https://fr.wikipedia.org/wiki/Perdrix_grise",
+   "description": "espèce d'oiseaux galliformes de la famille des phasianidae",
+   "extract": "La Perdrix grise est une espèce d'oiseaux de l'ordre des Galliformes, appartenant à la famille des Phasianidae.",
+   "fulltext_chars": 22075
+  },
+  "en": {
+   "title": "Grey partridge",
+   "url": "https://en.wikipedia.org/wiki/Grey_partridge",
+   "description": "Species of bird",
+   "extract": "The grey partridge is a bird in the pheasant family Phasianidae of the order Galliformes, gallinaceous birds. The scientific name is the Latin for \"partridge\".",
+   "fulltext_chars": 5319
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Perdix_perdix_2_%28Marek_Szczepanek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 650,
+  "height": 425,
+  "file": "Perdix_perdix_2_(Marek_Szczepanek).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Perdix_perdix_2_%28Marek_Szczepanek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Marek Szczepanek",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Perdix_perdix_2_(Marek_Szczepanek).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0841,
+  "cities": {
+   "Le Mans": 0.08,
+   "Pornic": 0.077,
+   "Rennes": 0.071,
+   "Poitiers": 0.084,
+   "Paris": 0.06,
+   "Lille": 0.044,
+   "Strasbourg": 0.024,
+   "Lyon": 0.043,
+   "Grenoble": 0.042,
+   "Marseille": 0.016,
+   "Toulouse": 0.016,
+   "Bordeaux": 0.049,
+   "Brest": 0.052,
+   "Ajaccio": 0.039,
+   "Clermont-Ferrand": 0.056,
+   "Chamonix": 0.035,
+   "Nancy": 0.031
+  },
+  "monthly_scores": [
+   0.0841,
+   0.0822,
+   0.0816,
+   0.0653,
+   0.0475,
+   0.051,
+   0.0496,
+   0.031,
+   0.0273,
+   0.0532,
+   0.0701,
+   0.0731
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:19Z"
+}

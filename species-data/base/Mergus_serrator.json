@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Mergus serrator",
+ "common_name_fr": "Harle huppé",
+ "birdnet_label": "Mergus serrator_Harle huppé",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Mergus",
+  "species": "Mergus serrator"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Harle huppé",
+   "url": "https://fr.wikipedia.org/wiki/Harle_hupp%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Harle huppé est une espèce d'oiseaux palmipèdes appartenant à la famille des Anatidae. L'espèce est classée, au niveau mondial, en préoccupation mineure mais menacée au niveau européen.",
+   "fulltext_chars": 1956
+  },
+  "en": {
+   "title": "Red-breasted merganser",
+   "url": "https://en.wikipedia.org/wiki/Red-breasted_merganser",
+   "description": "Species of bird",
+   "extract": "The red-breasted merganser is a duck species that is native to much of the temperate to subarctic Northern Hemisphere. The red breast that gives the species its common name is only displayed by males in breeding plumage. Individuals fly rapidly, and feed by diving from the surface to pursue aquatic animals underwater, using serrated bills to capture slippery fish. They migrate each year from breeding sites on lakes and rivers to their mostly coastal wintering areas, making them the most frequent species in the genus Mergus to frequent saltwater regularly. The worldwide population of this species is stable, though it is threatened in some areas by habitat loss and other factors.",
+   "fulltext_chars": 5797
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Red-breasted_Merganser_male_%28Mergus_serrator%29%2C_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4855,
+  "height": 2415,
+  "file": "Red-breasted_Merganser_male_(Mergus_serrator),_Barnegat_Inlet,_New_Jersey,_USA.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Red-breasted_Merganser_male_%28Mergus_serrator%29%2C_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg/1920px-Red-breasted_Merganser_male_%28Mergus_serrator%29%2C_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Needsmoreritalin",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Red-breasted_Merganser_male_(Mergus_serrator),_Barnegat_Inlet,_New_Jersey,_USA.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1451,
+  "cities": {
+   "Le Mans": 0.057,
+   "Pornic": 0.075,
+   "Rennes": 0.084,
+   "Poitiers": 0.046,
+   "Paris": 0.047,
+   "Lille": 0.073,
+   "Strasbourg": 0.011,
+   "Lyon": 0.02,
+   "Grenoble": 0.019,
+   "Marseille": 0.036,
+   "Toulouse": 0.025,
+   "Bordeaux": 0.04,
+   "Brest": 0.108,
+   "Ajaccio": 0.145,
+   "Clermont-Ferrand": 0.026,
+   "Chamonix": 0.014,
+   "Perpignan": 0.028,
+   "Nancy": 0.017
+  },
+  "monthly_scores": [
+   0.1442,
+   0.1451,
+   0.0937,
+   0.0377,
+   0.0112,
+   0.0,
+   0.0106,
+   0.0,
+   0.0131,
+   0.0572,
+   0.1152,
+   0.1351
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:02Z"
+}

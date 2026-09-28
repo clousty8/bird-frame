@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Buteo buteo",
+ "common_name_fr": "Buse variable",
+ "birdnet_label": "Buteo buteo_Buse variable",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Buteo",
+  "species": "Buteo buteo"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Buse variable",
+   "url": "https://fr.wikipedia.org/wiki/Buse_variable",
+   "description": "espèce d'oiseaux accipitriformes de la famille des Accipitridae",
+   "extract": "La Buse variable est une espèce de rapaces diurnes de taille moyenne, appartenant à la famille des Accipitridae, très répandue dans le Paléarctique, où elle niche depuis les îles de l'océan Atlantique jusqu'au nord-ouest de la Chine et de la Mongolie, en passant par l'Europe et la Russie européenne. Sa zone d'hivernage inclut le Paléarctique occidental, l'Afrique de l'Est et australe, ainsi que le sous-continent indien.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Common buzzard",
+   "url": "https://en.wikipedia.org/wiki/Common_buzzard",
+   "description": "Species of bird of prey",
+   "extract": "The common buzzard is a medium-sized bird of prey with a large range. It is a member of the genus Buteo in the family Accipitridae. The species lives in most of Europe and extends its breeding range across much of the Palearctic as far as northwestern China, far western Siberia and northwestern Mongolia. Over much of its range, it is a year-round resident. However, buzzards from the colder parts of the Northern Hemisphere as well as those that breed in the eastern part of their range typically migrate south for the northern winter, many journeying as far as South Africa.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/47/Common_Buzzard_by_caroline_legg_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2671,
+  "height": 3556,
+  "file": "Common_Buzzard_by_caroline_legg_(cropped).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Common_Buzzard_by_caroline_legg_%28cropped%29.jpg/1920px-Common_Buzzard_by_caroline_legg_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "caroline legg",
+  "credit": "This image has been extracted from another file",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Common_Buzzard_by_caroline_legg_(cropped).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.7189,
+  "cities": {
+   "Le Mans": 0.604,
+   "Pornic": 0.532,
+   "Rennes": 0.566,
+   "Poitiers": 0.578,
+   "Paris": 0.66,
+   "Lille": 0.687,
+   "Strasbourg": 0.719,
+   "Lyon": 0.612,
+   "Grenoble": 0.588,
+   "Marseille": 0.537,
+   "Toulouse": 0.616,
+   "Bordeaux": 0.632,
+   "Brest": 0.504,
+   "Ajaccio": 0.617,
+   "Clermont-Ferrand": 0.624,
+   "Chamonix": 0.599,
+   "Perpignan": 0.557,
+   "Nancy": 0.708
+  },
+  "monthly_scores": [
+   0.6487,
+   0.6463,
+   0.6755,
+   0.7151,
+   0.6792,
+   0.6773,
+   0.6844,
+   0.7189,
+   0.6998,
+   0.6612,
+   0.6432,
+   0.642
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:43Z"
+}

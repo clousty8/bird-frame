@@ -1,0 +1,87 @@
+{
+ "scientific_name": "Fulmarus glacialis",
+ "common_name_fr": "Fulmar boréal",
+ "birdnet_label": "Fulmarus glacialis_Fulmar boréal",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Procellariiformes",
+  "family": "Procellariidae",
+  "family_common": "Shearwaters and Petrels",
+  "genus": "Fulmarus",
+  "species": "Fulmarus glacialis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fulmar boréal",
+   "url": "https://fr.wikipedia.org/wiki/Fulmar_bor%C3%A9al",
+   "description": "espèce d'oiseaux marins procellariiformes de la famille des procellariidae",
+   "extract": "Le Fulmar boréal, aussi appelé Pétrel fulmar et fulmar glacial, est une espèce d'oiseaux marins de l'ordre des Procellariiformes appartenant à la famille des Procellariidae. Il est caractéristique des eaux froides de l'hémisphère Nord, il est résolument hauturier en dehors de la saison de reproduction. Au cours du XXe siècle, il a connu une forte croissance de ses populations accompagnée d'une spectaculaire extension de son aire de distribution, essentiellement vers le sud.",
+   "fulltext_chars": 12597
+  },
+  "en": {
+   "title": "Northern fulmar",
+   "url": "https://en.wikipedia.org/wiki/Northern_fulmar",
+   "description": "Species of bird",
+   "extract": "The northern fulmar, Arctic fulmar, or simply fulmar is an abundant seabird found primarily in subarctic regions of the North Atlantic and North Pacific oceans. There has been one confirmed sighting in the Southern Hemisphere, with a single bird seen south of New Zealand. Fulmars come in one of two colour morphs; a light one in temperate populations, with white head and body and grey wings and tail, and a dark one in arctic populations, which is uniformly grey; intermediate birds are common. Though similar in appearance to gulls, fulmars are in fact members of the family Procellariidae, which includes petrels and shearwaters.",
+   "fulltext_chars": 9325
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Northern-Fulmar_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2847,
+  "height": 2050,
+  "file": "Northern-Fulmar_2.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Northern-Fulmar_2.jpg/1920px-Northern-Fulmar_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Northern-Fulmar_2.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2564,
+  "cities": {
+   "Le Mans": 0.035,
+   "Pornic": 0.102,
+   "Rennes": 0.109,
+   "Poitiers": 0.02,
+   "Paris": 0.015,
+   "Lille": 0.026,
+   "Bordeaux": 0.011,
+   "Brest": 0.256
+  },
+  "monthly_scores": [
+   0.0734,
+   0.1056,
+   0.1838,
+   0.1888,
+   0.1606,
+   0.2058,
+   0.2564,
+   0.1802,
+   0.0991,
+   0.0979,
+   0.0669,
+   0.0651
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:31Z"
+}

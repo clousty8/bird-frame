@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anser anser",
+ "summary_fr": "L'Oie cendrée est une grande oie aquatique originaire d'Eurasie qui a donné naissance aux races domestiques modernes il y a plus de 3000 ans. En France, on la rencontre surtout comme hivernante, arrivant de Scandinavie et de Russie à partir de septembre. C'est une espèce monogame dont les couples restent unis à vie et se reconnaissent par les cris distinctifs qu'elles échangent. De massif gabarit (environ 3 kg, 68-90 cm de longueur), elle se caractérise par un plumage gris-beige et un bec orange. Herbivore, elle pâture les prairies et les champs, ce qui en fait parfois un consommateur de cultures. Ses vols migratoires en formation en V, accompagnés de cris aigus puissants ressemblant à des aboiements, constituent l'un des spectacles ornithologiques marquants de l'automne et du printemps.",
+ "habitat": "Zones humides, lacs et marais avec végétation dense de roseaux ; en hiver, marais côtiers, estuaires et prairies humides inondées.",
+ "diet": "Herbes, plantes aquatiques et tubercules ; glanage de céréales et de graines ; dégâts occasionnels sur cultures de pommes de terre et carottes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France, Espagne, Afrique du Nord pour les hivernants ; certaines populations du nord-ouest européen demeurent résidentes.",
+  "niche": "Nord et est de l'Europe (Islande, Scandinavie, Russie) ; quelques couples reproducteurs en France surtout en Alsace et Brière.",
+  "passage": "Migrations actives de septembre à décembre vers le sud, février-mars vers le nord via la vallée du Rhône."
+ },
+ "seasonality_fr": "Hivernante régulière d'octobre à mars ; apparitions en passage migrateur marqué en septembre-décembre et février-mars.",
+ "song_fr": "Cris aigus et puissants en vol ressemblant à des aboiements (ga-ga-ga, ang-ang-ang) ; sifflements dissuasifs de la femelle au nid.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anser albifrons",
+   "common_name_fr": "Oie rieuse",
+   "why_fr": "Taille similaire mais ventre parsemé de taches noires plus nombreuses et plus étendues."
+  },
+  {
+   "scientific_name": "Anser fabalis",
+   "common_name_fr": "Oie des moissons",
+   "why_fr": "Plus petite, bec entièrement noir ou bicolore ; cris distincts plus haut perchés et différents."
+  },
+  {
+   "scientific_name": "Branta canadensis",
+   "common_name_fr": "Bernache du Canada",
+   "why_fr": "Plus grande avec cou blanc caractéristique ; appels graves et sonores rappelant l'Oie cendrée."
+  }
+ ],
+ "rarity_note": "Hivernante commune en France, surtout dans le quart nord et nord-ouest et vallée du Rhône, rare en région méditerranéenne.",
+ "fun_facts": [
+  "Ancêtre des oies domestiques domestiquées depuis plus de 3000 ans, elle reste génétiquement capable de se reproduire avec ses formes captives.",
+  "Espèce monogame fidèle, les couples peuvent rester ensemble plus de 20 ans ; les deux sexes pratiquent aussi des alliances homosexuelles.",
+  "En vol migratoire, les oies changent régulièrement de leader en formation V pour optimiser l'aérodynamique et répartir l'effort du groupe."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Oie_cendrée",
+  "https://en.wikipedia.org/wiki/Greylag_goose",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,50 @@
+{
+  "scientific_name": "Turdus merula",
+  "common_name_fr": "Merle noir",
+  "birdnet_label": "Turdus merula_Merle noir",
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "family_common": "Thrushes",
+    "genus": "Turdus",
+    "species": "Turdus merula"
+  },
+  "wikipedia": {
+    "fr": {
+      "title": "Merle noir",
+      "url": "https://fr.wikipedia.org/wiki/Merle_noir",
+      "description": "espèce d'oiseaux",
+      "extract": "Le Merle noir est une espèce de passereaux.",
+      "fulltext_chars": 12000
+    },
+    "en": {
+      "title": null,
+      "url": null,
+      "description": null,
+      "extract": null,
+      "fulltext_chars": 0
+    }
+  },
+  "photo": {
+    "source": "wikipedia",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/test/merle-original.jpg",
+    "width": 2000,
+    "height": 1500,
+    "file": "merle.jpg",
+    "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/test/merle-1600.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Test Author",
+    "credit": "Own work",
+    "description_url": "https://commons.wikimedia.org/wiki/File:merle.jpg"
+  },
+  "france_universe": {
+    "max_score": 0.9995,
+    "cities": {"Pornic": 0.994, "Le Mans": 0.997},
+    "months": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+  },
+  "built_at": "2026-09-27T14:35:13Z"
+}

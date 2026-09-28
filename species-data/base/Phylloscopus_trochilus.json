@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Phylloscopus trochilus",
+ "common_name_fr": "Pouillot fitis",
+ "birdnet_label": "Phylloscopus trochilus_Pouillot fitis",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Phylloscopidae",
+  "family_common": "Leaf Warblers",
+  "genus": "Phylloscopus",
+  "species": "Phylloscopus trochilus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pouillot fitis",
+   "url": "https://fr.wikipedia.org/wiki/Pouillot_fitis",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pouillot fitis est une espèce de passereaux de la famille des Phylloscopidae.",
+   "fulltext_chars": 5955
+  },
+  "en": {
+   "title": "Willow warbler",
+   "url": "https://en.wikipedia.org/wiki/Willow_warbler",
+   "description": "Species of bird",
+   "extract": "The willow warbler is a very common and widespread leaf warbler which breeds throughout northern and temperate Europe and the Palearctic, from Ireland east to the Anadyr River basin in eastern Siberia. It is strongly migratory, with almost all of the population wintering in sub-Saharan Africa.",
+   "fulltext_chars": 5378
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Willow_Warbler_Phylloscopus_trochilus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2151,
+  "height": 2151,
+  "file": "Willow_Warbler_Phylloscopus_trochilus.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Willow_Warbler_Phylloscopus_trochilus.jpg/1920px-Willow_Warbler_Phylloscopus_trochilus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Willow_Warbler_Phylloscopus_trochilus.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4325,
+  "cities": {
+   "Le Mans": 0.292,
+   "Pornic": 0.243,
+   "Rennes": 0.288,
+   "Poitiers": 0.213,
+   "Paris": 0.327,
+   "Lille": 0.433,
+   "Strasbourg": 0.286,
+   "Lyon": 0.171,
+   "Grenoble": 0.181,
+   "Marseille": 0.249,
+   "Toulouse": 0.338,
+   "Bordeaux": 0.293,
+   "Brest": 0.261,
+   "Ajaccio": 0.264,
+   "Clermont-Ferrand": 0.199,
+   "Chamonix": 0.143,
+   "Perpignan": 0.349,
+   "Nancy": 0.297
+  },
+  "monthly_scores": [
+   0.0,
+   0.011,
+   0.0798,
+   0.389,
+   0.4325,
+   0.189,
+   0.1085,
+   0.2062,
+   0.3493,
+   0.0894,
+   0.0105,
+   0.0
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:26Z"
+}

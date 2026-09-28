@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Sitta whiteheadi",
+ "summary_fr": "Minuscule sittelle endémique de Corse, la Sittelle corse ne dépasse guère 12 cm et reste invisible au continent européen. Elle se distingue par son plumage gris-bleuté aux reflets discrets, sa gorge blanchâtre et, chez le mâle, une calotte entièrement noire qui contraste avec son sourcil blanc éclatant. Inféodée aux vieux Pins laricio corses des montages, elle ne s'éloigne jamais bien loin des forêts anciennes et bien structurées de son île. Oiseau territorial toute l'année, elle vit en couples durables et défend farouchement son petit domaine contre ses congénères. Elle se nourrit principalement des graines extraites des cônes de pin, complétées en été par de petits insectes capturés en vol ou glanés dans les branches. À la fragilité de ses effectifs estimés à quelques milliers de couples s'ajoute sa vulnérabilité aux incendies de forêt qui menacent directement son habitat d'exception.",
+ "habitat": "Forêts de Pins laricio corses, généralement entre 1 000 et 1 500 m d'altitude, sur les pentes escarpées de l'île. Préfère les vieux arbres d'au moins 58 cm de diamètre et les peuplements anciens bien structurés.",
+ "diet": "Graines extraites des cônes de Pins laricio (aliment principal). Petits insectes, arthropodes et larves capturés en vol ou glanés dans la frondaison au printemps et en été.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "En Corse, ne quitte pas l'île. Les couples restent toute l'année sur le même petit territoire de 3 à 10 hectares, décendant légèrement en hiver dans les étages plus bas.",
+  "niche": "Niche exclusivement en Corse d'avril à mai dans les cavités de vieux pins, réutilisant souvent les anciens trous de pics épeiches. Généralement une nichée, rarement deux.",
+  "passage": null
+ },
+ "seasonality_fr": "Résidente toute l'année en Corse. Visible et audible en toutes saisons, notamment en plein hiver quand sa voix cristalline résonne dans les vieilles forêts. Chante dès janvier-février.",
+ "song_fr": "Cri de contact léger et sifflant : « pu-pu-pu » répété rapidement. Chant clair et sonore en « di-di-di-di » rappelant le Martinet à ventre blanc. En cas d'agitation : cris croassants « psch-psch » s'accélérant en « chay-chay ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Sitta europaea",
+   "common_name_fr": "Sittelle torchepot",
+   "why_fr": "Plus grande, ventre jaune-orangé. Cris similaires mais plus graves. Cohabitation géographique impossib en Corse."
+  },
+  {
+   "scientific_name": "Sitta neumayer",
+   "common_name_fr": "Sittelle de Neumayer",
+   "why_fr": "Espèce méditerranéenne cousine, plumage plus pâle, chants distincts mais proches familièrement."
+  },
+  {
+   "scientific_name": "Periparus ater",
+   "common_name_fr": "Mésange noire",
+   "why_fr": "Petite taille comparable, marques noires sur la tête. Appels secs similaires mais tessiture plus aigüe."
+  }
+ ],
+ "rarity_note": "Endémique et quasi-exclusive de Corse. Très rare voire absent en France continentale. Population estimée à 3 100-4 400 individus matures. Classée « Vulnérable » par l'UICN depuis 2010.",
+ "fun_facts": [
+  "Unique espèce d'oiseaux endémique de France métropolitaine : elle ne se rencontre nulle part ailleurs qu'en Corse.",
+  "Le mâle porte une calotte entièrement noire, trait unique et distinctif absent chez la femelle et les jeunes.",
+  "Elle cache des graines sous l'écorce ou les lichens pour les consommer l'hiver, assurant ainsi sa sédentarité totale."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Sittelle_corse",
+  "https://en.wikipedia.org/wiki/Corsican_nuthatch"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

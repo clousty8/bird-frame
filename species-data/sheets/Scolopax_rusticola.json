@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Scolopax rusticola",
+ "summary_fr": "La Bécasse des bois est un échassier forestier discret, de taille moyenne, à la silhouette trapue et au plumage brun mordoré offrant un camouflage remarquable dans les sous-bois humides. Ses yeux placés très haut et en arrière du crâne lui donnent une vision proche de 360 degrés, une adaptation précieuse pour un oiseau essentiellement nocturne qui sonde l'humus à la recherche de lombrics grâce à un long bec sensible et articulé. En France, son statut est celui d'un migrateur partiel : une petite population nicheuse subsiste toute l'année, surtout en montagne et dans l'ouest, tandis que des effectifs bien plus nombreux arrivent d'Europe du Nord et de Russie pour hiverner d'octobre à mars. Au crépuscule, le mâle exécute un vol nuptial caractéristique, le « roulis », en émettant une série de grognements sourds suivis d'un sifflement aigu. Espèce cynégétique très prisée, elle fait l'objet d'un suivi précis de ses prélèvements tant ses populations, en déclin depuis plusieurs décennies sous l'effet de la chasse et de la dégradation des habitats bocagers, restent fragiles.",
+ "habitat": "Forêts à sous-bois dense et humus riche en lombrics, bocages et haies ; la nuit, prairies pâturées ou vignes où elle se nourrit. Reproduction en montagne (Alpes, Pyrénées) et dans les grandes forêts du nord-ouest eurasien ; hivernage dans les mêmes types de boisements, jusqu'au littoral.",
+ "diet": "Surtout des lombrics, sondés dans le sol meuble avec son long bec sensible et articulé ; complète avec insectes, araignées, petits mollusques et quelques graines. Les gelées prolongées, qui durcissent le sol, la contraignent à se déplacer vers des zones plus clémentes.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Dans les boisements et bocages de toute la France, notamment de l'ouest et du sud-ouest ; une partie gagne l'Afrique du Nord (Maroc, Algérie) lors d'hivers rigoureux.",
+  "niche": "Population reproductrice française modeste, surtout en montagne (Alpes, Pyrénées) et dans quelques régions bocagères ; l'essentiel des nicheurs européens se trouve en Russie et en Scandinavie.",
+  "passage": "Passages migratoires marqués d'octobre à novembre puis en février-mars, quand les oiseaux du nord et de l'est de l'Europe transitent par la France."
+ },
+ "seasonality_fr": "Présente en France toute l'année grâce à sa petite population nicheuse, mais bien plus nombreuse d'octobre à mars avec l'arrivée des hivernants ; surtout perceptible au crépuscule et la nuit.",
+ "song_fr": "Vol nuptial du mâle au crépuscule (le « roulis ») associant grognements sourds et sifflement aigu « pist ». Peu vocale hors reproduction ; son envol brusque et bruyant trahit surtout sa présence.",
+ "lookalikes": [
+  {
+   "scientific_name": "Gallinago gallinago",
+   "common_name_fr": "Bécassine des marais",
+   "why_fr": "Même famille des Scolopacidae et habitat parfois voisin ; cris et bruits d'envol nocturnes proches pouvant prêter à confusion acoustique."
+  },
+  {
+   "scientific_name": "Lymnocryptes minimus",
+   "common_name_fr": "Bécassine sourde",
+   "why_fr": "Scolopacidae discret aux vocalisations ténues, susceptible d'être confondu lors de détections acoustiques nocturnes peu nettes."
+  }
+ ],
+ "rarity_note": "Peu commune en détection acoustique (score BirdNET national max 0,26) : espèce discrète et surtout silencieuse hors saison de reproduction. Population européenne en déclin continu, fortement chassée.",
+ "fun_facts": [
+  "La « plume du peintre », une rémige primaire atrophiée, était autrefois recherchée par les artistes pour peindre les détails fins de leurs toiles.",
+  "Ses plumes diffuseraient la lumière visible 30 % plus efficacement qu'aucun autre plumage d'oiseau connu, grâce à une nanostructure particulière.",
+  "La femelle pourrait transporter ses poussins en vol entre ses pattes, un comportement jamais photographié mais rapporté par de nombreux témoins."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/B%C3%A9casse_des_bois",
+  "https://en.wikipedia.org/wiki/Eurasian_woodcock",
+  "https://oiseaux.net/oiseaux/scolopax-rusticola.html",
+  "https://www.lpo.fr/nos-actions/connaitre/fiches-especes/becasse-des-bois",
+  "https://inpn.mnhn.fr/espece/cd_nom/3450"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

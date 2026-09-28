@@ -1,0 +1,52 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Phylloscopus trochilus",
+ "summary_fr": "Petit passereau élancé et discret, le Pouillot fitis est l'un des migrateurs les plus remarquables du continent, parcourant jusqu'à 12 000 km en une seule saison depuis la Sibérie jusqu'aux forêts d'Afrique du Sud. En France, cet hôte printanier de passage est particulièrement abondant lors des migrations de mars-mai et août-octobre. Très semblable au Pouillot véloce qui vit à proximité, le Pouillot fitis se distingue par son allure plus élancée, ses pattes plus claires et surtout par son chant caractéristique : une cascade fluide et descendante, rappelant un ruisseau qui coule. Peu visible mais très audible lors des passages, il fréquente les bois légers, les buissons et les plantations d'aulnes et de saules, où il capture insectes et larves avec une agilité remarquable dans la végétation.",
+ "habitat": "Bois légers et ouverts avec saules, bouleaux et aulnes ; buissons peu denses, broussailles, jardins arborés, lisières forestières et jeunes plantations.",
+ "diet": "Principalement insectes, pucerons, diptères et coléoptères ; petites araignées et œufs d'insectes ; baies de ronces et sureau en automne.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne (ouest et centre) selon la sous-espèce.",
+  "niche": "Nord et Europe tempérée (niche abondant en Scandinavie, localement en France boréale).",
+  "passage": "Passages intenses : mi-mars à mai (retour printanier), août à octobre (migration d'automne)."
+ },
+ "seasonality_fr": "Visible principalement de mars à octobre en France ; très audible lors des passages migratoires (matin tôt). Absent ou exceptionnel en hiver en-dehors des régions côtières.",
+ "song_fr": "Chant caractéristique : cascade fluide descendante de sons flûtés, terminée par une accélération. Cri de contact disyllabique « hu-it » ou « hoo-eet », distinctif et plus régulier que celui du Pouillot véloce.",
+ "lookalikes": [
+  {
+   "scientific_name": "Phylloscopus collybita",
+   "common_name_fr": "Pouillot véloce",
+   "why_fr": "Extrêmement similaire visuellement ; chant très différent (répétition monosyllabique de « tek-tek-tek »), pattes plus foncées et morphologie moins élancée."
+  },
+  {
+   "scientific_name": "Phylloscopus sibilatrix",
+   "common_name_fr": "Pouillot siffleur",
+   "why_fr": "Chant reconnaissable (suite rapide de sifflements aigus), silhouette aussi élancée mais rarement sympatrique au printemps en France."
+  },
+  {
+   "scientific_name": "Phylloscopus bonelli",
+   "common_name_fr": "Pouillot de Bonelli",
+   "why_fr": "Plus gris et moins jaune, cri d'alarme très différent, habitat préféré plus montagnard et méditerranéen."
+  },
+  {
+   "scientific_name": "Phylloscopus ibericus",
+   "common_name_fr": "Pouillot ibérique",
+   "why_fr": "Aire de répartition très restreinte en Espagne et Afrique du Nord, plus petit et de couleur plus uniforme."
+  }
+ ],
+ "rarity_note": "Commun à très commun lors des passages migratoires (scores France 0,28 à 0,43) ; nicheur localisé en France boréale et montagne. En France centrale et côtière, phénomène migrateur marqué plutôt que présence établie.",
+ "fun_facts": [
+  "Le Pouillot fitis sibérien (sous-espèce yakutensis) effectue l'une des plus longues migrations du monde animal : jusqu'à 12 000 km aller-retour.",
+  "Mâle et femelle ont des chants légèrement différents ; deux mâles chantant côte à côte permet de distinguer le Pouillot fitis du Pouillot véloce avec certitude.",
+  "Son nom français « fitis » est une onomatopée de son chant fluide ressemblant à une cascade d'eau."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pouillot_fitis",
+  "https://en.wikipedia.org/wiki/Willow_warbler",
+  "https://www.oiseaux.net/fiches/pouillot.fitis.html",
+  "https://www.lpo.fr/nos-solutions/conserver/reserves-naturelles-lpo"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

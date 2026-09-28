@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Grus grus",
+ "common_name_fr": "Grue cendrée",
+ "birdnet_label": "Grus grus_Grue cendrée",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Gruiformes",
+  "family": "Gruidae",
+  "family_common": "Cranes",
+  "genus": "Grus",
+  "species": "Grus grus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grue cendrée",
+   "url": "https://fr.wikipedia.org/wiki/Grue_cendr%C3%A9e",
+   "description": "espèce d'oiseaux",
+   "extract": "La grue cendrée est une espèce de grands oiseaux de la famille des gruidés.",
+   "fulltext_chars": 5442
+  },
+  "en": {
+   "title": "Common crane",
+   "url": "https://en.wikipedia.org/wiki/Common_crane",
+   "description": "Species of bird also known as Eurasian crane",
+   "extract": "The common crane, also known as the Eurasian crane, is a bird of the family Gruidae, the cranes. A medium-sized species, it is the only crane commonly found in Europe besides the demoiselle crane and the Siberian crane that only are regular in the far eastern part of the continent. Along with the sandhill crane, demoiselle crane and the brolga, it is one of only four crane species not currently classified as threatened with extinction or conservation dependent on the species level. Despite the species' large numbers, local extinctions and extirpations have taken place in part of its range, and an ongoing reintroduction project is underway in the United Kingdom.",
+   "fulltext_chars": 21011
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Common_crane_grus_grus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3000,
+  "height": 3000,
+  "file": "Common_crane_grus_grus.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Common_crane_grus_grus.jpg/1920px-Common_crane_grus_grus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Common_crane_grus_grus.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2915,
+  "cities": {
+   "Le Mans": 0.068,
+   "Pornic": 0.04,
+   "Rennes": 0.031,
+   "Poitiers": 0.119,
+   "Paris": 0.086,
+   "Lille": 0.073,
+   "Strasbourg": 0.09,
+   "Lyon": 0.136,
+   "Grenoble": 0.107,
+   "Marseille": 0.168,
+   "Toulouse": 0.214,
+   "Bordeaux": 0.199,
+   "Ajaccio": 0.292,
+   "Clermont-Ferrand": 0.189,
+   "Chamonix": 0.078,
+   "Perpignan": 0.207,
+   "Nancy": 0.092
+  },
+  "monthly_scores": [
+   0.2782,
+   0.2838,
+   0.1527,
+   0.0612,
+   0.0301,
+   0.026,
+   0.0353,
+   0.0446,
+   0.047,
+   0.0873,
+   0.2767,
+   0.2915
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:14Z"
+}

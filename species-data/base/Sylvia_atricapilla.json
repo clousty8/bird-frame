@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Sylvia atricapilla",
+ "common_name_fr": "Fauvette à tête noire",
+ "birdnet_label": "Sylvia atricapilla_Fauvette à tête noire",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sylviidae",
+  "family_common": "Sylviid Warblers and Allies",
+  "genus": "Sylvia",
+  "species": "Sylvia atricapilla"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fauvette à tête noire",
+   "url": "https://fr.wikipedia.org/wiki/Fauvette_%C3%A0_t%C3%AAte_noire",
+   "description": "espèce d'oiseaux passériformes de la famille des sylviidae",
+   "extract": "La Fauvette à tête noire est une espèce de passereaux de la famille des Sylviidae dont elle est l'espèce type. Migratrice partielle, elle hiverne en Afrique tropicale, mais aussi en Europe, où elle est parfois sédentaire.",
+   "fulltext_chars": 12089
+  },
+  "en": {
+   "title": "Eurasian blackcap",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_blackcap",
+   "description": "Bird in the Old World warbler family from Eurasia and Africa",
+   "extract": "The Eurasian blackcap is a bird usually known simply as the blackcap. It is a common and widespread warbler. It has mainly olive-grey upperparts and pale grey underparts, and differences across the five subspecies are small. Both sexes have a neat coloured cap to the head, black in the male and reddish-brown in the female. The male's typical song is a rich musical warbling, often ending in a loud high-pitched crescendo, but a simpler song is given in some isolated areas, such as valleys in the Alps. The blackcap's closest relative is the garden warbler, which looks quite different but has a similar song.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Blackcap_%28Sylvia_atricapilla%29_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2359,
+  "height": 2779,
+  "file": "Blackcap_(Sylvia_atricapilla)_male.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Blackcap_%28Sylvia_atricapilla%29_male.jpg/1920px-Blackcap_%28Sylvia_atricapilla%29_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Charles J. Sharp",
+  "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Blackcap_(Sylvia_atricapilla)_male.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9812,
+  "cities": {
+   "Le Mans": 0.956,
+   "Pornic": 0.947,
+   "Rennes": 0.935,
+   "Poitiers": 0.963,
+   "Paris": 0.958,
+   "Lille": 0.927,
+   "Strasbourg": 0.976,
+   "Lyon": 0.977,
+   "Grenoble": 0.973,
+   "Marseille": 0.922,
+   "Toulouse": 0.93,
+   "Bordeaux": 0.949,
+   "Brest": 0.887,
+   "Ajaccio": 0.931,
+   "Clermont-Ferrand": 0.972,
+   "Chamonix": 0.981,
+   "Perpignan": 0.894,
+   "Nancy": 0.972
+  },
+  "monthly_scores": [
+   0.7856,
+   0.8146,
+   0.8372,
+   0.9473,
+   0.9812,
+   0.9674,
+   0.8851,
+   0.7176,
+   0.6262,
+   0.7791,
+   0.8035,
+   0.7988
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:21Z"
+}

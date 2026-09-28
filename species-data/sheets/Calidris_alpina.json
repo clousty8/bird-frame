@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Calidris alpina",
+ "summary_fr": "Le Bécasseau variable est un petit limicole cosmopolite qui se reproduit dans les toundras arctiques et subarctiques de l'hémisphère nord, sans nicher en France. Sur nos côtes, il est présent presque toute l'année : abondant en hiver et lors des grands passages de mars-avril et août-octobre, mais aussi visible en été en petit nombre, sous la forme d'immatures non nicheurs restés sur place plutôt que de regagner l'Arctique. Facilement reconnaissable en plumage nuptial par sa tache ventrale noire caractéristique, il adopte un plumage plus discret gris-brun en hiver. Excellent indicateur des zones côtières productives, il se concentre sur les vasières et les plages sableuses où il capture sa nourriture avec un mouvement rythmé rappelant celui d'une machine à coudre. Hautement grégaire, il forme d'importants rassemblements en migration et en hivernage, parfois plusieurs milliers d'individus sur un même site. Dix sous-espèces sont reconnues, montrant des variations de taille et de teinte selon les régions de reproduction. Malgré des déclins locaux de certaines populations en Europe du Sud, l'espèce reste régulière et parfois abondante sur le littoral français, où elle figure parmi les limicoles les plus communs.",
+ "habitat": "Vasières, plages sableuses et zones intertidales côtières lors de l'hivernage et de la migration. Toundras humides, marécages et berges de lacs lors de la reproduction en régions arctiques.",
+ "diet": "Insectes (particulièrement mouches) et larves en période de reproduction. Mollusques, vers marins, crustacés et petits invertébrés en zones côtières.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Côtes atlantiques et méditerranéennes d'Europe de l'Ouest, Afrique du Nord-Ouest et côtes nord-africaines ; en France, présent en nombre sur le littoral d'octobre à mars.",
+  "niche": "Ne niche pas en France. Reproducteurs de l'Arctique et des régions subarctiques holarctiques, du Groenland à la Sibérie et à l'Alaska.",
+  "passage": "Passages migratoires marqués en mars-avril et août-octobre. Quelques immatures non nicheurs restent l'été sur le littoral français."
+ },
+ "seasonality_fr": "Présent toute l'année sur le littoral français, avec de forts effectifs en hiver et lors des passages de mars-avril et août-octobre ; nettement plus discret en plein été, où seuls quelques immatures non nicheurs subsistent.",
+ "song_fr": "Cri d'appel rappelant un « chreep » typique des limicoles. Chant nuptial consistant en un trille rauque et heurté durant les parades aériennes territoriales.",
+ "lookalikes": [
+  {
+   "scientific_name": "Calidris minuta",
+   "common_name_fr": "Bécasseau minute",
+   "why_fr": "Même taille, cris similaires, habitats côtiers identiques. Le plumage s'ajuste saisonnièrement de façon comparable."
+  },
+  {
+   "scientific_name": "Calidris temminckii",
+   "common_name_fr": "Bécasseau de Temminck",
+   "why_fr": "Très petite taille comparable, fréquente les mêmes vasières. Cris et comportement d'alimentation similaires."
+  },
+  {
+   "scientific_name": "Calidris alba",
+   "common_name_fr": "Bécasseau sanderling",
+   "why_fr": "Petit limicole côtier au comportement de plage analogue. Appels voisins, tailles et silhouettes proches."
+  }
+ ],
+ "rarity_note": "Régulier et parfois abondant sur les côtes françaises en toute saison, surtout en hivernage et lors des passages. Plus commun en Bretagne et sur la côte atlantique. Non menacé globalement, bien que certaines sous-espèces méridionales soient en déclin.",
+ "fun_facts": [
+  "Le Bécasseau variable change radicalement d'aspect entre l'été (ventre noir marqué) et l'hiver (teintes grises discrètes) : son nom évoque cette variabilité saisonnière de plumage.",
+  "Il se nourrit avec un mouvement très caractéristique rappelant celui d'une machine à coudre, sondant rapidement les vasières avec son bec légèrement arqué."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/B%C3%A9casseau_variable",
+  "https://en.wikipedia.org/wiki/Dunlin",
+  "https://oiseaux.net/calidris_alpina.html",
+  "https://www.inpn.mnhn.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

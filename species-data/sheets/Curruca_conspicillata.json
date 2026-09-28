@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Curruca conspicillata",
+ "summary_fr": "La Fauvette à lunettes est une petite passérelle méditerranéenne caractérisée par ses remarquables lunettes blanches autour des yeux. Passereaux résident des régions côtières du nord-ouest africain et du sud-ouest européen, elle demeure exceptionnelle en France continentale où elle ne s'observe régulièrement qu'en Méditerranée du sud (particulièrement Ajaccio et région). Petite et trapue, elle arbore un plumage brun cendré sur le dos, blanc crème dessous, avec des reflets roux aux ailes et une gorge blanche. Hyper-spécialisée des paysages arides et broussailleux, elle chasse les insectes parmi les buissons bas des garrigues et de la méditerranée côtière. Son chant rapide et cristallin, déjà prisé par les ornithologues du XIXe siècle, la trahit aisément pour qui le connaît. Rarement solitaire, elle se montre confiante même proche de l'homme.",
+ "habitat": "Garrigues, broussailles épaisses et formations arbustives denses du pourtour méditerranéen, particulièrement régions littorales arides.",
+ "diet": "Insectes et petits arthropodes chassés parmi la végétation ; complément de petites graines en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique du Nord (Algérie, Maroc, Égypte) et rarement Afrique de l'Ouest.",
+  "niche": "Méditerranée occidentale et centrale (Ibérie, Italie, îles méditerranéennes) ; reproduction très rare en France continentale.",
+  "passage": "Passages en mars-avril (prénuptial) et septembre-octobre (postnuptial) en Méditerranée."
+ },
+ "seasonality_fr": "Extrêmement rare et irrégulière en France continentale. S'observe principalement en automne et hiver en Méditerranée du sud (Corse). Très fugace à l'intérieur des terres et nord de la France.",
+ "song_fr": "Chant rapide, cristallin et très varié, constitué de phrases courtes et haut perchées ; cris d'alarme secs et caractéristiques.",
+ "lookalikes": [
+  {
+   "scientific_name": "Curruca communis",
+   "common_name_fr": "Fauvette grisette",
+   "why_fr": "Taille similaire et comportement comparable en milieu ouvert. Chant moins rapide et plus grave."
+  },
+  {
+   "scientific_name": "Curruca curruca",
+   "common_name_fr": "Fauvette babillarde",
+   "why_fr": "Silhouette proche mais chant reconnaissable. L'absence de lunettes blanches distinctives chez la babillarde aide à les différencier."
+  },
+  {
+   "scientific_name": "Curruca iberiae",
+   "common_name_fr": "Fauvette passerinette",
+   "why_fr": "Même habitat méditerranéen aride et taille comparable, mais répartition ibérique."
+  }
+ ],
+ "rarity_note": "Exceptionnelle en France métropolitaine, limite septentrionale très rare de son aire mondiale. Présence régulière et importante uniquement en Corse et littoral méditerranéen du sud où score atteint 0.12.",
+ "fun_facts": [
+  "Les remarquables lunettes blanches autour des yeux lui ont valu son nom scientifique « conspicillata » (du latin conspicillum, endroit pour regarder).",
+  "C'est l'un des tout petits passereaux warblers, dépassant à peine 12 cm, ce qui la rend difficile à observer sans aide optique.",
+  "Elle se reproduit dans les îles méditerranéennes (Canaries, Madère, îles méditerranéennes) mais reste largement inconnue du public français."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fauvette_%C3%A0_lunettes",
+  "https://en.wikipedia.org/wiki/Spectacled_warbler",
+  "https://www.oiseaux.net/species/curruca.conspicillata.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

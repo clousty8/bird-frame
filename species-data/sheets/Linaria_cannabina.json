@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Linaria cannabina",
+ "summary_fr": "La Linotte mélodieuse est une petite fringille brune au dimorphisme marqué : les mâles arborent un masque et une poitrine rouges vifs, absents chez les femelles. Commune dans les espaces agricoles extensifs, elle fréquente les champs ouverts parsemés de buissons et les friches herbeuses. Son nom évoque sa gourmandise pour les graines de lin et de chanvre, qu'elle glane au sol avec d'autres petites semences d'adventices. En France, les populations sont partiellement migratrices : tandis que certains individus restent hivernants, beaucoup effectuent un passage en automne, formant alors des troupes importantes. Son gazouillis mélodieux combien roulades et notes flûtées reste agréable à l'oreille, souvent entendu même en vol. Bien que nicheuse générale, ses effectifs déclinent depuis le perfectionnement des méthodes agricoles, qui éliminent les « mauvaises herbes » sources alimentaires.",
+ "habitat": "Zones ouvertes et semi-ouvertes avec végétation herbacée basse, buissons épars, friches, taillis, landes, cultures non-intensives, vignobles, jachères et talus agricoles.",
+ "diet": "Essentiellement des graines (lin, chanvre, chardons, crucifères, graminées, colza) prélevées directement sur le plant ou glânées au sol ; quelques invertébrés lors de l'élevage des jeunes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Toute la France métropolitaine, où les nicheurs locaux partiellement sédentaires sont renforcés par des migrateurs venus de Russie occidentale et de Scandinavie.",
+  "niche": "Partout en France, d'avril à juillet ; nid posé bas en buisson ou jeune conifère, contenant quatre à six œufs.",
+  "passage": "Passages notables fin août à mi-novembre en automne, plus discrets au printemps (mars-avril)."
+ },
+ "seasonality_fr": "Présente toute l'année en France, plus abondante en automne et hiver lors des passages migratoires. Sédentaires et migrateurs se mélangent et forment des troupes, visitant les milieux ouverts.",
+ "song_fr": "Gazouillis riche et mélodieux combinant roulades, notes flûtées, trilles et sons pincés, très variable et imprévisible ; cri d'appel sec et répété.",
+ "lookalikes": [
+  {
+   "scientific_name": "Carduelis carduelis",
+   "common_name_fr": "Chardonneret élégant",
+   "why_fr": "Autre petite fringille de même taille ; chant et cris différents mais parfois confus par BirdNET."
+  },
+  {
+   "scientific_name": "Chloris chloris",
+   "common_name_fr": "Verdier d'Europe",
+   "why_fr": "Finch aussi grégaire en hiver ; gazouillis nasillard moins mélodieux mais confusion possible."
+  },
+  {
+   "scientific_name": "Passer domesticus",
+   "common_name_fr": "Moineau domestique",
+   "why_fr": "Vocalisations rudimentaires, risque de confusion acoustique mineur mais signalé."
+  }
+ ],
+ "rarity_note": "Nicheuse régulière et commune en France, présente toute l'année ; effectifs en déclin modéré depuis 30 ans en Europe mais encore bien détectable.",
+ "fun_facts": [
+  "Son nom vernaculaire français « linotte » est resté péjoratif dans le langage courant (« tête de linotte ») en référence à son nid peu dissimulé et peu travaillé.",
+  "En automne, les linottes forment des troupes de plusieurs centaines d'oiseaux, visitant des vignobles et terres incultes pour y glaner les semences.",
+  "Mâles et femelles affichent des différences spectaculaires en plumage : le rouge du mâle disparaît en hiver, les rendant alors indistinguibles."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Linotte_m%C3%A9lodieuse",
+  "https://en.wikipedia.org/wiki/Common_linnet",
+  "https://www.oiseaux.net/fiche.html",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

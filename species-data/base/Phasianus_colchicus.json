@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Phasianus colchicus",
+ "common_name_fr": "Faisan de Colchide",
+ "birdnet_label": "Phasianus colchicus_Faisan de Colchide",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Galliformes",
+  "family": "Phasianidae",
+  "family_common": "Pheasants, Grouse, and Allies",
+  "genus": "Phasianus",
+  "species": "Phasianus colchicus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Faisan de Colchide",
+   "url": "https://fr.wikipedia.org/wiki/Faisan_de_Colchide",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Faisan de Colchide, faisan à collier ou faisan de chasse, est une espèce d'oiseaux galliformes de la famille des Phasianidae originaire d'Asie occidentale et introduit en Europe dès le Moyen Âge. C'est le plus commun des faisans en Europe, et si ce terme est utilisé seul, c'est à cette espèce que l'on fait probablement référence. Il est chassé comme gibier et élevé pour sa chair.",
+   "fulltext_chars": 7903
+  },
+  "en": {
+   "title": "Common pheasant",
+   "url": "https://en.wikipedia.org/wiki/Common_pheasant",
+   "description": "Species of bird",
+   "extract": "The common pheasant, ring-necked pheasant, or blue-headed pheasant, is a bird in the pheasant family (Phasianidae). The genus name comes from Latin phasianus 'pheasant'. The species name colchicus is Latin for 'of Colchis', a country on the Black Sea where pheasants became known to Europeans. Although Phasianus was previously thought to be closely related to the genus Gallus, the genus of junglefowl and domesticated chickens, recent studies show that they are in different subfamilies, having diverged over 20 million years ago.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/79/Common_pheasant_%28Phasianus_colchicus%29_cock_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3911,
+  "height": 2607,
+  "file": "Common_pheasant_(Phasianus_colchicus)_cock_2.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Common_pheasant_%28Phasianus_colchicus%29_cock_2.jpg/1920px-Common_pheasant_%28Phasianus_colchicus%29_cock_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Charles J. Sharp",
+  "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Common_pheasant_(Phasianus_colchicus)_cock_2.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.6121,
+  "cities": {
+   "Le Mans": 0.523,
+   "Pornic": 0.365,
+   "Rennes": 0.505,
+   "Poitiers": 0.314,
+   "Paris": 0.519,
+   "Lille": 0.612,
+   "Strasbourg": 0.284,
+   "Lyon": 0.121,
+   "Grenoble": 0.099,
+   "Marseille": 0.101,
+   "Toulouse": 0.07,
+   "Bordeaux": 0.121,
+   "Brest": 0.427,
+   "Ajaccio": 0.217,
+   "Clermont-Ferrand": 0.133,
+   "Chamonix": 0.137,
+   "Perpignan": 0.076,
+   "Nancy": 0.356
+  },
+  "monthly_scores": [
+   0.2599,
+   0.2699,
+   0.3852,
+   0.6121,
+   0.5032,
+   0.3904,
+   0.2636,
+   0.1613,
+   0.2275,
+   0.2901,
+   0.2768,
+   0.2647
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:01Z"
+}

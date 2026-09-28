@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Monticola solitarius",
+ "summary_fr": "Le Monticole bleu est un passereau élégant aux teintes bleu-gris, remarquable par son long bec fin et ses mœurs solitaires en milieu rocheux. Originaire du pourtour méditerranéen, d'Afrique du Nord et jusqu'en Asie centrale et en Chine, il niche sur les falaises, dans les ruines et les cavités rocheuses des montagnes et du littoral. Le mâle arbore un plumage bleu-gris uniforme du plus bel effet, tandis que la femelle et les jeunes restent plus discrets, dans des tons bruns tachetés. Son chant clair et mélodieux, plus puissant que celui de son cousin le Monticole de roche, résonne depuis les pics escarpés et les corniches rocheuses. Omnivore, il se nourrit surtout d'insectes, d'araignées et de petits lézards, complétant son régime de baies selon la saison. En Méditerranée, la plupart des populations sont sédentaires ou ne se déplacent qu'en altitude, tandis que les oiseaux plus orientaux, du Caucase à l'Asie, hivernent plus au sud. L'espèce est devenue emblématique de Malte, où elle est l'oiseau national depuis 1971 et figurait autrefois sur la pièce d'une lira maltaise, l'ancienne monnaie du pays.",
+ "habitat": "Flancs de montagnes, collines et falaises rocheuses côtières, cavités naturelles, ruines de châteaux et vieilles bâtisses en pierre.",
+ "diet": "Insectes (coléoptères, orthoptères, lépidoptères), araignées, petits arthropodes et petits lézards ; baies de sorbier, merisier et aubépine selon la saison.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Les populations méditerranéennes et nord-africaines sont largement sédentaires ; les oiseaux du Caucase et d'Asie centrale hivernent en Afrique subsaharienne ou en Asie du Sud.",
+  "niche": "Falaises, cavités rocheuses et bâtisses en pierre du sud de l'Europe, du bassin méditerranéen et du nord de l'Afrique, d'avril à juillet.",
+  "passage": "Présence irrégulière en France, surtout en Cap Corse et Côte Vermeille, probablement liée à des déplacements erratiques plutôt qu'à un vrai passage migratoire."
+ },
+ "seasonality_fr": "Visible toute l'année dans son aire méditerranéenne ; en France métropolitaine, mentions exceptionnelles, surtout en Cap Corse et Côte Vermeille.",
+ "song_fr": "Chant fluide et mélodieux fait de sifflements clairs et variés, plus puissant que celui du Monticole de roche ; espèce discrète en France.",
+ "lookalikes": [
+  {
+   "scientific_name": "Monticola saxatilis",
+   "common_name_fr": "Monticole de roche",
+   "why_fr": "Même genre, chant mélancolique de tessiture proche mais moins puissant ; risque de confusion acoustique par BirdNET en zone méditerranéenne."
+  }
+ ],
+ "rarity_note": "Très rare en France métropolitaine ; présent dans l'univers BirdNET avec un score maximal de 0,23 (Ajaccio), compatible avec un statut de visiteur occasionnel.",
+ "fun_facts": [
+  "C'est l'oiseau national de Malte depuis 1971, où il a inspiré noms de lieux, chansons, poèmes et même l'ancienne pièce d'une lira maltaise.",
+  "Le compositeur Olivier Messiaen a immortalisé son chant dans une pièce pour piano de son Catalogue d'oiseaux, inspirée par ses observations à Banyuls."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Monticole_merle-bleu",
+  "https://en.wikipedia.org/wiki/Blue_rock_thrush",
+  "https://avibase.bsc-eoc.org/species.jsp?avibaseid=34C87DEA4AF50A72",
+  "https://www.oiseaux.net/monticole.bleu.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

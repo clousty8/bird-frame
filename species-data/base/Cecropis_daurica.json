@@ -1,0 +1,78 @@
+{
+ "scientific_name": "Cecropis daurica",
+ "common_name_fr": "Hirondelle striolée",
+ "birdnet_label": "Cecropis daurica_Hirondelle rousseline",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Hirundinidae",
+  "family_common": "Swallows",
+  "genus": "Cecropis",
+  "species": "Cecropis daurica"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Hirondelle rousseline",
+   "url": "https://fr.wikipedia.org/wiki/Hirondelle_rousseline",
+   "description": null,
+   "extract": "L'Hirondelle rousseline est une espèce de passereaux de la famille des Hirundinidae. Son aire de répartition s'étend du sud de l'Europe à l'Asie.",
+   "fulltext_chars": 2271
+  },
+  "en": {
+   "title": "Eastern red-rumped swallow",
+   "url": "https://en.wikipedia.org/wiki/Eastern_red-rumped_swallow",
+   "description": "Species of bird",
+   "extract": "The eastern red-rumped swallow is a small passerine bird in the swallow family Hirundinidae. It is found in open, often hilly, areas with clearings and cultivation across eastern and southeastern Asia to north-eastern India and Taiwan.",
+   "fulltext_chars": 4391
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Golondrina_d%C3%A1urica_occidental_Cecropis_rufula_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1002,
+  "height": 668,
+  "file": "Golondrina_dáurica_occidental_Cecropis_rufula_1.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Golondrina_d%C3%A1urica_occidental_Cecropis_rufula_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Agustín Povedano from El Puerto de Santa María, Extremadura y Andalucía",
+  "credit": "Golondrina dáurica Cecropis daurica",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Golondrina_d%C3%A1urica_occidental_Cecropis_rufula_1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0984,
+  "cities": {
+   "Marseille": 0.028,
+   "Toulouse": 0.023,
+   "Bordeaux": 0.014,
+   "Ajaccio": 0.098,
+   "Perpignan": 0.035
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0318,
+   0.0543,
+   0.0564,
+   0.0601,
+   0.0948,
+   0.0984,
+   0.0523,
+   0.0143,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:26Z"
+}

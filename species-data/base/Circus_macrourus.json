@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Circus macrourus",
+ "common_name_fr": "Busard pâle",
+ "birdnet_label": "Circus macrourus_Busard pâle",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Circus",
+  "species": "Circus macrourus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Busard pâle",
+   "url": "https://fr.wikipedia.org/wiki/Busard_p%C3%A2le",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Busard pâle est une espèce de rapaces diurnes de la famille des Accipitridae.",
+   "fulltext_chars": 1791
+  },
+  "en": {
+   "title": "Pallid harrier",
+   "url": "https://en.wikipedia.org/wiki/Pallid_harrier",
+   "description": "Species of bird",
+   "extract": "The pallid harrier is a species of harrier, a bird of prey in the family Accipitridae. It breeds in southern parts of eastern Europe and central Asia and Iran and winters mainly in India and southeast Asia. It is a rare but increasing vagrant to Great Britain and western Europe. In 2017 a pair of pallid harriers nested in a barley field in the Netherlands; they raised four chicks, the first recorded breeding of the species in the country. In 2019, a pair bred in Spain for the first time.",
+   "fulltext_chars": 2698
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pallid_harrier_in_LRK_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2500,
+  "height": 1407,
+  "file": "Pallid_harrier_in_LRK_01.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Pallid_harrier_in_LRK_01.jpg/1920px-Pallid_harrier_in_LRK_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "CLPramod",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Pallid_harrier_in_LRK_01.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0264,
+  "cities": {
+   "Ajaccio": 0.026
+  },
+  "monthly_scores": [
+   0.0189,
+   0.0186,
+   0.0264,
+   0.0128,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0114,
+   0.0165,
+   0.017,
+   0.0193
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:23Z"
+}

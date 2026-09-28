@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Loxia curvirostra",
+ "common_name_fr": "Bec-croisé des sapins",
+ "birdnet_label": "Loxia curvirostra_Bec-croisé des sapins",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Fringillidae",
+  "family_common": "Finches, Euphonias, and Allies",
+  "genus": "Loxia",
+  "species": "Loxia curvirostra"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bec-croisé des sapins",
+   "url": "https://fr.wikipedia.org/wiki/Bec-crois%C3%A9_des_sapins",
+   "description": "espèce d'oiseaux passériformes de la famille des fringillidae",
+   "extract": "Le Bec-croisé des sapins est une espèce de passereaux appartenant à la famille des Fringillidae qui vit dans les forêts de conifères.",
+   "fulltext_chars": 15784
+  },
+  "en": {
+   "title": "Red crossbill",
+   "url": "https://en.wikipedia.org/wiki/Red_crossbill",
+   "description": "Species of bird",
+   "extract": "The red crossbill or common crossbill is a small passerine bird in the finch family Fringillidae. Crossbills have distinctive mandibles, crossed at the tips, which enable them to extract seeds from conifer cones and other fruits.",
+   "fulltext_chars": 8658
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/32/Loxia_curvirostra_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 984,
+  "height": 1372,
+  "file": "Loxia_curvirostra_3.png",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/3/32/Loxia_curvirostra_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Ftank Vassen",
+  "credit": "https://www.flickr.com/photos/42244964@N03/5794309754/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Loxia_curvirostra_3.png"
+ },
+ "france_universe": {
+  "max_score": 0.1951,
+  "cities": {
+   "Le Mans": 0.029,
+   "Pornic": 0.018,
+   "Rennes": 0.021,
+   "Poitiers": 0.038,
+   "Paris": 0.044,
+   "Lille": 0.052,
+   "Strasbourg": 0.065,
+   "Lyon": 0.077,
+   "Grenoble": 0.098,
+   "Marseille": 0.139,
+   "Toulouse": 0.139,
+   "Bordeaux": 0.072,
+   "Brest": 0.013,
+   "Ajaccio": 0.195,
+   "Clermont-Ferrand": 0.071,
+   "Chamonix": 0.083,
+   "Perpignan": 0.154,
+   "Nancy": 0.058
+  },
+  "monthly_scores": [
+   0.1867,
+   0.1951,
+   0.1429,
+   0.1014,
+   0.0982,
+   0.1047,
+   0.1158,
+   0.1035,
+   0.0875,
+   0.1139,
+   0.1706,
+   0.1862
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:09Z"
+}

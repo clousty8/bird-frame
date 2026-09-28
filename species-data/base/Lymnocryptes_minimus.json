@@ -1,0 +1,89 @@
+{
+ "scientific_name": "Lymnocryptes minimus",
+ "common_name_fr": "Bécassine sourde",
+ "birdnet_label": "Lymnocryptes minimus_Bécassine sourde",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Lymnocryptes",
+  "species": "Lymnocryptes minimus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécassine sourde",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9cassine_sourde",
+   "description": "espèce d'oiseaux",
+   "extract": "La Bécassine sourde ou petite Bécassine, est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae. Elle est l'unique représentante du genre Lymnocryptes.C'est l'une des trois espèces de bécassines vivant en France. Le nom de sourde provient de son comportement face au danger : c'est la seule bécassine qui se plaque au sol en comptant sur son camouflage, ne fuyant en volant qu'en ultime recours, au dernier moment. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 7071
+  },
+  "en": {
+   "title": "Jack snipe",
+   "url": "https://en.wikipedia.org/wiki/Jack_snipe",
+   "description": "Species of bird",
+   "extract": "The jack snipe or jacksnipe is a small stocky wader. It is the smallest snipe, and the only member of the genus Lymnocryptes. Features such as its sternum and its continuous 'bobbing up and down' make it quite distinct from other snipes or woodcocks.",
+   "fulltext_chars": 4314
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lymnocryptes_minimus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 981,
+  "file": "Lymnocryptes_minimus.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lymnocryptes_minimus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Dûrzan cîrano",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Lymnocryptes_minimus.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1555,
+  "cities": {
+   "Le Mans": 0.03,
+   "Pornic": 0.045,
+   "Rennes": 0.041,
+   "Poitiers": 0.031,
+   "Paris": 0.016,
+   "Lille": 0.017,
+   "Lyon": 0.012,
+   "Grenoble": 0.015,
+   "Marseille": 0.028,
+   "Toulouse": 0.018,
+   "Bordeaux": 0.026,
+   "Brest": 0.051,
+   "Ajaccio": 0.156,
+   "Clermont-Ferrand": 0.015,
+   "Chamonix": 0.01,
+   "Perpignan": 0.022
+  },
+  "monthly_scores": [
+   0.1531,
+   0.1555,
+   0.1103,
+   0.0263,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.016,
+   0.0669,
+   0.1329,
+   0.1476
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:31Z"
+}

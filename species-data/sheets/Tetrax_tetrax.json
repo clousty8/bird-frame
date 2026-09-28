@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Tetrax tetrax",
+ "summary_fr": "L'Outarde canepetière est le plus petit oiseau de la famille des Otididae et l'unique représentant de cette famille en France depuis la disparition de la Grande Outarde. Spécialiste des grandes plaines ouvertes, cet oiseau de 40 à 45 cm possède une silhouette trapue caractéristique des espèces steppiques. Au printemps, les mâles adoptent un comportement remarquable : rassemblés en groupes de reproduction appelés leks, ils hérissent les plumes du cou et émettent un cri sec caractéristique, le « prêt ». En vol, une sifflante distinctive produite par les rémiges primaires signale sa présence. La population française, forte d'environ 2 400 à 2 500 mâles chanteurs, se divise en deux : une population sédentaire méditerranéenne largement majoritaire et une population migratrice du centre-ouest, plus réduite, hivernant en Espagne. L'espèce connaît un déclin alarmant, avec une chute de 70 % des effectifs en trente ans, due surtout aux changements agricoles et aux pesticides. Elle bénéficie d'une protection totale en France et reste l'un des oiseaux emblématiques des plaines cultivées menacées.",
+ "habitat": "Plaines cultivées et ouvertes : champs de céréales, de luzerne, de trèfle, de colza, pâturages à moutons. Nécessite une vue étendue et fuit les bâtiments et le dérangement. Peut aussi occuper aérodromes et terrains militaires si peu perturbés.",
+ "diet": "Feuilles et jeunes pousses de légumineuses et brassicacées. Consommation importante d'insectes lors de la reproduction. Les poussins se nourrissent exclusivement d'arthropodes (coléoptères, orthoptères, diptères) avant de diversifier leur régime.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Population méditerranéenne sédentaire toute l'année dans le Sud (Bouches-du-Rhône, Gard, Hérault). Population du centre-ouest hiverne en Espagne et au Maroc d'octobre à mars.",
+  "niche": "Population méditerranéenne (sédentaire) niche d'avril à juin dans les Bouches-du-Rhône, le Gard et l'Hérault. Population du centre-ouest niche de mars à juillet en Nouvelle-Aquitaine, Centre-Val de Loire et Pays de la Loire.",
+  "passage": "Population migratrice du centre-ouest : passage prénuptial en mars, passage postnuptial d'août à septembre vers l'Espagne."
+ },
+ "seasonality_fr": "Visible surtout au printemps (avril-juin) dans les zones de reproduction du centre-ouest, période où le chant nuptial des mâles est audible. Hivernants présents en Méditerranée toute l'année.",
+ "song_fr": "Cri nuptial printanier : « prêt » ou « pet » sec et répété à intervalles réguliers. En vol, sifflante caractéristique produite par les rémiges primaires, notamment lors des sauts acrobatiques du mâle.",
+ "lookalikes": [
+  {
+   "scientific_name": "Perdix perdix",
+   "common_name_fr": "Perdrix grise",
+   "why_fr": "Habite aussi les plaines cultivées et produit des cris secs, mais timbre plus grinçant et taille plus petite."
+  },
+  {
+   "scientific_name": "Phasianus colchicus",
+   "common_name_fr": "Faisan de Colchide",
+   "why_fr": "Grand oiseau des milieux ouverts, cris forts et secs, mais silhouette plus élancée et habitat légèrement différent."
+  }
+ ],
+ "rarity_note": "Non rarissime malgré son statut menacé (protection totale, déclin de 70 % en 30 ans) : environ 2 400-2 500 mâles chanteurs en France, dont la grande majorité en Méditerranée (Gard seul : plus de 600 oiseaux), contre environ 300 dans le centre-ouest migrateur.",
+ "fun_facts": [
+  "Le mâle en parade nuptiale adopte un comportement acrobatique spectaculaire : saut avec ailes ouvertes et émission d'un sifflement caractéristique, au cœur des « leks » où plusieurs mâles se rassemblent.",
+  "Les plumes primaires mâles produisent une sifflante aérodynamique distinctive lors du vol, un signal auditif de reconnaissance unique.",
+  "Symbole des luttes écologistes modernes : sa protection a permis au mouvement anti-mégabassines d'éviter plusieurs constructions de bassines en Nouvelle-Aquitaine."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Outarde_canepeti%C3%A8re",
+  "https://en.wikipedia.org/wiki/Little_bustard",
+  "https://www.oiseaux.net/oiseaux/outarde.canepetiere.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4372",
+  "https://www.lpo.fr/nos-actions/nos-combats/les-outardes",
+  "https://ebird.org/species/litbus1"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

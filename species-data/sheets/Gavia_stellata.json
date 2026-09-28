@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Gavia stellata",
+ "summary_fr": "Le Plongeon catmarin est le plus petit des plongeons du monde, aisément reconnaissable à sa gorge rouge écarlate durant la saison nuptiale. Espèce migrateur des régions arctiques, il fréquente les côtes marines et les grands lacs d'Europe du Nord en hiver. Contrairement aux autres plongeons, il peut décoller directement du sol grâce à ses ailes proportionnellement plus grandes. Très vocal, surtout en période de reproduction, il émet un répertoire riche de cris rauques et plaintifs. Essentiellement piscivore, il chasse en plongeant après les poissons en eau claire. En France, il apparaît principalement comme migrateur et hivernant côtier, présent surtout d'octobre à avril sur les littoraux atlantiques et méditerranéens. Son allure élancée en vol et son cou tendu le distinguent des autres plongeons.",
+ "habitat": "Côtes marines tempérées et subarctiques ; petits lacs profonds en région arctique pour la nidification ; eaux côtières et grands lacs en hiver.",
+ "diet": "Poissons de taille moyenne (lieu, hareng, anchois, chabot) capturés en plongée ; occasionnellement petits mollusques, crustacés et insectes aquatiques.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Côtes atlantiques et méditerranéennes françaises, de septembre à avril ; concentration régulière le long de l'Atlantique Nord et en Manche.",
+  "niche": "Ne niche pas en France ; reproduction en Arctique (Eurasie du Nord et Canada, Groenland).",
+  "passage": "Passages migratoires marqués en mars-avril (migration prénuptiale) et septembre-novembre (migration postnuptiale)."
+ },
+ "seasonality_fr": "Présent en France principalement d'octobre à avril sur le littoral ; visible surtout en hiver formant parfois des groupements en baie. Très vocal durant la saison de reproduction en avril et mai.",
+ "song_fr": "Cris rauques et percutants « kvak » ou « kak-kak-kak » semblables aux cris d'oie ; appel plaintif et modulé crescendo « korrr-hui » durant la parade nuptiale ; miaulement grave si dérangé.",
+ "lookalikes": [
+  {
+   "scientific_name": "Gavia arctica",
+   "common_name_fr": "Plongeon arctique",
+   "why_fr": "Taille et morphologie similaires ; cris différents mais parfois confondus en hiver ou distance."
+  },
+  {
+   "scientific_name": "Gavia immer",
+   "common_name_fr": "Plongeon huard",
+   "why_fr": "Vocalises semblables mais individu plus gros ; plus rare en France."
+  }
+ ],
+ "rarity_note": "Hivernant et migrateur régulier mais peu commun le long des côtes françaises, surtout atlantiques. Présence très variable selon les années.",
+ "fun_facts": [
+  "Seul plongeon capable de s'envoler directement du sol grâce à son envergure proportionnellement grande.",
+  "Son étymologie « catmarin » pourrait faire référence à ses cris plaintifs modulés, ressemblant au miaulement d'un chat.",
+  "L'espèce est monogame avec des liens de couple durables ; certains individus reviendront au même site de nidification pendant des décennies."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Plongeon_catmarin",
+  "https://en.wikipedia.org/wiki/Red-throated_loon",
+  "https://www.oiseaux.net/oiseaux/plongeon.catmarin.html",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/4261/tab/fiche",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

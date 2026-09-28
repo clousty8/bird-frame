@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Calidris temminckii",
+ "summary_fr": "Le Bécasseau de Temminck compte parmi les plus petits limicoles d'Europe, avec à peine 13 à 15 centimètres. Son plumage terne, brun-gris dessus et blanc dessous, lui donne une allure discrète, même si les adultes en parure nuptiale affichent quelques teintes rousses sur le dos. Contrairement à ses cousins du genre Calidris, souvent grégaires, il vit plutôt en solitaire ou en petits groupes, trottinant le long des berges boueuses pour y picorer insectes et petits invertébrés. Son cri, un trille sonore et roulé, trahit sa présence lors des vols furtifs. L'espèce niche dans les tourbières et marais de la taïga arctique, du nord de la Scandinavie jusqu'au Tchoukotka, où son système de reproduction est remarquable : mâle et femelle couvent chacun une ponte distincte, souvent avec des partenaires différents, ce qui optimise le succès reproducteur pendant le bref été polaire. Après la saison de nidification, elle migre vers l'Afrique subsaharienne, le Moyen-Orient, le sous-continent indien ou l'Asie du Sud-Est, où elle passe l'hiver. En France, elle n'est observée qu'en passage, en très petit nombre, surtout au printemps et à l'automne, sur les vasières et bords d'étangs, mais quelques individus peuvent être signalés à d'autres saisons.",
+ "habitat": "Tourbières et marais de la taïga arctique pour la nidification ; en migration, vasières, bords de mares et d'étangs, rives boueuses à végétation clairsemée.",
+ "diet": "Petits invertébrés, insectes et larves capturés à vue en trottinant le long des berges ; quelques graines et débris végétaux à l'occasion.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Principalement en Afrique subsaharienne, au Moyen-Orient, dans le sous-continent indien et en Asie du Sud-Est ; en France, seuls de très rares individus isolés sont signalés en dehors des passages.",
+  "niche": "Ne niche pas en France. Reproduction dans les tourbières et marais arctiques, du nord de la Scandinavie jusqu'à la péninsule du Tchoukotka.",
+  "passage": "Traverse la France en petit nombre, surtout d'avril à mai puis d'août à septembre, avec de rares individus possibles à d'autres périodes."
+ },
+ "seasonality_fr": "Espèce peu observée en France, presque uniquement lors des passages migratoires de printemps et d'automne, avec de très rares mentions isolées le reste de l'année.",
+ "song_fr": "Cri distinctif : trille sonore et roulé, émis en vol, rappelant celui du Bécasseau variable en plus grêle. Peu vocal en dehors des périodes de passage.",
+ "lookalikes": [
+  {
+   "scientific_name": "Calidris minuta",
+   "common_name_fr": "Bécasseau minute",
+   "why_fr": "Taille quasi identique et cri également trillé ; le Bécasseau de Temminck a un trille plus roulé et moins sec."
+  },
+  {
+   "scientific_name": "Calidris alpina",
+   "common_name_fr": "Bécasseau variable",
+   "why_fr": "Cri de vol assez proche en tonalité, bien que plus grave et plus long chez le Bécasseau variable, nettement plus grand."
+  }
+ ],
+ "rarity_note": "Rare en France, où il n'est observé qu'en petit nombre lors des passages migratoires, surtout au printemps et à l'automne.",
+ "fun_facts": [
+  "C'est l'un des plus petits limicoles d'Europe, à peine plus grand qu'un roitelet.",
+  "Chez cette espèce, mâle et femelle peuvent chacun couver une ponte distincte, souvent avec des partenaires différents.",
+  "Peu grégaire, il évite les grands rassemblements que forment volontiers ses cousins du genre Calidris."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/B%C3%A9casseau_de_Temminck",
+  "https://en.wikipedia.org/wiki/Temminck's_stint",
+  "https://www.oiseaux.net/oiseaux/becasseau.de.temminck.html",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/199469"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

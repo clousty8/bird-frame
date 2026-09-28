@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Panurus biarmicus",
+ "summary_fr": "La Panure à moustaches est un petit passereau au plumage brun-roux, l'unique représentant de sa famille, les Panuridae. Le mâle se reconnaît à sa tête gris-bleuté et ses caractéristiques « moustaches » noires qui s'étendent des yeux jusqu'à la gorge, tandis que la femelle est plus brune et dépourvue de moustaches. Habitat spécialiste des roselières denses près de l'eau, elle y vit une existence discrète, se nourrissant d'insectes en été et de graines de roseaux en hiver. Sa présence se révèle par son cri caractéristique, un « ping-ping » métallique et nasillard répétitif, qui résonne particulièrement lors des mouvements des petits groupes hivernaux. Capable de se reproduire plusieurs fois par saison avec un taux de productivité très élevé, elle exemplifie l'adaptation remarquable aux milieux humides.",
+ "habitat": "Roselières denses de roseaux communs ou phragmites, près d'eaux douces ou saumâtres, en lacs, marais et cours d'eau. Préfère les zones inondables, évitant les parties trop sèches en période de reproduction.",
+ "diet": "Insectes, larves et pupae en été ; graines de roseaux, joncs et autres plantes aquatiques en hiver. Occasionnellement araignées et petits invertébrés ; avale du gravier pour l'aide à la digestion des graines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Toute la France, principalement dans les roselières côtières et continentales, renforcée par quelques oiseaux dispersés en provenance du nord-ouest européen.",
+  "niche": "Se reproduit partout en France dans les roselières convenables, d'avril à juillet, avec possibilité de deux à trois nichées par saison.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente toute l'année en France. Ses vocalisations sont particulièrement audibles en automne et hiver lors des regroupements de groupes, révélant une activité constante même dans les périodes froides.",
+ "song_fr": "Cri de contact caractéristique : « ping-ping » ou « tying-tying » métallique et nasillard. Chant du mâle décrit comme « tschin-schik-schra ». En vol, battements d'ailes rapides produisent un léger bourdonnement.",
+ "lookalikes": [
+  {
+   "scientific_name": "Acrocephalus scirpaceus",
+   "common_name_fr": "Rousseroller verderolle",
+   "why_fr": "Partage le même habitat de roselière et émet des sons de contact similaires, bien que son chant soit plus mélodique."
+  },
+  {
+   "scientific_name": "Emberiza schoeniclus",
+   "common_name_fr": "Bruant des roseaux",
+   "why_fr": "Cohabite dans les roselières ; cris aigus et métalliques pouvant être confondus dans les enregistrements audio."
+  }
+ ],
+ "rarity_note": "Rare en France, distribution très localisée et fluctuante selon les conditions hivernales. Sensible aux hivers rigoureux et à la perte d'habitat.",
+ "fun_facts": [
+  "Le mâle possède un large cloaque musculeux unique chez les passereaux, adaptation remarquable pour accroître ses chances de reproduction en colonies.",
+  "Capable de produire jusqu'à cinq nichées par saison en conditions optimales, l'une des productivités les plus élevées parmi les passereaux européens.",
+  "Son plumage très camouflé en roselière est révélé uniquement par son cri caractéristique ; le dimorphisme sexuel est l'un des plus marqués chez les roselières."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Panure_%C3%A0_moustaches",
+  "https://en.wikipedia.org/wiki/Bearded_reedling"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

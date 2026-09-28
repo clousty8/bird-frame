@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Zapornia pusilla",
+ "summary_fr": "Minuscule rallidé de 15 à 18 centimètres à peine, la Marouette de Baillon demeure l'une des espèces les plus discrètes et énigmatiques de son ordre zoologique. Contrairement à sa cousine la Marouette poussin, elle affiche un bec unicolore et des primaires nettement plus courtes. Son plumage gris ardoise sur les parties inférieures et brun rayé de noir et blanc sur le dessus la rend difficile à observer au sol, aussi est-elle surtout connue de ceux qui la cherchent activement dans les phragmitaies en période de migration. Elle se nourrit d'insectes, d'invertébrés aquatiques et de petits amphibiens, qu'elle capture en sondant la vase avec son bec pointu. Son nom rend hommage au zoologiste français François Baillon, célèbre naturaliste du XIXe siècle.",
+ "habitat": "Roselières, phragmitaies denses et marais d'eau douce ; préfère les zones humides avec végétation aquatique buissonnante.",
+ "diet": "Insectes aquatiques, petits invertébrés, larves d'amphibiens et proies capturées en sondant la vase.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "En Afrique de l'Ouest et de l'Est, dans les zones humides du Sahel à l'Afrique australe.",
+  "niche": "Ne niche pas en France ; reproduction en Europe centrale et orientale ainsi qu'en Asie mineure.",
+  "passage": "Passages sporadiques et imprévisibles en septembre, lors du retour vers l'Afrique."
+ },
+ "seasonality_fr": "Extrêmement rare et irrégulière, visible pratiquement uniquement lors des passages migratoires de septembre. Détection liée à des conditions météorologiques déterminées et à la présence de zones humides favorables.",
+ "song_fr": "Appel distinctif ressemblant à un coassement de grenouille ou à un cri de sarcelle ; cri sec et répétitif rappelant parfois un insecte.",
+ "lookalikes": [
+  {
+   "scientific_name": "Zapornia parva",
+   "common_name_fr": "Marouette poussin",
+   "why_fr": "Espèce très similaire ; bec rouge à la base chez la poussin, appels légèrement différents."
+  },
+  {
+   "scientific_name": "Porzana porzana",
+   "common_name_fr": "Marouette ponctuée",
+   "why_fr": "Autre marouette française ; appel caractéristique différent, plus gros que la Baillon."
+  }
+ ],
+ "rarity_note": "Visiteur migrateur rare et imprévisible en France, jamais nicheur ; détections exceptionnelles en septembre.",
+ "fun_facts": [
+  "Son nom scientifique 'pusilla' signifie 'très petit' en latin, reflétant la diminutive taille de cette marouette.",
+  "Elle est si discrète que les ornithologues la repèrent surtout à l'oreille plutôt qu'à la vue, d'où son statut de 'oiseau fantôme'.",
+  "La sous-espèce intermedia, celle potentiellement observable en France, hiverne en Afrique après reproduction en Europe centrale."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Marouette_de_Baillon",
+  "https://en.wikipedia.org/wiki/Baillon's_crake",
+  "https://www.oiseaux.net/especes/marouette.de.baillon.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

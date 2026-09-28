@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Aix galericulata",
+ "common_name_fr": "Canard mandarin",
+ "birdnet_label": "Aix galericulata_Canard mandarin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Aix",
+  "species": "Aix galericulata"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Canard mandarin",
+   "url": "https://fr.wikipedia.org/wiki/Canard_mandarin",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Canard mandarin est une espèce de canards de la famille des Anatidae, originaire d'Asie du Nord-Est. Il peut cependant être observé à l'état sauvage en Europe où quelques individus échappés de captivité se sont acclimatés et s'y reproduisent aujourd'hui régulièrement.",
+   "fulltext_chars": 5236
+  },
+  "en": {
+   "title": "Mandarin duck",
+   "url": "https://en.wikipedia.org/wiki/Mandarin_duck",
+   "description": "Species of bird",
+   "extract": "The mandarin duck is a perching duck species native to East and Northeast Asia. It is sexually dimorphic; the males are elaborately coloured, while the females have more subdued colours. It is a medium-sized duck, at 41–49 cm (16–19 in) long with a 65–75 cm (26–30 in) wingspan. It is closely related to the North American wood duck, the only other member of the genus Aix. 'Aix' is an Ancient Greek word which was used by Aristotle to refer to an unknown diving bird, and 'galericulata' is the Latin for a wig, derived from galerum, a cap or bonnet. Outside of its native range, the mandarin duck has a large introduced population in the British Isles and Western Europe, with additional smaller introductions in North America.",
+   "fulltext_chars": 12449
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mandarin_duck_jan_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 6000,
+  "height": 4000,
+  "file": "Mandarin_duck_jan_2026.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Mandarin_duck_jan_2026.jpg/1920px-Mandarin_duck_jan_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Syntaxeror400",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Mandarin_duck_jan_2026.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.119,
+  "cities": {
+   "Le Mans": 0.029,
+   "Pornic": 0.02,
+   "Rennes": 0.016,
+   "Poitiers": 0.057,
+   "Paris": 0.034,
+   "Lille": 0.023,
+   "Strasbourg": 0.049,
+   "Lyon": 0.102,
+   "Grenoble": 0.06,
+   "Marseille": 0.025,
+   "Toulouse": 0.035,
+   "Bordeaux": 0.066,
+   "Ajaccio": 0.02,
+   "Clermont-Ferrand": 0.119,
+   "Chamonix": 0.069,
+   "Perpignan": 0.019,
+   "Nancy": 0.046
+  },
+  "monthly_scores": [
+   0.1139,
+   0.0975,
+   0.0601,
+   0.0234,
+   0.0106,
+   0.0125,
+   0.0166,
+   0.011,
+   0.0119,
+   0.057,
+   0.119,
+   0.118
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:23Z"
+}

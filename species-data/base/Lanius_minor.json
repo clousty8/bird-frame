@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Lanius minor",
+ "common_name_fr": "Pie-grièche à poitrine rose",
+ "birdnet_label": "Lanius minor_Pie-grièche à poitrine rose",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Laniidae",
+  "family_common": "Shrikes",
+  "genus": "Lanius",
+  "species": "Lanius minor"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pie-grièche à poitrine rose",
+   "url": "https://fr.wikipedia.org/wiki/Pie-gri%C3%A8che_%C3%A0_poitrine_rose",
+   "description": "espèce d'oiseaux",
+   "extract": "La Pie-grièche à poitrine rose est une espèce de passereaux aux mœurs alimentaires carnassières, appartenant à la famille des Laniidae.",
+   "fulltext_chars": 10233
+  },
+  "en": {
+   "title": "Lesser grey shrike",
+   "url": "https://en.wikipedia.org/wiki/Lesser_grey_shrike",
+   "description": "Species of bird",
+   "extract": "The lesser grey shrike is a passerine bird in the shrike family Laniidae. It breeds in South and Central Europe and western Asia and migrates to winter quarters in southern Africa in the early autumn, returning in spring. It is a scarce vagrant to western Europe, including Great Britain, usually as a spring or autumn erratic.",
+   "fulltext_chars": 8075
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lan%C3%AE%C3%BBs_m%C3%AEnor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 400,
+  "height": 517,
+  "file": "Lanîûs_mînor.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lan%C3%AE%C3%BBs_m%C3%AEnor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Dûrzan cîrano",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Lan%C3%AE%C3%BBs_m%C3%AEnor.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0229,
+  "cities": {
+   "Ajaccio": 0.023
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0,
+   0.0148,
+   0.0209,
+   0.0205,
+   0.0229,
+   0.0209,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:24Z"
+}

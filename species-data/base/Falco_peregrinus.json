@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Falco peregrinus",
+ "common_name_fr": "Faucon pèlerin",
+ "birdnet_label": "Falco peregrinus_Faucon pèlerin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Falconiformes",
+  "family": "Falconidae",
+  "family_common": "Falcons and Caracaras",
+  "genus": "Falco",
+  "species": "Falco peregrinus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Faucon pèlerin",
+   "url": "https://fr.wikipedia.org/wiki/Faucon_p%C3%A8lerin",
+   "description": "espèce d'oiseaux rapaces",
+   "extract": "Le Faucon pèlerin est une espèce robuste de rapaces, de taille moyenne, réputée pour être la plus rapide du monde en piqué. Ses proies sont presque exclusivement des oiseaux, mais certains individus peuvent également s'attaquer à de petits animaux terrestres. Ce faucon ne construit pas de nid, et niche essentiellement sur des falaises, plus rarement sur des arbres, des structures ou des bâtiments élevés. Ses populations ont très fortement diminué après la Seconde Guerre mondiale, en particulier du fait de la pollution au DDT. Depuis sa protection dans les années 1970, ses populations sont à nouveau en expansion.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Peregrine falcon",
+   "url": "https://en.wikipedia.org/wiki/Peregrine_falcon",
+   "description": "Fastest known animal and common bird of prey",
+   "extract": "The peregrine falcon, also referred to simply as the peregrine, is a bird of prey (raptor) in the family Falconidae known for its speed. A large, crow-sized falcon, it has a blue-grey back, barred white underparts and a black head. As is typical for bird-eating (avivore) raptors, peregrine falcons are sexually dimorphic, with females being considerably larger than males. Historically, the bird has also been known as the \"black-cheeked falcon\" in Australia and the \"duck hawk\" in North America.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Faucon_pelerin_7_mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1027,
+  "height": 720,
+  "file": "Faucon_pelerin_7_mai.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Faucon_pelerin_7_mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Georges Lignier (georges.lignier@wanadoo.fr)",
+  "credit": "Personal photo of Georges Lignier (georges.lignier@wanadoo.fr) / LPO (Ligue de Protection des Oiseaux) of Franche comté",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Faucon_pelerin_7_mai.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.302,
+  "cities": {
+   "Le Mans": 0.115,
+   "Pornic": 0.147,
+   "Rennes": 0.148,
+   "Poitiers": 0.104,
+   "Paris": 0.086,
+   "Lille": 0.087,
+   "Strasbourg": 0.029,
+   "Lyon": 0.059,
+   "Grenoble": 0.069,
+   "Marseille": 0.091,
+   "Toulouse": 0.07,
+   "Bordeaux": 0.097,
+   "Brest": 0.18,
+   "Ajaccio": 0.302,
+   "Clermont-Ferrand": 0.066,
+   "Chamonix": 0.053,
+   "Perpignan": 0.078,
+   "Nancy": 0.039
+  },
+  "monthly_scores": [
+   0.2998,
+   0.302,
+   0.2557,
+   0.1935,
+   0.1492,
+   0.1526,
+   0.1545,
+   0.1633,
+   0.163,
+   0.207,
+   0.2762,
+   0.3006
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:10Z"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Aythya fuligula",
+ "common_name_fr": "Fuligule morillon",
+ "birdnet_label": "Aythya fuligula_Fuligule morillon",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Aythya",
+  "species": "Aythya fuligula"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fuligule morillon",
+   "url": "https://fr.wikipedia.org/wiki/Fuligule_morillon",
+   "description": "espèces d'oiseaux",
+   "extract": "Le Fuligule morillon ou Morillon huppé est une espèce de canards plongeurs appartenant à la famille des Anatidae.",
+   "fulltext_chars": 3150
+  },
+  "en": {
+   "title": "Tufted duck",
+   "url": "https://en.wikipedia.org/wiki/Tufted_duck",
+   "description": "Species of bird",
+   "extract": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'. It is a game bird.",
+   "fulltext_chars": 4876
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Tufted-Duck-male-female.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2424,
+  "height": 3355,
+  "file": "Tufted-Duck-male-female.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Tufted-Duck-male-female.jpg/1920px-Tufted-Duck-male-female.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Tufted-Duck-male-female.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.459,
+  "cities": {
+   "Le Mans": 0.284,
+   "Pornic": 0.207,
+   "Rennes": 0.245,
+   "Poitiers": 0.244,
+   "Paris": 0.361,
+   "Lille": 0.459,
+   "Strasbourg": 0.448,
+   "Lyon": 0.246,
+   "Grenoble": 0.212,
+   "Marseille": 0.13,
+   "Toulouse": 0.115,
+   "Bordeaux": 0.159,
+   "Brest": 0.194,
+   "Ajaccio": 0.272,
+   "Clermont-Ferrand": 0.255,
+   "Chamonix": 0.252,
+   "Perpignan": 0.097,
+   "Nancy": 0.421
+  },
+  "monthly_scores": [
+   0.4478,
+   0.4365,
+   0.4397,
+   0.459,
+   0.348,
+   0.3228,
+   0.3098,
+   0.3231,
+   0.3201,
+   0.3518,
+   0.4363,
+   0.4471
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:24Z"
+}

@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Mergus serrator",
+ "summary_fr": "Le Harle huppé est un canard plongeur au bec fin et dentelé de rouge vif, reconnaissable à sa huppe hérissée de plumes pointues. Le mâle affiche une tête noire à reflet vert, un collier blanc et une poitrine rousse mouchetée ; la femelle, plus terne, porte une tête roussâtre et un corps gris-brun. Excellent plongeur, il capture ses proies sous l'eau grâce à des mandibules dentelées qui retiennent fermement les poissons glissants. L'espèce niche essentiellement dans le nord de l'hémisphère boréal, en Islande, en Scandinavie, en Russie et en Amérique du Nord, sur les lacs et rivières ; en France, la reproduction reste anecdotique, limitée à quelques couples sur les îles Chausey, en Manche. Le Harle huppé fréquente surtout notre pays comme hivernant, arrivant à l'automne sur les côtes atlantiques, en Normandie et en Bretagne notamment, où il forme de petits groupes en mer ou dans les estuaires avant de repartir au printemps vers ses zones de nidification nordiques. Espèce plutôt discrète, il se signale davantage par son vol bas et rapide au ras des flots que par ses cris, peu fréquents en dehors de la parade nuptiale hivernale.",
+ "habitat": "Lacs et rivières boisés en période de reproduction, très loin au nord ; côtes, estuaires et grands plans d'eau en hiver en France, surtout sur le littoral atlantique.",
+ "diet": "Petits poissons capturés en plongée grâce à son bec dentelé ; occasionnellement crustacés, insectes aquatiques et amphibiens.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Sur les côtes atlantiques françaises, surtout en Normandie et en Bretagne, d'octobre à avril, parfois en petits groupes au large ou dans les estuaires.",
+  "niche": "Ne niche quasiment pas en France : seulement quelques couples aux îles Chausey (Manche) ; reproduction principale en Islande, Scandinavie, Russie et Amérique du Nord.",
+  "passage": "Passages notables en octobre-novembre puis en mars-avril, entre les sites d'hivernage et les zones de reproduction nordiques."
+ },
+ "seasonality_fr": "Présent en France essentiellement d'octobre à avril, avec un pic hivernal sur le littoral atlantique ; quasi absent en été.",
+ "song_fr": "Espèce peu vocale hors parade nuptiale : la femelle émet un grognement rauque « prrak prrak », le mâle un miaulement, et un cri rauque « gruk » en vol.",
+ "lookalikes": [
+  {
+   "scientific_name": "Mergus merganser",
+   "common_name_fr": "Grand Harle",
+   "why_fr": "Espèce très proche par la silhouette et le comportement de plongée ; le Grand Harle est plus grand, tête entièrement sombre sans huppe fine visible."
+  },
+  {
+   "scientific_name": "Mergellus albellus",
+   "common_name_fr": "Harle piette",
+   "why_fr": "Petit harle hivernant parfois dans les mêmes eaux ; silhouette et cris bien plus grêles pouvant prêter à confusion à distance."
+  }
+ ],
+ "rarity_note": "Hivernant peu commun mais régulier sur le littoral atlantique français ; nicheur exceptionnel (quelques couples aux îles Chausey), absent en été ailleurs.",
+ "fun_facts": [
+  "Le mâle dresse et rabaisse sa huppe pointue lors de parades nuptiales souvent exécutées en synchronie par plusieurs mâles devant les femelles.",
+  "Ses mandibules dentelées agissent comme une scie qui retient fermement les poissons les plus glissants.",
+  "Malgré son aire de nidification immense dans tout l'hémisphère nord, seuls deux couples environ nichent régulièrement en France."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Harle_hupp%C3%A9",
+  "https://en.wikipedia.org/wiki/Red-breasted_merganser",
+  "https://inpn.mnhn.fr/espece/cd_nom/2816/tab/statut",
+  "https://normandie.lpo.fr/oiseaux-de-normandie/inventaire-oiseaux-de-normandie-effectifs-et-populations/harle-huppe/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,88 @@
+{
+ "scientific_name": "Branta bernicla",
+ "common_name_fr": "Bernache cravant",
+ "birdnet_label": "Branta bernicla_Bernache cravant",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Branta",
+  "species": "Branta bernicla"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bernache cravant",
+   "url": "https://fr.wikipedia.org/wiki/Bernache_cravant",
+   "description": "espèce d'oiseaux",
+   "extract": "La Bernache cravant est une espèce d'oiseaux migrateurs appartenant à la famille des Anatidae.",
+   "fulltext_chars": 7789
+  },
+  "en": {
+   "title": "Brant (goose)",
+   "url": "https://en.wikipedia.org/wiki/Brant_(goose)",
+   "description": "Species of waterfowl",
+   "extract": "The brant or brent goose is a small goose in the genus Branta. There are three subspecies, all of which winter along temperate-zone sea-coasts and breed on the high-Arctic tundra.",
+   "fulltext_chars": 8410
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/75/Branta_bernicla_bernicla_-_Brent_Goose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3016,
+  "height": 2011,
+  "file": "Branta_bernicla_bernicla_-_Brent_Goose.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Branta_bernicla_bernicla_-_Brent_Goose.jpg/1920px-Branta_bernicla_bernicla_-_Brent_Goose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Branta_bernicla_bernicla_-_Brent_Goose.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3659,
+  "cities": {
+   "Le Mans": 0.255,
+   "Pornic": 0.366,
+   "Rennes": 0.34,
+   "Poitiers": 0.251,
+   "Paris": 0.146,
+   "Lille": 0.138,
+   "Strasbourg": 0.011,
+   "Lyon": 0.031,
+   "Toulouse": 0.026,
+   "Bordeaux": 0.185,
+   "Brest": 0.352,
+   "Clermont-Ferrand": 0.115,
+   "Nancy": 0.026
+  },
+  "monthly_scores": [
+   0.3659,
+   0.3648,
+   0.3124,
+   0.1414,
+   0.0381,
+   0.0367,
+   0.0399,
+   0.0261,
+   0.0621,
+   0.3127,
+   0.3561,
+   0.3516
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:19Z"
+}

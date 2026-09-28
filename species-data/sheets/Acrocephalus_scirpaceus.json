@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Acrocephalus scirpaceus",
+ "summary_fr": "La Rousserolle effarvatte est un petit passereau brun, discret et longiligne, typique des roselières denses bordant lacs, étangs et rivières d'Europe tempérée. En France, la majorité de la population quitte les zones humides en fin d'été pour rejoindre l'Afrique subsaharienne, où elle affectionne particulièrement les mangroves ouest-africaines, avant de revenir nicher au printemps suivant. Son identification acoustique repose surtout sur son chant lent et scandé, fait de notes répétées deux ou trois fois, lancé depuis un roseau au crépuscule. Son plumage terne et son dos uni la rendent facilement confondue avec la Rousserolle verderolle, dont elle se distingue surtout par la voix et le choix de l'habitat. Bien qu'elle soit la rousserolle la plus répandue en Europe, elle demeure localisée aux zones humides françaises et reste absente des régions méditerranéennes et montagneuses. Son nid en coupe, suspendu au-dessus de l'eau entre des tiges de roseau, est tissé de feuilles et d'herbes avec un soin remarquable. Le compositeur Olivier Messiaen lui a d'ailleurs consacré une pièce dans son Catalogue d'oiseaux, hommage rare pour un si modeste habitant des roselières.",
+ "habitat": "Roselières hautes et touffues en bordure de lacs, étangs et rivières, jusqu'à environ 1000 m d'altitude. Fréquente aussi les buissons, saules et hautes herbes des zones humides, en France comme dans ses quartiers d'hiver africains.",
+ "diet": "Insectes, araignées et autres invertébrés capturés sur les tiges de roseaux, dans les buissons ou parfois au sol. Complète occasionnellement son régime avec des baies et petites graines, surtout hors période de reproduction.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "L'essentiel de la population française hiverne en Afrique subsaharienne, parfois jusqu'en Zambie et dans les mangroves ouest-africaines ; de rares individus sont ponctuellement détectés en France en hiver.",
+  "niche": "France entière en zones humides à roselières, de mai à juillet ; ponte d'avril à juin, jeunes indépendants en juin-juillet.",
+  "passage": "Départ vers l'Afrique de fin juillet à mi-octobre ; retour de mars à mi-mai, avec un pic en avril."
+ },
+ "seasonality_fr": "Présente et chanteuse d'avril à octobre dans les zones humides françaises, avec un pic d'activité vocale de mai à juillet lors de la reproduction ; plus rarement signalée en dehors de cette période.",
+ "song_fr": "Chant lent et régulier fait de notes monosyllabiques ou dissyllabiques répétées deux ou trois fois (« tret tret tret tiri tiri »), lancé depuis un roseau surtout au crépuscule. Cris d'alarme secs et trillés (« tchre », « chrrrreh »).",
+ "lookalikes": [
+  {
+   "scientific_name": "Acrocephalus palustris",
+   "common_name_fr": "Rousserolle verderolle",
+   "why_fr": "Voix de tessiture et de rythme très proches ; distinction fine par les nuances du chant et l'habitat préféré."
+  },
+  {
+   "scientific_name": "Acrocephalus arundinaceus",
+   "common_name_fr": "Rousserolle turdoïde",
+   "why_fr": "Chant plus puissant mais structure de notes répétées comparable en roselière ; confusion possible sur clips médiocres."
+  },
+  {
+   "scientific_name": "Acrocephalus schoenobaenus",
+   "common_name_fr": "Phragmite des joncs",
+   "why_fr": "Chant rapide et répétitif dans le même habitat humide ; BirdNET confond parfois en environnement bruyant."
+  }
+ ],
+ "rarity_note": "Peu commune en France, présente surtout en zones humides du nord, de l'ouest et du centre ; absente des régions méditerranéennes et de montagne. Régulière lors des migrations et de la nidification, plus rare en hiver.",
+ "fun_facts": [
+  "Olivier Messiaen lui a consacré une pièce entière dans son Catalogue d'oiseaux, hommage rare pour un petit passereau des roselières.",
+  "En hiver, elle figure parmi les visiteurs les plus réguliers des mangroves d'Afrique de l'Ouest, un habitat crucial pour son cycle de vie.",
+  "Son nid en coupe, tissé de feuilles et de tiges de roseau, est suspendu au-dessus de l'eau et résiste à la montée du niveau."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Rousserolle_effarvatte",
+  "https://en.wikipedia.org/wiki/Common_reed_warbler",
+  "https://oiseaux.net/oiseaux/Acrocephalus_scirpaceus.html",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/3814"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

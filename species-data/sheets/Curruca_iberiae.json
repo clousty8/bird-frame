@@ -1,0 +1,52 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Curruca iberiae",
+ "summary_fr": "La Fauvette passerinette est une petite fauvette méditerranéenne connue pour son chant rapide et grinçant. C'est une migratrice de longue distance qui traverse la France au printemps et en automne. Les mâles se distinguent par leur plumage gris et leurs sous-caudales rouge brique avec des rayures malaires blanches caractéristiques, tandis que les femelles sont plus ternes avec un plumage principalement brun. Malgré sa petite taille de 12 à 13 cm, c'est un oiseau très vocal. L'espèce se nourrit principalement de petits insectes et de leurs larves pendant la période de reproduction, complétant son alimentation avec des baies et des fruits lors de la migration et en hiver. Elle niche dans les épaisses formations de maquis méditerranéen. Le nid, en forme de coupe profonde, est placé dans les buissons bas, à 30-130 cm du sol, contenant 3 à 5 œufs. L'identification précise pendant la migration est importante en France.",
+ "habitat": "Maquis méditerranéen sec, formations buissonneuses denses avec couvert arboré clairsemé. Affectionne particulièrement le chêne vert, l'arbousier et la bruyère arborescente.",
+ "diet": "Petits insectes et leurs larves surtout en période de reproduction. Baies et fruits en hiver et lors des migrations.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "En Afrique subsaharienne, ne passe pas l'hiver en France.",
+  "niche": "Très rare ou absent en France. Se reproduit dans le bassin méditerranéen occidental.",
+  "passage": "Visible régulièrement de mars à octobre lors de ses migrations, plus fréquent dans le sud et l'est de la France."
+ },
+ "seasonality_fr": "Visible en France d'avril à septembre lors de ses passages migratoires. Plus fréquente dans le sud-est et le sud du pays. Absente du territoire en hiver.",
+ "song_fr": "Chant rapide et grinçant, rappelant celui de la Fauvette babillarde. Appels secs et répétés en vol, notes cristallines et variées.",
+ "lookalikes": [
+  {
+   "scientific_name": "Curruca curruca",
+   "common_name_fr": "Fauvette babillarde",
+   "why_fr": "Chant grinçant très similaire, taille comparable, contexte migratoire identique en France."
+  },
+  {
+   "scientific_name": "Curruca communis",
+   "common_name_fr": "Fauvette grisette",
+   "why_fr": "Fauvette de même habitat méditerranéen, taille voisine, chant grinçant avec profils acoustiques proches."
+  },
+  {
+   "scientific_name": "Curruca melanocephala",
+   "common_name_fr": "Fauvette mélanocéphale",
+   "why_fr": "Espèce méditerranéenne du même genre, chant rapide grinçant, présence saisonnière similaire."
+  },
+  {
+   "scientific_name": "Acrocephalus scirpaceus",
+   "common_name_fr": "Rousserolle effarvatte",
+   "why_fr": "Chant grinçant de même tessiture lors des passages migratoires, contexte de détection comparable."
+  }
+ ],
+ "rarity_note": "Peu commune en France, visible régulièrement en migration d'avril à septembre, surtout dans le sud et l'est. Détection beaucoup moins fréquente que les autres Curruca.",
+ "fun_facts": [
+  "La Fauvette passerinette a récemment été reconnue comme une espèce distincte de la Fauvette des Balkans en 2020 par l'IOC, basé sur des études génétiques et des différences marquées de plumage.",
+  "C'est une migratrice de longue distance qui traverse le Sahara pour hiverner en Afrique subsaharienne.",
+  "Le compositeur Olivier Messiaen a composé une pièce musicale en hommage à cet oiseau, restée longtemps inédite."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fauvette_passerinette",
+  "https://en.wikipedia.org/wiki/Western_subalpine_warbler",
+  "https://www.oiseaux.net/fauvette.passerinette.html",
+  "https://ebird.org/species/subwhe4"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

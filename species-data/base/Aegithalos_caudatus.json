@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Aegithalos caudatus",
+ "common_name_fr": "Orite à longue queue",
+ "birdnet_label": "Aegithalos caudatus_Orite à longue queue",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Aegithalidae",
+  "family_common": "Long-tailed Tits",
+  "genus": "Aegithalos",
+  "species": "Aegithalos caudatus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Mésange à longue queue",
+   "url": "https://fr.wikipedia.org/wiki/M%C3%A9sange_%C3%A0_longue_queue",
+   "description": "espèce d'oiseaux",
+   "extract": "La mésange à longue queue ou orite à longue queue est une espèce de passereaux de la famille des Aegithalidae, anciennement appelée tupinet ou orite. On la trouve presque partout en Europe où elle est sédentaire et occupe presque tous les habitats : bois, parcs, jardins, etc.",
+   "fulltext_chars": 6743
+  },
+  "en": {
+   "title": "Long-tailed tit",
+   "url": "https://en.wikipedia.org/wiki/Long-tailed_tit",
+   "description": "Species of bird in Europe and Asia",
+   "extract": "The long-tailed tit or long-tailed bushtit is a common bird species belonging to the bushtit family found throughout Eurasia. An insectivore, it inhabits deciduous and mixed woodlands as well as scrub, heathland, farmland, parks and gardens. The plumage of this small long-tailed bird is predominantly black and white with varying amounts of pink and grey. Northern subspecies are paler and have completely white heads, lacking the large dark eyebrows of southern populations. It is a social bird that forms compact family flocks of six to seventeen individuals outside of the breeding season, when these flocks break up. It has a strong preference for nesting in scrub areas and often builds its nest in thorny bushes less than 3 metres above the ground.",
+   "fulltext_chars": 10696
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Long-tailed_Tit_Aegithalos_caudatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2118,
+  "height": 1412,
+  "file": "Long-tailed_Tit_Aegithalos_caudatus.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Long-tailed_Tit_Aegithalos_caudatus.jpg/1920px-Long-tailed_Tit_Aegithalos_caudatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Long-tailed_Tit_Aegithalos_caudatus.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4959,
+  "cities": {
+   "Le Mans": 0.496,
+   "Pornic": 0.453,
+   "Rennes": 0.485,
+   "Poitiers": 0.455,
+   "Paris": 0.488,
+   "Lille": 0.474,
+   "Strasbourg": 0.358,
+   "Lyon": 0.421,
+   "Grenoble": 0.421,
+   "Marseille": 0.411,
+   "Toulouse": 0.437,
+   "Bordeaux": 0.409,
+   "Brest": 0.422,
+   "Ajaccio": 0.485,
+   "Clermont-Ferrand": 0.414,
+   "Chamonix": 0.422,
+   "Perpignan": 0.445,
+   "Nancy": 0.399
+  },
+  "monthly_scores": [
+   0.4933,
+   0.4854,
+   0.462,
+   0.4401,
+   0.3133,
+   0.2925,
+   0.279,
+   0.268,
+   0.3381,
+   0.4667,
+   0.4959,
+   0.4957
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:05Z"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Glaucidium passerinum",
+ "summary_fr": "La Chevêchette d'Europe est le plus petit rapace nocturne du continent : à peine 16 à 18 centimètres pour 60 à 90 grammes, avec une tête ronde ornée de sourcils blancs et de grands yeux jaunes perçants. Malgré sa taille minuscule, cette petite chouette au tempérament farouche et territorial chasse au vol de petits oiseaux et des micromammifères, qu'elle capture avec une redoutable agilité, digne d'un rapace bien plus imposant. Elle s'installe dans les forêts de conifères montagnardes, surtout d'épicéas, où elle occupe d'anciennes cavités creusées par les pics épeiches pour nicher et pour y entreposer ses proies en réserve, une précaution précieuse lors des intempéries hivernales. En France, elle forme une population plutôt résidente dans ses bastions alpins, jurassiens, pyrénéens et vosgiens, mais les jeunes se dispersent à l'automne sur plusieurs kilomètres et quelques individus nordiques peuvent s'y ajouter en hiver, si bien que sa présence fluctue légèrement au fil des saisons. Ses appels flûtés, qui portent loin dans le silence des forêts d'altitude, restent le meilleur indice de sa présence discrète.",
+ "habitat": "Forêts de conifères montagnardes, surtout d'épicéas, en lisière de clairières et de pistes ; niche dans d'anciennes cavités de pics (notamment le Pic épeiche). Préfère les versants nord entre 1000 et 1500 mètres d'altitude.",
+ "diet": "Petits mammifères (campagnols, musaraignes) et petits oiseaux (mésanges, roitelets) capturés au vol ; occasionnellement petits reptiles et insectes. Constitue des réserves de proies dans le nid pour les périodes sans chasse.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France, la population reste surtout sur ses massifs de nidification (Alpes, Jura, Vosges, Pyrénées) ; de rares individus nomades venus d'Europe centrale peuvent apparaître en hiver.",
+  "niche": "Niche dans les Alpes, plus rarement dans le Jura, les Pyrénées et les Vosges (population relictuelle) ; nidification confirmée en Belgique depuis 2012.",
+  "passage": "Dispersion des jeunes à l'automne sur plusieurs kilomètres autour du nid natal ; mouvements diffus possibles d'individus nordiques en hiver."
+ },
+ "seasonality_fr": "Présente toute l'année sur ses massifs de nidification, mais discrète et difficile à détecter hors période de chant. Cris de parade surtout en fin d'hiver et au printemps, un peu à l'automne.",
+ "song_fr": "Cri caractéristique en « couwitt » répété : sifflement flûté et monotone du mâle en une chaîne de notes claires espacées d'environ deux secondes ; cri de la femelle plus aigu. Sons de parade en fin d'hiver et en automne.",
+ "lookalikes": [
+  {
+   "scientific_name": "Aegolius funereus",
+   "common_name_fr": "Nyctale de Tengmalm",
+   "why_fr": "Taille proche, habitat montagnard boréal comparable, cris sifflés voisins mais phrases plus courtes et rythme plus rapide chez la Nyctale."
+  },
+  {
+   "scientific_name": "Athene noctua",
+   "common_name_fr": "Chevêche d'Athéna",
+   "why_fr": "Petite taille comparable, mais habitat différent (plaine et basse altitude) et cris plus nasillards, moins flûtés."
+  },
+  {
+   "scientific_name": "Strix aluco",
+   "common_name_fr": "Chouette hulotte",
+   "why_fr": "Bien plus grande, mais certaines vocalisations graves de parade peuvent prêter à confusion pour une oreille peu exercée."
+  }
+ ],
+ "rarity_note": "Très rare en France, cantonnée aux massifs montagneux (Alpes, Jura, Pyrénées, Vosges), avec une population nicheuse estimée à quelques dizaines de couples seulement.",
+ "fun_facts": [
+  "Malgré ses 60 à 90 grammes, elle chasse de petits oiseaux qu'elle attrape au vol avec l'agilité d'un faucon.",
+  "Elle accumule des dizaines de petites proies dans son nid, un véritable garde-manger pour les jours sans chasse.",
+  "Incroyablement territoriale pour sa taille, elle peut poursuivre des oiseaux bien plus grands qui s'approchent de son nid."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Chev%C3%AAchette_d'Europe",
+  "https://en.wikipedia.org/wiki/Eurasian_pygmy_owl",
+  "https://www.oiseaux.net/oiseaux/chevechette.d.europe.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4250/tab/fiche",
+  "https://www.lpo.fr/les-oiseaux/guides-oiseaux/cheveches-et-chouettes"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

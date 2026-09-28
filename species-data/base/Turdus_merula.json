@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Turdus merula",
+ "common_name_fr": "Merle noir",
+ "birdnet_label": "Turdus merula_Merle noir",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Turdidae",
+  "family_common": "Thrushes and Allies",
+  "genus": "Turdus",
+  "species": "Turdus merula"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Merle noir",
+   "url": "https://fr.wikipedia.org/wiki/Merle_noir",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Merle noir, ou plus communément Merle, est une espèce de passereaux de la famille des turdidés.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Common blackbird",
+   "url": "https://en.wikipedia.org/wiki/Common_blackbird",
+   "description": "Thrush native to Europe, western Asia and North Africa",
+   "extract": "The common blackbird is a species of true thrush. It is also known as the Eurasian blackbird, or simply the blackbird. It breeds in Europe, western Asia, and North Africa, and has been introduced to Australia and New Zealand. It has a number of subspecies across its large range; a few former Asian subspecies are now widely treated as separate species. Depending on latitude, the common blackbird may be resident, partially migratory, or fully migratory.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D1%80%D0%BE%D0%B7%D0%B4_%28Turdus_merula%2C_per_aspera%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3980,
+  "height": 3384,
+  "file": "Чёрный_дрозд_(Turdus_merula,_per_aspera),_Битцевский_лес.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D1%80%D0%BE%D0%B7%D0%B4_%28Turdus_merula%2C_per_aspera%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg/1920px-%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D1%80%D0%BE%D0%B7%D0%B4_%28Turdus_merula%2C_per_aspera%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Dion Art",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D1%80%D0%BE%D0%B7%D0%B4_(Turdus_merula,_per_aspera),_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9996,
+  "cities": {
+   "Le Mans": 0.998,
+   "Pornic": 0.994,
+   "Rennes": 0.996,
+   "Poitiers": 0.996,
+   "Paris": 0.999,
+   "Lille": 0.999,
+   "Strasbourg": 1.0,
+   "Lyon": 0.998,
+   "Grenoble": 0.998,
+   "Marseille": 0.993,
+   "Toulouse": 0.996,
+   "Bordeaux": 0.994,
+   "Brest": 0.99,
+   "Ajaccio": 0.992,
+   "Clermont-Ferrand": 0.997,
+   "Chamonix": 0.998,
+   "Perpignan": 0.994,
+   "Nancy": 0.999
+  },
+  "monthly_scores": [
+   0.9919,
+   0.9936,
+   0.9965,
+   0.9991,
+   0.9996,
+   0.999,
+   0.9898,
+   0.8523,
+   0.8759,
+   0.977,
+   0.9876,
+   0.9904
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:19Z"
+}

@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Lanius collurio",
+ "common_name_fr": "Pie-grièche écorcheur",
+ "birdnet_label": "Lanius collurio_Pie-grièche écorcheur",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Laniidae",
+  "family_common": "Shrikes",
+  "genus": "Lanius",
+  "species": "Lanius collurio"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pie-grièche écorcheur",
+   "url": "https://fr.wikipedia.org/wiki/Pie-gri%C3%A8che_%C3%A9corcheur",
+   "description": "espèce d'oiseaux passériformes de la famille des laniidae",
+   "extract": "La pie-grièche écorcheur est une espèce de passereaux de la famille des Laniidae.",
+   "fulltext_chars": 13503
+  },
+  "en": {
+   "title": "Red-backed shrike",
+   "url": "https://en.wikipedia.org/wiki/Red-backed_shrike",
+   "description": "Species of bird",
+   "extract": "The red-backed shrike is a carnivorous passerine bird and member of the shrike family, Laniidae. Its breeding range stretches from Western Europe east to central Russia. It is migratory and winters in the eastern areas of tropical Africa and southern Africa.",
+   "fulltext_chars": 3771
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Lanius_collurio_1_%28Martin_Mecnarowski%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 560,
+  "height": 786,
+  "file": "Lanius_collurio_1_(Martin_Mecnarowski).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/4/49/Lanius_collurio_1_%28Martin_Mecnarowski%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Martin Mecnarowski (http://www.photomecan.eu/)",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Lanius_collurio_1_(Martin_Mecnarowski).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3057,
+  "cities": {
+   "Le Mans": 0.126,
+   "Pornic": 0.136,
+   "Rennes": 0.086,
+   "Poitiers": 0.185,
+   "Paris": 0.123,
+   "Lille": 0.082,
+   "Strasbourg": 0.295,
+   "Lyon": 0.245,
+   "Grenoble": 0.2,
+   "Marseille": 0.146,
+   "Toulouse": 0.256,
+   "Bordeaux": 0.306,
+   "Brest": 0.035,
+   "Ajaccio": 0.173,
+   "Clermont-Ferrand": 0.264,
+   "Chamonix": 0.229,
+   "Perpignan": 0.149,
+   "Nancy": 0.216
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0,
+   0.0752,
+   0.3057,
+   0.2953,
+   0.2515,
+   0.2208,
+   0.1328,
+   0.0258,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:10Z"
+}

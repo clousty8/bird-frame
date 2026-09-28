@@ -1,0 +1,80 @@
+{
+ "scientific_name": "Elanus caeruleus",
+ "common_name_fr": "Élanion blanc",
+ "birdnet_label": "Elanus caeruleus_Élanion blanc",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Elanus",
+  "species": "Elanus caeruleus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Élanion blac",
+   "url": "https://fr.wikipedia.org/wiki/%C3%89lanion_blac",
+   "description": "espèce d'oiseaux accipitriformes de la famille des accipitridae",
+   "extract": "L'Élanion blac ou Élanion blanc est une espèce de petits rapaces de la famille des Accipitridae.",
+   "fulltext_chars": 6647
+  },
+  "en": {
+   "title": "Black-winged kite",
+   "url": "https://en.wikipedia.org/wiki/Black-winged_kite",
+   "description": "Raptor native to Eurasia",
+   "extract": "The black-winged kite, also known as the black-shouldered kite, is a small diurnal bird of prey in the family Accipitridae best known for its habit of hovering over open grasslands in the manner of the much smaller kestrels. This Palearctic and Afrotropical species was sometimes combined with the Australian black-shouldered kite and the white-tailed kite of North and South America which together form a superspecies. This kite is distinctive, with long wings; white, grey and black plumage; and owl-like forward-facing eyes with red irises. The owl-like behaviour is even more pronounced in the letter-winged kite, a nocturnal relative in Australia. Although mainly seen on plains, they are sometimes seen on grassy slopes of hills in the higher elevation regions of Asia. They are not migratory, but show nomadism in response to weather and food availability. They are well adapted to utilize periodic upsurges in rodent populations and can raise multiple broods in a single year unlike most birds of prey. Populations in southern Europe have grown in response to human activities, particularly agriculture and livestock rearing. It is now present in Southwest France.",
+   "fulltext_chars": 9705
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Black-shouldered_Kite_%28Elanus_caeruleus%29_in_Kawal_WS%2C_AP_W_IMG_1681.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 629,
+  "height": 600,
+  "file": "Black-shouldered_Kite_(Elanus_caeruleus)_in_Kawal_WS,_AP_W_IMG_1681.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/4/43/Black-shouldered_Kite_%28Elanus_caeruleus%29_in_Kawal_WS%2C_AP_W_IMG_1681.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "J.M.Garg",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Black-shouldered_Kite_(Elanus_caeruleus)_in_Kawal_WS,_AP_W_IMG_1681.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0251,
+  "cities": {
+   "Le Mans": 0.017,
+   "Pornic": 0.019,
+   "Rennes": 0.016,
+   "Poitiers": 0.018,
+   "Paris": 0.016,
+   "Lille": 0.01,
+   "Lyon": 0.015,
+   "Marseille": 0.018,
+   "Toulouse": 0.022,
+   "Bordeaux": 0.025,
+   "Brest": 0.012,
+   "Ajaccio": 0.013,
+   "Clermont-Ferrand": 0.021,
+   "Perpignan": 0.022
+  },
+  "monthly_scores": [
+   0.0202,
+   0.0136,
+   0.0123,
+   0.0,
+   0.0,
+   0.0,
+   0.0127,
+   0.0113,
+   0.0113,
+   0.0198,
+   0.0251,
+   0.0221
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:23Z"
+}

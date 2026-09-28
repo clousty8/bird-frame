@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Prunella modularis",
+ "common_name_fr": "Accenteur mouchet",
+ "birdnet_label": "Prunella modularis_Accenteur mouchet",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Prunellidae",
+  "family_common": "Accentors",
+  "genus": "Prunella",
+  "species": "Prunella modularis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Accenteur mouchet",
+   "url": "https://fr.wikipedia.org/wiki/Accenteur_mouchet",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Accenteur mouchet est une espèce d'oiseaux de la famille des Prunellidae. C'est l'une des deux espèces d'accenteurs vivant en France.",
+   "fulltext_chars": 5426
+  },
+  "en": {
+   "title": "Dunnock",
+   "url": "https://en.wikipedia.org/wiki/Dunnock",
+   "description": "Species of bird",
+   "extract": "The dunnock is a small passerine, or perching bird, found throughout temperate Europe and into Asian Russia. Dunnocks have also been introduced and become common in New Zealand. It is the most widespread member of the accentor family; most other accentors are limited to mountain habitats. Other, largely archaic, English names for the dunnock include hedge accentor, hedge sparrow, hedge warbler, and titling.",
+   "fulltext_chars": 8891
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Dunnock_in_Bute_Park%2C_Cardiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3160,
+  "height": 2257,
+  "file": "Dunnock_in_Bute_Park,_Cardiff.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Dunnock_in_Bute_Park%2C_Cardiff.jpg/1920px-Dunnock_in_Bute_Park%2C_Cardiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Dominic Nelson",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Dunnock_in_Bute_Park,_Cardiff.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.8497,
+  "cities": {
+   "Le Mans": 0.769,
+   "Pornic": 0.73,
+   "Rennes": 0.829,
+   "Poitiers": 0.56,
+   "Paris": 0.745,
+   "Lille": 0.833,
+   "Strasbourg": 0.294,
+   "Lyon": 0.223,
+   "Grenoble": 0.201,
+   "Marseille": 0.245,
+   "Toulouse": 0.261,
+   "Bordeaux": 0.403,
+   "Brest": 0.85,
+   "Ajaccio": 0.455,
+   "Clermont-Ferrand": 0.271,
+   "Chamonix": 0.168,
+   "Perpignan": 0.228,
+   "Nancy": 0.431
+  },
+  "monthly_scores": [
+   0.7294,
+   0.7552,
+   0.8093,
+   0.8497,
+   0.6812,
+   0.5934,
+   0.4634,
+   0.3001,
+   0.4569,
+   0.7183,
+   0.71,
+   0.6987
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:40Z"
+}

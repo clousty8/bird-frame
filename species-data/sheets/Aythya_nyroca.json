@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Aythya nyroca",
+ "summary_fr": "Le Fuligule nyroca est un canard plongeur de taille moyenne, plus petit et moins grégaire que les autres fuligules européens. Le mâle en plumage nuptial arbore un roux acajou profond contrastant avec des sous-caudales blanches éclatantes et un œil clair, presque blanc ; la femelle, plus terne, a l'œil sombre. Longtemps absent de larges pans de l'Europe de l'Ouest, il s'est remarquablement réinstallé en France depuis les années 2000, avec quelques couples nicheurs en Dombes et, plus récemment, sur le littoral roussillonnais près du Barcarès. Contrairement à la plupart de ses cousins, il se nourrit surtout de végétation aquatique plutôt que de mollusques, dans des eaux calmes et peu profondes densément végétalisées. Fait rare chez les canards plongeurs, le mâle participe parfois à l'élevage des jeunes. En France, la situation reste celle d'un migrateur partiel : une poignée d'oiseaux nichent sur place tandis que la majorité des effectifs observés hivernent, rejoints par des migrateurs venus d'Europe centrale et d'Asie occidentale. Ses effectifs mondiaux demeurent menacés par la dégradation des zones humides et la chasse hors d'Europe de l'Ouest.",
+ "habitat": "Eaux calmes et peu profondes richement végétalisées, lacs et marais d'eau douce ou saumâtre bordés de végétation émergente dense. En hiver et en passage, fréquente aussi lagunes côtières et mers intérieures.",
+ "diet": "Principalement végétation aquatique : graines, racines, plantes subaquatiques. Complète son régime de mollusques, crustacés, insectes et larves, parfois de petits poissons ou amphibiens ; se nourrit aussi en surface ou en barbotant.",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Essentiellement en Afrique subsaharienne et sur le pourtour méditerranéen ; présence hivernale croissante en France (Genève, littoral méditerranéen), probablement liée au réchauffement climatique.",
+  "niche": "Reproduction très localisée en France depuis sa réinstallation récente, d'avril à juillet (Dombes, station d'épuration du Barcarès). Niche aussi en Europe centrale et en Asie occidentale, sur marais steppiques.",
+  "passage": "Passages marqués en mars-avril et de septembre à novembre lors des mouvements migratoires."
+ },
+ "seasonality_fr": "Présent toute l'année en petit nombre : nicheur rare d'avril à juillet sur quelques sites (Dombes, Barcarès), puis hivernant plus largement de novembre à mars, avec des passages au printemps et à l'automne.",
+ "song_fr": "Espèce peu bruyante. Le mâle émet des grognements sourds et graves pendant la parade nuptiale ; femelle et jeunes vocalisent peu, cris d'alarme rares et peu documentés.",
+ "lookalikes": [
+  {
+   "scientific_name": "Aythya ferina",
+   "common_name_fr": "Fuligule milouin",
+   "why_fr": "Canard plongeur de taille et d'habitat similaires ; hybride fréquent avec le Nyroca."
+  },
+  {
+   "scientific_name": "Aythya fuligula",
+   "common_name_fr": "Fuligule morillon",
+   "why_fr": "Partage les mêmes eaux et un comportement voisin ; hybridation occasionnelle documentée."
+  },
+  {
+   "scientific_name": "Netta rufina",
+   "common_name_fr": "Nette rousse",
+   "why_fr": "Régime végétarien proche et même niche écologique ; hybridation possible."
+  }
+ ],
+ "rarity_note": "Espèce rare en France mais en nette progression : nicheuse très localisée (Dombes, Barcarès) et hivernante en nombre croissant, surtout observée dans le sud et le pourtour méditerranéen.",
+ "fun_facts": [
+  "Contrairement à la plupart des canards plongeurs, le mâle participe parfois à l'élevage des jeunes, un comportement rare chez les fuligules.",
+  "Son régime à base de plantes aquatiques, inhabituel chez les fuligules, le rapproche davantage de la Nette rousse.",
+  "Disparu de France pendant des décennies, il y niche de nouveau depuis les années 2000, notamment en Dombes et près du Barcarès."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fuligule_nyroca",
+  "https://en.wikipedia.org/wiki/Ferruginous_duck",
+  "https://www.oiseaux.net/",
+  "https://inpn.mnhn.fr/",
+  "https://www.ornithomedia.com/magazine/observer-france/la-station-depuration-du-barcares-pyrenees-orientales-un-nouveau-site-de-nidification-du-fuligule-nyroca-en-france/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

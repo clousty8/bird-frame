@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Alauda arvensis",
+ "common_name_fr": "Alouette des champs",
+ "birdnet_label": "Alauda arvensis_Alouette des champs",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Alaudidae",
+  "family_common": "Larks",
+  "genus": "Alauda",
+  "species": "Alauda arvensis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Alouette des champs",
+   "url": "https://fr.wikipedia.org/wiki/Alouette_des_champs",
+   "description": "espèce d'oiseaux passériformes de la famille des Alaudidae",
+   "extract": "L’Alouette des champs est une espèce d'oiseaux. Comme toutes les alouettes, elle appartient à la famille des Alaudidae. Espèce très répandue en Europe, l'alouette des champs est très courante en France.",
+   "fulltext_chars": 21742
+  },
+  "en": {
+   "title": "Eurasian skylark",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_skylark",
+   "description": "Species of bird",
+   "extract": "The Eurasian skylark, commonly referred to in Europe as the lark, is a passerine bird in the lark family, Alaudidae. It is a widespread species found across Europe and the Palearctic with introduced populations in Australia, New Zealand, Canada, and on the Hawaiian Islands. It is a bird of open farmland and heath, known for the song of the male, which is delivered in hovering flight from heights of 50 to 100 metres. The sexes are alike. It is streaked greyish-brown above and on the breast and has a buff-white belly.",
+   "fulltext_chars": 11386
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Alauda_arvensis_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 600,
+  "height": 400,
+  "file": "Alauda_arvensis_2.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Alauda_arvensis_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5 se",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5/se/deed.en",
+  "author": "Daniel Pettersson",
+  "credit": "Picture taken by Daniel Pettersson. Uploaded to commons by oskila with his permission. File taken from http://www.fagelfoto.se",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Alauda_arvensis_2.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.5297,
+  "cities": {
+   "Le Mans": 0.467,
+   "Pornic": 0.432,
+   "Rennes": 0.503,
+   "Poitiers": 0.367,
+   "Paris": 0.462,
+   "Lille": 0.53,
+   "Strasbourg": 0.341,
+   "Lyon": 0.224,
+   "Grenoble": 0.168,
+   "Marseille": 0.191,
+   "Toulouse": 0.231,
+   "Bordeaux": 0.318,
+   "Brest": 0.512,
+   "Ajaccio": 0.352,
+   "Clermont-Ferrand": 0.261,
+   "Chamonix": 0.187,
+   "Perpignan": 0.208,
+   "Nancy": 0.379
+  },
+  "monthly_scores": [
+   0.3241,
+   0.3518,
+   0.4437,
+   0.5285,
+   0.5297,
+   0.5061,
+   0.356,
+   0.0923,
+   0.1691,
+   0.3701,
+   0.3342,
+   0.3481
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:03Z"
+}

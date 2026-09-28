@@ -1,0 +1,88 @@
+{
+ "scientific_name": "Monticola solitarius",
+ "common_name_fr": "Monticole bleu",
+ "birdnet_label": "Monticola solitarius_Monticole bleu",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Muscicapidae",
+  "family_common": "Old World Flycatchers",
+  "genus": "Monticola",
+  "species": "Monticola solitarius"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Monticole merle-bleu",
+   "url": "https://fr.wikipedia.org/wiki/Monticole_merle-bleu",
+   "description": "espèces d'oiseaux",
+   "extract": "Le Monticole bleu, anciennement Monticole merle-bleu est une espèce de passereaux de la famille des Muscicapidae, traditionnellement appelé Merle bleu.",
+   "fulltext_chars": 3933
+  },
+  "en": {
+   "title": "Blue rock thrush",
+   "url": "https://en.wikipedia.org/wiki/Blue_rock_thrush",
+   "description": "Species of bird",
+   "extract": "The blue rock thrush is a species of chat. This thrush-like Old World flycatcher was formerly placed in the family Turdidae. It breeds in southern Europe, northwest Africa, and from Central Asia to northern China and Malaysia. The blue rock thrush is the official national bird of Malta.",
+   "fulltext_chars": 7363
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Monticola_solitarius%2C_Spain_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1200,
+  "height": 800,
+  "file": "Monticola_solitarius,_Spain_1.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Monticola_solitarius%2C_Spain_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "jose maria carretero palacios from jerez de los caballeros, españa",
+  "credit": "ROQUERO SOLITARIO II",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Monticola_solitarius,_Spain_1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2269,
+  "cities": {
+   "Lyon": 0.017,
+   "Grenoble": 0.021,
+   "Marseille": 0.063,
+   "Toulouse": 0.043,
+   "Bordeaux": 0.024,
+   "Ajaccio": 0.227,
+   "Clermont-Ferrand": 0.018,
+   "Chamonix": 0.014,
+   "Perpignan": 0.064
+  },
+  "monthly_scores": [
+   0.2257,
+   0.2265,
+   0.2033,
+   0.161,
+   0.1407,
+   0.133,
+   0.1375,
+   0.1254,
+   0.1364,
+   0.171,
+   0.2057,
+   0.2269
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:33Z"
+}

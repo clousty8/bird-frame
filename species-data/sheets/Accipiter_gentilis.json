@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Accipiter gentilis",
+ "summary_fr": "Rapace forestier puissant et redoutable, l'Autour des palombes est l'un des plus grands oiseaux de proie d'Eurasie. Doté d'ailes courtes et larges ainsi que d'une longue queue, il est parfaitement adapté au vol en sous-bois où il chasse à une vitesse impressionnante pouvant atteindre 100 km/h. Territorial toute l'année, il défend farouchement son domaine contre ses congénères. Bien que bien présent en Europe, il reste peu commun et difficile à observer en France. Il joue un rôle capital dans les écosystèmes forestiers, régulant les populations de pigeons, corneilles et autres oiseaux de taille moyenne. Au Moyen Âge, seule la noblesse avait le droit de voler des autours à la fauconnerie, ce qui explique l'épithète « gentilis » (noble) de son nom scientifique.",
+ "habitat": "Forêts de feuillus ou de conifères avec clairières, bois de montagne, bosquets isolés en milieu ouvert. Peut s'adapter aux zones urbaines où existent des boisements importants.",
+ "diet": "Principalement des oiseaux de taille moyenne (pigeons, géais, perdrix, étourneaux) et des petits mammifères (écureuils, lièvres, lapins). Peut exceptionnellement prendre des rapaces ou des insectes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Sédentaire ou hiverne en France selon les populations, les oiseaux des régions froides migrant davantage vers le sud.",
+  "niche": "Niche partout en France de février à septembre, essentiellement en milieux forestiers de montagne ou de plaine boisée.",
+  "passage": "Passages plus marqués en mars et septembre-octobre pour les populations migratrices du nord et de l'est."
+ },
+ "seasonality_fr": "Présent toute l'année en France, mais beaucoup plus difficile à observer en hiver. Les cris sont peu fréquents sauf en période de reproduction (février à avril).",
+ "song_fr": "Cri caractéristique un long « guiguiguig » répété, varié en intensité. En parade nuptiale, chatter rapide, cris croassants « guck » ou « chup » du mâle lors de la remise de nourriture à la femelle.",
+ "lookalikes": [
+  {
+   "scientific_name": "Accipiter nisus",
+   "common_name_fr": "Épervier d'Europe",
+   "why_fr": "Les petits mâles peuvent ressembler à une femelle d'Épervier, mais ils sont plus larges et trapus. Les cris sont différents mais tous deux sont des Accipiter."
+  },
+  {
+   "scientific_name": "Buteo buteo",
+   "common_name_fr": "Buse variable",
+   "why_fr": "Les silhouettes en vol et les cris peuvent être confondus, particulièrement pour les jeunes autours bruns et les busses claires."
+  }
+ ],
+ "rarity_note": "Peu commun en France, absent de nombreuses régions, avec une plus forte présence en zones méditerranéennes et montagneuses. Pas de densité élevée nulle part.",
+ "fun_facts": [
+  "Au Moyen Âge, les autours étaient réservés à la noblesse pour la fauconnerie ; les roturiers ne pouvaient voler que des éperviers.",
+  "Il peut fondre sur ses proies à plus de 100 km/h dans un piqué vertical, démontrant une agilité remarquable pour un rapace de cette taille.",
+  "Les femelles peuvent être quatre fois plus lourdes que les mâles, ce qui représente l'une des plus fortes différences sexuelles de taille chez les rapaces."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Autour_des_palombes",
+  "https://en.wikipedia.org/wiki/Eurasian_goshawk",
+  "https://www.oiseaux.net/autour.des.palombes.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4361"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

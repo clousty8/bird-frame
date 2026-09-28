@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Porphyrio porphyrio",
+ "summary_fr": "La Talève sultane est l'une des plus spectaculaires habitantes des zones humides méditerranéennes : plumage bleu-violet profond, bec et frontal rouge vif, pattes démesurées aux longs doigts qui lui permettent de marcher sur les herbiers flottants comme sur un tapis. De la taille d'une petite poule, elle vit cachée dans les roselières denses, où elle grimpe et manipule sa nourriture avec une patte, comme le ferait un perroquet. Ses cris sont surprenants : des braiements et hululements rauques, plus proches d'un mammifère que d'un oiseau, qui trahissent sa présence bien avant qu'on l'aperçoive. Longtemps cantonnée à l'Espagne et à l'Afrique du Nord, l'espèce a connu un fort déclin au vingtième siècle avant de bénéficier de programmes de protection et de réintroduction qui lui ont permis de reconquérir du terrain, jusqu'au sud-est de la France où de petites populations nichent désormais. Déjà admirée dans l'Antiquité grecque et romaine, où elle ornait temples et villas en captivité, elle reste aujourd'hui un symbole de la restauration des zones humides méditerranéennes.",
+ "habitat": "Marais, roselières denses, étangs et bords de cours d'eau bien végétalisés, en Méditerranée occidentale.",
+ "diet": "Pousses et graines de roseaux et autres plantes aquatiques ; complète son régime avec des insectes, mollusques, petits poissons et parfois des œufs ou oisillons d'autres oiseaux.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Reste toute l'année sur les mêmes zones humides du littoral méditerranéen et du sud-est de la France, sans déplacement notable en hiver.",
+  "niche": "Sud-est de la France (Camargue et zones humides voisines) depuis les années 1990, dans les roselières denses ; ponte principalement d'avril à juin.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente toute l'année là où elle s'est installée, plus discrète et silencieuse en dehors de la période de reproduction (avril à juillet).",
+ "song_fr": "Cris rauques, braiments et hululements graves peu comparables à un chant d'oiseau, lancés surtout à l'aube et au crépuscule en période de reproduction.",
+ "lookalikes": [
+  {
+   "scientific_name": "Gallinula chloropus",
+   "common_name_fr": "Gallinule poule-d'eau",
+   "why_fr": "Cris stridents et gloussements similaires émis depuis les roselières des mêmes zones humides."
+  },
+  {
+   "scientific_name": "Rallus aquaticus",
+   "common_name_fr": "Râle d'eau",
+   "why_fr": "Cris perçants, presque porcins, pouvant se confondre avec les grognements de la Talève dans les roseaux."
+  }
+ ],
+ "rarity_note": "Espèce localisée et peu commune en France, présente surtout en Méditerranée occidentale (Camargue) où sa population progresse lentement depuis les années 1990.",
+ "fun_facts": [
+  "Dans l'Antiquité grecque et romaine, la Talève sultane était élevée en captivité dans les villas et les temples pour son plumage éclatant.",
+  "Elle saisit sa nourriture avec une patte pour la porter à son bec, un comportement peu courant chez les oiseaux et qui rappelle celui des perroquets.",
+  "Ses cris rauques et grognants, audibles à plusieurs centaines de mètres, ressemblent davantage à ceux d'un mammifère qu'à un chant d'oiseau."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Tal%C3%A8ve_sultane",
+  "https://en.wikipedia.org/wiki/Western_swamphen"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

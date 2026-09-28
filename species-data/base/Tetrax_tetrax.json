@@ -1,0 +1,71 @@
+{
+ "scientific_name": "Tetrax tetrax",
+ "common_name_fr": "Outarde canepetière",
+ "birdnet_label": "Tetrax tetrax_Outarde canepetière",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Otidiformes",
+  "family": "Otididae",
+  "family_common": "Bustards",
+  "genus": "Tetrax",
+  "species": "Tetrax tetrax"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Outarde canepetière",
+   "url": "https://fr.wikipedia.org/wiki/Outarde_canepeti%C3%A8re",
+   "description": "espèce d'oiseaux otidiformes de la famille des otididae",
+   "extract": "L’Outarde canepetière est une espèce d'oiseaux de la famille des Otididae. C'est la seule espèce du genre Tetrax et elle est à présent l’unique représentante de la famille des Otididae en France, depuis la disparition de la Grande Outarde au début du siècle dernier. C'est un des oiseaux les plus menacés des plaines cultivées de France.",
+   "fulltext_chars": 12585
+  },
+  "en": {
+   "title": "Little bustard",
+   "url": "https://en.wikipedia.org/wiki/Little_bustard",
+   "description": "Species of bird",
+   "extract": "The little bustard is a bird in the bustard family, the only member of the genus Tetrax. It breeds in Southern Europe and in Western and Central Asia.",
+   "fulltext_chars": 3567
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/29/Tettet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4121,
+  "height": 2748,
+  "file": "Tettet.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Tettet.jpg/1920px-Tettet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Pierre Dalous",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Tettet.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0243,
+  "cities": {
+   "Marseille": 0.011,
+   "Toulouse": 0.012,
+   "Bordeaux": 0.014,
+   "Ajaccio": 0.024,
+   "Perpignan": 0.015
+  },
+  "monthly_scores": [
+   0.0128,
+   0.0124,
+   0.0238,
+   0.0237,
+   0.0185,
+   0.0145,
+   0.0153,
+   0.0185,
+   0.0243,
+   0.0142,
+   0.0116,
+   0.013
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:23Z"
+}

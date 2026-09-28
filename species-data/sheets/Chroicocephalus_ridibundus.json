@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Chroicocephalus ridibundus",
+ "summary_fr": "La Mouette rieuse est une petite mouette très commune en France, présente toute l'année. Son nom vient de son cri rauque et sonore, qui résonne dans les parcs urbains et les zones humides. Avec sa tête brun chocolat en été et ses pattes orange, elle se distingue des autres petites mouettes. Très adaptable, elle se nourrit d'insectes, de vers et de déchets, jouant volontiers le rôle d'éboueur en ville. Hautement grégaire, elle forme des colonies parfois impressionnantes et se repose en groupes denses le soir. Elle niche dans les roselières, les marais et même les gravières, où elle pond généralement trois œufs. Ses jeunes prennent deux ans pour atteindre leur plumage adulte. C'est l'une des rares mouettes à chanter en hiver, défendant farouchement son territoire toute l'année.",
+ "habitat": "Lacs, étangs, roselières, marais côtiers et zones d'eau douce ou saumâtre. Très adaptable, elle fréquente aussi les zones urbaines et les zones cultivées.",
+ "diet": "Omnivore opportuniste. Insectes, vers de terre, araignées et petits poissons ; baies, graines et déchets ménagers en hiver. Elle adapte son régime aux proies disponibles localement.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Dans toute la France et tout le pourtour méditerranéen, où les nicheurs locaux sont rejoints par des populations venues d'Europe du Nord, de Scandinavie, de Pologne et de Russie. Quelques oiseaux hivernent régulièrement en Europe du Nord-Ouest.",
+  "niche": "Partout en France métropolitaine, en colonies de tailles très variables. S'installe à partir d'avril, pond de trois œufs généralement entre mai et juillet, parfois jusqu'en juillet.",
+  "passage": "Passages marqués en février-mars lors du retour vers les zones de reproduction, puis de juillet à décembre lors de la migration postnuptiale. Mouvements erratiques observés en mai-juin."
+ },
+ "seasonality_fr": "Visible et audible toute l'année, avec une concentration numérique plus forte en automne et hiver en France. Plus rare en cœur d'été au moment des migrations.",
+ "song_fr": "Cri rauque et sonore, kree-ar caractéristique, très reconnaissable. Cri d'alarme sec. Particulièrement bruyante en colonies, surtout en période de nidification.",
+ "lookalikes": [
+  {
+   "scientific_name": "Ichthyaetus melanocephalus",
+   "common_name_fr": "Mouette mélanocéphale",
+   "why_fr": "Tête noire plus foncée en été, aire de répartition largement chevauchante. Les cris sont proches mais la mélanocéphale a une voix plus nasale."
+  },
+  {
+   "scientific_name": "Hydrocoloeus minutus",
+   "common_name_fr": "Mouette pygmée",
+   "why_fr": "Plus petite, mais les cris peuvent sembler superficiellement similaires en situation bruyante en colonie."
+  },
+  {
+   "scientific_name": "Larus canus",
+   "common_name_fr": "Goéland cendré",
+   "why_fr": "Taille intermédiaire, sympatrique en hiver. Les vocalisations diffèrent mais peuvent prêter à confusion dans un environnement urbain bruyant."
+  }
+ ],
+ "rarity_note": "Très commune et régulière en France, toute l'année. Les trois dernières décennies ont vu une expansion remarquable de son aire de répartition vers l'ouest (Islande depuis 1911, Groenland depuis 1969, Canada depuis 1977).",
+ "fun_facts": [
+  "Son nom scientifique ridibundus signifie littéralement « qui rit » en latin, d'où son nom français de « rieuse ».",
+  "Elle peut vivre plus de 30 ans à l'état sauvage. Un cas record de 32,9 années a été documenté.",
+  "Mâles et femelles chantent tous les deux pour défendre leur territoire, ce qui est rare chez les mouettes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Mouette_rieuse",
+  "https://en.wikipedia.org/wiki/Black-headed_gull",
+  "https://www.oiseaux.net/oiseaux/mouette.rieuse.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

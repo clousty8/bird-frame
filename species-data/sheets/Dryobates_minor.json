@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Dryobates minor",
+ "summary_fr": "Le Pic épeichette est le plus petit pic d'Europe, avec une taille et une légèreté comparables à celles d'un moineau. Facilement reconnaissable au dimorphisme sexuel marqué de sa calotte rouge chez le mâle et blanche chez la femelle, cet oiseau forestier se nourrit d'insectes et de larves xylophages qu'il extrait de l'écorce des arbres. Cavicole stricte, il niche dans des troncs creux et mort aux dimensions réduites, inaccessibles aux plus gros pics. Sédentaire ou occasionnellement nomade selon les années, il se rencontre dans les régions boisées où les arbres morts sont abondants, des plaines aux zones préalpines. Son cri « keek » aigu et répété, ainsi que son trille vibrant caractéristique, lui permettent de se faire connaître sans avoir à se montrer, le rendant souvent discret malgré sa présence régulière.",
+ "habitat": "Bois avec arbres morts, peupleraies, haies avec vieux arbres, parcs et jardins boisés. Préfère les petits diamètres de tronc.",
+ "diet": "Insectes xylophages et larves extraites sous l'écorce ; foliage et petits insectes de surface en période de reproduction.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Hivernage régulier dans les régions où l'espèce est établie. Populations partiellement nomades selon la disponibilité alimentaire.",
+  "niche": "Se reproduit partout en France où le bois mort est suffisant. Avril à juin, une nichée par an.",
+  "passage": null
+ },
+ "seasonality_fr": "Présent toute l'année en France. Plus détectable au printemps lors de la reproduction et du chant territorial.",
+ "song_fr": "Cri distinctif « keek » répété, criard et aigu, entendu toute l'année. Trille vibrant court et rapide ; ses vocalises sont plus aiguës que celles du Pic épeiche.",
+ "lookalikes": [
+  {
+   "scientific_name": "Dendrocopos major",
+   "common_name_fr": "Pic épeiche",
+   "why_fr": "Ambiance sonore similaire mais trille plus grave et corps plus massif ; le « keek » du Pic épeichette est plus aigu."
+  },
+  {
+   "scientific_name": "Dryocopus martius",
+   "common_name_fr": "Pic noir",
+   "why_fr": "Son de caisse à caractère semblable mais oiseau beaucoup plus grand. Confusion rare sans autre indice auditif."
+  },
+  {
+   "scientific_name": "Picus viridis",
+   "common_name_fr": "Pic vert",
+   "why_fr": "Rire caractéristique très distinct, mais certains cris d'alarme pourraient créer une ambiguïté chez BirdNET."
+  }
+ ],
+ "rarity_note": "Assez rare en France, avec une distribution irrégulière selon la disponibilité du bois mort. Score maximal BirdNET < 0,13 indique une présence régulière mais localisée et peu abondante.",
+ "fun_facts": [
+  "Le Pic épeichette est le plus petit pic d'Europe, pesant à peine 20 grammes et mesurant 14 à 16 cm de long.",
+  "Contrairement au Pic épeiche, il affectionne les petits arbres et branches fines, où son faible poids lui permet des acrobaties impossibles aux plus gros pics.",
+  "Son cri « keek » aigu caractéristique résonne toute l'année, permettant aux chercheurs d'évaluer ses populations par écoute en hiver sans attendre la reproduction."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pic_%C3%A9peichette",
+  "https://en.wikipedia.org/wiki/Lesser_spotted_woodpecker",
+  "https://www.oiseaux.net"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

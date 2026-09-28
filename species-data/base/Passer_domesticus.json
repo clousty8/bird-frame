@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Passer domesticus",
+ "common_name_fr": "Moineau domestique",
+ "birdnet_label": "Passer domesticus_Moineau domestique",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Passeridae",
+  "family_common": "Old World Sparrows",
+  "genus": "Passer",
+  "species": "Passer domesticus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Moineau domestique",
+   "url": "https://fr.wikipedia.org/wiki/Moineau_domestique",
+   "description": "espèces d'oiseaux",
+   "extract": "Le Moineau domestique est une espèce de petits passereaux de la famille des Passeridae. Contrairement à ce que ce nom peut laisser penser, ce n'est pas un animal domestique mais bien une espèce sauvage, seulement commensale de l'être humain.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "House sparrow",
+   "url": "https://en.wikipedia.org/wiki/House_sparrow",
+   "description": "Species of bird",
+   "extract": "The house sparrow is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16 cm (6.3 in) and a mass of 24–39.5 g (0.85–1.39 oz). Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings. One of 28 species in the genus Passer, the house sparrow is native to most of Europe, the Mediterranean Basin, and a large part of Asia. Its intentional or accidental introductions to many regions, including parts of Australasia, Africa, and the Americas, make it the most widely distributed wild bird.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/9f/House_sparrow_David_Raju_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5184,
+  "height": 3456,
+  "file": "House_sparrow_David_Raju_(2).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/House_sparrow_David_Raju_%282%29.jpg/1920px-House_sparrow_David_Raju_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Davidvraju",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:House_sparrow_David_Raju_(2).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9515,
+  "cities": {
+   "Le Mans": 0.851,
+   "Pornic": 0.837,
+   "Rennes": 0.841,
+   "Poitiers": 0.863,
+   "Paris": 0.864,
+   "Lille": 0.873,
+   "Strasbourg": 0.81,
+   "Lyon": 0.851,
+   "Grenoble": 0.841,
+   "Marseille": 0.819,
+   "Toulouse": 0.949,
+   "Bordeaux": 0.952,
+   "Brest": 0.795,
+   "Ajaccio": 0.27,
+   "Clermont-Ferrand": 0.881,
+   "Chamonix": 0.757,
+   "Perpignan": 0.908,
+   "Nancy": 0.823
+  },
+  "monthly_scores": [
+   0.8496,
+   0.833,
+   0.8983,
+   0.9514,
+   0.9515,
+   0.9384,
+   0.9114,
+   0.8698,
+   0.8222,
+   0.8248,
+   0.8629,
+   0.863
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:21Z"
+}

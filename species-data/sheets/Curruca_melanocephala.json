@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Curruca melanocephala",
+ "summary_fr": "La Fauvette mélanocéphale est un petit passereau du bassin méditerranéen, reconnaissable à la calotte noire du mâle, qui descend jusque sous l'œil et contraste avec sa gorge blanche et son ventre clair. Son cercle orbital rouge vif, plus terne chez la femelle au plumage brun-gris, lui donne un regard perçant caractéristique. Elle occupe le maquis, les garrigues et les buissons épineux du littoral, mais s'accommode volontiers des jardins, des vergers et des oliveraies. Discrète et méfiante, elle aime pourtant se percher un instant au sommet des broussailles, queue dressée et capuchon hérissé, avant de replonger dans le couvert. Son régime se compose d'arthropodes variés (coléoptères, araignées, hyménoptères) complétés en automne et en hiver par des fruits comme les figues, les olives ou les baies de nerprun. Territoriale toute l'année, elle défend farouchement son domaine à grand renfort de cris rêches et de chants rapides et grinçants, notamment lors des vols nuptiaux du mâle dès la fin de l'hiver. En France, elle domine le pourtour méditerranéen et le sud-ouest, avec une expansion progressive vers le nord le long de la vallée du Rhône ; les populations littorales restent le plus souvent sédentaires, tandis que d'autres gagnent l'Afrique du Nord pour l'hiver.",
+ "habitat": "Maquis, garrigues, côtes rocheuses, buissons denses et épineux. S'adapte aux jardins, parcs, vergers et oliveraies.",
+ "diet": "Arthropodes variés : coléoptères, hyménoptères, araignées, larves d'insectes. Fruits saisonniers en automne et hiver : figues, olives, nerpruns.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Afrique du Nord, Sahel et oases du Sahara ; les populations côtières et insulaires restent souvent résidentes en Méditerranée.",
+  "niche": "Régions méditerranéennes, sud-ouest et vallée du Rhône (France) ; nidification de mars à juin, parades nuptiales dès février.",
+  "passage": "Départ vers l'Afrique de fin août à décembre ; retour vers les sites de reproduction de fin février à avril."
+ },
+ "seasonality_fr": "Présente toute l'année en Méditerranée française. Plus discrète et localisée au nord de la Loire, avec des passages marqués en automne et au printemps.",
+ "song_fr": "Chant rapide, grinçant et sonore, très caractéristique des régions méditerranéennes. Cris d'alarme rêches et répétés « tré-tré-tré » ou de contact « tcheur ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Sylvia atricapilla",
+   "common_name_fr": "Fauvette à tête noire",
+   "why_fr": "Calotte noire similaire, mais s'arrête au-dessus de l'œil chez la femelle ; pas de cercle orbital rouge."
+  },
+  {
+   "scientific_name": "Curruca undata",
+   "common_name_fr": "Fauvette pitchou",
+   "why_fr": "Même habitat de maquis et garrigue, cris secs et rêches proches pouvant prêter à confusion acoustique."
+  }
+ ],
+ "rarity_note": "Commune à très commune sur le pourtour méditerranéen français (max_score 0,80), notamment en Provence, Languedoc et Corse ; bien plus localisée au nord.",
+ "fun_facts": [
+  "Défend farouchement son territoire toute l'année avec des cris et des chants agressifs.",
+  "Le mâle effectue des vols nuptiaux spectaculaires avec battements lents et chants, dès février.",
+  "Niche très bas, entre 30 et 60 cm de hauteur, dans un buisson dense et épineux."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fauvette_m%C3%A9lanoc%C3%A9phale",
+  "https://en.wikipedia.org/wiki/Sardinian_warbler",
+  "https://www.oiseaux.net/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

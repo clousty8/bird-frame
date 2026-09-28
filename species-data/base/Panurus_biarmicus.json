@@ -1,0 +1,85 @@
+{
+ "scientific_name": "Panurus biarmicus",
+ "common_name_fr": "Panure à moustaches",
+ "birdnet_label": "Panurus biarmicus_Panure à moustaches",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Panuridae",
+  "family_common": "Bearded Reedling",
+  "genus": "Panurus",
+  "species": "Panurus biarmicus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Panure à moustaches",
+   "url": "https://fr.wikipedia.org/wiki/Panure_%C3%A0_moustaches",
+   "description": "espèce d'oiseaux",
+   "extract": "La Panure à moustaches, anciennement appelée mésange à moustaches, est une espèce de passereaux d'Europe, l'unique représentante du genre Panurus et de la famille des Panuridae.",
+   "fulltext_chars": 4857
+  },
+  "en": {
+   "title": "Bearded reedling",
+   "url": "https://en.wikipedia.org/wiki/Bearded_reedling",
+   "description": "Species of bird",
+   "extract": "The bearded reedling is a small, long-tailed passerine bird found in reed beds near water in the temperate zone of Eurasia. It is frequently known as the bearded tit or occasionally as bearded parrotbill, as historically it was believed to be closely related to either the tits or parrotbills. Today it is known to lack close relatives and it is the only species in the family Panuridae.",
+   "fulltext_chars": 19161
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/94/Panurus_biarmicus_-Oare_Marshes%2C_Kent%2C_England_-male-8_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1303,
+  "height": 1964,
+  "file": "Panurus_biarmicus_-Oare_Marshes,_Kent,_England_-male-8_(3).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/9/94/Panurus_biarmicus_-Oare_Marshes%2C_Kent%2C_England_-male-8_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Smudge 9000 from North Kent Coast, England",
+  "credit": "Bearded Tit (Male)\n\nUploaded by Snowmanradio",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Panurus_biarmicus_-Oare_Marshes,_Kent,_England_-male-8_(3).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0608,
+  "cities": {
+   "Le Mans": 0.05,
+   "Pornic": 0.04,
+   "Rennes": 0.035,
+   "Poitiers": 0.052,
+   "Paris": 0.048,
+   "Lille": 0.061,
+   "Strasbourg": 0.022,
+   "Lyon": 0.025,
+   "Grenoble": 0.02,
+   "Marseille": 0.01,
+   "Bordeaux": 0.017,
+   "Brest": 0.02,
+   "Ajaccio": 0.044,
+   "Clermont-Ferrand": 0.032,
+   "Chamonix": 0.018,
+   "Nancy": 0.03
+  },
+  "monthly_scores": [
+   0.0439,
+   0.0415,
+   0.0496,
+   0.0424,
+   0.0375,
+   0.047,
+   0.0608,
+   0.0392,
+   0.037,
+   0.0497,
+   0.052,
+   0.0442
+  ],
+  "months": [
+   7,
+   11
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:40Z"
+}

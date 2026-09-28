@@ -1,0 +1,84 @@
+{
+ "scientific_name": "Acanthis cabaret",
+ "common_name_fr": "Sizerin cabaret",
+ "birdnet_label": "Acanthis cabaret_Sizerin cabaret",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Fringillidae",
+  "family_common": "Finches, Euphonias, and Allies",
+  "genus": "Acanthis",
+  "species": "Acanthis cabaret"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": null,
+   "url": null,
+   "description": null,
+   "extract": null,
+   "fulltext_chars": 0
+  },
+  "en": {
+   "title": "Redpoll",
+   "url": "https://en.wikipedia.org/wiki/Redpoll",
+   "description": "Species of bird",
+   "extract": "The redpoll is a species of small passerine bird in the finch family Fringillidae. It is the only species placed in the genus Acanthis. It breeds in the Arctic and north temperate Holarctic tundra and taiga. The redpoll was formerly widely treated as three species: the common or mealy redpoll, the arctic or hoary redpoll, and the lesser redpoll.",
+   "fulltext_chars": 4272
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Carduelis_flammea_CT6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2691,
+  "height": 1794,
+  "file": "Carduelis_flammea_CT6.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Carduelis_flammea_CT6.jpg/1920px-Carduelis_flammea_CT6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Cephas",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Carduelis_flammea_CT6.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0621,
+  "cities": {
+   "Le Mans": 0.025,
+   "Pornic": 0.041,
+   "Rennes": 0.04,
+   "Poitiers": 0.024,
+   "Paris": 0.019,
+   "Lille": 0.026,
+   "Marseille": 0.01,
+   "Bordeaux": 0.016,
+   "Brest": 0.062,
+   "Ajaccio": 0.012,
+   "Clermont-Ferrand": 0.012
+  },
+  "monthly_scores": [
+   0.0621,
+   0.06,
+   0.0543,
+   0.0512,
+   0.0351,
+   0.0335,
+   0.0311,
+   0.0191,
+   0.0242,
+   0.0429,
+   0.0552,
+   0.059
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:44Z"
+}

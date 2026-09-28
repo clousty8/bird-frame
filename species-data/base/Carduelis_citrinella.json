@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Carduelis citrinella",
+ "common_name_fr": "Venturon montagnard",
+ "birdnet_label": "Carduelis citrinella_Venturon montagnard",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Fringillidae",
+  "family_common": "Finches, Euphonias, and Allies",
+  "genus": "Carduelis",
+  "species": "Carduelis citrinella"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Venturon montagnard",
+   "url": "https://fr.wikipedia.org/wiki/Venturon_montagnard",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Venturon montagnard est une espèce de petits passereaux granivores appartenant à la famille des Fringillidae, dont l'aire de répartition est limitée à certains massifs montagneux européens.",
+   "fulltext_chars": 10829
+  },
+  "en": {
+   "title": "Citril finch",
+   "url": "https://en.wikipedia.org/wiki/Citril_finch",
+   "description": "Species of bird",
+   "extract": "The citril finch, also known as the Alpine citril finch, is a small songbird, a member of the true finch family, Fringillidae.",
+   "fulltext_chars": 6075
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Carduelis_citrinella_-Plateau_de_Beille%2C_Ariege%2C_Midi-Pyrenee%2C_France-8_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1062,
+  "file": "Carduelis_citrinella_-Plateau_de_Beille,_Ariege,_Midi-Pyrenee,_France-8_(1).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Carduelis_citrinella_-Plateau_de_Beille%2C_Ariege%2C_Midi-Pyrenee%2C_France-8_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Sandra from France",
+  "credit": "Plateau de beille\n\nUploaded by snowmanradio",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Carduelis_citrinella_-Plateau_de_Beille,_Ariege,_Midi-Pyrenee,_France-8_(1).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1297,
+  "cities": {
+   "Poitiers": 0.023,
+   "Strasbourg": 0.026,
+   "Lyon": 0.074,
+   "Grenoble": 0.066,
+   "Marseille": 0.054,
+   "Toulouse": 0.13,
+   "Bordeaux": 0.058,
+   "Clermont-Ferrand": 0.069,
+   "Chamonix": 0.045,
+   "Perpignan": 0.109,
+   "Nancy": 0.022
+  },
+  "monthly_scores": [
+   0.0663,
+   0.0611,
+   0.0934,
+   0.1283,
+   0.1165,
+   0.1297,
+   0.114,
+   0.0824,
+   0.0502,
+   0.0625,
+   0.0619,
+   0.0692
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:06Z"
+}

@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Phoenicopterus roseus",
+ "summary_fr": "Le Flamant rose est l'espèce de flamant la plus répandue au monde, reconnaissable à son plumage blanc rosé et à ses couvertures alaires d'un rose vif, teintes qu'il tire des caroténoïdes des crustacés et des algues qu'il filtre dans l'eau saumâtre. Oiseau grégaire, il vit en colonies parfois immenses sur des îles plates ou des vasières salées, où il niche à l'abri des prédateurs. En France, la Camargue héberge sa seule colonie reproductrice régulière, aux effectifs très variables d'une année à l'autre ; ailleurs sur le territoire, il n'est qu'un visiteur erratique, présent en petit nombre à toute période de l'année plutôt que lors de passages saisonniers marqués. Son bec muni de lamelles filtrantes, comparable aux fanons d'une baleine, lui permet de capturer sa nourriture en marchant dans la vase ou en pataugeant tête immergée. Il pousse un cri sonore rappelant celui d'une oie, surtout audible au sein des colonies. Depuis les années 1980, quelques individus s'observent même jusqu'aux Pays-Bas et en Allemagne, probablement échappés de captivité.",
+ "habitat": "Eaux saumâtres, salées ou alcalines : lacs salés, lagunes côtières, estuaires et baies peu profondes.",
+ "diet": "Crustacés (dont artémies riches en carotènes), mollusques, insectes aquatiques, algues et diatomées filtrés dans l'eau et la vase.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Présent toute l'année en Camargue et sur le littoral méditerranéen ; ailleurs en France, individus isolés possibles à toute saison, sans afflux hivernal marqué.",
+  "niche": "Colonie reproductrice réduite et irrégulière en Camargue, seul site français ; reproduction régulière en Méditerranée occidentale (Espagne, Portugal).",
+  "passage": "Pas de couloir de migration net hors Méditerranée : individus erratiques signalés toute l'année sur le reste du territoire, au gré des conditions climatiques."
+ },
+ "seasonality_fr": "Présent toute l'année en Camargue et sur le littoral méditerranéen ; ailleurs en France, apparitions imprévisibles à toute saison, sans période privilégiée.",
+ "song_fr": "Cri sonore rappelant celui d'une oie, répété en vol et au sein des colonies ; communication constante entre individus groupés.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anser anser",
+   "common_name_fr": "Oie cendrée",
+   "why_fr": "Cris nasillards et honkings de structure proche, surtout en vol groupé."
+  },
+  {
+   "scientific_name": "Grus grus",
+   "common_name_fr": "Grue cendrée",
+   "why_fr": "Grands oiseaux migrateurs aux cris trompettés portants, émis en formation."
+  }
+ ],
+ "rarity_note": "Score de détection BirdNET modéré (max 0,41) : espèce ancrée en Camargue et sur le littoral méditerranéen, occasionnelle et imprévisible ailleurs en France.",
+ "fun_facts": [
+  "Les poussins naissent blancs puis grisâtres, et n'acquièrent leur plumage rose caractéristique qu'après 2 à 4 ans grâce aux pigments de leur alimentation.",
+  "En Camargue, les effectifs reproducteurs ont fortement varié : moins de 4 000 couples avant 1960, plus de 10 000 depuis le début des années 1990.",
+  "Depuis les années 1980, des Flamants roses nichent même à la frontière germano-néerlandaise, probablement issus d'individus échappés de captivité."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Flamant_rose",
+  "https://en.wikipedia.org/wiki/Greater_flamingo"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

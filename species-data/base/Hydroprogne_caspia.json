@@ -1,0 +1,71 @@
+{
+ "scientific_name": "Hydroprogne caspia",
+ "common_name_fr": "Sterne caspienne",
+ "birdnet_label": "Hydroprogne caspia_Sterne caspienne",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Hydroprogne",
+  "species": "Hydroprogne caspia"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Sterne caspienne",
+   "url": "https://fr.wikipedia.org/wiki/Sterne_caspienne",
+   "description": "espèce d'oiseaux",
+   "extract": "La Sterne caspienne est une espèce d'oiseaux Charadriiformes de la famille des Laridae. C'est la seule espèce du genre Hydroprogne (monotypique). Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 3786
+  },
+  "en": {
+   "title": "Caspian tern",
+   "url": "https://en.wikipedia.org/wiki/Caspian_tern",
+   "description": "Species of bird",
+   "extract": "The Caspian tern is the world's largest species of tern, with a subcosmopolitan but scattered distribution. Despite its extensive range, it is monotypic of its genus, and has no accepted subspecies. The genus name is from Ancient Greek hudro-, \"water-\", and Latin progne, \"swallow\". The specific caspia is from Latin and, like the English name, refers to the Caspian Sea.",
+   "fulltext_chars": 3618
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sterna_caspiaPCCA20031225-0908B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 512,
+  "height": 384,
+  "file": "Sterna_caspiaPCCA20031225-0908B.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sterna_caspiaPCCA20031225-0908B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Patrick Coin (Patrick Coin)",
+  "credit": "Photograph taken by Patrick Coin",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Sterna_caspiaPCCA20031225-0908B.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0583,
+  "cities": {
+   "Ajaccio": 0.058
+  },
+  "monthly_scores": [
+   0.0284,
+   0.0361,
+   0.0554,
+   0.0427,
+   0.0344,
+   0.0382,
+   0.0505,
+   0.0583,
+   0.0451,
+   0.0278,
+   0.0261,
+   0.0279
+  ],
+  "months": [
+   3,
+   7,
+   8
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:41Z"
+}

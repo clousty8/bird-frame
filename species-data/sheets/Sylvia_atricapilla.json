@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Sylvia atricapilla",
+ "summary_fr": "La Fauvette à tête noire est un passereau discret au plumage gris olive, immédiatement identifiable au capuchon coloré qui coiffe la tête : noir chez le mâle, roux chez la femelle et les jeunes. Espèce type de la famille des Sylviidae, elle s'est considérablement répandue en France depuis les années 2000 et fréquente désormais aussi bien les bois de feuillus que les jardins et les parcs urbains, pourvu qu'ils offrent des buissons touffus où se cacher. Son chant flûté et puissant, souvent précédé d'un babil grinçant, compte parmi les plus beaux du printemps ; capable d'imiter d'autres oiseaux, elle peut dérouter l'oreille la plus attentive. Très territoriale, elle défend farouchement son domaine toute l'année, y compris en hiver. Migratrice partielle, elle hiverne en grande partie en Afrique tropicale, mais un nombre croissant d'individus restent désormais en France, notamment attirés par les baies du sureau et du lierre qui leur assurent une ressource hivernale fiable. Le nid, une coupe légère tissée de brindilles et de mousse, est dissimulé bas dans un buisson ou une ronce, où la femelle élève généralement deux nichées par saison.",
+ "habitat": "Bois de feuillus, bosquets, haies, jardins et parcs arborés, du littoral à la montagne. Préfère les milieux ouverts avec suffisamment de buissons et d'arbustes.",
+ "diet": "Insectes et arachnides en période de reproduction, puis baies et petites graines à partir de juillet, notamment du sureau, du lierre, des ronces et de la vigne.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En Afrique tropicale pour une grande part, mais également en Europe tempérée et méditerranéenne où les populations sont de plus en plus nombreuses, particulièrement en janvier-février.",
+  "niche": "Partout en France métropolitaine, d'avril à juillet ; élève habituellement deux nichées par an.",
+  "passage": "Migrations marquées en mars-avril et septembre-novembre, avec les premiers retours dès février dans le sud."
+ },
+ "seasonality_fr": "Visible et audible toute l'année en France, mais beaucoup plus commune en période de reproduction (avril à août). C'est l'un des premiers passereaux à chanter au printemps et parmi les derniers en automne.",
+ "song_fr": "Chant mélodieux, fluide et varié, composé de phrases sifflées liées entre elles, souvent avec une introduction grinçante et une conclusion explosive. Cris caractéristiques : « têc » claquant dur et répété, ou « dditditdit » très doux près du nid.",
+ "lookalikes": [
+  {
+   "scientific_name": "Sylvia borin",
+   "common_name_fr": "Fauvette des jardins",
+   "why_fr": "Chant tout aussi fluide et mélodieux, mais plus bas en tessiture, moins puissant et sans l'introduction grinçante caractéristique."
+  },
+  {
+   "scientific_name": "Phoenicurus ochruros",
+   "common_name_fr": "Rougequeue noir",
+   "why_fr": "Son cri d'alarme sec, en « tic », peut rappeler le « têc » claquant de la Fauvette à tête noire."
+  },
+  {
+   "scientific_name": "Prunella modularis",
+   "common_name_fr": "Accenteur mouchet",
+   "why_fr": "Chant grinçant qui peut évoquer l'introduction de la Fauvette à tête noire ; habitats de buissons souvent partagés."
+  }
+ ],
+ "rarity_note": "Commune et en expansion en France depuis plusieurs décennies ; environ 10 millions de couples nicheurs, effectifs en hausse de 30 % entre 2001 et 2021.",
+ "fun_facts": [
+  "Elle est capable d'imiter le chant d'autres passereaux, ce qui complique parfois son identification à l'oreille.",
+  "Mâle et femelle chantent tous deux, une particularité rare chez les passereaux, et chacun défend son propre territoire en hiver.",
+  "Elle visite de plus en plus souvent les mangeoires en hiver en France, un comportement autrefois inhabituel chez cette migratrice partielle."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fauvette_%C3%A0_t%C3%AAte_noire",
+  "https://en.wikipedia.org/wiki/Eurasian_blackcap",
+  "https://oiseaux.net/fauvette.atete.noire.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Cygnus olor",
+ "common_name_fr": "Cygne tuberculé",
+ "birdnet_label": "Cygnus olor_Cygne tuberculé",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Cygnus",
+  "species": "Cygnus olor"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Cygne tuberculé",
+   "url": "https://fr.wikipedia.org/wiki/Cygne_tubercul%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Cygne tuberculé ou Cygne muet est une espèce d'oiseaux de la famille des Anatidae. Le premier nom de l'animal provient de la bosse qu'il a sur le bec, appelée tubercule, et le second du fait qu'il émet de rares cris plutôt de faible puissance.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Mute swan",
+   "url": "https://en.wikipedia.org/wiki/Mute_swan",
+   "description": "Large species of waterfowl",
+   "extract": "The mute swan is a species of swan and a member of the family Anatidae within the waterfowl order. It is native to much of Europe and parts of Asia and the far north of Africa. It is an introduced species in North America, home to the largest populations outside of its native range, with additional smaller introductions in Australasia and Southern Africa. The name \"mute\" derives from it being less vocal than other swan species. Typically measuring 140 to 160 cm in length, this large swan is wholly white in plumage, with an orange beak bordered with black. It is recognisable by its pronounced knob atop the beak, which is larger in males.",
+   "fulltext_chars": 20495
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/CygneVaires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3888,
+  "height": 2592,
+  "file": "CygneVaires.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/CygneVaires.jpg/1920px-CygneVaires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Sanchezn",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:CygneVaires.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.577,
+  "cities": {
+   "Le Mans": 0.435,
+   "Pornic": 0.399,
+   "Rennes": 0.425,
+   "Poitiers": 0.429,
+   "Paris": 0.498,
+   "Lille": 0.577,
+   "Strasbourg": 0.542,
+   "Lyon": 0.445,
+   "Grenoble": 0.393,
+   "Marseille": 0.252,
+   "Toulouse": 0.262,
+   "Bordeaux": 0.33,
+   "Brest": 0.415,
+   "Ajaccio": 0.15,
+   "Clermont-Ferrand": 0.454,
+   "Chamonix": 0.428,
+   "Perpignan": 0.142,
+   "Nancy": 0.535
+  },
+  "monthly_scores": [
+   0.5066,
+   0.5179,
+   0.5549,
+   0.577,
+   0.5341,
+   0.5123,
+   0.4886,
+   0.5278,
+   0.5745,
+   0.5486,
+   0.5179,
+   0.5067
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:01Z"
+}

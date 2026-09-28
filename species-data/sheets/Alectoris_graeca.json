@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Alectoris graeca",
+ "summary_fr": "La Perdrix bartavelle est la plus grande perdrix d'Europe, oiseau discret des pentes rocheuses entre mille et deux mille mètres d'altitude. Sa gorge blanche cerclée d'un collier noir et ses flancs striés de roux la font facilement confondre avec la Perdrix rouge, bien que son plumage soit plus jaunâtre et son cou plus blanc. Peu encline à voler, elle préfère courir sur les pierriers, et ne se fait vraiment remarquer qu'au printemps, quand le mâle chante pour attirer les femelles avec des phrases sèches et répétées. En France, elle forme une petite population résidente cantonnée aux Alpes du sud-est, qui ne quitte pas la région mais descend simplement en altitude l'hiver pour trouver de quoi se nourrir. Cette population a décliné de quatre-vingts pour cent en quarante ans, fragilisée par la chasse, le dérangement touristique et l'évolution des pratiques pastorales en montagne ; seuls les sites les plus inaccessibles restent stables. Marcel Pagnol l'a rendue célèbre en France dans La Gloire de mon père, où le coup double de son père en fait le héros du village.",
+ "habitat": "Pentes rocheuses et pierriers des massifs alpins, entre 1 000 et 2 000 m d'altitude en été, descendant plus bas en hiver.",
+ "diet": "Graines de plantes alpines, feuilles et petits invertébrés ; beaucoup de criquets et de coléoptères pour nourrir les jeunes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Sur place en France, dans les mêmes massifs alpins du sud-est qu'en été, mais à des altitudes plus basses.",
+  "niche": "Alpes du sud-est de la France (Mercantour, Hautes-Alpes) jusqu'à l'ouest de la Croatie, ainsi qu'en Italie centrale et du sud, Balkans, Grèce, sud-ouest de la Roumanie et Bulgarie.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente toute l'année dans les Alpes du sud-est de la France, mais bien plus détectable au printemps quand le mâle chante ; recherche sa nourriture surtout tôt le matin et en fin d'après-midi.",
+ "song_fr": "Chant moins guttural que celui de la Perdrix rouge : trois ou quatre syllabes hautes et répétées, tadi-shit, tadi-shit. Cri d'alerte à l'envol distinct : sifflet piiiyou suivi de wittoou-wittoou-wittoou.",
+ "lookalikes": [
+  {
+   "scientific_name": "Alectoris rufa",
+   "common_name_fr": "Perdrix rouge",
+   "why_fr": "Morphologie très proche, mais plumage plus rouge sur le torse et taches noires marquées de l'œil à la poitrine."
+  },
+  {
+   "scientific_name": "Alectoris chukar",
+   "common_name_fr": "Perdrix choukar",
+   "why_fr": "Chant plus guttural mais acoustiquement proche, morphologie très similaire, hybridation possible dans certaines régions."
+  }
+ ],
+ "rarity_note": "Résidente rare et très localisée dans les Alpes du sud-est de la France (Mercantour, Hautes-Alpes), population en fort déclin ; absente ailleurs en métropole.",
+ "fun_facts": [
+  "C'est la plus grande de toutes les perdrix, pesant jusqu'à 770 grammes, soit près du triple d'une Perdrix grise.",
+  "Contrairement à beaucoup de gallinacés, le mâle chante au printemps pour attirer les femelles, un comportement rare chez les perdrix.",
+  "Marcel Pagnol en a fait l'héroïne de La Gloire de mon père, transformant un coup double de perdrix bartavelle en acte fondateur du prestige familial."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Perdrix_bartavelle",
+  "https://en.wikipedia.org/wiki/Rock_partridge",
+  "https://oiseaux.net/oiseaux/perdrix.bartavelle.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4531"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

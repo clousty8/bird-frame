@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Pyrrhocorax pyrrhocorax",
+ "summary_fr": "Le Crave à bec rouge est un grand passereau noir au bec et aux pattes rouge vif, membre de la famille des corvidés. Ce oiseau montagnard se reconnaît à son vol acrobatique spectaculaire, ses ailes larges écartées lui permettant de tirer pleinement parti des courants ascendants. Formidablement sociable, il vit en couples unis durant la reproduction, puis se regroupe en petites bandes hivernales pour quérir sa nourriture dans les prairies à herbe rase. Long de 39 à 43 cm avec une envergure de 76 à 90 cm, il pèse environ 310 grammes. Bien que menacé localement par les changements agricoles qui fragmentent sa répartition, l'espèce demeure globalement stable sur son vaste aire eurasiatique, du Royaume-Uni aux Alpes, du bassin méditerranéen à la Chine.",
+ "habitat": "Montagnes et falaises côtières, prairies à herbe rase et pâturages, du littoral au-delà de 6 000 m d'altitude dans l'Himalaya.",
+ "diet": "Principalement invertébrés (insectes, fourmis, araignées, vers) prélevés à la surface ou en creusant le sol ; fruits et graines en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Tout au long de son aire de répartition, localement en descente de vallée quand les montagnes enneigées limitent l'accès à la nourriture.",
+  "niche": "Montagnes et falaises côtières d'Europe de l'Ouest, Afrique du Nord, Asie centrale, Himalaya et Chine. Niche généralement une fois par an.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible et audible toute l'année selon les régions. En France, présent principalement dans les Alpes, les Pyrénées et le Massif central.",
+ "song_fr": "Cri d'appel fort et sonore « chee-ow » ou « kiah » ressemblant à celui du Choucas, clair et retentissant, distinct du Chocard à bec jaune qui émet des « preep » vibrants.",
+ "lookalikes": [
+  {
+   "scientific_name": "Pyrrhocorax graculus",
+   "common_name_fr": "Chocard à bec jaune",
+   "why_fr": "Très proche, mais bec plus court et jaune, appels différents (preep et sweeeooo), ailes moins rectangulaires en vol."
+  },
+  {
+   "scientific_name": "Corvus monedula",
+   "common_name_fr": "Choucas des tours",
+   "why_fr": "Beaucoup plus petit, plumage gris et noir sans reflets métalliques, bec et pattes noirs."
+  }
+ ],
+ "rarity_note": "Rare à très rare en France selon les régions (max_score BirdNET 0.226). Absent ou très localisé en plaine, restreint aux zones montagneuses et côtières de l'ouest.",
+ "fun_facts": [
+  "Son vol acrobatique spectaculaire, avec des loopings et des piqués vertigineux, fascine les observateurs en montagne.",
+  "Long de 39 à 43 cm pour un poids d'environ 310 g, il est l'un des plus grands corvidés européens.",
+  "Autrefois associé à la légende du Roi Arthur : selon la tradition cornouaillaise, l'âme du roi migra dans un Crave."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Crave_%C3%A0_bec_rouge",
+  "https://en.wikipedia.org/wiki/Red-billed_chough"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Charadrius morinellus",
+ "summary_fr": "Le Pluvier guignard, petit limicole de la famille des Charadriidae, est l'unique représentant du genre Eudromias. Oiseau migrateur des régions arctiques de l'Eurasie, il se reproduit dans les toundras et sur les plateaux montagneux d'altitude comme les Highlands écossais ou les Alpes, avant de migrer vers l'Afrique du Nord et le Moyen-Orient pour l'hiver. Le dimorphisme sexuel est marqué : la femelle affiche des couleurs plus vives que le mâle, notamment en plumage nuptial avec sa poitrine châtaine. L'oiseau est caractérisé par une large raie sourcilière blanche et des ailes unies en vol. Les migrations suivent des routes traditionnelles, les oiseaux s'arrêtant dans les mêmes sites année après année. En France, l'espèce est virtuellement disparue, bien que des individus errants puissent occasionnellement être observés lors des passages migratoires.",
+ "habitat": "Toundras arctiques de l'Eurasie, plateaux montagneux d'altitude (Highlands écossais, Alpes). En hiver, semi-déserts d'Afrique du Nord et du Moyen-Orient.",
+ "diet": "Insectes, vers, petits mollusques et petits crustacés obtus par une technique de « course et pause » plutôt que de sondage. Aussi petits fruits et graines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Afrique du Nord et Moyen-Orient (Maroc à Iran) ; ne séjourne pas en France en tant qu'hivernant régulier.",
+  "niche": "Ne niche pas en France métropolitaine, espèce éteinte comme reproductrice depuis décennies.",
+  "passage": "Passages migratoires traditionnels très rares en France, principalement au printemps et à l'automne sur les sites de halte migratoires habituels."
+ },
+ "seasonality_fr": "Extrêmement rare en France. Virtuellement absent toute l'année hors passages migratoires occasionnels en avril-mai et août-septembre.",
+ "song_fr": "Cri de vol doux « pyurr ». Chant de la femelle simple et répétitif, consistant en sifflements bas.",
+ "lookalikes": [
+  {
+   "scientific_name": "Charadrius hiaticula",
+   "common_name_fr": "Grand-gravelot",
+   "why_fr": "Autre pluvier de taille comparable, partage l'habitat de migration ; cris de vol similaires."
+  },
+  {
+   "scientific_name": "Charadrius dubius",
+   "common_name_fr": "Petit-gravelot",
+   "why_fr": "Pluvier plus petit mais acoustiquement proche ; cris et comportements semblables."
+  },
+  {
+   "scientific_name": "Pluvialis apricaria",
+   "common_name_fr": "Pluvier doré",
+   "why_fr": "Autre limicole migrateur des zones arctiques ; silhouette et cris peuvent créer confusion."
+  }
+ ],
+ "rarity_note": "Virtuellement disparu en France métropolitaine ; classé « éteint en France métropolitaine » par l'UICN-France. Passage migratoire exceptionnel.",
+ "fun_facts": [
+  "Son nom anglais « dotterel » était autrefois une insulte pour quelqu'un de simple ou crédule, référence à sa confiance envers l'homme.",
+  "Contrairement à la plupart des oiseaux, c'est le mâle qui incube les œufs et élève les jeunes, tandis que la femelle cherche souvent un autre compagnon.",
+  "Les migrations suivent des routes traditionnelles immuables depuis des générations, les oiseaux retournant chaque année aux mêmes sites de halte."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Guignard_d'Eurasie",
+  "https://en.wikipedia.org/wiki/Eurasian_dotterel",
+  "https://www.oiseaux.net/species/eurasian.dotterel.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4402",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

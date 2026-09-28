@@ -1,0 +1,83 @@
+{
+ "scientific_name": "Cepphus grylle",
+ "common_name_fr": "Guillemot à miroir",
+ "birdnet_label": "Cepphus grylle_Guillemot à miroir",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Alcidae",
+  "family_common": "Auks, Murres, and Puffins",
+  "genus": "Cepphus",
+  "species": "Cepphus grylle"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Guillemot à miroir",
+   "url": "https://fr.wikipedia.org/wiki/Guillemot_%C3%A0_miroir",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Guillemot à miroir est une espèce d'oiseaux marins de la famille des Alcidae.",
+   "fulltext_chars": 4598
+  },
+  "en": {
+   "title": "Black guillemot",
+   "url": "https://en.wikipedia.org/wiki/Black_guillemot",
+   "description": "Species of bird",
+   "extract": "The black guillemot or tystie is a medium-sized seabird of the Alcidae family, native throughout northern Atlantic coasts and eastern North American coasts. It is resident in much of its range, but large populations from the high arctic migrate southwards in winter. The bird can be seen in and around its breeding habitat of rocky shores, cliffs and islands in single or smalls groups of pairs. They feed mainly by diving towards the sea floor feeding on fish, crustaceans or other benthic invertebrates. They are listed on the IUCN red list as a species of least concern.",
+   "fulltext_chars": 8405
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/65/Tystie1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 500,
+  "height": 453,
+  "file": "Tystie1.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/6/65/Tystie1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "No machine-readable author provided. Kelson assumed (based on copyright claims).",
+  "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Tystie1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1243,
+  "cities": {
+   "Le Mans": 0.017,
+   "Pornic": 0.066,
+   "Rennes": 0.059,
+   "Poitiers": 0.018,
+   "Bordeaux": 0.014,
+   "Brest": 0.124
+  },
+  "monthly_scores": [
+   0.0833,
+   0.0979,
+   0.1243,
+   0.1169,
+   0.0991,
+   0.1161,
+   0.0892,
+   0.0264,
+   0.0218,
+   0.0543,
+   0.0701,
+   0.0757
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:06Z"
+}

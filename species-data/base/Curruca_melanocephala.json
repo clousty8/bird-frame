@@ -1,0 +1,96 @@
+{
+ "scientific_name": "Curruca melanocephala",
+ "common_name_fr": "Fauvette mélanocéphale",
+ "birdnet_label": "Curruca melanocephala_Fauvette mélanocéphale",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sylviidae",
+  "family_common": "Sylviid Warblers and Allies",
+  "genus": "Curruca",
+  "species": "Curruca melanocephala"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fauvette mélanocéphale",
+   "url": "https://fr.wikipedia.org/wiki/Fauvette_m%C3%A9lanoc%C3%A9phale",
+   "description": "espèce d'oiseaux passériformes de la famille des sylviidae",
+   "extract": "La Fauvette mélanocéphale est une espèce de passereaux appartenant à la famille des Sylviidae. Elle ne doit pas être confondue avec la fauvette à tête noire.",
+   "fulltext_chars": 6943
+  },
+  "en": {
+   "title": "Sardinian warbler",
+   "url": "https://en.wikipedia.org/wiki/Sardinian_warbler",
+   "description": "Species of bird",
+   "extract": "The Sardinian warbler is a common and widespread Sylviidae warbler from the Mediterranean region. Like most Curruca species, it has distinct male and female plumages. The adult male has a grey back, whitish underparts, black head, white throat and red eyes. Plumages are somewhat variable even in the same locality, with the intensity of a reddish hue on upper- and/or underside that varies from absent to pronounced. The female is mainly brown above and buff below, with a grey head. The Sardinian warbler's song is fast and rattling, and is very characteristic of the Mediterranean areas where this bird breeds.",
+   "fulltext_chars": 6561
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sardinian_Warbler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2727,
+  "height": 1818,
+  "file": "Sardinian_Warbler.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Sardinian_Warbler.jpg/1920px-Sardinian_Warbler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Sardinian_Warbler.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.7987,
+  "cities": {
+   "Le Mans": 0.026,
+   "Pornic": 0.034,
+   "Rennes": 0.023,
+   "Poitiers": 0.052,
+   "Paris": 0.021,
+   "Strasbourg": 0.012,
+   "Lyon": 0.115,
+   "Grenoble": 0.18,
+   "Marseille": 0.479,
+   "Toulouse": 0.325,
+   "Bordeaux": 0.138,
+   "Brest": 0.013,
+   "Ajaccio": 0.799,
+   "Clermont-Ferrand": 0.097,
+   "Chamonix": 0.101,
+   "Perpignan": 0.493,
+   "Nancy": 0.016
+  },
+  "monthly_scores": [
+   0.7523,
+   0.7628,
+   0.7987,
+   0.7809,
+   0.725,
+   0.7116,
+   0.7036,
+   0.7171,
+   0.7683,
+   0.7944,
+   0.749,
+   0.745
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:41Z"
+}

@@ -1,0 +1,82 @@
+{
+ "scientific_name": "Coracias garrulus",
+ "common_name_fr": "Rollier d'Europe",
+ "birdnet_label": "Coracias garrulus_Rollier d'Europe",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Coraciiformes",
+  "family": "Coraciidae",
+  "family_common": "Rollers",
+  "genus": "Coracias",
+  "species": "Coracias garrulus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Rollier d'Europe",
+   "url": "https://fr.wikipedia.org/wiki/Rollier_d'Europe",
+   "description": "espèce d'oiseaux coraciiformes de la famille des coraciidae",
+   "extract": "Le Rollier d'Europe est la seule espèce de la famille des coraciidés à vivre en France.\nC'est un oiseau aux vives couleurs turquoise.",
+   "fulltext_chars": 3897
+  },
+  "en": {
+   "title": "European roller",
+   "url": "https://en.wikipedia.org/wiki/European_roller",
+   "description": "Species of bird",
+   "extract": "The European roller is the only member of the roller family Coraciidae breeding in Europe. Its range extends into the Maghreb, West Asia and Central Asia. It winters in southern Africa, primarily in dry wooded savanna and bushy plains. It occurs in a wide variety of habitats, but avoids treeless plains. It usually nests in tree holes.",
+   "fulltext_chars": 8963
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b1/European_roller.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 640,
+  "file": "European_roller.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/b/b1/European_roller.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Christian Svane",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:European_roller.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1487,
+  "cities": {
+   "Lyon": 0.018,
+   "Grenoble": 0.019,
+   "Marseille": 0.051,
+   "Toulouse": 0.031,
+   "Bordeaux": 0.011,
+   "Ajaccio": 0.149,
+   "Clermont-Ferrand": 0.016,
+   "Chamonix": 0.016,
+   "Perpignan": 0.045
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0491,
+   0.1023,
+   0.1419,
+   0.1487,
+   0.1456,
+   0.1283,
+   0.0826,
+   0.0283,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:02Z"
+}

@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Fulmarus glacialis",
+ "summary_fr": "Le Fulmar boréal est un oiseau marin robuste des mers froides de l'Atlantique et du Pacifique Nord, à l'allure de goéland mais appartenant en réalité à la famille des Procellariidae, celle des pétrels et des puffins. Son cou épais, ses ailes rigides tenues bien droites en vol plané et son bec crochu percé de narines tubulaires le distinguent au premier coup d'œil. Dérangé au nid, il projette avec une précision redoutable une huile nauséabonde à près d'un mètre, une défense qui peut être fatale aux prédateurs ailés. Longtemps cantonné aux archipels arctiques, il a connu au XXe siècle une expansion spectaculaire vers le sud, portée par l'abondance des rejets de pêche, au point de s'installer pour nicher sur les falaises du nord de la Bretagne et de la Normandie depuis les années 1960. En France, on le rencontre ainsi toute l'année le long du littoral atlantique et de la Manche, avec un afflux plus marqué en hiver lorsque des oiseaux venus du nord rejoignent les côtes françaises. Grand voyageur des mers, il peut vivre plus de quarante ans.",
+ "habitat": "Eaux froides de l'Atlantique et du Pacifique Nord ; falaises côtières et zones rocheuses pendant la reproduction.",
+ "diet": "Plancton, calmars, petits poissons, crustacés, méduses ; suit volontiers les chalutiers pour récupérer les rejets de pêche ; peut plonger jusqu'à 3 mètres de profondeur.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Sur les côtes atlantiques et de la Manche, où les effectifs augmentent avec l'arrivée d'oiseaux nordiques ; plus fréquent en Bretagne.",
+  "niche": "En petit nombre sur les falaises du nord de la Bretagne (Sept-Îles depuis 1960) et de la Normandie, population restreinte mais en expansion.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible toute l'année le long des côtes de la Manche et de l'Atlantique, en petit nombre en été autour des colonies, plus nombreux en hiver avec l'arrivée d'oiseaux nordiques.",
+ "song_fr": "Caquètements rauques et grondements gutturaux, surtout audibles sur les colonies pendant la reproduction ; largement silencieux en mer.",
+ "lookalikes": [
+  {
+   "scientific_name": "Larus marinus",
+   "common_name_fr": "Goéland marin",
+   "why_fr": "Ressemblance visuelle (taille, silhouette), mais cris très différents."
+  },
+  {
+   "scientific_name": "Stercorarius skua",
+   "common_name_fr": "Grand Labbe",
+   "why_fr": "Oiseau marin prédateur du même habitat ; vocalises gutturales de même tessiture."
+  }
+ ],
+ "rarity_note": "Espèce peu commune sur les côtes françaises, plus régulière en Bretagne et dans la Manche où quelques colonies se sont établies ; occasionnelle ailleurs sur le littoral.",
+ "fun_facts": [
+  "Peut régurgiter une huile nauséabonde à près d'un mètre pour se défendre et nourrir ses jeunes ; cette substance peut être fatale aux prédateurs plongeurs.",
+  "Ses populations ont explosé au XXe siècle (plus de 2,8 millions de couples en Europe en 2007), portées par les rejets de poisson des chalutiers.",
+  "Peut vivre plus de 40 ans ; le record de longévité connu par baguage est de 43 ans et 10 mois."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fulmar_bor%C3%A9al",
+  "https://en.wikipedia.org/wiki/Northern_fulmar",
+  "https://www.oiseaux.net"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

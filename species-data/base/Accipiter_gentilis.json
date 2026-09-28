@@ -1,0 +1,96 @@
+{
+ "scientific_name": "Accipiter gentilis",
+ "common_name_fr": "Autour des palombes",
+ "birdnet_label": "Accipiter gentilis_Autour des palombes",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Accipiter",
+  "species": "Accipiter gentilis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Autour des palombes",
+   "url": "https://fr.wikipedia.org/wiki/Autour_des_palombes",
+   "description": null,
+   "extract": "L'Autour des palombes est une espèce de rapaces de taille moyenne de la famille des Accipitridae. C'est une espèce proche de l'Épervier d'Europe et de l'Autour d'Amérique.",
+   "fulltext_chars": 11033
+  },
+  "en": {
+   "title": "Eurasian goshawk",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_goshawk",
+   "description": "Species of bird",
+   "extract": "The Eurasian goshawk is a species of medium-large bird of prey in the family Accipitridae, a family which also includes other extant diurnal raptors, such as eagles, buzzards and harriers. It was formerly placed in the genus Accipiter. It is a widespread species that inhabits many of the temperate parts of Eurasia. Except in a small portion of southern Asia, it is the only species of \"goshawk\" in its range and it is thus often referred to, both officially and unofficially, as simply goshawk. It is mainly resident, but birds from colder regions migrate south for the winter. As of 2023, goshawks found in North America are no longer considered to be conspecific, but are now designated as the American goshawk.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Male_northern_goshawk_with_prey_%2849663008978%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3467,
+  "height": 2600,
+  "file": "Male_northern_goshawk_with_prey_(49663008978).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Male_northern_goshawk_with_prey_%2849663008978%29.jpg/1920px-Male_northern_goshawk_with_prey_%2849663008978%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Andrey Gulivanov",
+  "credit": "Male northern goshawk with prey",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Male_northern_goshawk_with_prey_(49663008978).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1717,
+  "cities": {
+   "Le Mans": 0.036,
+   "Pornic": 0.021,
+   "Rennes": 0.016,
+   "Poitiers": 0.048,
+   "Paris": 0.049,
+   "Lille": 0.05,
+   "Strasbourg": 0.045,
+   "Lyon": 0.064,
+   "Grenoble": 0.069,
+   "Marseille": 0.072,
+   "Toulouse": 0.083,
+   "Bordeaux": 0.068,
+   "Ajaccio": 0.172,
+   "Clermont-Ferrand": 0.066,
+   "Chamonix": 0.062,
+   "Perpignan": 0.081,
+   "Nancy": 0.051
+  },
+  "monthly_scores": [
+   0.1641,
+   0.154,
+   0.1625,
+   0.1166,
+   0.0706,
+   0.0652,
+   0.0696,
+   0.0861,
+   0.0869,
+   0.1163,
+   0.1541,
+   0.1717
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:27Z"
+}

@@ -1,0 +1,34 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Myiopsitta monachus",
+ "summary_fr": "La Perruche veuve, aussi appelée Conure veuve ou Perruche moine, est un petit perroquet sud-américain au plumage vert vif, au front et à la poitrine gris pâle et à l'abdomen jaune-vert. Échappée ou relâchée de volière depuis des décennies, elle a formé en Europe, et notamment dans le sud et le sud-est de la France, des colonies urbaines pérennes qui se maintiennent toute l'année. Elle se distingue par un trait unique chez les perruches : c'est la seule à bâtir de véritables nids collectifs externes, amas de branchages à entrées multiples pouvant atteindre plusieurs mètres d'envergure et peser jusqu'à 200 kg, installés sur des poteaux électriques, des immeubles ou de grands arbres de parc. Bruyante et grégaire, elle vit en petites bandes qui se signalent de loin par des cris rauques et grinçants. Omnivore à dominante végétarienne, elle consomme surtout graines, fruits et légumes, complétés à l'occasion d'insectes. Sa présence croissante en zone urbaine inquiète pour les dégâts qu'elle peut causer aux cultures et aux infrastructures électriques, sans remettre en cause son implantation désormais durable dans certaines villes françaises.",
+ "habitat": "Parcs urbains, jardins d'ornement et abords des zones habitées en Europe où elle s'est établie ; sous-bois et forêts tempérées à subtropicales en Amérique du Sud.",
+ "diet": "Principalement végétarienne : graines, fruits, légumes et céréales, complétés à l'occasion d'insectes, de vers et d'araignées.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Toute l'année sur place, dans les colonies urbaines déjà établies (agglomérations du sud et du sud-est, Corse).",
+  "niche": "Dans ces mêmes colonies urbaines, nids collectifs actifs à l'année, pontes surtout au printemps.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente et audible toute l'année dans les colonies urbaines établies du sud et du sud-est de la France ; absente ailleurs, hormis quelques individus isolés échappés de captivité.",
+ "song_fr": "Cri très bruyant, rauque et grinçant : succession de « quak », « chape » et cris perçants « skveet », lancés en groupe et facilement repérables en ville.",
+ "lookalikes": [
+  {
+   "scientific_name": "Psittacula krameri",
+   "common_name_fr": "Perruche à collier",
+   "why_fr": "Autre perruche exotique établie en France, cris aigus et perçants pouvant se confondre en milieu urbain."
+  }
+ ],
+ "rarity_note": "Localement commune dans ses colonies établies (Marseille, Toulouse, Perpignan, Ajaccio) mais peu répandue ailleurs en France, en dehors de ces foyers urbains.",
+ "fun_facts": [
+  "La Perruche veuve est la seule perruche connue à construire des nids collectifs externes massifs, une stratégie unique chez les perroquets.",
+  "Elle peut vivre 25 à 30 ans en captivité, contre environ 6 ans dans la nature, ce qui explique la solidité des populations échappées."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Conure_veuve",
+  "https://en.wikipedia.org/wiki/Monk_parakeet"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

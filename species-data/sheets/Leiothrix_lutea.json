@@ -1,0 +1,29 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Leiothrix lutea",
+ "summary_fr": "Le Léiothrix jaune est un petit passereau coloré d'origine asiatique qui a acquis une mauvaise réputation en Europe sous le nom erroné de Rossignol du Japon. Natif de la Chine du sud et de l'Himalaya, cet oiseau aux couleurs vives - bec rouge éclatant, gorge jaune-orange, œil cerné de blanc - s'est progressivement établi en France depuis le début du XXe siècle après des échappées de captivité. Grégaire et loquace, il vit en petits groupes et fréquente les forêts denses avec bambous et broussailles. Depuis les années 2000, des populations naturalisées subsistent dans les Pyrénées-Atlantiques, le Val-d'Oise, les Landes et en Ariège. Contrairement aux craintes, il ne menace pas les espèces locales. Le mâle chante un répertoire complexe de notes puissantes répétées, particulièrement pendant la reproduction.",
+ "habitat": "Forêts denses avec bambous et broussailles épaisses, buissons touffus ; du littoral à 3400 mètres d'altitude en milieu naturel.",
+ "diet": "Petits insectes, araignées, millipédes, mollusques ; baies et graines notamment fraises, papaye et graine d'herbe.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Dans les zones où il s'est établi en France (Pyrénées-Atlantiques, Val-d'Oise, Landes, Ariège).",
+  "niche": "Reproduction confirmée dans les populations naturalisées françaises ; reproduction d'avril à septembre.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible toute l'année dans les secteurs établis ; chant plus persistant et actif durant le printemps et l'été.",
+ "song_fr": "Chant complexe et puissant composé de notes courtes répétées continuellement ; répertoire varié de syllabes que le mâle déploie pour séduire la femelle.",
+ "lookalikes": [],
+ "rarity_note": "Rare à très rare en France ; présent de manière sporadique et localisée dans quelques régions (Pyrénées-Atlantiques, Val-d'Oise, Landes, Ariège, arrière-pays niçois). Population estimée entre 1000 et 5000 individus.",
+ "fun_facts": [
+  "Son nom vernaculaire Rossignol du Japon est triomplement erroné : il n'est ni japonais, ni originaire du Japon, ni un véritables rossignol.",
+  "Bien que minuscule, il émet un chant complexe et puissant, particulièrement le mâle pour séduire sa compagne.",
+  "En France, c'est un oiseau d'introduction humaine via les volières : aujourd'hui le seul exemple probant de perruche ou oiseau tropical stable hors des zones urbaines."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/L%C3%A9iothrix_jaune",
+  "https://en.wikipedia.org/wiki/Red-billed_leiothrix"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Muscicapa striata",
+ "summary_fr": "Le Gobemouche gris est un petit passereau migrateur qui revient chaque printemps se reproduire en Europe avant de repartir hiverner en Afrique subsaharienne. Son plumage gris-brun discret et ses fines stries sur la poitrine n'ont rien d'ostentatoire, mais sa technique de chasse est spectaculaire : posté sur un perchoir dégagé, il guette les insectes volants puis s'élance pour les happer en plein vol avec une précision redoutable, avant de revenir souvent se poser au même endroit. Mesurant environ 14 cm, c'est l'un des gobemouches les plus répandus d'Europe. Solitaire et territorial durant la nidification, il construit en quelques jours un nid sommaire, volontiers contre un mur ou dans un nichoir ouvert, et élève généralement deux nichées de mi-mai à mi-août. Grand migrateur nocturne, il traverse continents et mers pour rejoindre ses quartiers d'hiver africains, parcourant des milliers de kilomètres par étapes successives plutôt que d'une seule traite. Ce voyage est de plus en plus périlleux : les sécheresses croissantes du Sahel fragilisent ses populations, déjà en déclin sensible dans le nord et le centre de l'Europe.",
+ "habitat": "Zones boisées avec arbres bien espacés, clairières, lisières de forêts, ripisylves, parcs, jardins et vergers. Adapté aux habitats modifiés par l'homme.",
+ "diet": "Insectes volants : diptères, hyménoptères, lépidoptères, coléoptères et autres invertébrés. Petits fruits et baies en supplément (sureau, ronces, bourdaine).",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne (sauf zones extrême-nord et Corne de l'Afrique).",
+  "niche": "Toute l'Europe, dont la France, de mi-mai à mi-août ; généralement deux nichées.",
+  "passage": "Retour progressif d'avril à mai vers les sites de nidification ; départ vers l'Afrique d'août à mi-octobre."
+ },
+ "seasonality_fr": "Visible et audible en France d'avril à octobre, avec un pic d'arrivée en mai et un pic de départ en septembre ; totalement absent en hiver.",
+ "song_fr": "Chant haut perché et aigu : séquences de notes cristallines, 1-2 syllabes, entrecoupées de trilles (« sip-sip-sree », « sip-see-sitti »). Cris d'alarme secs : « seep », « chirrt », « tek-tek ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Ficedula hypoleuca",
+   "common_name_fr": "Gobemouche noir",
+   "why_fr": "Même taille, habitat et technique de chasse similaires, vocalisation proche."
+  },
+  {
+   "scientific_name": "Ficedula albicollis",
+   "common_name_fr": "Gobemouche à collier",
+   "why_fr": "Congénère européen, écologie et sons très ressemblants."
+  },
+  {
+   "scientific_name": "Phoenicurus ochruros",
+   "common_name_fr": "Rougequeue noir",
+   "why_fr": "Même taille, cris secs « tic » et vocalisation aiguë pouvant créer confusion."
+  }
+ ],
+ "rarity_note": "Migrateur régulier et assez commun en France durant les périodes de passage (avril-octobre) ; nicheur localisé mais bien réparti sur le territoire, absent en hiver.",
+ "fun_facts": [
+  "Grand migrateur nocturne, il traverse continents et mers lors de sa migration entre l'Europe et l'Afrique.",
+  "Il possède une technique de mue inhabituelle : il remplace d'abord ses plumes alaires externes avant les internes, contrairement à la plupart des passereaux.",
+  "Depuis son perchoir, il capture les insectes volants avec une précision de prédateur, revenant souvent au même point comme un chasseur infatigable."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Gobemouche_gris",
+  "https://en.wikipedia.org/wiki/Spotted_flycatcher",
+  "https://www.oiseaux.net/oiseaux/gobemouche.gris.html"
+ ],
+ "generated_at": "2026-09-27T21:30:00Z",
+ "generator_model": "claude-sonnet-5"
+}

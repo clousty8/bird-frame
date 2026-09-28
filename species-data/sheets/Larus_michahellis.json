@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Larus michahellis",
+ "summary_fr": "Le Goéland leucophée est une mouette robuste au manteau gris perle et aux pattes jaunes vif, autrefois considérée comme une simple sous-espèce du Goéland argenté. Depuis peu reconnue comme espèce distincte, il colonise vigoureusement les côtes méditerranéennes françaises où il est appelé « gabian ». Disparu en tant que nicheur au début du XXe siècle, sa population a explosé au cours des dernières décennies, le poussant à s'étendre vers l'intérieur des terres et les zones urbaines côtières. Cet excellent opportuniste se nourrit de poissons, d'oisillons et de charognes en milieu naturel, mais dépend de plus en plus des déchets urbains et des rejets de pêche. Bruyant et grégaire, il niche en colonies denses sur les rochers côtiers et, désormais, sur les toits des villes, où son cri caractéristique résonne fréquemment.",
+ "habitat": "Côtes rocheuses, îles, falaises littorales, ports et zones urbaines côtières. Colonise de plus en plus l'intérieur des terres le long des rivières et des villes.",
+ "diet": "Petits poissons, oisillons, charognes et invertébrés marins en milieu naturel. Omnivore opportuniste, il se nourrit régulièrement de détritus urbains et de rejets de chalutiers.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Toute la France côtière et l'Atlantique ; renforcé en hiver par des populations du nord. Une partie demeure sur place toute l'année.",
+  "niche": "Côtes méditerranéennes et atlantiques de France (Provence, Languedoc, Aquitaine), d'avril à juillet. Colonies principalement sur îles et falaises.",
+  "passage": "Mouvements post-nuptiaux marqués en juillet-août vers le nord, regroupements côtiers en automne et hiver, retour progressif aux sites de reproduction dès février-mars."
+ },
+ "seasonality_fr": "Présent toute l'année sur les côtes françaises, surtout nombreux en hiver. Ses cris bruyants et son rire caractéristique s'entendent fréquemment dans les zones côtières urbaines et portuaires.",
+ "song_fr": "Cri puissant et caractéristique ressemblant à un « ricanement » profond, plus grave et nasillard que celui du Goéland argenté. Klaxons, miaulements et cris d'alarme tranchants complètent son répertoire vocal.",
+ "lookalikes": [
+  {
+   "scientific_name": "Larus argentatus",
+   "common_name_fr": "Goéland argenté",
+   "why_fr": "Cris similaires et morphologie proche ; le Leucophée a des pattes jaunes et un ton plus grave et nasal."
+  },
+  {
+   "scientific_name": "Larus fuscus",
+   "common_name_fr": "Goéland brun",
+   "why_fr": "Timbre vocal comparable au Leucophée, mais le Brun a les ailes plus sombres et les pattes jaunes aussi."
+  },
+  {
+   "scientific_name": "Larus marinus",
+   "common_name_fr": "Goéland marin",
+   "why_fr": "Bien plus grand et vocal plus profond et puissant, mais confusion possible avec grands individus du Leucophée."
+  }
+ ],
+ "rarity_note": "Commun et régulièrement observé sur les côtes françaises, surtout méditerranéennes et atlantiques. Population stable à croissante ; de plus en plus visible dans les villes côtières.",
+ "fun_facts": [
+  "Autrefois au bord de l'extinction (environ 100 couples au début du XXe siècle), l'espèce a réalisé un spectaculaire retour de population depuis les années 1950.",
+  "Ses pattes jaunes lumineuses sont sa signature la plus distinctive, le distinguant d'emblée du Goéland argenté aux pattes pâles.",
+  "C'est un excellent voleur : il vole la nourriture aux autres oiseaux marins et pêcheurs, profitant habilement des activités humaines côtières."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Go%C3%A9land_leucoph%C3%A9e",
+  "https://en.wikipedia.org/wiki/Yellow-legged_gull",
+  "https://www.oiseaux.net/oiseaux/goelands.leucophee.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

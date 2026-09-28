@@ -1,0 +1,51 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Emberiza cia",
+ "summary_fr": "Le Bruant fou est un petit passereau robuste de la famille des Emberizidae, caractérisé par sa tête gris pâle marquée de noir et ses parties supérieures châtain. Espèce méditerranéenne et alpine, il fréquente les zones rocheuses et montagneuses sèches où il se nourrit de graines au sol. Partiellement migrateur, les populations nordiques descendent vers le sud en hiver tandis que les oiseaux du bassin méditerranéen sont sédentaires. C'est un oiseau territorial réputé difficile, au chant caractéristique chez les mâles comme chez les femelles. En France, sa présence se concentre en régions méditerranéenne et alpine, où il niche dans les rocailles; les passages de migrateurs s'observent aux périodes intermédiaires. Protégé intégralement, il demeure peu connu malgré sa discrétion et son habitat inhospitalier.",
+ "habitat": "Zones rocheuses et montagneuses sèches, principalement en montagne et dans les régions méditerranéennes et alpines.",
+ "diet": "Graines de graminées et de céréales, glanées au sol; insectes, sauterelles et chenilles au printemps et en été.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Régions méditerranéenne et sud-est de la France; populations alpines se déplacent vers le sud en hiver.",
+  "niche": "Montagnes rocheuses et zones alpines de la France méridionale, avril à juillet.",
+  "passage": "Passages migratoires au printemps (mars-avril) et automne (septembre-octobre)."
+ },
+ "seasonality_fr": "Visible et audible d'octobre à mai dans le sud méditerranéen; niche d'avril à juillet. Rarissime en France occidentale et centrale.",
+ "song_fr": "Appel aigu tseee; chant caractéristique twittering churrrr-chirrriiii-itt. Les deux sexes chantent.",
+ "lookalikes": [
+  {
+   "scientific_name": "Emberiza citrinella",
+   "common_name_fr": "Bruant jaune",
+   "why_fr": "Appels et chant de bunting similaires, même tessiture. Confusion possible à distance."
+  },
+  {
+   "scientific_name": "Emberiza cirlus",
+   "common_name_fr": "Bruant zizi",
+   "why_fr": "Habitat et cri d'alarme proches; chant plus mélodique mais même structure."
+  },
+  {
+   "scientific_name": "Emberiza calandra",
+   "common_name_fr": "Bruant proyer",
+   "why_fr": "Chant écorché et twittering similaires; présent en France l'hiver."
+  },
+  {
+   "scientific_name": "Emberiza hortulana",
+   "common_name_fr": "Bruant ortolan",
+   "why_fr": "Espèce méditerranéenne, chant et appels acoustiquement proches."
+  }
+ ],
+ "rarity_note": "Présent régulièrement en régions méditerranéenne et alpine (Perpignan, Marseille, Alpes); rarissime ou accidentel en France occidentale et centrale (Le Mans, Pornic). Trop rare pour être banal à distance de ces régions.",
+ "fun_facts": [
+  "Mâle et femelle chantent, ce qui est rare chez les passereaux.",
+  "Protégé intégralement en France depuis 1981; son habitat rocheux le rend discret et difficile à observer.",
+  "Les populations alpines hivèrnent au Maghreb et au Moyen-Orient, tandis que les oiseaux méditerranéens sont résidents."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bruant_fou",
+  "https://en.wikipedia.org/wiki/Rock_bunting",
+  "https://www.oiseaux.net/oiseaux/bruant.fou.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

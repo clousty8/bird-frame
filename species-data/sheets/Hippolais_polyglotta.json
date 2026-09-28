@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Hippolais polyglotta",
+ "summary_fr": "Petit passereau au plumage discret, l'Hypolaïs polyglotte est une fauvette d'Afrique du Nord et d'Europe de l'Ouest qui fréquente France et Péninsule ibérique durant l'été. Longtemps rangée parmi les sylvias, elle appartient à la famille des Acrocephalidae. Elle mesure 12 à 13,5 cm et arbore un dessus gris-brun olivâtre contrastant avec un dessous jaune lumineux, notamment à la gorge. Son bec orangé relativement long lui permet de capturer efficacement les petits insectes dans la végétation. Malgré son nom évocateur, elle ne mime pas avec grand talent les autres espèces, contrairement à sa cousine l'Hypolaïs ictérine. Son chant caractéristique demeure mélodieux et fluide, composé d'une longue phrase unique parsemée de notes nasales distinctives. C'est un migrateur nocturne qui hiverne en Afrique de l'Ouest, entre le Sénégal et le Cameroun, quittant ses territoires de reproduction fin juillet pour revenir entre avril et mai.",
+ "habitat": "Fréquente les milieux chauds et ouverts parsemés de buissons et d'arbres, les haies épaisses, les bois clairs, les vergers et les jardins. Apprécie également les bords des rivières avec une végétation abondante.",
+ "diet": "Se nourrit principalement d'insectes, notamment de diptères (mouches), sauterelles, papillons, fourmis, coléoptères et araignées. Consomme également des baies et fruits en été, comme les ronces, cerises et figues.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "En Afrique de l'Ouest entre le Sénégal et le Cameroun, de septembre à novembre.",
+  "niche": "Dans l'ouest de l'Europe : France, Péninsule ibérique, Italie, et parties de Slovénie, Croatie, Suisse, sud-ouest Allemagne, sud Belgique et Luxembourg ; aussi nord du Maghreb.",
+  "passage": "Passages migratoires en mars et avril (printemps), août et septembre (automne)."
+ },
+ "seasonality_fr": "Visiteur d'été en France, visible et audible d'avril à septembre, avec des pics de passage en mai et août-septembre. Absent l'hiver.",
+ "song_fr": "Chant mélodieux et fluide constitué d'une longue phrase unique au rythme élevé, parsemée de notes nasales caractéristiques. Émet également des pépiements rappelant le moineau domestique et des cris « trrrr ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Hippolais icterina",
+   "common_name_fr": "Hypolaïs ictérine",
+   "why_fr": "Chant semblable mais plus varié avec notes imitées, notes nasales moins évidentes."
+  },
+  {
+   "scientific_name": "Acrocephalus scirpaceus",
+   "common_name_fr": "Rousserolle effarvatte",
+   "why_fr": "Même famille (Acrocephalidae), cris aigus et répétitifs acoustiquement proches."
+  },
+  {
+   "scientific_name": "Sylvia borin",
+   "common_name_fr": "Fauvette des jardins",
+   "why_fr": "Même tessiture et rythme de chant, passages migratoires simultanés."
+  }
+ ],
+ "rarity_note": "Commune en France durant la période de nidification, régulièrement présente du sud-ouest au centre selon les années.",
+ "fun_facts": [
+  "Malgré son nom « polyglotta » (polyglotte) signifiant « langue harmonieuse » en grec ancien, cette fauvette n'est pas une excellente imitative, contrairement à son cousin l'Hypolaïs ictérine.",
+  "C'est un grand migrateur nocturne qui parcourt plusieurs milliers de kilomètres entre ses territoires d'été en Europe et ses zones d'hivernage en Afrique de l'Ouest."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Hypola%C3%AFs_polyglotte",
+  "https://en.wikipedia.org/wiki/Melodious_warbler",
+  "https://www.oiseaux.net/species/hippolais-polyglotta.php"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

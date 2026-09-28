@@ -1,0 +1,85 @@
+{
+ "scientific_name": "Clangula hyemalis",
+ "common_name_fr": "Harelde kakawi",
+ "birdnet_label": "Clangula hyemalis_Harelde kakawi",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Clangula",
+  "species": "Clangula hyemalis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Harelde kakawi",
+   "url": "https://fr.wikipedia.org/wiki/Harelde_kakawi",
+   "description": "espèce d'oiseaux",
+   "extract": "La Harelde kakawi, ou Harelde boréale, est une espèce de canards plongeurs marins de la famille des Anatidae. C'est la seule espèce du genre Clangula.",
+   "fulltext_chars": 4604
+  },
+  "en": {
+   "title": "Long-tailed duck",
+   "url": "https://en.wikipedia.org/wiki/Long-tailed_duck",
+   "description": "Species of bird",
+   "extract": "The long-tailed duck is a medium-sized sea duck that breeds in the tundra and taiga regions of the arctic and winters along the northern coastlines of the Atlantic and Pacific Oceans. It is the only member of the genus Clangula.",
+   "fulltext_chars": 5467
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Long-tailed-duck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1200,
+  "height": 800,
+  "file": "Long-tailed-duck.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Long-tailed-duck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Wolfgang Wander",
+  "credit": "http://www.pbase.com/image/70763534",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Long-tailed-duck.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1014,
+  "cities": {
+   "Le Mans": 0.025,
+   "Pornic": 0.033,
+   "Rennes": 0.036,
+   "Poitiers": 0.02,
+   "Paris": 0.021,
+   "Lille": 0.037,
+   "Marseille": 0.018,
+   "Toulouse": 0.015,
+   "Bordeaux": 0.02,
+   "Brest": 0.038,
+   "Ajaccio": 0.101,
+   "Clermont-Ferrand": 0.01,
+   "Perpignan": 0.02
+  },
+  "monthly_scores": [
+   0.0879,
+   0.1014,
+   0.0569,
+   0.015,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0201,
+   0.0782,
+   0.0853
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:26Z"
+}

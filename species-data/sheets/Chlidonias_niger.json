@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Chlidonias niger",
+ "summary_fr": "La Guifette noire est une petite sterne au plumage gris et noir, présente en France l'été où elle fréquente les marais et étangs peu profonds de la façade atlantique. En parure nuptiale, le mâle affiche une tête et une nuque entièrement noires contrastant avec un corps gris ardoise, tandis que la femelle reste plus pâle, avec la gorge grise. Autrefois largement répandue dans l'Hexagone, l'espèce a beaucoup reculé et ne se reproduit plus que sur quelques sites majeurs comme la Brière, la Brenne, le Marais Poitevin et le Marais de Rochefort, où elle construit un nid sommaire de tiges aquatiques et pond trois œufs en mai et juin. Chasseuse agile, elle capture insectes, petits poissons, crustacés et batraciens en rasant la surface de l'eau, parfois en vol stationnaire avant de plonger. Entre deux sorties de pêche, elle aime se percher sur un poteau ou une bouée. Migratrice au long cours, elle quitte la France dès la fin de l'été pour hiverner sur les côtes d'Afrique de l'Ouest et centrale. Espèce menacée par la destruction de ses habitats humides, elle bénéficie aujourd'hui d'une protection totale en France et figure à l'annexe I de la directive Oiseaux européenne.",
+ "habitat": "Lagunes, marais et étangs de la façade atlantique, particulièrement les zones d'eau douce peu profonde.",
+ "diet": "Insectes, petits poissons, crustacés et batraciens capturés en volant au ras de l'eau.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "estivant",
+  "hiverne": "Côtes d'Afrique de l'Ouest et centrale.",
+  "niche": "Marais de Brière, Brenne, Marais Poitevin et Marais de Rochefort, de mai à juillet ; peu de couples nicheurs depuis plusieurs décennies.",
+  "passage": "Passages prénuptiaux en mars et avril, postnuptiaux d'août à octobre."
+ },
+ "seasonality_fr": "Présente en France de mars à octobre, avec un pic lors de la nidification de mai à juillet ; absente en hiver.",
+ "song_fr": "Cris perçants et haut-perchés, gazouillements lors des parades aériennes ; moins vocale que les autres sternidés.",
+ "lookalikes": [
+  {
+   "scientific_name": "Chlidonias hybrida",
+   "common_name_fr": "Guifette moustac",
+   "why_fr": "Silhouette et taille similaires ; femelle non-nuptiale très ressemblante ; les cris les distinguent."
+  },
+  {
+   "scientific_name": "Chlidonias leucopterus",
+   "common_name_fr": "Guifette leucoptère",
+   "why_fr": "Également petite sterne grise ; passage synchrone ; ailes et dos pâles caractéristiques."
+  },
+  {
+   "scientific_name": "Sterna hirundo",
+   "common_name_fr": "Sterne pierregarin",
+   "why_fr": "Sterne commune plus grande ; plumage nuptial plus pâle ; cris plus forts et plus aigus."
+  }
+ ],
+ "rarity_note": "Occasionnelle à rare en France, nicheuse réduite aux marais atlantiques. Estimée à 0,093 de détectabilité maximale en France ; passante régulière mais peu abondante.",
+ "fun_facts": [
+  "Elle est la seule sterne française à conserver un plumage très sombre en période de nidification.",
+  "Elle se pose souvent sur des poteaux ou des bouées entre deux expéditions de pêche pour se reposer.",
+  "Autrefois commune dans l'Hexagone, elle a considérablement décliné en raison de la destruction de ses habitats de nidification."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Guifette_noire",
+  "https://en.wikipedia.org/wiki/Black_tern"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

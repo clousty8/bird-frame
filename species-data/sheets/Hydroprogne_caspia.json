@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Hydroprogne caspia",
+ "summary_fr": "La Sterne caspienne est la plus grande sterne du monde, reconnaissable à son bec massif rouge-orangé, sa calotte noire et son allure trapue. Elle se reproduit en colonies éparses sur les rives des mers Caspienne, Noire et Baltique, autour des Grands Lacs nord-américains et par endroits en Afrique et en Australasie, mais jamais en France. Les populations européennes et asiatiques hivernent en Afrique tropicale, notamment le long du Nil, tandis que les oiseaux nord-américains rejoignent les côtes du golfe du Mexique et les Caraïbes. En France, elle reste un visiteur peu commun, observé surtout lors des migrations de printemps et d'automne sur le littoral et les grands plans d'eau, avec parfois des individus isolés signalés à d'autres saisons. Chasseuse redoutable, elle repère ses proies en vol stationnaire avant de plonger brutalement pour saisir un poisson. Son cri rauque, comparé à un croassement de héron, trahit souvent sa présence avant même qu'on l'aperçoive. Les deux parents couvent et nourrissent leurs poussins, dont le plumage variable aide justement les adultes à reconnaître leur propre progéniture au retour de la pêche.",
+ "habitat": "Lacs, réservoirs et côtes marines, rarement à l'intérieur des terres ; milieux d'eau douce ou saumâtre lors des passages migratoires.",
+ "diet": "Presque exclusivement des poissons de taille moyenne, capturés en piqué après un vol stationnaire ; occasionnellement crustacés et gros insectes aquatiques.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "N'hiverne pas régulièrement en France ; hivernage principal sur les littoraux africains tropicaux, notamment le delta du Nil et les côtes d'Afrique de l'Ouest.",
+  "niche": "Ne niche pas en France ; reproduction autour des mers Caspienne, Noire et Baltique, ainsi que sur les Grands Lacs nord-américains.",
+  "passage": "Passages observés surtout de mars à mai et d'août à octobre sur les côtes et grands lacs, avec de rares individus isolés possibles à d'autres saisons."
+ },
+ "seasonality_fr": "Visible surtout en migration, d'avril à mai et d'août à octobre, sur le littoral et les grands plans d'eau ; quelques individus isolés peuvent apparaître à d'autres périodes de l'année.",
+ "song_fr": "Cri rauque et puissant, rappelant un croassement de héron, lancé en vol comme au repos ; cri d'alarme perçant et répété.",
+ "lookalikes": [
+  {
+   "scientific_name": "Sterna hirundo",
+   "common_name_fr": "Sterne pierregarin",
+   "why_fr": "Terne commune de même habitat, mais nettement plus petite et aux cris plus aigus."
+  },
+  {
+   "scientific_name": "Chlidonias niger",
+   "common_name_fr": "Guifette noire",
+   "why_fr": "Partage la famille des laridés mais bien plus petite et plus gracile, au vol plus léger."
+  }
+ ],
+ "rarity_note": "Espèce rare en France, jamais nicheuse et sans hivernage régulier établi ; passages migratoires attendus surtout en avril-mai et août-octobre, avec de rares mentions hors de ces périodes.",
+ "fun_facts": [
+  "C'est la plus grande sterne du monde, mesurant de 48 à 57 cm de long pour une envergure pouvant dépasser 140 cm.",
+  "Elle peut parcourir jusqu'à 60 km depuis sa colonie pour trouver des zones de pêche productives.",
+  "Ses œufs, tachetés de brun sur fond bleu-vert, ont des motifs si variables qu'ils aident les parents à reconnaître leurs propres poussins au retour de la pêche."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Sterne_caspienne",
+  "https://en.wikipedia.org/wiki/Caspian_tern",
+  "https://www.oiseaux.net/oiseaux/sterne.caspienne.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

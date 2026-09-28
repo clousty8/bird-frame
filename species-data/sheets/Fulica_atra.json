@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Fulica atra",
+ "summary_fr": "La Foulque macroule est un oiseau d'eau familier des zones humides françaises, reconnaissable à son plumage noir anthracite, son bec blanc et sa plaque frontale blanche distinctive. Bien plus commune que sa cousine la Gallinule poule-d'eau, elle passe l'essentiel de son temps à flotter découverte sur les plans d'eau, où elle plonge fréquemment pour chercher sa nourriture, majoritairement végétale. Grégaire en hiver, elle niche dans les roselières et se montre très territoriale durant la reproduction, les combats entre mâles pouvant être violents. Migrante partielle en France, elle est renforcée en hiver par des oiseaux venus du Nord et de l'Est. Nageuse caractéristique avec ses doigts lobés, elle s'est adaptée aux plans d'eau urbains et peut devenir très familière de l'homme.",
+ "habitat": "Plans d'eau douce ou saumâtre : lacs, étangs, canaux, rivières lentes, mares et zones humides de tous types. S'adapte aux plans d'eau des parcs urbains et ports.",
+ "diet": "Omnivore avec forte tendance végétarienne. Plonge habilement jusqu'à 2-5 mètres de profondeur pour manger algues, plantes aquatiques et graines. Occasionnellement œufs d'autres oiseaux d'eau.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France, renforcée en hiver par des oiseaux d'Europe du Nord et de l'Est.",
+  "niche": "Partout en France, d'avril à juillet. Construit un nid flottant en roseaux.",
+  "passage": "Mouvements marqués de mars à avril et d'août à novembre."
+ },
+ "seasonality_fr": "Présente toute l'année en France. Plus abondante en automne et hiver. Chante surtout de nuit et au printemps, y compris pendant les vols migratoires.",
+ "song_fr": "Répertoire bruyant incluant des cris explosifs, des sortes d'éternuements brefs et des sons claquants, souvent émis la nuit. Vocalise davantage au printemps et en période de nidification.",
+ "lookalikes": [
+  {"scientific_name": "Gallinula chloropus", "common_name_fr": "Gallinule poule-d'eau", "why_fr": "Très similaire mais plus petite. Différenciation : foulque a bec blanc avec écusson frontal, pattes plus courtes à longs doigts lobés. Poule-d'eau a bec jaune/rouge et plumage plus gris-brun."},
+  {"scientific_name": "Podiceps cristatus", "common_name_fr": "Grèbe huppé", "why_fr": "Autre oiseau d'eau noir/blanc ; ressemblance acoustique possible mais grèbe a cou blanc, forme très allongée et cris différents."},
+  {"scientific_name": "Rallus aquaticus", "common_name_fr": "Râle d'eau", "why_fr": "Même famille (Rallidae) et habitat aquatique similaire, mais plus petit et rougeâtre. Cris plus discrets et métalliques."}
+ ],
+ "rarity_note": "Commune en France, toute l'année. L'une des espèces d'eau les plus abondantes et visibles, particulièrement en périodes migratoires et hivernage.",
+ "fun_facts": [
+  "Son plumage noircit progressivement : les juvéniles ont la tête rougeâtre et le bec rouge à la naissance, la plaque blanche de l'adulte ne se développe complètement qu'après un an.",
+  "Elle nage avec des hochements caractéristiques de la tête d'avant en arrière, contrairement au grèbe qui ondule le corps.",
+  "En France, la Camargue et le lac du Bourget accueillent chacun quelque 10 000 foulques lors des concentrations hivernales."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Foulque_macroule",
+  "https://en.wikipedia.org/wiki/Eurasian_coot",
+  "https://oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/espece/cd_nom/4574"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

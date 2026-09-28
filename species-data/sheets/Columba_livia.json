@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Columba livia",
+ "summary_fr": "Le Pigeon biset est un oiseau grégaire omniprésent dans les villes et les milieux urbains de France, de même que sur les falaises côtières. Espèce discrète mais ultra-commune, il provient largement de populations domestiques retournées à l'état sauvage. Gris-bleuâtre avec des reflets métalliques pourpres sur le cou et la poitrine, il se reconnaît à sa tête bleuâtre et ses deux barres noires distinctes sur les ailes. Monogame toute l'année, il niche sur les rebords de bâtiments, les ponts et les falaises côtières, formant des colonies parfois bruyantes. Naturellement granivore, il prospère dans les zones urbanisées où les miettes alimentaires abondent. Son courroux territorial, ses combats aériens spectaculaires, ses roucoulements graves, ses aptitudes remarquables au retour au nid en font un compagnon inévitable de la vie citadine moderne.",
+ "habitat": "Zones urbaines et périurbaines, falaises côtières, bâtiments industriels et agricoles. S'adapte à tout environnement urbain offrant des cavités de nidification.",
+ "diet": "Graines et céréales, fruits, débris alimentaires urbains. Se nourrit essentiellement au sol en petits groupes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Partout en France, populations locales sédentaires et stables toute l'année.",
+  "niche": "Partout en France, reproduction possible toute l'année mais surtout mars à octobre, avec jusqu'à sept-huit couvées annuelles.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible et audible toute l'année en nombre constant. Particulièrement bruyant au printemps (avril-mai) lors des accouplements, et en automne-hiver dans les sites urbains surpeuplés.",
+ "song_fr": "Roucoulement grave et prolongé « rou-cou-cou » caractéristique, régulièrement répété. Bruit des ailes très bruyant à l'envol, souvent perçu avant l'oiseau lui-même. Cris d'alarme rauques.",
+ "lookalikes": [
+  {
+   "scientific_name": "Columba palumbus",
+   "common_name_fr": "Pigeon ramier",
+   "why_fr": "Plus gros, plus sombre dorsalement, roucoulement plus mélodique ; souvent entendu en milieu boisé plutôt qu'urbain."
+  },
+  {
+   "scientific_name": "Streptopelia decaocto",
+   "common_name_fr": "Tourterelle turque",
+   "why_fr": "Très semblable mais plus petite, couleur plus terne, roucoulement moins grave et davantage trisyllabique « rou-rou-rou »."
+  },
+  {
+   "scientific_name": "Streptopelia turtur",
+   "common_name_fr": "Tourterelle des bois",
+   "why_fr": "Beaucoup plus petite, plumage roux-brun avec écailles noires. Roucoulement doux et bourdonnant très différent."
+  }
+ ],
+ "rarity_note": "Extrêmement commun partout en France, des villes les plus denses aux falaises côtières. Population estimée à plusieurs millions d'oiseaux.",
+ "fun_facts": [
+  "Le pigeon biset est l'ancêtre de tous les pigeons domestiques, ce qui explique sa prodigieuse diversité de coloris en milieu urbain.",
+  "Ses performances de navigation sont légendaires : il peut revenir à son pigeonnier après avoir été transporté à plusieurs centaines de kilomètres.",
+  "Un pigeon reste fidèle à son partenaire toute sa vie, phénomène rare chez les oiseaux."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pigeon_biset",
+  "https://en.wikipedia.org/wiki/Rock_dove",
+  "https://www.oiseaux.net/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

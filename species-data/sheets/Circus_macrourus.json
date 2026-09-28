@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Circus macrourus",
+ "summary_fr": "Le Busard pâle est un rapace diurne de taille moyenne, proche du Busard Saint-Martin et du Busard cendré au sein de la famille des Accipitridae. Il niche dans les steppes et plaines ouvertes d'Europe de l'Est, d'Asie centrale et d'Iran, puis hiverne surtout en Inde et en Asie du Sud-Est, ce qui en fait un grand migrateur transcontinental. Le mâle adulte se reconnaît à son plumage gris pâle presque blanc et à ses fines extrémités d'ailes noires, tandis que la femelle, brune, arbore des couvertures sus-caudales blanches qui lui valent le surnom de « ringtail », proche d'aspect de la femelle du Busard cendré. En chasse, il maintient ses longues ailes en V peu marqué au ras des herbes et des champs, surprenant petits rongeurs, oiseaux, gros insectes et lézards. Il niche au sol, pondant généralement quatre à cinq œufs blanchâtres. Espèce intégralement protégée en France depuis 1981, il y demeure un visiteur occasionnel, observé surtout en Corse lors des passages migratoires de printemps et d'automne. Son aire de reproduction s'étend vers l'ouest de l'Europe depuis les années 2010 : premières nidifications documentées aux Pays-Bas en 2017, puis en Espagne en 2019, signe d'une expansion progressive.",
+ "habitat": "Plaines ouvertes, landes, tourbières, champs et prairies d'Europe de l'Est et Asie centrale à la période de reproduction. En migration et hivernage, zones ouvertes et semi-désertiques.",
+ "diet": "Petits mammifères et oiseaux capturés en vol rasant au ras du sol. Complément alimentaire : gros insectes (sauterelles, criquets), lézards et amphibiens.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Inde et Asie du Sud-Est ; en France, présence hivernale occasionnelle surtout en Corse.",
+  "niche": "Europe de l'Est, Asie centrale et Iran ; ne niche pas en France (cas isolés aux Pays-Bas et en Espagne depuis 2017).",
+  "passage": "Europe occidentale, notamment en avril et de septembre à octobre ; transit de quelques heures à quelques jours selon les conditions climatiques."
+ },
+ "seasonality_fr": "Visiteur migrateur rare en France, surtout d'octobre à avril, avec un passage prénuptial de janvier à avril et postnuptial de septembre à décembre.",
+ "song_fr": "Espèce généralement silencieuse en dehors de la période nuptiale. Cris de défense territoriale ou d'alarme près du nid, rarement entendus en France.",
+ "lookalikes": [
+  {
+   "scientific_name": "Circus pygargus",
+   "common_name_fr": "Busard cendré",
+   "why_fr": "Taille, silhouette et vol en V similaires ; femelles et juvéniles très difficiles à différencier en vol rasant, surtout sans repères visuels nets."
+  },
+  {
+   "scientific_name": "Circus cyaneus",
+   "common_name_fr": "Busard Saint-Martin",
+   "why_fr": "Silhouette comparable et vol bas rasant ; femelle et juvénile ressemblent fortement à ceux du Busard pâle, confusion fréquente en migration."
+  },
+  {
+   "scientific_name": "Circus aeruginosus",
+   "common_name_fr": "Busard des roseaux",
+   "why_fr": "Plus volumineux mais vol en V peu marqué similaire ; reconnaissance acoustique délicate lors d'enregistrements brefs ou de conditions sous-optimales."
+  }
+ ],
+ "rarity_note": "Visiteur rare et irrégulier en France (score BirdNET maximal 0,0264), quasi limité à la Corse en hiver ; fréquence en légère hausse en Europe occidentale.",
+ "fun_facts": [
+  "Contrairement à beaucoup de rapaces, le Busard pâle chasse à très basse altitude, rasant les herbes pour surprendre ses proies au dépourvu.",
+  "Femelles et juvéniles portent des couvertures sus-caudales blanches dites « ringtail », très proches de celles du Busard cendré.",
+  "Première nidification documentée aux Pays-Bas en 2017 (quatre jeunes), puis en Espagne en 2019, signe d'une expansion vers l'ouest."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Busard_p%C3%A2le",
+  "https://en.wikipedia.org/wiki/Pallid_harrier",
+  "https://oiseaux.net/breves/busard.pale.html",
+  "https://www.birdlife.org/species-guides"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

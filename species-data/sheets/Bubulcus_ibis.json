@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Bubulcus ibis",
+ "summary_fr": "Le Héron garde-bœufs est un oiseau blanc et trapu qui a connu l'une des plus rapides expansions géographiques de tous les oiseaux. Autrefois limité à l'Afrique et à l'Asie du Sud, il s'est répandu en Europe puis en Amérique au cours du XXe siècle, suivant l'extension de l'élevage mondial. Contrairement aux autres hérons, cet oiseau fréquente les prairies et pâturages secs plutôt que les zones humides, se nourrissant des insectes et petits animaux dérangés par le bétail. Durant la saison de reproduction, il revêt un plumage chamois et émet des cris rauques graves en colonies. Commensal du bétail, il joue un rôle bénéfique en contrôlant les parasites des bovins, ce qui a incité à son introduction volontaire à Hawaï et aux Seychelles.",
+ "habitat": "Prairies sèches, pâturages, champs cultivés et zones herbeuses. Souvent près du bétail en pâture. Plus rare en zones humides comparé aux autres hérons.",
+ "diet": "Insectes terrestres (sauterelles, grillons, mouches, papillons), araignées, vers et petits vertébrés (grenouilles, lézards, petits mammifères). Efficacité de chasse multipliée par 3,6 en présence de bétail.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Certains individus hivernent en France méridionale et en Afrique du Nord, d'autres restent sédentaires dans le sud.",
+  "niche": "Colonies reproductrices en France surtout en zones méditerranéennes et atlantiques, d'avril à août. Colonisation récente du nord-ouest (depuis les années 1980).",
+  "passage": "Mouvements de population en mars-avril vers les zones de reproduction septentrionales, puis septembre-octobre vers le sud."
+ },
+ "seasonality_fr": "Présent en France d'avril à octobre principalement. Observations hivernales régulières en zone côtière et méditerranéenne. Visible lors du stationnement près de troupeaux de bovins.",
+ "song_fr": "Cri gravé « rick-rack » bas et rauque émis en période de reproduction, en colonies. L'espèce est sinon pratiquement silencieuse en dehors de la saison de nidification.",
+ "lookalikes": [
+  {
+   "scientific_name": "Egretta garzetta",
+   "common_name_fr": "Aigrette garzette",
+   "why_fr": "Plumage blanc en plumage hivernal, mais plus élancée avec un bec noir. Héron garde-bœufs est plus massif et trapu."
+  },
+  {
+   "scientific_name": "Ardea alba",
+   "common_name_fr": "Grande Aigrette",
+   "why_fr": "Grande blanche héronnière, mais beaucoup plus grande et élancée. Allure générale nettement différente du trapu garde-bœufs."
+  }
+ ],
+ "rarity_note": "Régulier en France côtière et méditerranéenne, surtout en période estivale. Moins fréquent à l'intérieur des terres et en région septentrionale. Population en expansion depuis les années 1950.",
+ "fun_facts": [
+  "L'expansion depuis l'Afrique vers les Amériques aurait impliqué une traversée de l'Atlantique Nord vers 1877, selon certaines observations.",
+  "Seule la sous-espèce des Seychelles (A. i. seychellarum) pratique le kleptoparasitisme, harcelant d'autres oiseaux pour voler leur nourriture.",
+  "Bénéfique aux éleveurs pour sa consommation de tiques, il a été délibérément introduit à Hawaï en 1959 pour le contrôle biologique."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/H%C3%A9ron_garde-b%C5%93ufs",
+  "https://en.wikipedia.org/wiki/Western_cattle_egret",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

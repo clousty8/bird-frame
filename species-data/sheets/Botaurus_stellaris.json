@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Botaurus stellaris",
+ "summary_fr": "Le Butor étoilé est un grand héron massif au plumage brun strié, qui se dissimule avec une efficacité remarquable dans les roseaux des zones humides. Sa présence se révèle surtout lors des chants nuptiaux de mars à avril, moment où le mâle émet un appel sonore caverneux et profond, audible jusqu'à cinq kilomètres et comparé à un meuglement de taureau ou une corne de brume. Extrêmement discret et timide, il reste caché la plupart du temps, naviguant avec agilité entre les tiges de roseaux à l'aide de ses longs doigts. En France, l'espèce connaît une régression alarmante : estimée à plus de 500 mâles chanteurs dans les années 1970, sa population ne dépassait plus une centaine d'individus au début des années 2020. Classée vulnérable dans la liste rouge française, elle bénéficie d'une protection totale et fait l'objet de plans de restauration de l'habitat.",
+ "habitat": "Roselières étendues des zones humides, marais, marécages, rives lacustres et étangs avec végétation palustre dense jouxtant des eaux libres peu profondes.",
+ "diet": "Poissons, anguilles, amphibiens et invertébrés aquatiques, notamment insectes ; occasionnellement petits mammifères, oiseaux adultes et jeunes oiseaux au nid.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Plus au sud où l'eau ne gèle pas, notamment en Afrique du Nord et sur le pourtour méditerranéen ; en France, hiverne surtout sur le littoral méditerranéen, en Camargue.",
+  "niche": "Roselières de France, d'avril à juillet ; reproduction concentrée sur le littoral méditerranéen, en Loire-Atlantique et dans le Nord-Est.",
+  "passage": "Passages prénuptiaux en février-mars et postnuptiaux en août-septembre."
+ },
+ "seasonality_fr": "Présent toute l'année en France, mais plus abondant de novembre à avril avec l'arrivée des migrateurs. La présence en été est rare sauf dans les zones de reproduction.",
+ "song_fr": "Appel nuptial très profond et caverneux, bourdonnement rappelant un meuglement de taureau ou une corne de brume, émis surtout de janvier à avril. Cris de vol en « ho ! » expirés.",
+ "lookalikes": [
+  {"scientific_name": "Ixobrychus minutus", "common_name_fr": "Blongios nain", "why_fr": "Autre butor de la même sous-famille, aux cris de reproduction également sourds et répétitifs, émis depuis les roselières."},
+  {"scientific_name": "Bubo bubo", "common_name_fr": "Grand-duc d'Europe", "why_fr": "Hululement grave et porteur, parfois confondu de nuit avec le meuglement caverneux du Butor étoilé."},
+  {"scientific_name": "Strix aluco", "common_name_fr": "Chouette hulotte", "why_fr": "Hululement grave et résonnant, source classique de confusion nocturne avec les sons basse fréquence du Butor étoilé."}
+ ],
+ "rarity_note": "Rare et vulnérable en France métropolitaine, population en déclin rapide : moins de 100 mâles chanteurs recensés en 2023, contre environ 500 dans les années 1970.",
+ "fun_facts": [
+  "Son chant bourdonnant, amplifié pendant la saison des amours, porte jusqu'à 5 kilomètres par nuit calme et a nourri des légendes populaires pendant des siècles.",
+  "Très mimétique, il dresse le cou et les plumes de sa gorge pour se fondre dans les roseaux agités par le vent, restant immobile des heures durant s'il se sent menacé.",
+  "La population française se répartit en trois foyers : la Camargue, majoritaire, la Loire-Atlantique et le Nord-Est de la France."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Butor_%C3%A9toil%C3%A9",
+  "https://en.wikipedia.org/wiki/Eurasian_bittern",
+  "https://inpn.mnhn.fr/species/cd_nom/3270",
+  "https://www.oiseaux.net/oiseaux/butor.etoile.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

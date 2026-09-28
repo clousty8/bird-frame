@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Loxia curvirostra",
+ "summary_fr": "Le Bec-croisé des sapins est un petit passereau granivore aisément reconnaissable à ses mandibules croisées, une adaptation unique qui lui permet d'extraire avec précision les graines nichées au cœur des cônes de conifères. En France, il niche de façon opportuniste dans les forêts de conifères de montagne, notamment dans les Vosges, le Jura, les Alpes, les Pyrénées et en Corse, sa reproduction dépendant surtout de l'abondance des cônes plutôt que d'un calendrier fixe. Ailleurs dans le pays, sa présence reste erratique et imprévisible, ponctuée d'irruptions soudaines lorsque les récoltes de cônes manquent en Europe du Nord. Le plumage diffère nettement selon le sexe : les mâles arborent un rouge orangé éclatant, les femelles un vert olive plus discret. Acrobate hors pair, l'oiseau se suspend souvent la tête en bas dans les branches pour décortiquer les cônes et en extraire les graines. Fait rare chez les passereaux, le mâle et la femelle chantent tous deux, y compris hors saison de reproduction. Cet oiseau illustre à merveille l'adaptation évolutive : ses différentes populations se sont spécialisées chacune sur une essence de conifère particulière, développant au fil du temps des cris et des tailles de bec distincts, de véritables accents régionaux.",
+ "habitat": "Forêts de conifères (épicéas, sapins, pins, mélèzes) jusqu'à 3 000 m d'altitude ; visite aussi les forêts mixtes et les boisements d'aulnes, bouleaux et hêtres, parfois les jardins et parcs en automne et en hiver.",
+ "diet": "Graines de résineux extraites des cônes grâce au bec croisé, et bourgeons de conifères ; complète son régime avec des baies, des graines de feuillus, des semences d'herbacées et des insectes selon la saison.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Toute l'année dans les massifs de conifères de montagne (Vosges, Jura, Alpes, Pyrénées, Corse) ; ailleurs présence hivernale irrégulière, surtout d'octobre à mars, lors des irruptions.",
+  "niche": "Dans les forêts de conifères de montagne (Vosges, Jura, Alpes, Pyrénées, Corse), à une date variable selon l'abondance locale des cônes plutôt qu'à saison fixe.",
+  "passage": "Irruptions imprévisibles en provenance d'Europe du Nord et de l'Est, surtout d'octobre à mars, lors des mauvaises récoltes de cônes dans ces régions."
+ },
+ "seasonality_fr": "Présent toute l'année dans les massifs de conifères de montagne ; ailleurs, surtout observé d'octobre à mars lors des irruptions liées aux pénuries de cônes en Europe du Nord.",
+ "song_fr": "Chant varié et cristallin ; cris de vol « tiri-tiri-tioup-tsip-tsip » caractéristiques et cri d'alarme sec et répété. Les populations du Paléarctique occidental ont des types vocaux distincts, comme des accents régionaux.",
+ "lookalikes": [
+  {
+   "scientific_name": "Loxia bifasciata",
+   "common_name_fr": "Bec-croisé bifascié",
+   "why_fr": "Seul autre bec-croisé présent en Europe ; cris de vol proches, confusion acoustique possible malgré un plumage différent."
+  },
+  {
+   "scientific_name": "Loxia scotica",
+   "common_name_fr": "Bec-croisé d'Écosse",
+   "why_fr": "Anciennement considéré comme une sous-espèce ; très difficile à distinguer, y compris par le chant et les cris."
+  },
+  {
+   "scientific_name": "Loxia pytyopsittacus",
+   "common_name_fr": "Bec-croisé perroquet",
+   "why_fr": "Bec plus massif mais plumage très similaire ; l'identification repose surtout sur les cris."
+  }
+ ],
+ "rarity_note": "Peu commun et erratique en France ; plus régulier dans les massifs de conifères de montagne, ailleurs présence liée aux irruptions hivernales imprévisibles.",
+ "fun_facts": [
+  "Les jeunes naissent avec un bec droit : les mandibules ne se croisent que progressivement au cours de la croissance.",
+  "Plus de vingt types vocaux ont été identifiés en Eurasie, chaque population s'étant spécialisée sur une essence de conifère différente.",
+  "C'est l'un des rares passereaux où le mâle et la femelle chantent tous deux, y compris en hiver pour défendre chacun leur territoire."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bec-crois%C3%A9_des_sapins",
+  "https://en.wikipedia.org/wiki/Red_crossbill",
+  "https://www.oiseaux.net/oiseaux/bec.croise.des.sapins.html"
+ ],
+ "generated_at": "2026-09-27T22:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

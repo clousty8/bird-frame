@@ -1,0 +1,95 @@
+{
+ "scientific_name": "Pyrrhocorax pyrrhocorax",
+ "common_name_fr": "Crave à bec rouge",
+ "birdnet_label": "Pyrrhocorax pyrrhocorax_Crave à bec rouge",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Corvidae",
+  "family_common": "Crows, Jays, and Magpies",
+  "genus": "Pyrrhocorax",
+  "species": "Pyrrhocorax pyrrhocorax"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Crave à bec rouge",
+   "url": "https://fr.wikipedia.org/wiki/Crave_%C3%A0_bec_rouge",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Crave à bec rouge, quelquefois appelé Crave corallin ou simplement Crave, est une espèce d'oiseaux de la famille des corvidés, l'une des deux seules espèces du genre Pyrrhocorax, avec le Chocard à bec jaune. Ses huit sous-espèces vivent sur les montagnes et les falaises côtières depuis l'Irlande et l'Ouest de la Grande-Bretagne jusqu'à l'Asie centrale, l'Inde et la Chine, en passant par l'Europe du Sud et l'Afrique du Nord.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Red-billed chough",
+   "url": "https://en.wikipedia.org/wiki/Red-billed_chough",
+   "description": "Bird in the crow family from Eurasia and North Africa",
+   "extract": "The red-billed chough, Cornish chough or simply chough is a bird in the crow family, one of only two species in the genus Pyrrhocorax. Its eight subspecies breed on mountains and coastal cliffs from the western coasts of Ireland and Britain east through southern Europe, North Africa and Middle East to Central Asia, India and China.",
+   "fulltext_chars": 20864
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pyrrhocorax_pyrrhocorax_-standing-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1003,
+  "height": 726,
+  "file": "Pyrrhocorax_pyrrhocorax_-standing-8.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pyrrhocorax_pyrrhocorax_-standing-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "File:Alpenkrähe.jpg: \"Malte Uhl (User:Zzzip)\"\nderivative work: Snowmanradio (talk)",
+  "credit": "File:Alpenkrähe.jpg",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Pyrrhocorax_pyrrhocorax_-standing-8.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2257,
+  "cities": {
+   "Le Mans": 0.058,
+   "Pornic": 0.138,
+   "Rennes": 0.139,
+   "Poitiers": 0.061,
+   "Paris": 0.025,
+   "Lille": 0.023,
+   "Lyon": 0.026,
+   "Grenoble": 0.033,
+   "Marseille": 0.09,
+   "Toulouse": 0.116,
+   "Bordeaux": 0.124,
+   "Brest": 0.226,
+   "Ajaccio": 0.165,
+   "Clermont-Ferrand": 0.039,
+   "Chamonix": 0.018,
+   "Perpignan": 0.136
+  },
+  "monthly_scores": [
+   0.1569,
+   0.1346,
+   0.144,
+   0.1938,
+   0.1672,
+   0.192,
+   0.1935,
+   0.1599,
+   0.1958,
+   0.2257,
+   0.1542,
+   0.1647
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:34Z"
+}

@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Corvus frugilegus",
+ "summary_fr": "Le Corbeau freux est un passereau noir de grande taille, au bec fin et pointu, formant des colonies bruyantes dans toute l'Europe. On le reconnaît à la base de son bec dénudée et blanchâtre chez l'adulte, détail qui le distingue de la Corneille noire. Omnivore, il se nourrit de vers, d'insectes et de graines. Très actif dès l'aube, il maîtrise son vol avec grâce. En France, les populations locales sont en partie sédentaires, complétées en hiver par des migrateurs du nord et de l'est. Intelligent et social, le freux déploie toute une panoplie de comportements : des jeux aériens, des offrandes de nourriture entre partenaires, et des vocalisations très variées. Ses dégâts sur les jeunes cultures lui ont valu une mauvaise réputation, mais son régime insectivore en fait aussi un prédateur utile des ravageurs agricoles.",
+ "habitat": "Champs et prairies parsemés d'arbres, bosquets, petites forêts. Régions de plaine et collines. Parcs urbains et jardins publics où il forme des colonies hivernales.",
+ "diet": "Omnivore : lombrics, insectes (coléoptères, larves, chenilles), scarabées, gastéropodes, graines (surtout céréales), noix, glands, fruits sauvages (cerises, baies). En hiver, charognes occasionnelles. Chasse au sol en marchant ou sautillant.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France, notamment le long des côtes. Les populations locales sont rejointes en hiver par des oiseaux d'Europe du Nord et de l'Est, formant d'importantes colonies urbaines.",
+  "niche": "Partout en France, d'avril à juillet. Les couples se forment entre jeunes oiseaux un an après l'envol des oisillons.",
+  "passage": "Mouvements marqués en février-mars (retour) et septembre-octobre (départ). Migration par grandes colonies avec nombreuses haltes."
+ },
+ "seasonality_fr": "Présent toute l'année en France, avec renforcement des populations en hiver. Très actif dès une heure avant le lever du soleil jusqu'à la nuit. Les croassements varient avec les saisons : plus longs et mêlés de roucoulent au printemps.",
+ "song_fr": "Croassements très variés : « Kah » ou « Krah » de reconnaissance, « krèèèèh » long et aigu en situation d'agression, roulements doux au printemps. Cris des poussins très audibles. Chants duos entre partenaires.",
+ "lookalikes": [
+  {
+   "scientific_name": "Corvus corone",
+   "common_name_fr": "Corneille noire",
+   "why_fr": "Confusion possible avec les oisillons : bec plus épais, pas de base dénudée. Vol moins gracieux, ailes moins larges."
+  },
+  {
+   "scientific_name": "Corvus cornix",
+   "common_name_fr": "Corneille mantelée",
+   "why_fr": "Croassements semblables mais plumage gris et noir reconnaissable. Présente en migrateur hivernal."
+  },
+  {
+   "scientific_name": "Corvus monedula",
+   "common_name_fr": "Choucas des tours",
+   "why_fr": "Présence hivernale sympatrique. Taille plus petite, croassements différents mais vocalises sociales similaires."
+  }
+ ],
+ "rarity_note": "Régulièrement observé en France, toute l'année en région de plaine. Colonies urbaines importantes en hiver, notamment dans les grandes villes. Peu commun en montagne.",
+ "fun_facts": [
+  "Le freux possède une remarquable intelligence instrumentale : il sait utiliser des bâtons pour attraper une friandise inaccessible, et même les recourber en crochets selon l'épaisseur du tube.",
+  "Son rôle dans la dispersion des glands est avéré. Comme son cousin le geai, le freux contribue au reboisement naturel."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Corbeau_freux",
+  "https://en.wikipedia.org/wiki/Rook_(bird)",
+  "https://www.oiseaux.net/fiches/corbeau.freux.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

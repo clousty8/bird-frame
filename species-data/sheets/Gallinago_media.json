@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Gallinago media",
+ "summary_fr": "La Bécassine double est une limicole remarquable renommée pour ses extraordinaires capacités migratoires. Légèrement plus grande et plus trapu que la bécassine des marais, c'est un migrateur de passage en France au printemps et en automne, avec des populations nichant en Europe du nord-est et hivernant en Afrique tropicale. Célèbre pour ses remarquables vols transcontinentaux sans escale et ses migrations en haute altitude—dépassant parfois 8 700 mètres—c'est parmi les plus impressionnants migrateurs longue distance de la planète. Un seul oiseau a été enregistré volant près de 7 000 kilomètres sans arrêt en seulement 60 heures. L'espèce connaît un déclin de population dû à la perte d'habitat et aux pressions de chasse. En France, elle demeure un visiteur rare et insaisissable lors des passages printaniers et automnaux, difficile à observer en raison de son comportement discret et de sa forte préférence pour la végétation dense des marais.",
+ "habitat": "Marais et prairies humides avec végétation dense ; habitats plus secs que ceux de la bécassine des marais. Fortement sédentaire, préférant la couverture végétale épaisse.",
+ "diet": "Insectes, vers de terre et petits invertébrés ; nourriture obtenue en sondant la boue ou en picorée à vue. Accumule d'importantes réserves de graisse avant la migration.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Afrique subsaharienne et tropicale.",
+  "niche": "Ne niche pas en France ; reproduction limitée au nord-est de l'Europe et à l'ouest de la Sibérie.",
+  "passage": "Passages migratoires de mars à avril (printemps) et septembre à octobre (automne)."
+ },
+ "seasonality_fr": "Observée en France uniquement pendant les passages migratoires, essentiellement en mars-avril et septembre-octobre. Très rare et imprévisible, l'espèce peut ne pas être détectée certaines années.",
+ "song_fr": "Cri d'affichage crépusculaire ressemblant à un mélange de pétards et de sons de xylophone, audible jusqu'à 300+ mètres en groupe. Généralement silencieux en vol, cri faible en migration.",
+ "lookalikes": [
+  {
+   "scientific_name": "Gallinago gallinago",
+   "common_name_fr": "Bécassine des marais",
+   "why_fr": "Silhouette et appels semblables, légèrement plus petite et moins trapu ; ressemblance vocale lors de l'affichage crépusculaire."
+  },
+  {
+   "scientific_name": "Gallinago delicata",
+   "common_name_fr": "Bécassine de Wilson",
+   "why_fr": "Congénère nord-américain avec vocalisation crépusculaire similaire et silhouette comparable."
+  }
+ ],
+ "rarity_note": "Espèce très rare en France en tant que migrateur de passage. Ne niche pas localement. Observée surtout en mars-avril et septembre-octobre, sa présence reste imprévisible.",
+ "fun_facts": [
+  "Effectue des vols transcontinentaux non-stop de plus de 6 700 kilomètres en seulement 60 heures, une performance migratoire extraordinaire.",
+  "Enregistrée volant à plus de 8 700 mètres d'altitude pendant la migration, probablement le record absolu pour un oiseau migrateur.",
+  "Les mâles affichent leurs performances vocales spectaculaires au crépuscule en groupes lekking, produisant des sons complexes audibles à plus de 300 mètres."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/B%C3%A9cassine_double",
+  "https://en.wikipedia.org/wiki/Great_snipe",
+  "https://www.oiseaux.net/oiseaux/gallinago.media.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

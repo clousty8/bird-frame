@@ -1,0 +1,70 @@
+{
+ "scientific_name": "Chlidonias leucopterus",
+ "common_name_fr": "Guifette leucoptère",
+ "birdnet_label": "Chlidonias leucopterus_Guifette leucoptère",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Chlidonias",
+  "species": "Chlidonias leucopterus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Guifette leucoptère",
+   "url": "https://fr.wikipedia.org/wiki/Guifette_leucopt%C3%A8re",
+   "description": "espèce d'oiseaux",
+   "extract": "La Guifette leucoptère est une espèce d'oiseaux Charadriiformes de la famille des Laridae. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 2289
+  },
+  "en": {
+   "title": "White-winged tern",
+   "url": "https://en.wikipedia.org/wiki/White-winged_tern",
+   "description": "Species of bird",
+   "extract": "The white-winged tern or white-winged black tern is a species of tern in the family Laridae. It is a small species generally found in or near bodies of fresh water across much of the world, including Europe, Africa, Asia, and Australia. The genus name is from Ancient Greek khelidonios, \"swallow-like\", from khelidon, \"swallow\".",
+   "fulltext_chars": 3625
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chlidonias_leucopterus_2023-04-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2400,
+  "height": 1599,
+  "file": "Chlidonias_leucopterus_2023-04-08.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Chlidonias_leucopterus_2023-04-08.jpg/1920px-Chlidonias_leucopterus_2023-04-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Nrg800",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Chlidonias_leucopterus_2023-04-08.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0753,
+  "cities": {
+   "Ajaccio": 0.075
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0321,
+   0.0753,
+   0.0606,
+   0.0468,
+   0.0405,
+   0.0498,
+   0.0413,
+   0.0146,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:20Z"
+}

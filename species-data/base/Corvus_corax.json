@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Corvus corax",
+ "common_name_fr": "Grand Corbeau",
+ "birdnet_label": "Corvus corax_Grand Corbeau",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Corvidae",
+  "family_common": "Crows, Jays, and Magpies",
+  "genus": "Corvus",
+  "species": "Corvus corax"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grand Corbeau",
+   "url": "https://fr.wikipedia.org/wiki/Grand_Corbeau",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Grand Corbeau est une espèce d'oiseaux de la famille des corvidés. Il est le plus grand oiseau de l'ordre des passeriformes après le corbeau corbivau, et probablement le passereau le plus lourd. Présent dans tout l'hémisphère nord, c’est l’espèce de corvidé dont l’aire de répartition est la plus étendue. Les grands corbeaux vivent généralement de 10 à 15 ans mais certains individus ont vécu 40 ans. Les juvéniles peuvent se déplacer en groupes mais les couples appariés restent ensemble pour la vie, chaque couple défendant un territoire. Huit sous-espèces ont été décrites avec de faibles différences phénotypiques ; des études récentes montrent toutefois des différences génétiques significatives entre les populations de diverses régions.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Common raven",
+   "url": "https://en.wikipedia.org/wiki/Common_raven",
+   "description": "Large, black species of passerine bird",
+   "extract": "The common raven or northern raven is a large all-black passerine bird. It is the most widely distributed of all corvids, found across the Northern Hemisphere. There are 11 accepted subspecies with little variation in appearance, although recent research has demonstrated significant genetic differences among populations from various regions. It is one of the two largest corvids, alongside the thick-billed raven, and is the heaviest passerine bird; at maturity, the common raven averages 63 centimetres in length and 1.47 kilograms in weight, up to 2 kg (4.4 lb) in the heaviest individuals. Although their typical lifespan is considerably shorter, common ravens can live more than 23 years in the wild. Young birds may travel in flocks but later mate for life, with each mated pair defending a territory.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/78/Corvus_corax_%28Common_Raven%29%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5103,
+  "height": 3610,
+  "file": "Corvus_corax_(Common_Raven),_Yosemite_NP,_CA,_US_-_Diliff.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Corvus_corax_%28Common_Raven%29%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg/1920px-Corvus_corax_%28Common_Raven%29%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Diliff",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Corvus_corax_(Common_Raven),_Yosemite_NP,_CA,_US_-_Diliff.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4496,
+  "cities": {
+   "Le Mans": 0.128,
+   "Pornic": 0.152,
+   "Rennes": 0.15,
+   "Poitiers": 0.164,
+   "Paris": 0.121,
+   "Lille": 0.112,
+   "Strasbourg": 0.201,
+   "Lyon": 0.266,
+   "Grenoble": 0.335,
+   "Marseille": 0.357,
+   "Toulouse": 0.36,
+   "Bordeaux": 0.263,
+   "Brest": 0.211,
+   "Ajaccio": 0.45,
+   "Clermont-Ferrand": 0.237,
+   "Chamonix": 0.307,
+   "Perpignan": 0.382,
+   "Nancy": 0.16
+  },
+  "monthly_scores": [
+   0.4059,
+   0.4306,
+   0.4496,
+   0.4439,
+   0.3736,
+   0.3457,
+   0.3521,
+   0.4104,
+   0.4089,
+   0.4089,
+   0.4307,
+   0.4304
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:25Z"
+}

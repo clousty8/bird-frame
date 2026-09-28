@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Pyrrhula pyrrhula",
+ "summary_fr": "Le Bouvreuil pivoine, au plastron rouge caractéristique du mâle, est un petit passereau élégant de la famille des Fringillidae. Résident discret et sédentaire dans la plupart de la France, il peuple les bois, les jardins et les vergers où il se nourrit surtout de graines et de bourgeons d'arbres. En hiver, il est rejoint par des oiseaux venus du nord. Très pacifique malgré une forme trapue, il visite régulièrement les jardins ornementaux mais reste longtemps caché dans le feuillage. Il se distingue par son chant très dépouillé, un bref sifflement doux et mélancolique. Contrairement à beaucoup de passereaux, le mâle partage la responsabilité parentale avec la femelle lors de la reproduction. Le Bouvreuil pivoine a longtemps été prisé comme oiseau de cage au XIXe siècle, des individus étant même entraînés à siffler des airs.",
+ "habitat": "Bois d'arbres à feuilles caduques, fourrés, bosquets, parcs, jardins et vergers ; moins commun en région méditerranéenne.",
+ "diet": "Graines et bourgeons d'arbres, notamment fruitiers ; petits insectes en été pour les oisillons ; baies et fruits sauvages en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Dans toute la France, où les nicheurs locaux sont renforcés en hiver par des oiseaux venus d'Europe du Nord.",
+  "niche": "Partout en France sauf en Corse et sur la côte méditerranéenne, d'avril à juillet.",
+  "passage": "Passages marqués en mars et d'octobre à novembre."
+ },
+ "seasonality_fr": "Présent toute l'année en France ; plus vocal de novembre à mars lors des passages et du regroupement en petites bandes.",
+ "song_fr": "Bref sifflement doux et mélancolique, cristallin. Chant fluide comprenant des notes sifflées et grinçantes, peu audible même de près.",
+ "lookalikes": [
+  {
+   "scientific_name": "Prunella modularis",
+   "common_name_fr": "Accenteur mouchet",
+   "why_fr": "Chant grinçant d'une tessiture similaire, bien que plus discret."
+  },
+  {
+   "scientific_name": "Phoenicurus ochruros",
+   "common_name_fr": "Rougequeue noir",
+   "why_fr": "Sifflements doux et cris proches pouvant créer une confusion acoustique."
+  }
+ ],
+ "rarity_note": "Commun et régulier partout en France, toute l'année, bien qu'en déclin depuis les années 1990.",
+ "fun_facts": [
+  "Mâle et femelle partagent équitablement les tâches parentales, y compris l'alimentation des jeunes et la construction du nid.",
+  "Au XIXe siècle, certains bouvreuils captifs ont été dressés à siffler des mélodies complexes en plusieurs étapes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bouvreuil_pivoine",
+  "https://en.wikipedia.org/wiki/Eurasian_bullfinch",
+  "https://www.oiseaux.net/fiche/bouvreuil.pivoine.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

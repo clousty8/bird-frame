@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Eremophila alpestris",
+ "summary_fr": "L'Alouette hausse-col est une petite alouette cosmopolite aux couleurs contrastées : face et gorge jaunes ornées de marques noires caractéristiques. Native des terres arctiques et des montagnes, elle fréquente les milieux ouverts et nus, loin des arbres. En France, elle n'est qu'une visiteuse hivernale et migrante, observée principalement en octobre-mars le long des côtes méditerranéennes et atlantiques. Oiseau terricole par excellence, elle marche plutôt que de sautiller. Elle se nourrit de petites graines et d'insectes glanés au sol. Ses vocalises aigues et peu puissantes contrastent avec son impressionnant vol nuptial circulaire du mâle, accompagné d'un chant caractérisé par une ascension trillée. Le nom vernaculaire « hausse-col » réfère à la pièce d'armure protégeant la base du cou, allusion à sa bavette noire distinctive.",
+ "habitat": "Terre nue, champs arides, prairies alpines, zones désertiques, rivages rocheux ou sableux. Préfère la végétation rase ou absente.",
+ "diet": "Petites graines et insectes (notamment des larves) prélevés au sol.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Région méditerranéenne (Corse occasionnellement), hivernage irrégulier et localisé en France.",
+  "niche": "Ne niche pas en France.",
+  "passage": "Passages en octobre-novembre et février-mars, concentrés en Méditerranée."
+ },
+ "seasonality_fr": "Visible surtout d'octobre à mars, exceptionnellement en autres saisons. Rarement observée, confinée aux côtes et zones ouvertes de basse altitude.",
+ "song_fr": "Vocalises très aigues et fluettes, parfois tsi-tsi discrets. Chant du mâle en vol : trille ascendant caractéristique.",
+ "lookalikes": [
+  {
+   "scientific_name": "Alauda arvensis",
+   "common_name_fr": "Alouette des champs",
+   "why_fr": "Alouette sympatrique en hiver, chant similaire avec trill ascendant."
+  },
+  {
+   "scientific_name": "Anthus campestris",
+   "common_name_fr": "Pipit rousseline",
+   "why_fr": "Habite milieux ouverts similaires, cris aigus de même fréquence."
+  },
+  {
+   "scientific_name": "Anthus petrosus",
+   "common_name_fr": "Pipit maritime",
+   "why_fr": "Habitat côtier emprunté en hiver, vocalises très aigues."
+  }
+ ],
+ "rarity_note": "Très rare en France, hivernant régulièrement seulement en Méditerranée. Passant discret et imprévisible.",
+ "fun_facts": [
+  "Le dimorphisme sexuel est frappant : le mâle affiche des petites aigrettes noires sur la tête en été, d'où le surnom anglais de « horned lark ».",
+  "Oiseau fidèle à sa région natale : il revient toujours nicher aux mêmes sites après la migration, un phénomène appelé philopatrie."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Alouette_hausse-col",
+  "https://en.wikipedia.org/wiki/Horned_lark",
+  "https://www.oiseaux.net/oiseaux/alouette.hausse.col.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Serinus serinus",
+ "common_name_fr": "Serin cini",
+ "birdnet_label": "Serinus serinus_Serin cini",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Fringillidae",
+  "family_common": "Finches, Euphonias, and Allies",
+  "genus": "Serinus",
+  "species": "Serinus serinus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Serin cini",
+   "url": "https://fr.wikipedia.org/wiki/Serin_cini",
+   "description": "espèce d'oiseaux de la famille des Fringillidae",
+   "extract": "Le Serin cini  est une espèce d'oiseaux de la famille des Fringillidae. C'est une espèce largement répandue en Europe, proche du Serin des Canaries.",
+   "fulltext_chars": 10180
+  },
+  "en": {
+   "title": "European serin",
+   "url": "https://en.wikipedia.org/wiki/European_serin",
+   "description": "Species of bird",
+   "extract": "The European serin, or simply the serin, is the smallest species of the family of finches (Fringillidae) and is closely related to the Atlantic canary. Its diet consists mainly of a combination of buds and seeds.",
+   "fulltext_chars": 1776
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Serin_cini_mars.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2382,
+  "height": 1875,
+  "file": "Serin_cini_mars.JPG",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Serin_cini_mars.JPG/1920px-Serin_cini_mars.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Ghislain38",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Serin_cini_mars.JPG"
+ },
+ "france_universe": {
+  "max_score": 0.8513,
+  "cities": {
+   "Le Mans": 0.19,
+   "Pornic": 0.212,
+   "Rennes": 0.153,
+   "Poitiers": 0.268,
+   "Paris": 0.196,
+   "Lille": 0.099,
+   "Strasbourg": 0.269,
+   "Lyon": 0.429,
+   "Grenoble": 0.577,
+   "Marseille": 0.717,
+   "Toulouse": 0.631,
+   "Bordeaux": 0.414,
+   "Brest": 0.118,
+   "Ajaccio": 0.851,
+   "Clermont-Ferrand": 0.383,
+   "Chamonix": 0.47,
+   "Perpignan": 0.759,
+   "Nancy": 0.246
+  },
+  "monthly_scores": [
+   0.5631,
+   0.6769,
+   0.8216,
+   0.8513,
+   0.8465,
+   0.8205,
+   0.7107,
+   0.5451,
+   0.3964,
+   0.5684,
+   0.5912,
+   0.5831
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:40Z"
+}

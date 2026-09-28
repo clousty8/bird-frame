@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Locustella luscinioides",
+ "summary_fr": "La Locustelle luscinioïde est une petite fauvette de 14 à 15 cm au plumage brun teinté de roux sur le dessus et gris beige en dessous, bien adaptée à la vie dans les grandes roselières. Espèce migrante du bassin méditerranéen et du centre-est européen, elle se distingue par son chant mécanique rappelant celui du grillon des roseaux. Elle fréquente les zones humides avec roselières denses, où elle chasse insectes et araignées dans la végétation épaisse. En France, elle n'apparaît que lors des passages migratoires, d'où son statut de migrante de passage. Elle arrive à ses territoires de reproduction entre avril et mai, niche dans les roseaux d'avril à juin, puis regagne ses quartiers d'hiver au Sahel et en Afrique de l'Est à la fin de l'été.",
+ "habitat": "Grandes roselières et marais avec roselières denses, herbiers de marais.",
+ "diet": "Insectes et araignées capturés dans la végétation épaisse.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Sahel, Soudan du Sud et Éthiopie.",
+  "niche": "Roselières d'Europe centrale et du bassin méditerranéen, avril à juin.",
+  "passage": "Mars à mai et août à septembre en France."
+ },
+ "seasonality_fr": "Visible en France uniquement lors des passages migratoires, d'avril à début juin et d'août à septembre.",
+ "song_fr": "Chant mécanique et incessant ressemblant à un grillon des roseaux, parfois précédé d'une série de clics bas. Cantille souvent du sommet des roseaux le bec ouvert.",
+ "lookalikes": [
+  {
+   "scientific_name": "Locustella naevia",
+   "common_name_fr": "Locustelle tachetée",
+   "why_fr": "Très semblable acoustiquement, même chant mécanique incessant en roselière."
+  }
+ ],
+ "rarity_note": "Migrante rare de passage en France, surtout en avril-mai. Absente en hiver et en été.",
+ "fun_facts": [
+  "Son chant mécanique ressemble davantage à un insecte (grillon) qu'à un oiseau, ce qui la rend difficile à identifier à l'oreille.",
+  "Le nom de genre « Locustella » signifie petite sauterelle en latin, en référence directe à la qualité de son chant."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Locustelle_luscinio%C3%AFde",
+  "https://en.wikipedia.org/wiki/Savi's_warbler",
+  "https://www.oiseaux.net"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

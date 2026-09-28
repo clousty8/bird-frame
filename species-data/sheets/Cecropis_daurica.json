@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Cecropis daurica",
+ "summary_fr": "Petite hirondelle caractérisée par ses parties supérieures bleu foncé, sa nuque rousse vif et son ventre orangé, l'Hirondelle striolée est une espèce exotique et rare en France. Longue de 19 centimètres, elle possède une queue profondément fourchue qui rappelle l'Hirondelle rustique. Elle se reconnaît au vol par son cri de contact « pin » et son chant doux et gazouillant. Cette espèce peuple naturellement les régions ouvertes et les zones de falaises en Asie, du sud de la Russie jusqu'aux Philippines, en passant par l'Himalaya et l'Asie du Sud-Est. En Europe, elle ne niche que sporadiquement dans le sud-est français, en Provence et région Côte d'Azur. Elle construit ses nids caractéristiques en forme de bouteille dans des cavités naturelles, sur les ponts et les bâtiments. Elle se nourrit exclusivement d'insectes en vol, chassant bas au-dessus du sol. Ses déplacements saisonniers la rendent très rare en France, où elle n'apparaît qu'occasionnellement en migration de passage, surtout printemps et automne.",
+ "habitat": "Zones ouvertes et collines ; capture d'insectes en vol basse, chasse près du sol et des falaises ; nidification sur ponts, bâtiments et cavités naturelles.",
+ "diet": "Insectes en vol ; chasse en vol de faible hauteur au-dessus du sol ou des falaises.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Hivernage en Asie du Sud-Est et Indonésie selon les populations ; très rare en hiver en France.",
+  "niche": "Très localement dans le sud-est français (Provence, Côte d'Azur) ; reproduction bien plus courante dans le reste de l'Asie, d'avril à juillet.",
+  "passage": "Passages de migration observables en mars-avril et septembre-octobre, surtout dans le sud de la France."
+ },
+ "seasonality_fr": "Visiteur très rare en France ; apparaît principalement au printemps et en automne lors des migrations ; quelques couples nichent sporadiquement dans le sud-est.",
+ "song_fr": "Cri de contact « pin » caractéristique ; alarme « chi-chi-chi » sec et répété ; chant doux et gazouillant moins fluide que celui de l'Hirondelle rustique.",
+ "lookalikes": [
+  {
+   "scientific_name": "Hirundo rustica",
+   "common_name_fr": "Hirondelle rustique",
+   "why_fr": "Tailles et silhouettes similaires en vol ; appels gazouillants et vocalisation de migration pouvant être confondus."
+  },
+  {
+   "scientific_name": "Delichon urbicum",
+   "common_name_fr": "Hirondelle de fenêtre",
+   "why_fr": "Passages migrateurs comparables en France ; certains cris de contact présentent des fréquences acoustiques semblables."
+  }
+ ],
+ "rarity_note": "Très rare en France en tant que nicheur ou hivernant ; apparaît occasionnellement lors des migrations, principalement dans le sud ; max_score BirdNET 0,0984.",
+ "fun_facts": [
+  "Elle construit ses nids en forme de bouteille ou de gourde collés aux plafonds de grottes ou sous les ponts, contrairement à la plupart des autres hirondelles d'Europe.",
+  "Son vol plus lent et ondulant que celui de l'Hirondelle rustique facilite sa reconnaissance au vol, combiné à sa queue profondément fourchue.",
+  "Elle effectue de longues migrations transéquatoriales, se reproduisant en Asie et hivernant en Asie du Sud-Est ou en Afrique selon les populations."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Hirondelle_rousseline",
+  "https://en.wikipedia.org/wiki/Eastern_red-rumped_swallow",
+  "https://www.oiseaux.net",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Galerida cristata",
+ "summary_fr": "Grosse alouette au silhouette trapue, le Cochevis huppé est un oiseau discret des espaces secs et cultivés, notamment du sud de la France. Sa livrée aux teintes terreuses lui assure une excellente homochromie avec les milieux désertiques, steppiques ou poussiéreux qu'il fréquente. Ses 17 à 18 cm de long et sa crête pointue, souvent dressée lors du chant ou de la défense territoriale, le rendent caractéristique des régions méditerranéennes et continentales. Essentiellement granivore, il se nourrit de graines de graminées et, occasionnellement, d'insectes ou de fourmis. Très majoritairement sédentaire en Europe, il construit son nid au sol dans des dépressions naturelles, où il élève généralement deux nichées annuelles d'avril à juillet. Bien que largement répandu en Eurasie et en Afrique du Nord, il a décliné et disparu d'Europe du Nord : Suède (1993), Norvège (1972), Luxembourg (1973), Suisse (1980s).",
+ "habitat": "Espaces ouverts et secs : plaines, dunes, steppes, friches, zones cultivées, parfois proches des habitations. Évite les zones trop urbanisées ou boisées.",
+ "diet": "Principalement granivore : graines de graminées et amaranthacées. Quelques insectes et fourmis en période de reproduction.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "En France métropolitaine, toute l'année, avec concentrations plus fortes en Midi-Pyrénées, Languedoc et sud du Massif Central.",
+  "niche": "Partout en France où l'habitat convient (sud et centre), généralement deux nichées d'avril à juillet.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible et audible toute l'année en France, particulièrement dans le sud et le centre. Plus discret en hiver mais toujours présent.",
+ "song_fr": "Chant liquide et gazouillant, onomatopées whee-whee-wheeoo ou twee-tee-too. Chante souvent en vol à 30-60 m d'altitude, parfois du sol. Cri d'alarme sec et répété.",
+ "lookalikes": [
+  {
+   "scientific_name": "Alauda arvensis",
+   "common_name_fr": "Alouette des champs",
+   "why_fr": "Taille et silhouette similaires ; chant fluide de même tessiture. Se différencie par l'absence de crête pointue et la queue avec bords blancs."
+  },
+  {
+   "scientific_name": "Galerida theklae",
+   "common_name_fr": "Cochevis de Thékla",
+   "why_fr": "Très similaire : même crête et silhouette. Bec plus court et habitats plus rocheux ou montagnards ; song légèrement différent."
+  },
+  {
+   "scientific_name": "Lullula arborea",
+   "common_name_fr": "Alouette lulu",
+   "why_fr": "Crête moins pointue, taille légèrement inférieure. Chant plus flûté avec des changements d'altitude de vol distincts."
+  }
+ ],
+ "rarity_note": "Peu commun et fortement localisé au sud-centre de la France, absent du nord et des régions trop humides. En déclin depuis les années 1980 en Europe.",
+ "fun_facts": [
+  "Saint François d'Assise voyait en lui une figure de fraternité : sa robe terre, son humilité, son contentement d'une graine, et son temps passé à chanter.",
+  "Il a disparu de quatre pays européens (Suède, Norvège, Luxembourg, Suisse) depuis 1972, victime des changements de paysage.",
+  "Le mâle et la femelle chantent tous deux en vol à haute altitude, parfois en duo pour défendre le territoire."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Cochevis_hupp%C3%A9",
+  "https://en.wikipedia.org/wiki/Crested_lark",
+  "https://www.oiseaux.net/oiseaux/cochevis.huppe.html",
+  "https://www.lpo.fr",
+  "https://www.inpn.mnhn.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

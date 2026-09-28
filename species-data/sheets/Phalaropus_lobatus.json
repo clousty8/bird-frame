@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Phalaropus lobatus",
+ "summary_fr": "Minuscule limicole de 18 à 19 cm, le Phalarope à bec étroit est une curiosité ornithologique : c'est la seule femelle qui poursuit et combat ses rivales pour s'approprier un mâle, lequel se charge entièrement de la couvaison et de l'élevage des jeunes. Cette inversion des rôles sexuels en fait un oiseau extraordinaire. Essentiellement arctique, il traverse la France lors de ses migrations, en mars-avril et septembre-octobre. Doté de doigts lobés adapté à la nage, il alimente en créant des petits tourbillons à la surface de l'eau, technique ingénieuse qui remonte les proies du fond. L'hiver, il abandonne les terres pour vivre en pleine mer sur les océans tropicaux, comportement très rare chez un limicole. Son apparition en France reste exceptionnelle.",
+ "habitat": "Lacs et marais arctiques lors de la nidification ; eaux côtières et hauturières pendant la migration et l'hivernage.",
+ "diet": "Petits insectes aquatiques, crustacés et larves d'insectes ; se nourrit essentiellement en nageant et en tournoyant.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Océans tropicaux, loin des terres, notamment au large du Pérou et de l'Équateur.",
+  "niche": null,
+  "passage": "Mars à avril en migration prénuptiale, septembre à octobre en migration postnuptiale."
+ },
+ "seasonality_fr": "Visible uniquement lors de ses passages migratoires au printemps et à l'automne, de manière très irrégulière et imprévisible. Absent en hiver et en été.",
+ "song_fr": "Cri sec et perçant, décrit comme « whit » ou « twit ». Voix aiguë peu mélodieuse, caractéristique de son action quand il se nourrit.",
+ "lookalikes": [
+  {
+   "scientific_name": "Phalaropus fulicarius",
+   "common_name_fr": "Phalarope à bec large",
+   "why_fr": "Autre phalarope, un peu plus gros avec bec plus court et massif ; confusion possible en plumage hivernal."
+  },
+  {
+   "scientific_name": "Calidris canutus",
+   "common_name_fr": "Bécasseau maubèche",
+   "why_fr": "Limicole migrateur similaire en taille et comportement de passage en France."
+  }
+ ],
+ "rarity_note": "Très rare en France, ne s'observe que lors de ses passages migratoires, souvent de manière irrégulière et difficilement prévisible.",
+ "fun_facts": [
+  "Le système reproducteur du Phalarope à bec étroit est renversé : c'est la femelle qui choisit et courtise le mâle, lequel élève seul la couvée.",
+  "Ses doigts lobés, uniques chez les limicoles, ressemblent à ceux des foulques et lui permettent une nage très efficace.",
+  "Cette espèce passe ses hivers en pleine mer tropicale, ce qui est exceptionnel pour un limicole ; un individu marqué en Shetland a voyagé 26 000 km jusqu'au Pérou."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Phalarope_%C3%A0_bec_%C3%A9troit",
+  "https://en.wikipedia.org/wiki/Red-necked_phalarope",
+  "https://www.oiseaux.net/oiseaux/phalaropus.lobatus.html",
+  "https://www.inpn.mnhn.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

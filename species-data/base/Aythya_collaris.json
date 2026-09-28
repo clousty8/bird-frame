@@ -1,0 +1,77 @@
+{
+ "scientific_name": "Aythya collaris",
+ "common_name_fr": "Fuligule à collier",
+ "birdnet_label": "Aythya collaris_Fuligule à collier",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Aythya",
+  "species": "Aythya collaris"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fuligule à collier",
+   "url": "https://fr.wikipedia.org/wiki/Fuligule_%C3%A0_collier",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Fuligule à collier, également appelé Fuligule à bec cerclé, Morillon à bec cerclé ou Morillon à collier, est une espèce de petits canards plongeurs de la famille des Anatidae. Selon la classification de référence du Congrès ornithologique international (version 15.1, 2025), c'est une espèce monotypique.",
+   "fulltext_chars": 2395
+  },
+  "en": {
+   "title": "Ring-necked duck",
+   "url": "https://en.wikipedia.org/wiki/Ring-necked_duck",
+   "description": "Species of bird",
+   "extract": "The ring-necked duck is a diving duck from North America commonly found in freshwater ponds and lakes. The scientific name is derived from Greek aithuia, an unidentified seabird mentioned by authors including Hesychius and Aristotle, and Latin collaris, \"of the neck\" from collum, \"neck\".",
+   "fulltext_chars": 3434
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ring-necked_Duck_%28m%29_%2826265137481%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3398,
+  "height": 2269,
+  "file": "Ring-necked_Duck_(m)_(26265137481).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ring-necked_Duck_%28m%29_%2826265137481%29.jpg/1920px-Ring-necked_Duck_%28m%29_%2826265137481%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Becky Matsubara from El Sobrante, California",
+  "credit": "Ring-necked Duck (m)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Ring-necked_Duck_(m)_(26265137481).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.039,
+  "cities": {
+   "Le Mans": 0.027,
+   "Pornic": 0.039,
+   "Rennes": 0.03,
+   "Poitiers": 0.031,
+   "Paris": 0.016,
+   "Lyon": 0.012,
+   "Toulouse": 0.01,
+   "Bordeaux": 0.032,
+   "Brest": 0.034,
+   "Clermont-Ferrand": 0.02,
+   "Nancy": 0.01
+  },
+  "monthly_scores": [
+   0.039,
+   0.0343,
+   0.0268,
+   0.0115,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0312,
+   0.0384,
+   0.039
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:03Z"
+}

@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Caprimulgus europaeus",
+ "summary_fr": "L'Engoulevent d'Europe est un oiseau nocturne de la famille des Caprimulgidae, niché dans les habitats secs et ouverts d'Europe. Il possède un plumage très cryptique mêlant gris, beige et brun, qui le rend quasi invisible au repos sur le sol ou une branche. Les mâles affichent en vol des taches blanches distinctes aux ailes et à la queue, contrairement aux femelles. Insectivore aérien, il chasse à vue en saisissant les insectes en vol, muni d'yeux surdimensionnés avec une couche réfléchissante qui améliore sa vision nocturne. Migrateur strict, il reproduit en Europe au printemps et à l'été, puis hiverne en Afrique subsaharienne. Son chant caractéristique est un ronronnement roulé et continu, audible à plusieurs centaines de mètres et souvent émis la nuit pendant des heures.",
+ "habitat": "Zones ouvertes et sèches avec quelques arbres et petits buissons : landes, brandes, pâturages, clairières forestières et jeunes plantations.",
+ "diet": "Insectes volants variés : papillons de nuit, coléoptères, mouches, libellules, mantes et autres arthropodes ; occasionnellement des grillons ou vers luisants capturés au sol.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne, principalement en Afrique de l'Est et du Sud-Est ; rarement au Pakistan, Maroc ou Israël.",
+  "niche": "Europe septentrionale jusqu'au 64e parallèle et Asie centrale ; en France, reproduction de fin mai à août, en habitats ouverts et secs.",
+  "passage": "Migration nocturne d'août à septembre (automne) ; retour fin avril à mai (printemps)."
+ },
+ "seasonality_fr": "Présent en France de mai à septembre environ, période de reproduction et de transit migratoire. Absent en hiver, l'espèce quittant complètement l'Europe tempérée pour l'Afrique.",
+ "song_fr": "Chant mâle caractéristique : ronronnement soutenu et stridulant émis de façon continue pendant plusieurs minutes, modulé en vitesse et tonalité. Cris d'alarme et contact : cuick aigu, krruit coassant ; claquement d'ailes audible en vol.",
+ "lookalikes": [
+  {
+   "scientific_name": "Caprimulgus ruficollis",
+   "common_name_fr": "Engoulevent à collier roux",
+   "why_fr": "Sympatrique en Afrique du Nord ; plus gris et plus grand, avec collier chamois plus visible et marques blanches plus étendues sur les ailes du mâle."
+  },
+  {
+   "scientific_name": "Caprimulgus fraenatus",
+   "common_name_fr": "Engoulevent sombre",
+   "why_fr": "Espèce d'Afrique pouvant chevaucher l'hivernage de C. europaeus ; plus sombre, collier chamois plus visible et couvertures alaires plus tachées."
+  }
+ ],
+ "rarity_note": "Peu commun en France, strictement migrateur et nicheur limité aux zones favorables. Score BirdNET France 0,11 reflète une présence saisonnière concentrée sur quelques semaines.",
+ "fun_facts": [
+  "Le nom Caprimulgus vient d'un vieux mythe selon lequel les engoulevents traient les chèvres, superstition sans fondement.",
+  "Ses yeux munis d'un tapetum lucidum brillent comme des rubis sous la lampe de poche, améliorant sa vision nocturne équivalente à celle des chouettes.",
+  "En migration, son activité est régie par le cycle lunaire : il mange deux fois plus les nuits de pleine lune et migre parfois à 100 % lors de ces périodes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Engoulevent_d'Europe",
+  "https://en.wikipedia.org/wiki/European_nightjar",
+  "https://www.oiseaux.net/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

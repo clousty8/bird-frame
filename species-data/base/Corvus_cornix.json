@@ -1,0 +1,95 @@
+{
+ "scientific_name": "Corvus cornix",
+ "common_name_fr": "Corneille mantelée",
+ "birdnet_label": "Corvus cornix_Corneille mantelée",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Corvidae",
+  "family_common": "Crows, Jays, and Magpies",
+  "genus": "Corvus",
+  "species": "Corvus cornix"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Corneille mantelée",
+   "url": "https://fr.wikipedia.org/wiki/Corneille_mantel%C3%A9e",
+   "description": "espèce d'oiseaux passériformes de la famille des corvidae",
+   "extract": "La Corneille mantelée aussi appelé corbeau pigeon est une espèce d'oiseaux appartenant à la famille des corvidés. Largement diffusée, on la rencontre dans le nord, l'est et le sud de l'Europe, ainsi que dans certaines parties du Moyen-Orient. C'est un oiseau gris cendré à tête, gorge, ailes, queue et plumes des pattes noires, ainsi que le bec, les yeux et les pieds. Comme d'autres corvidés, c'est un oiseau omnivore et opportuniste.",
+   "fulltext_chars": 18152
+  },
+  "en": {
+   "title": "Hooded crow",
+   "url": "https://en.wikipedia.org/wiki/Hooded_crow",
+   "description": "Species of bird",
+   "extract": "The hooded crow, also colloquially called just hoodie, is a Eurasian bird subspecies of the carrion crow in the genus Corvus. Widely distributed, it is found across Northern, Eastern, and Southeastern Europe, as well as parts of the Middle East. It is an ashy-grey bird with black head, throat, wings, tail, and thigh feathers, as well as a black bill, eyes, and feet. Like other corvids, it is an omnivorous and opportunistic forager and feeder.",
+   "fulltext_chars": 11995
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/56/Wrona_siwa_na_drzewie_w_Krakowie%2C_20260321_1652_5025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1228,
+  "height": 1847,
+  "file": "Wrona_siwa_na_drzewie_w_Krakowie,_20260321_1652_5025.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/5/56/Wrona_siwa_na_drzewie_w_Krakowie%2C_20260321_1652_5025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Jakub Hałun",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Wrona_siwa_na_drzewie_w_Krakowie,_20260321_1652_5025.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9576,
+  "cities": {
+   "Le Mans": 0.028,
+   "Pornic": 0.096,
+   "Rennes": 0.088,
+   "Poitiers": 0.037,
+   "Paris": 0.014,
+   "Lille": 0.015,
+   "Strasbourg": 0.016,
+   "Lyon": 0.042,
+   "Grenoble": 0.127,
+   "Marseille": 0.118,
+   "Brest": 0.382,
+   "Ajaccio": 0.958,
+   "Clermont-Ferrand": 0.018,
+   "Chamonix": 0.137,
+   "Perpignan": 0.013,
+   "Nancy": 0.012
+  },
+  "monthly_scores": [
+   0.8077,
+   0.8676,
+   0.9011,
+   0.9234,
+   0.9429,
+   0.9428,
+   0.9379,
+   0.9576,
+   0.9462,
+   0.9103,
+   0.813,
+   0.793
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:21Z"
+}

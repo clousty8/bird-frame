@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Psittacula krameri",
+ "common_name_fr": "Perruche à collier",
+ "birdnet_label": "Psittacula krameri_Perruche à collier",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Psittaciformes",
+  "family": "Psittaculidae",
+  "family_common": "Old World Parrots",
+  "genus": "Psittacula",
+  "species": "Psittacula krameri"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Perruche à collier",
+   "url": "https://fr.wikipedia.org/wiki/Perruche_%C3%A0_collier",
+   "description": "espèce d'oiseaux",
+   "extract": "La Perruche à collier est une espèce de grandes perruches originaire d'Asie et d'Afrique et aujourd'hui naturalisée en Europe de l'Ouest.",
+   "fulltext_chars": 16007
+  },
+  "en": {
+   "title": "Rose-ringed parakeet",
+   "url": "https://en.wikipedia.org/wiki/Rose-ringed_parakeet",
+   "description": "Species of bird",
+   "extract": "The rose-ringed parakeet, also known as the ring-necked parakeet, or colloquially as the Indian Ringneck, is a medium-sized parrot in the genus Psittacula, of the family Psittaculidae. It has a disjunct native range in tropical northern Africa and the Indian subcontinent, and is now introduced into many other parts of the world where populations have established themselves having been bred for the exotic pet trade and then escaped.",
+   "fulltext_chars": 16612
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/70/Rose-ringed_Parakeets_%28Male_%26_Female%29-_During_Foreplay_at_Hodal_I_Picture_0034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 645,
+  "height": 600,
+  "file": "Rose-ringed_Parakeets_(Male_&_Female)-_During_Foreplay_at_Hodal_I_Picture_0034.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/7/70/Rose-ringed_Parakeets_%28Male_%26_Female%29-_During_Foreplay_at_Hodal_I_Picture_0034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "J.M.Garg",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Rose-ringed_Parakeets_(Male_%26_Female)-_During_Foreplay_at_Hodal_I_Picture_0034.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3141,
+  "cities": {
+   "Le Mans": 0.142,
+   "Pornic": 0.095,
+   "Rennes": 0.088,
+   "Poitiers": 0.125,
+   "Paris": 0.188,
+   "Lille": 0.197,
+   "Strasbourg": 0.078,
+   "Lyon": 0.088,
+   "Grenoble": 0.098,
+   "Marseille": 0.138,
+   "Toulouse": 0.087,
+   "Bordeaux": 0.081,
+   "Brest": 0.035,
+   "Ajaccio": 0.314,
+   "Clermont-Ferrand": 0.102,
+   "Chamonix": 0.068,
+   "Perpignan": 0.105,
+   "Nancy": 0.11
+  },
+  "monthly_scores": [
+   0.2982,
+   0.3141,
+   0.2385,
+   0.143,
+   0.1228,
+   0.1433,
+   0.171,
+   0.1747,
+   0.132,
+   0.2146,
+   0.2953,
+   0.2991
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:38Z"
+}

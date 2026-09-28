@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Chlidonias niger",
+ "common_name_fr": "Guifette noire",
+ "birdnet_label": "Chlidonias niger_Guifette noire",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Chlidonias",
+  "species": "Chlidonias niger"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Guifette noire",
+   "url": "https://fr.wikipedia.org/wiki/Guifette_noire",
+   "description": "espèce d'oiseaux",
+   "extract": "La Guifette noire, aussi nommée, surtout au Canada, Sterne noire, est une espèce d'oiseaux Charadriiformes de la famille des Laridae.",
+   "fulltext_chars": 5081
+  },
+  "en": {
+   "title": "Black tern",
+   "url": "https://en.wikipedia.org/wiki/Black_tern",
+   "description": "Species of bird",
+   "extract": "The black tern is a small tern generally found in or near inland water that breeds in Europe, Western Asia and North America. In winter the birds migrate to coastal areas of Africa and South America.",
+   "fulltext_chars": 0
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Chlidonias_niger_GNP_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2922,
+  "height": 2922,
+  "file": "Chlidonias_niger_GNP_02.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Chlidonias_niger_GNP_02.jpg/1920px-Chlidonias_niger_GNP_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Cephas",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Chlidonias_niger_GNP_02.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0928,
+  "cities": {
+   "Le Mans": 0.036,
+   "Pornic": 0.018,
+   "Rennes": 0.019,
+   "Poitiers": 0.029,
+   "Paris": 0.046,
+   "Lille": 0.045,
+   "Strasbourg": 0.037,
+   "Lyon": 0.028,
+   "Grenoble": 0.029,
+   "Marseille": 0.036,
+   "Toulouse": 0.023,
+   "Bordeaux": 0.018,
+   "Ajaccio": 0.093,
+   "Clermont-Ferrand": 0.027,
+   "Chamonix": 0.026,
+   "Perpignan": 0.031,
+   "Nancy": 0.04
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0319,
+   0.0894,
+   0.0928,
+   0.0794,
+   0.0787,
+   0.0858,
+   0.0558,
+   0.0207,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:18Z"
+}

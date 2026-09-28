@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Milvus migrans",
+ "common_name_fr": "Milan noir",
+ "birdnet_label": "Milvus migrans_Milan noir",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Milvus",
+  "species": "Milvus migrans"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Milan noir",
+   "url": "https://fr.wikipedia.org/wiki/Milan_noir",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Milan noir est une espèce répandue de rapaces appartenant à la famille des Accipitridae.",
+   "fulltext_chars": 10420
+  },
+  "en": {
+   "title": "Black kite",
+   "url": "https://en.wikipedia.org/wiki/Black_kite",
+   "description": "Species of bird",
+   "extract": "The black kite or fire kite is a medium-sized bird of prey in the family Accipitridae, which also includes many other diurnal raptors. It is thought to be the world's most abundant species of Accipitridae, although some populations have experienced dramatic declines or fluctuations. Current global population estimates run up to 6.7 million individuals.",
+   "fulltext_chars": 13914
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Milvus_migrans_front%28ThKraft%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 600,
+  "file": "Milvus_migrans_front(ThKraft).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Milvus_migrans_front%28ThKraft%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Thomas Kraft (ThKraft)",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_front(ThKraft).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.7068,
+  "cities": {
+   "Le Mans": 0.293,
+   "Pornic": 0.28,
+   "Rennes": 0.18,
+   "Poitiers": 0.486,
+   "Paris": 0.267,
+   "Lille": 0.11,
+   "Strasbourg": 0.434,
+   "Lyon": 0.662,
+   "Grenoble": 0.559,
+   "Marseille": 0.366,
+   "Toulouse": 0.7,
+   "Bordeaux": 0.707,
+   "Brest": 0.07,
+   "Ajaccio": 0.241,
+   "Clermont-Ferrand": 0.689,
+   "Chamonix": 0.502,
+   "Perpignan": 0.478,
+   "Nancy": 0.366
+  },
+  "monthly_scores": [
+   0.0932,
+   0.1592,
+   0.6069,
+   0.7068,
+   0.7063,
+   0.6884,
+   0.5544,
+   0.3393,
+   0.142,
+   0.1218,
+   0.1005,
+   0.0846
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:44Z"
+}

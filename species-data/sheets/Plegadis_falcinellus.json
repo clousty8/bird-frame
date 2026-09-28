@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Plegadis falcinellus",
+ "summary_fr": "L'Ibis falcinelle est un échassier élancé au long bec incurvé en forme de faucille, d'où son nom scientifique évoquant cet instrument tranchant. Son plumage brun-roux s'irise de vert bouteille et de violet selon l'angle de la lumière en période nuptiale, tandis que les jeunes arborent une livrée plus terne, tachetée de blanc sur la tête et le cou. Originaire d'Afrique et d'Asie, cet oiseau grégaire niche en colonies mixtes aux côtés des hérons, spatules et cormorans, perché au-dessus de l'eau dans les roseaux ou les arbustes des zones humides. Longtemps absent de France, il y mène depuis les années 1990 une expansion remarquable, favorisée par sa protection légale et le réchauffement climatique : des colonies reproductrices se sont installées en Camargue et sur d'autres sites du littoral, tandis que des hivernants et des individus de passage se rencontrent désormais toute l'année dans le pays. Nomade par nature, il continue de gagner du terrain vers le nord de l'Europe, avec par exemple une première nidification réussie enregistrée en Angleterre en 2022. En vol, il tend le cou, contrairement aux hérons qui le replient, et forme souvent des files en V caractéristiques lors de ses déplacements entre zones humides.",
+ "habitat": "Zones humides d'eau peu profonde : marais à roseaux, étangs à végétation dense émergente, deltas fluviaux, lagunes côtières, champs irrigués et abords de lacs, avec arbres ou arbustes à proximité pour le repos et la nidification.",
+ "diet": "Invertébrés aquatiques (coléoptères, libellules, demoiselles, crustacés), mollusques et vers ; occasionnellement petits poissons, amphibiens et lézards, capturés en sondant ou filtrant l'eau peu profonde.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Sur le pourtour méditerranéen français (Camargue notamment), où l'hivernage devient régulier depuis les années 2010 ; le gros des populations européennes hiverne en Afrique subsaharienne et au Sahel.",
+  "niche": "Depuis les années 1990 en Camargue et sur d'autres sites du littoral atlantique et méditerranéen, en colonies mixtes avec hérons et spatules ; aire de nidification française et européenne en expansion continue.",
+  "passage": "Passages marqués au printemps et à l'automne sur l'ensemble du territoire, en dehors des noyaux de nidification et d'hivernage."
+ },
+ "seasonality_fr": "Présent en France toute l'année grâce à l'expansion récente des populations nicheuses et hivernantes, avec des effectifs renforcés lors des passages de printemps et d'automne.",
+ "song_fr": "Espèce peu vocale hors reproduction ; en colonie, on entend des croassements rauques, des grognements sourds et un cri caractéristique en « grrrr », souvent amplifiés en choeur.",
+ "lookalikes": [
+  {
+   "scientific_name": "Platalea leucorodia",
+   "common_name_fr": "Spatule blanche",
+   "why_fr": "Niche en colonies mixtes dans les mêmes zones humides ; appels plus aigus mais confusion possible à distance."
+  },
+  {
+   "scientific_name": "Bubulcus ibis",
+   "common_name_fr": "Héron garde-boeufs",
+   "why_fr": "Autre échassier de colonie mixte, croassements similaires mais de tonalité plus légère."
+  },
+  {
+   "scientific_name": "Ardea cinerea",
+   "common_name_fr": "Héron cendré",
+   "why_fr": "Grande taille et zones humides partagées ; croassements graves proches en colonie nuptiale."
+  }
+ ],
+ "rarity_note": "Peu fréquent en France (score de zone BirdNET autour de 0,10, plus élevé en Méditerranée), mais en expansion continue depuis la recolonisation entamée dans les années 1990.",
+ "fun_facts": [
+  "Après plus de deux siècles d'absence, un couple a réussi sa première nidification en Angleterre en 2022, signe de son expansion vers le nord de l'Europe.",
+  "Il vole toujours le cou tendu, contrairement aux hérons qui le replient, et forme souvent des vols en V lors de ses déplacements.",
+  "Originaire de l'Ancien Monde, il a colonisé naturellement l'Amérique du Nord au XIXe siècle en traversant l'Atlantique jusqu'aux Caraïbes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Ibis_falcinelle",
+  "https://en.wikipedia.org/wiki/Glossy_ibis",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

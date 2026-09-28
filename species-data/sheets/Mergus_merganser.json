@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "scientific_name": "Mergus merganser",
+  "summary_fr": "Le Grand Harle est un grand canard piscivore de la famille des Anatidae. Avec ses 58 à 75 cm de long, il dépasse en taille le Canard colvert. Le mâle se reconnaît à sa tête vert foncé, son bec rouge long et pointu, et ses parties blanches contrastées avec le dos noir. La femelle et les jeunes sont plus ternes, avec une tête brun-roux. Excellent plongeur, le Grand Harle chasse les petits poissons dont il perce les flancs grâce à son bec à bords denticulés caractéristique, surnommé « bec-scie ». Migrateur partiel en France, il fréquente les grands lacs, les rivières larges et les zones côtières d'eau douce. Son déclin observé en France depuis le XIXe siècle contraste avec la colonisation du sud dans les Alpes.",
+  "habitat": "Rivières et lacs d'eau douce, estuaires et côtes en hiver. Niche dans les cavités d'arbres creux, près des plans d'eau clairs ; parfois en falaises ou talus abrupts.",
+  "diet": "Poissons prédominants (truite, saumon, anguille, brème, carpe), généralement de moins de 10 cm ; également petits crustacés, mollusques et larves aquatiques.",
+  "activity_pattern": "diurne",
+  "migration": {
+    "statut": "migrateur partiel",
+    "hiverne": "Principalement sur les fleuves et lacs d'Europe du Nord et centrale (Suisse, Danemark, Allemagne, Benelux). Quelques oiseaux hivernent aussi en France sur la Seine, Loire, Doubs et Rhin.",
+    "niche": "Scandinavie, Russie du Nord, forêts boréales ; nichée rare en France (Lac Léman, Lac d'Annecy, vallée de l'Ain). Ponte avril-mai, incubation 28-35 jours.",
+    "passage": "Mouvements migratoires en mars et octobre-novembre ; présent principalement d'octobre à avril en France."
+  },
+  "seasonality_fr": "Hivernant régulier d'octobre à avril ; très rare en été. Concentrations maximales décembre-février sur les lacs du quart nord-est de la France.",
+  "song_fr": "Cri grave et rauque en vol ; gloussements rauques communautaires. Mâle produit un sifflement doux et plaintif en période de reproduction. Moins vocal que autres harles.",
+  "lookalikes": [
+    {"scientific_name": "Mergus serrator", "common_name_fr": "Harle huppé", "why_fr": "Silhouette et mœurs similaires ; le mâle a aussi la tête vert foncé mais avec une huppe marquée."},
+    {"scientific_name": "Mergellus albellus", "common_name_fr": "Harle piette", "why_fr": "Plus petit, mais même profil écologique ; confusion possible à distance."}
+  ],
+  "rarity_note": "Peu commun en France (max_score 0.31 sur la zone BirdNET). Hivernant régulier mais localisé au nord et à l'est. Très rare en été. Absent de Pornic et du Mans hors passage hivernal.",
+  "fun_facts": [
+    "Son bec dentelé unique, le « bec-scie », agit comme une pince parfaite pour saisir les poissons glissants.",
+    "Le mâle migre deux fois : une première fois avec femelles et jeunes, puis à nouveau vers les estuaires nordiques en juin pour la mue estivale."
+  ],
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Harle_bi%C3%A8vre",
+    "https://en.wikipedia.org/wiki/Common_merganser",
+    "https://www.oiseaux.net/oiseaux/harle.bievre.html"
+  ],
+  "generated_at": "2026-09-27T17:00:00Z",
+  "generator_model": "claude-haiku-4-5"
+}

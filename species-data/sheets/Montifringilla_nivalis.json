@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Montifringilla nivalis",
+ "summary_fr": "La Niverolle alpine est un petit passereau robuste vivant en altitude élevée dans les massifs montagneux du Paléarctique. Elle compte parmi les oiseaux nicheurs les plus hauts du monde, s'adaptant exceptionnellement aux conditions glaciales des étages alpins au-delà de 2000 mètres. Malgré son nom qui évoque le pinson, elle est en réalité proche des moineaux, dont elle se distingue par des traits comportementaux et une taille légèrement supérieure. Espèce relictuelle considérée comme un vestige de l'ère glaciaire, elle aurait survécu depuis la dernière déglaciation en se réfugiant en montagne. Sa remarquable résistance au froid, exceptionnelle parmi les oiseaux européens, lui permet de supporter des embryons se développant à température plus basse. Son plumage très contrasté, blanc et noir, cache un remarquable camouflage sur les pelouses alpines. Elle est extrêmement confiante envers l'homme et fréquente volontiers les stations de ski où elle recherche la nourriture laissée par les randonneurs.",
+ "habitat": "Étage alpin au-dessus de 2000 mètres : pelouses alpines, zones rocheuses, éboulis et névés. Évite la forêt et ne descend en plaine que rarement lors des migrations.",
+ "diet": "Principalement des graines de plantes alpines trouvées au sol, chardons, petits fruits et jeunes pousses. En hiver et pour l'élevage des jeunes : invertébrés (coléoptères, sauterelles, tipules, criquets).",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Principalement les massifs montagneux du sud de l'Europe (Pyrénées, Alpes méridionales). Une partie de la population des Alpes reste en altitude toute l'année.",
+  "niche": "Partout en France dans les massifs de haute altitude (Alpes, Pyrénées, Corse). La reproduction a lieu en général vers 2000 mètres, parfois jusqu'à 3480 mètres.",
+  "passage": "Passages migratoires en octobre-novembre vers le sud, et retours dès mi-janvier jusqu'à fin avril, surtout en début avril."
+ },
+ "seasonality_fr": "Présente toute l'année en montagne. Les populations alpines sont en partie sédentaires. Visibles en hiver dans les stations de ski où elles se nourrissent près des villages.",
+ "song_fr": "Chant varié avec des trilles et des roulades. Cris d'alarme secs et répétés en vol groupé. Assez discrets en comparaison des autres passereaux.",
+ "lookalikes": [
+  {
+   "scientific_name": "Plectrophenax nivalis",
+   "common_name_fr": "Plectrophane des neiges",
+   "why_fr": "Confusion possible en hiver en montagne : ressemblance en plumage blanc et noir, mais le Plectrophane est circumpolaire et plus septentrional."
+  }
+ ],
+ "rarity_note": "Très localisée en France : endémique des plus hauts massifs. Rare et irremplaçable en montagne, commune seulement au-dessus de 2300 mètres en Alpes et Pyrénées.",
+ "fun_facts": [
+  "Les embryons de niverolle se développent à une température plus basse que les autres oiseaux, et les poussins naissent couverts de duvet alors que les oisillons des moineaux naissent nus.",
+  "Elle suit les randonneurs et les skieurs pour profiter des graines et miettes de nourriture. Elle est si confiante qu'elle picore sur les terrasses des restaurants de montagne.",
+  "Espèce relictuelle : vestige de l'ère glaciaire qui a survécu en se réfugiant en altitude, tout comme l'Oreillard montagnard."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Niverolle_alpine",
+  "https://en.wikipedia.org/wiki/White-winged_snowfinch",
+  "https://www.oiseaux.net/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

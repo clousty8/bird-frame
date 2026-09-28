@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Asio flammeus",
+ "summary_fr": "Le Hibou des marais, aussi appelé Hibou brachyote, est un rapace nocturne et crépusculaire de taille moyenne qui fréquente les milieux ouverts. Doté de courtes aigrettes peu visibles et d'yeux jaunes cerclés de noir qui lui donnent un regard caractéristique, ce hibou se distingue par un vol léger et irrégulier au ras du sol. Spécialiste des terrains découverts, prairies humides et tourbières, il chasse principalement les campagnols des champs qui composent 90 % de son alimentation. En France, c'est un migrateur strictement saisonnier : les populations du Nord rejoignent l'Afrique du Nord et l'Afrique de l'Ouest à l'automne, tandis que quelques individus hivernent irrégulièrement. Répandu sur tous les continents sauf l'Antarctique et l'Australie, ce hibou a vu sa population décliner dramatiquement au cours des dernières décennies en raison de la destruction des zones humides.",
+ "habitat": "Terrains découverts, prairies humides, plaines, landes, tourbières et endroits boueux. Préfère les milieux ouverts sans arborisation dense.",
+ "diet": "Campagnols des champs (90 %), autres petits rongeurs (rats, souris, lapins, musaraignes), exceptionnellement oiseaux, chauve-souris, lézards et insectes.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique du Nord (Algérie, Maroc, Tunisie) et Afrique de l'Ouest ; quelques individus hivernent irrégulièrement en France.",
+  "niche": "Partout en France en zone de steppe et prairies, d'avril à juillet ; plus fréquent dans le nord et l'ouest.",
+  "passage": "Passages visibles en mars-avril (printemps) et août-octobre (automne) ; migrations marquées vers des zones de refuge hivernal."
+ },
+ "seasonality_fr": "Visible surtout d'avril à octobre en France, avec des passages marqués au printemps et automne. Hivernage rare et irrégulier. Silencieux en zones d'hivernage.",
+ "song_fr": "Appel rauque et aboyant caractéristique : « waowk waowk » ou « toot-toot-toot » répétés. Cri perçant « eeee-yerp » entendu en période de reproduction. Généralement silencieux hors période de nidification.",
+ "lookalikes": [
+  {
+   "scientific_name": "Asio otus",
+   "common_name_fr": "Hibou moyen-duc",
+   "why_fr": "Taille comparable et distribution similaire en Europe. Le Hibou moyen-duc a des aigrettes plus longues et visibles, et un iris orange au lieu de jaune. Confusion possible à l'observation en vol."
+  }
+ ],
+ "rarity_note": "Peu commun à rare en France, avec une population estimée entre 40 et 120 couples nicheurs. Présence très inégale selon les régions et les années, tributaire de l'abondance des campagnols.",
+ "fun_facts": [
+  "Son plumage rayé brun et fauve le camoufle parfaitement avec l'écorce des arbres et les herbes sèches.",
+  "Pendant l'élevage des jeunes, le mâle accumule les proies apportées à la femelle et aux oisillons ; il peut voyager plusieurs kilomètres pour les chasser.",
+  "L'une des rares espèces de hibou avec une répartition quasi mondiale, présente sur tous les continents sauf l'Antarctique et l'Australie."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Hibou_des_marais",
+  "https://en.wikipedia.org/wiki/Short-eared_owl",
+  "https://www.oiseaux.net/oiseaux/hibou.des.marais.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4128"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

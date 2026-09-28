@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Podiceps nigricollis",
+ "common_name_fr": "Grèbe à cou noir",
+ "birdnet_label": "Podiceps nigricollis_Grèbe à cou noir",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Podicipediformes",
+  "family": "Podicipedidae",
+  "family_common": "Grebes",
+  "genus": "Podiceps",
+  "species": "Podiceps nigricollis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grèbe à cou noir",
+   "url": "https://fr.wikipedia.org/wiki/Gr%C3%A8be_%C3%A0_cou_noir",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Grèbe à cou noir est une espèce d'oiseaux de la famille des Podicipedidae. C'est le plus sociable de tous les grèbes, mais aussi celui dont la population mondiale est la plus nombreuse.",
+   "fulltext_chars": 12440
+  },
+  "en": {
+   "title": "Black-necked grebe",
+   "url": "https://en.wikipedia.org/wiki/Black-necked_grebe",
+   "description": "Water bird from parts of Africa, Eurasia, and the Americas",
+   "extract": "The black-necked grebe or eared grebe is a member of the grebe family of water birds. It was described in 1831 by Christian Ludwig Brehm. Its breeding plumage features distinctive ochre-coloured feathers which extend behind its eye and over its ear coverts. The rest of the upper parts, including the head, neck, and breast, are coloured black to blackish brown. The flanks are tawny rufous to maroon-chestnut, and the abdomen is white. In its non-breeding plumage, this bird has greyish-black upper parts, including the top of the head and a vertical stripe on the back of the neck. The flanks are also greyish-black. The rest of the body is a white or whitish colour. The juvenile has more brown in its darker areas. This species is present in parts of Africa, Eurasia, and the Americas.",
+   "fulltext_chars": 20392
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/10/Black-necked_Grebe_Schwarzhalstaucher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2866,
+  "height": 1911,
+  "file": "Black-necked_Grebe_Schwarzhalstaucher.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Black-necked_Grebe_Schwarzhalstaucher.jpg/1920px-Black-necked_Grebe_Schwarzhalstaucher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Black-necked_Grebe_Schwarzhalstaucher.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3607,
+  "cities": {
+   "Le Mans": 0.119,
+   "Pornic": 0.103,
+   "Rennes": 0.097,
+   "Poitiers": 0.123,
+   "Paris": 0.09,
+   "Lille": 0.068,
+   "Strasbourg": 0.04,
+   "Lyon": 0.099,
+   "Grenoble": 0.114,
+   "Marseille": 0.146,
+   "Toulouse": 0.114,
+   "Bordeaux": 0.123,
+   "Brest": 0.053,
+   "Ajaccio": 0.361,
+   "Clermont-Ferrand": 0.102,
+   "Chamonix": 0.095,
+   "Perpignan": 0.121,
+   "Nancy": 0.05
+  },
+  "monthly_scores": [
+   0.3607,
+   0.3353,
+   0.2326,
+   0.1072,
+   0.063,
+   0.0745,
+   0.1025,
+   0.1063,
+   0.0889,
+   0.1817,
+   0.3368,
+   0.3589
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:35Z"
+}

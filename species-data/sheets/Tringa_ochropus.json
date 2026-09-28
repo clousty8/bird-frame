@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Tringa ochropus",
+ "summary_fr": "Le Chevalier cul-blanc est un limicole migrateur au plumage élégant et discret. Long de 20 à 24 cm, il se distingue par son croupion blanc caractéristique et ses pattes d'un vert grisâtre. Contrairement à la plupart des Chevaliers qui affectionnent les zones ouvertes, le Cul-blanc est un oiseau de fraîcheur qui fréquente les petits plans d'eau, les mares, les fossés et même les jardins inondés, restant souvent dissimulé dans les zones boisées ou semi-boisées. Nicheur en Eurasie du Nord, il traverse la France aux périodes migratoires, particulièrement en automne et au printemps. C'est un oiseau solitaire ou en petit groupe, qui court légèrement sur le sol avant de s'envoler avec son cri caractéristique, un sifflement cristallin à trois notes. En vol, son rump blanc contraste fortement avec le reste du plumage, signature facile à retenir.",
+ "habitat": "Petits plans d'eau, étangs, mares, fossés, tourbières et prairies humides, particulièrement ceux bordés de buissons ou entourés de bois. Évite les grandes étendues d'eau dégagées.",
+ "diet": "Petits invertébrés aquatiques : vers, insectes, larves et crustacés, picorés sur la vase en bordure d'eau.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Principalement en Europe du Sud, Méditerranée, Afrique de l'Ouest et tropicale ; quelques individus hivernent en France méridionale.",
+  "niche": "Ne niche pas en France ; population nicheuse eurasiatique (nord-est du continent).",
+  "passage": "Passages marqués en mars-avril et août-septembre ; présent irrégulièrement en France toute l'année."
+ },
+ "seasonality_fr": "Visible surtout en migration (printemps et automne) ; hivernage faible et dispersé en France. Plus commun aux passages qu'en établissement pérenne.",
+ "song_fr": "Sifflement caractéristique à trois notes claires et cristallines en vol. Cris divers : « tchip » sec lors de l'envol, notes fluides en dehors des périodes de nidification.",
+ "lookalikes": [
+  {
+   "scientific_name": "Actitis hypoleucos",
+   "common_name_fr": "Chevalier guignette",
+   "why_fr": "Taille et habitat similaires, mais le Guignette est plus petit, avec une poitrine moins striée et pas de rump blanc marqué."
+  },
+  {
+   "scientific_name": "Tringa glareola",
+   "common_name_fr": "Chevalier sylvain",
+   "why_fr": "Plumage sombre comparable, mais le Sylvain a les pattes jaunes (non vertes) et un rump moins blanc."
+  },
+  {
+   "scientific_name": "Tringa totanus",
+   "common_name_fr": "Chevalier gambette",
+   "why_fr": "Plus grand, avec des pattes rouges (non vertes) ; cris plus agressifs et sonores que le Cul-blanc."
+  }
+ ],
+ "rarity_note": "Régulier en France aux passages migratoires, peu commun en hivernage, absent de nidification. Détection possible mais non garantie.",
+ "fun_facts": [
+  "Son nom français « Cul-blanc » vient de son croupion blanc éclatant, très visible en vol et clé d'identification.",
+  "Contrairement à la plupart des Chevaliers, il affectionne les petits plans d'eau boisés plutôt que les vastes étendues côtières.",
+  "Il niche en nombre limité dans les arbres creux ou les anciens nids d'autres oiseaux, stratégie rare chez les limicoles."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Chevalier_cul-blanc",
+  "https://en.wikipedia.org/wiki/Green_sandpiper",
+  "https://www.oiseaux.net/chirps/greensand.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

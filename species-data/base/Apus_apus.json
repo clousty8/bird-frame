@@ -1,0 +1,94 @@
+{
+ "scientific_name": "Apus apus",
+ "common_name_fr": "Martinet noir",
+ "birdnet_label": "Apus apus_Martinet noir",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Apodiformes",
+  "family": "Apodidae",
+  "family_common": "Swifts",
+  "genus": "Apus",
+  "species": "Apus apus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Martinet noir",
+   "url": "https://fr.wikipedia.org/wiki/Martinet_noir",
+   "description": "espèce d'oiseaux apodiformes de la famille des apodidae",
+   "extract": "Le Martinet noir ou parfois simplement martinet est une espèce d'oiseaux de la famille des Apodidae.",
+   "fulltext_chars": 13207
+  },
+  "en": {
+   "title": "Common swift",
+   "url": "https://en.wikipedia.org/wiki/Common_swift",
+   "description": "Species of bird",
+   "extract": "The common swift is a medium-sized bird, superficially similar to the barn swallow or house martin but somewhat larger, though not stemming from those passerine species, being in the order Apodiformes. The resemblances between the groups are due to convergent evolution, reflecting similar contextual development. The swifts' nearest relatives are the New World hummingbirds and the Southeast Asian treeswifts.",
+   "fulltext_chars": 11615
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Common_Swift_2025_07_18_02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2082,
+  "height": 2091,
+  "file": "Common_Swift_2025_07_18_02_(cropped).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Common_Swift_2025_07_18_02_%28cropped%29.jpg/1920px-Common_Swift_2025_07_18_02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Alexis Lours",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Common_Swift_2025_07_18_02_(cropped).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.951,
+  "cities": {
+   "Le Mans": 0.89,
+   "Pornic": 0.841,
+   "Rennes": 0.842,
+   "Poitiers": 0.905,
+   "Paris": 0.907,
+   "Lille": 0.894,
+   "Strasbourg": 0.914,
+   "Lyon": 0.943,
+   "Grenoble": 0.949,
+   "Marseille": 0.933,
+   "Toulouse": 0.919,
+   "Bordeaux": 0.88,
+   "Brest": 0.708,
+   "Ajaccio": 0.951,
+   "Clermont-Ferrand": 0.928,
+   "Chamonix": 0.948,
+   "Perpignan": 0.935,
+   "Nancy": 0.911
+  },
+  "monthly_scores": [
+   0.0229,
+   0.0553,
+   0.4429,
+   0.8435,
+   0.951,
+   0.9494,
+   0.8943,
+   0.6957,
+   0.299,
+   0.134,
+   0.0338,
+   0.0265
+  ],
+  "months": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:22Z"
+}

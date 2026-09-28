@@ -1,0 +1,84 @@
+{
+ "scientific_name": "Larus cachinnans",
+ "common_name_fr": "Goéland pontique",
+ "birdnet_label": "Larus cachinnans_Goéland pontique",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Larus",
+  "species": "Larus cachinnans"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Goéland pontique",
+   "url": "https://fr.wikipedia.org/wiki/Go%C3%A9land_pontique",
+   "description": "espèce d'oiseaux charadriiformes de la famille des Laridae",
+   "extract": "Le Goéland pontique est une espèce d'oiseaux marins Charadriiformes de la famille des Laridae, longtemps considérée comme conspécifique du Goéland leucophée. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 2658
+  },
+  "en": {
+   "title": "Caspian gull",
+   "url": "https://en.wikipedia.org/wiki/Caspian_gull",
+   "description": "Species of bird",
+   "extract": "The Caspian gull is a large gull and a member of the herring and lesser black-backed gull complex. The scientific name is from Latin. Larus appears to have referred to a gull or other large seabird, and cachinnans means 'laughing', from cachinnare 'to laugh'.",
+   "fulltext_chars": 5337
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/33/Larus_cachinnans_3_%28Marek_Szczepanek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 650,
+  "height": 418,
+  "file": "Larus_cachinnans_3_(Marek_Szczepanek).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/3/33/Larus_cachinnans_3_%28Marek_Szczepanek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Marek Szczepanek",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Larus_cachinnans_3_(Marek_Szczepanek).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0667,
+  "cities": {
+   "Le Mans": 0.016,
+   "Pornic": 0.014,
+   "Rennes": 0.014,
+   "Poitiers": 0.016,
+   "Paris": 0.018,
+   "Lille": 0.02,
+   "Strasbourg": 0.035,
+   "Lyon": 0.015,
+   "Grenoble": 0.017,
+   "Brest": 0.012,
+   "Ajaccio": 0.067,
+   "Clermont-Ferrand": 0.015,
+   "Chamonix": 0.018,
+   "Nancy": 0.028
+  },
+  "monthly_scores": [
+   0.0667,
+   0.0597,
+   0.0278,
+   0.02,
+   0.0,
+   0.0,
+   0.0124,
+   0.0151,
+   0.0187,
+   0.0274,
+   0.0426,
+   0.0588
+  ],
+  "months": [
+   1,
+   2,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:22Z"
+}

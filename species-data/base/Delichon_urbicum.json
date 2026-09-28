@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Delichon urbicum",
+ "common_name_fr": "Hirondelle de fenêtre",
+ "birdnet_label": "Delichon urbicum_Hirondelle de fenêtre",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Hirundinidae",
+  "family_common": "Swallows",
+  "genus": "Delichon",
+  "species": "Delichon urbicum"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Hirondelle de fenêtre",
+   "url": "https://fr.wikipedia.org/wiki/Hirondelle_de_fen%C3%AAtre",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Hirondelle de fenêtre est une espèce de passereaux de la famille des Hirundinidae qui niche en Europe, en Afrique du Nord et en Asie tempérée, et qui hiverne en Afrique subsaharienne et en Asie tropicale. Elle a la tête et les parties supérieures bleutées, le croupion blanc et les parties inférieures d'un blanc pur, et occupe à la fois les paysages ouverts et les environs des habitations humaines. Elle ressemble fortement aux deux autres espèces du genre Delichon, qui sont endémiques de l'Est et du Sud de l'Asie, l'Hirondelle de Bonaparte et l'Hirondelle du Népal. L'Hirondelle de Pallas, sous-espèce asiatique de l'Hirondelle de fenêtre, est parfois considérée comme espèce à part entière.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Western house martin",
+   "url": "https://en.wikipedia.org/wiki/Western_house_martin",
+   "description": "Migratory passerine bird of the swallow family",
+   "extract": "The western house martin, sometimes called the common house martin, northern house martin or, particularly in Europe, just house martin, is a migratory passerine bird of the swallow family which breeds in Europe, north Africa and west-central Asia; and winters in sub-Saharan Africa and southwestern Asia. It feeds on insects which are caught in flight, and it migrates to climates where flying insects are plentiful. It has a blue head and upperparts, white rump and pure white underparts, and is found in both open country and near human habitation. It is similar in appearance to the two other martin species of the genus Delichon, which are both endemic to eastern and southern Asia. It has two accepted subspecies.",
+   "fulltext_chars": 16113
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/74/Delichon_urbicum_Oulu_20120527_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1802,
+  "height": 1235,
+  "file": "Delichon_urbicum_Oulu_20120527_04.JPG",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/7/74/Delichon_urbicum_Oulu_20120527_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Estormiz",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Delichon_urbicum_Oulu_20120527_04.JPG"
+ },
+ "france_universe": {
+  "max_score": 0.8666,
+  "cities": {
+   "Le Mans": 0.644,
+   "Pornic": 0.542,
+   "Rennes": 0.574,
+   "Poitiers": 0.658,
+   "Paris": 0.727,
+   "Lille": 0.737,
+   "Strasbourg": 0.794,
+   "Lyon": 0.791,
+   "Grenoble": 0.806,
+   "Marseille": 0.825,
+   "Toulouse": 0.764,
+   "Bordeaux": 0.671,
+   "Brest": 0.492,
+   "Ajaccio": 0.867,
+   "Clermont-Ferrand": 0.762,
+   "Chamonix": 0.798,
+   "Perpignan": 0.804,
+   "Nancy": 0.783
+  },
+  "monthly_scores": [
+   0.0602,
+   0.1102,
+   0.4636,
+   0.6914,
+   0.8183,
+   0.8362,
+   0.8666,
+   0.842,
+   0.5399,
+   0.1987,
+   0.0813,
+   0.0697
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:40Z"
+}

@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Phylloscopus inornatus",
+ "summary_fr": "Le Pouillot à grands sourcils est un minuscule passéreau migrateur de la famille des phylloscopidés, un peu plus petit qu'un pouillot véloce. Ses sourcils jaunâtres très nets et ses deux barres alaires claires constituent ses traits distinctifs principaux. Originaire de Sibérie orientale, il entreprend chaque année une migration remarquable de plusieurs milliers de kilomètres, empruntant des trajets inattendus qui le conduisent régulièrement en Europe occidentale pendant l'hiver. En France, on le rencontre surtout lors des passages migratoires d'automne et de printemps, particulièrement le long des côtes atlantiques. Son chant, une petite mélodie cristalline de sifflements aigus, n'est pas familier aux ornithologues français habitués à des congénères plus communs. Oiseau actif et nerveux, il se tient souvent dans la canopée, explorant constamment les feuillages à la recherche d'insectes minuscules.",
+ "habitat": "Forêts claires, boisements de montagne, taillis et fourrés de bouleaux ; très adaptable lors de la migration, il fréquente tout type d'arbustes et d'arbres.",
+ "diet": "Insectivore strict : petits insectes et araignées glanés dans les feuillages.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Hiverne principalement en Asie du Sud (Inde, Bangladesh) et du Sud-Est (Chine, Malaisie) ; de petits nombres hivernent irrégulièrement en Europe occidentale, notamment en France.",
+  "niche": "Ne niche pas en France. Reproduction en Sibérie orientale, de l'Oural à la mer d'Okhotsk.",
+  "passage": "Passage automnal fin septembre à fin novembre ; passage printanier mars à mai. Pics généralement en octobre et avril."
+ },
+ "seasonality_fr": "Migrateur régulier mais peu commun en France. Observé surtout d'octobre à novembre et de mars à mai, occasionnellement en hiver. Plus fréquent sur le littoral atlantique et en Normandie. Audible à l'automne comme au printemps, mais discret.",
+ "song_fr": "Chant mélodieux, série de sifflements aigus et cristallins, plus musicalité qu'agressivité. Cri de contact caractéristique : « tseeweest » ou « tsi-huit » perçant, stridulent et reconnaissable même isolé.",
+ "lookalikes": [
+  {
+   "scientific_name": "Phylloscopus collybita",
+   "common_name_fr": "Pouillot véloce",
+   "why_fr": "Tous deux petits pouillots aux sourcils clairs, mais le véloce a des sourcils moins marqués et un chant totalement différent."
+  },
+  {
+   "scientific_name": "Phylloscopus trochilus",
+   "common_name_fr": "Pouillot fitis",
+   "why_fr": "Taille et plumage similaires en migration, mais le fitis a un chant distinctement mélancolique, l'inornatus un chant plus aigu et perlé."
+  },
+  {
+   "scientific_name": "Phylloscopus bonelli",
+   "common_name_fr": "Pouillot de Bonelli",
+   "why_fr": "Pouillot très proche morphologiquement, mais plus jaune dessous ; les deux ont sourcils et barres alaires, sons vocaux très différents."
+  }
+ ],
+ "rarity_note": "Rare mais régulier en France, principalement en automne. Présent chaque année lors des passages migratoires, davantage sur les côtes que l'intérieur. Jamais commun.",
+ "fun_facts": [
+  "Ses petits sourcils jaune vif lui ont valu son nom français. En anglais, il s'appelle yellow-browed warbler, la même caractéristique étant mise en avant.",
+  "Migration remarquable : les oiseaux qui hivernent en Europe occidentale parcourent 3 000-3 500 km au lieu des 5 500-6 000 km normalement nécessaires pour atteindre l'Asie du Sud.",
+  "Le premier clivage taxonomique reconnaissait trois sous-espèces, deux ont été érigées en espèce distincte (P. humei) en raison de différences acoustiques et génétiques confirmées."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pouillot_%C3%A0_grands_sourcils",
+  "https://en.wikipedia.org/wiki/Yellow-browed_warbler",
+  "https://www.oiseaux.net/aves/phylloscopidae/pouillot.a.grands.sourcils.html",
+  "https://www.lpo.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

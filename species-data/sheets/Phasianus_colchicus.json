@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Phasianus colchicus",
+ "summary_fr": "Le Faisan de Colchide est le plus commun des faisans en Europe, où il s'est naturalisé après son introduction au Moyen Âge depuis l'Asie. Ce galliformes de taille moyenne affiche un dimorphisme sexuel spectaculaire : le mâle porte une tête et un cou iridescents, souvent un collier blanc caractéristique, tandis que la femelle reste brunâtre et camouflée. Très chassé en France (environ trois millions par an), il est aussi régulièrement élevé en captivité pour lâchage en nature. Territorial et polygyne, il se reproduit d'avril à mai. Bien qu'excellent marcheur et coureur qui préfère fuir à pied, il peut s'envoler brusquement en cas de danger, produisant alors un bruit d'ailes très reconnaissable et s'accompagnant de ses cris rauques caractéristiques. Omnivore, il se nourrit de graines, baies, invertébrés et petits animaux, cherchant son alimentation en fouillant le sol avec ses pattes.",
+ "habitat": "Terres cultivées, cultures, champs de blé et de maïs, haies, bosquets, lisières de bois et zones broussailleuses. Préfère la proximité des arbres pour se mettre à couvert. Adapté à de nombreux habitats du littoral à la montagne.",
+ "diet": "Graines et baies (notamment de genévrier), insectes, invertébrés (vers, mollusques, larves), petits vertébrés occasionnellement. Régime davantage carnivore chez les jeunes avant de devenir progressivement végétal.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Partout en France ; population renforcée localement en hiver par des individus venus d'Europe centrale.",
+  "niche": "Partout en France continentale et Corse, niche d'avril à juillet, généralement une nichée.",
+  "passage": null
+ },
+ "seasonality_fr": "Présent toute l'année en France. Les mâles chantent (crient) surtout en période de reproduction (avril-mai) pour défendre leur territoire.",
+ "song_fr": "Cri caractéristique « kok kok kok » rauque et percutant, donné en vol ou au sol, particulièrement audible en avril-mai. Battement d'ailes bruyant (« whirring ») lors de l'envol.",
+ "lookalikes": [
+  {
+   "scientific_name": "Phasianus versicolor",
+   "common_name_fr": "Faisan versicolore",
+   "why_fr": "Espèce très proche du Faisan de Colchide, cris et allures semblables ; présent en Europe surtout au Japon."
+  },
+  {
+   "scientific_name": "Perdix perdix",
+   "common_name_fr": "Perdrix grise",
+   "why_fr": "Galliformes de même habitat, cris plus brefs et sifflants, silhouette plus petite et compacte."
+  }
+ ],
+ "rarity_note": "Très commun et régulier en France métropolitaine toute l'année, présent dans tous les habitats propices du littoral aux régions de moyenne montagne.",
+ "fun_facts": [
+  "L'une des trois millions de faisans tués annuellement à la chasse en France place cette espèce en deuxième position après le Pigeon ramier dans les gibiers les plus chassés.",
+  "Le mâle de la sous-espèce type (P. c. colchicus) manque du collier blanc contrairement aux oiseaux d'Asie centrale ; les faisans « à collier blanc » des régions européennes sont des hybrides ou des sous-espèces introduites ultérieurement.",
+  "Le faisan peut voler jusqu'à 90 km/h en fuite mais préfère la course et le camouflage ; il dort perché dans les arbres la nuit, contrairement à la Perdrix grise qui reste au sol."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Faisan_de_Colchide",
+  "https://en.wikipedia.org/wiki/Common_pheasant",
+  "https://www.oiseaux.net/oiseaux/faisan.de.colchide.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/3948"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

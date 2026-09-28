@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Acanthis flammea",
+ "summary_fr": "Le Sizerin flammé est un petit passéreau de la famille des Fringillidae, caractérisé par un patch rouge vif sur le front et un bec noir. Nicheur dans la toundra et la taïga arctiques ainsi que dans les forêts boréales du Paléarctique et du Néarctique, c'est un migrateur partiel qui visite le sud de son aire de répartition en hiver. Essentiellement granivore, il affectionne particulièrement les graines de bouleaux et d'aulnes, et se nourrit aussi d'insectes en période de reproduction. Le Sizerin flammé déploie une étonnante agilité pour se suspendre aux rameaux retombants des arbres afin d'accéder aux graines, parfois dans des positions acrobatiques. En hiver, ces oiseaux grégaires se rassemblent en petits groupes et fréquentent volontiers les mangeoires. Espèce hivernale très rare en France, il ne s'y observe qu'exceptionnellement de novembre à mars, principalement en montagne et dans l'est.",
+ "habitat": "Forêts boréales de bouleaux, conifères et mélèzes ; taïga et toundra arctique avec buissons ; visiteur d'hiver rare en montagne française.",
+ "diet": "Graines très fines, notamment de bouleaux et d'aulnes ; insectes et invertébrés en période de reproduction ; fréquente les mangeoires en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Régions polaires et subarctiques ; visite exceptionnellement le sud-est et l'est de la France de novembre à mars.",
+  "niche": "Arctique et régions boréales du Paléarctique et Néarctique ; ne niche pas en France.",
+  "passage": "Passages possibles en automne (octobre-novembre) et printemps (février-mars) dans l'est français."
+ },
+ "seasonality_fr": "Visiteur d'hiver très rare en France, observé sporadiquement de novembre à mars, essentiellement en montagne et dans les régions de l'est.",
+ "song_fr": "Appel nasilard et gazouillements doux en vol ; cris de contact twittering ; chant fluide et mélodieux émis notamment en parade nuptiale.",
+ "lookalikes": [
+  {
+   "scientific_name": "Acanthis cabaret",
+   "common_name_fr": "Sizerin cabaret",
+   "why_fr": "Espèce très similaire, voix quasi identique, légèrement plus petit ; distinguable par la morphologie en observation directe."
+  },
+  {
+   "scientific_name": "Linaria cannabina",
+   "common_name_fr": "Linotte mélodieuse",
+   "why_fr": "Fingilidé de taille comparable, gazouillements et twittering similaires en contexte de migration."
+  },
+  {
+   "scientific_name": "Carduelis carduelis",
+   "common_name_fr": "Chardonneret élégant",
+   "why_fr": "Fingilidé de même famille, certains cris de contact proches mais répertoire vocal différent."
+  }
+ ],
+ "rarity_note": "Exceptionnel en France, visiteur hivernant très rare en montagne et régions de l'est ; score de détection BirdNET maximal 0,012 (Ajaccio).",
+ "fun_facts": [
+  "Le Sizerin flammé peut creuser des cavités dans la neige avec son bec et ses pattes pour y dormir et digérer les graines stockées dans ses poches alimentaires.",
+  "Seule espèce du genre Acanthis, il était autrefois considéré comme trois espèces distinctes selon le plumage et la taille.",
+  "Son très petit poids (12-16 g) lui permet une agilité remarquable pour atteindre les graines sur les rameaux les plus fins et retombants."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Sizerin_flamm%C3%A9",
+  "https://en.wikipedia.org/wiki/Redpoll"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

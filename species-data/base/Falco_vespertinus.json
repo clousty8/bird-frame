@@ -1,0 +1,71 @@
+{
+ "scientific_name": "Falco vespertinus",
+ "common_name_fr": "Faucon kobez",
+ "birdnet_label": "Falco vespertinus_Faucon kobez",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Falconiformes",
+  "family": "Falconidae",
+  "family_common": "Falcons and Caracaras",
+  "genus": "Falco",
+  "species": "Falco vespertinus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Faucon kobez",
+   "url": "https://fr.wikipedia.org/wiki/Faucon_kobez",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Faucon kobez est une espèce d'oiseaux de proie de la famille des Falconidae.",
+   "fulltext_chars": 6167
+  },
+  "en": {
+   "title": "Red-footed falcon",
+   "url": "https://en.wikipedia.org/wiki/Red-footed_falcon",
+   "description": "Species of bird",
+   "extract": "The red-footed falcon, formerly the western red-footed falcon, is a bird of prey. It belongs to the family Falconidae, the falcons. This bird is found in eastern Europe and Asia although its numbers are dwindling rapidly due to habitat loss and hunting. It is migratory, wintering in Africa. It is a regular wanderer to western Europe, and in August 2004 a red-footed falcon was found in North America for the first time on the island of Martha's Vineyard, Massachusetts.",
+   "fulltext_chars": 15905
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Falco_vespertinus_NAUMANN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 1093,
+  "file": "Falco_vespertinus_NAUMANN.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/3/34/Falco_vespertinus_NAUMANN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Falco_vespertinus_NAUMANN.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0714,
+  "cities": {
+   "Marseille": 0.013,
+   "Ajaccio": 0.071,
+   "Perpignan": 0.011
+  },
+  "monthly_scores": [
+   0.0114,
+   0.0116,
+   0.0331,
+   0.0714,
+   0.0382,
+   0.0248,
+   0.0188,
+   0.0278,
+   0.0466,
+   0.035,
+   0.0131,
+   0.0129
+  ],
+  "months": [
+   4
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:21Z"
+}

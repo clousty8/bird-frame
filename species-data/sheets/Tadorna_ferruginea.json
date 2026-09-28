@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Tadorna ferruginea",
+ "summary_fr": "Le Tadorne casarca est un grand canard au plumage roux flamboyant et uniforme, aux ailes noires ornées d'un miroir vert et au bec et à la queue sombres. Mesurant 58 à 71 centimètres pour une envergure proche de 145 centimètres, il se distingue du Tadorne de Belon par ses teintes plus chaudes et sa silhouette plus massive ; la femelle porte une large zone blanche autour du bec et de l'œil, sans collier noir. Originaire des steppes d'Asie, depuis la Roumanie jusqu'à la Mongolie et la Chine, avec de petites populations isolées au Maghreb et en Éthiopie, il niche au bord des rivières et des lacs steppiques, dans des terriers ou des cavités, parfois d'anciens trous d'arbres, ce qui le met en concurrence avec des rapaces nocturnes locaux là où il s'est installé. Des oiseaux échappés de captivité ont formé une population sauvage en Suisse, qui gagne peu à peu l'Est de la France. Hors de cette zone, l'espèce hiverne surtout en Inde et en Asie du Sud-Est, mais de rares individus apparaissent chaque hiver en Corse et sur le littoral méditerranéen, broutant l'herbe des rives ou barbotant dans les eaux peu profondes.",
+ "habitat": "Rivières et lacs des steppes ouvertes d'Asie centrale et orientale, sans couvert boisé ; niche dans des terriers ou cavités. En France, présence hivernale exceptionnelle, surtout côtière (Corse, littoral méditerranéen).",
+ "diet": "Herbivore et filtreur : broute l'herbe des rives et barbote dans l'eau peu profonde pour filtrer invertébrés aquatiques et petites graines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Principalement en Inde et en Asie du Sud-Est ; en France, quelques individus isolés hivernent en Corse et sur le littoral méditerranéen, de novembre à mars.",
+  "niche": "Steppes d'Asie centrale et orientale, de la Roumanie à la Mongolie et à la Chine ; ne niche pas naturellement en France, hormis de rares échappés en expansion depuis la Suisse.",
+  "passage": null
+ },
+ "seasonality_fr": "Très rare en France, où il n'est observé que l'hiver, de novembre à mars, essentiellement en Corse et sur le littoral méditerranéen. Absent le reste de l'année sur le territoire.",
+ "song_fr": "Braiments sonores et rauques rappelant les cris de l'oie ; le mâle émet des sifflements plus aigus, la femelle des cris plus nasillards.",
+ "lookalikes": [
+  {
+   "scientific_name": "Tadorna tadorna",
+   "common_name_fr": "Tadorne de Belon",
+   "why_fr": "Espèce très proche du même genre ; T. ferruginea a un plumage roux plus uniforme, T. tadorna montre plus de blanc et un bec plus rouge."
+  },
+  {
+   "scientific_name": "Anser anser",
+   "common_name_fr": "Oie cendrée",
+   "why_fr": "Braiments graves et sonores similaires, mais silhouette bien plus grande et plumage gris-brun très différent."
+  },
+  {
+   "scientific_name": "Netta rufina",
+   "common_name_fr": "Nette rousse",
+   "why_fr": "Cris rauques et roulés superficiellement proches, mais taille et silhouette très différentes (plongeur contre barboteur)."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France (score BirdNET très faible, 0,0165) ; quelques individus hivernants seulement, en Corse et sur le littoral méditerranéen, de novembre à mars.",
+ "fun_facts": [
+  "Dans les steppes de l'Altaï, le Tadorne casarca est parfois surnommé le « canard rouge » par les naturalistes locaux.",
+  "La population implantée en Suisse est considérée comme invasive car elle entre en concurrence avec des rapaces nocturnes pour les cavités de nidification.",
+  "De petites populations isolées subsistent au Maroc, en Algérie et en Éthiopie, menacées par la chasse."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Tadorne_casarca",
+  "https://www.oiseaux.net/oiseaux/tadorne.casarca.html",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/",
+  "https://avibase.bsc-eoc.org/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

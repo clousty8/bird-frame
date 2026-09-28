@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Mareca americana",
+ "summary_fr": "Le Canard d'Amérique est un canard barboteur nord-américain aisément reconnaissable à son silhouette trapue avec une tête ronde et un petit bec. Le mâle revêt un plumage caractéristique : tête verte ornée d'un masque facial blanc crème, ventre blanc pur et marques alaires blanches éclatantes au vol. La femelle, plus terne, arbore des teintes grises et brunes. Cet oiseau se trahit surtout par son sifflet distinctif à trois notes, le distinguant du Canard siffleur eurasiatique qui n'en a que deux. Totalement végétarien, il barbote et grignote plantes aquatiques, herbes et grains. Espèce très gregaire hors saison de reproduction, il forme d'importants rassemblements. Bien que vagabond très rare en France, quelques observations ont été confirmées, essentiellement en automne et hiver. Ce migrateur nord-américain ne se reproduit qu'en Amérique du Nord et hiverne du sud des États-Unis jusqu'en Colombie.",
+ "habitat": "Zones humides ouvertes, marais avec graminées, prairies humides et étendues d'eau peu profondes. En Amérique du Nord, préfère les deltas fluviaux subarctiques et la forêt boréale.",
+ "diet": "Plantes aquatiques, herbes, graminées, grains, trèfle et laitue. Alimentation entièrement végétarienne. Barbote en eau peu profonde et grignote à terre.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Amérique centrale et du Sud, du sud des États-Unis jusqu'en Colombie. N'hiverne pratiquement jamais en France, sauf comme vagabond exceptionnel.",
+  "niche": "Ne niche pas en France. Niche en Amérique du Nord, du nord de l'Alaska et du Québec jusqu'aux États-Unis intérieurs (Grandes Plaines, Ouest montagneux).",
+  "passage": "Passages très rares et irréguliers en France, principalement d'octobre à mars lors de périodes de migration ou d'hivernage vagabond."
+ },
+ "seasonality_fr": "Visible et audible très exceptionnellement en France, essentiellement d'octobre à mars lors de hivers rigoureux ou d'anomalies migratoires. Absent en période de reproduction (avril-juillet).",
+ "song_fr": "Mâle : sifflet distinctif à trois notes fluides et légèrement sifflantes, « ouée-ouée-ouée ». Femelle : cris gutturaux graves et coassements rauques bien différents du mâle.",
+ "lookalikes": [
+  {
+   "scientific_name": "Mareca penelope",
+   "common_name_fr": "Canard siffleur",
+   "why_fr": "Silhouette et taille proches ; sifflet plus court (deux notes contre trois) ; mâle a tête rousse, pas verte."
+  },
+  {
+   "scientific_name": "Mareca strepera",
+   "common_name_fr": "Canard chipeau",
+   "why_fr": "Allure générale similaire, tête ronde, petit bec ; mâle gris et noir, femelle ressemble à celle d'Amérique."
+  },
+  {
+   "scientific_name": "Anas acuta",
+   "common_name_fr": "Canard pilet",
+   "why_fr": "Canard barboteur cohabite souvent avec le Canard d'Amérique en Amérique du Nord ; plus effilé, cou et queue longs."
+  }
+ ],
+ "rarity_note": "Vagabond très rare en France. Malgré un score BirdNET de 0,026 (critère minimum de détection), ses observations restent sporadiques et exceptionnelles. Ne figure pratiquement jamais dans les listes annuelles d'observations nationales.",
+ "fun_facts": [
+  "Surnommé « baldpate » en anglais à cause du plastron blanc qui coiffe la tête du mâle, rappelant un homme chauve.",
+  "Connu sous le surnom de « canard voleur » car il vole aux foulques et plongeurs la végétation qu'ils remontent du fond.",
+  "Espèce très bruyante comparée aux autres canards ; le sifflet du mâle peut s'entendre à distance considérable sur un plan d'eau."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Canard_d'Am%C3%A9rique",
+  "https://en.wikipedia.org/wiki/American_wigeon",
+  "https://oiseaux.net/specie_mareca_americana.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,89 @@
+{
+ "scientific_name": "Chlidonias hybrida",
+ "common_name_fr": "Guifette moustac",
+ "birdnet_label": "Chlidonias hybrida_Guifette moustac",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Chlidonias",
+  "species": "Chlidonias hybrida"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Guifette moustac",
+   "url": "https://fr.wikipedia.org/wiki/Guifette_moustac",
+   "description": "espèce d'oiseaux charadriiformes de la famille des laridae",
+   "extract": "La Guifette moustac est une espèce d'oiseaux Charadriiformes de la famille des Laridae. C'est la plus grande des guifettes.",
+   "fulltext_chars": 4614
+  },
+  "en": {
+   "title": "Whiskered tern",
+   "url": "https://en.wikipedia.org/wiki/Whiskered_tern",
+   "description": "Species of bird",
+   "extract": "The whiskered tern is a tern in the family Laridae. The genus name is from Ancient Greek khelidonios, \"swallow-like\", from khelidon, \"swallow\". The specific hybridus is Latin for hybrid; Peter Simon Pallas thought it might be a hybrid of white-winged black tern and common tern, writing \"Sterna fissipes [Chlidonias leucopterus] et Hirundine [Sterna hirundo] natam\".",
+   "fulltext_chars": 2710
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Whiskered_Tern_%28Chlidonias_hybrida%29_%2853939681726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2000,
+  "height": 1500,
+  "file": "Whiskered_Tern_(Chlidonias_hybrida)_(53939681726).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Whiskered_Tern_%28Chlidonias_hybrida%29_%2853939681726%29.jpg/1920px-Whiskered_Tern_%28Chlidonias_hybrida%29_%2853939681726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Birds of Gilgit-Baltistan from Aliabad, Hunza, Pakistan",
+  "credit": "Whiskered Tern (Chlidonias hybrida)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Whiskered_Tern_(Chlidonias_hybrida)_(53939681726).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1125,
+  "cities": {
+   "Le Mans": 0.022,
+   "Pornic": 0.028,
+   "Rennes": 0.02,
+   "Poitiers": 0.029,
+   "Paris": 0.015,
+   "Lille": 0.012,
+   "Lyon": 0.018,
+   "Grenoble": 0.018,
+   "Marseille": 0.039,
+   "Toulouse": 0.035,
+   "Bordeaux": 0.042,
+   "Brest": 0.013,
+   "Ajaccio": 0.112,
+   "Clermont-Ferrand": 0.022,
+   "Chamonix": 0.014,
+   "Perpignan": 0.039
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.036,
+   0.0962,
+   0.1125,
+   0.0972,
+   0.0869,
+   0.0886,
+   0.0628,
+   0.0237,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:25Z"
+}

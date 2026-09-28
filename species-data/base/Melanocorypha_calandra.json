@@ -1,0 +1,86 @@
+{
+ "scientific_name": "Melanocorypha calandra",
+ "common_name_fr": "Alouette calandre",
+ "birdnet_label": "Melanocorypha calandra_Alouette calandre",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Alaudidae",
+  "family_common": "Larks",
+  "genus": "Melanocorypha",
+  "species": "Melanocorypha calandra"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Alouette calandre",
+   "url": "https://fr.wikipedia.org/wiki/Alouette_calandre",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Alouette calandre est une des espèces d'alouettes vivant dans les pays méditerranéens tempérés chauds et, à l'est, en Turquie, dans le Nord de l'Iran et en Russie méridionale. Comme toutes les alouettes, elle appartient à la famille des Alaudidae.",
+   "fulltext_chars": 4265
+  },
+  "en": {
+   "title": "Calandra lark",
+   "url": "https://en.wikipedia.org/wiki/Calandra_lark",
+   "description": "Species of bird",
+   "extract": "The calandra lark or European calandra-lark breeds in warm temperate countries around the Mediterranean and eastwards through Turkey into northern Iran and southern Russia. It is replaced further east by its relative, the bimaculated lark.",
+   "fulltext_chars": 3989
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bere%C5%9Fe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1000,
+  "height": 620,
+  "file": "Bereşe.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bere%C5%9Fe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Dûrzan cîrano",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Bere%C5%9Fe.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1316,
+  "cities": {
+   "Lyon": 0.017,
+   "Grenoble": 0.017,
+   "Marseille": 0.039,
+   "Toulouse": 0.054,
+   "Bordeaux": 0.023,
+   "Ajaccio": 0.132,
+   "Clermont-Ferrand": 0.017,
+   "Chamonix": 0.011,
+   "Perpignan": 0.055
+  },
+  "monthly_scores": [
+   0.1294,
+   0.1229,
+   0.1136,
+   0.0836,
+   0.0662,
+   0.0615,
+   0.0571,
+   0.0443,
+   0.0341,
+   0.0595,
+   0.1118,
+   0.1316
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:05Z"
+}

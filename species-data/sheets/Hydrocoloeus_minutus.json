@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Hydrocoloeus minutus",
+ "summary_fr": "La Mouette pygmée est la plus petite mouette du monde, à peine plus grande qu'un moineau, et l'unique représentante du genre Hydrocoloeus, récemment séparé de Larus. Cette espèce raffinée des zones humides niche en colonies denses sur les lacs et marais d'eau douce du nord du Paléarctique, de la Scandinavie jusqu'en Sibérie, ainsi qu'autour des Grands Lacs nord-américains ; elle ne se reproduit pas en France. À la fin de l'été, elle quitte ses aires de nidification pour gagner des côtes d'hivernage réparties entre l'Atlantique, la Méditerranée, la mer Noire et la mer Caspienne. En France, son statut est celui d'un migrateur partiel selon les saisons : des passages marqués au printemps et à l'automne se combinent à des hivernants réguliers sur le littoral atlantique et méditerranéen, et quelques oiseaux non nicheurs s'y attardent même l'été, si bien qu'on peut l'observer presque toute l'année. Légère et agile en vol, elle capture des insectes au ras de l'eau ou se nourrit de petits poissons et d'invertébrés marins en hiver. Malgré sa taille minuscule face aux goélands, elle défend farouchement son territoire de nidification.",
+ "habitat": "Lacs et marais d'eau douce à végétation dense, fleuves à cours lent ; en hiver et migration, littoraux, estuaires et baies côtières, plus rarement à l'intérieur des terres.",
+ "diet": "Insectes capturés en vol près de l'eau sur les sites de reproduction ; petits poissons et invertébrés marins en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Littoral atlantique et méditerranéen français, ainsi que côtes d'Europe de l'Ouest, mer Noire, mer Caspienne et côte est de l'Amérique du Nord.",
+  "niche": "Ne niche pas en France ; lacs et marais du nord du Paléarctique (Scandinavie, Baltique jusqu'en Sibérie) et pourtour des Grands Lacs nord-américains.",
+  "passage": "Passages marqués en France au printemps et à l'automne, surtout sur les côtes atlantique et méditerranéenne, avec quelques individus jusqu'à l'intérieur des terres."
+ },
+ "seasonality_fr": "Présente en France toute l'année selon les données de détection : hivernants réguliers sur le littoral, passages marqués au printemps et à l'automne, quelques oiseaux non nicheurs estivant certaines années.",
+ "song_fr": "Cris aigus et rapides, appels de contact grinçants typiques des petites mouettes ; répertoire moins volubile que celui de la Mouette rieuse.",
+ "lookalikes": [
+  {
+   "scientific_name": "Chroicocephalus ridibundus",
+   "common_name_fr": "Mouette rieuse",
+   "why_fr": "Taille proche en plumage internuptial mais espèce plus grande ; voix plus grave, cris moins aigus et moins grinçants."
+  },
+  {
+   "scientific_name": "Rissa tridactyla",
+   "common_name_fr": "Mouette tridactyle",
+   "why_fr": "Petite mouette côtière au timbre différent ; cris plus éraillés que ceux de la Mouette pygmée."
+  }
+ ],
+ "rarity_note": "Régulièrement observée en France en migration et en hiver, surtout sur le littoral, plus rarement à l'intérieur des terres ; non rare mais localisée.",
+ "fun_facts": [
+  "C'est la plus petite mouette du monde, pesant à peine autour de 120 grammes, moins qu'une pomme moyenne.",
+  "Elle niche en colonies denses où les nids, posés au sol ou flottants, ne sont espacés que de 1 à 1,5 mètre les uns des autres."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Mouette_pygm%C3%A9e",
+  "https://en.wikipedia.org/wiki/Little_gull",
+  "https://oiseaux.net/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

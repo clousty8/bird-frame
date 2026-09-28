@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Sternula albifrons",
+ "summary_fr": "La Sterne naine est l'une des plus petites sterne de sa famille, reconnaissable à son bec jaune à pointe noire, son front blanc distinctif et ses pattes jaunes vif. Migrateur de longue distance, elle niche en colonies sur les plages de sable et de galets, notamment les bancs de la Loire en France. En été, elle chasse le petit poisson en effectuant des plongées vigoureuses depuis l'air, souvent après de brefs vols stationnaires. Elle émet des appels caractéristiques aigus et rapides, particulièrement lors de l'approche de son nid, qu'elle défend farouchement. Protégée en France depuis 1981, elle a connu un déclin significatif au XXe siècle en raison de la destruction de ses habitats côtiers et des perturbations humaines. Aujourd'hui, sa présence en France reste régulière mais localisée, principalement lors de ses passages migratoires de printemps et d'automne.",
+ "habitat": "Plages de sable fin et graveleux, côtes marines et littoraux côtiers; exceptionnellement à l'intérieur des terres près des fleuves et lacs lors de la migration.",
+ "diet": "Petits poissons littoraux capturés par plongée vigoureuse depuis l'air, avec préférence pour les espèces de moins de 5 cm.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Océans tropicaux et subtropicaux d'Afrique du Sud à l'Australie selon les populations continentales.",
+  "niche": "Littoraux sableux et graveleux d'Europe occidentale et centrale, notamment la Loire en France, d'avril à juillet pour la reproduction.",
+  "passage": "Passages migratoires marqués en mars et d'août à octobre lors des trajets vers les zones d'hivernage."
+ },
+ "seasonality_fr": "Observable en France d'avril à septembre, avec pics de passage en avril-mai et août-septembre. Absence complète en hiver.",
+ "song_fr": "Appel caractéristique « kirri-kirri-kirri » aigu, rapide et répété, particulièrement à proximité du nid. Cris d'alarme perçants lors du survol du territoire.",
+ "lookalikes": [
+  {
+   "scientific_name": "Sterna hirundo",
+   "common_name_fr": "Sterne pierregarin",
+   "why_fr": "Taille et appels similaires; la pierregarin est légèrement plus grande et son chant plus grave."
+  },
+  {
+   "scientific_name": "Sterna paradisaea",
+   "common_name_fr": "Sterne arctique",
+   "why_fr": "Silhouette proche avec front blanc et bec rouge; migration comparable en France."
+  }
+ ],
+ "rarity_note": "Peu commune en France; observée principalement lors de la migration avec nidifications sporadiques, absente en hiver.",
+ "fun_facts": [
+  "Elle détient le record de la plus petite sterne de sa famille, ne pesant que 35-50 grammes, ce qui la rend vulnérable aux prédateurs et aux goélands qui menacent ses colonies.",
+  "Ses parents régurgitent le poisson entier à leurs jeunes avant l'envol, permettant au jeune de maîtriser progressivement la technique de pêche après l'indépendance.",
+  "La Sterne naine tolère mal les perturbations humaines et peut abandonner ses nids au moindre dérangement, rendant ses colonies extrêmement sensibles au tourisme côtier."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Sterne_naine",
+  "https://en.wikipedia.org/wiki/Little_tern"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

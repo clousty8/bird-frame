@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Dendrocoptes medius",
+ "summary_fr": "Le Pic mar est un petit pic européen au plumage contrasté noir et blanc, avec une couronne et un croupion caractéristiquement rouges chez les deux sexes, ce qui le distingue de tous les autres pics tachetés du continent. Fidèle à ses habitats forestiers, il affectionne particulièrement les vieilles forêts de feuillus aux troncs écorcés et aux bois morts abondants, où il glane ses proies avec une agilité remarquable, grimpant en tous sens sur les troncs. Territorial toute l'année, il reste généralement dans sa région même en hiver rigoureux, formant une population dont l'Allemagne abrite près d'un cinquième. Son répertoire vocal varie du piaillement distinctif répété qui porte très loin à de courts appels guk, caractéristiques de ce pic des forêts tempérées d'Europe centrale.",
+ "habitat": "Vieilles forêts de feuillus, particulièrement chênaies et charmaies, mais aussi forêts mixtes semi-naturelles avec bois mort abondant ; apprécie les zones inondables et les forêts naturelles de pente. Préfère les espaces fragmentés et les vergers anciens.",
+ "diet": "Arthropodes vivant sur les troncs et branches (pucerons, fourmis, coléoptères, cochenilles) ; complément automnal de baies, noix et graines ; se nourrit occasionnellement de sève d'arbres au printemps.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Dans toute son aire de répartition française, y compris pendant les hivers rigoureux, mais sur une surface de territoire plus étendue.",
+  "niche": "Nicheur dans ses habitats forestiers préférés d'avril à juillet, creusant ses loges dans les bois tendres ou le bois mort.",
+  "passage": null
+ },
+ "seasonality_fr": "Présent et audible toute l'année en France. Son activité vocale s'intensifie dès janvier, avec un pic acoustique de la mi-mars à la mi-avril durant la saison d'accouplement ; on l'entend à nouveau à la fin de l'automne.",
+ "song_fr": "Piaillement très distinctif répété en séries longues (kwääh...kwääh ou ghääh...ghääh), servant à la fois de cri territorial et de chant de courtoisie, portant très loin. Cris courts guk qui peuvent devenir des séries lors d'excitation ; tambourine très rarement.",
+ "lookalikes": [
+  {
+   "scientific_name": "Dendrocopos major",
+   "common_name_fr": "Pic épeiche",
+   "why_fr": "Très similaire, mais marques noires faciales beaucoup plus prononcées et rêne noire s'étendant à la base du bec ; flancs blancs contre gris foncé du Pic mar."
+  },
+  {
+   "scientific_name": "Dendrocopos syriacus",
+   "common_name_fr": "Pic syriaque",
+   "why_fr": "Confusion possible en été avec juvéniles à couronne rouge, mais se distingue par marques faciales noires très prononcées et rêne noire atteint le bec."
+  },
+  {
+   "scientific_name": "Dendrocopos leucotos",
+   "common_name_fr": "Pic à dos blanc",
+   "why_fr": "Partage le plumage noir et blanc, mais plus grand avec dos blanc distinctif et caractères faciaux noirs plus marqués."
+  }
+ ],
+ "rarity_note": "Peu commun mais régulier en France, avec présence confirmée toute l'année. Distribution fragmentée, concentrée en Europe centrale, avec une responsabilité particulière de l'Allemagne pour la conservation de l'espèce.",
+ "fun_facts": [
+  "Unique pic européen où les deux sexes portent une calotte rouge identique, ce qui rend la détermination du sexe sur le terrain très difficile.",
+  "L'Allemagne abrite environ 20 % de la population mondiale de reproduction, lui conférant une responsabilité majeure pour la conservation de l'espèce.",
+  "Malgré sa petite taille, le Pic mar est un grimpeur extraordinaire, se déplaçant en tous sens sur les troncs, y compris la tête en bas comme une sitelle."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pic_mar",
+  "https://en.wikipedia.org/wiki/Middle_spotted_woodpecker"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

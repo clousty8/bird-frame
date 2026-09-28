@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Anser anser",
+ "common_name_fr": "Oie cendrée",
+ "birdnet_label": "Anser anser_Oie cendrée",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Anser",
+  "species": "Anser anser"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Oie cendrée",
+   "url": "https://fr.wikipedia.org/wiki/Oie_cendr%C3%A9e",
+   "description": "espèce d'oiseaux anseriformes de la famille des anatidae",
+   "extract": "L’Oie cendrée est une espèce d'oiseaux appartenant à la famille des Anatidae et à la sous-famille des Anserinae. Elle est l'espèce type du genre Anser. On regroupe dans l'espèce les populations d'individus sauvages, les individus des races domestiques, mais aussi des individus marrons, c'est-à-dire domestiques mais revenus à la vie sauvage, ainsi que, dans une certaine mesure, les individus hybrides. De fait, cette espèce présente une vaste aire de répartition.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Greylag goose",
+   "url": "https://en.wikipedia.org/wiki/Greylag_goose",
+   "description": "Species of bird",
+   "extract": "The greylag goose is a species of large goose in the waterfowl family Anatidae and the type species of the genus Anser. It has mottled and barred grey and white plumage and an orange beak and pink legs. A large bird, it measures between 74 and 91 centimetres in length, with an average weight of 3.3 kilograms. Its distribution is widespread, with birds from the north of its range in Europe and Asia often migrating southwards to spend the winter in warmer places, although many populations are resident, even in the north. It is the ancestor of most breeds of domestic goose, having been domesticated at least as early as 1360 BCE. The genus name and specific epithet are from anser, the Latin for \"goose\". In the USA, its name has been spelled \"graylag\".",
+   "fulltext_chars": 15975
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/57/Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1715,
+  "height": 1413,
+  "file": "Greylag_Goose_-_St_James's_Park,_London_-_Nov_2006.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/5/57/Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Diliff",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Greylag_Goose_-_St_James%27s_Park,_London_-_Nov_2006.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.54,
+  "cities": {
+   "Le Mans": 0.105,
+   "Pornic": 0.05,
+   "Rennes": 0.073,
+   "Poitiers": 0.071,
+   "Paris": 0.215,
+   "Lille": 0.54,
+   "Strasbourg": 0.376,
+   "Lyon": 0.084,
+   "Grenoble": 0.077,
+   "Marseille": 0.14,
+   "Toulouse": 0.112,
+   "Bordeaux": 0.075,
+   "Brest": 0.048,
+   "Ajaccio": 0.275,
+   "Clermont-Ferrand": 0.087,
+   "Chamonix": 0.077,
+   "Perpignan": 0.137,
+   "Nancy": 0.35
+  },
+  "monthly_scores": [
+   0.3603,
+   0.3755,
+   0.4372,
+   0.54,
+   0.4037,
+   0.3752,
+   0.3748,
+   0.3948,
+   0.4154,
+   0.4214,
+   0.4004,
+   0.3903
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:02Z"
+}

@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Zapornia pusilla",
+ "common_name_fr": "Marouette de Baillon",
+ "birdnet_label": "Zapornia pusilla_Marouette de Baillon",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Gruiformes",
+  "family": "Rallidae",
+  "family_common": "Rails, Gallinules, and Coots",
+  "genus": "Zapornia",
+  "species": "Zapornia pusilla"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Marouette de Baillon",
+   "url": "https://fr.wikipedia.org/wiki/Marouette_de_Baillon",
+   "description": "Rallidae du genre Zapornia",
+   "extract": "La Marouette de Baillon est une espèce d'oiseaux de la famille des Rallidae. C'est l'une des trois espèces de marouettes vivant en France. Son nom est un hommage au zoologiste français François Baillon (1778-1851).",
+   "fulltext_chars": 2894
+  },
+  "en": {
+   "title": "Baillon's crake",
+   "url": "https://en.wikipedia.org/wiki/Baillon's_crake",
+   "description": "Species of bird",
+   "extract": "Baillon's crake, also known as the marsh crake, is a small waterbird of the family Rallidae.",
+   "fulltext_chars": 3489
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Baillon%27s_crake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 904,
+  "height": 696,
+  "file": "Baillon's_crake.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Baillon%27s_crake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Jason Girvan",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Baillon%27s_crake.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0108,
+  "cities": {
+   "Ajaccio": 0.011
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0108,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:22Z"
+}

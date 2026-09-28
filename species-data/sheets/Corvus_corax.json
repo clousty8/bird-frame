@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Corvus corax",
+ "summary_fr": "Le Grand Corbeau est le plus grand oiseau de l'ordre des passeriformes et le plus lourd de sa classe. Présent sur tout l'hémisphère nord, c'est l'espèce de corvidé la plus largement distribuée. Remarquablement intelligent, le Grand Corbeau résout des problèmes complexes et imite les sons de son environnement, y compris la voix humaine. Omnivore et extrêmement opportuniste, il se nourrit de charognes, d'insectes, de déchets, de graines, de baies et de petits animaux. En France, c'est un résident des zones montagneuses et des côtes escarpées, notamment les Alpes, les Pyrénées et la Bretagne. Les couples s'apparie pour la vie et défendent agressivement leur territoire. Le Grand Corbeau peut vivre 10 à 15 ans en nature, mais certains individus captifs ont dépassé 40 ans.",
+ "habitat": "Zones montagneuses, côtes rocheuses, falaises côtières et carrières. Préfère les régions combinant des milieux ouverts rocheux et des arbres ou falaises pour nidifier.",
+ "diet": "Omnivore opportuniste: charognes, petits rongeurs, oiseaux, insectes, arthropodes, graines, baies, fruits, déchets alimentaires. Suit volontiers les loups et autres carnivores pour se nourrir de leurs dépouilles.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Résident permanent en France métropolitaine et Corse; les jeunes peuvent se disperser localement.",
+  "niche": "Niche dans les massifs montagneux (Alpes, Pyrénées, Jura), sur les côtes escarpées de Bretagne, Normandie et Corse, ainsi qu'en carrières.",
+  "passage": null
+ },
+ "seasonality_fr": "Présent toute l'année en France dans ses zones de résidence habituelle. La population bretonne, autrefois au bord de l'extinction (22-28 couples en 2000-2001), est en augmentation constante depuis, avec 69 couples recensés en 2017.",
+ "song_fr": "Cri caractéristique profond et caverneux: « rrok-rrok ». Vocabulaire complexe incluant « toc-toc-toc » frappé, « kraa » sec et rocailleux, croassement guttural, et sons presque musicaux. Peut imiter les sons environnants et la voix humaine.",
+ "lookalikes": [
+  {
+   "scientific_name": "Corvus corone",
+   "common_name_fr": "Corneille noire",
+   "why_fr": "Nettement plus petite mais partage des cris croassés; diffère par sa taille, son bec moins massif et sa queue arrondie."
+  },
+  {
+   "scientific_name": "Corvus cornix",
+   "common_name_fr": "Corneille mantelée",
+   "why_fr": "Taille similaire mais plumage gris et noir distinctif; cris croassés mais moins profonds que le corbeau."
+  },
+  {
+   "scientific_name": "Corvus monedula",
+   "common_name_fr": "Choucas des tours",
+   "why_fr": "Plus petit et au cri plus aigu; BirdNET peut les confondre dans contextes acoustiques mal définis."
+  }
+ ],
+ "rarity_note": "Résident assez rare en France métropolitaine, largement confiné aux massifs montagneux (Alpes, Pyrénées), côtes rocheuses et Corse. Population fragile mais en expansion en Bretagne depuis 2000.",
+ "fun_facts": [
+  "Le Grand Corbeau est le passereau le plus lourd, pesant jusqu'à 2 kg, soit plus que beaucoup d'oiseaux non-passereaux.",
+  "Reconnu pour son intelligence remarquable: résout des problèmes complexes sans apprentissage apparent et imite fidèlement la voix humaine.",
+  "Les couples s'apparie généralement pour la vie et peuvent vivre plus de 40 ans en captivité, bien que l'espérance de vie en nature soit 10 à 15 ans."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Grand_Corbeau",
+  "https://en.wikipedia.org/wiki/Common_raven"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

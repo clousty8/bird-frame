@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Gelochelidon nilotica",
+ "summary_fr": "La Sterne hansel est une élégante sterne au bec massif et noir, bien plus robuste que ses cousines piscivores. Contrairement aux autres sternes, elle ne plonge pas pour capturer ses proies : elle vole bas au-dessus des marais et des eaux côtières pour attraper des insectes en vol, des petits oiseaux et des rongeurs. Largement distribuée sur plusieurs continents, elle se reproduit en colonies bruyantes en Europe du Sud, Asie, Afrique du Nord et Amérique. Son régime varié, mêlant insectes et petits vertébrés, en fait un prédateur opportuniste redoutable. En France, elle demeure exceptionnelle, apparaissant surtout en individu isolé lors des passages migratoires de printemps et d'automne. Ses caractéristiques distinctives, ailes larges et allure trapue, offrent un spectacle mémorable aux observateurs patients des zones humides côtières et continentales.",
+ "habitat": "Marais d'eau douce, lagunes côtières, rizières, étendues herbeuses humides et régions de littoral.",
+ "diet": "Insectes capturés en vol, petits oiseaux, rongeurs et amphibiens. Chasse active et vol léger caractéristiques.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": "Absent comme nicheur régulier ; individus erratiques possibles en été.",
+  "passage": "Passages migratoires sporadiques au printemps (avril-mai) et automne (août-septembre)."
+ },
+ "seasonality_fr": "Très rare en France, observée principalement lors des mouvements migratoires printaniers et automnaux. Aucune hivernage régulier.",
+ "song_fr": "Cri caractéristique nasillard « ker-wik ». Appels rauques et grinçants lors des interactions sociales.",
+ "lookalikes": [
+  {
+   "scientific_name": "Thalasseus sandvicensis",
+   "common_name_fr": "Sterne caugek",
+   "why_fr": "Taille et silhouette similaires, cris de tern pouvant sembler comparables à distance."
+  },
+  {
+   "scientific_name": "Sterna hirundo",
+   "common_name_fr": "Sterne pierregarin",
+   "why_fr": "Autre tern commun en migration, morphologie et vocalises de tern pouvant prêter à confusion."
+  }
+ ],
+ "rarity_note": "Très rare vagante en France métropolitaine. Enregistrée surtout en Méditerranée et régions côtières. Aucune donnée de nidification régulière.",
+ "fun_facts": [
+  "Contrairement aux autres sternes qui plongent, elle chasse en vol rasant comme une guifette.",
+  "Son bec massif et noir lui donne une allure de goéland parmi les sternes, d'où son nom anglais gull-billed tern.",
+  "Elle compte cinq sous-espèces distribuées sur plusieurs continents, reflétant sa nature cosmopolite."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Sterne_hansel",
+  "https://en.wikipedia.org/wiki/Gull-billed_tern",
+  "https://www.oiseaux.net/fiches/sterne.hansel.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

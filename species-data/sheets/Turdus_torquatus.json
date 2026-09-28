@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Turdus torquatus",
+ "summary_fr": "Le Merle à plastron est un passereau de montagne au plumage noir, orné chez le mâle d'un large croissant blanc sur la poitrine qui lui vaut son nom. Cousin proche du Merle noir dont il occupe l'étage montagnard, il ne niche en France que de façon extrêmement clairsemée, presque uniquement dans les Alpes, où quelques couples s'installent en été dans les éboulis, les pelouses alpines et les lisières de forêts subalpines. Le reste de l'année, la plupart des oiseaux gagnent les forêts de genévrier d'altitude d'Afrique du Nord, tandis que de rares individus hivernent plus près, dans le sud du pays. Territorial et farouche, il chasse au sol vers de terre et insectes durant la reproduction, puis se tourne vers les baies de genévrier et autres fruits sauvages dès l'automne. Son chant, une suite de phrases flûtées et plaintives répétées deux ou trois fois, rappelle celui du Merle noir en plus aigu, tandis que son cri d'alarme, un « tac-tac-tac » sec et explosif, est bien connu des randonneurs de montagne. En France, l'espèce reste discrète toute l'année, avec des pics de présence nets au printemps et à l'automne lors des passages migratoires.",
+ "habitat": "Zones d'altitude : éboulis rocheux, landes et pelouses alpines, forêts subalpines avec genévriers et conifères. En migration, collines herbeuses et terrils. En hiver, forêts de genévrier d'Afrique du Nord.",
+ "diet": "Insectes, vers de terre et petits invertébrés en été ; baies de genévrier, prunelles, myrtilles et autres fruits sauvages en automne et en hiver. Occasionnellement petits lézards.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Surtout en Afrique du Nord, dans les forêts de genévrier entre 1800 et 2200 mètres ; quelques individus hivernent aussi dans le sud de la France (Corse, pourtour méditerranéen).",
+  "niche": "Quasi exclusivement dans les Alpes en France, en effectifs très réduits ; ponte d'avril à juillet dans les éboulis et lisières de forêts subalpines.",
+  "passage": "Passage principal de mars à avril au printemps, puis de septembre à octobre à l'automne, avec des haltes en altitude et sur les collines herbeuses."
+ },
+ "seasonality_fr": "Présent en faible nombre toute l'année en France, mais surtout observé lors des passages de mars-avril et de septembre-octobre ; nicheur alpin très rare en été, hivernage occasionnel dans le sud.",
+ "song_fr": "Chant fluide et mélancolique en phrases répétées (tri-ríí, tri-ríí, ti-ríí), proche du Merle noir mais plus aigu et plaintif. Cri d'alarme tac-tac-tac sec et explosif ; contact doux en vol : cherrr.",
+ "lookalikes": [
+  {
+   "scientific_name": "Turdus merula",
+   "common_name_fr": "Merle noir",
+   "why_fr": "Plumage noir similaire et chant proche mais plus aigu et plaintif chez le Merle à plastron ; l'absence de croissant blanc distingue le Merle noir."
+  },
+  {
+   "scientific_name": "Turdus philomelos",
+   "common_name_fr": "Grive musicienne",
+   "why_fr": "Chant fluide fait de phrases répétées comme chez la Grive, mais tessiture et silhouette nettement différentes."
+  },
+  {
+   "scientific_name": "Turdus pilaris",
+   "common_name_fr": "Litorne",
+   "why_fr": "Autre grive de grande taille, croisée en hiver ; chant grinçant et cris rauques très différents du Merle à plastron."
+  }
+ ],
+ "rarity_note": "Espèce peu fréquente en France : nicheur alpin extrêmement rare, migrateur discret de passage saisonnier, avec de rares hivernages dans le sud ; probabilité faible mais non nulle toute l'année.",
+ "fun_facts": [
+  "Le croissant blanc du mâle, bien visible en vol, lui a valu son nom d'espèce et son nom anglais, ring ouzel, l'« merle à collier ».",
+  "L'espèce est philopatrique : elle revient nicher chaque année au même endroit, ce qui la rend vulnérable aux changements d'habitat.",
+  "En Afrique du Nord, un seul genévrier fruitier peut rassembler plusieurs dizaines de Merles à plastron en hiver."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Merle_%C3%A0_plastron",
+  "https://en.wikipedia.org/wiki/Ring_ouzel",
+  "https://oiseaux.net/pages/turdus-torquatus.html",
+  "https://www.inpn.mnhn.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

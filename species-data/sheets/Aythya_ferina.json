@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Aythya ferina",
+ "summary_fr": "Le Fuligule milouin, élégant canard plongeur, fascine par le dimorphisme sexuel marqué de ses plumages. Le mâle arbore une tête roux éclatant et un dos blanc finement vermiculé, contrastant avec la poitrine et l'arrière noirs, tandis que la femelle reste plus discrète en gris-brun. Grégaire par excellence, ce canard forme des bandes de plusieurs centaines d'individus en hiver, qu'il rassemble notamment en Dombes et Camargue françaises. Plongeur capable de descendre à plus de trois mètres de profondeur, il se nourrit d'algues, de graines de potamots et de petits organismes aquatiques. Malheureusement, les populations mondiales subissent un déclin important depuis des décennies, liée à la dégradation des zones humides et à la pression cynégétique. En France, le milouin, autrefois nicheur régulier, est devenu surtout hivernant, avec quelques nichées persistant dans l'est et le centre du pays.",
+ "habitat": "Étangs et lacs d'eau douce ou saumâtre, de profondeur moyenne (0,5 à 3 m), riches en végétation aquatique immergée. Préfère les zones avec îlots et roseraies qui offrent protection contre les prédateurs terrestres.",
+ "diet": "Plantes aquatiques (graines, racines, feuilles de lentilles d'eau et potamots) en plongeant à 13-16 secondes. Complète avec mollusques, crustacés, vers et larves d'insectes. S'alimente principalement matin et soir en eau claire.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France, particulièrement en Dombes, Camargue, lac de Grand-Lieu et zones lacustres de l'Est. Les populations autochtones sont renforcées par des oiseaux venus du nord et de l'est de l'Europe.",
+  "niche": "Anciennement nicheur régulier, maintenant réduit à l'est et au centre de la France (Dombes, Forez, Brenne). La majorité des couples nicheurs se reproduisent en Europe centrale et orientale (Russie, Pologne, Roumanie).",
+  "passage": "Arrivées principales en octobre, départs en mars-avril. Passages moins marqués que pour d'autres migrateurs en raison du caractère hivernant de la population française."
+ },
+ "seasonality_fr": "Visible en France surtout d'octobre à avril, période d'hivernage principal. Présence estivale très réduite, limitée aux quelques couples nicheurs du centre-est. Silhouette caractéristique reconnaissable en vol rapide et direct.",
+ "song_fr": "Mâle généralement silencieux, émet un long sifflement lors de la parade nuptiale, accompagné d'une posture spectaculaire de « dégonflage ». Femelle produit un grognement sourd « krrr » si elle est levée. Cris de détresse des jeunes : appels hauts et rapides.",
+ "lookalikes": [
+  {
+   "scientific_name": "Aythya fuligula",
+   "common_name_fr": "Fuligule morillon",
+   "why_fr": "Confondre mâles : tête noire au lieu de rousse. Morillon plus petit, bec plus court."
+  },
+  {
+   "scientific_name": "Aythya marila",
+   "common_name_fr": "Fuligule milouinan",
+   "why_fr": "Mâle très ressemblant mais plus gros, avec flancs gris-blanc très marqués. Fréquente souvent les mêmes habitats."
+  },
+  {
+   "scientific_name": "Aythya nyroca",
+   "common_name_fr": "Fuligule nyroca",
+   "why_fr": "Femelles et jeunes confondables acoustiquement. Nyroca plus petit, tête brune au lieu de grise chez la femelle."
+  }
+ ],
+ "rarity_note": "Régulier en France en hiver (60 000 oiseaux estimés), peu commun en nidification (2600-3000 couples). Presence confirmée tous les mois du fait de la migration partielle. Considéré vulnérable à l'échelle mondiale.",
+ "fun_facts": [
+  "Le dimorphisme sexuel est extrême : observateurs débutants croient souvent voir deux espèces différentes.",
+  "Pour s'envoler, le milouin doit prendre son élan en courant à la surface, battant énergiquement des ailes.",
+  "Parasité fréquemment : jusqu'à 37 % des œufs d'une ponte peuvent provenir d'autres femelles."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fuligule_milouin",
+  "https://en.wikipedia.org/wiki/Common_pochard",
+  "https://oiseaux.net",
+  "https://www.lpo.fr"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

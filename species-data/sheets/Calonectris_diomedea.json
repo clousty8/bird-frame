@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Calonectris diomedea",
+ "summary_fr": "Le Puffin de Scopoli est un grand oiseau marin des eaux méditerranéennes, au plumage gris-brun contrasté de blanc et à l'envergure dépassant le mètre. Longtemps confondu avec le Puffin cendré, dont il fut séparé en 2013 sur la foi de différences génétiques et vocales, il partage son allure élancée et son vol chaloupé qui épouse le relief des vagues. En France, il ne niche que sur une poignée d'îles et de falaises méditerranéennes, comme Riou, les Lavezzi, Hyères ou les Cerbicale, où il passe la journée en mer avant de regagner son terrier à la nuit tombée, seul moment où résonnent ses cris rauques et plaintifs évoquant des pleurs d'enfant. En mer, il reste silencieux et pêche en rasant les flots ou en plongeant légèrement sous la surface pour attraper petits poissons et céphalopodes. À l'automne, la majorité des oiseaux gagnent l'Atlantique, certains jusqu'au large de l'Afrique du Sud, mais une partie de la population reste en Méditerranée toute l'année, ce qui en fait un migrateur partiel plutôt qu'un migrateur strict. Les jeunes, eux, errent plusieurs années en mer avant de revenir nicher.",
+ "habitat": "Eaux pélagiques de l'Atlantique et de la Méditerranée ; niche en colonies sur les îles et falaises rocheuses méditerranéennes, loin des prédateurs terrestres.",
+ "diet": "Petits poissons, céphalopodes et crustacés, capturés en surface lors d'un vol rasant ou en légère plongée ; suit volontiers les bancs de thons et les dauphins qui remontent les proies.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Essentiellement au large de l'Afrique, du Maroc jusqu'en Afrique du Sud, après traversée de l'Atlantique ; une partie de la population reste en Méditerranée toute l'année.",
+  "niche": "Îles et côtes rocheuses méditerranéennes (Riou, Lavezzi, Hyères, Cerbicale en France) ; nidification d'avril à juin, envol des jeunes en septembre-octobre.",
+  "passage": "Départs marqués vers l'Atlantique en octobre-novembre, retours en Méditerranée en février-mars ; des individus restent visibles toute l'année sur le littoral méditerranéen."
+ },
+ "seasonality_fr": "Présent toute l'année en Méditerranée, avec des pics de passage en fin d'été et en fin d'hiver ; très occasionnel ailleurs sur le territoire français.",
+ "song_fr": "Silencieux en mer, il devient bruyant la nuit à la colonie : chants puissants, plaintifs et rauques évoquant des pleurs de bébé, plus aigus chez les mâles, plus rauques chez les femelles.",
+ "lookalikes": [
+  {
+   "scientific_name": "Calonectris borealis",
+   "common_name_fr": "Puffin cendré",
+   "why_fr": "Espèce sœur très proche, cris de colonie quasi identiques ; distinction surtout visuelle (moins de blanc sous l'aile)."
+  },
+  {
+   "scientific_name": "Puffinus yelkouan",
+   "common_name_fr": "Puffin yelkouan",
+   "why_fr": "Autre puffin méditerranéen bruyant la nuit à la colonie ; cris plus aigus et oiseau nettement plus petit en vol."
+  }
+ ],
+ "rarity_note": "Régulier et localement commun en Méditerranée où il niche, mais très rare en dehors des voies migratoires atlantiques et sur le reste du territoire français.",
+ "fun_facts": [
+  "Certains individus parcourent plus de 35 000 km entre leur colonie méditerranéenne et l'Afrique du Sud, en s'orientant surtout à l'odorat.",
+  "Les jeunes errent en mer pendant plusieurs années, jusque vers les Caraïbes, avant de revenir nicher sur leur colonie natale.",
+  "Il ne visite son nid que de nuit, même par pleine lune, grâce à une vision crépusculaire comparable à celle des rapaces nocturnes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Puffin_de_Scopoli",
+  "https://en.wikipedia.org/wiki/Scopoli's_shearwater",
+  "https://oiseaux.net/puffin.de.scopoli.html",
+  "https://www.inpn.mnhn.fr/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

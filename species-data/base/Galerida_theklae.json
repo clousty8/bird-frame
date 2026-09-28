@@ -1,0 +1,72 @@
+{
+ "scientific_name": "Galerida theklae",
+ "common_name_fr": "Cochevis de Thékla",
+ "birdnet_label": "Galerida theklae_Cochevis de Thékla",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Alaudidae",
+  "family_common": "Larks",
+  "genus": "Galerida",
+  "species": "Galerida theklae"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Cochevis de Thékla",
+   "url": "https://fr.wikipedia.org/wiki/Cochevis_de_Th%C3%A9kla",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Cochevis de Thékla est une espèce d'alouettes, oiseaux de la famille des Alaudidae. Ces oiseaux ont une allure très proche de celle du cochevis huppé.",
+   "fulltext_chars": 3853
+  },
+  "en": {
+   "title": "Thekla's lark",
+   "url": "https://en.wikipedia.org/wiki/Thekla's_lark",
+   "description": "Species of bird",
+   "extract": "Thekla's lark, also known as the Thekla lark, is a species of lark that breeds on the Iberian Peninsula and in North and East Africa south to Kenya. It is a sedentary (non-migratory) species. This is a common bird of dry open country, often at some altitude. Thekla's lark was named by Alfred Edmund Brehm in 1857 for his recently deceased sister Thekla Brehm (1833–1857). The name is a modern Greek one, Θέκλα, which comes from ancient Greek Θεόκλεια (Theokleia) derived from θεός and κλέος. The population is declining in parts of Spain, but this is a common bird with a very wide range and the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\".",
+   "fulltext_chars": 4138
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/be/North_African_Thekla%27s_lark_%28Galerida_theklae_carolinae%29_Kebili.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3322,
+  "height": 3322,
+  "file": "North_African_Thekla's_lark_(Galerida_theklae_carolinae)_Kebili.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/North_African_Thekla%27s_lark_%28Galerida_theklae_carolinae%29_Kebili.jpg/1920px-North_African_Thekla%27s_lark_%28Galerida_theklae_carolinae%29_Kebili.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Charles J. Sharp",
+  "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+  "description_url": "https://commons.wikimedia.org/wiki/File:North_African_Thekla%27s_lark_(Galerida_theklae_carolinae)_Kebili.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0454,
+  "cities": {
+   "Marseille": 0.02,
+   "Toulouse": 0.044,
+   "Bordeaux": 0.021,
+   "Ajaccio": 0.026,
+   "Clermont-Ferrand": 0.012,
+   "Perpignan": 0.045
+  },
+  "monthly_scores": [
+   0.0257,
+   0.0222,
+   0.0398,
+   0.0454,
+   0.0383,
+   0.0365,
+   0.0304,
+   0.0226,
+   0.0324,
+   0.0366,
+   0.0283,
+   0.0276
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:01Z"
+}

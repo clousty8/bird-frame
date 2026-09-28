@@ -1,0 +1,39 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Motacilla cinerea",
+ "summary_fr": "La Bergeronnette des ruisseaux est un élégant passereau de la famille des motacillidae, reconnaissable à sa silhouette fine, ses plumes jaunes aux ailes et au ventre, et son long dos gris. Longtemps observée près des ruisseaux et rivières rapides, elle trottine sur les rochers ou vole bas pour capturer insectes et petits invertébrés aquatiques. Le mâle arbore une gorge noire distinctive lors de la reproduction, tandis que la femelle reste plus terne. Parmi les espèces les plus agiles de son genre, elle se distingue de la Bergeronnette grise par son manteau gris et de la Bergeronnette printanière par son dos gris et non vert. Migratrice partielle, elle quitte les régions froides en automne pour les côtes méditerranéennes ou l'Afrique, avant de revenir au printemps. Son cri sec et métallique « tsit » et son chant varié fait de trilles cristallines la rendent identifiable à l'oreille, même dans le brouhaha d'une rivière.",
+ "habitat": "Près des cours d'eau rapides (ruisseaux, rivières), du littoral à la montagne. Niche dans des fissures de rochers, trous de murs, berges exposées ou structures artificielles près de l'eau.",
+ "diet": "Insectes aquatiques (mouches, éphémères, libellules, coléoptères), petits crustacés et mollusques. Chasse activement entre les rochers du cours d'eau, souvent en voletant.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Régions méditerranéennes pour les nicheurs français ; certains individus poursuivent jusqu'en Afrique tropicale.",
+  "niche": "Partout en France, près des cours d'eau. Niche d'avril à août, souvent deux nichées par an.",
+  "passage": "Passages sud d'octobre à novembre, retours de mars à mi-avril."
+ },
+ "seasonality_fr": "Présente toute l'année en France, mais davantage lors des migrations de printemps et d'automne. Particulièrement audible lors de la reproduction (avril à juillet).",
+ "song_fr": "Cri sec et métallique « tsit » ou « tsi-sit », souvent en vol. Chant sonore et varié fait de gazouillis et de trilles cristallines, particulièrement chez le mâle en période de reproduction.",
+ "lookalikes": [
+  {
+   "scientific_name": "Motacilla alba",
+   "common_name_fr": "Bergeronnette grise",
+   "why_fr": "Cris très similaires (« tic » sec), morphologie proche, mais alba a le dos blanc et noir (cinerea : gris) et préfère des habitats moins liés à l'eau."
+  },
+  {
+   "scientific_name": "Motacilla flava",
+   "common_name_fr": "Bergeronnette printanière",
+   "why_fr": "Même taille et habitat hydrophile, mais flava a le dos vert-jaunâtre (cinerea : gris) et la gorge/tête jaune marquée (cinerea : gris uni chez femelle)."
+  }
+ ],
+ "rarity_note": "Commune en France, présente toute l'année. Score maximum de 0,50 en zone d'Ajaccio, régulièrement observée dans tous les mois et sur l'ensemble du territoire français.",
+ "fun_facts": [
+  "Contrairement à la plupart des passereaux, la femelle chante aussi pour défendre son territoire lors de la reproduction.",
+  "Elle peut vivre jusqu'à 8 ans en nature et retourne souvent aux mêmes sites d'hivernage chaque année, parfois un simple jardin urbain."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bergeronnette_des_ruisseaux",
+  "https://en.wikipedia.org/wiki/Grey_wagtail"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

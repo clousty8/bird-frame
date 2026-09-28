@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anas crecca",
+ "summary_fr": "Minuscule canard de surface au plumage élégant, la Sarcelle d'hiver est le plus petit anatidé de France, pesant à peine 300 à 400 grammes. En dehors de la reproduction, elle se montre très grégaire et vole en petits groupes agiles, capables d'accélérations et de virages brusques qui évoquent plus les limicoles que les canards habituels. Elle se nourrit sur les vasières peu profondes en filtrant l'eau et la vase grâce à son bec garni de lamelles, pour capturer graines de plantes aquatiques et petits invertébrés. Le mâle en plumage nuptial arbore une tête brun-roux barrée d'une large bande verte iridescente soulignée de crème, ainsi qu'un croupion jaune triangulaire bien visible ; la femelle reste discrète, dans des tons de brun moucheté proches de ceux d'un jeune colvert. Migratrice partielle, l'espèce niche surtout en Scandinavie, en Russie et jusqu'au Kamtchatka, avec une poignée de couples nicheurs en France. Des dizaines de milliers d'individus y hivernent chaque année, en Camargue notamment, formant parfois des rassemblements remarquables sur les zones humides côtières et les estuaires.",
+ "habitat": "Vasières, marécages, estuaires et étendues d'eau douce ou saumâtre à végétation abondante. Niche sur lacs, mares et marais intérieurs ; en hiver, aussi sur lagunes côtières et plans d'eau plus saumâtres.",
+ "diet": "Graines de plantes de zones humides (scirpes, joncs, carex) et petits invertébrés aquatiques (crustacés, larves d'insectes, mollusques). Régime plus riche en proies animales en été qu'en hiver.",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France, notamment en Camargue et sur le littoral, d'août à avril. Environ 80 000 individus hivernent régulièrement ; par hiver rigoureux, report vers le sud-ouest et le littoral.",
+  "niche": "Reproduction rare en France (quelques centaines de couples), surtout dans la moitié nord, de mai à juillet. Populations principales en Scandinavie, en Russie et jusqu'au Kamtchatka.",
+  "passage": "Migration d'automne de fin août à décembre, migration de printemps de février à avril. Passages marqués en octobre-novembre et en mars, souvent en vols nocturnes coordonnés."
+ },
+ "seasonality_fr": "Visible toute l'année en France, bien plus abondante d'octobre à avril. Diurne à la nidification, elle devient souvent crépusculaire ou nocturne en hiver pour se nourrir.",
+ "song_fr": "Espèce plutôt silencieuse : le mâle émet un discret « crrit » aigu et des sifflements lors de la parade nuptiale, bien connus des chasseurs qui les imitent. La femelle lance un « cuac » d'alarme rauque ou des « kekeke » rapides et aigus.",
+ "lookalikes": [
+  {
+   "scientific_name": "Spatula querquedula",
+   "common_name_fr": "Sarcelle d'été",
+   "why_fr": "Femelle très semblable par la morphologie et les cris ; la Sarcelle d'été est un peu plus grande, avec des bandes oculaires différentes et un plumage plus contrasté."
+  },
+  {
+   "scientific_name": "Anas platyrhynchos",
+   "common_name_fr": "Canard colvert",
+   "why_fr": "Canard bien plus grand ; les juvéniles ou femelles peuvent ressembler acoustiquement, bien que les cris de colvert soient généralement plus rauques."
+  },
+  {
+   "scientific_name": "Anas acuta",
+   "common_name_fr": "Canard pilet",
+   "why_fr": "Petit canard de surface partageant habitat et période ; vocalisation plus sifflante, mais confusion possible lors d'une observation rapide."
+  }
+ ],
+ "rarity_note": "Commune et régulière toute l'année en France, avec un hivernage prévisible et abondant sur le littoral et en Camargue.",
+ "fun_facts": [
+  "Capable de se gratter en vol, c'est le seul canard connu pour réaliser cet exploit d'équilibriste.",
+  "Elle a donné son nom à la couleur teal (bleu-vert), teinte du miroir alaire iridescent du mâle.",
+  "Espèce très chassée en France : environ 331 000 sarcelles d'hiver prélevées en 2004, quinzième espèce la plus chassée du pays."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Sarcelle_d'hiver",
+  "https://en.wikipedia.org/wiki/Eurasian_teal",
+  "https://www.oiseaux.net/especes/sarcelle.dhiver.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/3118"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

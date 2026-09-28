@@ -1,0 +1,68 @@
+{
+ "scientific_name": "Aegypius monachus",
+ "common_name_fr": "Vautour moine",
+ "birdnet_label": "Aegypius monachus_Vautour moine",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Aegypius",
+  "species": "Aegypius monachus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": null,
+   "url": null,
+   "description": null,
+   "extract": null,
+   "fulltext_chars": 0
+  },
+  "en": {
+   "title": "Cinereous vulture",
+   "url": "https://en.wikipedia.org/wiki/Cinereous_vulture",
+   "description": "Species of bird",
+   "extract": "The cinereous vulture, also known as the black vulture, Eurasian black vulture, and monk vulture, is a very large raptor in the family Accipitridae distributed through much of temperate Eurasia. With a body length of 1.2 m, 3.1 m (10 ft) across the wings and a maximum weight of 12.5 kg (28 lb), it is the largest Old World vulture and largest member of the family Accipitridae.",
+   "fulltext_chars": 19728
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Buitre_negro_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3672,
+  "height": 2754,
+  "file": "Buitre_negro_(1).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Buitre_negro_%281%29.jpg/1920px-Buitre_negro_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Juan Lacruz",
+  "credit": "File:Buitre_negro.jpg",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Buitre_negro_(1).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0158,
+  "cities": {
+   "Toulouse": 0.012,
+   "Perpignan": 0.016
+  },
+  "monthly_scores": [
+   0.0121,
+   0.0121,
+   0.0158,
+   0.0109,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0127,
+   0.0133,
+   0.013
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:18Z"
+}

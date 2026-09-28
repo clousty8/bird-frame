@@ -1,0 +1,73 @@
+{
+ "scientific_name": "Gallinago delicata",
+ "common_name_fr": "Bécassine de Wilson",
+ "birdnet_label": "Gallinago delicata_Bécassine de Wilson",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Gallinago",
+  "species": "Gallinago delicata"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bécassine de Wilson",
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9cassine_de_Wilson",
+   "description": "espèce d'oiseaux charadriiformes de la familles des scolopacidae",
+   "extract": "La Bécassine de Wilson est une espèce d’oiseaux Charadriiformes de la famille des Scolopacidae. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 3406
+  },
+  "en": {
+   "title": "Wilson's snipe",
+   "url": "https://en.wikipedia.org/wiki/Wilson's_snipe",
+   "description": "Species of bird",
+   "extract": "Wilson's snipe is a small, stocky shorebird. The generic name Gallinago is Neo-Latin for a woodcock or snipe from Latin gallina, \"hen\" and the suffix -ago, \"resembling\". The specific name delicata is Latin for \"dainty\".",
+   "fulltext_chars": 3797
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Wilson%27s_Snipe_on_a_fencepost%2C_central_Utah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1596,
+  "height": 1639,
+  "file": "Wilson's_Snipe_on_a_fencepost,_central_Utah.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Wilson%27s_Snipe_on_a_fencepost%2C_central_Utah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "en:User:Talshiarr (Sean Breazeal)",
+  "credit": "en:User:Talshiarr (external source: http://www.pbase.com/talshiarr/image/46265355)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Wilson%27s_Snipe_on_a_fencepost,_central_Utah.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0232,
+  "cities": {
+   "Le Mans": 0.016,
+   "Pornic": 0.023,
+   "Rennes": 0.018,
+   "Poitiers": 0.015,
+   "Paris": 0.01,
+   "Bordeaux": 0.014,
+   "Brest": 0.01
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0,
+   0.0232,
+   0.019,
+   0.0127,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:24Z"
+}

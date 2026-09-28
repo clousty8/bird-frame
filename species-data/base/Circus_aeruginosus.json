@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Circus aeruginosus",
+ "common_name_fr": "Busard des roseaux",
+ "birdnet_label": "Circus aeruginosus_Busard des roseaux",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Circus",
+  "species": "Circus aeruginosus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Busard des roseaux",
+   "url": "https://fr.wikipedia.org/wiki/Busard_des_roseaux",
+   "description": "espèce d'oiseaux accipitriformes de la famille des accipitridae",
+   "extract": "Le Busard des roseaux, ou Busard harpaye est une espèce de rapaces diurnes appartenant à la famille des Accipitridae.",
+   "fulltext_chars": 5528
+  },
+  "en": {
+   "title": null,
+   "url": null,
+   "description": null,
+   "extract": null,
+   "fulltext_chars": 0
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/bf/M%C3%A4nnliche_Rohrweihe_im_Flug_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3045,
+  "height": 2030,
+  "file": "Männliche_Rohrweihe_im_Flug_04.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/M%C3%A4nnliche_Rohrweihe_im_Flug_04.jpg/1920px-M%C3%A4nnliche_Rohrweihe_im_Flug_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Stephan Sprinz",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnliche_Rohrweihe_im_Flug_04.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.424,
+  "cities": {
+   "Le Mans": 0.229,
+   "Pornic": 0.179,
+   "Rennes": 0.199,
+   "Poitiers": 0.186,
+   "Paris": 0.259,
+   "Lille": 0.313,
+   "Strasbourg": 0.185,
+   "Lyon": 0.14,
+   "Grenoble": 0.165,
+   "Marseille": 0.26,
+   "Toulouse": 0.235,
+   "Bordeaux": 0.185,
+   "Brest": 0.134,
+   "Ajaccio": 0.424,
+   "Clermont-Ferrand": 0.142,
+   "Chamonix": 0.144,
+   "Perpignan": 0.303,
+   "Nancy": 0.209
+  },
+  "monthly_scores": [
+   0.4113,
+   0.4174,
+   0.413,
+   0.4031,
+   0.2309,
+   0.1694,
+   0.1667,
+   0.313,
+   0.3383,
+   0.3178,
+   0.4151,
+   0.424
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:17Z"
+}

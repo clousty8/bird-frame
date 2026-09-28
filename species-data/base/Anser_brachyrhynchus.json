@@ -1,0 +1,71 @@
+{
+ "scientific_name": "Anser brachyrhynchus",
+ "common_name_fr": "Oie à bec court",
+ "birdnet_label": "Anser brachyrhynchus_Oie à bec court",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Anser",
+  "species": "Anser brachyrhynchus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Oie à bec court",
+   "url": "https://fr.wikipedia.org/wiki/Oie_%C3%A0_bec_court",
+   "description": "espèce d'oiseaux",
+   "extract": "L’Oie à bec court est une petite oie de la famille des Anatidae, parfois considérée comme une sous-espèce de l'Oie des moissons.",
+   "fulltext_chars": 2582
+  },
+  "en": {
+   "title": "Pink-footed goose",
+   "url": "https://en.wikipedia.org/wiki/Pink-footed_goose",
+   "description": "Species of bird",
+   "extract": "The pink-footed goose is a goose which breeds in eastern Greenland, Iceland, Svalbard, and recently Novaya Zemlya. It is migratory, wintering in northwest Europe, especially Ireland, Great Britain, the Netherlands, and western Denmark. The name is often abbreviated in colloquial usage to \"pinkfoot\". Anser is the Latin for \"goose\", and brachyrhynchus comes from the ancient Greek brachus, meaning \"short\", and rhunchos, meaning \"bill\".",
+   "fulltext_chars": 5423
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/5b/2019-03-25_Anser_brachyrhynchus%2C_Killingworth_Lake%2C_Northumberland_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3600,
+  "height": 2700,
+  "file": "2019-03-25_Anser_brachyrhynchus,_Killingworth_Lake,_Northumberland_1.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2019-03-25_Anser_brachyrhynchus%2C_Killingworth_Lake%2C_Northumberland_1.jpg/1920px-2019-03-25_Anser_brachyrhynchus%2C_Killingworth_Lake%2C_Northumberland_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "MPF",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:2019-03-25_Anser_brachyrhynchus,_Killingworth_Lake,_Northumberland_1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0284,
+  "cities": {
+   "Le Mans": 0.01,
+   "Rennes": 0.013,
+   "Paris": 0.012,
+   "Lille": 0.028,
+   "Brest": 0.014
+  },
+  "monthly_scores": [
+   0.0225,
+   0.0211,
+   0.0123,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0215,
+   0.0284,
+   0.0269
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:05Z"
+}

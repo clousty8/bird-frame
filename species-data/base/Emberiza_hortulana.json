@@ -1,0 +1,76 @@
+{
+ "scientific_name": "Emberiza hortulana",
+ "common_name_fr": "Bruant ortolan",
+ "birdnet_label": "Emberiza hortulana_Bruant ortolan",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Emberizidae",
+  "family_common": "Old World Buntings",
+  "genus": "Emberiza",
+  "species": "Emberiza hortulana"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bruant ortolan",
+   "url": "https://fr.wikipedia.org/wiki/Bruant_ortolan",
+   "description": "espèce d'oiseaux passériformes de la famille des emberizidae",
+   "extract": "Le bruant ortolan ou simplement ortolan, est une espèce d'oiseaux de la famille des embérizidés.",
+   "fulltext_chars": 17691
+  },
+  "en": {
+   "title": "Ortolan bunting",
+   "url": "https://en.wikipedia.org/wiki/Ortolan_bunting",
+   "description": "Species of bird in Eurasia",
+   "extract": "The ortolan, also called ortolan bunting, is a Eurasian bird in the bunting family Emberizidae, a passerine family now separated by most modern scholars from the finches, Fringillidae. The genus name Emberiza is from Alemannic German Embritz, a bunting. The specific name hortulana is from the Italian name for this bird, ortolana. The English ortolan is derived from Middle French hortolan, \"gardener\".",
+   "fulltext_chars": 8819
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ortolan_bunting_in_Sierra_de_Guara%2C_Aragon%2C_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3112,
+  "height": 2074,
+  "file": "Ortolan_bunting_in_Sierra_de_Guara,_Aragon,_Spain.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Ortolan_bunting_in_Sierra_de_Guara%2C_Aragon%2C_Spain.jpg/1920px-Ortolan_bunting_in_Sierra_de_Guara%2C_Aragon%2C_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Pierre Dalous",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Ortolan_bunting_in_Sierra_de_Guara,_Aragon,_Spain.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0658,
+  "cities": {
+   "Lyon": 0.01,
+   "Grenoble": 0.01,
+   "Marseille": 0.018,
+   "Toulouse": 0.017,
+   "Bordeaux": 0.015,
+   "Ajaccio": 0.066,
+   "Clermont-Ferrand": 0.012,
+   "Perpignan": 0.018
+  },
+  "monthly_scores": [
+   0.0,
+   0.0101,
+   0.0389,
+   0.0658,
+   0.0449,
+   0.0357,
+   0.0247,
+   0.0297,
+   0.0331,
+   0.0283,
+   0.0115,
+   0.0
+  ],
+  "months": [
+   4
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:23Z"
+}

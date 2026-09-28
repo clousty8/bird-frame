@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Falco tinnunculus",
+ "common_name_fr": "Faucon crécerelle",
+ "birdnet_label": "Falco tinnunculus_Faucon crécerelle",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Falconiformes",
+  "family": "Falconidae",
+  "family_common": "Falcons and Caracaras",
+  "genus": "Falco",
+  "species": "Falco tinnunculus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Faucon crécerelle",
+   "url": "https://fr.wikipedia.org/wiki/Faucon_cr%C3%A9cerelle",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Faucon crécerelle est une espèce de petits rapaces de la famille des Falconidae, présent dans la totalité de l'Europe, en Afrique, en Arabie et en Asie jusqu'au Japon, du semi-désert jusqu'aux régions subarctiques. Il est également appelé Crécerelle commune ou Crécerelle tout court dans son aire de répartition. Très adaptable, il fréquente les milieux ouverts et peu boisés, des bords de mer jusqu'aux montagnes, mais aussi les milieux urbains et suburbains, allant jusqu'à nicher en façade de la cathédrale Notre-Dame de Paris.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Common kestrel",
+   "url": "https://en.wikipedia.org/wiki/Common_kestrel",
+   "description": "Species of bird",
+   "extract": "The common kestrel, also known as the European kestrel, Eurasian kestrel, Old World kestrel, or windfucker is a species of predatory bird belonging to the kestrel group of the falcon family Falconidae. In the United Kingdom, where no other kestrel species commonly occurs, it is generally just called the \"kestrel\".",
+   "fulltext_chars": 15816
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1212,
+  "height": 1709,
+  "file": "Common_kestrel_falco_tinnunculus.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.7025,
+  "cities": {
+   "Le Mans": 0.522,
+   "Pornic": 0.428,
+   "Rennes": 0.462,
+   "Poitiers": 0.485,
+   "Paris": 0.585,
+   "Lille": 0.65,
+   "Strasbourg": 0.635,
+   "Lyon": 0.528,
+   "Grenoble": 0.536,
+   "Marseille": 0.506,
+   "Toulouse": 0.525,
+   "Bordeaux": 0.487,
+   "Brest": 0.388,
+   "Ajaccio": 0.702,
+   "Clermont-Ferrand": 0.518,
+   "Chamonix": 0.537,
+   "Perpignan": 0.532,
+   "Nancy": 0.619
+  },
+  "monthly_scores": [
+   0.6599,
+   0.6394,
+   0.613,
+   0.7025,
+   0.6394,
+   0.5908,
+   0.617,
+   0.6345,
+   0.6727,
+   0.6636,
+   0.6686,
+   0.6785
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:00Z"
+}

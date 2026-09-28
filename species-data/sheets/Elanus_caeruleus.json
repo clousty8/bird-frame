@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Elanus caeruleus",
+ "summary_fr": "Petit rapace au plumage blanc et gris, aux ailes longues et aux yeux rouge sang, l'Élanion blanc est un oiseau de chasse spectaculaire des terres ouvertes. Capable de faire du surplace en volant comme un crécerelle, il fond sur ses proies avec une grande agilité. Originaire d'Afrique et d'Asie tropicale, cette espèce a considérablement étendu son aire de répartition en Europe ces trente dernières années, progressant depuis les Pyrénées jusqu'à la Bourgogne. Nomade et adaptable, il a bénéficié des changements d'usage des terres, notamment l'agriculture pastorale. À la différence de la plupart des rapaces, il peut élever plusieurs nichées par an, ce qui lui permet de profiter rapidement des pics démographiques de rongeurs. En France, sa présence reste très localisée et irrégulière, davantage en tant que passage migratoire que comme nicheur établi, sauf en région pyrénéenne.",
+ "habitat": "Terres ouvertes, prairies, landes et zones agricoles. Préfère les paysages plats ou légèrement vallonnés avec peu d'arbres pour la chasse, mais niche dans les pins ou les chênes bas.",
+ "diet": "Essentiellement petits rongeurs (campagnols, musaraignes), insectes de grande taille, petits reptiles et occasionnellement petits oiseaux.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Surtout en Méditerranée, Afrique du Nord et Asie ; quelques individus hivernent dans le sud-ouest français lors des années favorables.",
+  "niche": "Pyrénées-Atlantiques et Midi-Pyrénées pour les populations nicheuses françaises. Extension progressive vers le nord depuis 2010.",
+  "passage": "Passages visibles en mars et d'août à octobre, avec des individus erratiques durant l'hiver."
+ },
+ "seasonality_fr": "Visible principalement de juillet à mars en France, avec des pics en automne et en fin d'hiver. Rare ou absent d'avril à juin dans la plupart des régions.",
+ "song_fr": "Oiseau silencieux en général. Cris aigus et plaintifs pendant la période de reproduction ; appels brefs en vol.",
+ "lookalikes": [
+  {
+   "scientific_name": "Falco tinnunculus",
+   "common_name_fr": "Faucon crécerelle",
+   "why_fr": "Silhouette et comportement de chasse similaires (surplace en vol), mais taille légèrement supérieure et plumage plus roux."
+  },
+  {
+   "scientific_name": "Milvus migrans",
+   "common_name_fr": "Milan noir",
+   "why_fr": "Rapace des terres ouvertes, mais silhouette plus imposante et allure générale plus noire."
+  },
+  {
+   "scientific_name": "Circus cyaneus",
+   "common_name_fr": "Busard Saint-Martin",
+   "why_fr": "Chasse en vol rasant similaire, mais plus grand, ailes plus longues et plumage très différent."
+  }
+ ],
+ "rarity_note": "Très rare et localisé en France. Espèce en expansion depuis les années 1990, mais encore absente de la plupart des régions et présente de manière très irrégulière.",
+ "fun_facts": [
+  "Contrairement à la plupart des rapaces, il peut élever plusieurs nichées dans une seule année, une adaptation remarquable aux fluctuations de ses populations de proies.",
+  "Ses yeux rouges et son comportement de surplace en vol lui donnent une ressemblance étonnante avec une chouette.",
+  "Son expansion vers le nord en France a été remarquablement rapide : absent avant 1990, des couples nicheurs ont été confirmés en Mayenne, Bourgogne et Maine-et-Loire dans les années 2020."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/%C3%89lanion_blac",
+  "https://en.wikipedia.org/wiki/Black-winged_kite",
+  "https://www.oiseaux.net/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

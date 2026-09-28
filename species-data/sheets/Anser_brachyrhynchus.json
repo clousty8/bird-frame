@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anser brachyrhynchus",
+ "summary_fr": "L'Oie à bec court est une petite oie migrante qui se reproduit dans les régions polaires du Groenland, d'Islande et du Svalbard, avant de traverser l'Europe pour hiverner dans le nord-ouest, notamment en Grande-Bretagne, aux Pays-Bas et en Scandinavie. Son nom évoque son bec distinctif, court et rose avec des extrémités noires, assorti de pattes roses qui la différencient nettement de l'Oie des moissons. Pesant entre 1,5 et 3,8 kg, elle affiche un plumage gris plus foncé sur la tête. Très grégaire, elle se rassemble en grands groupes souvent bruyants durant sa migration et son hivernage. En France, elle reste exceptionnelle, contrairement aux grands nombres observés en Grande-Bretagne et aux Pays-Bas où les populations ont explosé depuis les années 1950 grâce à la protection légale.",
+ "habitat": "Toundra côtière avec falaises et islets lacustres pour la nidification. En hiver, prairies humides, polders côtiers et champs cultivés d'Europe du nord-ouest.",
+ "diet": "Entièrement herbivore. En été, plantes de toundra (herbes, mousses). En hiver, herbes, grains perdus, betteraves, carottes et feuilles de betterave.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Grande-Bretagne, Pays-Bas, Danemark et occasionnellement Belgique côtière. Extrêmement rare en France.",
+  "niche": "Toundra et toundra arbustive du Groenland, d'Islande, du Svalbard et depuis 2010 du Novaya Zemlya.",
+  "passage": "Passages migratoires en septembre-octobre vers les quartiers d'hiver, retour en avril-mai vers les aires de reproduction."
+ },
+ "seasonality_fr": "Exceptionnelle en France. Rare vagabonde surtout en automne et hiver, contrairement aux populations massives stationnant juste au nord en Grande-Bretagne et aux Pays-Bas.",
+ "song_fr": "Cris très vocaux, notamment en vol : caquètements haut perchés et trompetants, moins profonds que ceux de l'Oie cendrée, souvent décrits comme « honking » aigu et répétitif.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anser fabalis",
+   "common_name_fr": "Oie des moissons",
+   "why_fr": "Appelée aussi Oie à bec court en anglais. Légèrement plus grande avec bec orange et noir. Cris similaires mais plus graves."
+  },
+  {
+   "scientific_name": "Anser serrirostris",
+   "common_name_fr": "Oie de la toundra",
+   "why_fr": "Taille similaire et habitat breeding comparable. Bec et pattes orange plutôt que roses. Cris proches."
+  },
+  {
+   "scientific_name": "Anser albifrons",
+   "common_name_fr": "Oie rieuse",
+   "why_fr": "Espèce hivernante plus régulière en France. Cris plus aigus et rires caractéristiques. Taille comparable."
+  }
+ ],
+ "rarity_note": "Exceptionnelle en France, classée parmi les vagabondes rares malgré sa forte présence estivale en Grande-Bretagne et aux Pays-Bas. Quelques observations hivernales et de passage seulement.",
+ "fun_facts": [
+  "Sa population s'est spectaculairement multipliée en cinquante ans, passant de 30 000 individus en 1950 à plus de 290 000 en 2004, grâce à la protection légale.",
+  "Récemment découvert en 2023 qu'une nouvelle population colonise le Novaya Zemlya russe, formée en seulement dix ans par des individus du Svalbard, possiblement facilitée par le réchauffement climatique.",
+  "Les oisons suivent leurs parents à pied jusqu'au lac le plus proche après l'éclosion et s'envolent après environ 56 jours."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Oie_%C3%A0_bec_court",
+  "https://en.wikipedia.org/wiki/Pink-footed_goose",
+  "https://www.oiseaux.net/especes/oie.a.bec.court.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

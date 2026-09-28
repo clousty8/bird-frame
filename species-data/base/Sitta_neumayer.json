@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Sitta neumayer",
+ "common_name_fr": "Sittelle de Neumayer",
+ "birdnet_label": "Sitta neumayer_Sittelle de Neumayer",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sittidae",
+  "family_common": "Nuthatches",
+  "genus": "Sitta",
+  "species": "Sitta neumayer"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Sittelle de Neumayer",
+   "url": "https://fr.wikipedia.org/wiki/Sittelle_de_Neumayer",
+   "description": "espèce d'oiseaux",
+   "extract": "La Sittelle de Neumayer est une espèce de sittelle originaire du sud-est de l'Europe. Elle est parfois confondue avec la sittelle des rochers dont elle est difficile à distinguer.",
+   "fulltext_chars": 2997
+  },
+  "en": {
+   "title": "Western rock nuthatch",
+   "url": "https://en.wikipedia.org/wiki/Western_rock_nuthatch",
+   "description": "Species of bird",
+   "extract": "The western rock nuthatch is a small passerine bird which breeds from Croatia east through Greece and Turkey to Iran. This nuthatch is largely resident apart from some post-breeding dispersal. The eastern rock nuthatch Sitta tephronota is a separate species, which occurs further east in south-central Asia.",
+   "fulltext_chars": 2900
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sitta_neumayer_0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1764,
+  "height": 1285,
+  "file": "Sitta_neumayer_0.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sitta_neumayer_0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "David F. Belmonte",
+  "credit": "https://www.inaturalist.org/photos/570505181",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Sitta_neumayer_0.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0103,
+  "cities": {
+   "Ajaccio": 0.01
+  },
+  "monthly_scores": [
+   0.0103,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:22Z"
+}

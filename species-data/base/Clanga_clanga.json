@@ -1,0 +1,71 @@
+{
+ "scientific_name": "Clanga clanga",
+ "common_name_fr": "Aigle criard",
+ "birdnet_label": "Clanga clanga_Aigle criard",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Clanga",
+  "species": "Clanga clanga"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Aigle criard",
+   "url": "https://fr.wikipedia.org/wiki/Aigle_criard",
+   "description": "espèce d'aigles",
+   "extract": "L'Aigle criard est une espèce de rapaces diurnes appartenant à la famille des Accipitridae.",
+   "fulltext_chars": 6373
+  },
+  "en": {
+   "title": "Greater spotted eagle",
+   "url": "https://en.wikipedia.org/wiki/Greater_spotted_eagle",
+   "description": "Species of bird",
+   "extract": "The greater spotted eagle, also called the spotted eagle, is a large migratory bird of prey in the family Accipitridae.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BF%D0%BE%D0%B4%D0%BE%D1%80%D0%BB%D0%B8%D0%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 812,
+  "height": 1080,
+  "file": "Большой_подорлик.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BF%D0%BE%D0%B4%D0%BE%D1%80%D0%BB%D0%B8%D0%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Militant Bishop",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BF%D0%BE%D0%B4%D0%BE%D1%80%D0%BB%D0%B8%D0%BA.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.056,
+  "cities": {
+   "Ajaccio": 0.056
+  },
+  "monthly_scores": [
+   0.0548,
+   0.0346,
+   0.0185,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0115,
+   0.0175,
+   0.0248,
+   0.0507,
+   0.056
+  ],
+  "months": [
+   1,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:42Z"
+}

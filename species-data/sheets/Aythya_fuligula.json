@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Aythya fuligula",
+ "summary_fr": "Le Fuligule morillon est un petit canard plongeur au tempérament grégaire, très abondant en Europe du Nord et durant les hivers. Le mâle affiche un plumage noir brillant rehaussé d'une fine huppe et de flancs blancs ; la femelle reste brune terne. Bon plongeur, il descend plusieurs mètres pour se nourrir de mollusques, d'insectes aquatiques et de végétation. Principalement migrateur, il hiverne en France, particulièrement sur les grands lacs et rivières, tandis que ses populations nordiques le traversent au printemps et en automne. En hiver, il forme des rassemblements impressionnants, souvent mêlé aux autres fuligules. Ses yeux jaune pâle et sa silhouette compacte le distinguent de ses cousins plongeurs malgré les risques de confusion acoustique, surtout avec des jeunes ou femelles d'autres Aythya.",
+ "habitat": "Lacs, étangs et grandes rivières toute l'année ; littoral côtier et estuaires en hiver. Recherche les plans d'eau profonds avec végétation aquatique.",
+ "diet": "Mollusques, insectes aquatiques, têtards, petits poissons et crustacés pêchés en plongeant. Complément de végétation aquatique selon la saison.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "France entière, du littoral aux grands lacs intérieurs ; plus abondant dans le nord-est et le long des côtes.",
+  "niche": "Islande, Scandinavie et nord-est européen en été ; reproduction rare ou absente en France continentale.",
+  "passage": "Passages marqués en mars-avril et août-octobre lors des migrations."
+ },
+ "seasonality_fr": "Présent en France toute l'année ; effectifs maximaux d'octobre à avril. Hivernage régulier et transit printanier/automnal bien marqués.",
+ "song_fr": "Mâle silencieux ou émettant de légers appels graves ; femelle rare. Sifflements faibles en vol et bruits d'éclaboussement à l'atterrissage.",
+ "lookalikes": [
+  {
+   "scientific_name": "Aythya ferina",
+   "common_name_fr": "Fuligule milouin",
+   "why_fr": "Taille similaire et habitat commun, mais mâle fuligule milouin a tête châtain et poitrine blanche contrastée."
+  },
+  {
+   "scientific_name": "Aythya marila",
+   "common_name_fr": "Fuligule milouinan",
+   "why_fr": "Mâle noir-blanc comparable, mais milouinan plus robuste et tête moins huppée ; femelle très proche de jeunes morillons."
+  },
+  {
+   "scientific_name": "Aythya nyroca",
+   "common_name_fr": "Fuligule nyroca",
+   "why_fr": "Plus petit, même habitat palustral ; mâle nyroca plus nuancé (dos brun), femelle nyroca plus rougeâtre."
+  }
+ ],
+ "rarity_note": "Régulier et modérément abondant en France, surtout de novembre à mars. Absence locale possible en cœur d'été. Jamais exceptionnel mais effectifs fluctuants selon rigueur hivernale.",
+ "fun_facts": [
+  "Le Fuligule morillon forme l'un des plus grands rassemblements de canards en hiver, avec des milliers d'oiseaux partageant un même lac nordique.",
+  "Sa huppe érectile, plus prononcée chez le mâle, s'aplatit en plongée pour améliorer l'hydrodynamisme — c'est un expert de la vie aquatique profonde.",
+  "Autrefois plus nord-européen, le fuligule morillon a étendu son aire de reproduction vers le sud et l'ouest, profitant de la prolifération des mollusques d'eau douce."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fuligule_morillon",
+  "https://en.wikipedia.org/wiki/Tufted_duck",
+  "https://www.oiseaux.net/fiches/fuligule.morillon.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4355"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,88 @@
+{
+ "scientific_name": "Passer italiae",
+ "common_name_fr": "Moineau cisalpin",
+ "birdnet_label": "Passer italiae_Moineau cisalpin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Passeridae",
+  "family_common": "Old World Sparrows",
+  "genus": "Passer",
+  "species": "Passer italiae"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Moineau cisalpin",
+   "url": "https://fr.wikipedia.org/wiki/Moineau_cisalpin",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Moineau cisalpin est une espèce d'oiseaux résultant de l'hybridation stable du Moineau domestique et du Moineau espagnol. On lui prête des statuts variables, tantôt espèce à part entière, tantôt sous-espèce de l'un ou l'autre parent de l'hybridation.",
+   "fulltext_chars": 3392
+  },
+  "en": {
+   "title": "Italian sparrow",
+   "url": "https://en.wikipedia.org/wiki/Italian_sparrow",
+   "description": "Species of bird",
+   "extract": "The Italian sparrow, also known as the cisalpine sparrow, is a passerine bird of the sparrow family Passeridae, found in Italy and other parts of the Mediterranean region. In appearance, it is intermediate between the house sparrow, and the Spanish sparrow, a species of the Mediterranean and Central Asia closely related to the house sparrow. The Italian sparrow occurs in northern Italy and neighbouring regions, with intermediates with the house sparrow in a very narrow contact zone in the Alps, a slow gradation in appearance from the Italian to Spanish sparrows across central and southern Italy, and more birds of intermediate appearance in Malta, Crete, and other parts of the Mediterranean.",
+   "fulltext_chars": 8743
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/00/Passer_italiae_1_%28loz%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1559,
+  "height": 2338,
+  "file": "Passer_italiae_1_(loz).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/0/00/Passer_italiae_1_%28loz%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Loz (L. B. Tettenborn)",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Passer_italiae_1_(loz).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.6567,
+  "cities": {
+   "Strasbourg": 0.044,
+   "Lyon": 0.115,
+   "Grenoble": 0.154,
+   "Marseille": 0.114,
+   "Ajaccio": 0.657,
+   "Clermont-Ferrand": 0.042,
+   "Chamonix": 0.297,
+   "Perpignan": 0.024,
+   "Nancy": 0.014
+  },
+  "monthly_scores": [
+   0.6275,
+   0.5951,
+   0.5227,
+   0.5624,
+   0.6262,
+   0.6252,
+   0.649,
+   0.6567,
+   0.5967,
+   0.585,
+   0.5414,
+   0.5931
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:01Z"
+}

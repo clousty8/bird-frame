@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Himantopus himantopus",
+ "common_name_fr": "Échasse blanche",
+ "birdnet_label": "Himantopus himantopus_Échasse blanche",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Recurvirostridae",
+  "family_common": "Stilts and Avocets",
+  "genus": "Himantopus",
+  "species": "Himantopus himantopus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Échasse blanche",
+   "url": "https://fr.wikipedia.org/wiki/%C3%89chasse_blanche",
+   "description": "espèce d'oiseaux charadriiformes de la famille des recurvirostridae",
+   "extract": "L'Échasse blanche est une espèce d'oiseaux Charadriiformes de la famille des Recurvirostridae. C'est une espèce d'échassier limicole vivant en Eurasie et en Afrique. Dans certaines taxonomies, l'espèce comprend aussi l'Échasse d'Australie, l'Échasse d'Amérique et l'Échasse à queue noire qui vivent respectivement en Australie, en Amérique du Nord et en Amérique du Sud. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 4563
+  },
+  "en": {
+   "title": "Black-winged stilt",
+   "url": "https://en.wikipedia.org/wiki/Black-winged_stilt",
+   "description": "Species of bird",
+   "extract": "The black-winged stilt is a widely distributed, very long-legged wader in the avocet and stilt family Recurvirostridae. Its scientific name, Himantopus himantopus, is sometimes used to generalize a single, almost cosmopolitan species. Alternatively, it is restricted to the form that is widespread in Europe, Asia and Africa, which equals the nominate group of H. himantopus sensu lato. Meanwhile, the black-necked and white-backed stilts both inhabit the Americas; the pied stilt ranges from Australia and New Zealand. Today, most sources accept between one and four actual species.",
+   "fulltext_chars": 4012
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Black-winged_stilt_courtship_behaviour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3000,
+  "height": 2000,
+  "file": "Black-winged_stilt_courtship_behaviour.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Black-winged_stilt_courtship_behaviour.jpg/1920px-Black-winged_stilt_courtship_behaviour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Ryzhkov Sergey",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Black-winged_stilt_courtship_behaviour.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3717,
+  "cities": {
+   "Le Mans": 0.097,
+   "Pornic": 0.118,
+   "Rennes": 0.092,
+   "Poitiers": 0.129,
+   "Paris": 0.073,
+   "Lille": 0.04,
+   "Strasbourg": 0.043,
+   "Lyon": 0.111,
+   "Grenoble": 0.139,
+   "Marseille": 0.225,
+   "Toulouse": 0.187,
+   "Bordeaux": 0.163,
+   "Brest": 0.071,
+   "Ajaccio": 0.372,
+   "Clermont-Ferrand": 0.121,
+   "Chamonix": 0.092,
+   "Perpignan": 0.232,
+   "Nancy": 0.046
+  },
+  "monthly_scores": [
+   0.1509,
+   0.1739,
+   0.3142,
+   0.3717,
+   0.3245,
+   0.302,
+   0.2906,
+   0.2953,
+   0.1978,
+   0.1468,
+   0.1475,
+   0.1556
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:18Z"
+}

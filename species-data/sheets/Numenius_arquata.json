@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Numenius arquata",
+ "summary_fr": "Le Courlis cendré est un grand limicole cosmopolite, le plus étendu de son genre à travers les régions tempérées de l'Eurasie. Oiseau robuste de cinquante à soixante centimètres, il se distingue par son très long bec recourbé, particulièrement impressionnant chez les femelles, et son arrière-train blanc contrastant avec son plumage gris-brun. Le familier appel « courli-i » ou « cour-li » qui retentit sur les littoraux a donné son nom à l'espèce. Limicole des zones humides littorales, il recherche ses aliments en sondant le sédiment et s'adapte aux rythmes des marées. Migrateur partiel en France, il fréquente nos côtes toute l'année, avec des effectifs renforcés en hiver. Malheureusement, cette espèce connaît un déclin inquiétant depuis plusieurs décennies, notamment en France et au Royaume-Uni, en raison de la dégradation de ses habitats naturels et de la pollution des vasières. Protégé depuis 2020, il demeure régulier mais menacé.",
+ "habitat": "Zones humides littorales : vasières, bancs de sable découvrant à marée basse, estuaires et baies côtières. Aussi prairies tourbières et zones humides d'eau douce en période de reproduction. Hiverne sur les littoraux et côtes d'Europe méridionale et d'Afrique.",
+ "diet": "Invertébrés benthiques capturés en sondant la vase et le sédiment : annélides, crustacés, mollusques et insectes. Occasionnellement petits poissons, amphibiens, lézards et baies. Adapte son régime et ses horaires d'alimentation aux cycles des marées et aux disponibilités locales.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Littoraux de l'Irlande, du Royaume-Uni, de la France et de l'Europe méridionale. Autres populations hivernent en Afrique du Nord, du Moyen-Orient jusqu'en Inde et au sud-est asiatique.",
+  "niche": "Prairies, tourbières et pâturages d'Europe tempérée et boréale, de l'Irlande occidentale au Cercle arctique, ainsi qu'en Scandinavie, Europe centrale et ouest-sibérien. Niche en faibles effectifs en France, surtout en Ouest et Centre-Ouest.",
+  "passage": "Migrations de mars à mai (printemps) et de juillet à septembre (automne). Les effectifs hivernaux et en passage varient selon les années et les conditions météorologiques."
+ },
+ "seasonality_fr": "Visible toute l'année en France, mais plus abondant en période hivernale (septembre à avril) sur les littoraux atlantique et Manche. Quelques couples se reproduisent en prairies intérieures (avril-juillet). Passant régulier lors des migrations de printemps et automne, concentration notable en estuaires lors des passages.",
+ "song_fr": "Cri distinctif : un appel courli-i assez long et retentissant, de courli ou cour-li, à la base du nom français. Aussi cris plus aigus en défense territoriale et lors de parades aériennes (tlu-ih, cou-cou-kiou enroué). Début lent puis accélération en trille.",
+ "lookalikes": [
+  {
+   "scientific_name": "Numenius phaeopus",
+   "common_name_fr": "Courlis corlieu",
+   "why_fr": "Très similaire mais plus petit, bec plus court avec pliure plutôt que courbe régulière. Tête avec motif de plumage différent et sourcils marqués. Confusion courante en migration."
+  },
+  {
+   "scientific_name": "Limosa lapponica",
+   "common_name_fr": "Barge rousse",
+   "why_fr": "Similaire en vol hivernal, mais corps plus petit, bec légèrement recourbé vers le haut. Silhouette moins imposante. Habitats et comportements moins côtiers."
+  }
+ ],
+ "rarity_note": "Régulier à assez commun sur les littoraux français, surtout en automne et hiver. Score BirdNET maximal 0.48 en France. Espèce classée Quasi-menacée mondialement et en régression notable depuis 30 ans. Protection renforcée depuis 2020.",
+ "fun_facts": [
+  "Son bec extraordinaire, long de dix à quinze centimètres, est le plus long proportionnellement de tous les oiseaux européens et se courbe progressivement. Les femelles ont des becs encore plus longs que les mâles.",
+  "Le Courlis cendré peut vivre plus de trente ans : un spécimen bagué en Angleterre en 1992 a été observé vivant en 2026, soit plus de 33 ans après.",
+  "La population irlandaise a chuté de 96 % en trente ans, passant de 12 000 couples dans les années 1980 à seulement 138 en 2017 – l'une des régressions les plus catastrophiques en ornithologie."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Courlis_cendr%C3%A9",
+  "https://en.wikipedia.org/wiki/Eurasian_curlew",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/",
+  "https://www.uicn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

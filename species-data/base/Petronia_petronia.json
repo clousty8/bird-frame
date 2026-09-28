@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Petronia petronia",
+ "common_name_fr": "Moineau soulcie",
+ "birdnet_label": "Petronia petronia_Moineau soulcie",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Passeridae",
+  "family_common": "Old World Sparrows",
+  "genus": "Petronia",
+  "species": "Petronia petronia"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Moineau soulcie",
+   "url": "https://fr.wikipedia.org/wiki/Moineau_soulcie",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Moineau soulcie est une espèce d'oiseaux appartenant à la famille des Passeridae. C'est la seule espèce du genre Petronia d'après la classification de référence du Congrès ornithologique international.",
+   "fulltext_chars": 7779
+  },
+  "en": {
+   "title": "Rock sparrow",
+   "url": "https://en.wikipedia.org/wiki/Rock_sparrow",
+   "description": "Species of bird",
+   "extract": "The rock sparrow or rock petronia is a small passerine bird in the sparrow family Passeridae. It is the only species in the genus Petronia. It breeds on barren rocky hills from Madeira and the Canary Islands east through the Iberian Peninsula and western north Africa, across southern Europe and through southwestern and central Asia to Mongolia and the north and west of China. It is resident in the west of its range, but some Asian birds may migrate to more southerly areas, or move to lower altitudes in mountains, in winter.",
+   "fulltext_chars": 4855
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Petronia_petronia_-Ariege%2C_Midi-Pyrenee%2C_France-8-4c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1005,
+  "height": 1005,
+  "file": "Petronia_petronia_-Ariege,_Midi-Pyrenee,_France-8-4c.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Petronia_petronia_-Ariege%2C_Midi-Pyrenee%2C_France-8-4c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Petronia_petronia_-Ariege,_Midi-Pyrenee,_France-8.jpg: Sandra from France\nderivative work: Snowmanradio",
+  "credit": "This file was derived from:  Petronia petronia -Ariege, Midi-Pyrenee, France-8.jpg:",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Petronia_petronia_-Ariege,_Midi-Pyrenee,_France-8-4c.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1617,
+  "cities": {
+   "Pornic": 0.011,
+   "Poitiers": 0.02,
+   "Lyon": 0.025,
+   "Grenoble": 0.021,
+   "Marseille": 0.059,
+   "Toulouse": 0.087,
+   "Bordeaux": 0.068,
+   "Ajaccio": 0.162,
+   "Clermont-Ferrand": 0.032,
+   "Chamonix": 0.012,
+   "Perpignan": 0.092
+  },
+  "monthly_scores": [
+   0.1596,
+   0.1617,
+   0.1398,
+   0.0999,
+   0.0848,
+   0.0818,
+   0.0812,
+   0.06,
+   0.0504,
+   0.0892,
+   0.1411,
+   0.1615
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:29Z"
+}

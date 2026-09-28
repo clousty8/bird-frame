@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Larus argentatus",
+ "summary_fr": "Le Goéland argenté est un grand goéland blanc et gris, reconnaissable à son dos gris moyen, son plumage blanc de la tête à la poitrine et les marques noires et blanches à l'extrémité de ses ailes. Espèce bruyante et très sociable, il se nourrit opportunément de poisson, de crustacés, mais aussi de charognes, de déchets et même d'œufs d'autres oiseaux. Jadis rare, les populations ont explosé au XXe siècle, colonisant les côtes d'Europe du Nord et de l'Ouest, s'adaptant remarquablement aux environnements urbains. Très territorial l'année durant, il niche en colonies comportant de dizaines à plusieurs milliers de couples. Ses cris perçants et son agressivité défensive lors de la reproduction en font un voisin des plus remarqués en zone côtière. Bien que régulé localement, le Goéland argenté demeure très commun en France, où nicheurs et hivernants coexistent.",
+ "habitat": "Littoraux rocheux et escarpés, îles, dunes, bogs côtiers, toits urbains et structures anthropiques. Cherche aussi sa nourriture dans les terres, champs, décharges et ports. Niche au sol ou en falaise, occupant des territoires très diversifiés.",
+ "diet": "Poisson, crustacés, mollusques, invertébrés marins. Chasse aussi insectes, vers de terre, œufs et oisillons d'autres espèces. Charognard opportuniste, il se nourrit de déchets, poisson rejeté en mer, aliments urbains et ordures. Baies et graines saisonnièrement.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France côtière et intérieure, côtes du Nord-Ouest et du Bassin méditerranéen, rejoignant les nicheurs locaux. Hivernaison aussi en Irlande, Grande-Bretagne, Pays-Bas selon les populations.",
+  "niche": "Partout sur les côtes françaises, particulièrement au nord et ouest, d'avril à juillet. Deux à trois oisillons par couple et par an en conditions favorables.",
+  "passage": "Passages marqués en mars-avril et d'octobre à novembre, les populations nordiques et orientales migrant vers les côtes méditerranéennes et atlantiques."
+ },
+ "seasonality_fr": "Visible toute l'année en France côtière; plus abondant en automne et hiver quand les migrants du nord renforcent les populations résidentes. Cris omniprésents surtout en période de reproduction (avril-juillet).",
+ "song_fr": "Oiseau très bruyant au répertoire vocal vaste. Cris sonores et stridents ressemblant à des jappements plaintifs. Clameurs éclatantes caractéristiques du type « aow-kayïï-kao-kao-kao ». Cri territorial des plus distinctifs: la « raucous long call ». Chicks et jeunes émettent des « peep » aigus répétitifs.",
+ "lookalikes": [
+  {"scientific_name": "Larus michahellis", "common_name_fr": "Goéland leucophée", "why_fr": "Très similaire, distingue principalement par les pattes jaunes (roses chez argentatus) et dos plus soutenu. Peut chevaucher en zone côtière."},
+  {"scientific_name": "Larus fuscus", "common_name_fr": "Goéland brun", "why_fr": "Juvéniles extrêmement semblables, mais dos sensiblement plus foncé chez le brun avec zone pâle en vol moins prononcée."},
+  {"scientific_name": "Larus canus", "common_name_fr": "Goéland cendré", "why_fr": "Comportement similaire, confusion possible de jeune argentatus. Distingue par yeux noirs (jaunes), pattes jaune-verdâtre et corpus plus compact."}
+ ],
+ "rarity_note": "Très commun et régulier en France côtière toute l'année. Max_score 0,92 conforme à présence ubiquiste. Expansion démographique remarquable depuis un siècle; stable à légèrement déclinant depuis 2010 dans certaines régions.",
+ "fun_facts": [
+  "Seul parmi les goélands européens, mâle et femelle chantent toute l'année, même l'hiver, pour défendre leur territoire.",
+  "Les couples restent fidèles de nombreuses années, revenant au même nid sur les mêmes falaises ou toits génération après génération.",
+  "Observé utilisant des cailloux pour briser les coquillages, et même du pain comme appât pour pêcher les poissons rouges en milieu urbain."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Go%C3%A9land_argent%C3%A9",
+  "https://en.wikipedia.org/wiki/European_herring_gull",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

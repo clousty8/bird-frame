@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Carduelis citrinella",
+ "summary_fr": "Le Venturon montagnard est un petit passereau granivore de la famille des Fringillidae, spécialisé dans les forêts de montagne. Long de 13 cm et pesant environ 13 g, il arbore un plumage verdâtre teinté de jaune, particulièrement chez le mâle. Endémique d'Europe, il habite l'étage montagnard supérieur des massifs pyrénéens, alpins, du Massif central et des Vosges. Granivore strictement inféodé aux cônes de pins à crochets et aux graines de plantes herbacées en altitude, il demeure peu connu du grand public. Territorial et défensif, il possède un chant mélodieux ressemblant à celui du Chardonneret. En France, ses populations connaissent un déclin, notamment en limite nord d'aire (Forêt-Noire), victimes de l'intensification agricole et des changements climatiques. C'est un oiseau discret mais régulier des zones de nidification spécialisées.",
+ "habitat": "Étage montagnard supérieur (à partir de 700 m), forêts de résineux (pins à crochets, épicéas, mélèzes) et milieux semi-ouverts de pré-bois. En hiver, descend en plaine et devient grégaire.",
+ "diet": "Exclusivement granivore : graines de pins (surtout Pin à crochets), germandrée et astéracées. En saison de reproduction, insectes complètent régulièrement l'alimentation.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Descend en plaine en hiver dans toute son aire française, rejoint par des oiseaux du nord et de l'est européens, notamment de septembre à mars.",
+  "niche": "Niche en montagne (Pyrénées, Alpes, Massif central, sud Vosges) d'avril à juillet, généralement une ou deux nichées par saison.",
+  "passage": "Passages marqués en mars-avril et octobre-novembre sur les chaînes de montagne."
+ },
+ "seasonality_fr": "Visible toute l'année en France, mais concentré en montagne du printemps à l'automne. En hiver, descend en plaine et devient social. Chante principalement d'avril à juillet.",
+ "song_fr": "Chant fluide et mélodieux, twittering argentin ressemblant à celui du Chardonneret élégant, avec des notes claires rappelant aussi le Serin cini. Cri principal aigu « tee-ee », similaire au Tarin des aulnes.",
+ "lookalikes": [
+  {"scientific_name": "Serinus serinus", "common_name_fr": "Serin cini", "why_fr": "Chant très ressemblant, silvery twittering comparable. Présence en zone montagne crée confusion acoustique."},
+  {"scientific_name": "Carduelis carduelis", "common_name_fr": "Chardonneret élégant", "why_fr": "Chant mélodieux et cri « tee-ee » similaires. Famille carduelis : confusion acoustique possible."},
+  {"scientific_name": "Linaria cannabina", "common_name_fr": "Linotte mélodieuse", "why_fr": "Finch apparenté, grégaire en hiver, cri et chant partiellement homologues."},
+  {"scientific_name": "Carduelis corsicana", "common_name_fr": "Venturon corse", "why_fr": "Espèce sœur, très proche acoustiquement, spécialisée en milieu insulaire et côtier."}
+ ],
+ "rarity_note": "Très rare en France, limité aux massifs montagneux (Pyrénées, Alpes, Massif central). Absent des zones basses et côtières. Déclins importants signalés en limite nord (Forêt-Noire). Espèce hautement spécialisée et vulnérable.",
+ "fun_facts": [
+  "C'est l'une des rares espèces hivernales à descendre en plaine en masse, formant des petites bandes sociales très compactes.",
+  "Les œufs du Venturon montagnard sont plus gros dans les habitats de meilleure qualité, révélant une sélection naturelle intéressante.",
+  "Mâle et femelle défendent chacun leur territoire toute l'année, ce qui est exceptionnel chez les passereaux granivores."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Venturon_montagnard",
+  "https://en.wikipedia.org/wiki/Citril_finch",
+  "https://inpn.mnhn.fr/",
+  "https://oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

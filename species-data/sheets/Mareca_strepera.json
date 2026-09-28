@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Mareca strepera",
+ "summary_fr": "Le Canard chipeau est un canard barboteur gracile qui peuple les zones humides de France et d'Europe. Le mâle arbore un plumage gris finement strié avec un arrière-corps noir brillant et des couvertures alaires roux vif spectaculaires en vol. La femelle, plus discrète, rappelle celle du Canard colvert mais reste plus petite et plus élancée. Contrairement à beaucoup de ses cousins, le Chipeau peut plonger pour se nourrir, bien qu'il préfère le glanage en surface. Espèce moitié sédentaire, moitié migratrice en France, il fréquente les marais côtiers, les étangs et les prairies inondées. Moins bruyant que le Colvert sauf en période de parade, il émet des cris secs et des grunts caractéristiques. Relativement commun et régulier, il représente une belle opportunité d'observation pour qui connaît ses habitats humides préférés.",
+ "habitat": "Marais côtiers, étangs, prairies inondées et zones humides ouvertes avec végétation dense. Niche souvent loin de l'eau, dans les herbes hautes.",
+ "diet": "Plantes aquatiques obtenues par glanage en surface ; se nourrit également par plongée contrairement aux autres canards barboteurs. Invertébrés aquatiques en complément.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Hiverne en France, particulièrement dans l'est et le sud, ainsi que dans la région méditerranéenne. Les hivernants continentaux se rejoignent à nos nicheurs sédentaires.",
+  "niche": "Niche partout en France, d'avril à juillet, dans les marais et zones humides. Nicheur régulier mais peu abondant.",
+  "passage": "Passages marqués en mars et avril, puis d'août à novembre lors des déplacements migratoires."
+ },
+ "seasonality_fr": "Visible et audible en France toute l'année, avec des effectifs renforcés en hiver par l'arrivée de migrateurs du nord. Plus discret en été en zone de nidification.",
+ "song_fr": "Mâle : grunts sourds (mep) et sifflements aigus lors des parades. Femelle : cri gag-ag-ag-ag rappelant le coassement de la femelle du Colvert mais plus aigu et moins vigoureux. Globalement canard discret hors parade nuptiale.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anas platyrhynchos",
+   "common_name_fr": "Canard colvert",
+   "why_fr": "Les femelles font des cris très similaires ; celles du Chipeau sont plus petites, plus grises et ont le bec orangé."
+  },
+  {
+   "scientific_name": "Mareca penelope",
+   "common_name_fr": "Canard siffleur",
+   "why_fr": "Même genre Mareca ; le siffleur mâle a des sifflements beaucoup plus clairs et des tons roux à la tête."
+  },
+  {
+   "scientific_name": "Anas acuta",
+   "common_name_fr": "Canard pilet",
+   "why_fr": "Canard barboteur avec des appels grinçants et nasillards pouvant créer une confusion en conditions acoustiques difficiles."
+  }
+ ],
+ "rarity_note": "Régulier et relativement commun en France, présent toute l'année. Populations stables, ni rare ni abondant.",
+ "fun_facts": [
+  "Contrairement aux autres canards barboteurs, le Chipeau peut plonger pour se nourrir, lui permettant de pêcher la nourriture comme les Fuligules.",
+  "Le Chipeau mâle en parade effectue une display spectaculaire appelée le « burp » (rot) où il redresse la tête en pointant le bec vers la femelle, accompagné de bruits caractéristiques.",
+  "Avec le Canard colvert et la Sarcelle d'hiver, le Chipeau fait partie des trois canards français les plus chassés, avec un million d'oiseaux prélevés annuellement en Europe."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Canard_chipeau",
+  "https://en.wikipedia.org/wiki/Gadwall",
+  "https://www.oiseaux.net/",
+  "https://www.inpn.mnhn.fr/",
+  "https://ebird.org/species/gadwal/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Streptopelia decaocto",
+ "common_name_fr": "Tourterelle turque",
+ "birdnet_label": "Streptopelia decaocto_Tourterelle turque",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Columbiformes",
+  "family": "Columbidae",
+  "family_common": "Pigeons and Doves",
+  "genus": "Streptopelia",
+  "species": "Streptopelia decaocto"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Tourterelle turque",
+   "url": "https://fr.wikipedia.org/wiki/Tourterelle_turque",
+   "description": "espèce d'oiseaux columbiformes de la famille des Columbidae",
+   "extract": "La Tourterelle turque est une espèce d'oiseaux appartenant à la famille des Columbidae. Elle appartient au groupe des tourterelles ayant un collier qui comprend plusieurs espèces. Elle ne doit pas être confondue en particulier avec la Tourterelle à collier ou la Tourterelle domestique qui ont un aspect très proche avec un collier noir comparable.",
+   "fulltext_chars": 12912
+  },
+  "en": {
+   "title": "Eurasian collared dove",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_collared_dove",
+   "description": "Species of bird",
+   "extract": "The Eurasian collared dove, often called the collared dove, is a dove species from the genus Streptopelia. It is grey-buff to pinkish-grey, and has a black half-collar edged with white on its nape, alluding to the name. It is native to Europe, Asia, and North Africa. It has also been introduced to Japan, North and Central America, and select Caribbean islands.",
+   "fulltext_chars": 10092
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Tourterelle_Turque_Duntz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1536,
+  "file": "Tourterelle_Turque_Duntz.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Tourterelle_Turque_Duntz.jpg/1920px-Tourterelle_Turque_Duntz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Filsdalsace67",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Tourterelle_Turque_Duntz.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9557,
+  "cities": {
+   "Le Mans": 0.661,
+   "Pornic": 0.574,
+   "Rennes": 0.589,
+   "Poitiers": 0.641,
+   "Paris": 0.635,
+   "Lille": 0.553,
+   "Strasbourg": 0.471,
+   "Lyon": 0.613,
+   "Grenoble": 0.714,
+   "Marseille": 0.844,
+   "Toulouse": 0.725,
+   "Bordeaux": 0.604,
+   "Brest": 0.483,
+   "Ajaccio": 0.956,
+   "Clermont-Ferrand": 0.631,
+   "Chamonix": 0.591,
+   "Perpignan": 0.832,
+   "Nancy": 0.541
+  },
+  "monthly_scores": [
+   0.7656,
+   0.8068,
+   0.8818,
+   0.9501,
+   0.9557,
+   0.9376,
+   0.9166,
+   0.9428,
+   0.9339,
+   0.8701,
+   0.7732,
+   0.773
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:21Z"
+}

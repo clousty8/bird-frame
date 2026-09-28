@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Turdus viscivorus",
+ "summary_fr": "La Grive draine est la plus grande des grives d'Europe, reconnaissable à son plumage gris-brun parsemé de taches noires. Malgré son allure discrète, ce passereau s'annonce par un chant puissant et clair, souvent entonné dans les conditions météorologiques les plus difficiles : pluie, vent, froid. Ce trait lui a valu le surnom pittoresque de « coq de tempête » en anglais. Omnivore selon les saisons, elle se nourrit d'insectes et de vers au printemps, puis de baies et de graines l'automne, avec une prédilection marquée pour le gui, qui lui a donné son nom scientifique. Elle fréquente les bois ouverts, les parcs, les haies et les jardins arborés, où elle construit ses nids en hauteur, qu'elle défend avec une agressivité remarquable.",
+ "habitat": "Bois ouverts, parcs, jardins, haies, vergers et formations arborées. Fréquente également les régions parsemées d'arbres isolés, les prairies en hiver.",
+ "diet": "Invertébrés (insectes, vers de terre, escargots) au printemps et en été. Fruits et graines en automne et hiver, notamment baies de gui, houx, sorbier, ifs et lierre.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Populations du nord et du nord-est de l'aire de répartition hivernent en Espagne, en Afrique du Nord, en Turquie et au Levant. En France, elle hiverne partout.",
+  "niche": "Toute la France, nichage dès fin mars, généralement deux nichées par an jusqu'en juin.",
+  "passage": "Migrations marquées en mars (retour vers les territoires de reproduction) et d'octobre à novembre (départ vers les zones d'hivernage)."
+ },
+ "seasonality_fr": "Visible et audible toute l'année en France. Plus discrète en été lors de la mue, mais son chant résonne même en hiver, parfois la nuit.",
+ "song_fr": "Chant puissant, mélodieux et clair, composé de phrases flûtées répétées, audible jusqu'à 2 km de distance. Cri de contact sec et répété, comparé au son d'une crécelle. Chante même par mauvais temps et nuit.",
+ "lookalikes": [
+  {
+   "scientific_name": "Turdus philomelos",
+   "common_name_fr": "Grive musicienne",
+   "why_fr": "Ressemblance générale mais grive musicienne plus petite, chant plus varié et mélodieux."
+  },
+  {
+   "scientific_name": "Turdus merula",
+   "common_name_fr": "Merle noir",
+   "why_fr": "Chant rappelant celui de la grive draine mais sans variété, différences de timbre et d'intensité."
+  }
+ ],
+ "rarity_note": "Régulière en France toute l'année. Peu commune à commune selon les régions. Statut de conservation : préoccupation mineure (large population, aire de répartition très vaste).",
+ "fun_facts": [
+  "Nommée viscivorus (« mangeuse de gui ») car elle se nourrit des baies de gui, dont elle propage les graines en les excrétant sur les branches.",
+  "Elle défend farouchement ses réserves de nourriture en hiver, attaquant même les oiseaux bien plus gros pour garder l'accès aux arbres porteurs de baies.",
+  "Ses passages migrateurs sont spectaculaires : des milliers d'individus franchissent le détroit de Gibraltar entre octobre et novembre."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Grive_draine",
+  "https://en.wikipedia.org/wiki/Mistle_thrush"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

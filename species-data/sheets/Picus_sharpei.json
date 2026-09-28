@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Picus sharpei",
+ "summary_fr": "Le Pic de Sharpe, ou pic ibérique, est un pic vert de taille moyenne longtemps considéré comme une simple sous-espèce du Pic vert, dont il a été séparé en 2011 après la découverte de différences génétiques marquées entre les deux populations. On le reconnaît surtout à l'absence de noir franc autour des yeux et sur les joues, remplacé par un cercle oculaire brun terne, ainsi qu'à des sous-caudales unies plutôt que barrées de blanc et noir. Son plumage vert doré et sa calotte rouge chez le mâle rappellent fortement son cousin, tout comme ses cris sifflants et légèrement rauques, qualifiés de sibilants, qui restent le meilleur indice pour le distinguer sur le terrain. En France, son aire se cantonne à une bande allant des Pyrénées-Orientales aux Pyrénées-Atlantiques, où il fréquente forêts de feuillus clairs, lisières et piémonts ensoleillés. Il y niche chaque année et s'hybride localement avec le Pic vert dans l'Aude et l'Hérault, aux confins de leurs territoires respectifs. Comme les autres pics, il se nourrit surtout de fourmis et d'insectes xylophages, qu'il extrait du bois mort et du sol grâce à sa longue langue collante et son bec puissant.",
+ "habitat": "Forêts de feuillus clairs, lisières, piémonts et boisements méditerranéens ensoleillés, essentiellement en zone pyrénéenne et sud-ouest française.",
+ "diet": "Fourmis et insectes xylophages extraits du bois mort et du sol, larves, araignées ; quelques baies en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Reste dans son aire pyrénéenne et sud-ouest française, avec de légers déplacements altitudinaux vers les vallées en hiver.",
+  "niche": "Pyrénées-Orientales à Pyrénées-Atlantiques et piémont pyrénéen, d'avril à juillet.",
+  "passage": null
+ },
+ "seasonality_fr": "Présent toute l'année dans son aire française restreinte des Pyrénées et du sud-ouest ; activité de chant et de tambourinage plus marquée au printemps.",
+ "song_fr": "Cris sifflants et légèrement rauques dits sibilants, moins forts et moins flûtés que ceux du Pic vert ; tambourinages brefs et rapides.",
+ "lookalikes": [
+  {
+   "scientific_name": "Picus viridis",
+   "common_name_fr": "Pic vert",
+   "why_fr": "Cris très proches ; le Pic vert a un masque noir marqué et des appels plus forts et flûtés."
+  },
+  {
+   "scientific_name": "Picus canus",
+   "common_name_fr": "Pic cendré",
+   "why_fr": "Plumage plus grisâtre et chant descendant moins sibilant que celui du Pic de Sharpe."
+  }
+ ],
+ "rarity_note": "Espèce peu commune et strictement localisée en France, cantonnée aux Pyrénées et au sud-ouest, où elle reste résidente ; absente ailleurs sur le territoire.",
+ "fun_facts": [
+  "Séparé du Pic vert seulement en 2011, après la découverte de différences génétiques marquées entre les deux populations.",
+  "Il s'hybride naturellement avec le Pic vert dans l'Aude et l'Hérault, aux limites de leurs aires respectives.",
+  "Son cri sibilant, presque chuintant, permet de le distinguer du Pic vert avant même de l'apercevoir."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pic_de_Sharpe",
+  "https://en.wikipedia.org/wiki/Iberian_green_woodpecker",
+  "https://www.oiseaux.net/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

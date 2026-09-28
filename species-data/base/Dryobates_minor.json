@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Dryobates minor",
+ "common_name_fr": "Pic épeichette",
+ "birdnet_label": "Dryobates minor_Pic épeichette",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Piciformes",
+  "family": "Picidae",
+  "family_common": "Woodpeckers",
+  "genus": "Dryobates",
+  "species": "Dryobates minor"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pic épeichette",
+   "url": "https://fr.wikipedia.org/wiki/Pic_%C3%A9peichette",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pic épeichette est la plus petite des espèces de pics européens, avec une taille aux alentours de celle du moineau. Bien que non directement apparenté, il présente une ressemblance physique avec le pic épeiche, avec lequel il partage également de nombreuses habitudes, bien qu'il soit nettement plus petit.",
+   "fulltext_chars": 3800
+  },
+  "en": {
+   "title": "Lesser spotted woodpecker",
+   "url": "https://en.wikipedia.org/wiki/Lesser_spotted_woodpecker",
+   "description": "Species of bird",
+   "extract": "The lesser spotted woodpecker is a member of the woodpecker family Picidae. It was formerly assigned to the genus Dendrocopos. Some taxonomic authorities continue to list the species there.",
+   "fulltext_chars": 6290
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Male_lesser_spotted_woodpecker_%28Dryobates_minor%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2826,
+  "height": 3000,
+  "file": "Male_lesser_spotted_woodpecker_(Dryobates_minor).png",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Male_lesser_spotted_woodpecker_%28Dryobates_minor%29.png/1920px-Male_lesser_spotted_woodpecker_%28Dryobates_minor%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Andrey Gulivanov",
+  "credit": "Wikimedia Commons",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Male_lesser_spotted_woodpecker_(Dryobates_minor).png"
+ },
+ "france_universe": {
+  "max_score": 0.1252,
+  "cities": {
+   "Le Mans": 0.089,
+   "Pornic": 0.068,
+   "Rennes": 0.05,
+   "Poitiers": 0.125,
+   "Paris": 0.06,
+   "Lille": 0.038,
+   "Strasbourg": 0.058,
+   "Lyon": 0.084,
+   "Grenoble": 0.072,
+   "Marseille": 0.056,
+   "Toulouse": 0.084,
+   "Bordeaux": 0.117,
+   "Brest": 0.019,
+   "Ajaccio": 0.102,
+   "Clermont-Ferrand": 0.105,
+   "Chamonix": 0.075,
+   "Perpignan": 0.059,
+   "Nancy": 0.057
+  },
+  "monthly_scores": [
+   0.1023,
+   0.1101,
+   0.1252,
+   0.0976,
+   0.0703,
+   0.0833,
+   0.0897,
+   0.0938,
+   0.0829,
+   0.1105,
+   0.1068,
+   0.1016
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:06Z"
+}

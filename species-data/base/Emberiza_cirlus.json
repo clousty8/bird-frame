@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Emberiza cirlus",
+ "common_name_fr": "Bruant zizi",
+ "birdnet_label": "Emberiza cirlus_Bruant zizi",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Emberizidae",
+  "family_common": "Old World Buntings",
+  "genus": "Emberiza",
+  "species": "Emberiza cirlus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bruant zizi",
+   "url": "https://fr.wikipedia.org/wiki/Bruant_zizi",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Bruant zizi, décrit par Linné en 1766, est une espèce de passereaux appartenant à la famille des Emberizidae.",
+   "fulltext_chars": 4064
+  },
+  "en": {
+   "title": "Cirl bunting",
+   "url": "https://en.wikipedia.org/wiki/Cirl_bunting",
+   "description": "Species of bird",
+   "extract": "The cirl bunting is a passerine bird in the bunting family Emberizidae, a group now separated by most modern authors from the finches, Fringillidae.",
+   "fulltext_chars": 6465
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Emberiza_cirlus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1102,
+  "height": 880,
+  "file": "Emberiza_cirlus.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Emberiza_cirlus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Emberiza_cirlus.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4726,
+  "cities": {
+   "Le Mans": 0.218,
+   "Pornic": 0.324,
+   "Rennes": 0.269,
+   "Poitiers": 0.311,
+   "Paris": 0.138,
+   "Lille": 0.064,
+   "Strasbourg": 0.048,
+   "Lyon": 0.218,
+   "Grenoble": 0.229,
+   "Marseille": 0.337,
+   "Toulouse": 0.385,
+   "Bordeaux": 0.393,
+   "Brest": 0.198,
+   "Ajaccio": 0.473,
+   "Clermont-Ferrand": 0.264,
+   "Chamonix": 0.156,
+   "Perpignan": 0.379,
+   "Nancy": 0.062
+  },
+  "monthly_scores": [
+   0.456,
+   0.448,
+   0.4726,
+   0.4364,
+   0.4073,
+   0.3928,
+   0.3584,
+   0.2696,
+   0.211,
+   0.3295,
+   0.4311,
+   0.4633
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:22Z"
+}

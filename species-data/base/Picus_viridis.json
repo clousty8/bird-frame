@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Picus viridis",
+ "common_name_fr": "Pic vert",
+ "birdnet_label": "Picus viridis_Pic vert",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Piciformes",
+  "family": "Picidae",
+  "family_common": "Woodpeckers",
+  "genus": "Picus",
+  "species": "Picus viridis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pic vert",
+   "url": "https://fr.wikipedia.org/wiki/Pic_vert",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pic vert, aussi connu sous le nom vernaculaire de Pivert, est une espèce d'Oiseaux de l'ordre des Piciformes et de la famille des Picidae. Il est commun à très commun dans son aire de répartition, qui couvre l'ensemble de l'Europe de l'Ouest, de l'océan Atlantique jusqu'à la Volga, en Russie.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "European green woodpecker",
+   "url": "https://en.wikipedia.org/wiki/European_green_woodpecker",
+   "description": "Species of bird",
+   "extract": "The European green woodpecker, also known as the yaffle and sometimes called a nickle, is a large green woodpecker with a bright red crown and a black moustache. Males have a red centre to the moustache stripe which is absent in females. It is resident across much of Europe and the western Palearctic but in Spain and Portugal it is replaced by the similar Iberian green woodpecker.",
+   "fulltext_chars": 9213
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/European_green_woodpecker_%28Picus_viridis%29_female.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1874,
+  "height": 2811,
+  "file": "European_green_woodpecker_(Picus_viridis)_female.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/d/d5/European_green_woodpecker_%28Picus_viridis%29_female.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Charles J. Sharp",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:European_green_woodpecker_(Picus_viridis)_female.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.6872,
+  "cities": {
+   "Le Mans": 0.652,
+   "Pornic": 0.521,
+   "Rennes": 0.507,
+   "Poitiers": 0.687,
+   "Paris": 0.635,
+   "Lille": 0.494,
+   "Strasbourg": 0.65,
+   "Lyon": 0.653,
+   "Grenoble": 0.584,
+   "Marseille": 0.299,
+   "Toulouse": 0.422,
+   "Bordeaux": 0.545,
+   "Brest": 0.254,
+   "Ajaccio": 0.237,
+   "Clermont-Ferrand": 0.679,
+   "Chamonix": 0.619,
+   "Perpignan": 0.235,
+   "Nancy": 0.643
+  },
+  "monthly_scores": [
+   0.5594,
+   0.6066,
+   0.6872,
+   0.6098,
+   0.5229,
+   0.5665,
+   0.6237,
+   0.6709,
+   0.6243,
+   0.6372,
+   0.5999,
+   0.57
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:59Z"
+}

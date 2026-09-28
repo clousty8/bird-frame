@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Regulus satrapa",
+ "summary_fr": "Le Roitelet à couronne dorée est l'un des plus petits passereaux, originaire d'Amérique du Nord. Mesurant à peine 8 à 11 cm et pesant environ 6 grammes, il se reconnaît à son plumage gris olive sur le dos et blanc dessous, à son bec fin et sa couronne jaune vif bordée de noir (orange pour le mâle). Insectivore, il se nourrit activement dans les arbres et arbustes, cherchant des insectes, oeufs d'insectes et araignées. Très confiant envers l'homme, il produit une série d'appels aigus caractéristiques sur une seule note. Son nid est une coupe suspendue, bien dissimulée à une branche de conifère. Migrateur nord-américain, il ne visite exceptionnellement la France qu'en automne et hiver.",
+ "habitat": "Forêts de conifères et semi-ouvertes ; en migration, arbres et arbustes divers.",
+ "diet": "Insectes (notamment chenilles), oeufs d'insectes et araignées ; graines mineures en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": "Ne niche pas en France. Les populations nichent en Amérique du Nord.",
+  "passage": "Passages exceptionnels d'automne et début d'hiver, octobre à décembre."
+ },
+ "seasonality_fr": "Présent exceptionnellement de septembre à décembre, lors de migrations anormales depuis l'Amérique du Nord. Très rare et imprévisible en France.",
+ "song_fr": "Série d'appels aigus et cristallins sur une seule note, très caractéristiques et distinctifs.",
+ "lookalikes": [
+  {
+   "scientific_name": "Regulus regulus",
+   "common_name_fr": "Roitelet huppé",
+   "why_fr": "Taille et allure très proches, couronne jaune-orange. Appels aigus similaires mais contexte de distribution différent."
+  }
+ ],
+ "rarity_note": "Exceptionnel en France. Visiteur erratique nord-américain, détecté uniquement en automne-hiver. Observation très localisée.",
+ "fun_facts": [
+  "C'est l'un des plus petits passereaux d'Amérique du Nord, rivalisant en petitesse avec la Mésange buissonnière.",
+  "En hiver, les roitelets peuvent former des groupes serrés pour conserver la chaleur.",
+  "Les mâles portent une tache orange vif au centre de leur couronne jaune, absente chez les femelles."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Roitelet_%C3%A0_couronne_dor%C3%A9e",
+  "https://en.wikipedia.org/wiki/Golden-crowned_kinglet",
+  "https://www.oiseaux.net/regulus-satrapa.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

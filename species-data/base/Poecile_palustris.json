@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Poecile palustris",
+ "common_name_fr": "Mésange nonnette",
+ "birdnet_label": "Poecile palustris_Mésange nonnette",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Paridae",
+  "family_common": "Tits, Chickadees, and Titmice",
+  "genus": "Poecile",
+  "species": "Poecile palustris"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Mésange nonnette",
+   "url": "https://fr.wikipedia.org/wiki/M%C3%A9sange_nonnette",
+   "description": "espèce d'oiseaux passériformes de la famille des paridae",
+   "extract": "La Mésange nonnette est une espèce de passereaux de la famille des Paridés. C'est un petit oiseau portant une calotte d'un noir brillant et une petite bavette noire, avec le dessus brun-gris et le dessous crème à blanchâtre. Elle ressemble beaucoup à la Mésange boréale, avec qui elle peut cohabiter.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Marsh tit",
+   "url": "https://en.wikipedia.org/wiki/Marsh_tit",
+   "description": "Species of bird",
+   "extract": "The marsh tit is a Eurasian passerine bird in the tit family Paridae and genus Poecile, closely related to the willow tit, Père David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar; they were not recognised as separate species until 1897.",
+   "fulltext_chars": 14104
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sumpfmeise1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 449,
+  "height": 445,
+  "file": "Sumpfmeise1.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sumpfmeise1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Copyrighted free use",
+  "license_url": null,
+  "author": "Steffen Hannert",
+  "credit": "Vogelruf.de, BirdGallery, http://www.vogelruf.de/galerie/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Sumpfmeise1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3739,
+  "cities": {
+   "Le Mans": 0.154,
+   "Pornic": 0.107,
+   "Rennes": 0.097,
+   "Poitiers": 0.227,
+   "Paris": 0.193,
+   "Lille": 0.157,
+   "Strasbourg": 0.374,
+   "Lyon": 0.314,
+   "Grenoble": 0.267,
+   "Marseille": 0.103,
+   "Toulouse": 0.132,
+   "Bordeaux": 0.177,
+   "Brest": 0.047,
+   "Ajaccio": 0.09,
+   "Clermont-Ferrand": 0.316,
+   "Chamonix": 0.319,
+   "Perpignan": 0.08,
+   "Nancy": 0.324
+  },
+  "monthly_scores": [
+   0.3537,
+   0.3367,
+   0.2892,
+   0.2361,
+   0.1584,
+   0.1732,
+   0.2336,
+   0.2874,
+   0.2676,
+   0.3058,
+   0.3695,
+   0.3739
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:18Z"
+}

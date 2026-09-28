@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "scientific_name": "Phylloscopus bonelli",
+  "summary_fr": "Petit pouillot discret des forêts de feuillus méditerranéennes et sud-occidentales, le Pouillot de Bonelli passe presque inaperçu tant il reste caché dans le feuillage, où il chasse insectes, araignées et petites chenilles. C'est son chant qui le trahit : un trille rapide et monotone d'une à deux secondes, plus aigu et plus nasillard que celui des autres pouillots, souvent lancé depuis la canopée. Son plumage gris-brun pâle, sa croupe jaune verdâtre, son sourcil blanc discret et son fin cercle oculaire blanc permettent de le distinguer des espèces voisines une fois observé de près. Longtemps considéré comme formant une seule espèce avec le Pouillot oriental d'Europe du Sud-Est, il en a été séparé sur la base de différences de chant et de génétique, les deux occupant aujourd'hui des aires de reproduction disjointes. En France, il niche surtout dans le sud et le sud-ouest, à moyenne altitude, avant de rejoindre ses quartiers d'hiver au sud du Sahara. Territorial et monogame, il installe son nid à même le sol, sous une touffe d'herbe, où la femelle élève seule la couvée avant l'aide des deux parents aux poussins.",
+  "habitat": "Forêts de feuillus et forêts mixtes à moyenne altitude, avec sous-bois dense ; préfère chênes, hêtres, châtaigniers et bouleaux. Évite les zones trop chaudes. En hiver en Afrique, fréquente savanes et oasis à acacias.",
+  "diet": "Insectes, araignées et leurs larves (papillons, mouches, pucerons, éphémères, guêpes). Consomme aussi des baies, notamment mûres en automne.",
+  "activity_pattern": "diurne",
+  "migration": {
+    "statut": "migrateur",
+    "hiverne": "Afrique subsaharienne, dans une bande allant du Sénégal au Tchad.",
+    "niche": "Sud-ouest de l'Europe et nord du Maghreb, y compris le sud de la France ; environ 65 % de la population totale niche en Espagne, 15 à 20 % en France.",
+    "passage": "Mars à mai au printemps ; fin juillet à novembre à l'automne, en France."
+  },
+  "seasonality_fr": "Visible en France de mars à octobre lors des passages migratoires et de la reproduction. Migrateur régulier mais jamais très abondant, surtout en région méditerranéenne et sud-occidentale.",
+  "song_fr": "Chant caractéristique : trille rapide et monotone de 1 à 2 secondes, plus aigu et nasillard que les autres pouillots, lancé depuis la canopée. Cris variés, monosyllabiques (tuit, fwiet) ou polysyllabiques (doo-ee-oo, pe-wee-oo), également plus nasaux et discrets.",
+  "lookalikes": [
+    {
+      "scientific_name": "Phylloscopus sibilatrix",
+      "common_name_fr": "Pouillot siffleur",
+      "why_fr": "Chant en trille rapide très proche, confusion possible malgré des cris différents ; les deux espèces peuvent occasionnellement s'hybrider."
+    },
+    {
+      "scientific_name": "Phylloscopus collybita",
+      "common_name_fr": "Pouillot véloce",
+      "why_fr": "Autre petit Phylloscopus commun en France, silhouette proche en migration, mais chant et cris nettement différents du trille du Bonelli."
+    },
+    {
+      "scientific_name": "Phylloscopus trochilus",
+      "common_name_fr": "Pouillot fitis",
+      "why_fr": "Petit pouillot migrateur au plumage proche, chant et habitat forestier similaires ; distinction surtout par les cris et le contexte migratoire."
+    },
+    {
+      "scientific_name": "Emberiza cirlus",
+      "common_name_fr": "Bruant zizi",
+      "why_fr": "Chant en trille rapide rappelant celui du Pouillot de Bonelli, source de confusions acoustiques malgré un plumage et un habitat différents."
+    }
+  ],
+  "rarity_note": "Migrateur discret et jamais très abondant en France (score maximal 0,32), surtout présent en région méditerranéenne et sud-occidentale, plus rare vers le nord et l'ouest du pays.",
+  "fun_facts": [
+    "Longtemps confondu avec le Pouillot oriental, très proche par le plumage, il ne s'en distingue vraiment que par le chant et les cris.",
+    "Il niche à même le sol, sous une touffe d'herbe ou contre un talus, dans un nid ovoïde tissé uniquement par la femelle.",
+    "La France abrite 15 à 20 % de la population mondiale de l'espèce, l'essentiel du reste nichant en Espagne."
+  ],
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Pouillot_de_Bonelli",
+    "https://en.wikipedia.org/wiki/Western_Bonelli's_warbler",
+    "https://www.oiseaux.net/oiseaux/pouillot.de.bonelli.html"
+  ],
+  "generated_at": "2026-09-27T17:00:00Z",
+  "generator_model": "claude-sonnet-5"
+}

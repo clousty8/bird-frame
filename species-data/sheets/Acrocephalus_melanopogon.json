@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Acrocephalus melanopogon",
+ "summary_fr": "La Lusciniole à moustaches est un petit passereau des zones humides du pourtour méditerranéen, caractérisé par ses bandes noires marquantes qui barrent ses yeux et lui donnent son surnom français distinctif. Bien que fortement localisée, cette espèce de la famille des Acrocephalidae a largement colonisé son habitat spécialisé des roselières et cariçaies. En France, elle ne se rencontre que sur les côtes méditerranéennes, notamment en Camargue et Languedoc, où elle demeure une composante régulière de la faune aviaire hivernale. C'est essentiellement une espèce sédentaire dans le sud de l'Europe, avec toutefois quelques mouvements migratoires chez les populations orientales. Son comportement territorial marqué et ses vocalisations caractéristiques, rappelant le Phragmite des joncs mais d'une tonalité plus fluide et variée, en font un marqueur sonore distinctif des marais méditerranéens au printemps. Monogame et nicheur printanier, elle construit son nid profond et bien garni dans les roseaux, où elle élève généralement deux couvées successives. Son régime strictement insectivore et sa préférence exclusive pour les zones marécageuses en font une espèce particulièrement vulnérable aux modifications et à la dégradation de son habitat.",
+ "habitat": "Zones humides avec végétation dense des bords d'eau, notamment roselières et cariçaies du pourtour méditerranéen. Préfère les eaux douces et saumâtres.",
+ "diet": "Petits insectes, notamment coléoptères et invertébrés aquatiques glanés dans la végétation des marais, particulièrement près de la surface de l'eau. Baies saisonnières (cerises, sureau).",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Sud de la France et pourtour méditerranéen, où elle réside toute l'année.",
+  "niche": "Côtes méditerranéennes françaises (Camargue, Languedoc) d'avril à juillet, généralement deux nichées.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible et audible toute l'année dans le sud de la France, plus abondante d'avril à juin en période de reproduction. Chants les plus actifs au crépuscule et à l'aube.",
+ "song_fr": "Cri rappelant le Phragmite des joncs mais plus fluide : « t-trrrt » ou « trk-tk-tk-tk » cliquetant. Chant rapide et varié avec motifs flûtés reminiscents du Rossignol.",
+ "lookalikes": [
+  {
+   "scientific_name": "Acrocephalus schoenobaenus",
+   "common_name_fr": "Phragmite des joncs",
+   "why_fr": "Vocalisations très similaires avec cris cliquetants « trk-tk » caractéristiques ; habitat partagé des zones humides."
+  },
+  {
+   "scientific_name": "Acrocephalus palustris",
+   "common_name_fr": "Rousserolle verderolle",
+   "why_fr": "Chant rapide et varié comparable, habitat similaire en cariçaies et roselières des marais méditerranéens."
+  },
+  {
+   "scientific_name": "Acrocephalus scirpaceus",
+   "common_name_fr": "Rousserolle effarvatte",
+   "why_fr": "Même habitat des roselières denses, vocalisations fluides et babillantes ressemblantes."
+  }
+ ],
+ "rarity_note": "Très localisée en France, confinée aux côtes méditerranéennes. Commune à régulière en Camargue et Languedoc, absente du reste du pays.",
+ "fun_facts": [
+  "Les deux sexes défendent leur propre territoire toute l'année, pas seulement pendant la reproduction.",
+  "Ses bandes noires oculaires distinctives lui donnent une expression faciale caractéristique chez les Acrocephalidae.",
+  "Elle construit un nid très profond suspendu dans les roseaux, parfaitement adapté à son habitat instable."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Lusciniole_%C3%A0_moustaches",
+  "https://en.wikipedia.org/wiki/Moustached_warbler",
+  "https://www.oiseaux.net/acrocephalus.melanopogon.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

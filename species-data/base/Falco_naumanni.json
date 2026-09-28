@@ -1,0 +1,78 @@
+{
+ "scientific_name": "Falco naumanni",
+ "common_name_fr": "Faucon crécerellette",
+ "birdnet_label": "Falco naumanni_Faucon crécerellette",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Falconiformes",
+  "family": "Falconidae",
+  "family_common": "Falcons and Caracaras",
+  "genus": "Falco",
+  "species": "Falco naumanni"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Faucon crécerellette",
+   "url": "https://fr.wikipedia.org/wiki/Faucon_cr%C3%A9cerellette",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Faucon crécerellette ou Crécerelle de Naumann est une espèce de faucons de petite taille, très semblable au Faucon crécerelle mais plus svelte. Elle peut être désignée sous le nom vernaculaire de Crécerine.",
+   "fulltext_chars": 6279
+  },
+  "en": {
+   "title": "Lesser kestrel",
+   "url": "https://en.wikipedia.org/wiki/Lesser_kestrel",
+   "description": "Species of bird",
+   "extract": "The lesser kestrel is a small falcon. This species breeds from the Mediterranean across Afghanistan and Central Asia, to China and Mongolia. It is a summer migrant, wintering in Africa and Pakistan and sometimes even to India and Iraq. It is rare north of its breeding range, and declining in its European range. The genus name derives from Late Latin falx, falcis, a sickle, referencing the claws of the bird, and the species name commemorates the German naturalist Johann Friedrich Naumann.",
+   "fulltext_chars": 4487
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/14/Lesser_Kestrel_%28Falco_naumanni%29_couple_%2812819743614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2878,
+  "height": 1446,
+  "file": "Lesser_Kestrel_(Falco_naumanni)_couple_(12819743614).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Lesser_Kestrel_%28Falco_naumanni%29_couple_%2812819743614%29.jpg/1920px-Lesser_Kestrel_%28Falco_naumanni%29_couple_%2812819743614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Bernard DUPONT from FRANCE",
+  "credit": "Lesser Kestrel (Falco naumanni) couple",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Lesser_Kestrel_(Falco_naumanni)_couple_(12819743614).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0825,
+  "cities": {
+   "Marseille": 0.018,
+   "Toulouse": 0.016,
+   "Ajaccio": 0.083,
+   "Perpignan": 0.02
+  },
+  "monthly_scores": [
+   0.0189,
+   0.0274,
+   0.0794,
+   0.0825,
+   0.0672,
+   0.062,
+   0.0693,
+   0.076,
+   0.0567,
+   0.0373,
+   0.021,
+   0.0207
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:19Z"
+}

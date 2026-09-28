@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Tadorna ferruginea",
+ "common_name_fr": "Tadorne casarca",
+ "birdnet_label": "Tadorna ferruginea_Tadorne casarca",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Tadorna",
+  "species": "Tadorna ferruginea"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Tadorne casarca",
+   "url": "https://fr.wikipedia.org/wiki/Tadorne_casarca",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Tadorne casarca est une espèce d'oiseaux appartenant à la famille des Anatidae.",
+   "fulltext_chars": 4202
+  },
+  "en": {
+   "title": null,
+   "url": null,
+   "description": null,
+   "extract": null,
+   "fulltext_chars": 0
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Rostgans_%28Tadorna_ferruginea%29%2C_Embalse_de_las_Pe%C3%B1itas%2C_Fuerteventura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5176,
+  "height": 3689,
+  "file": "Rostgans_(Tadorna_ferruginea),_Embalse_de_las_Peñitas,_Fuerteventura.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Rostgans_%28Tadorna_ferruginea%29%2C_Embalse_de_las_Pe%C3%B1itas%2C_Fuerteventura.jpg/1920px-Rostgans_%28Tadorna_ferruginea%29%2C_Embalse_de_las_Pe%C3%B1itas%2C_Fuerteventura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Frank Vassen",
+  "credit": "https://www.flickr.com/photos/42244964@N03/41437202852/in/dateposted/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Rostgans_(Tadorna_ferruginea),_Embalse_de_las_Pe%C3%B1itas,_Fuerteventura.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0165,
+  "cities": {
+   "Ajaccio": 0.016
+  },
+  "monthly_scores": [
+   0.0136,
+   0.0145,
+   0.0165,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0138,
+   0.0144
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:17Z"
+}

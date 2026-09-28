@@ -1,0 +1,75 @@
+{
+ "scientific_name": "Lanius excubitor",
+ "common_name_fr": "Pie-grièche grise",
+ "birdnet_label": "Lanius excubitor_Pie-grièche grise",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Laniidae",
+  "family_common": "Shrikes",
+  "genus": "Lanius",
+  "species": "Lanius excubitor"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pie-grièche grise",
+   "url": "https://fr.wikipedia.org/wiki/Pie-gri%C3%A8che_grise",
+   "description": "espèce d'oiseaux",
+   "extract": "La Pie-grièche grise est une espèce de passereau aux mœurs alimentaires proches des rapaces et qui appartient à la famille des Laniidae.",
+   "fulltext_chars": 5991
+  },
+  "en": {
+   "title": "Great grey shrike",
+   "url": "https://en.wikipedia.org/wiki/Great_grey_shrike",
+   "description": "Species of bird",
+   "extract": "The great grey shrike is a large and predatory songbird species in the shrike family (Laniidae). It forms a superspecies with its parapatric southern relatives, the Iberian grey shrike, the Chinese grey shrike and the American loggerhead shrike. Males and females are similar in plumage, pearly grey above with a black eye-mask and white underparts.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Grey_Shrike_in_Bhigwan_August_2025_by_Tisha_Mukherjee_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5562,
+  "height": 3708,
+  "file": "Great_Grey_Shrike_in_Bhigwan_August_2025_by_Tisha_Mukherjee_02.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Great_Grey_Shrike_in_Bhigwan_August_2025_by_Tisha_Mukherjee_02.jpg/1920px-Great_Grey_Shrike_in_Bhigwan_August_2025_by_Tisha_Mukherjee_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Tisha Mukherjee",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Great_Grey_Shrike_in_Bhigwan_August_2025_by_Tisha_Mukherjee_02.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0545,
+  "cities": {
+   "Strasbourg": 0.015,
+   "Marseille": 0.012,
+   "Ajaccio": 0.055,
+   "Chamonix": 0.01
+  },
+  "monthly_scores": [
+   0.0537,
+   0.0527,
+   0.0437,
+   0.0181,
+   0.0,
+   0.0,
+   0.0123,
+   0.0143,
+   0.0179,
+   0.0296,
+   0.0528,
+   0.0545
+  ],
+  "months": [
+   1,
+   2,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:43Z"
+}

@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Lophophanes cristatus",
+ "summary_fr": "La Mésange huppée est un petit passereau de 11,5 cm au plumage brun roux et gris-beige, aisément reconnaissable à sa huppe noire distinctive dressée en situation d'alerte. Présente dans les forêts de conifères d'une grande partie de l'Europe jusqu'à l'Oural, elle affectionne particulièrement les pins et épicéas en montagne comme en plaine. En France, elle est moins commune que ses cousines, la Mésange bleue ou la Mésange noire, et reste surtout localisée aux régions à forte densité de conifères. Oiseau agité et bavard au tempérament territorial marqué, elle se nourrit de petits invertébrés, complétant son régime hivernal par les graines de conifères qu'elle cache en prévision de la mauvaise saison. Sédentaire ou migratrice altitudinale selon les populations, elle défend farouchement son territoire toute l'année et niche en cavité, souvent dans des arbres morts ou sénescents.",
+ "habitat": "Forêts de conifères (pins, épicéas), particulièrement en montagne ; aussi boisements ouverts avec bonne couverture en buissons et arbres morts. En France : parcs et jardins avec grands conifères productifs en graines.",
+ "diet": "Petits invertébrés : insectes (mouches, libellules, papillons), araignées et vers de terre ; graines de conifères, baies et petits fruits en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Principalement sédentaire dans sa région de résidence ; individus montagnards effectuent une migration altitudinale, descendant en vallées l'hiver.",
+  "niche": "Partout en France où les conifères dominent, d'avril à juillet, avec généralement une seule nichée en zone nordique.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible et audible toute l'année, bien qu'elle soit plus remarquée en hiver quand elle s'observe en petits groupes mixtes avec autres mésanges. Chant entendu aussi l'hiver lors du défense territoriale.",
+ "song_fr": "Chant très reconnaissable : trille rapide et aigrelet « tr-ri-ri-ri », souvent décrit comme un ricanement ou un rire, parfois précédé de notes pures « tsi-tsi-tsi ». Cris fins et aigus lors de la recherche de nourriture ; cris « zee-zee-zee » constants.",
+ "lookalikes": [
+  {
+   "scientific_name": "Periparus ater",
+   "common_name_fr": "Mésange noire",
+   "why_fr": "Appels « zee-zee-zee » similaires ; partage le même habitat forestier conifère et adopte des postures acrobatiques identiques lors du nourrissage."
+  },
+  {
+   "scientific_name": "Poecile palustris",
+   "common_name_fr": "Mésange nonnette",
+   "why_fr": "Taille comparable et cris aigus ressemblants ; absence de huppe chez la nonnette permet la distinction à vue, mais l'identification acoustique peut être délicate."
+  },
+  {
+   "scientific_name": "Regulus regulus",
+   "common_name_fr": "Roitelet huppé",
+   "why_fr": "Cris aigus « tsi-tsi-tsi » similaires aux notes pures de la Mésange huppée ; partage souvent son habitat forestier de conifères."
+  }
+ ],
+ "rarity_note": "Localisée en France, présente surtout dans les régions à fortes densités de conifères (Est, Sud-Est, zones montagneuses) ; peu commune à assez commune selon les régions.",
+ "fun_facts": [
+  "Sa huppe noire à motifs blancs s'érige en situation d'alerte ou lors des parades nuptiales, transformant complètement son apparence.",
+  "Elle cache intensément sa nourriture en période d'abondance (un pignon toutes les 30 à 60 secondes), mais ne constitue pas un véritable garde-manger : chaque cache ne contient qu'un seul aliment.",
+  "Elle est cavicole et choisit souvent des arbres morts ou pourris pour y aménager son nid, les deux parents se chargeant de nourrir les jeunes pendant 16 à 22 jours."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/M%C3%A9sange_hupp%C3%A9e",
+  "https://en.wikipedia.org/wiki/Crested_tit"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

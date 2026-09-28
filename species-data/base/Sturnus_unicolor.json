@@ -1,0 +1,89 @@
+{
+ "scientific_name": "Sturnus unicolor",
+ "common_name_fr": "Étourneau unicolore",
+ "birdnet_label": "Sturnus unicolor_Étourneau unicolore",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sturnidae",
+  "family_common": "Starlings",
+  "genus": "Sturnus",
+  "species": "Sturnus unicolor"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Étourneau unicolore",
+   "url": "https://fr.wikipedia.org/wiki/%C3%89tourneau_unicolore",
+   "description": "espèce d'oiseaux",
+   "extract": "L’Étourneau unicolore est une espèce de passereaux de la famille des Sturnidae. Très similaire à l'Étourneau sansonnet dont il diffère principalement par sa couleur noire uniforme, l'étourneau unicolore se rencontre surtout sur le pourtour méditerranéen.",
+   "fulltext_chars": 4409
+  },
+  "en": {
+   "title": "Spotless starling",
+   "url": "https://en.wikipedia.org/wiki/Spotless_starling",
+   "description": "Species of bird",
+   "extract": "The spotless starling is a passerine bird in the starling family, Sturnidae. It is closely related to the common starling, but has a much more restricted range, confined to the Iberian Peninsula, Northwest Africa, southernmost France, and the islands of Sicily, Corsica and Sardinia. It is largely non-migratory.",
+   "fulltext_chars": 3204
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Estornino_Negro._Casa_de_Campo._Madrid..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 643,
+  "height": 525,
+  "file": "Estornino_Negro._Casa_de_Campo._Madrid..jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Estornino_Negro._Casa_de_Campo._Madrid..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "author": "Luis Egido",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Estornino_Negro._Casa_de_Campo._Madrid..jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1335,
+  "cities": {
+   "Pornic": 0.012,
+   "Poitiers": 0.011,
+   "Lyon": 0.01,
+   "Grenoble": 0.01,
+   "Marseille": 0.046,
+   "Toulouse": 0.09,
+   "Bordeaux": 0.065,
+   "Ajaccio": 0.133,
+   "Clermont-Ferrand": 0.016,
+   "Perpignan": 0.108
+  },
+  "monthly_scores": [
+   0.0808,
+   0.0804,
+   0.1272,
+   0.1335,
+   0.0945,
+   0.0842,
+   0.0727,
+   0.0625,
+   0.0634,
+   0.0893,
+   0.0827,
+   0.0866
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:04Z"
+}

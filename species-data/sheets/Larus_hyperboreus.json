@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Larus hyperboreus",
+ "summary_fr": "Le Goéland bourgmestre est le deuxième plus grand goéland du monde et un habitant emblématique des régions polaires arctiques. Avec son plumage très pâle et son épais bec jaune, cet oiseau marin puissant est rapidement identifiable malgré certaines ressemblances avec d'autres espèces de goélands. En hiver, il quitte les régions arctiques où il niche pour gagner les eaux plus clémentes des océans Atlantique et Pacifique nord, descendant occasionnellement jusqu'en Europe du Nord et en Amérique du Nord. Son régime omnivore lui permet de s'adapter à divers environnements côtiers : il se nourrit de poissons, de crustacés, de charognes, d'œufs et même de petits oiseaux ou mammifères. Visiteur hivernal exceptionnel en France, où il n'apparaît que par grand froid, le Goéland bourgmestre fascine par sa robustesse et son aptitude à prospérer dans les conditions extrêmes des terres arctiques. Il faut quatre années complètes pour que les jeunes atteignent leur plumage adulte distinctif, en passant par plusieurs stades intermédiaires de plumage brun tacheté.",
+ "habitat": "Côtes, falaises et eaux côtières des régions arctiques en période de reproduction ; océans boréaux et littoraux tempérés en hiver.",
+ "diet": "Omnivore opportuniste : poissons, mollusques, crustacés, étoiles de mer, charognes, œufs de goélands ou d'autres oiseaux, petits mammifères et oiseaux, ainsi que graines et baies.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Océans Atlantique nord et Pacifique nord, jusqu'aux îles Britanniques et aux États-Unis septentrionaux ; très rarement sur les côtes françaises.",
+  "niche": "Ne niche pas en France ; se reproduit en Arctique, notamment au Svalbard, au Groenland et sur les îles arctiques canadiennes et russes.",
+  "passage": null
+ },
+ "seasonality_fr": "Visiteur exceptionnel en France, surtout en hiver et au début du printemps (décembre à mars), plus rarement en automne ; observé principalement sur le littoral atlantique et breton.",
+ "song_fr": "Cri de rire profond et puissant, proche de celui du Goéland argenté mais plus grave et sonore ; peu vocal en dehors de la période de reproduction.",
+ "lookalikes": [
+  {
+   "scientific_name": "Larus glaucoides",
+   "common_name_fr": "Goéland arctique",
+   "why_fr": "Plumage tout aussi pâle, mais le Goéland bourgmestre a un bec plus épais et une silhouette nettement plus imposante."
+  },
+  {
+   "scientific_name": "Larus marinus",
+   "common_name_fr": "Goéland marin",
+   "why_fr": "Taille comparable, mais le Goéland marin a le dos sombre et le bout des ailes noir, tandis que le Bourgmestre reste entièrement pâle."
+  },
+  {
+   "scientific_name": "Larus argentatus",
+   "common_name_fr": "Goéland argenté",
+   "why_fr": "Silhouette et cris proches, mais l'Argenté a le dos plus sombre ; le Bourgmestre est plus grand et bien plus pâle."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France, visiteur hivernal accidentel observé surtout en zone côtière, en très petit nombre chaque année.",
+ "fun_facts": [
+  "Le Goéland bourgmestre est le deuxième plus grand goéland du monde ; les plus gros individus, jusqu'à 2,7 kg, rivalisent avec le Goéland marin.",
+  "Il faut quatre années complètes aux jeunes pour acquérir le plumage blanc et gris distinctif des adultes, en passant par plusieurs stades intermédiaires.",
+  "Son nom français « bourgmestre » reprend une ancienne appellation anglaise de l'espèce, qui signifie littéralement « maître de la ville »."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Go%C3%A9land_bourgmestre",
+  "https://en.wikipedia.org/wiki/Glaucous_gull",
+  "https://www.oiseaux.net/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

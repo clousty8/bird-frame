@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Falco subbuteo",
+ "summary_fr": "Petit faucon élancé et rapide, le Faucon hobereau est un prédateur aérien redoutable spécialisé dans la chasse en vol. Il capture ses proies avec une agilité remarquable, ses ailes longues et pointues lui permettant des acrobaties aériennes spectaculaires et des changements de direction foudroyants. Ses cibles privilégiées sont les dragonflies, les libellules et surtout les petits oiseaux qu'il poursuit en plein ciel. Migrateur estival, il arrive en Europe au printemps (avril-mai) pour nicher dans d'anciens nids de corvidés en lisière de bois, puis repart hiverner en Afrique dès fin août. Reconnaissable à son allure fine et ses moustaches noires caractéristiques, il chasse surtout à l'aube et au crépuscule. Cet oiseau très gracieux fut longtemps utilisé en fauconnerie pour sa vélocité exceptionnelle et son audace redoutable.",
+ "habitat": "Pays ouverts, bocages, zones agricoles, savanes et taïga. Préfère les paysages avec petits bois disséminés et points d'eau.",
+ "diet": "Chasse en vol : insectes volants (dragonflies, hannetons), petits oiseaux (hirondelles, martinets) et occasionnellement petites chauves-souris.",
+ "activity_pattern": "crépusculaire",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique du Nord et exceptionnellement dans le sud de l'Europe. Hiverne dans les régions où les insectes restent abondants.",
+  "niche": "Toute la France métropolitaine, avril à septembre, nichant dans des arbres (anciens nids de corbeaux et corneilles). Deux à trois œufs incubés 28 jours.",
+  "passage": "Arrivée généralisée en avril-mai, départ graduel août-septembre. Passages rapides, parfois en petits groupes."
+ },
+ "seasonality_fr": "Estivant de passage régulier en France, absent octobre à mars. Au printemps et en été, actif surtout à l'aube et au crépuscule ; très discret en milieu de journée.",
+ "song_fr": "Cris aigus, perçants et répétitifs, caractéristiques : « kiiki-kiiki » ou « kiip » sec. Les hirondelles émettent un cri d'alarme typique en sa présence.",
+ "lookalikes": [
+  {
+   "scientific_name": "Falco columbarius",
+   "common_name_fr": "Faucon émerillon",
+   "why_fr": "Petit faucon aussi, chasse en vol avec cris aigus. Plus rare et hivernal en France (confusions possibles en passage)."
+  },
+  {
+   "scientific_name": "Falco tinnunculus",
+   "common_name_fr": "Faucon crécerelle",
+   "why_fr": "Plus petit, vol différent (stationnaire) et cris distincts, mais BirdNET peut les confondre en situation de bruit ambiant élevé."
+  }
+ ],
+ "rarity_note": "Rare à très rare en France selon le modèle BirdNET. Espèce estivale migratrice présente avril-septembre. Pas de nidification massive, mais passages réguliers.",
+ "fun_facts": [
+  "Le Faucon hobereau est devenu la mascotte de Subbuteo, le jeu de football de table britannique créé en 1947 par son inventeur ornithologiste.",
+  "Il capture ses proies en vol, puis les transfère de ses serres à son bec pour les manger en planant. Ses acrobaties aériennes pour attraper les hirondelles sont impressionnantes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Faucon_hobereau",
+  "https://en.wikipedia.org/wiki/Eurasian_hobby",
+  "https://oiseaux.net/falco.subbuteo.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,92 @@
+{
+ "scientific_name": "Mergus merganser",
+ "common_name_fr": "Grand Harle",
+ "birdnet_label": "Mergus merganser_Grand Harle",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Mergus",
+  "species": "Mergus merganser"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Harle bièvre",
+   "url": "https://fr.wikipedia.org/wiki/Harle_bi%C3%A8vre",
+   "description": "espèce d'oiseaux anseriformes de la famille des anatidae",
+   "extract": "Le Harle bièvre est une espèce de canards piscivores de la famille des Anatidae. Il était aussi connu sous le nom de « Grand bec-scie » en Amérique du Nord francophone, et a reçu le nom normalisé de « Grand Harle ».",
+   "fulltext_chars": 5870
+  },
+  "en": {
+   "title": "Common merganser",
+   "url": "https://en.wikipedia.org/wiki/Common_merganser",
+   "description": "Species of bird",
+   "extract": "The common merganser or goosander is a large sea duck of rivers and lakes in forested areas of Europe, Asia, and North America. The common merganser eats mainly fish. It nests in holes in trees. The name \"common merganser\" is used in North America, while \"goosander\" is used in Eurasia.",
+   "fulltext_chars": 6685
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MERGANSER%2C_COMMON_%2810-28-07%29_san_sim_-03_%281626164148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2956,
+  "height": 2268,
+  "file": "MERGANSER,_COMMON_(10-28-07)_san_sim_-03_(1626164148).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/MERGANSER%2C_COMMON_%2810-28-07%29_san_sim_-03_%281626164148%29.jpg/1920px-MERGANSER%2C_COMMON_%2810-28-07%29_san_sim_-03_%281626164148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "ALAN SCHMIERER",
+  "credit": "https://www.flickr.com/photos/sloalan/1626164148/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:MERGANSER,_COMMON_(10-28-07)_san_sim_-03_(1626164148).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3058,
+  "cities": {
+   "Le Mans": 0.09,
+   "Pornic": 0.06,
+   "Rennes": 0.072,
+   "Poitiers": 0.089,
+   "Paris": 0.156,
+   "Lille": 0.175,
+   "Strasbourg": 0.306,
+   "Lyon": 0.191,
+   "Grenoble": 0.173,
+   "Marseille": 0.063,
+   "Toulouse": 0.049,
+   "Bordeaux": 0.043,
+   "Brest": 0.063,
+   "Ajaccio": 0.113,
+   "Clermont-Ferrand": 0.154,
+   "Chamonix": 0.229,
+   "Perpignan": 0.047,
+   "Nancy": 0.254
+  },
+  "monthly_scores": [
+   0.3058,
+   0.265,
+   0.1629,
+   0.0628,
+   0.0284,
+   0.0297,
+   0.0421,
+   0.042,
+   0.0469,
+   0.1177,
+   0.2415,
+   0.2816
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:09Z"
+}

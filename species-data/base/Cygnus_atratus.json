@@ -1,0 +1,89 @@
+{
+ "scientific_name": "Cygnus atratus",
+ "common_name_fr": "Cygne noir",
+ "birdnet_label": "Cygnus atratus_Cygne noir",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Cygnus",
+  "species": "Cygnus atratus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Cygne noir",
+   "url": "https://fr.wikipedia.org/wiki/Cygne_noir",
+   "description": "espèce d'oiseaux anseriformes de la famille des anatidae",
+   "extract": "Le Cygne noir est une espèce de cygnes de la famille des Anatidae originaire d'Australie qui doit son nom à la coloration en grande partie noire de son plumage. Il fut décrit scientifiquement pour la première fois en 1790 par John Latham.",
+   "fulltext_chars": 3561
+  },
+  "en": {
+   "title": "Black swan",
+   "url": "https://en.wikipedia.org/wiki/Black_swan",
+   "description": "Species of waterfowl",
+   "extract": "The black swan is a large waterbird, a species of swan which breeds mainly in the southeast and southwest regions of Australia. Within Australia, the black swan is nomadic, with erratic migration patterns dependent on climatic conditions. It is a large bird with black plumage and a red bill. It is a monogamous breeder, with both partners sharing incubation and cygnet-rearing duties.",
+   "fulltext_chars": 12581
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Black_Swan_in_Australia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5184,
+  "height": 3456,
+  "file": "Black_Swan_in_Australia.JPG",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Black_Swan_in_Australia.JPG/1920px-Black_Swan_in_Australia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "EllieRH",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Black_Swan_in_Australia.JPG"
+ },
+ "france_universe": {
+  "max_score": 0.1034,
+  "cities": {
+   "Le Mans": 0.049,
+   "Pornic": 0.036,
+   "Rennes": 0.025,
+   "Poitiers": 0.084,
+   "Paris": 0.054,
+   "Lille": 0.026,
+   "Strasbourg": 0.022,
+   "Lyon": 0.062,
+   "Grenoble": 0.025,
+   "Marseille": 0.013,
+   "Toulouse": 0.039,
+   "Bordeaux": 0.082,
+   "Clermont-Ferrand": 0.103,
+   "Chamonix": 0.026,
+   "Perpignan": 0.014,
+   "Nancy": 0.036
+  },
+  "monthly_scores": [
+   0.0889,
+   0.0768,
+   0.0574,
+   0.0166,
+   0.0,
+   0.0,
+   0.0272,
+   0.0203,
+   0.0138,
+   0.0545,
+   0.1034,
+   0.1014
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:26Z"
+}

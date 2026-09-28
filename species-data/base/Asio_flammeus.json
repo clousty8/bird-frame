@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Asio flammeus",
+ "common_name_fr": "Hibou des marais",
+ "birdnet_label": "Asio flammeus_Hibou des marais",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Strigiformes",
+  "family": "Strigidae",
+  "family_common": "Owls",
+  "genus": "Asio",
+  "species": "Asio flammeus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Hibou des marais",
+   "url": "https://fr.wikipedia.org/wiki/Hibou_des_marais",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Hibou des marais ou Hibou brachyote est une espèce de rapaces de la famille des Strigidae.",
+   "fulltext_chars": 10195
+  },
+  "en": {
+   "title": "Short-eared owl",
+   "url": "https://en.wikipedia.org/wiki/Short-eared_owl",
+   "description": "Species of owl",
+   "extract": "The short-eared owl is a widespread grassland species in the family Strigidae. Owls belonging to genus Asio are known as the eared owls, as they have tufts of feathers resembling mammalian ears. These \"ear\" tufts may or may not be visible. The short-eared owl will display its tufts when in a defensive pose, although its very short tufts are usually not visible. The short-eared owl is found in open country and grasslands.",
+   "fulltext_chars": 9382
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Short-eared_Owl_%288331673923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1920,
+  "height": 1080,
+  "file": "Short-eared_Owl_(8331673923).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Short-eared_Owl_%288331673923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Andy Reago & Chrissy McClarren",
+  "credit": "Short-eared Owl",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Short-eared_Owl_(8331673923).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1658,
+  "cities": {
+   "Le Mans": 0.025,
+   "Pornic": 0.032,
+   "Rennes": 0.031,
+   "Poitiers": 0.028,
+   "Paris": 0.018,
+   "Lille": 0.016,
+   "Lyon": 0.019,
+   "Grenoble": 0.022,
+   "Marseille": 0.037,
+   "Toulouse": 0.021,
+   "Bordeaux": 0.025,
+   "Brest": 0.032,
+   "Ajaccio": 0.166,
+   "Clermont-Ferrand": 0.022,
+   "Chamonix": 0.014,
+   "Perpignan": 0.028
+  },
+  "monthly_scores": [
+   0.1658,
+   0.1611,
+   0.1149,
+   0.0616,
+   0.014,
+   0.0,
+   0.0,
+   0.0,
+   0.0172,
+   0.0642,
+   0.1376,
+   0.1599
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:28Z"
+}

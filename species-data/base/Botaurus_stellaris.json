@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Botaurus stellaris",
+ "common_name_fr": "Butor étoilé",
+ "birdnet_label": "Botaurus stellaris_Butor étoilé",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Pelecaniformes",
+  "family": "Ardeidae",
+  "family_common": "Herons, Egrets, and Bitterns",
+  "genus": "Botaurus",
+  "species": "Botaurus stellaris"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Butor étoilé",
+   "url": "https://fr.wikipedia.org/wiki/Butor_%C3%A9toil%C3%A9",
+   "description": "espèce d'oiseaux pelecaniformes de la famille des ardeidae",
+   "extract": "Le Butor étoilé est une espèce d'oiseaux échassiers de la famille des ardéidés. L'espèce est classée (2025) en préoccupation mineure sur la Liste rouge mondiale des espèces menacées et la Liste rouge européenne des espèces menacées, alors qu'il était classé \"possiblement en danger\" auparavant. En France, Botaurus stellaris est classé (2016) vulnérable dans la liste rouge des oiseaux nicheurs de France métropolitaine et comme une espèce disparue ou en danger critique dans certaines régions.",
+   "fulltext_chars": 12493
+  },
+  "en": {
+   "title": "Eurasian bittern",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_bittern",
+   "description": "Species of bird",
+   "extract": "The Eurasian bittern or great bittern is a wading bird in the bittern subfamily (Botaurinae) of the heron family Ardeidae. There are two subspecies, the northern race breeding in parts of Europe and across the Palearctic, as well as on the northern coast of Africa, while the southern race is endemic to parts of southern Africa. It is a secretive bird, seldom seen in the open as it prefers to skulk in reed beds and thick vegetation near water bodies. Its presence is apparent in the spring, when the booming call of the male during the breeding season can be heard. It feeds on fish, small mammals, fledgling birds, amphibians, crustaceans and insects.",
+   "fulltext_chars": 16545
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Great_bittern_%28Botaurus_stellaris%29_in_flight_Vadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1985,
+  "height": 1324,
+  "file": "Great_bittern_(Botaurus_stellaris)_in_flight_Vadu.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Great_bittern_%28Botaurus_stellaris%29_in_flight_Vadu.jpg/1920px-Great_bittern_%28Botaurus_stellaris%29_in_flight_Vadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Charles J. Sharp",
+  "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Great_bittern_(Botaurus_stellaris)_in_flight_Vadu.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.13,
+  "cities": {
+   "Le Mans": 0.032,
+   "Pornic": 0.017,
+   "Rennes": 0.023,
+   "Poitiers": 0.03,
+   "Paris": 0.031,
+   "Lille": 0.044,
+   "Strasbourg": 0.017,
+   "Lyon": 0.021,
+   "Grenoble": 0.022,
+   "Marseille": 0.033,
+   "Toulouse": 0.019,
+   "Bordeaux": 0.022,
+   "Ajaccio": 0.13,
+   "Clermont-Ferrand": 0.024,
+   "Chamonix": 0.018,
+   "Perpignan": 0.024,
+   "Nancy": 0.021
+  },
+  "monthly_scores": [
+   0.13,
+   0.1205,
+   0.0673,
+   0.044,
+   0.0308,
+   0.032,
+   0.0368,
+   0.0337,
+   0.0269,
+   0.0563,
+   0.1098,
+   0.1262
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:05Z"
+}

@@ -1,0 +1,95 @@
+{
+ "scientific_name": "Arenaria interpres",
+ "common_name_fr": "Tournepierre à collier",
+ "birdnet_label": "Arenaria interpres_Tournepierre à collier",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Arenaria",
+  "species": "Arenaria interpres"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Tournepierre à collier",
+   "url": "https://fr.wikipedia.org/wiki/Tournepierre_%C3%A0_collier",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Tournepierre à collier est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae.",
+   "fulltext_chars": 5369
+  },
+  "en": {
+   "title": "Ruddy turnstone",
+   "url": "https://en.wikipedia.org/wiki/Ruddy_turnstone",
+   "description": "Species of bird",
+   "extract": "The ruddy turnstone is a small cosmopolitan wading bird, one of two species of turnstone in the genus Arenaria.",
+   "fulltext_chars": 11437
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Arenaria_interpres_%28habitus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3861,
+  "height": 2895,
+  "file": "Arenaria_interpres_(habitus).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Arenaria_interpres_%28habitus%29.jpg/1920px-Arenaria_interpres_%28habitus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Hans Hillewaert",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Arenaria_interpres_(habitus).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.302,
+  "cities": {
+   "Le Mans": 0.14,
+   "Pornic": 0.242,
+   "Rennes": 0.229,
+   "Poitiers": 0.121,
+   "Paris": 0.081,
+   "Lille": 0.084,
+   "Strasbourg": 0.012,
+   "Lyon": 0.032,
+   "Grenoble": 0.025,
+   "Marseille": 0.047,
+   "Toulouse": 0.051,
+   "Bordeaux": 0.114,
+   "Brest": 0.302,
+   "Ajaccio": 0.136,
+   "Clermont-Ferrand": 0.052,
+   "Chamonix": 0.019,
+   "Perpignan": 0.047,
+   "Nancy": 0.021
+  },
+  "monthly_scores": [
+   0.2895,
+   0.2628,
+   0.2269,
+   0.1749,
+   0.0499,
+   0.0436,
+   0.0753,
+   0.2596,
+   0.2557,
+   0.2746,
+   0.302,
+   0.2985
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:10Z"
+}

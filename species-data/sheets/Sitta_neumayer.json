@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Sitta neumayer",
+ "summary_fr": "Petit passereau robuste du sud-est européen, la Sittelle de Neumayer est un oiseau des rochers arides qui se distingue par son imposant bec massif et sa silhouette trapue. Inféodée aux falaises, ravins et pentes rocailleuses du bassin méditerranéen jusqu'en Iran, cette sittelle est avant tout une résidente sédentaire de son aire naturelle, avec seulement quelques dispersions post-nuptiales. Elle se nourrit d'insectes et d'araignées en été, complétant son régime de graines et d'escargots en hiver. Construisant un nid caractéristique en forme de flacon à partir de boue et de crin, elle se distingue aussi par son comportement territorial agressif. En France, elle demeure un visiteur exceptionnel, documenté seulement en Corse en hiver.",
+ "habitat": "Pentes rocailleuses ensoleillées et arides, gorges, ravins, affleurements rocheux dénudés et ruines abandonnées. Habitats associés aux rochers nus, particulièrement en zones montagneuses.",
+ "diet": "Insectes et araignées en été ; graines et escargots en hiver. Se nourrit au sol et coinçe les proies plus volumineuses dans les fissures des rochers avant de les briser.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": "Niche du sud-est de l'Europe (Balkans, Turquie, Caucase) jusqu'en Iran.",
+  "passage": "Extrêmement rare en France, uniquement détectée en janvier en Corse (Ajaccio)."
+ },
+ "seasonality_fr": "Visible principalement en hiver en France, exceptionnel. En janvier surtout.",
+ "song_fr": "Appel distinctif « tsik » sec et répété ; chant constitué de trilles « tui tui tui ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Sitta tephronota",
+   "common_name_fr": "Sittelle des rochers",
+   "why_fr": "Très semblable acoustiquement et visuellement, souvent confondue avec la Sittelle de Neumayer, particulièrement à l'est de l'aire de distribution."
+  },
+  {
+   "scientific_name": "Sitta europaea",
+   "common_name_fr": "Sittelle torchepot",
+   "why_fr": "Appels « tsik » assez proches ; peut causer une confusion en mauvaises conditions d'écoute, notamment si perchée sur un arbre."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France, ne s'observe qu'en Corse en janvier. Visiteur accidentel bien en dehors de son aire de répartition naturelle.",
+ "fun_facts": [
+  "Construit un nid unique en forme de flacon à partir de boue, de bouse et de crin, avec une entrée murée sauf un petit orifice d'accès.",
+  "Pliny l'Ancien pensait que ce sont ces oiseaux qui ont inspiré aux hommes la construction de maisons de terre.",
+  "Le iris noir épais distinctif s'amincit selon les sous-espèces, notamment chez la sous-espèce iranienne tschitscherini."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Sittelle_de_Neumayer",
+  "https://en.wikipedia.org/wiki/Western_rock_nuthatch",
+  "https://www.oiseaux.net/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

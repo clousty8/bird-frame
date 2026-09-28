@@ -1,0 +1,86 @@
+{
+ "scientific_name": "Caprimulgus europaeus",
+ "common_name_fr": "Engoulevent d'Europe",
+ "birdnet_label": "Caprimulgus europaeus_Engoulevent d'Europe",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Caprimulgiformes",
+  "family": "Caprimulgidae",
+  "family_common": "Nightjars and Allies",
+  "genus": "Caprimulgus",
+  "species": "Caprimulgus europaeus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Engoulevent d'Europe",
+   "url": "https://fr.wikipedia.org/wiki/Engoulevent_d'Europe",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Engoulevent d'Europe est une espèce d'oiseaux de la famille des Caprimulgidae. Comme tous les engoulevents, c'est un oiseau crépusculaire et nocturne. Il possède un plumage cryptique très complexe, mêlant le gris, le beige et le brun, qui lui confère un camouflage efficace le jour, lorsqu'il reste posé au sol ou perché, immobile, le long d'une branche. En vol, le mâle arbore cependant des taches blanches bien visibles sur les coins de la queue et au bout des ailes. Le cou est court, portant une grosse tête munie d'un petit bec. Les ailes et la queue sont longues et étroites ; les pattes sont courtes. L'Engoulevent d'Europe se nourrit d'une grande variété d'insectes volants, qu'il attrape en vol, souvent en chassant depuis un perchoir. Il chasse à vue, utilisant ses yeux relativement grands et munis d'une couche réfléchissante qui améliore sa vision de nuit. Il ne semble pas utiliser son ouïe pour chasser, et ne fait pas d'écholocalisation. Il boit et se baigne au vol.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "European nightjar",
+   "url": "https://en.wikipedia.org/wiki/European_nightjar",
+   "description": "Migratory bird found in Eurasia and Africa",
+   "extract": "The European nightjar, common goatsucker, Eurasian nightjar or just nightjar is a crepuscular and nocturnal bird in the nightjar family that breeds across most of Europe and the Palearctic to Mongolia and Northwestern China. The Latin generic name refers to the old myth that the nocturnal nightjar suckled from goats, causing them to cease to give milk. The six subspecies differ clinally, the birds becoming smaller and paler towards the east of the range. All populations are migratory, wintering in sub-Saharan Africa. Their densely patterned grey and brown plumage makes individuals difficult to see in the daytime when they rest on the ground or perch motionless along a branch, although the male shows white patches in the wings and tail as he flies at night.",
+   "fulltext_chars": 21880
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c1/%C5%9Eivanxap%C3%AEnok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1071,
+  "file": "Şivanxapînok.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/c/c1/%C5%9Eivanxap%C3%AEnok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Dûrzan cîrano",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:%C5%9Eivanxap%C3%AEnok.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1135,
+  "cities": {
+   "Le Mans": 0.011,
+   "Pornic": 0.019,
+   "Rennes": 0.012,
+   "Poitiers": 0.016,
+   "Lyon": 0.011,
+   "Marseille": 0.024,
+   "Toulouse": 0.017,
+   "Bordeaux": 0.021,
+   "Brest": 0.013,
+   "Ajaccio": 0.114,
+   "Clermont-Ferrand": 0.014,
+   "Perpignan": 0.022
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0543,
+   0.1084,
+   0.1056,
+   0.0988,
+   0.1028,
+   0.1135,
+   0.0901,
+   0.0336,
+   0.0,
+   0.0
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:24Z"
+}

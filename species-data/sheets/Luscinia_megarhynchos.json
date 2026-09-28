@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Luscinia megarhynchos",
+ "summary_fr": "Le Rossignol philomèle est un petit passereau brun au dos roussâtre, discret et craintif tant qu'il ne chante pas, car sa voix reste l'un des plus beaux atouts de la nature. Le mâle enchaîne un répertoire impressionnant de plus de cent séquences sonores différentes, mêlant sifflements clairs, trilles vibrants et gargouillements sourds. Pendant la saison de reproduction, il chante de jour comme de nuit depuis des perchoirs cachés dans les fourrés, le chant nocturne servant surtout à séduire les femelles avant l'appariement. Grand migrateur transsaharien, il rejoint la France d'avril à juin pour nicher dans les boisements clairs, les ronciers et les jardins broussailleux, puis repart vers l'Afrique subsaharienne dès septembre ; quelques individus, en marge de la règle, restent hiverner sur le littoral ou dans le sud du pays. Seuls les mâles chantent, particularité rare chez les passereaux, et le couple cesse généralement le chant nocturne une fois formé. Espèce commune en France, il reste pourtant bien plus souvent entendu qu'observé.",
+ "habitat": "Boisements ouverts avec fourrés près de l'eau, lisière des forêts de feuillus, jardins et terres cultivées, généralement jusqu'à 1400 m d'altitude.",
+ "diet": "Invertébrés, surtout scarabées et fourmis toute l'année ; fruits, baies et graines à l'automne et en hiver.",
+ "activity_pattern": "mixte",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Majoritairement en Afrique subsaharienne, du Sénégal au Cameroun ; quelques individus hivernent occasionnellement dans le sud de la France et sur le littoral atlantique.",
+  "niche": "Partout en France, d'avril à juillet.",
+  "passage": "Départ principal début septembre, retour de mi-mars à début avril."
+ },
+ "seasonality_fr": "Visible et audible en France d'avril à août principalement, avec de rares individus signalés en hiver. Passages migratoires marqués en mars et en août-septembre.",
+ "song_fr": "Chant puissant, très varié et mélodieux composé de sifflements clairs, trilles et gargouillements. Cri d'alarme râpeux. Chante surtout la nuit et au lever du jour depuis des perchoirs dissimulés.",
+ "lookalikes": [
+  {
+   "scientific_name": "Luscinia luscinia",
+   "common_name_fr": "Rossignol progné",
+   "why_fr": "Espèce très proche, distribution nordique, chant moins vigoureux et sans crescendo."
+  },
+  {
+   "scientific_name": "Erithacus rubecula",
+   "common_name_fr": "Rougegorge familier",
+   "why_fr": "Petit gobemouche du même groupe écologique, chant mélancolique de tessiture comparable."
+  },
+  {
+   "scientific_name": "Luscinia svecica",
+   "common_name_fr": "Gorgebleue à miroir",
+   "why_fr": "Autre Luscinia, cris de rappel proches, mais chant et habitat différents."
+  }
+ ],
+ "rarity_note": "Régulier en France durant la saison de reproduction, avec un score de présence de 0,71 ; bien que migrateur transsaharien, quelques individus hivernent occasionnellement dans le sud et sur le littoral atlantique.",
+ "fun_facts": [
+  "Le Rossignol peut apprendre de nouvelles séquences sonores en écoutant les autres mâles expérimentés.",
+  "Les chercheurs ont dénombré environ 1160 syllabes différentes dans le répertoire vocal du Rossignol.",
+  "Dans la mythologie grecque, le Rossignol (Philomèle) symbolise l'amour éternel et la tristesse, thème repris par Homère, Ovide et des poètes modernes comme Keats."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Rossignol_philom%C3%A8le",
+  "https://en.wikipedia.org/wiki/Common_nightingale",
+  "https://www.oiseaux.net/oiseaux/rossignol.philomele.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4635"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

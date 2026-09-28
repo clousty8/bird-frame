@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Puffinus puffinus",
+ "summary_fr": "Petit puffin marin de l'Atlantique Nord, le Puffin des Anglais est un oiseau élancé aux ailes rigides et à la silhouette reconnaissable en vol : ventre blanc, dos brun-noirâtre, alternant noir et blanc au ras des vagues. Oiseau de haute mer par excellence, il ne vient à terre que pour nidifier dans des terriers sur les îles rocheuses, principalement en Grande-Bretagne et Irlande. Ses déplacements sont spectaculaires : migrateur trans-équatorial, il part en juillet hiverner au large des côtes sud-américaines et africaines, puis revient en mars-avril. Longévité remarquable (jusqu'à 50 ans), il arrive à parcourir mille kilomètres en vingt-quatre heures pour ravitailler son jeune. En France, sa présence reste exceptionnelle mais régulière en passages migratoires, particulièrement en Bretagne.",
+ "habitat": "Océan Atlantique, strictement marin. Niche dans des terriers sur îles et côtes rocheuses ; ne vient que très exceptionnellement à l'intérieur des terres.",
+ "diet": "Petits poissons (sprats, anchois, harengs), crustacés, céphalopodes, débris alimentaires en surface. Capture en vol rasant l'eau ou plonge à la poursuite des proies.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Océan Atlantique Sud, entre le 10e et 50e parallèle sud, au large du Brésil et de l'Afrique du Sud ; certains atteignent le Pacifique.",
+  "niche": "Îles de l'Atlantique Nord-Ouest (Royaume-Uni, Islande, îles Féroé, Irlande, France, îles Macaronésiennes). En France : quelques couples nicheurs signalés en Bretagne.",
+  "passage": "Passages marqués en février-mars (retour) et août-novembre (départ vers le sud). Mouvements liés aux cycles migratoires trans-équatoriaux."
+ },
+ "seasonality_fr": "Visible surtout en passages migratoires de février à novembre en France métropolitaine. Silencieux en mer. Très vocal la nuit aux colonies de reproduction (mars-septembre).",
+ "song_fr": "Muet en mer. Aux colonies, vocalises nocturnes très caractéristiques : groins, cris rauques, hurlements et sons chevrotants ressemblant à des sanglots étranglés, d'où le surnom folklore « Devil Bird ». Couples qui se reconnaissent à la voix.",
+ "lookalikes": [
+  {
+   "scientific_name": "Calonectris diomedea",
+   "common_name_fr": "Puffin cendré",
+   "why_fr": "Taille et silhouette marins semblables, vol rasant les vagues. Aspect plus pâle, appels différents."
+  }
+ ],
+ "rarity_note": "Rare et irrégulier en France. Max score BirdNET 0,17, variable selon côtés bretonnes. Quelques individus observés lors des passages migratoires.",
+ "fun_facts": [
+  "Oiseau capable de parcourir 1 000 kilomètres en 24 heures pour nourrir son jeune, le quittant seul en journée pour ne revenir que la nuit à terre.",
+  "Un puffin des Anglais bagué en 1953 a été retrouvé en 2003 à 53 ans, ce qui en ferait un des oiseaux les plus anciens jamais observés à l'état sauvage.",
+  "Ses vocalises nocturnes terrifiantes aux colonies ont inspiré des légendes folkloriques, notamment autour d'îles féroéiennes associées aux trolls."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Puffin_des_Anglais",
+  "https://en.wikipedia.org/wiki/Manx_shearwater"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

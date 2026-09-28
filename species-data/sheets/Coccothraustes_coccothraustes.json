@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Coccothraustes coccothraustes",
+ "summary_fr": "Le Gros-bec casse-noyaux est le plus grand des fringillés, reconnaissable à son bec massif triangulaire capable de fracasser les noyaux les plus durs. Ce passereau trapu à silhouette bizarre, avec sa tête volumineuse et sa queue courte, est extrêmement farouche et difficile à observer. Migrateur partiel en Europe, il se rencontre en forêts mixtes et feuillues, où il se nourrit principalement de graines de cerisier, de prunellier et de charme. L'hiver, des oiseaux du nord rejoignent les populations résidentes, formant parfois des petits groupes dans les sites forestiers. Le mâle arbore une tête rousse et un cou noir caractéristiques, tandis que la femelle est plus terne. Bien que largement distribué à travers l'Eurasie, le Gros-bec reste discret et solitaire, se perchant haut dans les arbres pour éviter le contact.",
+ "habitat": "Forêts mixtes et feuillues avec présence de charmes, hêtres et érables ; parcs et vergers arborés.",
+ "diet": "Principalement graines et noyaux décortiqués par son puissant bec, surtout cerisier et prunellier ; insectes et chenilles au printemps lorsque les graines manquent.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Dans toute la France métropolitaine et en région méditerranéenne, rejoignant les populations résidentes européennes ; populations du nord et de l'est de l'Europe migrent vers le sud en hiver.",
+  "niche": "Forêts feuillues et mixtes d'Europe et d'Asie tempérée, jusqu'au centre de la Sibérie ; nidification avril à juillet, généralement une couvée par an.",
+  "passage": "Passages migratoires de février à avril (printemps) et de septembre à novembre (automne) ; mouvements souvent importants et imprévisibles d'une année à l'autre."
+ },
+ "seasonality_fr": "Visible toute l'année en France, bien que plus facile à détecter en hiver quand les groupes se forment. Audible en période de nidification (avril-juillet).",
+ "song_fr": "Chant très peu sonore, hésitant et peu fréquent : « tik-tik-tour-oui-ouit » caractéristique. Cris bien plus typiques : appels sonores et explosifs « tsik » ou « ptik-ptikit », appel fin « tsrîîh », cri de peur « kioûû » craintif.",
+ "lookalikes": [
+  {
+   "scientific_name": "Pyrrhula pyrrhula",
+   "common_name_fr": "Bouvreuil pivoine",
+   "why_fr": "Autre fringillé trapu ; cris sifflés mais différents du Gros-bec, moins explosifs."
+  },
+  {
+   "scientific_name": "Carduelis carduelis",
+   "common_name_fr": "Chardonneret élégant",
+   "why_fr": "Fringillé mais plus petit et au chant tintinnabulant très différent du Gros-bec."
+  }
+ ],
+ "rarity_note": "Peu commun en France, particulièrement dans les régions de faible altitude. Davantage présent en zone méditerranéenne et montagneuse, rare en Bretagne et Normandie.",
+ "fun_facts": [
+  "Son bec possède une musculature impressionnante capable d'exercer une pression équivalente à 30-48 kilogrammes, permettant de casser les noyaux les plus durs.",
+  "Très territorial même en hiver, les combats entre mâles peuvent être violents ; l'espèce défend farouchement son territoire contre ses congénères.",
+  "Contrairement à la plupart des passereaux, mâle et femelle chantent tous deux pour défendre leur territoire, ce qui est très rare chez les fringillés."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Gros-bec_casse-noyaux",
+  "https://en.wikipedia.org/wiki/Hawfinch",
+  "https://www.oiseaux.net/oiseaux/coccothraustes.coccothraustes.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

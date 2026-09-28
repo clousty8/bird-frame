@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Passer domesticus",
+ "summary_fr": "Le Moineau domestique est le compagnon le plus familier des villes et villages français, tant sa présence auprès de l'homme remonte loin dans le temps. Malgré son nom, ce n'est pas un oiseau domestiqué mais une espèce bien sauvage, simplement commensale de l'homme depuis les débuts de l'agriculture au Proche-Orient. Ce petit passereau trapu mesure une quinzaine de centimètres pour 24 à 40 grammes. Le mâle arbore une calotte grise, une bavette noire et un dos brun rayé, tandis que la femelle, plus discrète, se contente de teintes beige et gris terne. Très sociable, il vit en bandes qui se nourrissent, se baignent et dorment ensemble, et les rivalités entre mâles pour la nourriture ou les cavités de nidification peuvent devenir spectaculaires. Granivore avant tout, il consomme graines de céréales et d'herbes sauvages, mais se tourne volontiers vers les insectes pour nourrir ses oisillons et vers les restes alimentaires humains en ville. Fidèle à son quartier, il ne migre pas : la plupart des individus restent toute leur vie près de leur lieu de naissance. Son gazouillement répété en « tchip-tchip », loin d'être un chant élaboré, ponctue du matin au soir la vie des jardins et des trottoirs.",
+ "habitat": "Villes, villages et fermes, partout où l'homme s'est installé : bâtiments, toitures, haies et jardins offrant des cavités pour nicher. Évite les forêts denses, les grandes prairies et les zones désertiques éloignées de l'homme.",
+ "diet": "Surtout granivore : graines de céréales (blé, avoine) et d'herbes sauvages. Complète son régime avec des insectes, notamment pour nourrir les jeunes, et picore volontiers pain et restes alimentaires en ville.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "En France toute l'année : c'est l'une des espèces les plus casanières d'Europe, restant près de son lieu de naissance.",
+  "niche": "Partout en France sauf en forêt dense et en haute montagne, de mars à août, souvent deux à trois nichées en cavité de mur, de toiture ou de haie dense.",
+  "passage": null
+ },
+ "seasonality_fr": "Présent et très vocal toute l'année en France, sans afflux ni départ saisonnier lié à une migration. L'activité et les chants culminent au printemps, en période de reproduction.",
+ "song_fr": "Pas de chant élaboré mais un gazouillement répété en « tchip » ou « philip », varié selon le contexte social. Cri d'alarme nasal et sec en cas d'alerte.",
+ "lookalikes": [
+  {
+   "scientific_name": "Passer montanus",
+   "common_name_fr": "Moineau friquet",
+   "why_fr": "Cris proches et taille voisine ; le friquet a une calotte châtain et une tache noire sur la joue blanche."
+  },
+  {
+   "scientific_name": "Prunella modularis",
+   "common_name_fr": "Accenteur mouchet",
+   "why_fr": "Fréquente les mêmes jardins ; ses vocalises plus grinçantes et continues peuvent être confondues au premier abord."
+  }
+ ],
+ "rarity_note": "Très commun et abondant partout en France, en particulier en zones urbaines et périurbaines, toute l'année.",
+ "fun_facts": [
+  "Malgré son nom, ce n'est pas un animal domestique mais une espèce sauvage commensale de l'homme depuis les débuts de l'agriculture au Proche-Orient.",
+  "Mâle et femelle défendent tous deux leur territoire toute l'année, y compris en hiver, parfois par des combats très violents entre rivaux.",
+  "C'est l'oiseau sauvage le plus largement réparti au monde, présent sur tous les continents sauf l'Antarctique."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Moineau_domestique",
+  "https://en.wikipedia.org/wiki/House_sparrow",
+  "https://www.oiseaux.net/oiseaux/moineau.domestique.html",
+  "https://herault.lpo.fr/wp-content/uploads/2015/02/Lemoineaudomestique.pdf"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Alectoris rufa",
+ "summary_fr": "Perdrix de taille moyenne à plumage teinté de roux et de gris, la Perdrix rouge reste un oiseau reconnaissable entre tous grâce à son masque blanc, sa gorge blanche bordée de noir et ses pattes rouges. Elle fréquente les terrains arides, rocailleux et buissonneux du sud et du sud-ouest français. Bien que localement commune dans les zones méditerranéennes et atlantiques, elle a connu un déclin régulier depuis les années 1970. C'est une espèce qu'on entend plus qu'on ne la voit, cachée dans les buissons ou les herbes où elle préfère courir plutôt que de s'envoler. Espèce de plaine et de collines, elle est sédentaire dans la plupart de son aire française, avec des mouvements altitudinaux en hiver dans les zones montagneuses.",
+ "habitat": "Terrains rocailleux, plateaux arides, collines sèches et zones buissonneuses. Fréquente aussi les friches et les pentes dénudées, du littoral aux contreforts montagneux.",
+ "diet": "Graines diverses, notamment des faînes et des feuilles ; petits invertébrés indispensables aux poussins. Capable de se nourrir de légumes cultivés et de racines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Partout où elle niche en France, avec descentes altitudinales en hiver depuis les zones de montagne.",
+  "niche": "Principalement dans le sud-ouest et le sud de la France, du littoral atlantique à la Méditerranée et aux contreforts alpins.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente toute l'année dans le sud et le centre-sud de la France. Plus rare en hiver dans les zones de montagne où elle descend en vallée.",
+ "song_fr": "Chant tripartite caractéristique : chak-chak-chakar ou choukar. Cri d'alarme distinctive : go-chak-chak répété. Cri de contact plus doux : chik-chik-chik.",
+ "lookalikes": [
+  {
+   "scientific_name": "Alectoris graeca",
+   "common_name_fr": "Perdrix bartavelle",
+   "why_fr": "Très similaire à Alectoris rufa. Chants proches, bien que la bartavelle soit moins commune en France."
+  },
+  {
+   "scientific_name": "Perdix perdix",
+   "common_name_fr": "Perdrix grise",
+   "why_fr": "Chakerres vocales de même type, bien que le cri d'alarme de la grise soit plus grave et moins répétitif."
+  }
+ ],
+ "rarity_note": "Localement commune dans le sud-ouest et la Méditerranée française. Très rare en région parisienne et nord-ouest, où elle n'apparaît qu'exceptionnellement.",
+ "fun_facts": [
+  "Elle possède un bandeau blanc très distinctif au-dessus de l'œil, rare chez les perdrix, qui la rend facilement identifiable de près.",
+  "Capable de pondre deux couvées par an, détail assez unique chez les gallinacés français, ce qui explique sa résilience malgré les prédateurs.",
+  "Elle creuse elle-même ses nids : le mâle prépare plusieurs cuvettes, et la femelle choisit celle qui lui plaît avant de pondre une dizaine d'œufs."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Perdrix_rouge",
+  "https://en.wikipedia.org/wiki/Red-legged_partridge",
+  "https://www.oiseaux.net/fiche/perdrix.rouge.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

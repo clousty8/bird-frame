@@ -1,0 +1,81 @@
+{
+ "scientific_name": "Glaucidium passerinum",
+ "common_name_fr": "Chevêchette d'Europe",
+ "birdnet_label": "Glaucidium passerinum_Chevêchette d'Europe",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Strigiformes",
+  "family": "Strigidae",
+  "family_common": "Owls",
+  "genus": "Glaucidium",
+  "species": "Glaucidium passerinum"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Chevêchette d'Europe",
+   "url": "https://fr.wikipedia.org/wiki/Chev%C3%AAchette_d'Europe",
+   "description": "espèce d'oiseaux strigiformes de la famille des strigidae et du genre Glaucidium",
+   "extract": "La Chevêchette d'Europe, anciennement Chouette chevêchette, est la plus petite espèce des strigidés européens. Sa taille est d'environ 16 cm de longueur. Cet oiseau est en partie diurne et consomme de petits oiseaux qu'il chasse au vol. Il vit le plus souvent dans les forêts de conifères surtout d'épicéas des régions montagneuses. Son aire de répartition est plutôt continentale et nord-européenne.",
+   "fulltext_chars": 6061
+  },
+  "en": {
+   "title": "Eurasian pygmy owl",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_pygmy_owl",
+   "description": "Species of owl",
+   "extract": "The Eurasian pygmy owl is the smallest owl in Europe. It is dark reddish to greyish-brown, with spotted sides and half of a white ring around the back of the neck. This species is found in the boreal forests of Northern and Central Europe to Siberia.",
+   "fulltext_chars": 5239
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/20/%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D0%B8%D0%BD%D1%8B%D0%B9_%D1%81%D1%8B%D1%87_%28Glaucidium_passerinum%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1224,
+  "height": 1770,
+  "file": "Воробьиный_сыч_(Glaucidium_passerinum),_Битцевский_лес.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/20/%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D0%B8%D0%BD%D1%8B%D0%B9_%D1%81%D1%8B%D1%87_%28Glaucidium_passerinum%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Dion Art",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D0%B8%D0%BD%D1%8B%D0%B9_%D1%81%D1%8B%D1%87_(Glaucidium_passerinum),_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0659,
+  "cities": {
+   "Poitiers": 0.016,
+   "Strasbourg": 0.01,
+   "Lyon": 0.062,
+   "Grenoble": 0.048,
+   "Marseille": 0.015,
+   "Toulouse": 0.013,
+   "Bordeaux": 0.015,
+   "Ajaccio": 0.049,
+   "Clermont-Ferrand": 0.066,
+   "Chamonix": 0.046
+  },
+  "monthly_scores": [
+   0.0659,
+   0.0635,
+   0.0422,
+   0.0125,
+   0.0123,
+   0.0163,
+   0.0178,
+   0.0189,
+   0.0152,
+   0.0312,
+   0.0556,
+   0.0621
+  ],
+  "months": [
+   1,
+   2,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:22Z"
+}

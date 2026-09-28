@@ -1,0 +1,30 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Alcedo atthis",
+ "summary_fr": "Le Martin-pêcheur d'Europe est un petit passereau trapu et coloré, facilement reconnaissable à son plumage bleu profond sur le dessus et roux-orange en dessous, avec un bec long et fin. C'est un excellent bioindicateur de la qualité de l'eau, car il ne fréquente que les milieux aquatiques clairs et bien préservés. Solitaire hors de la saison de reproduction, il défend farouchement son territoire en suivant un circuit le long des cours d'eau. Il chasse ses proies en plongeant depuis un perchoir fixe, au ras de l'eau, avec des accélérations impressionnantes jusqu'à 80 km/h. Le sexe se reconnaît au bec : presque noir chez le mâle, partiellement orange chez la femelle. Les couples sont généralement unis toute la saison reproductive et nichent dans des terriers creusés dans les berges.",
+ "habitat": "Rivières et ruisseaux clairs, lacs avec berges bien végétalisées, estuaires en hiver. Apprécie les falaises calcaires et les marais littoraux, partout où l'eau reste accessible et le poisson abondant.",
+ "diet": "Petits poissons (4 à 7 cm en moyenne), insectes aquatiques (larves de libellules, notonectes, hydrocores), crustacés (gammares) et petits batraciens. En captivité, peut ingurgiter 60 à 80 poissons par jour.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partout en France tant que les eaux restent ouvertes ; en cas de gel prolongé, peut se retirer vers les estuaires ou les zones côtières moins froides.",
+  "niche": "Tous les cours d'eau et plans d'eau français convenables, avril à juillet, souvent deux nichées par an.",
+  "passage": "Passages notables en mars (retour) et d'octobre à novembre (départ)."
+ },
+ "seasonality_fr": "Présent et audible toute l'année en France, mais plus actif au printemps et en été. Les hivers rigoureux peuvent le faire migrer vers le sud.",
+ "song_fr": "Pas de chant proprement dit. Cri de vol caractéristique : court sifflement aigu « tchee » répété deux ou trois fois. Cri d'alarme ou de tension : « tchrit-it-it » rauque et répété.",
+ "lookalikes": [],
+ "rarity_note": "Régulier et commune en France, présente sur tous les cours d'eau et plans d'eau convenables. Moins abondante en Corse et en Méditerranée.",
+ "fun_facts": [
+  "Son vol rase l'eau de façon spectaculaire, donnant l'impression qu'il tourne brusquement sur les petits ruisseaux alors qu'il suit précisément les méandres.",
+  "Ses yeux possèdent une adaptation spéciale : deux fovéas qui lui permettent de voir clairement aussi bien dans l'air qu'à travers la surface de l'eau lors du plongeon.",
+  "Après chaque digestion, il rejette une pelote de régurgitation contenant les arêtes des poissons ; ces pelotes restent visibles au sol ou sur les pierres."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Martin-p%C3%AAcheur_d'Europe",
+  "https://en.wikipedia.org/wiki/Common_kingfisher",
+  "https://www.oiseaux.net/alcedo.atthis.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,79 @@
+{
+ "scientific_name": "Stercorarius pomarinus",
+ "common_name_fr": "Labbe pomarin",
+ "birdnet_label": "Stercorarius pomarinus_Labbe pomarin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Stercorariidae",
+  "family_common": "Skuas and Jaegers",
+  "genus": "Stercorarius",
+  "species": "Stercorarius pomarinus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Labbe pomarin",
+   "url": "https://fr.wikipedia.org/wiki/Labbe_pomarin",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Labbe pomarin est une espèce d'oiseaux marins de la famille des Stercorariidae. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 3161
+  },
+  "en": {
+   "title": "Pomarine jaeger",
+   "url": "https://en.wikipedia.org/wiki/Pomarine_jaeger",
+   "description": "Species of bird",
+   "extract": "The pomarine jaeger, pomarine skua, or pomatorhine skua, is a seabird in the skua family Stercorariidae. It is a migrant, wintering at sea in the tropical oceans.",
+   "fulltext_chars": 5683
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Stercorarius_pomarinusPCCA20070623-3985B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 453,
+  "height": 512,
+  "file": "Stercorarius_pomarinusPCCA20070623-3985B.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Stercorarius_pomarinusPCCA20070623-3985B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Patrick Coin (Patrick Coin)",
+  "credit": "Photograph taken by Patrick Coin",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Stercorarius_pomarinusPCCA20070623-3985B.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1379,
+  "cities": {
+   "Marseille": 0.017,
+   "Ajaccio": 0.138,
+   "Perpignan": 0.012
+  },
+  "monthly_scores": [
+   0.1061,
+   0.1326,
+   0.1379,
+   0.0741,
+   0.0382,
+   0.0345,
+   0.0371,
+   0.0525,
+   0.0723,
+   0.0964,
+   0.0985,
+   0.1065
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:04Z"
+}

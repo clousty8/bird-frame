@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Anas crecca",
+ "common_name_fr": "Sarcelle d'hiver",
+ "birdnet_label": "Anas crecca_Sarcelle d'hiver",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Anas",
+  "species": "Anas crecca"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Sarcelle d'hiver",
+   "url": "https://fr.wikipedia.org/wiki/Sarcelle_d'hiver",
+   "description": "espèce d'oiseaux anseriformes de la famille des anatidae",
+   "extract": "La Sarcelle d'hiver est la plus petite espèce de canards de surface. Elle se rencontre en Europe, Amérique du Nord et aussi en Asie. Dans ces régions, elle vit dans les zones tempérées à septentrionales. C'est un migrateur partiel, elle est chassée en grand nombre en Europe et en Amérique du Nord. La population nord-américaine est considérée par certains ornithologues comme une espèce à part, la Sarcelle à ailes vertes, et par d'autres comme une sous-espèce.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Eurasian teal",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_teal",
+   "description": "Species of bird (duck)",
+   "extract": "The Eurasian teal, common teal, or Eurasian green-winged teal is a common and widespread duck that breeds in temperate Eurosiberia and migrates south in winter. The Eurasian teal is often called simply the teal due to being the only one of these small dabbling ducks in much of its range. The bird gives its name to the blue-green colour teal.",
+   "fulltext_chars": 12453
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Eurasian_Teal_Anas_crecca%2C_male%2C_RSPB_Titchwell%2C_Norfolk_%2833587386401%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4120,
+  "height": 2968,
+  "file": "Eurasian_Teal_Anas_crecca,_male,_RSPB_Titchwell,_Norfolk_(33587386401).jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Eurasian_Teal_Anas_crecca%2C_male%2C_RSPB_Titchwell%2C_Norfolk_%2833587386401%29.jpg/1920px-Eurasian_Teal_Anas_crecca%2C_male%2C_RSPB_Titchwell%2C_Norfolk_%2833587386401%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "gailhampshire from Cradley, Malvern, U.K",
+  "credit": "Teal Anas crecca , male",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Eurasian_Teal_Anas_crecca,_male,_RSPB_Titchwell,_Norfolk_(33587386401).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.5017,
+  "cities": {
+   "Le Mans": 0.377,
+   "Pornic": 0.356,
+   "Rennes": 0.384,
+   "Poitiers": 0.335,
+   "Paris": 0.411,
+   "Lille": 0.502,
+   "Strasbourg": 0.292,
+   "Lyon": 0.263,
+   "Grenoble": 0.252,
+   "Marseille": 0.295,
+   "Toulouse": 0.303,
+   "Bordeaux": 0.339,
+   "Brest": 0.39,
+   "Ajaccio": 0.429,
+   "Clermont-Ferrand": 0.291,
+   "Chamonix": 0.219,
+   "Perpignan": 0.301,
+   "Nancy": 0.331
+  },
+  "monthly_scores": [
+   0.4257,
+   0.4032,
+   0.463,
+   0.3249,
+   0.0925,
+   0.0701,
+   0.1193,
+   0.3601,
+   0.5017,
+   0.4543,
+   0.4154,
+   0.4286
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:21Z"
+}

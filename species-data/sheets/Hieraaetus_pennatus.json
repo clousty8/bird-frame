@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Hieraaetus pennatus",
+ "summary_fr": "L'Aigle botté est un petit rapace d'Europe, du Maghreb et d'Asie centrale, reconnaissable à ses pattes couvertes de plumes jusqu'aux doigts. Oiseau majoritairement migrateur, il quitte l'Europe boréale pour l'Afrique subsaharienne et l'Asie du sud chaque hiver. En France, il s'observe principalement au printemps et en automne lors de ses passages, avec quelques couples nicheurs aux Pyrénées. Chasseur agile, il plane haut et se lance en piqué pour capturer petits oiseaux, petits mammifères et reptiles. Ses plumages varient du clair au sombre selon les individus, ce qui peut le rendre confusible avec d'autres rapaces. Oiseau de rocs, de forêts ouvertes et de zones semi-naturelles en montagne, il affectionne les paysages où alternent bois et prairies.",
+ "habitat": "L'Aigle botté fréquente les zones semi-forestières avec des milieux ouverts parsemés de bois. En Europe, il affectionne les piémonts montagneux où alternent forêts et prairies, notamment dans les Pyrénées françaises. Il s'adapte aussi aux grands espaces semi-naturels et aux zones périurbaines.",
+ "diet": "Petit rapace actif, l'Aigle botté chasse en vol des petits oiseaux (corvidés, pigeons, étourneaux), des petits mammifères (lapins, lièvres) et des reptiles. Opportuniste, il capture aussi des insectes et peut piller les nids d'autres oiseaux.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "L'Aigle botté hiverne en Afrique subsaharienne et en Asie du sud. Très rarement, quelques individus peuvent rester dans le sud de l'Europe en hiver.",
+  "niche": "Niche en France dans les Pyrénées et localement dans le sud-est. La plupart des couples européens nichent en Ibérie, Maghreb, Hongrie et jusqu'à la région de Moscou.",
+  "passage": "Passages migratoires marqués en mars-avril (northbound) et août-octobre (southbound) en France."
+ },
+ "seasonality_fr": "Visible en France principalement de mars à octobre lors de ses migrations et durant la période de reproduction estivale. Quelques rares individus peuvent hiverner dans le sud-est. Plus actif en vol lors des passages migratoires.",
+ "song_fr": "Cris aigus et répétés : « kuih kiih » en vol. Mâle crie « pi-piiii » avec insistance lors de la parade nuptiale. Au nid, émission de « klia-klia-klia-ki-ki ». Généralement silencieux en dehors de la saison de nidification.",
+ "lookalikes": [
+  {
+   "scientific_name": "Buteo buteo",
+   "common_name_fr": "Buse variable",
+   "why_fr": "Cris aigus et répétés lors du vol ; ressemblance acoustique possible en migration."
+  },
+  {
+   "scientific_name": "Milvus migrans",
+   "common_name_fr": "Milan noir",
+   "why_fr": "Appels aigus en vol facilement confondus lors des passages migratoires."
+  },
+  {
+   "scientific_name": "Circus aeruginosus",
+   "common_name_fr": "Busard des roseaux",
+   "why_fr": "Cris aigus et habitats de chasse similaires ; confusion possible en vol."
+  }
+ ],
+ "rarity_note": "Peu commune en France, l'Aigle botté est observable surtout en migration et durant la période de reproduction. Détectable toute l'année, avec une présence bien plus marquée en avril-mai et août-septembre.",
+ "fun_facts": [
+  "Ses pattes couvertes de plumes jusqu'aux doigts lui valent son surnom d'Aigle botté ; c'est une adaptation qui améliore son isolation thermique.",
+  "Malgré sa petite taille (45-52 cm), c'est un chasseur d'une agilité remarquable qui capture ses proies en piqué à grande vitesse.",
+  "Il existe deux morphes de plumage distincts (clair ou sombre) suivant un mode de transmission génétique mendelien, indépendant du sexe."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Aigle_bott%C3%A9",
+  "https://en.wikipedia.org/wiki/Booted_eagle",
+  "https://www.uicnredlist.org/",
+  "https://oiseaux.net/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

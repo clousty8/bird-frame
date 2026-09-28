@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Periparus ater",
+ "summary_fr": "La mésange noire est la plus petite des mésanges française, facilement reconnaissable à sa tête noire contrastée de joues blanches et d'une tache blanche distinctive sur la nuque. Son dos gris olivâtre et ses ailes ornées de deux barres blanches complètent cette silhouette caractéristique. Sédentaire et très sociable, elle fréquente les forêts de conifères, les parcs et jardins, où elle se nourrit d'insectes l'été et de graines notamment de conifères en hiver. Souvent observée en petits groupes, parfois acrobatique comme ses cousines, elle se pose fréquemment sur les troncs et avance par petits sauts. Son chant sonore « pitchou-pitchou-pitchou » résonne toute l'année, particulièrement de janvier à juin. Commune partout en France et en Europe, elle bénéficie d'une protection totale depuis 1981.",
+ "habitat": "Forêts de conifères, forêts mixtes et feuillues ; parcs et jardins arborés ; du littoral aux zones montagneuses.",
+ "diet": "Insectes et larves durant la période de reproduction ; graines de conifères (épicéa, sapin, mélèze) et graines variées en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Toute la France, où les nicheurs locaux restent sur place toute l'année ; quelques mouvements erratiques en réaction aux variations de ressources alimentaires hivernales.",
+  "niche": "Partout en France, principalement de mai à juillet ; une à deux nichées par an dans des cavités d'arbres, fissures de rochers ou vieilles structures abandonnées.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible et audible toute l'année. Son chant sonore est particulièrement actif de janvier à juin et en automne.",
+ "song_fr": "Chant sonore et strident : « pitchou-pitchou-pitchou » ou variantes. Appel de contact bref et flûté : « tsi » ou « dee-see-see ». Ressemble au chant de la mésange charbonnière mais plus rapide et aigu.",
+ "lookalikes": [
+  {
+   "scientific_name": "Poecile palustris",
+   "common_name_fr": "Mésange nonnette",
+   "why_fr": "Chant et appels similaires « pitchou », mais plus grande et dos plus brun."
+  },
+  {
+   "scientific_name": "Lophophanes cristatus",
+   "common_name_fr": "Mésange huppée",
+   "why_fr": "Appel « currr » semblable ; crête visible et taille plus importante."
+  },
+  {
+   "scientific_name": "Parus major",
+   "common_name_fr": "Mésange charbonnière",
+   "why_fr": "Chant ressemblant mais beaucoup plus rapide et aigu ; bien plus grande (14 cm)."
+  }
+ ],
+ "rarity_note": "Commune et régulière dans toute la France, toute l'année. Présente dans tous les habitats forestiers appropriés.",
+ "fun_facts": [
+  "C'est la plus petite des mésanges françaises (11 cm et 8-10 g) ; elle se distingue par sa silhouette ronde et ses yeux noirs caractéristiques.",
+  "En hiver, elle cache de la nourriture dans des bourgeons vides, sous des amas d'aiguilles ou dans des fissures d'écorce.",
+  "Le Congrès ornithologique international reconnaît 21 sous-espèces distinctes distribuées de l'Europe à la Chine et l'Himalaya."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Mésange_noire",
+  "https://en.wikipedia.org/wiki/Coal_tit",
+  "https://www.oiseaux.net/fiche/mesange.noire.html",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

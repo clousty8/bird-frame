@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Saxicola rubicola",
+ "summary_fr": "Petit passereau au dimorphisme sexuel marqué, le Tarier pâtre est reconnaissable au mâle par son dos noir, son collier blanc et sa gorge orange vif. La femelle arbore un plumage plus discret, brun et strié. Autrefois classé parmi les grives, il appartient désormais à la famille des Muscicapidae (gobemouches de l'Ancien Monde). Oiseau territorial, il occupe les landes, les prairies, les herbes hautes et les côtes rocheuses. En France, les populations se répartissent entre résidents sédentaires et migrateurs partiels venus du nord en hiver. Le mâle défend farouchement son domaine et émet un chant haut et gazouillant. L'espèce chasse aux insectes, araignées et larves capturées au sol ou au vol. Deux ou trois nichées se succèdent chaque saison, le nid étant bâti dans une dense végétation, près du sol.",
+ "habitat": "Landes, prairies herbeuses, terrains incultes avec buissons épars, dunes côtières et terrains rocheux ouverts du littoral à la montagne.",
+ "diet": "Insectes, larves, araignées et petites chenilles capturées au sol ou en vol ; baies et petites graines en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Toute la France : les populations locales sédentaires sont rejointes en automne et hiver par des oiseaux du nord et de l'est de l'Europe.",
+  "niche": "Partout en France, d'avril à juillet, généralement deux à trois nichées. Le nid est placé dans une dense végétation à proximité du sol.",
+  "passage": "Passages marqués en mars-avril et août-novembre, les populations nordiques se déplaçant vers le sud et l'Afrique du Nord en hiver."
+ },
+ "seasonality_fr": "Visible toute l'année en France ; les populations locales sédentaires sont renforcées en hiver par les migrateurs du nord. Le chant et les cris de défense territoriale s'intensifient à la saison de reproduction (avril-juillet).",
+ "song_fr": "Chant haut et gazouillant, twittering fluide et mélodieux ; cri d'alarme caractéristique : un claquement sec ressemblant à deux pierres frappées ensemble.",
+ "lookalikes": [
+  {
+   "scientific_name": "Saxicola rubetra",
+   "common_name_fr": "Tarier des prés",
+   "why_fr": "Congénère très proche ; males avec taches blanches (plus nombreuses sur Saxicola rubetra), femelles confondables selon la sous-espèce."
+  },
+  {
+   "scientific_name": "Oenanthe oenanthe",
+   "common_name_fr": "Traquet motteux",
+   "why_fr": "Silhouette et comportement similaires, cri de claquement proche, habitats parfois superposés en migration."
+  }
+ ],
+ "rarity_note": "Assez commun et régulier en France, présent toute l'année mais avec des fluctuations saisonnières selon les migrations et l'origine des populations. Bien établi sur les côtes bretonnes et atlantiques.",
+ "fun_facts": [
+  "Son nom anglais « stonechat » dérive de son cri caractéristique ressemblant au claquement de deux pierres.",
+  "Le dimorphisme sexuel est frappant : le mâle nuptial est l'un des plus colorés, tandis que la femelle reste très discrète dans les teintes brunes.",
+  "Les deux sexes sont territoriaux et peuvent défendre leurs domaines avec agressivité, y compris hors de la saison de reproduction."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Saxicola_rubicola",
+  "https://en.wikipedia.org/wiki/European_stonechat",
+  "https://www.oiseaux.net/breves/tarier.pâtre.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/3857"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

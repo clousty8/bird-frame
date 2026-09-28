@@ -1,0 +1,78 @@
+{
+ "scientific_name": "Acrocephalus melanopogon",
+ "common_name_fr": "Lusciniole à moustaches",
+ "birdnet_label": "Acrocephalus melanopogon_Lusciniole à moustaches",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Acrocephalidae",
+  "family_common": "Reed Warblers and Allies",
+  "genus": "Acrocephalus",
+  "species": "Acrocephalus melanopogon"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Lusciniole à moustaches",
+   "url": "https://fr.wikipedia.org/wiki/Lusciniole_%C3%A0_moustaches",
+   "description": "espèce d'oiseaux",
+   "extract": "La Lusciniole à moustaches est une espèce d'oiseaux de la famille des Acrocephalidae. Cette espèce est très localisée, du fait de son habitat lié aux zones marécageuses. Elle est sédentaire, rare occasionnelle au nord de l'aire de répartition, et vit sur le pourtour de la Méditerranée, en Europe centrale, en Afrique du Nord et en Turquie.",
+   "fulltext_chars": 5865
+  },
+  "en": {
+   "title": "Moustached warbler",
+   "url": "https://en.wikipedia.org/wiki/Moustached_warbler",
+   "description": "Species of bird",
+   "extract": "The moustached warbler is an Old World warbler in the genus Acrocephalus. It breeds in southern Europe and southern temperate Asia with a few breeding in north-west Africa. It is partially migratory. South-west European birds are resident, south-east European birds winter in the Mediterranean breeding range, and the Asiatic race migrates to Arabia, India and Pakistan.",
+   "fulltext_chars": 3288
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Acrocephalus_melanopogon_ad03_CB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2000,
+  "height": 1333,
+  "file": "Acrocephalus_melanopogon_ad03_CB.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Acrocephalus_melanopogon_ad03_CB.jpg/1920px-Acrocephalus_melanopogon_ad03_CB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "ChristopheBernier30",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Acrocephalus_melanopogon_ad03_CB.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2222,
+  "cities": {
+   "Marseille": 0.029,
+   "Toulouse": 0.013,
+   "Ajaccio": 0.222,
+   "Perpignan": 0.025
+  },
+  "monthly_scores": [
+   0.2217,
+   0.2198,
+   0.1293,
+   0.0574,
+   0.0307,
+   0.0295,
+   0.0305,
+   0.0266,
+   0.0228,
+   0.0627,
+   0.1925,
+   0.2222
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:35Z"
+}

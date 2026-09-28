@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Ficedula albicollis",
+ "summary_fr": "Petit gobemouche élégant des forêts d'Europe centrale et orientale, le Gobemouche à collier se reconnaît en plumage nuptial à son dos noir et son dessous blanc agrémenté d'un fin collier blanc et d'une tache alaire bien visible. En migration, nombreux passages en France entre mars et octobre, surtout en avril et septembre, particulièrement au sud. En dehors de la saison de reproduction, le noir du mâle devient brun pâle, rendant l'identification délicate. Insectivore aérien, il capture les proies volantes en vol avec l'agilité caractéristique des gobemouches. Chanteur réputé, il possède un sifflement lent et mélodieux distinct de celui de son cousin noir. C'est une espèce modèle en écologie et génétique : premier oiseau à voir l'intégralité de son génome séquencé.",
+ "habitat": "Forêts de feuillus, parcs, vergers et jardins arborés. Niche dans les cavités des vieux arbres ou dans des nichoirs.",
+ "diet": "Insectes capturés en vol ; chenilles glanées dans le feuillage des chênes ; baies et petites graines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne.",
+  "niche": "Sud-est de l'Europe de avril à juillet. En France, très rare nicheur en Alsace et Lorraine ; populations isolées en Suède (îles de Gotland et Öland).",
+  "passage": "Passages visibles en mars-avril et août-octobre, avec apogée en avril et septembre. Plus fréquent au sud et à l'est de la France."
+ },
+ "seasonality_fr": "Visible surtout en passage migratoire d'avril à mai et d'août à octobre. Très exceptionnel l'hiver. Audible par son chant distinctif lors des passages et pendant la courte période de reproduction en France.",
+ "song_fr": "Chant du mâle : sifflement lent, mélodieux et étendu, distinct du Gobemouche noir. Cri d'alarme net et sec. Remarque : en zones de sympatrie avec F. hypoleuca, il peut imiter le chant de son congénère.",
+ "lookalikes": [
+  {
+   "scientific_name": "Ficedula hypoleuca",
+   "common_name_fr": "Gobemouche noir",
+   "why_fr": "Confusion acoustique majeure. Le chant du collier est plus mélodieux ; le noir du mâle nuptial est plus pur. Hybridation limitée où les aires se chevauchent (Suède)."
+  },
+  {
+   "scientific_name": "Muscicapa striata",
+   "common_name_fr": "Gobemouche gris",
+   "why_fr": "Silhouettes proches en vol et chants de même tessiture. Moins contrasté, sans collier blanc marqué."
+  }
+ ],
+ "rarity_note": "Rare et irrégulier en France, sauf en passage migratoire printanier et automnal. Quelques observations nicheurs isolées en Alsace-Lorraine. Beaucoup plus fréquent en Europe centrale et orientale.",
+ "fun_facts": [
+  "Premier oiseau dont le génome a été entièrement séquencé, faisant du Gobemouche à collier une superstar de la recherche en génétique et écologie.",
+  "Les hybrides de première génération entre F. albicollis et F. hypoleuca en Suède sont stériles et présentent une valeur sélective réduite, illustrant une spéciation en cours.",
+  "Le mâle et la femelle chantent tous les deux, ce qui est rare chez les passereaux, notamment pour défendre le territoire en dehors de la saison de reproduction."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Gobemouche_%C3%A0_collier",
+  "https://en.wikipedia.org/wiki/Collared_flycatcher",
+  "https://oiseaux.net/",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

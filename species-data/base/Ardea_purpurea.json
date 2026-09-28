@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Ardea purpurea",
+ "common_name_fr": "Héron pourpré",
+ "birdnet_label": "Ardea purpurea_Héron pourpré",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Pelecaniformes",
+  "family": "Ardeidae",
+  "family_common": "Herons, Egrets, and Bitterns",
+  "genus": "Ardea",
+  "species": "Ardea purpurea"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Héron pourpré",
+   "url": "https://fr.wikipedia.org/wiki/H%C3%A9ron_pourpr%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Héron pourpré est une espèce d'oiseaux de la famille des Ardeidae. C'est un oiseau migrateur paléarctique, présent et nicheur en Europe et Afrique du Nord, hivernant occasionnellement en Europe de l'Ouest et du Sud, protégé.",
+   "fulltext_chars": 6480
+  },
+  "en": {
+   "title": "Purple heron",
+   "url": "https://en.wikipedia.org/wiki/Purple_heron",
+   "description": "Species of bird",
+   "extract": "The purple heron is a wide-ranging heron species. It breeds in Africa, central and southern Europe, and southern and eastern Palearctic. The Western Palearctic populations migrate between breeding and wintering habitats whereas the African and tropical-Asian populations are primarily sedentary, except for occasional dispersive movements.\nIt is similar in appearance to the more common grey heron but is slightly smaller, more slender and has darker plumage. It is also a more evasive bird, favouring densely vegetated habitats near water, particularly reed beds. It hunts for a range of prey including fish, rodents, frogs and insects, either stalking them or standing waiting in ambush.",
+   "fulltext_chars": 9767
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ardpur2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4139,
+  "height": 3119,
+  "file": "Ardpur2.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Ardpur2.jpg/1920px-Ardpur2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Pierre Dalous",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Ardpur2.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1896,
+  "cities": {
+   "Le Mans": 0.059,
+   "Pornic": 0.058,
+   "Rennes": 0.049,
+   "Poitiers": 0.081,
+   "Paris": 0.055,
+   "Lille": 0.03,
+   "Strasbourg": 0.06,
+   "Lyon": 0.113,
+   "Grenoble": 0.126,
+   "Marseille": 0.132,
+   "Toulouse": 0.121,
+   "Bordeaux": 0.102,
+   "Brest": 0.033,
+   "Ajaccio": 0.19,
+   "Clermont-Ferrand": 0.108,
+   "Chamonix": 0.106,
+   "Perpignan": 0.13,
+   "Nancy": 0.059
+  },
+  "monthly_scores": [
+   0.021,
+   0.027,
+   0.0941,
+   0.1896,
+   0.1825,
+   0.1602,
+   0.1534,
+   0.1802,
+   0.1394,
+   0.0632,
+   0.0257,
+   0.0232
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:08Z"
+}

@@ -1,0 +1,34 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Euodice malabarica",
+ "summary_fr": "Le Capucin bec-de-plomb est une petite fringille originaire du sous-continent indien et du Moyen-Orient qui s'est établie en population naturalisée dans le sud de la France, particulièrement dans la région PACA le long de la Côte d'Azur. Ce minuscule passereau se reconnaît aisément à son remarquable bec conique gris-argent, ses plumes brun-chamois en dessus et blanches en dessous. Il forrage typiquement en bandes de plusieurs dizaines d'individus dans les zones de garrigue et prairie aride, en émettant constamment de petits cris de contact aigus caractéristiques lors du vol et du fouragement de graines herbacées et d'insectes. Bien que sédentaire dans sa région d'origine, la population française présente des mouvements saisonniers marqués, restant principalement visible d'octobre à avril. Les oiseaux échappés ou libérés de captivité constituent le noyau de cette population française. Les mâles et femelles se ressemblent, tandis que les jeunes oiseaux affichent un plumage plus chamois et une queue plus courte.",
+ "habitat": "Zones de garrigue, prairie aride et zones cultivées, généralement en régions ouvertes et désertiques ; en France, établie dans les habitats au climat méditerranéen de la région PACA.",
+ "diet": "Principalement des graines d'herbes sauvages glanées dans la végétation basse ; consomme aussi des insectes et est connu pour visiter des fleurs nectarifères comme celles des Érythrines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Région PACA (Côte d'Azur et région de Toulon), d'octobre à avril, où une population naturalisée s'est établie depuis le milieu du XXe siècle.",
+  "niche": "Niche irrégulièrement dans la région PACA ; reproduction documentée sur la Côte d'Azur entre Fréjus et Nice.",
+  "passage": "Présent principalement d'octobre à avril en France ; passages marqués en mars-avril et octobre-novembre."
+ },
+ "seasonality_fr": "Visible et audible surtout d'octobre à avril en France, période de présence régulière. Absent ou très rare mai-septembre. Détections acoustiques plus fréquentes dans les zones méditerranéennes en hiver.",
+ "song_fr": "Contact calls : petits cris de chirpement bas, constants en vol et lors du fouragement. Chant peu documenté ; cris d'alarme aigus lorsque menacés.",
+ "lookalikes": [
+  {
+   "scientific_name": "Euodice cantans",
+   "common_name_fr": "Capucin bec-d'argent",
+   "why_fr": "Espèce génétiquement très proche, vocalises similaires ; confusion acoustique possible entre les deux capucins."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France avec un score BirdNET de 0,049, limité à une petite population naturalisée dans la région PACA. Présence régionale très concentrée et fortement saisonnière.",
+ "fun_facts": [
+  "Cette espèce naturalisée en France provient de populations échappées ou libérées de captivité, établissant une colonie stable sur la Côte d'Azur depuis le milieu du XXe siècle.",
+  "Malgré sa petite taille (11-11,5 cm), cet oiseau forme des bandes de plus de 60 individus qui fourrageant ensemble dans les milieux arides méditerranéens."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Capucin_bec-de-plomb",
+  "https://en.wikipedia.org/wiki/Indian_silverbill"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

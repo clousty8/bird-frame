@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Picoides tridactylus",
+ "summary_fr": "Le Pic tridactyle est un pic des forêts de conifères d'Eurasie, remarquable par son anomalie anatomique : il ne possède que trois doigts au lieu de quatre comme les autres pics. En France, il n'habite que les massifs montagneux (Alpes, Jura, Savoie) et reste extrêmement rare, ne s'observant que quelques fois en hiver. Spécialiste des forêts en bon état écologique, il cherche ses insectes sous l'écorce des sapins et épicéas dépérissants, se nourrissant aussi de résine. Contrairement à beaucoup de ses cousins, le Pic tridactyle est plutôt silencieux : son cri caractéristique est un doux « kwik » et son tambourinage, qui peut durer plus d'une seconde, constitue son chant territorial. Ses populations augmentent grâce à la restauration des vieilles forêts avec bois mort abondant.",
+ "habitat": "Forêts mixtes et résineuses avec arbres dépérissants, particulièrement sapins et épicéas ; massifs montagneux de moyenne à haute altitude.",
+ "diet": "Insectes et larves du bois, notamment larves de coléoptères xylophages foreurs qu'il extrait sous l'écorce ; résine de conifères.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Populations alpines en France hivernent sur place ou se déplacent d'altitude ; oiseaux venus du nord de l'Europe descendent en hiver dans les Alpes et les Pyrénées.",
+  "niche": "Ne niche en France que de manière très exceptionnelle et localisée : Savoie, Haute-Savoie, Jura et Ain, de mai à juillet.",
+  "passage": "Passages notables en novembre-décembre et février-mars ; présence hivernale régulière mais imprévisible."
+ },
+ "seasonality_fr": "Principalement hivernant en France, surtout novembre à février. Très rarement observé en été hors des massifs montagneux de l'est. Son chant résonne surtout en hiver-printemps dans les forêts des Alpes.",
+ "song_fr": "Cri faible et doux : « kwik » bien moins tonitruant que celui du Pic épeiche. Tambourinage caractéristique très long (1,1 à 1,4 seconde), effectué par les deux sexes. Jeunes émettent des cris aigus et bourdonnants.",
+ "lookalikes": [
+  {
+   "scientific_name": "Dendrocopos major",
+   "common_name_fr": "Pic épeiche",
+   "why_fr": "Aspect et taille proches en montagne ; il faut distinguer le tambourinage plus court du Pic épeiche et son plumage légèrement différent."
+  },
+  {
+   "scientific_name": "Dendrocoptes medius",
+   "common_name_fr": "Pic mar",
+   "why_fr": "Habitats montagnards partagés ; le Pic mar a cependant un dos maculé plus distinctive et des cris différents."
+  },
+  {
+   "scientific_name": "Dryobates minor",
+   "common_name_fr": "Pic épeichette",
+   "why_fr": "Taille semblable mais le Pic épeichette préfère les bois caducs et a des cris plus aigus et rapides."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France : observations limitées aux massifs alpins en hiver, quasi inexistant avant novembre et après février.",
+ "fun_facts": [
+  "C'est le seul pic du monde à n'avoir que trois doigts au lieu de quatre, une adaptation aux forêts boréales et alpines.",
+  "Les populations de pics tridactyles ont augmenté en Suisse grâce aux politiques de conservation du bois mort en forêt.",
+  "Il suit souvent les épidémies d'insectes ou les cicatrices de feu, se nourrissant des larves de coléoptères qui colonisent les bois affaiblis."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pic_tridactyle",
+  "https://en.wikipedia.org/wiki/Eurasian_three-toed_woodpecker",
+  "https://oiseaux.net/pics/picoides.tridactylus.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

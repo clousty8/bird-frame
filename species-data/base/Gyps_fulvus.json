@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Gyps fulvus",
+ "common_name_fr": "Vautour fauve",
+ "birdnet_label": "Gyps fulvus_Vautour fauve",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Gyps",
+  "species": "Gyps fulvus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Vautour fauve",
+   "url": "https://fr.wikipedia.org/wiki/Vautour_fauve",
+   "description": "espèce d'oiseaux charognards de la famille des Accipitridae",
+   "extract": "Le Vautour fauve, ou anciennement le griffon, est une espèce d'oiseaux charognards de la famille des Accipitridae.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Eurasian griffon vulture",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_griffon_vulture",
+   "description": "Species of bird",
+   "extract": "The Eurasian griffon vulture is a large Old World vulture in the bird of prey family Accipitridae. It is also known as the Eurasian griffon or griffon vulture, although the latter term is sometimes used for the genus Gyps as a whole.",
+   "fulltext_chars": 7579
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Gyps_fulvus_-_Vautours_du_Verdon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 446,
+  "height": 335,
+  "file": "Gyps_fulvus_-_Vautours_du_Verdon.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Gyps_fulvus_-_Vautours_du_Verdon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Alpes de Haute Provence",
+  "credit": "https://www.flickr.com/photos/alpesdehauteprovence-tourisme/6885870867/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Gyps_fulvus_-_Vautours_du_Verdon.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4798,
+  "cities": {
+   "Poitiers": 0.036,
+   "Strasbourg": 0.013,
+   "Lyon": 0.14,
+   "Grenoble": 0.142,
+   "Marseille": 0.194,
+   "Toulouse": 0.48,
+   "Bordeaux": 0.246,
+   "Ajaccio": 0.114,
+   "Clermont-Ferrand": 0.168,
+   "Chamonix": 0.077,
+   "Perpignan": 0.357
+  },
+  "monthly_scores": [
+   0.2855,
+   0.3068,
+   0.4798,
+   0.4562,
+   0.4454,
+   0.4315,
+   0.4386,
+   0.4136,
+   0.3864,
+   0.3779,
+   0.3165,
+   0.298
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:22Z"
+}

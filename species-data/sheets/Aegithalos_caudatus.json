@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Aegithalos caudatus",
+ "summary_fr": "Minuscule et inimitable, l'Orite à longue queue est une espèce de passereau distincte des autres mésanges, appartenant à sa propre famille. Pesant seulement 6 à 10 grammes pour un corps rond et une queue fine qui représente la moitié de sa longueur, elle revêt un plumage noir et blanc ponctué de rose et de gris selon les sous-espèces. Grégaire hors des périodes de reproduction, elle forme des bandes compactes de six à dix-sept individus qui se déplacent bruyamment de buisson en buisson, identifiables à leurs appels aigus et cristallins avant même d'être vues. Se nourrissant exclusivement d'insectes toute l'année, elle affectionne les milieux buissonnants et les boisements secondaires, où elle construit des nids de forme ovoïde fermés d'une remarquable complexité. Sédentaire à travers le continent, elle s'adapte facilement aux jardins et parcs des zones urbaines.",
+ "habitat": "Boisements de feuillus et mixtes avec bon développement du sous-étage arbustif, fourrés, landes avec arbustes épars, haies, prairies arborées, parcs et jardins.",
+ "diet": "Insectes tout au long de l'année, avec préférence pour les œufs et larves de papillons ; consommation occasionnelle de graines en automne et hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Sédentaire en France ; le pays accueille aussi des oiseaux migrateurs venus du nord et de l'est de l'Europe.",
+  "niche": "Toute la France métropolitaine, reproduction d'avril à juillet, souvent deux nichées par an.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible et audible toute l'année ; plus active et bruyante au printemps et en été lors de la reproduction.",
+ "song_fr": "Appels aigus et cristallins émis en continu : un pit simple et haut perché, un trille triple eez-eez-eez, un roulement rapide schnuur ; ces appels s'intensifient lors de franchissement d'espaces ouverts ou lors de séparation du groupe.",
+ "lookalikes": [
+  {
+   "scientific_name": "Cyanistes caeruleus",
+   "common_name_fr": "Mésange bleue",
+   "why_fr": "Appels aigus et cris de contact en vol similaires, surtout chez les jeunes oiseaux."
+  },
+  {
+   "scientific_name": "Lophophanes cristatus",
+   "common_name_fr": "Mésange huppée",
+   "why_fr": "Roulements et trilles aigus comparables, bien que la structure du chant soit distincte."
+  }
+ ],
+ "rarity_note": "Commune dans toute la France métropolitaine, de la plaine à la montagne, bien que plus abondante dans les régions boisées.",
+ "fun_facts": [
+  "Son nid est une merveille d'ingénierie : une structure ovoïde fermée utilisant plus de 6 000 éléments de mousse, de soie d'araignée et lichens, doublée de plus de 2 000 plumes isolantes.",
+  "Les couples reproducteurs dont le nid échoue aident souvent d'autres couples apparentés, ce qui augmente le succès reproducteur global du groupe.",
+  "Elle passe les hivers rigoureux en se blottissant en groupe compact pour partager la chaleur corporelle, ce qui peut réduire la perte de chaleur de près de 20 %."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/M%C3%A9sange_%C3%A0_longue_queue",
+  "https://en.wikipedia.org/wiki/Long-tailed_tit"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

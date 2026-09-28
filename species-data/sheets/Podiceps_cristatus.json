@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Podiceps cristatus",
+ "summary_fr": "Le Grèbe huppé est le plus grand des grèbes européens, facilement reconnaissable à sa silhouette svelte et à sa double huppe érectile en plumage nuptial. Cet excellent nageur et plongeur passe presque toute sa vie sur l'eau, où il chasse les petits poissons de cinq à vingt centimètres jusqu'à six mètres de profondeur. Autrefois chassé pour ses plumes destinées à la mode des XIXe et début XXe siècles, l'espèce s'est remarquablement rétablie au cours du XXe siècle et est désormais commune en France et en Europe occidentale. Sa parade nuptiale élaborée est célèbre auprès des ornithologues : les couples se font face, déploient leurs ailes verticalement, secouent la tête en poussant des cris caractéristiques, ou même dansent poitrine contre poitrine avec des algues dans le bec. Ses vocalisations bruyantes, notamment des croassements nasillards et des coassements au son de crécelle, accompagnent ces displays nuptiaux spectaculaires qui peuvent durer longtemps.",
+ "habitat": "Lacs, étangs et marais bien vegetalisés l'été ; en hiver, eaux littorales calmes, estuaires, baies et côtes. Tolère aussi les ports de plaisance et les canaux urbains.",
+ "diet": "Essentiellement petits poissons de 5 à 20 cm ; complément d'insectes, crustacés, mollusques et larves aquatiques.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Populations du nord et de l'est migrent vers l'ouest et le sud pour l'hiver, notamment les régions côtières plus clémentes de l'Europe de l'Ouest et de la Méditerranée.",
+  "niche": "Se reproduit partout en France d'avril à juillet, nid flottant ou reposant sur le fond des plans d'eau, une à deux nichées par an.",
+  "passage": "Passages en automne (septembre à novembre) et printemps (mars-avril) pour les populations migratrices du nord et de l'est."
+ },
+ "seasonality_fr": "Visible toute l'année en France. Plus nombreux en hiver avec l'arrivée des migrateurs du nord. Bruyant lors de la saison de reproduction (avril-juillet).",
+ "song_fr": "Bruyant surtout lors de la parade nuptiale : coassements nasillards (kekekekek) et croassements au son de crécelle (eeerrrrr). Moins vocalisant en hiver.",
+ "lookalikes": [
+  {
+   "scientific_name": "Podiceps grisegena",
+   "common_name_fr": "Grèbe jougris",
+   "why_fr": "Autre grand grèbe européen avec collerette rousse nuptiale, mais huppe moins développée et taille légèrement inférieure."
+  },
+  {
+   "scientific_name": "Podiceps nigricollis",
+   "common_name_fr": "Grèbe à cou noir",
+   "why_fr": "Grèbe plus petit avec cou noir et touffe auriculaire dorée, croassements similaires mais moins intenses."
+  }
+ ],
+ "rarity_note": "Commun en France, toute l'année. Populations nicheuses résidentes complétées en hiver par des migrateurs du nord. Facilement détecté acoustiquement dans les zones humides appropriées.",
+ "fun_facts": [
+  "Le couple Grèbe huppé réalise une danse d'accouplement spectaculaire : ils dansent poitrine contre poitrine à la verticale, secouant des algues dans leur bec.",
+  "Cette espèce consomme régulièrement ses propres plumes, qu'elle donne aussi à manger à ses poussins : ces plumes forment un bouchon protecteur dans l'estomac qui empêche les arêtes de poisson de perforer les parois digestives.",
+  "Presque sans défenses à terre, le Grèbe huppé a fallu une action de protection (création de la RSPB au Royaume-Uni) pour éviter son extinction au XIXe siècle suite à la chasse pour les plumes de mode."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Gr%C3%A8be_hupp%C3%A9",
+  "https://en.wikipedia.org/wiki/Great_crested_grebe",
+  "https://www.oiseaux.net/oiseaux/grebe.huppe.html",
+  "https://www.lpo.fr/nos-actions/connaitre-les-oiseaux/fiches-oiseaux/grebe-huppe"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

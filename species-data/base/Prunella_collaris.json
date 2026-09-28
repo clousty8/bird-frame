@@ -1,0 +1,90 @@
+{
+ "scientific_name": "Prunella collaris",
+ "common_name_fr": "Accenteur alpin",
+ "birdnet_label": "Prunella collaris_Accenteur alpin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Prunellidae",
+  "family_common": "Accentors",
+  "genus": "Prunella",
+  "species": "Prunella collaris"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Accenteur alpin",
+   "url": "https://fr.wikipedia.org/wiki/Accenteur_alpin",
+   "description": "espèce d'oiseaux passeriformes de la famille des prunellidae",
+   "extract": "L'Accenteur alpin est une espèce de passereaux de la famille des Prunellidae.",
+   "fulltext_chars": 4978
+  },
+  "en": {
+   "title": "Alpine accentor",
+   "url": "https://en.wikipedia.org/wiki/Alpine_accentor",
+   "description": "Species of bird",
+   "extract": "The alpine accentor is a small passerine bird in the family Prunellidae, which is native to Eurasia and North Africa.",
+   "fulltext_chars": 4835
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Prunella_collaris_Pic_Saint-Loup.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1833,
+  "height": 1379,
+  "file": "Prunella_collaris_Pic_Saint-Loup.JPG",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Prunella_collaris_Pic_Saint-Loup.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Thomas Koffel",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Prunella_collaris_Pic_Saint-Loup.JPG"
+ },
+ "france_universe": {
+  "max_score": 0.1759,
+  "cities": {
+   "Le Mans": 0.023,
+   "Pornic": 0.021,
+   "Rennes": 0.016,
+   "Poitiers": 0.037,
+   "Paris": 0.026,
+   "Lille": 0.022,
+   "Strasbourg": 0.025,
+   "Lyon": 0.065,
+   "Grenoble": 0.069,
+   "Marseille": 0.116,
+   "Toulouse": 0.09,
+   "Bordeaux": 0.047,
+   "Ajaccio": 0.176,
+   "Clermont-Ferrand": 0.064,
+   "Chamonix": 0.056,
+   "Perpignan": 0.114,
+   "Nancy": 0.024
+  },
+  "monthly_scores": [
+   0.1686,
+   0.146,
+   0.0833,
+   0.0298,
+   0.0155,
+   0.0173,
+   0.023,
+   0.0247,
+   0.0264,
+   0.0741,
+   0.1728,
+   0.1759
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:27Z"
+}

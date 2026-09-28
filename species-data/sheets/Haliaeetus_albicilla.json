@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Haliaeetus albicilla",
+ "summary_fr": "Imposant rapace de grande envergure, le Pygargue à queue blanche est l'un des plus grands aigles d'Europe. Autrefois disparu de France, il revient progressivement depuis 2011. Brun foncé avec la tête et le cou pâles chez l'adulte, ce rapace chasse en altitude au-dessus des milieux aquatiques, détectant ses proies par la vue. Il se nourrit surtout de poissons, complétant son régime avec des oiseaux d'eau et de petits mammifères. Ses appels rauques et puissants ressemblent à ceux des grandes mouettes. Sédentaire en Europe du Nord, il migre partiellement vers le sud en hiver. La réintroduction en cours au lac Léman vise à restaurer une population française, absente depuis près de soixante ans.",
+ "habitat": "Littoraux maritimes, lacs, fleuves et zones humides étendues. Forêts anciennes ou falaises rocheuses pour la nidification.",
+ "diet": "Principalement des poissons capturés en surface ; aussi oiseaux aquatiques (canards, foulques), petits mammifères, et charognes en période de disette.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Partiellement en France, surtout région méditerranéenne et littoraux. Populations nordiques descendent vers le sud en hiver.",
+  "niche": "Moselle, Champagne humide et Brenne où les premières nichées sont apparues après 2011. Réintroduction prévue au lac Léman.",
+  "passage": "Passages possibles en février-mars et septembre-octobre, selon les populations migratrices."
+ },
+ "seasonality_fr": "Très rare et localisé en France. Présent surtout de septembre à mai dans les zones de concentration. Les couples reproducteurs restent sur place toute l'année.",
+ "song_fr": "Appels rauques et puissants : le mâle émet des cris nasillards « krick-krick-krick » ou « gri-gri-gri » dont la tonalité augmente. Cri d'alarme caractéristique « kli-kli-kli ». Vocalises ressemblant à celles des grandes mouettes.",
+ "lookalikes": [
+  {
+   "scientific_name": "Aquila chrysaetos",
+   "common_name_fr": "Aigle royal",
+   "why_fr": "Grand rapace montagnard, mais plumage plus uniforme et appels différents plus sonores."
+  },
+  {
+   "scientific_name": "Larus argentatus",
+   "common_name_fr": "Goéland argenté",
+   "why_fr": "Ressemblance des appels rauques et puissants ; le Pygargue émet des cris très gull-like lors de l'alarme."
+  }
+ ],
+ "rarity_note": "Très rare en France où seuls quelques couples nicheurs se sont établis récemment. De passage occasionnel en période migratoire. Espèce en expansion grâce aux programmes de réintroduction.",
+ "fun_facts": [
+  "Disparu de France depuis 1959, le Pygargue à queue blanche y revient naturellement depuis 2011, signal du succès des politiques de protection européennes.",
+  "Capable de poursuivre sa proie aquatique jusqu'à épuisement, il tire les poissons trop lourds jusqu'à la rive en battant des ailes.",
+  "Les couples restent unis pour la vie et utilisent plusieurs nids géants sur leur territoire, y ajoutant des branches chaque année."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pygargue_%C3%A0_queue_blanche",
+  "https://en.wikipedia.org/wiki/White-tailed_eagle",
+  "https://www.oiseaux.net/oiseaux/pygargue.a.queue.blanche.html",
+  "https://www.lpo.fr/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

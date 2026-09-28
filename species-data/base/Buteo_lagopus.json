@@ -1,0 +1,70 @@
+{
+ "scientific_name": "Buteo lagopus",
+ "common_name_fr": "Buse pattue",
+ "birdnet_label": "Buteo lagopus_Buse pattue",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Buteo",
+  "species": "Buteo lagopus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Buse pattue",
+   "url": "https://fr.wikipedia.org/wiki/Buse_pattue",
+   "description": "espèce d'oiseaux",
+   "extract": "La Buse pattue a aussi été autrefois appelée archibuse ou busaigle, est une espèce de buses de la famille des Accipitridae, présente dans les régions nordiques de l'hémisphère nord.",
+   "fulltext_chars": 2914
+  },
+  "en": {
+   "title": "Rough-legged buzzard",
+   "url": "https://en.wikipedia.org/wiki/Rough-legged_buzzard",
+   "description": "Species of bird",
+   "extract": "The rough-legged buzzard (Europe) or rough-legged hawk is a medium-large bird of prey. It is found in arctic and subarctic regions of North America, Europe, and Asia during the breeding season, and migrates south for the winter. Historically, it was also known as \"rough-legged falcon\" in such works as John James Audubon's The Birds of America.",
+   "fulltext_chars": 17493
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/02/Junger_Raufu%C3%9Fbussard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2848,
+  "height": 1895,
+  "file": "Junger_Raufußbussard.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Junger_Raufu%C3%9Fbussard.jpg/1920px-Junger_Raufu%C3%9Fbussard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Hobbyfotowiki",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Junger_Raufu%C3%9Fbussard.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0288,
+  "cities": {
+   "Lille": 0.011,
+   "Strasbourg": 0.013,
+   "Ajaccio": 0.029,
+   "Nancy": 0.012
+  },
+  "monthly_scores": [
+   0.0252,
+   0.0288,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0198,
+   0.0245
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:05Z"
+}

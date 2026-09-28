@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Spatula querquedula",
+ "summary_fr": "La Sarcelle d'été, surnommée cacharel en Camargue, est un petit canard de surface élégant qui traverse surtout la France plutôt qu'il ne s'y installe durablement. Le mâle en plumage nuptial arbore un large sourcil blanc tranchant sur une tête brun-chocolat, des flancs gris perlé vermiculés et de longues scapulaires effilées ; en vol, un miroir alaire bleu clair bordé de blanc le distingue nettement. La femelle, brune et discrète, se confond facilement avec la Sarcelle d'hiver, mais ses marques faciales plus marquées et ses secouements de tête fréquents en barbotant aident à la reconnaître. En France, l'espèce est migratrice partielle : l'essentiel des effectifs ne fait que passer au printemps et à l'automne, entre les zones de reproduction du nord et de l'est de l'Europe et l'hivernage en Afrique subsaharienne, en Asie du Sud et en Australasie, mais quelques individus isolés séjournent toute l'année en très faible nombre, y compris en plein hiver. Quelques couples nichent aussi très localement dans des marais de l'ouest et du nord du pays. Le mâle se signale par un craquèlement sec émis lors des parades, tandis que la femelle reste presque toujours silencieuse. Elle se nourrit en barbotant à la surface de l'eau.",
+ "habitat": "Prairies humides, marais peu profonds à végétation dense, étangs et lacs de steppe en escale migratoire.",
+ "diet": "Invertébrés aquatiques, crustacés, mollusques, insectes, vers ; graines, bourgeons, feuilles et racines de plantes aquatiques.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Essentiellement hors de France : Afrique subsaharienne, Asie du Sud et Australasie ; quelques individus isolés hivernent en France en très faible nombre.",
+  "niche": "Nicheur très rare et localisé en France (quelques marais de l'ouest et du nord) ; l'essentiel des nicheurs européens se trouve plus au nord et à l'est.",
+  "passage": "Pics de passage d'avril à mai au printemps, puis de fin août à octobre en automne."
+ },
+ "seasonality_fr": "Observée surtout d'avril à mai puis de fin août à octobre lors des passages ; quelques individus présents toute l'année en très faible nombre, y compris en hiver.",
+ "song_fr": "Mâle : craquèlement sec et métallique, répété lors des parades nuptiales, très caractéristique. Femelle : discrète, cri faible et peu sonore.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anas crecca",
+   "common_name_fr": "Sarcelle d'hiver",
+   "why_fr": "Femelle très semblable ; la Sarcelle d'hiver a des marques faciales moins marquées et un corps plus trapu."
+  },
+  {
+   "scientific_name": "Spatula clypeata",
+   "common_name_fr": "Canard souchet",
+   "why_fr": "Même genre Spatula ; mâle bien plus pâle à tête sombre, cris nettement plus nasaux et graves."
+  },
+  {
+   "scientific_name": "Anas acuta",
+   "common_name_fr": "Canard pilet",
+   "why_fr": "Mâle très différent (tête chocolat pointue, cou élancé) ; femelle brune parfois confondue mais plus fine et allongée."
+  }
+ ],
+ "rarity_note": "Migrateur partiel régulier mais en faible effectif en France, où le passage printanier et automnal reste discret ; nicheur exceptionnel et très localisé.",
+ "fun_facts": [
+  "Le mâle produit un craquèlement métallique très reconnaissable lors de ses parades nuptiales printanières.",
+  "Comme les autres petits canards de surface, elle décolle de l'eau d'un bond, sans course préalable, contrairement aux canards plus lourds.",
+  "La grande majorité de la population hiverne hors d'Europe, parcourant des milliers de kilomètres entre zones de reproduction et zones d'hivernage africaines ou asiatiques."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Sarcelle_d'%C3%A9t%C3%A9",
+  "https://en.wikipedia.org/wiki/Garganey",
+  "https://www.oiseaux.net/species/garganey.html",
+  "https://www.lpo.fr/decouvrir-la-nature/fiches-especes/sarcelle-dete",
+  "https://normandie.lpo.fr/oiseaux-de-normandie/inventaire-oiseaux-de-normandie-effectifs-et-populations/sarcelle-ete/"
+ ],
+ "generated_at": "2026-09-27T22:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

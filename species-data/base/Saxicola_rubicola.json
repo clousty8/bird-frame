@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Saxicola rubicola",
+ "common_name_fr": "Tarier pâtre",
+ "birdnet_label": "Saxicola rubicola_Tarier pâtre",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Muscicapidae",
+  "family_common": "Old World Flycatchers",
+  "genus": "Saxicola",
+  "species": "Saxicola rubicola"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Saxicola rubicola",
+   "url": "https://fr.wikipedia.org/wiki/Saxicola_rubicola",
+   "description": "espèce d'oiseaux passériformes de la famille des muscicapidae",
+   "extract": "Saxicola rubicola est une espèce de passereaux appartenant à la famille des Muscicapidae. Elle fait partie du complexe d'espèces regroupé sous le nom vernaculaire de Tarier pâtre initialement considérées comme des sous-espèces de Saxicola torquatus.",
+   "fulltext_chars": 3619
+  },
+  "en": {
+   "title": "European stonechat",
+   "url": "https://en.wikipedia.org/wiki/European_stonechat",
+   "description": "Species of bird",
+   "extract": "The European stonechat is a small passerine bird that was formerly classed as a subspecies of the common stonechat. Long considered a member of the thrush family, Turdidae, genetic evidence has placed it and its relatives in the Old World flycatcher family, Muscicapidae. It is found across Europe, as far east as Ukraine and the South Caucasus, and in parts of North Africa.",
+   "fulltext_chars": 6477
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Stonechat_Gr%C3%B6nvold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1106,
+  "height": 1328,
+  "file": "Stonechat_Grönvold.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Stonechat_Gr%C3%B6nvold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Henrik Grönvold (d. 1940); in a book by Arthur G. Butler (d. 1925)",
+  "credit": "The Birds of Great Britain and Ireland, Order Passeres, vol. I, plate 10",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Stonechat_Gr%C3%B6nvold.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.5407,
+  "cities": {
+   "Le Mans": 0.363,
+   "Pornic": 0.463,
+   "Rennes": 0.438,
+   "Poitiers": 0.349,
+   "Paris": 0.306,
+   "Lille": 0.278,
+   "Strasbourg": 0.165,
+   "Lyon": 0.212,
+   "Grenoble": 0.184,
+   "Marseille": 0.281,
+   "Toulouse": 0.311,
+   "Bordeaux": 0.421,
+   "Brest": 0.541,
+   "Ajaccio": 0.53,
+   "Clermont-Ferrand": 0.254,
+   "Chamonix": 0.162,
+   "Perpignan": 0.36,
+   "Nancy": 0.199
+  },
+  "monthly_scores": [
+   0.5109,
+   0.5215,
+   0.4432,
+   0.5407,
+   0.4776,
+   0.4631,
+   0.444,
+   0.4139,
+   0.4939,
+   0.5371,
+   0.5248,
+   0.5304
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:05Z"
+}

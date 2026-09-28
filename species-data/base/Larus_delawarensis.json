@@ -1,0 +1,74 @@
+{
+ "scientific_name": "Larus delawarensis",
+ "common_name_fr": "Goéland à bec cerclé",
+ "birdnet_label": "Larus delawarensis_Goéland à bec cerclé",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Larus",
+  "species": "Larus delawarensis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Goéland à bec cerclé",
+   "url": "https://fr.wikipedia.org/wiki/Go%C3%A9land_%C3%A0_bec_cercl%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Goéland à bec cerclé est une espèce d'oiseaux marins Charadriiformes de la famille des Laridae. C'est un goéland néarctique de taille moyenne. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 3024
+  },
+  "en": {
+   "title": "Ring-billed gull",
+   "url": "https://en.wikipedia.org/wiki/Ring-billed_gull",
+   "description": "Species of bird",
+   "extract": "The ring-billed gull is a medium-sized gull native to North America, breeding in Canada and the northern Contiguous United States, and wintering mainly in the United States and northern Mexico. The genus name is from Latin Larus which appears to have referred to a gull or other large seabird. The specific delawarensis refers to the Delaware River.",
+   "fulltext_chars": 4720
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Moewe_2_db.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 957,
+  "height": 1413,
+  "file": "Moewe_2_db.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/3/30/Moewe_2_db.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Moewe_2_db.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0205,
+  "cities": {
+   "Le Mans": 0.014,
+   "Pornic": 0.02,
+   "Rennes": 0.013,
+   "Poitiers": 0.019,
+   "Paris": 0.011,
+   "Lyon": 0.011,
+   "Bordeaux": 0.019,
+   "Clermont-Ferrand": 0.017
+  },
+  "monthly_scores": [
+   0.0105,
+   0.0109,
+   0.0181,
+   0.0205,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:25Z"
+}

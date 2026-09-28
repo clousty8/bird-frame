@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Tringa erythropus",
+ "common_name_fr": "Chevalier arlequin",
+ "birdnet_label": "Tringa erythropus_Chevalier arlequin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Scolopacidae",
+  "family_common": "Sandpipers and Allies",
+  "genus": "Tringa",
+  "species": "Tringa erythropus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Chevalier arlequin",
+   "url": "https://fr.wikipedia.org/wiki/Chevalier_arlequin",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Chevalier arlequin est une espèce d'oiseaux Charadriiformes de la famille des Scolopacidae. C'est un limicole migrateur qui niche dans le nord de l'Eurasie. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 15488
+  },
+  "en": {
+   "title": "Spotted redshank",
+   "url": "https://en.wikipedia.org/wiki/Spotted_redshank",
+   "description": "Species of bird",
+   "extract": "The spotted redshank is a wader (shorebird) in the large bird family Scolopacidae. It breeds across northern Scandinavia and the northern Palearctic and migrates south to the Mediterranean, the southern British Isles, France, tropical Africa, and tropical Asia for the winter. It is an occasional vagrant to Australia and North America.",
+   "fulltext_chars": 3718
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Spotted_redshank_breeding_plumage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1802,
+  "height": 1248,
+  "file": "Spotted_redshank_breeding_plumage.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Spotted_redshank_breeding_plumage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Michele Lamberti",
+  "credit": "https://www.flickr.com/photos/60740813@N04/8361700004/",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Spotted_redshank_breeding_plumage.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2074,
+  "cities": {
+   "Le Mans": 0.079,
+   "Pornic": 0.085,
+   "Rennes": 0.086,
+   "Poitiers": 0.066,
+   "Paris": 0.077,
+   "Lille": 0.104,
+   "Strasbourg": 0.046,
+   "Lyon": 0.038,
+   "Grenoble": 0.034,
+   "Marseille": 0.061,
+   "Toulouse": 0.044,
+   "Bordeaux": 0.055,
+   "Brest": 0.088,
+   "Ajaccio": 0.207,
+   "Clermont-Ferrand": 0.043,
+   "Chamonix": 0.033,
+   "Perpignan": 0.051,
+   "Nancy": 0.053
+  },
+  "monthly_scores": [
+   0.1997,
+   0.2074,
+   0.1754,
+   0.1052,
+   0.0656,
+   0.0665,
+   0.0942,
+   0.1213,
+   0.1221,
+   0.1472,
+   0.1891,
+   0.2012
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:06Z"
+}

@@ -1,0 +1,39 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Calidris maritima",
+ "summary_fr": "Le Bécasseau violet est un petit limicole robuste spécialisé dans les côtes rocheuses, où il passe l'hiver en petites troupes, souvent aux côtés des tournepierre à collier. Trapu, au plastron gris et au plumage sombre dessus, il est facilement reconnaissable à ses courtes pattes jaunes et son fin bec noirâtre à base orangée. C'est un oiseau de passage et hivernant en France, qui ne s'aventure que rarement vers l'intérieur des terres. Ses populations nidifient dans l'Arctique (du Groenland à la Sibérie occidentale), tandis que celles qui nous visitent proviennent d'Europe du Nord, particulièrement des régions côtières de Scandinavie et d'Islande.",
+ "habitat": "Côtes rocheuses et falaises du littoral, zones entrelacs de vase et de rochers en avant de plage. Strictement maritime en hiver.",
+ "diet": "Petits crustacés, mollusques littoraux (littorines, hydrobies, balanes), insectes marins et mouches des algues.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Sur les côtes rocheuses de l'Atlantique Nord, depuis le Groenland jusqu'à la France et le Portugal. Les oiseaux français hivernent surtout en Manche et océan Atlantique.",
+  "niche": "Régions arctiques et subarctiques : toundra d'Islande, Groenland, Scandinavie septentrionale, Taymyr et Sibérie occidentale. Niche à très faible densité.",
+  "passage": "Passages faibles en mars et août-septembre ; l'essentiel arrive en octobre-novembre et repart en avril-mai."
+ },
+ "seasonality_fr": "Visible uniquement en période hivernale, d'octobre à avril environ. Plus abondant de décembre à février sur les côtes rocheuses du littoral français.",
+ "song_fr": "Cris peu mélodieux, surtout des « tritt-tritt » ou des trilles brefs ; chant de nidification rarement entendu en France. À l'écoute, confusion possible avec d'autres limicoles.",
+ "lookalikes": [
+  {
+   "scientific_name": "Calidris ptilocnemis",
+   "common_name_fr": "Bécasseau des rochers",
+   "why_fr": "Morphologie très proche, plumage similaire ; le Bécasseau des rochers ne passe que rarement en France."
+  },
+  {
+   "scientific_name": "Arenaria interpres",
+   "common_name_fr": "Tournepierre à collier",
+   "why_fr": "Souvent en compagnie du Bécasseau violet sur les rochers ; cris différents, silhouette moins compacte."
+  }
+ ],
+ "rarity_note": "Rare à très rare en France, observé principalement sur les côtes de Manche et d'Atlantique Nord, jamais en nombre. Ne niche pas en France.",
+ "fun_facts": [
+  "C'est un oiseau de passage tardif et précoce : il évite les conditions extrêmes en arrivant tard et en repartant tôt.",
+  "Le Bécasseau violet se repose souvent sur un même rocher d'hiver à hiver, montrant une forte fidélité au site."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/B%C3%A9casseau_violet",
+  "https://en.wikipedia.org/wiki/Purple_sandpiper"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

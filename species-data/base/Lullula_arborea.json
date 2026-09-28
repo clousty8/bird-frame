@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Lullula arborea",
+ "common_name_fr": "Alouette lulu",
+ "birdnet_label": "Lullula arborea_Alouette lulu",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Alaudidae",
+  "family_common": "Larks",
+  "genus": "Lullula",
+  "species": "Lullula arborea"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Alouette lulu",
+   "url": "https://fr.wikipedia.org/wiki/Alouette_lulu",
+   "description": "espèce d'oiseaux passeriformes de la famille des alaudidae",
+   "extract": "L'Alouette lulu est une espèce d'oiseaux. Comme toutes les alouettes, elle appartient à la famille des Alaudidae. Olivier Messiaen a consacré à cet oiseau une pièce, qui en porte le nom, de son Catalogue d'oiseaux.",
+   "fulltext_chars": 6459
+  },
+  "en": {
+   "title": "Woodlark",
+   "url": "https://en.wikipedia.org/wiki/Woodlark",
+   "description": "Species of bird",
+   "extract": "The woodlark or wood lark is the only extant species in the lark genus Lullula. It is found across most of Europe, the Middle East, western Asia and the mountains of north Africa. It is mainly resident (non-migratory) in the west of its range, but eastern populations of this passerine bird are more migratory, moving further south in winter.",
+   "fulltext_chars": 8118
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lullula_arborea_%28J%C3%A1n_Svetl%C3%ADk%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1500,
+  "height": 1021,
+  "file": "Lullula_arborea_(Ján_Svetlík).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lullula_arborea_%28J%C3%A1n_Svetl%C3%ADk%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Ján Svetlík",
+  "credit": "Flickr",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Lullula_arborea_(J%C3%A1n_Svetl%C3%ADk).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2865,
+  "cities": {
+   "Le Mans": 0.078,
+   "Pornic": 0.065,
+   "Rennes": 0.048,
+   "Poitiers": 0.111,
+   "Paris": 0.08,
+   "Lille": 0.061,
+   "Strasbourg": 0.072,
+   "Lyon": 0.142,
+   "Grenoble": 0.13,
+   "Marseille": 0.155,
+   "Toulouse": 0.174,
+   "Bordeaux": 0.163,
+   "Brest": 0.02,
+   "Ajaccio": 0.286,
+   "Clermont-Ferrand": 0.159,
+   "Chamonix": 0.11,
+   "Perpignan": 0.167,
+   "Nancy": 0.076
+  },
+  "monthly_scores": [
+   0.269,
+   0.2741,
+   0.2865,
+   0.2165,
+   0.1814,
+   0.1764,
+   0.1407,
+   0.1011,
+   0.1025,
+   0.1904,
+   0.257,
+   0.2788
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:12Z"
+}

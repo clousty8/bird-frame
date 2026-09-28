@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Sturnus vulgaris",
+ "common_name_fr": "Étourneau sansonnet",
+ "birdnet_label": "Sturnus vulgaris_Étourneau sansonnet",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sturnidae",
+  "family_common": "Starlings",
+  "genus": "Sturnus",
+  "species": "Sturnus vulgaris"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Étourneau sansonnet",
+   "url": "https://fr.wikipedia.org/wiki/%C3%89tourneau_sansonnet",
+   "description": "espèce d'oiseaux",
+   "extract": "L’étourneau sansonnet est une espèce de passereaux de la famille des sturnidés, originaire de la plus grande partie de l'Eurasie, mais qui a été introduite dans tous les continents excepté l'Antarctique.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Common starling",
+   "url": "https://en.wikipedia.org/wiki/Common_starling",
+   "description": "Species of passerine birds",
+   "extract": "The common starling, also known simply as the starling in Great Britain and Ireland, and as the European starling in North America, is a medium-sized passerine bird in the starling family, Sturnidae. It is about 20 cm (8 in) long and has glossy black plumage with a metallic sheen, which is speckled with white at some times of the year. The legs are pink and the bill is black in winter and yellow in summer; young birds have browner plumage than the adults. Its gift for mimicry has been noted in literature including the Mabinogion and the works of Pliny the Elder and William Shakespeare.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 720,
+  "height": 486,
+  "file": "Sturnus_vulgaris_2_(Marek_Szczepanek).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Marek Szczepanek",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Sturnus_vulgaris_2_(Marek_Szczepanek).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.9249,
+  "cities": {
+   "Le Mans": 0.875,
+   "Pornic": 0.821,
+   "Rennes": 0.856,
+   "Poitiers": 0.812,
+   "Paris": 0.908,
+   "Lille": 0.925,
+   "Strasbourg": 0.877,
+   "Lyon": 0.809,
+   "Grenoble": 0.787,
+   "Marseille": 0.721,
+   "Toulouse": 0.728,
+   "Bordeaux": 0.729,
+   "Brest": 0.794,
+   "Ajaccio": 0.806,
+   "Clermont-Ferrand": 0.78,
+   "Chamonix": 0.831,
+   "Perpignan": 0.712,
+   "Nancy": 0.903
+  },
+  "monthly_scores": [
+   0.8292,
+   0.8286,
+   0.8907,
+   0.9249,
+   0.9131,
+   0.848,
+   0.7936,
+   0.7417,
+   0.8239,
+   0.8692,
+   0.8307,
+   0.8301
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:23Z"
+}

@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Alopochen aegyptiaca",
+ "summary_fr": "L'Ouette d'Égypte est une grande oie africaine devenue invasive en Europe depuis sa fuite des collections ornementales. Originaire du continent africain où elle était sacrale en Égypte antique, elle s'est établie progressivement en Europe du Nord, en particulier aux Pays-Bas et en Belgique depuis les années 1980-1990, avant de coloniser le nord-est français. Mesurant 63 à 73 cm, elle se distingue par son plumage brun-roux, son port lourd et ses ailes partiellement blanches visibles au vol ou en alarme. Très territoriale et agressive envers ses congénères, elle niche dans les cavités d'arbres et les bâtiments. Remarquablement, le couple reste uni pour la vie et défend ensemble sa progéniture avec férocité, y compris par des combats aériens. Bien que légalement interdite en France depuis 2018, sa population sauvage s'accroît régulièrement dans les régions du nord et du nord-est.",
+ "habitat": "Lacs, rivières, zones humides, parcs et espaces semi-ouverts près de l'eau. Fréquente aussi les zones agricoles et les réservoirs.",
+ "diet": "Herbes, graines de céréales et plantes aquatiques glanées au sol ou en surface. Les jeunes se nourrissent d'invertébrés aquatiques et de plancton.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "sédentaire",
+  "hiverne": "Toute l'année en France, particulièrement établie dans les Hauts-de-France, la Lorraine et l'Alsace, régions d'où elle s'étend vers la Franche-Comté.",
+  "niche": "Se reproduit de février à avril en France, nichant dans les cavités d'arbres matures ou les crevasses des bâtiments. Capable d'avoir deux nichées par an selon les conditions.",
+  "passage": null
+ },
+ "seasonality_fr": "Présente toute l'année dans ses zones d'établissement, avec pic d'observation au printemps durant la reproduction.",
+ "song_fr": "Appels sonores forts et caractéristiques : mâle émet un coassement sourd et rauque dit « quack », ainsi qu'un cri bruyant et haletant rappelant une machine à vapeur. Femelle produit un cri bien plus bruyant et rauque, fréquemment entendu en défense de la progéniture.",
+ "lookalikes": [
+  {
+   "scientific_name": "Tadorna tadorna",
+   "common_name_fr": "Tadorne de Belon",
+   "why_fr": "Apparence similaire de grande oie aquatique ; appels graves comparables, bien que plus mélodieux chez la tadorne. Habitat et période de nidification différents."
+  },
+  {
+   "scientific_name": "Tadorna ferruginea",
+   "common_name_fr": "Tadorne casarca",
+   "why_fr": "Genre proche ; taille et aspect général semblables. Vocalises et comportement distinct ; cependant très rare en France, peu de risque de confusion."
+  }
+ ],
+ "rarity_note": "Espèce invasive établie et en expansion en France, particulièrement commune dans le nord-est depuis les années 2010. Populations croissantes menaçant les écosystèmes locaux.",
+ "fun_facts": [
+  "Malgré son interdiction légale en France, sa population sauvage s'est accrue exponentiellement depuis 2005, passant de moins de 50 individus à environ 2000 en 2016.",
+  "Couple extrêmement territorial et agressif : les parents s'affrontent en « combats aériens » (dogfights), défendant farouchement leur couvée qui reste dépendante environ dix semaines.",
+  "Capable de s'adapter au climat européen en décalant sa période de reproduction selon les aléas climatiques, ce qui accélère son invasion et diminue sa vulnérabilité."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Ouette_d%27%C3%89gypte",
+  "https://en.wikipedia.org/wiki/Egyptian_goose",
+  "https://www.oiseaux.net/fiche.html?id=64",
+  "https://inpn.mnhn.fr/espece/cd_nom/3159"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

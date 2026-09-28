@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Aythya marila",
+ "common_name_fr": "Fuligule milouinan",
+ "birdnet_label": "Aythya marila_Fuligule milouinan",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Aythya",
+  "species": "Aythya marila"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fuligule milouinan",
+   "url": "https://fr.wikipedia.org/wiki/Fuligule_milouinan",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Fuligule milouinan est une espèce de palmipèdes appartenant à la famille des Anatidae. C'est un canard plongeur de taille moyenne, plus grand que son proche parent, le Petit Fuligule.",
+   "fulltext_chars": 5620
+  },
+  "en": {
+   "title": null,
+   "url": null,
+   "description": null,
+   "extract": null,
+   "fulltext_chars": 0
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Porr%C3%B3n_bastardo_%28Aythya_marila%29%2C_Tierpark_Hellabrunn%2C_M%C3%BAnich%2C_Alemania%2C_2012-06-17%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2270,
+  "height": 1439,
+  "file": "Porrón_bastardo_(Aythya_marila),_Tierpark_Hellabrunn,_Múnich,_Alemania,_2012-06-17,_DD_03.JPG",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Porr%C3%B3n_bastardo_%28Aythya_marila%29%2C_Tierpark_Hellabrunn%2C_M%C3%BAnich%2C_Alemania%2C_2012-06-17%2C_DD_03.JPG/1920px-Porr%C3%B3n_bastardo_%28Aythya_marila%29%2C_Tierpark_Hellabrunn%2C_M%C3%BAnich%2C_Alemania%2C_2012-06-17%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Diego Delso",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Porr%C3%B3n_bastardo_(Aythya_marila),_Tierpark_Hellabrunn,_M%C3%BAnich,_Alemania,_2012-06-17,_DD_03.JPG"
+ },
+ "france_universe": {
+  "max_score": 0.0902,
+  "cities": {
+   "Le Mans": 0.036,
+   "Pornic": 0.05,
+   "Rennes": 0.048,
+   "Poitiers": 0.035,
+   "Paris": 0.029,
+   "Lille": 0.032,
+   "Strasbourg": 0.016,
+   "Lyon": 0.021,
+   "Grenoble": 0.019,
+   "Marseille": 0.03,
+   "Toulouse": 0.022,
+   "Bordeaux": 0.031,
+   "Brest": 0.064,
+   "Ajaccio": 0.09,
+   "Clermont-Ferrand": 0.024,
+   "Chamonix": 0.018,
+   "Perpignan": 0.026,
+   "Nancy": 0.019
+  },
+  "monthly_scores": [
+   0.0893,
+   0.086,
+   0.0603,
+   0.0109,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0127,
+   0.0508,
+   0.0826,
+   0.0902
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:18Z"
+}

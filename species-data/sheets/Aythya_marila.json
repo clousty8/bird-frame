@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Aythya marila",
+ "summary_fr": "Le Fuligule milouinan est un canard plongeur de taille moyenne, plus gros que son cousin le Petit Fuligule. En hiver, il visite les côtes françaises en petits nombres, formant parfois de grands rassemblements appelés « radeaux » avec ses congénères. Le mâle est élégant : tête noire à reflets verts, poitrine noire, ventre et flancs blancs, des ailes aux barres blanches remarquables. Les femelles, plus ternes, arborent une large tache blanche autour du bec. Cet oiseau effectue des plongées profondes pour capturer mollusques et invertébrés aquatiques. Ses populations, jadis plus abondantes, traversent la Manche à l'automne et l'hiver, en provenance des régions froides du nord. Lors des migrations, on le détecte au son dans les sites côtiers français, particulièrement en Atlantique.",
+ "habitat": "Zones côtières, baies, estuaires, lacs et plans d'eau profonds, surtout en hiver. Préfère les eaux saumâtres et marines.",
+ "diet": "Mollusques (huîtres, moules, escargots aquatiques), crustacés, larves d'insectes aquatiques et plantes aquatiques, obtenus par plongée.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Côtes atlantiques et méditerranéennes de France, ainsi que la Manche. Hiverne également autour du Royaume-Uni et en Méditerranée.",
+  "niche": "Toundra et toundra forestière de l'Islande, Scandinavie et Sibérie. Ne niche pas en France.",
+  "passage": "Passages en septembre-octobre (migration d'automne) et mars-avril (passage printanier)."
+ },
+ "seasonality_fr": "Visible surtout d'octobre à avril en France, avec des pics en hiver. Très rare en été. Souvent silencieux, mais peut émettre des cris lors de dérangements.",
+ "song_fr": "Cris peu sonores, murmures gutturaux lors de la parade nuptiale au printemps. Sons proches d'autres Aythya mais légèrement plus profonds et rauques.",
+ "lookalikes": [
+  {
+   "scientific_name": "Aythya fuligula",
+   "common_name_fr": "Fuligule morillon",
+   "why_fr": "Très similaire morphologiquement; mâles tous deux noirs et blancs. A. fuligula a une tête un peu différente et une huppe caractéristique."
+  },
+  {
+   "scientific_name": "Aythya ferina",
+   "common_name_fr": "Fuligule milouin",
+   "why_fr": "Mâle gris-blanc avec tête châtain. Plongées acoustiquement comparables mais silhouettes distinctes."
+  },
+  {
+   "scientific_name": "Aythya nyroca",
+   "common_name_fr": "Fuligule nyroca",
+   "why_fr": "Plus petit, yeux rouges caractéristiques. Cris moins forts. Rare en France."
+  }
+ ],
+ "rarity_note": "Peu commun en France; surtout un visiteur hivernal d'effectifs modérés. Pas signalé les mois d'été, confiné au passage et hivernage.",
+ "fun_facts": [
+  "Le nom de l'espèce vient du grec μαριλευτής (marileutes) qui signifie « pêcheur de moules ».",
+  "Les grands rassemblements hivernaux peuvent former des « radeaux » de plumes noires flottant ensemble pour se protéger du froid."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fuligule_milouinan",
+  "https://oiseaux.net/especes/fuligule_milouinan.html",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

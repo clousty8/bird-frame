@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Sturnus vulgaris",
+ "summary_fr": "L'Étourneau sansonnet est un passereau noir et brillant d'environ 20 cm, remarquable par ses capacités d'imitation vocale exceptionnelles et sa grande adaptabilité. Originaire d'Eurasie tempérée, il a colonisé tous les continents sauf l'Antarctique, souvent en tant qu'espèce invasive. Hautement social, il forme des groupes spectaculaires appelés « murmurations » pouvant compter plusieurs millions d'individus, surtout en automne et hiver. Son régime omnivore lui permet d'exploiter des habitats très variés : champs ouverts, prairies, parcs urbains, centres-villes. Bien que bénéfique pour l'agriculture en consommant les invertébrés nuisibles, ses grands rassemblements peuvent causer des nuisances urbaines par le bruit et les fientes corrosives. Son plumage noir iridescent, tacheté de blanc en hiver et plus terne pendant la reproduction, laisse place à une parure brillante en automne après la mue.",
+ "habitat": "Espaces ouverts et dégagés, parcs, zones urbaines et périurbaines, champs et prairies. Absent des forêts, zones de montagne et déserts.",
+ "diet": "Omnivore, principalement insectivore : forages dans le sol pour extraire les larves, coléoptères, vers de terre et araignées. Également graines, baies et fruits selon les saisons.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Populations nord-européennes migrent vers l'Afrique du Nord et l'Europe de l'Ouest. Populations des régions sud et ouest de la France sont partiellement sédentaires.",
+  "niche": "Reproduction d'avril à juillet en cavités naturelles ou artificielles, partout en France continentale.",
+  "passage": "Mouvements migratoires marqués en mars et d'octobre à novembre chez les populations nordiques."
+ },
+ "seasonality_fr": "Présent toute l'année en France. Visibilité augmente en hiver avec l'arrivée des migrateurs du nord. Chante principalement en période de reproduction, mais aussi en hiver hors des périodes de mue.",
+ "song_fr": "Vocalise très variable associant sifflements purs, gazouillis complexes et imitations précises d'autres oiseaux, de mammifères et de sons artificiels. Cris d'alarme aigus et répétés.",
+ "lookalikes": [
+  {
+   "scientific_name": "Sturnus unicolor",
+   "common_name_fr": "Étourneau unicolore",
+   "why_fr": "Très similaire acoustiquement, plumage noir uniforme sans taches blanches, présent en Ibérie."
+  }
+ ],
+ "rarity_note": "Très commun en France, présent toute l'année. Populations abondantes particulièrement en automne et hiver. Espèce régulière et bien établie partout.",
+ "fun_facts": [
+  "Les descendants de seulement 100 oiseaux relâchés au Central Park de New York en 1890-1891 forment aujourd'hui une population de 200 millions en Amérique du Nord.",
+  "Capable d'apprentissage vocal tout au long de sa vie, il imite les autres espèces, les aboiements, les alarmes de voiture et même la voix humaine.",
+  "Les \"murmurations\" sont des formations aériennes spectaculaires impliquant des milliers d'oiseaux se mouvant en parfaite synchronisation, formant des figures changeantes dans le ciel."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/%C3%89tourneau_sansonnet",
+  "https://en.wikipedia.org/wiki/Common_starling"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

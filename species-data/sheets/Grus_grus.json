@@ -1,0 +1,43 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Grus grus",
+ "summary_fr": "La Grue cendrée est un oiseau imposant au plumage gris ardoise, reconnaissable à la large bande blanche qui souligne son cou et à la tache rouge nue sur son front. Avec près de deux mètres d'envergure, elle vole en grandes formations en V, ponctuées d'un cri de trompette rauque qui porte à plusieurs kilomètres. L'espèce niche dans les tourbières et zones humides du nord et de l'est de l'Europe, de la Scandinavie à la Russie, où les couples, unis pour la vie, se reconnaissent à leurs parades dansées faites de bonds et de révérences. Chaque automne, elle quitte ses sites de reproduction pour rallier l'Espagne et le Maghreb, en traversant la France, où le lac du Der, en Champagne, accueille alors des dizaines de milliers d'oiseaux en halte. Le trajet se répète en sens inverse au printemps. Le réchauffement climatique a favorisé, depuis les années 2000, un hivernage croissant dans l'est et le sud du pays. Omnivore, la grue cendrée se nourrit de graines, de glands, de vers et d'insectes, et vide volontiers les champs de maïs après la moisson. Autrefois éteinte au Royaume-Uni, elle y a été réintroduite avec succès dans les Norfolk Broads.",
+ "habitat": "Zones humides, tourbières, lacs et prairies alluviales en halte ou en hivernage ; forêts marécageuses et landes tourbeuses pour la nidification, hors de France.",
+ "diet": "Omnivore : graines, glands, jeunes pousses, insectes, vers et mollusques ; en hiver, surtout restes de maïs et de céréales dans les champs moissonnés.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Surtout en Espagne et au Maghreb ; hivernage minoritaire mais en hausse depuis les années 2000 dans l'est (Champagne, Lorraine) et le sud de la France.",
+  "niche": "Ne niche pas en Pays de la Loire ; reproduction en Europe du Nord et de l'Est (Scandinavie, Russie, Allemagne, Pologne), avec un retour discret en France depuis 2000.",
+  "passage": "Halte migratoire marquée de mars à avril vers le nord, puis de septembre à novembre vers le sud-ouest, notamment au lac du Der en Champagne."
+ },
+ "seasonality_fr": "Observée surtout en halte migratoire au printemps et à l'automne ; hivernage localisé et en progression dans l'est et le sud ; absente en été loin de ses sites de nidification.",
+ "song_fr": "Cri de trompette puissant et guttural émis en vol, audible à plusieurs kilomètres, répété toutes les dix à quinze secondes lors des déplacements en groupe.",
+ "lookalikes": [
+  {
+   "scientific_name": "Ciconia ciconia",
+   "common_name_fr": "Cigogne blanche",
+   "why_fr": "Grande silhouette blanche des zones humides émettant des sons puissants en vol ; se distingue par un claquement de bec plutôt qu'un cri trompettant."
+  },
+  {
+   "scientific_name": "Ciconia nigra",
+   "common_name_fr": "Cigogne noire",
+   "why_fr": "Grand échassier sombre migrateur des zones humides, silhouette en vol comparable mais cri beaucoup plus discret que celui de la grue."
+  }
+ ],
+ "rarity_note": "Halte migratoire et hivernage irréguliers et localisés en dehors des grands sites d'accueil ; non nicheuse dans la région, plus régulière dans l'est et le sud-ouest de la France.",
+ "fun_facts": [
+  "Lors de sa migration, la grue cendrée peut parcourir plus de 2 500 km en utilisant les ascendances thermiques pour planer sans presque battre des ailes.",
+  "Elle enduit son plumage de boue pour se camoufler près du nid, une technique rare chez les oiseaux, partagée avec la grue du Canada.",
+  "Éteinte au Royaume-Uni depuis le XVIIe siècle, elle y niche de nouveau depuis les années 1980 dans les marais des Norfolk Broads."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Grue_cendr%C3%A9e",
+  "https://en.wikipedia.org/wiki/Common_crane",
+  "https://www.oiseaux.net/oiseaux/grue.cendree.html",
+  "https://www.lpo.fr/",
+  "https://www.inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

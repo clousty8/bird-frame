@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Turdus pilaris",
+ "summary_fr": "La Grive litorne est une grande grive nordique reconnaissable à sa tête et son croupion gris contrastant avec son dos brun-roux et sa poitrine tachetée. En France, elle est avant tout hivernante : de vastes troupes arrivent d'octobre à avril depuis la Scandinavie, la Pologne et la Russie, où l'essentiel de la population niche de mai à juillet. Mais depuis les années 1950, une petite population s'est aussi installée pour nicher dans le nord-est du pays, le Massif central et les Alpes, en régression progressive vers l'est depuis les années 2000. Omnivore opportuniste, elle chasse escargots, vers et insectes en période de reproduction, puis se rabat dès l'automne sur les baies abondantes d'aubépine, de houx ou de sorbier, avant de terminer l'hiver sur les pommes tombées et les graines. Grégaire, elle niche volontiers en petites colonies où les adultes défendent le nid en bombardant les prédateurs de fientes. Son cri de vol sec et répété, « tchac-tchac-tchac », trahit ses passages bruyants dans le ciel français, notamment en octobre.",
+ "habitat": "Bois mixtes, prés de montagne, vergers, haies et jardins arborés. Moins farouche que d'autres grives, elle fréquente les zones cultivées et les parcs.",
+ "diet": "Omnivore selon la saison : escargots, limaces, vers de terre, araignées et insectes (scarabées, sauterelles) en été ; baies d'aubépine, houx, sorbier des oiseleurs, if, genévrier en automne ; pommes tombées et graines en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "France entière, en troupes nombreuses d'octobre à avril, parfois jusqu'en mai lors de printemps tardifs.",
+  "niche": "Petite population nicheuse en France depuis les années 1950 (nord-est, Massif central, Alpes, en recul vers l'est depuis 2000) ; l'essentiel de la population niche en Scandinavie, Pologne et Russie, de mai à juillet.",
+  "passage": "Passages migratoires marqués en octobre vers le sud-ouest et en mars-avril au retour vers les aires de nidification nordiques."
+ },
+ "seasonality_fr": "Présente toute l'année en très petit nombre dans le nord-est et les massifs montagneux, mais surtout hivernante commune d'octobre à avril dans le reste de la France, souvent en troupes bruyantes.",
+ "song_fr": "Cri de vol caractéristique et répété : « tchac-tchac-tchac » ou « tcha-tcha », dur et gloussant. Chant de reproduction : gazouillis faible, souvent exécuté en vol. Plus tard en hiver, conversations grinçantes en troupes.",
+ "lookalikes": [
+  {
+   "scientific_name": "Turdus iliacus",
+   "common_name_fr": "Grive mauvis",
+   "why_fr": "Presque aussi grande, cris similaires « tsak tsak », souvent en troupe mixte en hiver en France."
+  },
+  {
+   "scientific_name": "Turdus viscivorus",
+   "common_name_fr": "Grive draine",
+   "why_fr": "Grive robuste, cris « tac-tac-tac » rappelant ceux de la litorne, confusions acoustiques possibles."
+  },
+  {
+   "scientific_name": "Turdus merula",
+   "common_name_fr": "Merle noir",
+   "why_fr": "Cris d'alarme secs communs aux thrushes. Merle partage certains bruits grinçants avec la litorne."
+  }
+ ],
+ "rarity_note": "Hivernante commune et régulière en France (max_score BirdNET-Go jusqu'à 0,41, Strasbourg et Nancy), nicheuse rare et localisée dans le nord-est, le Massif central et les Alpes.",
+ "fun_facts": [
+  "La litorne migre de jour en petites bandes, contrairement aux autres grives, ce qui rend ses passages migratoires très visibles et audibles.",
+  "Elle peut vivre jusqu'à 18 ans ; les adultes défendent farouchement leur nid colonial en bombardant les prédateurs de fientes.",
+  "Elle ne niche en France que depuis les années 1950, d'abord dans le Jura, avant de coloniser d'autres massifs de l'est du pays."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Grive_litorne",
+  "https://en.wikipedia.org/wiki/Fieldfare",
+  "https://www.oiseaux.net/oiseaux/grive.litorne.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4127"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

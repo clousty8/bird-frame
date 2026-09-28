@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Larus canus",
+ "common_name_fr": "Goéland cendré",
+ "birdnet_label": "Larus canus_Goéland cendré",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Larus",
+  "species": "Larus canus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Goéland cendré",
+   "url": "https://fr.wikipedia.org/wiki/Go%C3%A9land_cendr%C3%A9",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Goéland cendré est une espèce d'oiseaux marins Charadriiformes de la famille des Laridae.",
+   "fulltext_chars": 5077
+  },
+  "en": {
+   "title": "Common gull",
+   "url": "https://en.wikipedia.org/wiki/Common_gull",
+   "description": "Species of bird",
+   "extract": "The common gull is a gull that breeds in cool temperate regions of the Palearctic from Iceland and Scotland east to Kamchatka in the Russian Far East. Most common gulls migrate further south in winter, reaching the Mediterranean Sea, the southern Caspian Sea, and the seas around China and Japan; northwest European populations are at least partly resident. The closely related short-billed gull was formerly often included in this species, which was then sometimes known collectively as \"mew gull\".",
+   "fulltext_chars": 5676
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Sturmm%C3%B6we_-_Auenlandschaft_Hohenrode_HA_222_Landkreis_Schaumburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4032,
+  "height": 3024,
+  "file": "Sturmmöwe_-_Auenlandschaft_Hohenrode_HA_222_Landkreis_Schaumburg.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Sturmm%C3%B6we_-_Auenlandschaft_Hohenrode_HA_222_Landkreis_Schaumburg.jpg/1920px-Sturmm%C3%B6we_-_Auenlandschaft_Hohenrode_HA_222_Landkreis_Schaumburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Kathy2408",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Sturmm%C3%B6we_-_Auenlandschaft_Hohenrode_HA_222_Landkreis_Schaumburg.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3191,
+  "cities": {
+   "Le Mans": 0.222,
+   "Pornic": 0.24,
+   "Rennes": 0.274,
+   "Poitiers": 0.174,
+   "Paris": 0.202,
+   "Lille": 0.31,
+   "Strasbourg": 0.068,
+   "Lyon": 0.073,
+   "Grenoble": 0.062,
+   "Marseille": 0.053,
+   "Toulouse": 0.048,
+   "Bordeaux": 0.129,
+   "Brest": 0.319,
+   "Ajaccio": 0.143,
+   "Clermont-Ferrand": 0.096,
+   "Chamonix": 0.054,
+   "Perpignan": 0.033,
+   "Nancy": 0.095
+  },
+  "monthly_scores": [
+   0.3191,
+   0.2973,
+   0.2355,
+   0.0841,
+   0.0585,
+   0.0706,
+   0.1144,
+   0.1344,
+   0.1215,
+   0.2025,
+   0.2809,
+   0.3148
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:37Z"
+}

@@ -1,0 +1,86 @@
+{
+ "scientific_name": "Locustella naevia",
+ "common_name_fr": "Locustelle tachetée",
+ "birdnet_label": "Locustella naevia_Locustelle tachetée",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Locustellidae",
+  "family_common": "Grassbirds and Allies",
+  "genus": "Locustella",
+  "species": "Locustella naevia"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Locustelle tachetée",
+   "url": "https://fr.wikipedia.org/wiki/Locustelle_tachet%C3%A9e",
+   "description": "espèce d'oiseaux",
+   "extract": "La Locustelle tachetée est une espèce de passereaux de la famille des Locustellidae.",
+   "fulltext_chars": 3164
+  },
+  "en": {
+   "title": "Common grasshopper warbler",
+   "url": "https://en.wikipedia.org/wiki/Common_grasshopper_warbler",
+   "description": "Species of bird",
+   "extract": "The common grasshopper warbler or just grasshopper warbler is a species of Old World warbler in the genus Locustella. It breeds across much of temperate Europe and the western Palearctic. It is migratory, wintering across northern tropical Africa just south of the Sahara, and also locally in India.",
+   "fulltext_chars": 9703
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Grashoppsangare-070512.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 600,
+  "file": "Grashoppsangare-070512.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Grashoppsangare-070512.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Stefan Hage, Birds.se",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Grashoppsangare-070512.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0967,
+  "cities": {
+   "Le Mans": 0.052,
+   "Pornic": 0.032,
+   "Rennes": 0.045,
+   "Poitiers": 0.03,
+   "Paris": 0.081,
+   "Lille": 0.097,
+   "Strasbourg": 0.076,
+   "Lyon": 0.027,
+   "Grenoble": 0.021,
+   "Marseille": 0.014,
+   "Bordeaux": 0.013,
+   "Brest": 0.04,
+   "Ajaccio": 0.046,
+   "Clermont-Ferrand": 0.024,
+   "Chamonix": 0.029,
+   "Perpignan": 0.011,
+   "Nancy": 0.083
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0228,
+   0.082,
+   0.0967,
+   0.0492,
+   0.0217,
+   0.0364,
+   0.0388,
+   0.0199,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:26Z"
+}

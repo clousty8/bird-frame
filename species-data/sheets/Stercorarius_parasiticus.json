@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Stercorarius parasiticus",
+ "summary_fr": "Le Labbe parasite est un oiseau marin arctique à l'allure svelte et à l'agilité redoutable en vol, à peine plus grand qu'une mouette rieuse. Il doit son nom à une stratégie alimentaire singulière : il pourchasse mouettes et sternes en plein ciel jusqu'à ce qu'elles lâchent ou régurgitent leur pêche, un comportement appelé kleptoparasitisme qui fournit l'essentiel de ses repas en migration et en hiver. Trois phases de plumage, claire, sombre et intermédiaire, compliquent son identification, d'autant qu'il se confond aisément avec ses cousins labbes. Il niche exclusivement sur la toundra arctique, du Groenland à la Sibérie en passant par le nord de l'Écosse, où il défend farouchement son nid, n'hésitant pas à foncer sur les renards ou les humains qui s'en approchent trop. Grand migrateur, il traverse ensuite des milliers de kilomètres d'océan pour hiverner dans l'hémisphère sud. En France, il ne niche ni n'hiverne jamais : c'est un visiteur pélagique observé surtout au large des côtes atlantiques au printemps et à l'automne, mais des individus isolés peuvent y être signalés à peu près toute l'année, notamment lorsque les tempêtes les rabattent vers le littoral.",
+ "habitat": "Niche sur la toundra arctique sèche, les hautes falaises et les îles rocheuses ; en dehors de la reproduction, vit en haute mer et n'approche les côtes françaises qu'à l'occasion de tempêtes ou de passages migratoires.",
+ "diet": "Rongeurs (lemmings, campagnols), œufs, insectes et petits oiseaux en période de reproduction ; en migration et en hiver, se nourrit surtout de proies dérobées à d'autres oiseaux marins comme les mouettes et les sternes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Ne passe pas l'hiver en France ; hiverne en mer, dans les tropiques et l'hémisphère sud, au large des côtes africaines et sud-américaines, avec de très rares individus aperçus au large des côtes françaises en plein hiver.",
+  "niche": "Ne niche pas en France ; se reproduit sur la toundra arctique, du Groenland et de l'Islande au nord de l'Écosse, au nord du Canada, en Alaska et en Sibérie.",
+  "passage": "Migrateur pélagique, observable au large des côtes atlantiques françaises toute l'année en très faible nombre, avec des pics marqués au printemps et à l'automne ; les tempêtes peuvent occasionnellement le rabattre vers le littoral."
+ },
+ "seasonality_fr": "Observé en mer toute l'année en très faible nombre, avec des pics nets au printemps et à l'automne lors des migrations ; les tempêtes peuvent occasionnellement le pousser vers la côte, y compris en dehors de ces pics.",
+ "song_fr": "Généralement silencieux hors des sites de nidification ; sur la toundra, émet un miaulement nasal répété et des gémissements, ainsi qu'un cri d'alarme plus bref et aigu.",
+ "lookalikes": [
+  {
+   "scientific_name": "Stercorarius pomarinus",
+   "common_name_fr": "Labbe pomarin",
+   "why_fr": "Cris similaires (miaulements nasaux) et mêmes trois phases de plumage ; le Labbe pomarin est nettement plus massif et plus lent en vol."
+  },
+  {
+   "scientific_name": "Stercorarius longicaudus",
+   "common_name_fr": "Labbe à longue queue",
+   "why_fr": "Répertoire vocal proche ; silhouette plus fine et élancée que le parasite, avec une queue démesurément allongée chez l'adulte."
+  },
+  {
+   "scientific_name": "Stercorarius skua",
+   "common_name_fr": "Grand Labbe",
+   "why_fr": "Cris rauques parfois confondus ; le Grand Labbe est bien plus gros et trapu, sans les longues plumes caudales pointues du parasite."
+  }
+ ],
+ "rarity_note": "Espèce pélagique très rare au large des côtes françaises, jamais nicheuse ni hivernante régulière ; les observations concernent presque uniquement les passages migratoires ou des échouages occasionnels liés aux tempêtes.",
+ "fun_facts": [
+  "Son nom anglais « skua » vient du féroïen « skúgvur », qui a aussi donné son nom à l'île de Skúvoy, réputée pour ses colonies de labbes.",
+  "Il ne pêche presque jamais lui-même en mer : il harcèle les mouettes et les sternes en plein vol jusqu'à ce qu'elles régurgitent leur repas.",
+  "Sur son territoire arctique, il n'hésite pas à foncer en piqué sur les renards polaires, voire sur les chercheurs, pour protéger son nid."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Labbe_parasite",
+  "https://en.wikipedia.org/wiki/Parasitic_jaeger",
+  "https://www.oiseaux.net/oiseaux/labbe.parasite.html",
+  "https://www.lpo.fr/decouvrir-la-nature/fiches-oiseaux"
+ ],
+ "generated_at": "2026-09-27T21:30:00Z",
+ "generator_model": "claude-sonnet-5"
+}

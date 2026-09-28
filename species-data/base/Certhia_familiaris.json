@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Certhia familiaris",
+ "common_name_fr": "Grimpereau des bois",
+ "birdnet_label": "Certhia familiaris_Grimpereau des bois",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Certhiidae",
+  "family_common": "Treecreepers",
+  "genus": "Certhia",
+  "species": "Certhia familiaris"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grimpereau des bois",
+   "url": "https://fr.wikipedia.org/wiki/Grimpereau_des_bois",
+   "description": "espèce d'oiseaux passériformes de la famille des certhiidae",
+   "extract": "Le Grimpereau des bois, aussi appelé Grimpereau familier, est une espèce de passereaux de la famille des Certhiidae. Il est physiquement semblable à d'autres grimpereaux, avec un bec recourbé, les parties supérieures brunes, comportant des motifs plus clairs, les parties inférieures blanchâtres, et une queue constituée de longues plumes raides, qui l'aident à grimper aux troncs d'arbre. Le meilleur moyen de le distinguer du Grimpereau des jardins, avec lequel il partage une grande partie de sa répartition européenne, reste son chant.",
+   "fulltext_chars": 24000
+  },
+  "en": {
+   "title": "Eurasian treecreeper",
+   "url": "https://en.wikipedia.org/wiki/Eurasian_treecreeper",
+   "description": "Small passerine bird found in temperate Eurasia",
+   "extract": "The Eurasian treecreeper or common treecreeper is a small passerine bird also known in the British Isles, where it is the only living member of its genus, simply as treecreeper. It is similar to other treecreepers, and has a curved bill, patterned brown upperparts, whitish underparts, and long stiff tail feathers which help it creep up tree trunks. It can be most easily distinguished from the similar short-toed treecreeper, which shares much of its European range, by its different song.",
+   "fulltext_chars": 13258
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Eurasian_Treecreeper_in_the_snow%2C_cropped_version.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 507,
+  "height": 630,
+  "file": "Eurasian_Treecreeper_in_the_snow,_cropped_version.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Eurasian_Treecreeper_in_the_snow%2C_cropped_version.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Eurasian_Treecreeper_in_the_snow.jpg: Teemu Lehtinen from Salo / Helsinki, Finland\nderivative work: Totodu74 (talk)",
+  "credit": "Eurasian_Treecreeper_in_the_snow.jpg",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Eurasian_Treecreeper_in_the_snow,_cropped_version.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0818,
+  "cities": {
+   "Le Mans": 0.054,
+   "Pornic": 0.049,
+   "Rennes": 0.058,
+   "Poitiers": 0.049,
+   "Paris": 0.073,
+   "Lille": 0.078,
+   "Strasbourg": 0.066,
+   "Lyon": 0.071,
+   "Grenoble": 0.073,
+   "Marseille": 0.051,
+   "Toulouse": 0.033,
+   "Bordeaux": 0.033,
+   "Brest": 0.065,
+   "Ajaccio": 0.082,
+   "Clermont-Ferrand": 0.064,
+   "Chamonix": 0.08,
+   "Perpignan": 0.038,
+   "Nancy": 0.068
+  },
+  "monthly_scores": [
+   0.0818,
+   0.0768,
+   0.0797,
+   0.0749,
+   0.0628,
+   0.0629,
+   0.0602,
+   0.0538,
+   0.0568,
+   0.0691,
+   0.0711,
+   0.0804
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:41:19Z"
+}

@@ -1,0 +1,92 @@
+{
+ "scientific_name": "Acrocephalus scirpaceus",
+ "common_name_fr": "Rousserolle effarvatte",
+ "birdnet_label": "Acrocephalus scirpaceus_Rousserolle effarvatte",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Acrocephalidae",
+  "family_common": "Reed Warblers and Allies",
+  "genus": "Acrocephalus",
+  "species": "Acrocephalus scirpaceus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Rousserolle effarvatte",
+   "url": "https://fr.wikipedia.org/wiki/Rousserolle_effarvatte",
+   "description": "espèce d'oiseaux passériformes de la famille des acrocephalidae",
+   "extract": "La Rousserolle effarvatte est une espèce de fauvettes appartenant à la famille des Acrocephalidae.",
+   "fulltext_chars": 8578
+  },
+  "en": {
+   "title": "Common reed warbler",
+   "url": "https://en.wikipedia.org/wiki/Common_reed_warbler",
+   "description": "Species of bird",
+   "extract": "The common reed warbler or Eurasian reed-warbler is an Old World warbler in the genus Acrocephalus. It breeds across Europe into the temperate western Palaearctic where it is migratory, wintering in sub-Saharan Africa. It is also a resident species over large parts of Africa.",
+   "fulltext_chars": 5073
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Acrocephalus_scirpaceus_%28Bertinetto%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 768,
+  "file": "Acrocephalus_scirpaceus_(Bertinetto).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Acrocephalus_scirpaceus_%28Bertinetto%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Paolo Bertinetto from Torino, Italia",
+  "credit": "Cannaiola (Acrocephalus scirpaceus)",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Acrocephalus_scirpaceus_(Bertinetto).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4709,
+  "cities": {
+   "Le Mans": 0.327,
+   "Pornic": 0.225,
+   "Rennes": 0.277,
+   "Poitiers": 0.24,
+   "Paris": 0.403,
+   "Lille": 0.471,
+   "Strasbourg": 0.395,
+   "Lyon": 0.219,
+   "Grenoble": 0.18,
+   "Marseille": 0.156,
+   "Toulouse": 0.16,
+   "Bordeaux": 0.159,
+   "Brest": 0.161,
+   "Ajaccio": 0.189,
+   "Clermont-Ferrand": 0.209,
+   "Chamonix": 0.211,
+   "Perpignan": 0.165,
+   "Nancy": 0.406
+  },
+  "monthly_scores": [
+   0.013,
+   0.0157,
+   0.0644,
+   0.2052,
+   0.4709,
+   0.4608,
+   0.3575,
+   0.2035,
+   0.1129,
+   0.0498,
+   0.0166,
+   0.0151
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:23Z"
+}

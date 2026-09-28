@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Motacilla flava",
+ "summary_fr": "Plus petite des bergeronnettes nichant en Europe, la Bergeronnette printanière est un passereau élancé, reconnaissable à sa silhouette svelte et à sa longue queue qu'elle balance sans cesse. En plumage nuptial, le mâle affiche un ventre jaune vif et un dos olive, tandis que la couleur de la tête varie considérablement selon les nombreuses sous-espèces, du gris au noir en passant par le bleu. Femelles et jeunes restent plus ternes, aux teintes brunâtres et blanchâtres. Grande migratrice, la majorité de la population quitte la France dès l'automne pour rejoindre l'Afrique subsaharienne, où elle passe l'hiver ; quelques individus isolés sont toutefois signalés en hiver sur le littoral, ce qui en fait un migrateur partiel plutôt qu'un migrateur strict. Espèce des milieux ouverts et humides, elle trottine activement au sol près du bétail ou des zones inondées, bondissant brièvement pour happer les insectes dérangés par leur passage. Ses dix sous-espèces, aux têtes diversement colorées chez les mâles reproducteurs, en font un défi d'identification classique pour les ornithologues de terrain.",
+ "habitat": "Espaces ouverts et humides près de l'eau : prairies inondables, marais, tourbières, bords d'étangs, souvent parmi le bétail. Se perche volontiers sur un poteau, un fil ou un buisson bas.",
+ "diet": "Insectes et petits invertébrés capturés au sol ou lors de courts envols. Elle trottine activement pour débusquer ses proies, profitant souvent du passage des troupeaux ou des zones fraîchement inondées.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Majoritairement en Afrique subsaharienne, du Sahel à l'Afrique de l'Est ; une petite population reste résidente en Égypte. De rares individus isolés sont signalés en hiver sur le littoral français.",
+  "niche": "Toute la France en période de reproduction, essentiellement d'avril à septembre ; deux nichées, en mai puis en juillet, au nid installé au sol dans la végétation basse.",
+  "passage": "Passages migratoires marqués en mars-avril puis août-octobre ; quelques individus peuvent être notés en dehors de ces périodes."
+ },
+ "seasonality_fr": "Présente et chanteuse en France surtout d'avril à octobre, avec des passages printaniers et automnaux marqués ; les observations hivernales restent exceptionnelles.",
+ "song_fr": "Cri net et sonore, une série de 1 à 3 « tsip » ou « psit », le dernier accentué ; chant plus élaboré en période nuptiale, cri d'alarme sec et répété.",
+ "lookalikes": [
+  {
+   "scientific_name": "Motacilla alba",
+   "common_name_fr": "Bergeronnette grise",
+   "why_fr": "Même silhouette et longue queue oscillante ; cris confondables, surtout hors période nuptiale où les couleurs se ressemblent davantage."
+  },
+  {
+   "scientific_name": "Motacilla cinerea",
+   "common_name_fr": "Bergeronnette des ruisseaux",
+   "why_fr": "Cri sifflé proche, en « tsli » ou « tsip », pouvant prêter à confusion à l'oreille, notamment en vol."
+  },
+  {
+   "scientific_name": "Anthus trivialis",
+   "common_name_fr": "Pipit des arbres",
+   "why_fr": "Cri « tsip » similaire et milieux parfois partagés, bien que le pipit privilégie les lisières boisées."
+  }
+ ],
+ "rarity_note": "Régulière en migration et en nidification dans une bonne partie de la France, avec une présence modérée selon les zones ; absence quasi totale en plein hiver.",
+ "fun_facts": [
+  "Le plumage de la tête des mâles varie du bleu au noir en passant par le jaune selon les dix sous-espèces, un vrai casse-tête d'identification.",
+  "Elle affectionne la compagnie du bétail, dont le passage dérange au sol les insectes qu'elle capture aussitôt.",
+  "Ses effectifs européens ont nettement décliné depuis les années 1980, surtout à cause de l'intensification agricole des prairies humides."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bergeronnette_printani%C3%A8re",
+  "https://en.wikipedia.org/wiki/Western_yellow_wagtail",
+  "https://oiseaux.net/oiseaux/bergeronnette.printaniere.html",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/4456",
+  "https://www.lpo.fr/nos-actions/connaitre-et-identifier-les-oiseaux/fiches-oiseaux/bergeronnette-printaniere"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

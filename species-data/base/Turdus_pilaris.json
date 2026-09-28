@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Turdus pilaris",
+ "common_name_fr": "Grive litorne",
+ "birdnet_label": "Turdus pilaris_Grive litorne",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Turdidae",
+  "family_common": "Thrushes and Allies",
+  "genus": "Turdus",
+  "species": "Turdus pilaris"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Grive litorne",
+   "url": "https://fr.wikipedia.org/wiki/Grive_litorne",
+   "description": "espèce d'oiseaux",
+   "extract": "La Grive litorne est une espèce de passereaux appartenant à la famille des Turdidae.",
+   "fulltext_chars": 5293
+  },
+  "en": {
+   "title": "Fieldfare",
+   "url": "https://en.wikipedia.org/wiki/Fieldfare",
+   "description": "Species of bird",
+   "extract": "The fieldfare is a member of the thrush family Turdidae. It breeds in woodland and scrub in northern Europe and across the Palearctic. It is strongly migratory, with many northern birds moving south during the winter. It is a very rare breeder in the British Isles, but winters in large numbers in the United Kingdom, Southern Europe, North Africa and the Middle East. It is omnivorous, eating a wide range of molluscs, insects and earthworms in the summer, and berries, grain and seeds in the winter.",
+   "fulltext_chars": 11947
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/07/Fieldfare_%2819470651331%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1000,
+  "height": 768,
+  "file": "Fieldfare_(19470651331).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/0/07/Fieldfare_%2819470651331%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "hedera.baltica from Wrocław, Poland",
+  "credit": "Fieldfare",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Fieldfare_(19470651331).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4121,
+  "cities": {
+   "Le Mans": 0.241,
+   "Pornic": 0.148,
+   "Rennes": 0.183,
+   "Poitiers": 0.201,
+   "Paris": 0.321,
+   "Lille": 0.351,
+   "Strasbourg": 0.412,
+   "Lyon": 0.224,
+   "Grenoble": 0.177,
+   "Marseille": 0.084,
+   "Toulouse": 0.118,
+   "Bordeaux": 0.12,
+   "Brest": 0.127,
+   "Ajaccio": 0.09,
+   "Clermont-Ferrand": 0.225,
+   "Chamonix": 0.228,
+   "Perpignan": 0.087,
+   "Nancy": 0.388
+  },
+  "monthly_scores": [
+   0.388,
+   0.3664,
+   0.293,
+   0.1867,
+   0.1536,
+   0.1491,
+   0.1409,
+   0.0543,
+   0.0803,
+   0.2843,
+   0.3886,
+   0.4121
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:13Z"
+}

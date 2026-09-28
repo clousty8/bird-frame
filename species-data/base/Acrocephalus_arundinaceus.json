@@ -1,0 +1,89 @@
+{
+ "scientific_name": "Acrocephalus arundinaceus",
+ "common_name_fr": "Rousserolle turdoïde",
+ "birdnet_label": "Acrocephalus arundinaceus_Rousserolle turdoïde",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Acrocephalidae",
+  "family_common": "Reed Warblers and Allies",
+  "genus": "Acrocephalus",
+  "species": "Acrocephalus arundinaceus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Rousserolle turdoïde",
+   "url": "https://fr.wikipedia.org/wiki/Rousserolle_turdo%C3%AFde",
+   "description": "espèce d'oiseaux",
+   "extract": "La Rousserolle turdoïde ou Rossignol des rivières est une espèce de fauvettes des marais appartenant à la famille des Acrocephalidae.",
+   "fulltext_chars": 4154
+  },
+  "en": {
+   "title": "Great reed warbler",
+   "url": "https://en.wikipedia.org/wiki/Great_reed_warbler",
+   "description": "Eurasian bird",
+   "extract": "The great reed warbler is an insectivorous bird in the family Acrocephalidae. It is a medium-sized passerine bird and the largest of the warblers. It breeds throughout mainland Europe and the Western Palearctic and migrates to sub-Saharan Africa in the winter. It favours reed beds during the breeding season, while living in reed beds, bush thickets, rice fields, and forest clearings during the winter. It exhibits relatively low sexual dimorphism, and the sexes are similar in appearance. This species mates both polygynously and monogamously.",
+   "fulltext_chars": 10371
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2000,
+  "height": 3000,
+  "file": "Drosselrohrsänger_Great_reed_warbler.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg/1920px-Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2257,
+  "cities": {
+   "Le Mans": 0.02,
+   "Pornic": 0.012,
+   "Poitiers": 0.033,
+   "Paris": 0.028,
+   "Lille": 0.017,
+   "Strasbourg": 0.131,
+   "Lyon": 0.089,
+   "Grenoble": 0.103,
+   "Marseille": 0.123,
+   "Toulouse": 0.111,
+   "Bordeaux": 0.056,
+   "Ajaccio": 0.226,
+   "Clermont-Ferrand": 0.075,
+   "Chamonix": 0.105,
+   "Perpignan": 0.121,
+   "Nancy": 0.085
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0428,
+   0.1912,
+   0.2257,
+   0.1803,
+   0.1128,
+   0.0919,
+   0.056,
+   0.0282,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:34Z"
+}

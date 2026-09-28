@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Dendrocopos leucotos",
+ "summary_fr": "Le Pic à dos blanc est un pic forestier eurasiatique de taille moyenne, reconnaissable à son dos blanc et ses ailes barrées de blanc. En France, seule une petite population nicharde, estimée entre 210 et 300 couples, subsiste dans les Pyrénées. Largement répandu en Europe du Nord et du Caucase, il requiert de vastes forêts de feuillus matures avec abondance de bois mort. Il se nourrit principalement de coléoptères xylophages et de leurs larves, capturés en tambourinant et creusant l'écorce. En automne et hiver, des individus du nord-est de son aire hivernent exceptionnellement en France méditerranéenne. Très protégé au niveau européen (Annexe I de la Directive Oiseaux), il figure au plan d'action français pour la biodiversité.",
+ "habitat": "Forêts mixtes humides de feuillus matures, massifs montagneux non exploités, zones avec abondance de bois mort debout et couché, près des points d'eau.",
+ "diet": "Principalement coléoptères xylophages et leurs larves, araignées, noisettes et baies en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Exceptionnellement en France méditerranéenne et en Corse lors des hivers rigoureux du nord-est européen.",
+  "niche": "Ne niche qu'aux Pyrénées (200-300 couples), entre mars et mai.",
+  "passage": "Passages possibles en novembre-décembre et février-mars, très irréguliers."
+ },
+ "seasonality_fr": "Visible très exceptionnellement en France, principalement de novembre à mars. Les observations en autres saisons restent fortement improbables sauf en zone pyrénéenne.",
+ "song_fr": "Caquètement distinctif « bchuk, bchu-bchuk » irrégulier, tambouriné avec agitation, début explosif et lent, fin plus rapide et vague. Légèrement plus grave que le Pic épeiche.",
+ "lookalikes": [
+  {
+   "scientific_name": "Dendrocopos major",
+   "common_name_fr": "Pic épeiche",
+   "why_fr": "Similaire par la taille, mais plus petit et sans blanc au dos ; signature sonore différente, plus aiguë."
+  },
+  {
+   "scientific_name": "Dendrocopos medius",
+   "common_name_fr": "Pic mar",
+   "why_fr": "Taille comparable, moustaches moins développées, pas de blanc au dos ; cri plus doux et moins métallique."
+  }
+ ],
+ "rarity_note": "Exceptionnel en France en dehors des Pyrénées. Les observations hivernales en plaine ou en Méditerranée sont très rares. Score maximum BirdNET de 0,027 en France.",
+ "fun_facts": [
+  "La sous-espèce lilfordi, présente aux Pyrénées, est fragmentée et pourrait être jugée vulnérable en raison de ses effectifs réduits.",
+  "En captivité, les Pics à dos blanc peuvent vivre jusqu'à 11 ans, bien plus longtemps qu'en liberté (3-4 ans).",
+  "Mâle et femelle se relaient pendant l'incubation qui dure 11 à 12 jours, et un à deux jeunes seulement par couvée prennent leur envol."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pic_%C3%A0_dos_blanc",
+  "https://en.wikipedia.org/wiki/White-backed_woodpecker",
+  "https://www.oiseaux.net/oiseaux/pic.a.dos.blanc.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Ichthyaetus melanocephalus",
+ "common_name_fr": "Mouette mélanocéphale",
+ "birdnet_label": "Ichthyaetus melanocephalus_Mouette mélanocéphale",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Ichthyaetus",
+  "species": "Ichthyaetus melanocephalus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Mouette mélanocéphale",
+   "url": "https://fr.wikipedia.org/wiki/Mouette_m%C3%A9lanoc%C3%A9phale",
+   "description": "espèce d'oiseaux",
+   "extract": "La Mouette mélanocéphale est une espèce d'oiseaux marins Charadriiformes de la famille des Laridae, présente sur l'ensemble des côtes françaises. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 3751
+  },
+  "en": {
+   "title": "Mediterranean gull",
+   "url": "https://en.wikipedia.org/wiki/Mediterranean_gull",
+   "description": "Species of bird",
+   "extract": "The Mediterranean gull is a small gull. The scientific name is from Ancient Greek. The genus Ichthyaetus is from ikhthus, \"fish\", and aetos, \"eagle\", and the specific melanocephalus is from melas, \"black\", and -kephalos \"-headed\".",
+   "fulltext_chars": 3051
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ichthyaetus_melanocephalus%2C_Olh%C3%A3o%2C_Faro%2C_Portugal_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1800,
+  "height": 1200,
+  "file": "Ichthyaetus_melanocephalus,_Olhão,_Faro,_Portugal_1.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ichthyaetus_melanocephalus%2C_Olh%C3%A3o%2C_Faro%2C_Portugal_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "rkl",
+  "credit": "https://www.inaturalist.org/photos/70519202",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Ichthyaetus_melanocephalus,_Olh%C3%A3o,_Faro,_Portugal_1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3704,
+  "cities": {
+   "Le Mans": 0.181,
+   "Pornic": 0.298,
+   "Rennes": 0.285,
+   "Poitiers": 0.164,
+   "Paris": 0.114,
+   "Lille": 0.112,
+   "Strasbourg": 0.026,
+   "Lyon": 0.056,
+   "Grenoble": 0.056,
+   "Marseille": 0.089,
+   "Toulouse": 0.073,
+   "Bordeaux": 0.13,
+   "Brest": 0.37,
+   "Ajaccio": 0.212,
+   "Clermont-Ferrand": 0.073,
+   "Chamonix": 0.047,
+   "Perpignan": 0.079,
+   "Nancy": 0.04
+  },
+  "monthly_scores": [
+   0.2831,
+   0.2892,
+   0.2983,
+   0.2516,
+   0.1782,
+   0.1948,
+   0.2741,
+   0.3704,
+   0.2969,
+   0.3066,
+   0.2949,
+   0.2791
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:19Z"
+}

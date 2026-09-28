@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Clanga clanga",
+ "summary_fr": "Grand rapace de la famille des Accipitridae, l'Aigle criard mesure de 59 à 71 cm pour une envergure de 157 à 179 cm et un poids pouvant atteindre 3,2 kg chez les plus grandes femelles. Son plumage est entièrement brun sombre, presque noir, avec des reflets cuivrés qui rappellent ceux de son proche cousin l'Aigle pomarin, au point que les deux espèces se confondent facilement sur le terrain : seul le contraste plus marqué entre les couvertures sous-alaires, plus sombres que les rémiges primaires, permet de les distinguer en vol. Le nom de genre Clanga vient du grec ancien κλαγγή, « le cri », en écho à ses vocalisations sonores qui évoquent le jappement d'un petit chien. Nicheur des grandes forêts d'Europe de l'Est et d'Asie centrale à proximité de zones humides, il déserte entièrement ces régions en hiver pour rejoindre l'Afrique du Nord, le Moyen-Orient et le sous-continent indien, parcourant ainsi des milliers de kilomètres chaque année. En France, il ne s'agit que d'un visiteur exceptionnel de passage, observé surtout en Corse à la faveur de quelques individus égarés lors des migrations d'automne.",
+ "habitat": "Forêts riveraines, boisements clairsemés et zones humides (lacs, marais, salines, grandes vallées fluviales). Niche dans les grandes forêts proches d'eaux stagnantes ou courantes, en plaine alluviale ; en France, fréquente ponctuellement zones humides littorales lors de son passage.",
+ "diet": "Petits mammifères (campagnols, rats, sousliks, taupes), oiseaux d'eau, poissons et amphibiens. Chasse à l'affût depuis un perchoir en bordure d'eau, en vol plané, ou à pied pour capturer de jeunes oiseaux inaptes au vol ; consomme aussi des charognes en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": "Afrique du Nord (Égypte), Moyen-Orient (Turquie, Irak, Israël) et Asie du Sud (Inde, sud de la Chine) ; l'espèce déserte totalement l'Europe en hiver.",
+  "niche": "Europe de l'Est, Russie centrale et méridionale, Asie centrale et nord de la Chine, à proximité de zones humides forestières ; ne niche pas en France.",
+  "passage": "Septembre à novembre en automne, février à avril au printemps ; en France, observations possibles d'octobre à janvier, essentiellement en Corse."
+ },
+ "seasonality_fr": "Visiteur exceptionnel de passage en France, surtout en Corse, avec quelques observations isolées en automne et en hiver ; aucune reproduction sur le territoire.",
+ "song_fr": "Cri caractéristique en une syllabe, sifflé et pénétrant, souvent transcrit « kyack » ou « kluh », rappelant le jappement d'un petit chien ; surtout vocal en période de reproduction, plus discret en hiver.",
+ "lookalikes": [
+  {
+   "scientific_name": "Clanga pomarina",
+   "common_name_fr": "Aigle pomarin",
+   "why_fr": "Cousin très proche au plumage brun noirâtre presque identique ; seul le contraste des couvertures sous-alaires, plus sombres chez le criard, distingue les deux espèces en vol."
+  },
+  {
+   "scientific_name": "Aquila nipalensis",
+   "common_name_fr": "Aigle des steppes",
+   "why_fr": "Rapace de taille comparable, plumage brun foncé et vocalises rauques similaires ; cou plus court, bec moins proéminent et ailes proportionnellement moins larges."
+  },
+  {
+   "scientific_name": "Aquila heliaca",
+   "common_name_fr": "Aigle impérial",
+   "why_fr": "Grand rapace brun également, mais plus massif, au cou plus long et au bec plus fort ; vocalises plus graves et silhouette alaire nettement différente en vol."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France, où seuls quelques individus sont notés chaque année en passage, surtout en Corse (score BirdNET très faible, jusqu'à 0,056 à Ajaccio).",
+ "fun_facts": [
+  "Son nom de genre Clanga vient du grec ancien « klangê », le cri : l'espèce est particulièrement vocale, d'où son nom français d'Aigle criard.",
+  "Il s'hybride assez souvent avec l'Aigle pomarin là où leurs aires de nidification se chevauchent, donnant des individus très difficiles à identifier.",
+  "Classé Vulnérable au niveau mondial par l'UICN et En Danger en Europe, il souffre surtout de la destruction des zones humides et des collisions avec les lignes électriques."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Aigle_criard",
+  "https://en.wikipedia.org/wiki/Greater_spotted_eagle",
+  "https://oiseaux.net/",
+  "https://www.inpn.mnhn.fr/",
+  "https://ebird.org/species/grseag1"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

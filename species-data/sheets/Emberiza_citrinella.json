@@ -1,0 +1,52 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Emberiza citrinella",
+ "summary_fr": "Le Bruant jaune est un petit passéreau au plumage distinctif des milieux ouverts d'Europe tempérée. Chez le mâle, la tête jaune brillant et le croupion roux font sa signature reconnaissable entre tous les bruants. Migrateur partiel surtout en Europe du Nord, il reste largement sédentaire dans les régions tempérées de France métropolitaine où il se reproduit. Espèce en déclin régulier depuis les années 1980, notamment au Royaume-Uni et en France, due à l'intensification agricole et à l'usage généralisé des insecticides. Son chant caractéristique, souvent transcrit « un peu de pain et pas de fromage », trahit sa présence avant qu'on l'aperçoive. Le Bruant jaune fréquente les haies, les talus, les landes et les lisières de bois, où il trouve graines et insectes selon la saison.",
+ "habitat": "Milieux ouverts avec buissons et haies, landes et pentes montagneuses en période de reproduction. Hors saison, fréquente les terres agricoles, les chaumes et les bordures de champs.",
+ "diet": "Principalement granivore en automne-hiver (céréales, graines de plantes sauvages). Aux beaux jours, ajoute des invertébrés, particulièrement chenilles et araignées pour nourrir les jeunes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Populations nordiques hivernent au sud de l'Europe (Espagne, Italie, Balkans). Populations du centre-est migrent vers la Transcaucasie, l'Iran ou le sud du Kazakhstan. Les oiseaux français restent largement sédentaires sur place ou gagnent la Méditerranée.",
+  "niche": "Niche en Europe du sud de la Scandinavie jusqu'aux Alpes et aux côtes méditerranéennes. En France, reproducteur régulier partout sauf en altitude extrême ou zones urbanisées.",
+  "passage": "Passages migratoires visibles en avril-mai (arrivée des migrateurs du sud) et septembre-novembre (départ des nordiques vers les hivernages méridionaux)."
+ },
+ "seasonality_fr": "Visible toute l'année en France, sauf raréfaction en plein hiver. Plus abondant au printemps et en automne lors des passages migratoires. Chante surtout d'avril à août en période de reproduction.",
+ "song_fr": "Chant caractéristique, série de notes courtes s'accélérant et terminées par une note très aigüe. Cri court et bref en vol (« zirt »). La fameuse transcription « un peu de pain et pas de fromage » reflète bien le rythme du chant.",
+ "lookalikes": [
+  {
+   "scientific_name": "Emberiza cirlus",
+   "common_name_fr": "Bruant zizi",
+   "why_fr": "Chant parfois similaire mais le Bruant zizi manque de la tête jaune brillante du mâle Bruant jaune. Le croupion gris du zizi le distingue."
+  },
+  {
+   "scientific_name": "Emberiza schoeniclus",
+   "common_name_fr": "Bruant des roseaux",
+   "why_fr": "Ressemblance acoustique possible. S'en différencie par un habitat de zone humide et une tête moins jaune chez le mâle."
+  },
+  {
+   "scientific_name": "Emberiza calandra",
+   "common_name_fr": "Bruant proyer",
+   "why_fr": "Plus gros et chant plus vigoureux. Chant moins mélodieux et sans la note finale caractéristique du Bruant jaune."
+  },
+  {
+   "scientific_name": "Emberiza cia",
+   "common_name_fr": "Bruant fou",
+   "why_fr": "Milieux rocheux et montagneux. Chant différent, plus rapidement pulsé. Répartition géographique bien séparée en France."
+  }
+ ],
+ "rarity_note": "Espèce régulière et commune à travers la France, reproductrice partout sauf en montagne et zones urbanisées. Déclin notable depuis les années 1980, mais toujours bien représentée.",
+ "fun_facts": [
+  "Son chant a inspiré des compositeurs : Beethoven y aurait trouvé l'idée de son célèbre motif, et Messiaen l'a intégré dans plusieurs compositions.",
+  "Les plumes jaunes du mâle reflètent sa condition physique : les femelles préfèrent les mâles au jaune le plus vif, signe d'une bonne santé.",
+  "Les œufs sont ornés d'un réseau de fines lignes noires, autrefois appelant le « bruant scribble » ou « butor écrivain » en anglais."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bruant_jaune",
+  "https://en.wikipedia.org/wiki/Yellowhammer",
+  "https://www.oiseaux.net/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

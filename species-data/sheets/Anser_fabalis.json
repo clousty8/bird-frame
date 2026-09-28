@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Anser fabalis",
+ "summary_fr": "L'Oie des moissons est un grand canard migrateur qui traverse la France chaque hiver en provenance de Fennoscandie et de Sibérie occidentale. Mesurant entre 66 et 89 cm pour un poids de 1,7 à 4,1 kg, elle se reconnaît à son bec bicolore noir et orange ainsi qu'à ses pattes orangées. Longtemps considérée comme une sous-espèce de l'Oie de la toundra, elle en a été scientifiquement séparée en 2007. Prudente et farouche contrairement aux autres oies, elle se nourrit à terre plutôt que sur l'eau, glanant les grains dans les champs d'automne et les labours en utilisant depuis décennies les mêmes sites traditionnels. Rarement détectée acoustiquement en France métropolitaine, elle revêt un intérêt ornithologique particulier lorsqu'elle est signalée.",
+ "habitat": "Marais et tourbières de toundra et de taïga en région de nidification. En Europe occidentale, fréquente les champs cultivés, prairies humides et littoraux.",
+ "diet": "Herbe courte, grains et racines glanés dans les éteules et les labours. Préfère se nourrir au sol plutôtque sur l'eau.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Hivernage en Europe occidentale et centrale (France comprise), particulièrement en janvier à mars.",
+  "niche": "Niche en Fennoscandie et Sibérie occidentale (sous-espèce A. f. fabalis et A. f. johanseni) ; ne niche pas en France.",
+  "passage": "Passages migratoires en novembre-décembre (automne) et février-mars (printemps)."
+ },
+ "seasonality_fr": "Présence régulière de novembre à mars en France, avec des pics en plein hiver. Rarement entendue en dehors de cette fenêtre saisonnière.",
+ "song_fr": "Cri caractéristique semblable à celui des autres oies : honkonnements forts et répétés en vol, plus graves que ceux de l'Oie rieuse. Cris d'alarme clairs et sonores.",
+ "lookalikes": [
+  {
+   "scientific_name": "Anser albifrons",
+   "common_name_fr": "Oie rieuse",
+   "why_fr": "Honkonnements similaires, mais plus aigus. Peu discernable à l'oreille sans expérience."
+  },
+  {
+   "scientific_name": "Anser anser",
+   "common_name_fr": "Oie cendrée",
+   "why_fr": "Vocalisations graves proches, confusion possible en migration."
+  },
+  {
+   "scientific_name": "Anser brachyrhynchus",
+   "common_name_fr": "Oie à bec court",
+   "why_fr": "Cris semblables bien que plus aigus et différemment structurés."
+  }
+ ],
+ "rarity_note": "Très rarement détectée en France métropolitaine. Hivernante régulière mais peu commune, limitée aux régions côtières et humides du littoral atlantique en petits effectifs.",
+ "fun_facts": [
+  "Son nom anglais « bean goose » vient de son habitude historique de glanage dans les champs de fèves en hiver.",
+  "Les trois sous-espèces diffèrent notablement de taille : la plus petite niche en Fennoscandie, la plus grande en Sibérie orientale.",
+  "Contrairement aux autres oies, elle est naturellement plus farouche et moins grégaire, formant des petits groupes isolés."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Oie_des_moissons",
+  "https://en.wikipedia.org/wiki/Taiga_bean_goose",
+  "https://www.oiseaux.net/oies.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

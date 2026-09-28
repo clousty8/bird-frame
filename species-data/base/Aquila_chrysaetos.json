@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Aquila chrysaetos",
+ "common_name_fr": "Aigle royal",
+ "birdnet_label": "Aquila chrysaetos_Aigle royal",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "family_common": "Hawks, Eagles, and Kites",
+  "genus": "Aquila",
+  "species": "Aquila chrysaetos"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Aigle royal",
+   "url": "https://fr.wikipedia.org/wiki/Aigle_royal",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Aigle royal est une espèce d'oiseaux de la famille des Accipitridae. C'est un rapace brun foncé, avec un plumage plus brun-doré sur la tête et le cou. L'Aigle royal utilise son agilité, sa vitesse et ses serres extrêmement puissantes pour attraper ses proies : des lapins, des marmottes, des écureuils, et de grands mammifères comme les renards, les chats sauvages et domestiques, de jeunes chèvres de montagne, de jeunes bouquetins, et de jeunes cervidés. Il consomme aussi des charognes, si les proies sont rares, ainsi que des reptiles. Des oiseaux, dont des espèces de grande taille comme des cygnes ou des grues, des corbeaux et des goélands marins ont tous été notés comme proies potentielles.",
+   "fulltext_chars": 21678
+  },
+  "en": {
+   "title": "Golden eagle",
+   "url": "https://en.wikipedia.org/wiki/Golden_eagle",
+   "description": "Species of eagle",
+   "extract": "The golden eagle is a bird of prey living in the Northern Hemisphere. It is the most widely distributed species of eagle. Like all eagles, it belongs to the family Accipitridae. They are one of the best-known birds of prey in the Northern Hemisphere. These birds are dark brown, with lighter golden-brown plumage on their napes. Immature eagles of this species typically have white on the tail and often have white markings on the wings. Golden eagles use their agility and speed combined with powerful feet and large, sharp talons to hunt a variety of prey, mainly hares, rabbits, marmots, and other ground squirrels.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3006,
+  "height": 3757,
+  "file": "015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_(Switzerland)_Photo_by_Giles_Laurent.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/1920px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Giles Laurent",
+  "credit": "Own work, from gileslaurent.com",
+  "description_url": "https://commons.wikimedia.org/wiki/File:015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_(Switzerland)_Photo_by_Giles_Laurent.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2573,
+  "cities": {
+   "Le Mans": 0.022,
+   "Pornic": 0.026,
+   "Rennes": 0.019,
+   "Poitiers": 0.039,
+   "Paris": 0.019,
+   "Lille": 0.011,
+   "Strasbourg": 0.02,
+   "Lyon": 0.07,
+   "Grenoble": 0.094,
+   "Marseille": 0.121,
+   "Toulouse": 0.1,
+   "Bordeaux": 0.063,
+   "Brest": 0.014,
+   "Ajaccio": 0.257,
+   "Clermont-Ferrand": 0.061,
+   "Chamonix": 0.076,
+   "Perpignan": 0.115,
+   "Nancy": 0.02
+  },
+  "monthly_scores": [
+   0.2573,
+   0.2538,
+   0.1762,
+   0.1344,
+   0.0997,
+   0.0994,
+   0.1235,
+   0.1503,
+   0.1361,
+   0.1725,
+   0.226,
+   0.2508
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:31Z"
+}

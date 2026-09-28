@@ -1,0 +1,82 @@
+{
+ "scientific_name": "Lanius senator",
+ "common_name_fr": "Pie-grièche à tête rousse",
+ "birdnet_label": "Lanius senator_Pie-grièche à tête rousse",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Laniidae",
+  "family_common": "Shrikes",
+  "genus": "Lanius",
+  "species": "Lanius senator"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pie-grièche à tête rousse",
+   "url": "https://fr.wikipedia.org/wiki/Pie-gri%C3%A8che_%C3%A0_t%C3%AAte_rousse",
+   "description": "espèce d'oiseaux",
+   "extract": "La Pie-grièche à tête rousse est une espèce de passereau à bec large de la famille des Laniidae. C'est un oiseau aisément reconnaissable à son plumage contrasté.",
+   "fulltext_chars": 3489
+  },
+  "en": {
+   "title": "Woodchat shrike",
+   "url": "https://en.wikipedia.org/wiki/Woodchat_shrike",
+   "description": "Species of bird",
+   "extract": "The woodchat shrike is a member of the shrike family Laniidae. It can be identified by its red-brown crown and nape. It is mainly insectivorous and favours open wooded areas with scattered trees such as orchards, particularly when there is bare or sandy ground. The woodchat shrike breeds in southern Europe, the Middle East and northwest Africa, and winters in tropical Africa.",
+   "fulltext_chars": 5961
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/18/17_5_2012_averla_capirossa_strillozzo_091.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1320,
+  "height": 880,
+  "file": "17_5_2012_averla_capirossa_strillozzo_091.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/1/18/17_5_2012_averla_capirossa_strillozzo_091.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Michele Lamberti",
+  "credit": "Flickr: 17 5 2012 averla capirossa strillozzo 091",
+  "description_url": "https://commons.wikimedia.org/wiki/File:17_5_2012_averla_capirossa_strillozzo_091.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1627,
+  "cities": {
+   "Lyon": 0.011,
+   "Grenoble": 0.013,
+   "Marseille": 0.06,
+   "Toulouse": 0.061,
+   "Bordeaux": 0.018,
+   "Ajaccio": 0.163,
+   "Clermont-Ferrand": 0.013,
+   "Perpignan": 0.089
+  },
+  "monthly_scores": [
+   0.0,
+   0.0114,
+   0.0961,
+   0.1627,
+   0.1374,
+   0.1221,
+   0.1274,
+   0.1309,
+   0.0735,
+   0.0303,
+   0.0,
+   0.0
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:29Z"
+}

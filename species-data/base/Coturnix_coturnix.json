@@ -1,0 +1,96 @@
+{
+ "scientific_name": "Coturnix coturnix",
+ "common_name_fr": "Caille des blés",
+ "birdnet_label": "Coturnix coturnix_Caille des blés",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Galliformes",
+  "family": "Phasianidae",
+  "family_common": "Pheasants, Grouse, and Allies",
+  "genus": "Coturnix",
+  "species": "Coturnix coturnix"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Caille des blés",
+   "url": "https://fr.wikipedia.org/wiki/Caille_des_bl%C3%A9s",
+   "description": "espèce d'oiseaux galliformes de la famille des phasianidae",
+   "extract": "La Caille des blés ou Caille d'Europe est une espèce de petits oiseaux migrateurs de la famille des Phasianidae.",
+   "fulltext_chars": 8801
+  },
+  "en": {
+   "title": "Common quail",
+   "url": "https://en.wikipedia.org/wiki/Common_quail",
+   "description": "Species of bird",
+   "extract": "The common quail or European quail is a small ground-nesting game bird in the pheasant family Phasianidae. It is mainly migratory, breeding in the Palearctic and wintering in Africa and southern India.",
+   "fulltext_chars": 6630
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Kerro-_Coturnix_coturnix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3843,
+  "height": 2474,
+  "file": "Kerro-_Coturnix_coturnix.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Kerro-_Coturnix_coturnix.jpg/1920px-Kerro-_Coturnix_coturnix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Dûrzan Cîrano",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Kerro-_Coturnix_coturnix.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1374,
+  "cities": {
+   "Le Mans": 0.029,
+   "Pornic": 0.039,
+   "Rennes": 0.03,
+   "Poitiers": 0.036,
+   "Paris": 0.025,
+   "Lille": 0.02,
+   "Strasbourg": 0.026,
+   "Lyon": 0.037,
+   "Grenoble": 0.045,
+   "Marseille": 0.062,
+   "Toulouse": 0.053,
+   "Bordeaux": 0.047,
+   "Brest": 0.032,
+   "Ajaccio": 0.137,
+   "Clermont-Ferrand": 0.038,
+   "Chamonix": 0.041,
+   "Perpignan": 0.064,
+   "Nancy": 0.025
+  },
+  "monthly_scores": [
+   0.0503,
+   0.0599,
+   0.0907,
+   0.1232,
+   0.1374,
+   0.1313,
+   0.1319,
+   0.1259,
+   0.0754,
+   0.0509,
+   0.0482,
+   0.0506
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:03Z"
+}

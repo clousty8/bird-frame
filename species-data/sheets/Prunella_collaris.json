@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Prunella collaris",
+ "summary_fr": "L'Accenteur alpin est un petit passereeau de montagne reconnaissable à son dos gris strié de noir, ses flancs roux caractéristiques et sa gorge blanche piquetée de noir. Pesant 25 à 35 grammes pour 18 centimètres de long, il est plus grand que son cousin l'Accenteur mouchet. Spécialiste des hauts alpages entre 1800 et 2900 mètres, il descend en vallée lors des hivers rigoureux. Oiseau remarquable par son système reproducteur polygynandre, où plusieurs mâles et femelles s'associent pour élever les jeunes ensemble. Le mâle émet un chant lent et puissant, riche en intonations qui rappellent l'alouette, composé de sons roulés et flutés. Insectivore l'été, il devient granivore l'hiver pour survivre aux conditions extrêmes de son habitat d'élection.",
+ "habitat": "Alpages et hautes montagnes au-dessus de la limite des arbres, typiquement entre 1800 et 2900 mètres d'altitude. Descend dans les vallées en hiver.",
+ "diet": "Insectes et invertébrés (vers de terre, araignées, mollusques) au printemps et en été; graines et baies en hiver.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Dans les basses altitudes et vallées d'Europe méridionale et centrale.",
+  "niche": "Montagnes d'Europe du sud et du centre, au-dessus de 1800 m, d'avril à août.",
+  "passage": null
+ },
+ "seasonality_fr": "Visible et audible en montagne d'avril à août; se rencontre en hiver en plus basse altitude lors des descentes saisonnières.",
+ "song_fr": "Chant lent, puissant et retentissant avec des intonations rappelant l'alouette; sons roulés et flutés entrelacés de trilles brefs. Mâle et femelle chantent.",
+ "lookalikes": [
+  {
+   "scientific_name": "Prunella modularis",
+   "common_name_fr": "Accenteur mouchet",
+   "why_fr": "Même genre, chant et cris similaires; plus petit et sans les flancs roux distinctifs."
+  }
+ ],
+ "rarity_note": "Nicheur régulier en altitude dans les massifs montagneux d'Europe; très localisé en France aux Alpes et Pyrénées, absent en plaine.",
+ "fun_facts": [
+  "Système reproducteur extraordinaire: plusieurs mâles et femelles se regroupent pour former des familles communes où chacun peut s'accoupler avec plusieurs partenaires.",
+  "Contrairement à la plupart des passereaux, la femelle chante aussi bien que le mâle pour défendre son territoire en montagne.",
+  "Son bec présente une base jaune caractéristique visible en vol, distinct de celui de l'Accenteur mouchet."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Accenteur_alpin",
+  "https://en.wikipedia.org/wiki/Alpine_accentor",
+  "https://www.oiseaux.net/oiseaux/accenteur.alpin.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

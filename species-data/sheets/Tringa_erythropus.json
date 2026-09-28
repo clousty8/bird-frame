@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Tringa erythropus",
+ "summary_fr": "Le Chevalier arlequin est un limicole migrateur au plumage spectaculaire. En été, il se vêt d'un noir profond tacheté de blanc, avec des pattes et la base du bec rouges. L'hiver, il adopte une livrée pâle gris perle, perdant son éclat dramatique. Cette transformation saisonnière le rend méconnaissable d'une saison à l'autre. Nichant dans les zones humides du nord de la Sibérie et de Scandinavie, il parcourt chaque année un long périple migratoire qui le conduit en Afrique subsaharienne et en Asie du Sud-Est. Ses passages en France, en particulier dans les zones côtières et les estuaires, le placent parmi les limicoles à surveiller. Solitaire ou en petits groupes, il fouille les vases et les vasières pour y trouver sa nourriture : insectes aquatiques, larves et petits invertébrés divers.",
+ "habitat": "Zones humides intérieures et côtières, vasières, estuaires, marais salants, lacs peu profonds, côtes avec vasières.",
+ "diet": "Insectes et larves aquatiques, petits crustacés, mollusques, polychètes, petits poissons et amphibiens.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "En hiver en Europe de l'Ouest, autour de la Méditerranée, en Afrique subsaharienne, et en Asie du Sud.",
+  "niche": "Ne niche pas en France ; niche en Scandinavie et en Sibérie, du nord de la Suède à la péninsule Tchouktche.",
+  "passage": "Passages importants en avril-mai et en août-septembre lors des migrations printanière et automnale."
+ },
+ "seasonality_fr": "Présent en France surtout d'août à mai, lors des passages migratoires et de l'hivernage. Plus rare en été.",
+ "song_fr": "Chant disyllabique tonique caractéristique tchi-uit. Cris d'alarme secs et répétés.",
+ "lookalikes": [
+  {
+   "scientific_name": "Tringa totanus",
+   "common_name_fr": "Chevalier gambette",
+   "why_fr": "Profil similaire, mais bec plus court et orangé, pattes oranges, ailes avec barre blanche visible."
+  },
+  {
+   "scientific_name": "Tringa nebularia",
+   "common_name_fr": "Chevalier aboyeur",
+   "why_fr": "Plus grand, bec très long ; cri trisyllabique distinctif ; pattes grises."
+  },
+  {
+   "scientific_name": "Tringa ochropus",
+   "common_name_fr": "Chevalier cul-blanc",
+   "why_fr": "Plus petit, plus foncé ; croupion blanc bien visible en vol ; appel différent."
+  }
+ ],
+ "rarity_note": "Régulier mais rarement abondant en France. Peu commun à l'intérieur des terres ; plus fréquent en zones côtières et méditerranéennes.",
+ "fun_facts": [
+  "Son plumage nuptial noir au contraste blanc fait l'un des plus élégants de tous les limicoles du continent eurasiatique.",
+  "Contrairement à la plupart des limicoles, ce sont surtout les mâles qui assurent l'incubation et l'élevage des jeunes.",
+  "Il partage ses zones d'hivernage avec des millions d'autres limicoles en Afrique de l'Ouest, formant des spectacles ornithologiques impressionnants."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Chevalier_arlequin",
+  "https://en.wikipedia.org/wiki/Spotted_redshank",
+  "https://oiseaux.net/tringa_erythropus.html",
+  "https://www.oiseaux.org/accueil"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

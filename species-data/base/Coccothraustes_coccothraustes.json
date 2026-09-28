@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Coccothraustes coccothraustes",
+ "common_name_fr": "Gros-bec casse-noyaux",
+ "birdnet_label": "Coccothraustes coccothraustes_Gros-bec casse-noyaux",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Fringillidae",
+  "family_common": "Finches, Euphonias, and Allies",
+  "genus": "Coccothraustes",
+  "species": "Coccothraustes coccothraustes"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Gros-bec casse-noyaux",
+   "url": "https://fr.wikipedia.org/wiki/Gros-bec_casse-noyaux",
+   "description": "espèce d'oiseaux passériformes de la famille des fringillidae",
+   "extract": "Le Gros-bec casse-noyaux est une petite espèce de passereaux de la famille des Fringillidae. Il est partiellement migrateur. C'est l'espèce la plus grande des Fringillidae et la seule du genre Coccothraustes. Il est apparenté à certains gros-becs, actuellement classés dans des genres différents.",
+   "fulltext_chars": 7328
+  },
+  "en": {
+   "title": "Hawfinch",
+   "url": "https://en.wikipedia.org/wiki/Hawfinch",
+   "description": "Species of bird",
+   "extract": "The hawfinch is a passerine bird in the finch family Fringillidae. It is the only extant species placed in the genus Coccothraustes. Its closest living relatives are the genus Eophona of East Asia, and Hesperiphona of Central and North America.",
+   "fulltext_chars": 14203
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Coccothraustes_coccothraustes_3_%28Martin_Mecnarowski%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 848,
+  "height": 599,
+  "file": "Coccothraustes_coccothraustes_3_(Martin_Mecnarowski).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Coccothraustes_coccothraustes_3_%28Martin_Mecnarowski%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Martin Mecnarowski (http://www.photomecan.eu/)",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Coccothraustes_coccothraustes_3_(Martin_Mecnarowski).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2788,
+  "cities": {
+   "Le Mans": 0.092,
+   "Pornic": 0.063,
+   "Rennes": 0.047,
+   "Poitiers": 0.135,
+   "Paris": 0.118,
+   "Lille": 0.103,
+   "Strasbourg": 0.207,
+   "Lyon": 0.19,
+   "Grenoble": 0.163,
+   "Marseille": 0.142,
+   "Toulouse": 0.15,
+   "Bordeaux": 0.161,
+   "Brest": 0.019,
+   "Ajaccio": 0.279,
+   "Clermont-Ferrand": 0.207,
+   "Chamonix": 0.171,
+   "Perpignan": 0.133,
+   "Nancy": 0.18
+  },
+  "monthly_scores": [
+   0.2731,
+   0.2788,
+   0.2036,
+   0.1657,
+   0.1033,
+   0.0967,
+   0.0965,
+   0.0681,
+   0.0803,
+   0.1778,
+   0.2526,
+   0.2722
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:13Z"
+}

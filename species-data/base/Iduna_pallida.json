@@ -1,0 +1,67 @@
+{
+ "scientific_name": "Iduna pallida",
+ "common_name_fr": "Hypolaïs pâle",
+ "birdnet_label": "Iduna pallida_Hypolaïs pâle",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Acrocephalidae",
+  "family_common": "Reed Warblers and Allies",
+  "genus": "Iduna",
+  "species": "Iduna pallida"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Hypolaïs pâle",
+   "url": "https://fr.wikipedia.org/wiki/Hypola%C3%AFs_p%C3%A2le",
+   "description": "espèce d'oiseaux",
+   "extract": "L'Hypolaïs pâle est une espèce de passereaux de la famille des Acrocephalidae.",
+   "fulltext_chars": 1571
+  },
+  "en": {
+   "title": "Eastern olivaceous warbler",
+   "url": "https://en.wikipedia.org/wiki/Eastern_olivaceous_warbler",
+   "description": "Species of bird",
+   "extract": "The eastern olivaceous warbler, known simply as the olivaceous warbler when its western relative is referred to as the 'isabelline warbler', is a small passerine bird with drab plumage tones, that is native to the Old World. For the most part it breeds in southeastern Europe, the Middle East and adjacent western Asia, and winters in the northern Afrotropics.",
+   "fulltext_chars": 2301
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/50/Hippolais_pallida_Akko_Israel_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1233,
+  "height": 925,
+  "file": "Hippolais_pallida_Akko_Israel_1.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/5/50/Hippolais_pallida_Akko_Israel_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Klara Matusevich (Klaram)",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Hippolais_pallida_Akko_Israel_1.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0152,
+  "cities": {
+   "Ajaccio": 0.015
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0119,
+   0.0152,
+   0.0139,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:19Z"
+}

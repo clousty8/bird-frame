@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Uria aalge",
+ "summary_fr": "Grand alcidé marin au plumage noir et blanc, le Guillemot de Troïl, aussi appelé Guillemot marmette au Canada, est l'un des oiseaux de mer les plus caractéristiques de l'Atlantique et du Pacifique Nord. Strictement pélagique, il passe la quasi-totalité de sa vie en haute mer et ne revient à terre que pour nicher, en colonies très denses, sur des corniches rocheuses et des îles. Son corps trapu et ses ailes courtes, peu adaptées au vol, en font un plongeur exceptionnel : il « vole » littéralement sous l'eau pour poursuivre de petits poissons, atteignant couramment 30 à 60 mètres de profondeur, parfois bien davantage. En France, l'espèce est migratrice partielle : quelques dizaines de couples nichent à l'année sur les falaises bretonnes, tandis que des oiseaux venus des colonies nordiques longent nos côtes toute l'année, avec des pics lors des passages migratoires d'automne et de printemps et une présence hivernale plus discrète. Son œuf en forme de poire pivote sur lui-même sans tomber de la falaise, une adaptation remarquable à la vie sur corniche étroite. Décimée par les marées noires depuis les années 1970, la population nicheuse française reste fragile malgré une aire de répartition mondiale bien plus large.",
+ "habitat": "Océan Atlantique et Pacifique Nord ; falaises et îles rocheuses côtières pour la reproduction, strictement pélagique le reste de l'année.",
+ "diet": "Petits poissons pélagiques de 200 mm ou moins (lançons, capelans, sprats, harengs), complétés de mollusques, vers marins et crustacés.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Sur les côtes atlantiques françaises, où des oiseaux nordiques rejoignent des eaux plus abritées ; présence discrète et généralement peu nombreuse en hiver.",
+  "niche": "Quelques dizaines de couples résidents sur les falaises bretonnes (Cap Sizun, Sept-Îles, Cap Fréhel), de mai à juillet ; niche massivement plus au nord, aux îles Britanniques et en Scandinavie.",
+  "passage": "Passages plus marqués sur les côtes atlantiques à l'automne et au printemps, mais l'espèce reste observable toute l'année en mer."
+ },
+ "seasonality_fr": "Présent toute l'année au large des côtes françaises, en nombre limité, avec des passages plus visibles à l'automne et une reproduction locale cantonnée à quelques colonies bretonnes.",
+ "song_fr": "Cri grave et roulant « murrrr » émis sur les colonies ; cris d'alarme aigus et sifflement flûté « willee » des poussins réclamant la becquée.",
+ "lookalikes": [
+  {
+   "scientific_name": "Alca torda",
+   "common_name_fr": "Petit Pingouin",
+   "why_fr": "Alcidé très proche, même silhouette en vol et posture dressée à terre, vocalises graves comparables mais tonalité légèrement différente."
+  },
+  {
+   "scientific_name": "Morus bassanus",
+   "common_name_fr": "Fou de Bassan",
+   "why_fr": "Autre grand oiseau marin noir et blanc plongeant près des colonies, cris rauques pouvant prêter à confusion à distance."
+  }
+ ],
+ "rarity_note": "Peu commun mais régulier toute l'année sur le littoral atlantique français, avec une population nicheuse bretonne réduite à quelques dizaines de couples.",
+ "fun_facts": [
+  "Son œuf a une forme de poire qui lui permet de pivoter sur lui-même au lieu de tomber de la falaise où il niche.",
+  "Il plonge en utilisant ses ailes comme des nageoires et peut atteindre 180 mètres de profondeur dans les eaux les plus froides.",
+  "Décimée par les marées noires depuis les années 1970, la population nicheuse française ne compte plus qu'une poignée de colonies bretonnes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Guillemot_de_Tro%C3%AFl",
+  "https://en.wikipedia.org/wiki/Common_murre",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

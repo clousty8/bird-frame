@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Anthus campestris",
+ "common_name_fr": "Pipit rousseline",
+ "birdnet_label": "Anthus campestris_Pipit rousseline",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Motacillidae",
+  "family_common": "Wagtails and Pipits",
+  "genus": "Anthus",
+  "species": "Anthus campestris"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pipit rousseline",
+   "url": "https://fr.wikipedia.org/wiki/Pipit_rousseline",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Pipit rousseline est une espèce de passereaux appartenant à la famille des Motacillidae.",
+   "fulltext_chars": 3061
+  },
+  "en": {
+   "title": "Tawny pipit",
+   "url": "https://en.wikipedia.org/wiki/Tawny_pipit",
+   "description": "Species of bird",
+   "extract": "The tawny pipit is a medium-large passerine bird which breeds in much of the central Palearctic from northwest Africa and Portugal to Central Siberia and on to Inner Mongolia. It is a migrant moving in winter to tropical Africa and the Indian subcontinent.",
+   "fulltext_chars": 2479
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Anthus_campestris-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 955,
+  "file": "Anthus_campestris-3.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Anthus_campestris-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Dûrzan cîrano",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Anthus_campestris-3.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1242,
+  "cities": {
+   "Le Mans": 0.016,
+   "Pornic": 0.024,
+   "Rennes": 0.017,
+   "Poitiers": 0.028,
+   "Paris": 0.013,
+   "Strasbourg": 0.011,
+   "Lyon": 0.031,
+   "Grenoble": 0.031,
+   "Marseille": 0.054,
+   "Toulouse": 0.057,
+   "Bordeaux": 0.054,
+   "Brest": 0.011,
+   "Ajaccio": 0.124,
+   "Clermont-Ferrand": 0.038,
+   "Chamonix": 0.021,
+   "Perpignan": 0.058,
+   "Nancy": 0.011
+  },
+  "monthly_scores": [
+   0.0119,
+   0.017,
+   0.0741,
+   0.1238,
+   0.1242,
+   0.113,
+   0.1097,
+   0.1113,
+   0.0812,
+   0.0388,
+   0.0152,
+   0.0138
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:07Z"
+}

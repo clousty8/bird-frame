@@ -1,0 +1,60 @@
+{
+ "scientific_name": "Aix sponsa",
+ "common_name_fr": "Canard branchu",
+ "birdnet_label": "Aix sponsa_Canard branchu",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Aix",
+  "species": "Aix sponsa"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Canard branchu",
+   "url": "https://fr.wikipedia.org/wiki/Canard_branchu",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Canard branchu ou Canard carolin est une espèce de canard de la famille des Anatidae. C'est l'une des deux espèces du genre Aix. Il doit son nom à la Caroline, états des États-Unis où les premiers spécimens furent capturés.",
+   "fulltext_chars": 3584
+  },
+  "en": {
+   "title": "Wood duck",
+   "url": "https://en.wikipedia.org/wiki/Wood_duck",
+   "description": "Species of bird",
+   "extract": "The wood duck or Carolina duck is a partially migratory species of perching duck found in North America. The male is one of the most colorful North American waterfowls.",
+   "fulltext_chars": 9729
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/18/Aix_sponsa_male.jpg",
+  "width": 2604,
+  "height": 2278
+ },
+ "france_universe": {
+  "max_score": 0.0168,
+  "cities": {
+   "Ajaccio": 0.017
+  },
+  "monthly_scores": [
+   0.0138,
+   0.0168,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.012,
+   0.0128
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:43:17Z"
+}

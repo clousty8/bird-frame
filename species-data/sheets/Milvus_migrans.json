@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Milvus migrans",
+ "summary_fr": "Le Milan noir est un rapace de taille moyenne, facilement identifiable à son silhouette élancée et sa queue caractéristique en forme de V. Espèce la plus abondante de sa famille à l'échelle mondiale, il est un oiseau opportuniste et charognard avant tout, se contentant de déchets et de dépouilles plutôt que de chasser activement. En vol, il plane lentement à faible altitude, scrutant le sol en quête de proies faciles. Doté d'une voix rauque et d'un cri sifflant très caractéristique, il n'est jamais silencieux. En France, le Milan noir migre depuis les régions méditerranéennes et continentales ; les nicheurs locaux sont rejoints en automne par des oiseaux venus du nord et de l'est de l'Europe. Souvent grégaire, il forme des bandes importantes à la fin de l'été.",
+ "habitat": "Vallées, bord de cours d'eau et de lacs, milieux semi-ouverts avec grands arbres ou escarpements rocheux pour la nidification. Peut aussi stationner en bordure de villes.",
+ "diet": "Petits mammifères, rongeurs, oiseaux, poissons et amphibiens ; se nourrit aussi régulièrement de charognes et débris. Chasse occasionnellement d'autres insectes en vol.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "En Afrique subsaharienne, où migrent les populations tempérées européennes.",
+  "niche": "Europe centrale et sud-orientale, principalement de mars à juillet.",
+  "passage": "Mars puis octobre-novembre lors des passages migratoires."
+ },
+ "seasonality_fr": "Visible de mars à octobre en France, avec un pic en été. Absent en hiver sauf rares hivernants dans le sud méditerranéen.",
+ "song_fr": "Cri sifflant haut perché, souvent répété en succession rapide, ressemblant à un glapissement aigu. Généralement silencieux hors de la période de nidification.",
+ "lookalikes": [
+  {
+   "scientific_name": "Milvus milvus",
+   "common_name_fr": "Milan royal",
+   "why_fr": "Queue plus échancrée en forme de V, silhouette très similaire, cris distincts à mémoriser."
+  },
+  {
+   "scientific_name": "Haliastur sphenurus",
+   "common_name_fr": "Milan siffleur",
+   "why_fr": "Très rare en Europe, mais silhouette générale proche, cris radicalement différents."
+  }
+ ],
+ "rarity_note": "Assez commun en France, présent d'avril à octobre en migration active. Score BirdNET élevé indique une bonne détectabilité acoustique.",
+ "fun_facts": [
+  "En Australie, le Milan noir porte délibérément des brindilles enflammées pour propager les feux et faire fuir des proies ; les Aborigènes l'appellent le faucon de feu.",
+  "C'est l'espèce de rapace la plus abondante au monde, estimée à 6,7 millions d'individus.",
+  "Contrairement à d'autres rapaces, c'est un charognard efficace qui profite de la proximité des humains et des terres agricoles."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Milan_noir",
+  "https://en.wikipedia.org/wiki/Black_kite",
+  "https://www.oiseaux.net/oiseaux/milan.noir.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

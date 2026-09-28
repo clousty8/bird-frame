@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Lanius excubitor",
+ "summary_fr": "La Pie-grièche grise est un passereau prédateur de taille moyenne, aisément reconnaissable à son plumage gris perle, son masque oculaire noir et ses dessous blancs. Contrairement à la plupart des passereaux, mâle et femelle chantent tous deux pour défendre leur territoire. En France, elle reste très rare et en déclin constant, surtout observée en hiver et lors des passages migratoires dans les régions du nord et du centre, notamment le Limousin, l'Auvergne et le Jura. Elle chasse depuis des perchoirs exposés, fondant sur des petits oiseaux, des rongeurs et de gros insectes qu'elle embroche souvent sur des épines : ce comportement caractéristique s'appelle le « lardoir ». Bénéficiaire d'une protection totale depuis 1981, la Pie-grièche grise souffre du déclin des milieux ouverts causé par l'intensification agricole.",
+ "habitat": "Landes et prairies ouvertes parsemées d'arbustes et d'arbres isolés servant de perchoirs et de sites de nidification.",
+ "diet": "Petits oiseaux, petits mammifères (surtout rongeurs), insectes de grande taille (sauterelles, scarabées, grillons), amphibiens.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique du Nord et bassin méditerranéen ; en France, quelques individus hivernent exceptionnellement dans le sud.",
+  "niche": "Ne niche pas en France ; niche en Europe du Nord et centrale, en Asie du Nord au nord du 50e parallèle.",
+  "passage": "Passages observés d'août à octobre (automne) et de mars à avril (printemps), surtout dans le nord et le centre de la France."
+ },
+ "seasonality_fr": "Visible en France principalement d'octobre à avril, lors des passages migratoires et de l'hivernage. De rares observations sont notées en juillet et août, avant les passages d'automne.",
+ "song_fr": "Chant fluide composé de phrases mélodieuses alternées avec des sifflements clairs ; cris d'alarme rauques et haut-perchés ; divers cris de contact. Les deux sexes chantent.",
+ "lookalikes": [
+  {
+   "scientific_name": "Lanius meridionalis",
+   "common_name_fr": "Pie-grièche méridionale",
+   "why_fr": "Très semblable, gris plus clair et blanc plus étendu, fin sourcil blanc visible ; chant moins fluide."
+  },
+  {
+   "scientific_name": "Lanius minor",
+   "common_name_fr": "Pie-grièche à poitrine rose",
+   "why_fr": "Plus petite, queue plus courte, large bandeau noir remontant sur le front, absence de sourcil blanc."
+  },
+  {
+   "scientific_name": "Lanius collurio",
+   "common_name_fr": "Pie-grièche écorcheur",
+   "why_fr": "Nettement plus petite, dos châtain chez le mâle, cris plus aigus et secs, chant grinçant."
+  }
+ ],
+ "rarity_note": "Très rare en France, uniquement de passage et hivernante ; jamais nicheuse régulière. Déclin marqué lié à la destruction des landes et prairies.",
+ "fun_facts": [
+  "Mâle et femelle chantent tous deux, souvent en duo, pour défendre leur territoire commun, un comportement rare chez les passereaux.",
+  "Elle embroche ses proies sur des épines d'arbustes ou du fil barbelé : cette réserve de nourriture s'appelle un « lardoir ».",
+  "Malgré son appartenance aux passereaux, elle chasse avec l'efficacité d'un petit rapace."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pie-gri%C3%A8che_grise",
+  "https://en.wikipedia.org/wiki/Great_grey_shrike",
+  "https://www.oiseaux.net/oiseaux/excubitor/pie-grieche-grise.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

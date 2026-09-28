@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Cisticola juncidis",
+ "common_name_fr": "Cisticole des joncs",
+ "birdnet_label": "Cisticola juncidis_Cisticole des joncs",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Cisticolidae",
+  "family_common": "Cisticolas and Allies",
+  "genus": "Cisticola",
+  "species": "Cisticola juncidis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Cisticole des joncs",
+   "url": "https://fr.wikipedia.org/wiki/Cisticole_des_joncs",
+   "description": "espèce d'oiseaux passériformes de la famille des cisticolidae",
+   "extract": "La Cisticole des joncs est une espèce de passereaux de la famille des Cisticolidae.",
+   "fulltext_chars": 6260
+  },
+  "en": {
+   "title": "Zitting cisticola",
+   "url": "https://en.wikipedia.org/wiki/Zitting_cisticola",
+   "description": "Species of bird",
+   "extract": "The zitting cisticola, formerly also fan-tailed warbler or streaked fantail warbler, is a widely distributed Old World warbler in the family Cisticolidae, whose breeding range includes western and southern Europe, Africa outside the deserts and rainforest, and southern Asia down to northern Australia. A small bird found mainly in grasslands, it is best identified by its rufous rump; in addition it lacks any gold on the collar and the brownish tail is tipped with white. During the breeding season males have a zigzagging flight display accompanied by regular \"zit\" calls that give it its English name. They build their pouch nest suspended within a clump of grass.",
+   "fulltext_chars": 7763
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/17/Zitting_Cisticola_-_Cisticola_juncidis.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1280,
+  "height": 1024,
+  "file": "Zitting_Cisticola_-_Cisticola_juncidis.JPG",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/1/17/Zitting_Cisticola_-_Cisticola_juncidis.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Anton Croos",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Zitting_Cisticola_-_Cisticola_juncidis.JPG"
+ },
+ "france_universe": {
+  "max_score": 0.39,
+  "cities": {
+   "Le Mans": 0.195,
+   "Pornic": 0.313,
+   "Rennes": 0.256,
+   "Poitiers": 0.195,
+   "Paris": 0.128,
+   "Lille": 0.065,
+   "Strasbourg": 0.033,
+   "Lyon": 0.082,
+   "Grenoble": 0.085,
+   "Marseille": 0.213,
+   "Toulouse": 0.187,
+   "Bordeaux": 0.231,
+   "Brest": 0.229,
+   "Ajaccio": 0.39,
+   "Clermont-Ferrand": 0.108,
+   "Chamonix": 0.056,
+   "Perpignan": 0.237,
+   "Nancy": 0.051
+  },
+  "monthly_scores": [
+   0.3416,
+   0.3427,
+   0.39,
+   0.3705,
+   0.3441,
+   0.3585,
+   0.3682,
+   0.3447,
+   0.275,
+   0.2837,
+   0.3149,
+   0.3383
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:15Z"
+}

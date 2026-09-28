@@ -1,0 +1,92 @@
+{
+ "scientific_name": "Larus marinus",
+ "common_name_fr": "Goéland marin",
+ "birdnet_label": "Larus marinus_Goéland marin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Charadriiformes",
+  "family": "Laridae",
+  "family_common": "Gulls, Terns, and Skimmers",
+  "genus": "Larus",
+  "species": "Larus marinus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Goéland marin",
+   "url": "https://fr.wikipedia.org/wiki/Go%C3%A9land_marin",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Goéland marin est une espèce d'oiseaux marins Charadriiformes de la famille des Laridae. Selon la classification de référence du Congrès ornithologique international (version 15.2, 2026), c'est une espèce monotypique.",
+   "fulltext_chars": 12420
+  },
+  "en": {
+   "title": "Great black-backed gull",
+   "url": "https://en.wikipedia.org/wiki/Great_black-backed_gull",
+   "description": "Species of bird",
+   "extract": "The great black-backed gull is the largest member of the gull and tern family Laridae. It is a very aggressive hunter, pirate and scavenger which breeds on the North Atlantic coasts and islands of northern Europe and northeastern North America. Southern populations are generally sedentary, while those breeding in the far north migrate farther south in winter. A few also move inland to large lakes and reservoirs. The adult has a white head, neck and underparts, dark blackish-grey wings and back, pink legs and the bill yellow with a red spot.",
+   "fulltext_chars": 18634
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Great_Black-backed_Gull_Larus_marinus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3358,
+  "height": 2678,
+  "file": "Great_Black-backed_Gull_Larus_marinus.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Great_Black-backed_Gull_Larus_marinus.jpg/1920px-Great_Black-backed_Gull_Larus_marinus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Great_Black-backed_Gull_Larus_marinus.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.7727,
+  "cities": {
+   "Le Mans": 0.31,
+   "Pornic": 0.632,
+   "Rennes": 0.613,
+   "Poitiers": 0.21,
+   "Paris": 0.144,
+   "Lille": 0.202,
+   "Toulouse": 0.023,
+   "Bordeaux": 0.168,
+   "Brest": 0.773,
+   "Ajaccio": 0.027,
+   "Clermont-Ferrand": 0.035,
+   "Perpignan": 0.013,
+   "Nancy": 0.014
+  },
+  "monthly_scores": [
+   0.7064,
+   0.6853,
+   0.7263,
+   0.7139,
+   0.6266,
+   0.6389,
+   0.6942,
+   0.7727,
+   0.7682,
+   0.7687,
+   0.733,
+   0.7206
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:35:42Z"
+}

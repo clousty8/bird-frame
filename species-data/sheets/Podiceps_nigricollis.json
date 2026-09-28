@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Podiceps nigricollis",
+ "summary_fr": "Le Grèbe à cou noir est un petit grèbe d'eau douce remarquablement sociable, formant souvent de grandes colonies lors de la reproduction. En plumage nuptial, on le reconnaît à son cou noir profond, ses joues blanches et ses élégantes touffes dorées sur les côtés de la tête. Le reste du corps est noir à noir-brun, avec des flancs roux ardent contrastant avec le ventre blanc. L'hiver, son plumage devient plus terne, avec un dos et une calotte noirs mais des joues grises. Excellent plongeur, il capture insectes, petits poissons et crustacés en immersion. C'est probablement le grèbe le plus nombreux au monde, avec plusieurs millions d'individus. Bien que migrateur partiel en France, certaines populations restent toute l'année aux latitudes plus méridionales.",
+ "habitat": "Petits et moyens plans d'eau douce à végétation abondante en période de reproduction ; lacs, étangs et estuaires lors de l'hivernage, aussi en eaux côtières marines.",
+ "diet": "Insectes aquatiques (adultes et larves), petits poissons, crustacés, mollusques et têtards en été ; régime plus piscivore en hiver. Se nourrit aussi d'artémies en lacs hypersalés.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France, surtout en eaux côtières et estuaires ; les populations du sud de l'Europe et d'Asie peuvent être résidentes ; migrations vers Méditerranée et mer Noire.",
+  "niche": "Partout en France d'avril à août, sur les plans d'eau douce avec végétation littérale abondante.",
+  "passage": "Mouvements marqués en mars et d'août à septembre lors des migrations vers le sud."
+ },
+ "seasonality_fr": "Visible surtout du printemps à l'automne en eau douce ; hivernage en eaux côtières et intérieures moins fréquent en France septentrionale. Très bruyant en period estivale, silencieux en hiver.",
+ "song_fr": "Trilles aigus (bibibib) et sifflements hauts (houiiti) lors de la reproduction, utilisés en parade nuptiale et défense territoriale. Généralement silencieux en hiver.",
+ "lookalikes": [
+  {
+   "scientific_name": "Podiceps auritus",
+   "common_name_fr": "Grèbe esclavon",
+   "why_fr": "Grèbe de taille similaire ; en plumage nuptial, la calotte noire descend moins bas que les yeux chez le Grèbe esclavon."
+  },
+  {
+   "scientific_name": "Podiceps cristatus",
+   "common_name_fr": "Grèbe huppé",
+   "why_fr": "Plus grand, avec deux aigrettes (et non touffes dorées) ; cou plus long et corps plus massif."
+  },
+  {
+   "scientific_name": "Tachybaptus ruficollis",
+   "common_name_fr": "Grèbe castagneux",
+   "why_fr": "Beaucoup plus petit, avec une bande blanche aux ailes peu visible ; cou et tête proportionnellement plus grands."
+  }
+ ],
+ "rarity_note": "Régulier mais peu commun en France, surtout régional avec concentration sur les étendues d'eau littorales et intérieures importantes. Probablement le grèbe le plus nombreux globalement.",
+ "fun_facts": [
+  "Le Grèbe à cou noir effectue des migrations de plus de 6 000 km pour atteindre ses sites d'hivernage, en utilisant ses réserves de graisse pour alimenter ces vols épuisants.",
+  "Pendant sa mue après migration, le grèbe peut doubler de poids en quelques semaines et devient complètement inapte à voler."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Gr%C3%A8be_%C3%A0_cou_noir",
+  "https://en.wikipedia.org/wiki/Black-necked_grebe",
+  "https://www.oiseaux.net/oiseaux/grebes.podiceps.nigricollis.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

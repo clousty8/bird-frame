@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Branta canadensis",
+ "summary_fr": "Grande oie nord-américaine aux marquages distinctifs de tête noire et gorge blanche, la Bernache du Canada s'est progressivement établie en Europe depuis le XVIIe siècle. Longtemps migrante, elle forme désormais des populations permanentes en France grâce à l'absence de prédateurs et à l'abondance de zones humides aménagées. Son cri caractéristique « honk » grave et sonore, émis en vol ou au repos, est reconnaissable entre tous. Herbivore stricte, elle pâture intensivement les graminées des pelouses et rives, ce qui peut la rendre nuisible en zones agricoles. Extrêmement sociale, elle forme des formations en V spectaculaires lors de ses migrations, et vit en couples fidèles toute leur vie durant.",
+ "habitat": "Zones humides variées : lacs, étangs, réservoirs, marais, rivières, ainsi que parcs urbains et pelouses de golf périurbaines. Passe autant de temps sur terre que dans l'eau.",
+ "diet": "Herbivore : graminées, plantes aquatiques, céréales, trèfle. Glanage en zones cultivées et dans les parcs.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Présente en France durant l'hiver (novembre à février) où elle est rejointe par des populations migratrices du nord de l'Europe. De nombreuses populations deviennent sédentaires, hivernant dans les parcs et zones humides.",
+  "niche": "Se reproduit en nombre croissant en France, notamment en zones humides protégées et parcs. Appariage et nidification d'avril à juillet.",
+  "passage": "Passages migratoires visibles en mars (avant nidification) et d'octobre à novembre (retour d'hivernage), les populations résidentes éclipsent progressivement ces mouvements."
+ },
+ "seasonality_fr": "Visible toute l'année en France. Abondance maximale de décembre à février lors de l'arrivée des hivernants du nord. Les cris sont audibles en permanence, amplifiés au lever et coucher de soleil ainsi qu'en période de reproduction.",
+ "song_fr": "Cri caractéristique grave et puissant « honk » ou « ê-haouc » émis par les mâles, particulièrement en vol en formation V. Femelle produit des cris plus aigus et courts. Cris d'alerte aigus et répétés quand le nid ou les jeunes sont menacés.",
+ "lookalikes": [
+  {
+   "scientific_name": "Branta bernicla",
+   "common_name_fr": "Bernache cravant",
+   "why_fr": "Plus petite, cri similaire grave mais plus bref, parfois difficile à distinguer en vol lointain."
+  },
+  {
+   "scientific_name": "Branta leucopsis",
+   "common_name_fr": "Bernache nonnette",
+   "why_fr": "Taille comparable, cris graves similaires, motif facial blanc mais différent de la Bernache du Canada."
+  },
+  {
+   "scientific_name": "Anser fabalis",
+   "common_name_fr": "Oie des moissons",
+   "why_fr": "Oie sauvage de taille comparable, cris plus aigus mais pouvant se chevaucher en mixtes hivernales."
+  }
+ ],
+ "rarity_note": "Commune et en augmentation partout en France depuis les années 2000. Introduite et maintenant bien établie, elle forme des populations permanentes importantes, particulièrement en régions septentrionales et zones urbaines.",
+ "fun_facts": [
+  "La Bernache du Canada s'est naturalisée en Europe en trois vagues : introduction délibérée au XVIIe siècle en France par Champlain, puis fuite d'élevages ornementaux aux XVIIe-XIXe siècles en Grande-Bretagne et Scandinavie.",
+  "Elle est capable de plonger et de rester sous l'eau plusieurs secondes pour capturer des plantes aquatiques, contrairement à la plupart des oies de surface.",
+  "Son poids (2,6 à 6,5 kg) l'a rendue tristement célèbre lors de l'amerrissage du vol US Airways 1549 sur l'Hudson en 2009, démontrant son potentiel de danger pour l'aviation."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Bernache_du_Canada",
+  "https://en.wikipedia.org/wiki/Canada_goose",
+  "https://www.oiseaux.net/oiseaux/bernache.du.canada.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

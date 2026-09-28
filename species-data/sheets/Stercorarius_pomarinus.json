@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Stercorarius pomarinus",
+ "summary_fr": "Le Labbe pomarin est un oiseau marin de la famille des Stercorariidae, proche des grands labbes mais plus petit que le Labbe à longue traîne. Cet oiseau élancé des mers arctiques se reconnaît à sa silhouette puissante et trapue, ses ailes larges, et chez l'adulte reproducteur, ses deux plumes centrales de la queue fortement allongées. Le Labbe pomarin existe en trois formes de plumage : claire, intermédiaire et foncée, toutes marquées d'une tache blanche caractéristique au poignet de l'aile. Migrateur strict, il quitte ses zones de reproduction du grand nord pour passer l'hiver en mer tropicale. En France, on ne l'observe qu'exceptionnellement durant les passages migratoires, surtout au-dessus des eaux côtières. Comme tous les labbes, il se nourrit principalement en harcelant d'autres oiseaux marins jusqu'à ce qu'ils lâchent leur butin, une stratégie efficace mais énergivore qui lui permet de survivre en haute mer.",
+ "habitat": "Eaux côtières et hauturières; zones marines durant l'hivernage, toundra arctique durant la reproduction.",
+ "diet": "Poisson, crustacés, charognes marines. Capture aussi par vol des oiseaux jusqu'à la taille d'un goéland commun et des proies comme les lemmings. Harasse d'autres oiseaux marins (goélands, sternes, fous) pour les forcer à régurgiter.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": "Ne niche pas en France. Reproduction dans l'Arctique eurasiatique et nord-américain.",
+  "passage": "Passages possibles durant les migrations, principalement au printemps et en automne, surtout au-dessus des eaux côtières océaniques."
+ },
+ "seasonality_fr": "Exceptionnel en France, observé uniquement durant les passages migratoires, essentiellement entre mars-avril et septembre-octobre.",
+ "song_fr": "Cris durs et bavards, appels rauques ressemblant à « kiar » ou « hié-hié » répétés. Vocalises moins développées que celles des passereaux.",
+ "lookalikes": [
+  {
+   "scientific_name": "Stercorarius parasiticus",
+   "common_name_fr": "Labbe parasite",
+   "why_fr": "Taille similaire, forme en vol et cris proches; différencier par la morphologie générale plus gracile du parasite et l'absence de plumes caudales aussi développées."
+  },
+  {
+   "scientific_name": "Stercorarius longicaudus",
+   "common_name_fr": "Labbe à longue traîne",
+   "why_fr": "Silhouette et vocalises semblables; le longicaudus est plus léger et possède une traîne caudale démesurée."
+  },
+  {
+   "scientific_name": "Catharacta skua",
+   "common_name_fr": "Grand Labbe",
+   "why_fr": "Plus gros et plus puissant; confusion possible à distance par les cris, mais silhouette bien plus massive et sombre."
+  }
+ ],
+ "rarity_note": "Très rare en France, limité au passage océanique au-dessus des eaux côtières. Observations sporadiques, surtout observateurs côtiers.",
+ "fun_facts": [
+  "Le nom « Labbe » vient du mot français archaïque « labe » (voleur), rappelant son comportement pirate de capture de nourriture aux dépens d'autres oiseaux marins.",
+  "Les adultes reproducteurs arborent deux étonnantes plumes caudales centrales allongées et torsadées, parfois longues de 10 cm, qui disparaissent après la reproduction.",
+  "Ses trois formes de plumage distinct — claire, sombre et intermédiaire — rendent l'identification en vol encore plus complexe, surtout chez les jeunes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Labbe_pomarin",
+  "https://en.wikipedia.org/wiki/Pomarine_jaeger"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

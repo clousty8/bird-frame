@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Larus fuscus",
+ "summary_fr": "Le Goéland brun est un grand oiseau marin migrateur au dos gris ou noir selon la sous-espèce, plus petit et plus élancé que le Goéland argenté. Nicheur des côtes atlantiques et arctiques d'Europe, il est caractérisé par un bec jaune à tache rouge et des pattes jaunes. Ses populations nordiques entreprennent des migrations de longue distance vers les zones tropicales d'Afrique et d'Asie, tandis que les oiseaux d'Europe occidentale hivernent en partie sur les côtes françaises et en Méditerranée. Oiseau marin performant et agile, il chasse le poisson en plongeant depuis un vol de recherche et se nourrit aussi de déchets de pêche, de mollusques et de petits oiseaux. Grégaire, il niche en colonies où les couples construisent des nids au sol tapissés de végétation.",
+ "habitat": "Côtes rocheuses et sableuses, îles côtières, estuaires, lacs intérieurs, ports et lagunes. En migration et hivernage, eaux côtières et pélagiques, moins lié au littoral que le Goéland argenté.",
+ "diet": "Petits poissons (notamment hareng), invertébrés marins (crabes, mollusques), déchets de pêche, œufs et oisillons d'autres oiseaux, charognes, petits rongeurs, vers et insectes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Une grande partie des oiseaux d'Europe occidentale hivernent sur la côte atlantique française et en Méditerranée. Les populations nordiques hivernent en Afrique de l'Ouest, de l'Est et jusqu'à l'Océan indien.",
+  "niche": "Côtes et îles d'Europe atlantique et arctique, du nord de la Russie à la Péninsule Ibérique et Islande. Nichées avril-mai, deux à trois œufs, incubation 26-31 jours.",
+  "passage": "Migrations marquées fin juin à novembre (départ) et février à juin (retour), avec pics en septembre et avril-mai selon les populations."
+ },
+ "seasonality_fr": "Présent toute l'année en France côtière et méditerranéenne ; plus abondant en hiver lorsque les migrateurs nordiques rejoignent les hivernants locaux. Visible en toute saison sur les grands lacs intérieurs.",
+ "song_fr": "Cri nasal et aigre ressemblant à celui du Goéland argenté mais plus grave et plus désagréable ; divers cris miaulants et jappements aigus en situations d'agitation.",
+ "lookalikes": [
+  {
+   "scientific_name": "Larus argentatus",
+   "common_name_fr": "Goéland argenté",
+   "why_fr": "Appels et cris très similaires, différence marquée surtout sur le dos plus clair et le bec plus épais du Goéland argenté."
+  },
+  {
+   "scientific_name": "Larus marinus",
+   "common_name_fr": "Goéland marin",
+   "why_fr": "Appels profonds proches ; confusion possible sur les cris, distinction par la taille plus grande et le dos plus noir du Goéland marin."
+  },
+  {
+   "scientific_name": "Larus canus",
+   "common_name_fr": "Goéland cendré",
+   "why_fr": "Cris plus aigus et grinçants, dos plus clair, plus petit ; confusion possible en vol ou à distance sur les appels."
+  }
+ ],
+ "rarity_note": "Très commun sur les côtes françaises atlantiques et méditerranéennes, régulier sur les lacs intérieurs. Espèce régulière en France toute l'année, abondante en hiver.",
+ "fun_facts": [
+  "Le Goéland brun est plus agile en vol que le Goéland argenté grâce à ses ailes plus étroites et pointues, lui permettant de couvrir des distances de plusieurs milliers de kilomètres.",
+  "Certaines sous-espèces orientales (notamment L. f. fuscus de la Baltique) ont un dos quasi noir, ressemblant davantage au Goéland marin."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Go%C3%A9land_brun",
+  "https://en.wikipedia.org/wiki/Lesser_black-backed_gull"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

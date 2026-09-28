@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Melanocorypha calandra",
+ "summary_fr": "L'Alouette calandre est une grande alouette robuste des régions méditerranéennes et des steppes eurasiatiques, caractérisée par son plumage gris-brun tacheté et ses larges taches noires sur les flancs de la poitrine. Son chant musical, comparé à celui de l'Alouette des champs mais plus lent et mélancolique, a longtemps encharmé les écoutants : elle figurait parmi les oiseaux favoris des cagiers. En France, les observations sont très localisées et irrégulières, limitées aux régions méditerranéennes et à quelques passages. Les populations occidentales sont largement sédentaires, tandis que celles d'Asie centrale et de Russie effectuent des migrations marquées vers le sud en hiver. Friande des plaines ouvertes cultivées et des steppes à herbes denses, elle s'associe volontiers en grands vols hors de la reproduction.",
+ "habitat": "Plaines ouvertes, steppes, cultures céréalières sèches non irriguées, jachères, pâturages secs des régions méditerranéennes.",
+ "diet": "Graines et graminées en hiver ; insectes durant la reproduction.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "de passage",
+  "hiverne": null,
+  "niche": "Absente de France ; se reproduit de la Turquie et du Caucase jusqu'en Mongolie.",
+  "passage": "Très rare et irrégulière en France, principalement en régions méditerranéennes et sud-ouest."
+ },
+ "seasonality_fr": "Très rare en France ; observations sporadiques en régions méditerranéennes, surtout en migration.",
+ "song_fr": "Chant musical et mélancolique, plus lent et grave que celui de l'Alouette des champs, combinant des phrases cristallines variées ; elle chante remarquablement, ce qui a inspiré le proverbe toscan « Canta come una calandra ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Alauda arvensis",
+   "common_name_fr": "Alouette des champs",
+   "why_fr": "Taille voisine et chant similaire, mais plus rapide et aigu ; patterns alaires différents en vol."
+  },
+  {
+   "scientific_name": "Lullula arborea",
+   "common_name_fr": "Alouette lulu",
+   "why_fr": "Autres patterns de vol (ailes arrondies plus courtes) et chant mélancolique distinct."
+  },
+  {
+   "scientific_name": "Calandrella brachydactyla",
+   "common_name_fr": "Alouette calandrelle",
+   "why_fr": "Plus petite, patterns de vol et sombrage alaire différents, chant plus sec."
+  }
+ ],
+ "rarity_note": "Très rare en France, absente de la nidification. Observations limitées aux zones méditerranéennes en passage irrégulier.",
+ "fun_facts": [
+  "Ses prouesses vocales lui ont valu d'être un oiseau de cage très prisé en Méditerranée ; le proverbe espagnol « Romance del prisionero » la cite comme seule ressource du prisonnier pour connaître le jour.",
+  "Les populations occidentales, largement sédentaires et grégaires, forment de grands vols en automne-hiver dans les cultures."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Alouette_calandre",
+  "https://en.wikipedia.org/wiki/Calandra_lark"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

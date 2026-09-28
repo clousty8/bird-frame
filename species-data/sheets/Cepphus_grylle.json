@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Cepphus grylle",
+ "summary_fr": "Le Guillemot à miroir est un petit alcidé marin au plumage noir et blanc très distinctif. En plumage d'été, son corps est entièrement noir sauf pour un large miroir blanc visible sur les ailes, les pattes et l'intérieur du bec rouges étant tout aussi caractéristiques. En hiver, il devient pâle avec le dos poivre et sel. Oiseau côtier très fidèle à ses sites de reproduction, il se maintient souvent près de ses falaises rocheuses toute l'année, bien que les populations arctiques migrent vers le sud quand l'hiver ferme les eaux littorales. Il plonge peu profond, rarement au-delà de 40 m, pour capturer des petits poissons et crustacés benthiques. Excellent plongeur ailé qui se propulse sous l'eau de manière remarquablement gracieuse, il niche en petites colonies isolées ou en paires sur les falaises côtières de l'Atlantique nord.",
+ "habitat": "Littoraux rocheux, falaises côtières, criques et îles rocheuses de l'océan Atlantique Nord et des mers nordiques, jusqu'aux régions arctiques.",
+ "diet": "Petits poissons (lançons, harengs), crustacés benthiques et mollusques ; il plonge pour chasser le long des côtes dans les eaux peu profondes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France exclusivement près de Brest et des côtes bretonnes ; hors de France, les oiseaux d'Islande et de Scandinavie se dispersent vers les eaux libres de glace.",
+  "niche": "Ne niche pas actuellement en France ; population reproductrice strictement limitée aux îles Britanniques, à la Scandinavie et à l'Arctique.",
+  "passage": "Très rare en France ; seules les côtes bretonnes reçoivent occasionnellement des hivernants lors d'hivers rigoureux."
+ },
+ "seasonality_fr": "Présent toute l'année mais très localisé en France, presque exclusivement à Brest et en Bretagne nord. Plus visible en hiver quand les populations arctiques se dispersent vers le sud.",
+ "song_fr": "Sifflement aigu et perçant émis particulièrement sur les sites de nidification ; cri d'alarme aigu. Reste généralement silencieux hors de la période de reproduction.",
+ "lookalikes": [
+  {
+   "scientific_name": "Uria aalge",
+   "common_name_fr": "Guillemot marmette",
+   "why_fr": "Morphologie similaire mais présence absente en France; plus gros et cris différents."
+  },
+  {
+   "scientific_name": "Cepphus columba",
+   "common_name_fr": "Guillemot colombin",
+   "why_fr": "Ressemblance acoustique en Arctique (Pacifique nord-américain) mais absent d'Europe."
+  }
+ ],
+ "rarity_note": "Très rare en France, presque exclusivement en Bretagne côtière notamment à Brest. Hiverne occasionnellement lors d'hivers rigoureux.",
+ "fun_facts": [
+  "Les guillemots à miroir sont des plongeurs exceptionnels, utilisant leurs ailes pour se propulser sous l'eau comme des manchots miniatures.",
+  "Les couples restent fidèles à leur site de nidification année après année, nichant dans les mêmes crevasses rocheuses.",
+  "Le « miroir » blanc des ailes est particulièrement visible en vol et disparaît en plumage hivernal pâle."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Guillemot_%C3%A0_miroir",
+  "https://en.wikipedia.org/wiki/Black_guillemot",
+  "https://oiseaux.net/cepphus-grylle.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

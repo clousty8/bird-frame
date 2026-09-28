@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Spinus spinus",
+ "summary_fr": "Petit fringillidé aux plumes jaunes et noires contrastées, le Tarin des aulnes captive par son tempérament alerte et ses mouvements élégants. Sociable et actif, il se déplace en bandes parfois importantes, cherchant sa nourriture de manière acrobatique, souvent suspendu la tête en bas comme les mésanges. En France, cette espèce affiche une présence migrante partielle : certaines populations y résident, tandis que d'autres arrivent à l'automne du nord et de l'est de l'Europe pour hiverner dans les zones alimentaires riches. Son chant cristallin et son cri perçant résonnent notamment en hiver autour des aulnes et bouleaux, ses arbres fruitiers préférés. Phénomène remarquable et fascinant, tous les quelques ans, le Tarin connaît des irruptions migratoires massives et spectaculaires suivant la disponibilité des graines.",
+ "habitat": "Forêts de conifères et bosquets mixtes, haies arborées. Fréquente les aulnes, bouleaux et autres fruitiers en hiver, s'approchant volontiers des jardins et mangeoires.",
+ "diet": "Strictement granivore : graines de conifères (épicéa, sapin, pin), de feuillus (aulne, bouleau, orme) et de plantes herbacées (chardon, pissenlit). Les jeunes à l'envol sont nourris d'insectes.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "En France entière. Les nicheurs locaux sont renforcés par des populations du nord et de l'est de l'Europe. Certaines années, les arrivées hivernales sont massives.",
+  "niche": "Partout en France dans les forêts de conifères, d'avril à juillet. Généralement deux nichées. Le nid est placé en hauteur, souvent à plus de 20 m dans la cime d'un conifère.",
+  "passage": "Passages marqués en mars (retour vers le nord), puis d'octobre à novembre (arrivée des hivernants)."
+ },
+ "seasonality_fr": "Présent toute l'année en France. Très actif et visible en hiver autour des aulnes et dans les mangeoires. Chante et crie régulièrement, particulièrement lors des migrations.",
+ "song_fr": "Chant rapide et aigu, gazouillis incessant et musical. Cri de vol caractéristique : « tsî-e » ou « tlie dih ». Cri d'alarme rauque « tsou-ît ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Serinus serinus",
+   "common_name_fr": "Serin cini",
+   "why_fr": "Même taille, livrée jaune et noire. Se confond facilement acoustiquement, cri similaire."
+  },
+  {
+   "scientific_name": "Carduelis citrinella",
+   "common_name_fr": "Venturon montagnard",
+   "why_fr": "Petite taille, plumage jaune marqué. Chant et cris aigus pouvant prêter à confusion."
+  },
+  {
+   "scientific_name": "Chloris chloris",
+   "common_name_fr": "Verdier d'Europe",
+   "why_fr": "Taille comparable, allure générale proche. Cris perçants semblables, difficiles à distinguer en vol."
+  }
+ ],
+ "rarity_note": "Assez régulier en France, surtout de l'automne au printemps. Moins abondant que le Chardonneret élégant mais bien établi toute l'année.",
+ "fun_facts": [
+  "Ses irruptions migratoires spectaculaires tous les quelques années sont probablement liées à la production de graines : quand l'épicéa de Norvège produit d'abondantes graines, la population explose et se disperse largement.",
+  "Un acrobate de l'alimentation : il se suspend la tête en bas pour extraire les graines des cônes, imité en cela par les mésanges. Son bec fin et pointu lui permet d'accéder aux graines inaccessibles aux autres oiseaux."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Tarin_des_aulnes",
+  "https://en.wikipedia.org/wiki/Eurasian_siskin",
+  "https://www.oiseaux.net/spinus.spinus.html",
+  "https://www.inpn.mnhn.fr/espece/cd_nom/4380"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

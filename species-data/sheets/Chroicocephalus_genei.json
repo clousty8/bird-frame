@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Chroicocephalus genei",
+ "summary_fr": "Le Goéland railleur est une mouette de taille moyenne vivant autour de la Méditerranée et de l'océan Indien nord-occidental. Légèrement plus grand que la mouette rieuse, il s'en distingue par son absence de capuchon noir en été et par son profil plus élancé. Cette espèce niche en petites colonies sur des îlots et des lagunes côtières peu végétalisés, particulièrement en Camargue depuis la fin des années 1940. Migrateur, il abandonne ses sites de reproduction avant l'hiver pour gagner les côtes d'Afrique du Nord, la Méditerranée, la mer Noire et la péninsule Arabique. Il se nourrit principalement en eau peu profonde, à la surface, capturant poissons et invertébrés marins avec une prédilection pour les proies qu'il détecte en vol stationnaire ou en plongeon en piqué.",
+ "habitat": "Lagunes côtières, lacs saumâtres, estuaires et îlots peu végétalisés du bassin méditerranéen et du littoral occidental de l'océan Indien.",
+ "diet": "Poissons (environ 50 % de l'alimentation), invertébrés marins, crustacés et insectes capturés en vol ou à la surface de l'eau.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Littoral méditerranéen et côtes d'Afrique du Nord, mer Noire, Caspienne et péninsule Arabique ; quelques individus hivernent en France.",
+  "niche": "Camargue et lagunes côtières méditerranéennes en France, colonie principale en Provence-Alpes-Côte d'Azur ; avril à juillet.",
+  "passage": "Passages visibles en mars et octobre-novembre, notamment en régions méditerranéennes."
+ },
+ "seasonality_fr": "Visible surtout de février à octobre, avec un pic en été pour les nicheurs locaux et en automne lors du passage migratoire. Observations hivernales possibles en Méditerranée.",
+ "song_fr": "Cris nasillards et rauques typiques des goélands, ressemblant à ceux de la mouette rieuse mais généralement plus profonds ; appels « ka-ka-ka » répétitifs en situations de conflit.",
+ "lookalikes": [
+  {
+   "scientific_name": "Chroicocephalus ridibundus",
+   "common_name_fr": "Mouette rieuse",
+   "why_fr": "Taille similaire et absence de capuchon en été ; cris nasillards proches, confusion possible en écoute."
+  },
+  {
+   "scientific_name": "Larus michahellis",
+   "common_name_fr": "Goéland leucophée",
+   "why_fr": "Même habitat méditerranéen, silhouette et vocalisations semblables, plus grand mais confusion auditive envisageable."
+  },
+  {
+   "scientific_name": "Ichthyaetus melanocephalus",
+   "common_name_fr": "Mouette mélanocéphale",
+   "why_fr": "Partage l'habitat méditerranéen et les lagunes côtières ; répertoire vocal partiellement comparable."
+  }
+ ],
+ "rarity_note": "Peu commun en France, confiné principalement aux régions méditerranéennes. Occasionnel en migration en Provence et Languedoc-Roussillon, très rare dans le nord.",
+ "fun_facts": [
+  "Son nom scientifique rend hommage à Giuseppe Gené, un naturaliste italien du XIXe siècle.",
+  "C'est un des rares goélands à être bagué et suivi scientifiquement en France depuis 1997, ce qui en fait une espèce clé pour l'étude des migrations méditerranéennes.",
+  "Il met deux ans à atteindre son plumage définitif, comme la plupart des goélands, les jeunes étant maculés de brun et difficiles à identifier."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Go%C3%A9land_railleur",
+  "https://en.wikipedia.org/wiki/Slender-billed_gull",
+  "https://oiseaux.net",
+  "https://www.avibase.bsc-eoc.org/species.jsp?avibaseid=79E5B96D06C72B71",
+  "https://www.ebird.org/species/slbgul/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

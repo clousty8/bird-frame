@@ -1,0 +1,96 @@
+{
+ "scientific_name": "Asio otus",
+ "common_name_fr": "Hibou moyen-duc",
+ "birdnet_label": "Asio otus_Hibou moyen-duc",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Strigiformes",
+  "family": "Strigidae",
+  "family_common": "Owls",
+  "genus": "Asio",
+  "species": "Asio otus"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Hibou moyen-duc",
+   "url": "https://fr.wikipedia.org/wiki/Hibou_moyen-duc",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Hibou moyen-duc est une espèce d'oiseaux holarctique de la famille des Strigidae.",
+   "fulltext_chars": 6494
+  },
+  "en": {
+   "title": "Long-eared owl",
+   "url": "https://en.wikipedia.org/wiki/Long-eared_owl",
+   "description": "Species of owl",
+   "extract": "The long-eared owl, also known as the northern long-eared owl or informally as the lesser horned owl or cat owl, is a medium-sized typical owl with an extensive range. The genus name, Asio, is Latin for \"horned owl\", and the specific epithet, otus, is derived from Greek and refers to a small eared owl. It breeds in Europe and the Palearctic, as well as in North America.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Asio_Otus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 791,
+  "height": 788,
+  "file": "Asio_Otus.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Asio_Otus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Goéry Valance",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Asio_Otus.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1962,
+  "cities": {
+   "Le Mans": 0.017,
+   "Pornic": 0.013,
+   "Rennes": 0.015,
+   "Poitiers": 0.019,
+   "Paris": 0.023,
+   "Lille": 0.022,
+   "Strasbourg": 0.015,
+   "Lyon": 0.025,
+   "Grenoble": 0.031,
+   "Marseille": 0.052,
+   "Toulouse": 0.027,
+   "Bordeaux": 0.024,
+   "Brest": 0.011,
+   "Ajaccio": 0.196,
+   "Clermont-Ferrand": 0.026,
+   "Chamonix": 0.023,
+   "Perpignan": 0.037,
+   "Nancy": 0.017
+  },
+  "monthly_scores": [
+   0.1941,
+   0.1962,
+   0.147,
+   0.0909,
+   0.0746,
+   0.0799,
+   0.0822,
+   0.0629,
+   0.0469,
+   0.0901,
+   0.1616,
+   0.1858
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:39:08Z"
+}

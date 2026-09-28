@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Tetrastes bonasia",
+ "summary_fr": "La Gélinotte des bois est un petit gallinacé forestier d'Eurasie, aussi discret que farouche, qui vit dissimulé dans les sous-bois denses de conifères, en particulier l'épicéa. Longtemps classée dans le genre Bonasa avant une révision génétique en 2009, elle occupait autrefois une grande partie de l'Europe de l'Ouest, mais la simplification des forêts et la disparition des sous-bois variés l'ont fait reculer presque partout. En France, ses derniers bastions montagnards des Vosges et des Alpes se sont effondrés, l'espèce y étant considérée comme quasi éteinte depuis 2020 malgré de rares observations forestières. Le modèle de détection utilisé ici ne la situe d'ailleurs en France que de façon exceptionnelle, lors des mois d'hiver et avec une confiance très faible, loin de ses derniers refuges montagnards connus. Le mâle défend un même territoire toute sa vie, tandis que la femelle, plus terne, vient l'y rejoindre au printemps pour nicher à même le sol. Son cri aigu et roulé, presque insaisissable, reste souvent le seul indice de sa présence dans les sous-bois silencieux qu'elle habite.",
+ "habitat": "Forêts de conifères denses et humides, notamment à épicéa, des massifs montagnards européens aux forêts boréales.",
+ "diet": "Bourgeons, graines et baies en hiver ; insectes, limaces et autres invertébrés en période de reproduction.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Signalée en France seulement l'hiver par le modèle de détection utilisé ici, de façon très ponctuelle et à faible confiance (ex. région d'Ajaccio).",
+  "niche": "Ne se reproduit pas dans la zone couverte par ce modèle ; ses foyers historiques (Vosges, Alpes) sont aujourd'hui quasi désertés.",
+  "passage": null
+ },
+ "seasonality_fr": "En France, uniquement détectable l'hiver selon le modèle utilisé ici, et de manière exceptionnelle ; espèce quasi absente le reste de l'année.",
+ "song_fr": "Cri aigu du mâle en roulement rapide « ti-ti-ti-ti-ti » ; celui de la femelle, plus liquide et grinçant.",
+ "lookalikes": [
+  {
+   "scientific_name": "Tetrao urogallus",
+   "common_name_fr": "Grand Tétras",
+   "why_fr": "Même famille et milieu montagnard, mais cri bien plus grave et caverneux."
+  },
+  {
+   "scientific_name": "Lyrurus tetrix",
+   "common_name_fr": "Tétras lyre",
+   "why_fr": "Gallinacé montagnard apparenté, aux cris plus lents et plus grinçants."
+  }
+ ],
+ "rarity_note": "Extrêmement rare en France : quasi éteinte dans ses bastions montagnards historiques, seulement quelques détections hivernales isolées et peu fiables ailleurs.",
+ "fun_facts": [
+  "Reclassée du genre Bonasa vers Tetrastes en 2009 à la suite d'une révision génétique.",
+  "Le mâle occupe le même territoire toute sa vie et le défend farouchement contre ses rivaux."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/G%C3%A9linotte_des_bois",
+  "https://en.wikipedia.org/wiki/Hazel_grouse",
+  "https://www.oiseaux.net/oiseaux/gelinotte.des.bois.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

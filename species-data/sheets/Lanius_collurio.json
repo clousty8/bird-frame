@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Lanius collurio",
+ "summary_fr": "La Pie-grièche écorcheur est un petit passereau de la famille des Laniidae qui arrive en France d'avril à mai pour nicher. Reconnaissable au masque noir caractéristique du mâle et à son dos roux, elle chasse à l'affût depuis des perchoirs bas, avant de fondre sur ses proies au sol ou de les cueillir en vol. Son comportement le plus célèbre lui vaut son nom d'écorcheur : elle empale ses proies les plus grosses sur les épines des buissons, se constituant ainsi de véritables réserves de nourriture pour faire face aux caprices du climat. Grande migratrice nocturne, elle peut parcourir jusqu'à 200 kilomètres par nuit en direction de ses quartiers d'hiver, en Afrique de l'Est puis australe. Son habitat de prédilection reste les campagnes semi-ouvertes, riches en haies épineuses et buissons bas, paysages traditionnels du bocage français qu'elle contribue à qualifier. Après un net déclin au XXe siècle, ses effectifs se sont stabilisés en France, et elle demeure aujourd'hui un précieux indicateur de la qualité des milieux ruraux.",
+ "habitat": "Campagnes semi-ouvertes, bocages, prairies et pâtures parsemés de haies et buissons épineux (prunelier, aubépine). Évite les forêts fermées et les milieux totalement ouverts.",
+ "diet": "Principalement des insectes de taille moyenne à grande (93 %), mais aussi des micromammifères, petits lézards et grenouilles. Chasse à l'affût depuis des perchoirs bas, parfois en vol stationnaire.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Ne passe pas l'hiver en France : gagne l'Afrique de l'Est et australe, du Kenya jusqu'au sud du continent.",
+  "niche": "Toute la France sauf le strict littoral méditerranéen, d'avril à septembre pour la reproduction.",
+  "passage": "Passages marqués en avril-mai à l'arrivée, puis de mi-juillet à mi-août au retour."
+ },
+ "seasonality_fr": "Présente en France d'avril à septembre, avec une activité maximale en juin-juillet pour la reproduction ; observations rares dès octobre.",
+ "song_fr": "Chant rauque et grinçant fait de phrases variées, imitant parfois d'autres oiseaux ; cri d'alarme dur et répété « tsak » ou « dja ».",
+ "lookalikes": [
+  {
+   "scientific_name": "Lanius senator",
+   "common_name_fr": "Pie-grièche à tête rousse",
+   "why_fr": "Même taille et silhouette générale, calotte rousse distinctive chez le mâle, arrive et repart plus tôt en été."
+  },
+  {
+   "scientific_name": "Lanius excubitor",
+   "common_name_fr": "Pie-grièche grise",
+   "why_fr": "Plus grande, dos gris pâle, cris et phrases chantées proches mais structure générale plus massive."
+  },
+  {
+   "scientific_name": "Lanius meridionalis",
+   "common_name_fr": "Pie-grièche méridionale",
+   "why_fr": "Très ressemblante à L. excubitor, confusion acoustique possible mais répartition limitée au sud-est de la France."
+  }
+ ],
+ "rarity_note": "Régulière et bien présente en période de reproduction en France, avec une densité plus faible au nord d'une ligne Nantes-Charleville-Mézières.",
+ "fun_facts": [
+  "Empaler ses proies sur des épines n'est pas un caprice : ces « lardoirs » lui servent de réserves face aux aléas du climat.",
+  "Grande migratrice nocturne, un individu bagué a déjà été retrouvé 700 km plus loin dès le lendemain.",
+  "Espèce bioindicatrice, sa présence signale un bocage riche en haies, en herbages et en gros insectes."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Pie-gri%C3%A8che_%C3%A9corcheur",
+  "https://en.wikipedia.org/wiki/Red-backed_shrike",
+  "https://www.oiseaux.net/oiseaux/pie-grieche.ecorcheur.html",
+  "https://inpn.mnhn.fr/espece/cd_nom/4406"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

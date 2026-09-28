@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Gavia immer",
+ "summary_fr": "Le Plongeon huard, ou Plongeon imbrin (Gavia immer), est le plus grand des quatre plongeons observables en Europe, aussi massif qu'une oie et pouvant dépasser quatre kilogrammes chez les mâles. En plumage nuptial, il arbore une tête noire à reflets verts et bleus, un collier rayé de blanc et un dos en damier ; l'hiver, sa livrée devient gris terne, proche de celle d'un jeune Grand Cormoran. Strictement aquatique, il chasse en plongée profonde, parfois au-delà de 60 mètres, pour capturer poissons, crustacés et mollusques. Monogame, il ne se reproduit jamais en France : il niche en solitaire sur les lacs du Grand Nord, au Canada, au Groenland, en Islande et en Scandinavie. Chez nous, c'est un hivernant peu commun, présent surtout sur les côtes atlantiques et, plus ponctuellement, méditerranéennes, de septembre à avril, avec un pic en décembre-janvier ; quelques individus immatures non reproducteurs peuvent exceptionnellement séjourner au-delà de cette période. Silencieux durant son séjour hexagonal, il ne dévoile son chant si particulier, fait de longs rires et de cris perçants, que sur ses lacs de reproduction nordiques.",
+ "habitat": "Lacs et grandes mares des zones côtières septentrionales pour la nidification ; mers, grands lacs et gravières côtières en hivernage.",
+ "diet": "Essentiellement piscivore : poissons jusqu'à 28 cm (morue, hareng, truite, anguille), complétés de crustacés, mollusques et annélides.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "hivernant",
+  "hiverne": "Côtes atlantiques de l'Europe occidentale, plus rarement en Méditerranée ; parfois sur de grands lacs ou plans d'eau intérieurs.",
+  "niche": "Ne niche pas en France ; toundra et lacs du Canada, du Groenland, d'Islande et de Scandinavie septentrionale.",
+  "passage": "Mouvements côtiers en septembre-octobre puis mars-avril, effectifs maximaux en décembre-janvier ; quelques immatures non reproducteurs séjournent parfois au-delà de cette période."
+ },
+ "seasonality_fr": "Hivernant peu commun de septembre à avril, presque exclusivement côtier, avec un pic en décembre-janvier ; de très rares individus peuvent être signalés en dehors de cette période.",
+ "song_fr": "En période nuptiale : rires bruyants de 7 à 8 notes répétées, longs cris perçants « kvouk » au décollage ; silencieux en hiver en France.",
+ "lookalikes": [
+  {
+   "scientific_name": "Gavia arctica",
+   "common_name_fr": "Plongeon arctique",
+   "why_fr": "Plongeon noir similaire mais plus petit, bec gris sans teinte blanchâtre, cri différent."
+  },
+  {
+   "scientific_name": "Gavia adamsii",
+   "common_name_fr": "Plongeon à bec blanc",
+   "why_fr": "Très ressemblant mais plus grand, bec blanc à jaune, plumage nuptial plus blanc au cou."
+  },
+  {
+   "scientific_name": "Gavia stellata",
+   "common_name_fr": "Plongeon catmarin",
+   "why_fr": "Plongeon plus petit, bec tenu verticalement, bande rouge sur le cou en plumage nuptial."
+  }
+ ],
+ "rarity_note": "Peu commun en France : hivernant régulier mais en petit nombre sur les côtes atlantiques, plus rare en Méditerranée et à l'intérieur des terres.",
+ "fun_facts": [
+  "Son cri porte sur plusieurs kilomètres et a inspiré des légendes amérindiennes associant son appel à l'annonce de la pluie ou des tempêtes.",
+  "Emblème du Canada, il orne la pièce d'un dollar, le « huard », et un ancien billet de 20 dollars.",
+  "Ses plongées atteignent 70 mètres de profondeur, rendues possibles par des os pleins et denses plutôt que creux comme chez la plupart des oiseaux."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Plongeon_imbrin",
+  "https://en.wikipedia.org/wiki/Common_loon",
+  "https://oiseaux.net/"
+ ],
+ "generated_at": "2026-09-27T21:30:00Z",
+ "generator_model": "claude-sonnet-5"
+}

@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Milvus milvus",
+ "summary_fr": "Le Milan royal est un rapace élégant et puissant, aisément reconnaissable en vol à sa silhouette caractéristique : longues ailes étroites coudées, queue profondément fourchue qui ondule à chaque virage. Son plumage brun-roux tranche avec le blanc et le noir des ailes. Autrefois urbain et scavenger des villes médiévales, ce généralist chasseur-charognard se nourrit principalement de cadavres d'animaux domestiques et de petits gibiers. Il plane à basse altitude, scrutant sans relâche les campagnes, les zones boisées ouvertes et les pâtures. En France, les populations du nord migrent vers le sud en hiver, tandis que celles du centre et du sud restent davantage résidentes. Presque disparu d'Europe à cause de la persécution, le Milan royal a connu une remarquable renaissance depuis sa protection stricte dans les années 1970-1980.",
+ "habitat": "Bois feuillus, forêts entrecoupées de pâtures, terres cultivées, vallées agricoles ouvertes, du littoral à la montagne.",
+ "diet": "Principalement carrion (bétail, cadavres de route), mais aussi petits mammifères (rongeurs, lapins, taupes), jeunes oiseaux et ocasionnellement poisson ou reptiles.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Surtout en Afrique du Nord et Péninsule Ibérique pour les oiseaux du nord ; les populations méditerranéennes et du sud-ouest peuvent rester partiellement en France.",
+  "niche": "Toute la France, particulièrement régions boisées du centre, sud-est et Pyrénées, d'avril à juillet, une nichée par an.",
+  "passage": "Passages migratoires marqués en mars et d'octobre à novembre, le plus souvent discrets."
+ },
+ "seasonality_fr": "Visible printemps et été ; localement toute l'année dans le sud. Rare dans le nord-ouest en hiver. Audible principalement lors de la parade nuptiale.",
+ "song_fr": "Cri caractéristique : sifflement grêle et mélancolique, moins puissant que celui de la Buse variable. Moins vocal que d'autres rapaces, sauf en période de reproduction.",
+ "lookalikes": [
+  {
+   "scientific_name": "Milvus migrans",
+   "common_name_fr": "Milan noir",
+   "why_fr": "Même genre, silhouette similaire en vol, cris proches ; mais Milan noir a queue moins fourchue et plumage plus sombre."
+  },
+  {
+   "scientific_name": "Buteo buteo",
+   "common_name_fr": "Buse variable",
+   "why_fr": "Silhouette et comport plan semblables, appel mewling comparable, mais ailes moins anguleuses et plus courtes, queue non fourchue."
+  }
+ ],
+ "rarity_note": "Peu commun à rare dans le nord-ouest français (Le Mans, Pornic) ; régulier à assez commun dans le sud et centre, particulièrement en zones montagneuses.",
+ "fun_facts": [
+  "Le Milan royal était si ubiquitaire à Londres au Moyen Âge qu'il nettoyait les rues de la charogne et inspirait des poètes : Shakespeare l'appelle « detested kite ».",
+  "Capable de longévité exceptionnelle : plus de 25 ans en nature, avec un record confirmé de 29 ans pour un individu du programme de réintroduction britannique.",
+  "Sa queue fourchue agit comme un gouvernail en vol : elle lui permet des virages acrobatiques impossibles pour les autres rapaces."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Milan_royal",
+  "https://en.wikipedia.org/wiki/Red_kite",
+  "https://www.oiseaux.net/oiseaux/milan.royal.html",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

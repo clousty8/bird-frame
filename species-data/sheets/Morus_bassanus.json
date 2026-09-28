@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Morus bassanus",
+ "summary_fr": "Grand oiseau de mer au plumage blanc éclatant et à la tête teintée de jaune pâle, le Fou de Bassan est le plus gros des oiseaux marins d'Europe. C'est un plongeur spectaculaire qui se jette à plus de 90 km/h dans la mer pour capturer poissons et calmars. Ses ailes longues et étroites, ses yeux bleus cerclés de noir et son bec gris-bleuté en forme de poignard en font un oiseau au caractère très reconnaissable. En France, les colonies nichent surtout en Bretagne, notamment aux Sept-Îles où l'île Rouzic accueille chaque année plus de vingt mille couples. Sociaux en période de reproduction, les Fous de Bassan forment de denses colonies sur les falaises rocheuses et les îles. Loin des côtes, ils volent bas et sont silencieux, mais sur les zones de nidification ils deviennent très bruyants, émettant des cris gutturaux puissants.",
+ "habitat": "Océan Atlantique Nord et mer du Nord ; nidifie sur les falaises rocheuses et les îles isolées des côtes.",
+ "diet": "Principalement petits poissons de 2,5 à 30 cm : maquereau, hareng, capelan, lançon ; occasionnellement calmars et autres proies marines.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur partiel",
+  "hiverne": "Partie de la population hivernant en Atlantique nord le long des côtes françaises et jusqu'en Méditerranée occidentale ; autres individus partant jusqu'au golfe de Guinée.",
+  "niche": "En Bretagne sur l'île Rouzic (Sept-Îles) d'avril à septembre, avec le pic de reproduction en mai-juin.",
+  "passage": "Passages migratoires visibles en mars et d'août à octobre selon les mouvements des populations nordiques."
+ },
+ "seasonality_fr": "Visible presque toute l'année sur les côtes françaises, particulièrement de septembre à avril quand les populations nordiques sont présentes ; période de reproduction avril à septembre.",
+ "song_fr": "Cris gutturaux rauques et puissants « arrah-arrah » ou « urrah-urrah » lors de l'arrivée aux colonies ; cris raccourcis « rah rah » en pêche ; sons traînants « ooo-ah » au décollage. Silencieux en mer.",
+ "lookalikes": [
+  {"scientific_name": "Phalacrocorax carbo", "common_name_fr": "Grand Cormoran", "why_fr": "Autre grand oiseau plongeur côtier, cris rauques similaires en colonie, taille comparable."},
+  {"scientific_name": "Larus marinus", "common_name_fr": "Goéland marin", "why_fr": "Grand goéland côtier au cri puissant, habitat partagé sur les falaises rocheuses."},
+  {"scientific_name": "Larus michahellis", "common_name_fr": "Goéland leucophée", "why_fr": "Goéland blanc commun, appels rauques, souvent présent aux mêmes sites côtiers."}
+ ],
+ "rarity_note": "Régulièrement présent toute l'année sur les côtes françaises, surtout atlantiques ; Pornic et Brest offrent les meilleures conditions d'écoute.",
+ "fun_facts": [
+  "Le Fou de Bassan peut parcourir 320 km par jour en quête de nourriture, travaillant dur pour nourrir ses jeunes affamés.",
+  "La colonie française de l'île Rouzic compte environ 20 000 couples, mais a été gravement touchée par la grippe aviaire en 2022 avec 80 % des jeunes perdus.",
+  "Ses sacs aériens sous-cutanés agissent comme des amortisseurs lors des plongeons à haute vitesse, protégeant son crâne de l'impact violent avec l'eau."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fou_de_Bassan",
+  "https://en.wikipedia.org/wiki/Northern_gannet",
+  "https://www.oiseaux.net/oiseaux/fou.de.bassan.html",
+  "https://www.lpo.fr/",
+  "https://inpn.mnhn.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-sonnet-5"
+}

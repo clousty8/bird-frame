@@ -1,0 +1,73 @@
+{
+ "scientific_name": "Somateria mollissima",
+ "common_name_fr": "Eider à duvet",
+ "birdnet_label": "Somateria mollissima_Eider à duvet",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Somateria",
+  "species": "Somateria mollissima"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Eider à duvet",
+   "url": "https://fr.wikipedia.org/wiki/Eider_%C3%A0_duvet",
+   "description": "espèce de canards plongeurs marins",
+   "extract": "L'Eider à duvet est une espèce de canards plongeurs marins de la famille des Anatidae.",
+   "fulltext_chars": 6044
+  },
+  "en": {
+   "title": "Common eider",
+   "url": "https://en.wikipedia.org/wiki/Common_eider",
+   "description": "Species of bird",
+   "extract": "The common eider, also called St. Cuthbert's duck or Cuddy's duck, is a large sea-duck that is distributed over the northern coasts of Europe, North America and eastern Siberia. It breeds in Arctic and some northern temperate regions, but winters somewhat farther south in temperate zones, when it can form large flocks on coastal waters. It can fly at speeds up to 113 km/h (70 mph).",
+   "fulltext_chars": 7649
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Somateria_mollissima_male..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1827,
+  "height": 1374,
+  "file": "Somateria_mollissima_male..jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Somateria_mollissima_male..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Andreas Trepte",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Somateria_mollissima_male..jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0472,
+  "cities": {
+   "Le Mans": 0.021,
+   "Pornic": 0.038,
+   "Rennes": 0.041,
+   "Poitiers": 0.011,
+   "Paris": 0.014,
+   "Lille": 0.047,
+   "Brest": 0.045
+  },
+  "monthly_scores": [
+   0.0424,
+   0.0456,
+   0.0472,
+   0.0361,
+   0.0225,
+   0.0187,
+   0.0169,
+   0.0108,
+   0.01,
+   0.0302,
+   0.0381,
+   0.0446
+  ],
+  "months": [],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:00Z"
+}

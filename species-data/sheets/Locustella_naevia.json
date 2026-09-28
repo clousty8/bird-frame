@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Locustella naevia",
+ "summary_fr": "La Locustelle tachetée est une petite fauvette discrète d'à peine 13 cm, dont la présence en Europe tempérée se trahit surtout par son chant mécanique caractéristique. Ce chant insolite, qui ressemble à celui d'un insecte ou à une bobine qui se déroule, peut être entendu à toute heure mais préférentiellement à l'aube et au crépuscule. Oiseau hautement migrateur, elle quitte l'Europe en août pour passer l'hiver en Afrique de l'Ouest et du Centre, revenant en avril pour se reproduire dans les milieux herbeux denses des zones tempérées. Difficile à observer directement tant elle reste tapie dans la végétation, elle ne se montre vraiment que lorsqu'elle chante, souvent en levant légèrement le cou. En France, c'est un passage migrateur et un nicheur rare, limité aux régions les moins anthropisées.",
+ "habitat": "Prairies humides avec herbes denses, roselieres, jonchaieres, milieux herbeux fermés avec quelques arbustes épars, du littoral à la montagne.",
+ "diet": "Insectes et leurs larves capturés sur la végétation : petits diptères, lépidoptères, hyménoptères, araignées, acariens, et rarement petites graines.",
+ "activity_pattern": "nocturne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne, région du Sahel et sud du Sahara, ainsi que localement en Inde et Sri Lanka.",
+  "niche": "Europe tempérée de l'Ouest et du Centre, d'avril à juillet, avec deux à trois tentatives de reproduction selon les conditions.",
+  "passage": "Passages prénuptiaux discrets en mars-avril et postnuptiaux plus évidents en août-septembre."
+ },
+ "seasonality_fr": "Audible et localement visible d'avril à octobre en France, avec pic de présence de mai à août. Absente en novembre-mars sauf exceptionnellement.",
+ "song_fr": "Chant très caractéristique et inconfondible : trille mécanique ressemblant au bruit d'une sauterelle ou d'une bobine qui se déroule, exécuté à grande vitesse (52 notes par seconde). Fortement ventriloque, rendant la localisation du chanteur difficile.",
+ "lookalikes": [
+  {
+   "scientific_name": "Locustella lanceolata",
+   "common_name_fr": "Locustelle lancéolée",
+   "why_fr": "Chant similaire mais plus grave et lent, avec des silences de pause."
+  },
+  {
+   "scientific_name": "Locustella luscinioides",
+   "common_name_fr": "Locustelle luscinioïde",
+   "why_fr": "Trille aussi mécanique mais plus grinçant et moins pur en tessiture."
+  },
+  {
+   "scientific_name": "Acrocephalus scirpaceus",
+   "common_name_fr": "Rousserolle turdoïde",
+   "why_fr": "Habite milieux similaires mais chant plus varié et moins répétitif, avec davantage de modulation."
+  }
+ ],
+ "rarity_note": "Passage migrateur régulier mais peu détecté en France ; nicheur rare limité à quelques régions. Statut de conservation : Préoccupation mineure.",
+ "fun_facts": [
+  "Son chant surpasse 500 mètres de portée malgré sa petite taille, et peut être entendu même tard la nuit près de lampadaires.",
+  "Oiseau extrêmement cryptique : seul le chant trahit sa présence, presque impossible à observer hors du chant.",
+  "Grande migratrice nocturne : elle traverse la Méditerranée et le Sahara en une ou deux nuits, parcourant plus de 10 000 km par an."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Locustelle_tachet%C3%A9e",
+  "https://en.wikipedia.org/wiki/Common_grasshopper_warbler",
+  "https://www.oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

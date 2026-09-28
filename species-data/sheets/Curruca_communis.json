@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Curruca communis",
+ "summary_fr": "La Fauvette grisette est une petite passereaux migrateur nicheur en France, reconnaissable à sa gorge blanche contrastant avec sa poitrine rosâtre. Chez le mâle, la tête grise et l'œil orange-brun sont caractéristiques, tandis que la femelle se montre plus terne avec un œil plus jaunâtre. Cet oiseau des milieux ouverts fréquente les haies et lisières boisées où il construit son nid en coupe. Exclusivement insectivore en période de reproduction, il se nourrit surtout de coléoptères, de petits papillons et de moustiques. Son chant rapide, souvent émis en vol nuptial spectaculaire, constitue sa signature sonore du printemps. Migrateur à longue distance, il quitte la France dès août pour passer l'hiver en Afrique subsaharienne, d'où il revient en avril. Population bien établie et stable en France avec plus de quatorze millions de couples en Europe.",
+ "habitat": "Milieux ouverts et semi-ouverts avec haies buissonnantes ; lisières de bois, cultures et terrains incultes pourvus de végétation basse. Préfère les zones bien éclairées et les habitats fragmentés.",
+ "diet": "Insectes, essentiellement pendant la saison de reproduction : coléoptères, hémiptères, lépidoptères et hyménoptères. Fruits et baies consommés avant la migration.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne, Arabie et Pakistan.",
+  "niche": "Toute la France et l'Europe, avril à juillet avec généralement une nichée.",
+  "passage": "Migration de printemps en mars-avril ; passage d'automne août à septembre."
+ },
+ "seasonality_fr": "Visiteur d'été en France, présent avril à septembre. Migrateur régulier à longue distance, absent en hiver. Les migrations sont bien visibles lors des passages en avril et août-septembre.",
+ "song_fr": "Chant caractéristique rapide et haut perché, légèrement râpeux, souvent émis en vol nuptial en chandelle. Cri d'alarme nasalisé « ouèt-ouèt-ouèt » remontant ; cri grave « tchrrr » appuyé.",
+ "lookalikes": [
+  {
+   "scientific_name": "Curruca curruca",
+   "common_name_fr": "Fauvette babillarde",
+   "why_fr": "Chant similaire très rapide et bavard, confusion possible notamment chez les femelles sans marquages évidents."
+  },
+  {
+   "scientific_name": "Sylvia borin",
+   "common_name_fr": "Fauvette des jardins",
+   "why_fr": "Chant mélodieux et passage migratoire identique, taille légèrement plus grosse et manteau plus brun."
+  },
+  {
+   "scientific_name": "Sylvia atricapilla",
+   "common_name_fr": "Fauvette à tête noire",
+   "why_fr": "Confusion surtout avec les femelles ; cris similaires mais chant plus mélodieux chez l'espèce à tête noire."
+  }
+ ],
+ "rarity_note": "Commune et régulière en France comme migrateur de passage et nicheur, bien établie dans tous les régions de mars à octobre. Population française stable et importante.",
+ "fun_facts": [
+  "Son vol nuptial spectaculaire, imitant un lanceur de poids, est accompagné de son chant et sert à délimiter le territoire.",
+  "Les deux sexes se construisent plusieurs nids, et la femelle choisit celui qui convient avant de le garnir de matériaux plus fins.",
+  "En moins d'une décennie (2008-2017), on a enregistré un déclin démographique inattendu en Europe du Ouest, cause encore mal élucidée."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Fauvette_grisette",
+  "https://en.wikipedia.org/wiki/Common_whitethroat",
+  "https://oiseaux.net/",
+  "https://www.lpo.fr/"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

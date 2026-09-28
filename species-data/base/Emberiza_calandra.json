@@ -1,0 +1,95 @@
+{
+ "scientific_name": "Emberiza calandra",
+ "common_name_fr": "Bruant proyer",
+ "birdnet_label": "Emberiza calandra_Bruant proyer",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Emberizidae",
+  "family_common": "Old World Buntings",
+  "genus": "Emberiza",
+  "species": "Emberiza calandra"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Bruant proyer",
+   "url": "https://fr.wikipedia.org/wiki/Bruant_proyer",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Bruant proyer, également appelé Proyer d'Europe, est une espèce d'oiseaux de la famille des Emberizidae. C'est l'une des nombreuses espèces d'oiseaux autrefois communs en milieu rural dont les populations sont en forte régression, notamment en raison de l'intensification des pratiques agricoles. Cet animal est typique des paysages semi-ouverts abritant une « mosaïque d'habitats ». Il a longtemps trouvé des habitats de substitution dans les zones agricoles bocagères extensive. Il consomme des insectes et invertébrés quand il est jeune et des graines et fruits quand il est adulte, ce qui en fait potentiellement un bioindicateur intéressant de la qualité des paysages, et notamment de la qualité du patrimoine bocager.",
+   "fulltext_chars": 14755
+  },
+  "en": {
+   "title": "Corn bunting",
+   "url": "https://en.wikipedia.org/wiki/Corn_bunting",
+   "description": "Species of bird",
+   "extract": "The corn bunting is a passerine bird in the bunting family Emberizidae, a group now separated by most modern authors from the finches, Fringillidae. This is a large bunting with heavily streaked buff-brown plumage. The sexes are similar but the male is slightly larger than the female. Its range extends from Western Europe and North Africa across to northwestern China.",
+   "fulltext_chars": 3966
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bruant_proyer_Ichkeul017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4720,
+  "height": 3147,
+  "file": "Bruant_proyer_Ichkeul017.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Bruant_proyer_Ichkeul017.jpg/1920px-Bruant_proyer_Ichkeul017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "El Golli Mohamed",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Bruant_proyer_Ichkeul017.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3345,
+  "cities": {
+   "Le Mans": 0.019,
+   "Pornic": 0.014,
+   "Poitiers": 0.049,
+   "Paris": 0.025,
+   "Lille": 0.014,
+   "Strasbourg": 0.123,
+   "Lyon": 0.185,
+   "Grenoble": 0.195,
+   "Marseille": 0.227,
+   "Toulouse": 0.283,
+   "Bordeaux": 0.133,
+   "Ajaccio": 0.335,
+   "Clermont-Ferrand": 0.167,
+   "Chamonix": 0.166,
+   "Perpignan": 0.288,
+   "Nancy": 0.081
+  },
+  "monthly_scores": [
+   0.2714,
+   0.2682,
+   0.2992,
+   0.3345,
+   0.2881,
+   0.2235,
+   0.1314,
+   0.0801,
+   0.0799,
+   0.1599,
+   0.2422,
+   0.2762
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:36Z"
+}

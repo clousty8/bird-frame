@@ -1,0 +1,93 @@
+{
+ "scientific_name": "Sylvia borin",
+ "common_name_fr": "Fauvette des jardins",
+ "birdnet_label": "Sylvia borin_Fauvette des jardins",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Sylviidae",
+  "family_common": "Sylviid Warblers and Allies",
+  "genus": "Sylvia",
+  "species": "Sylvia borin"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Fauvette des jardins",
+   "url": "https://fr.wikipedia.org/wiki/Fauvette_des_jardins",
+   "description": "espèce d'oiseaux passériformes de la famille des sylviidae",
+   "extract": "La Fauvette des jardins est une espèce de passereaux appartenant à la famille des Sylviidae, qui niche dans la plus grande partie de l'Europe et dans l'Ouest de l'Asie. Son plumage n'a aucun contraste ou caractéristique notable et lui confère un aspect « quelconque ». C'est une fauvette typique du genre Sylvia, robuste, avec les ailes et la queue longues, aux parties supérieures gris-brun olive et les parties inférieures plus claires. Il n'y a pas de dimorphisme sexuel, et les jeunes ressemblent aux adultes. Deux sous-espèces sont distinguées, ne différant que légèrement et s'hybridant dans les zones de sympatrie. En raison du manque de traits distinctifs, cette espèce peut être confondue avec un certain nombre de passereaux de la famille des Acrocephalidae et d'autres Sylviidae. Son chant est beau, montant ou descendant sans mélodie définie, et ressemble à celui de la Fauvette à tête noire, mais sans le motif final flûté propre à cette espèce.",
+   "fulltext_chars": 17835
+  },
+  "en": {
+   "title": "Garden warbler",
+   "url": "https://en.wikipedia.org/wiki/Garden_warbler",
+   "description": "Small migratory passerine bird",
+   "extract": "The garden warbler is a common and widespread small bird that breeds in most of Europe and in the Palearctic to western Siberia. It is a plain, long-winged and long-tailed warbler with brown upperparts and dull white underparts; the sexes are similar and juveniles resemble the adults. Its two subspecies differ only slightly and interbreed where their ranges overlap. Due to its lack of distinguishing features, this species can be confused with a number of other unstreaked warblers. The garden warbler's rich melodic song is similar to that of the blackcap, its closest relative, which competes with it for territory when nesting in the same woodland.",
+   "fulltext_chars": 23405
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Garden_Warbler_1_%28portrait%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 559,
+  "height": 640,
+  "file": "Garden_Warbler_1_(portrait).jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Garden_Warbler_1_%28portrait%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Ron Knight from Seaford, East Sussex, United Kingdom",
+  "credit": "Garden Warbler",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Garden_Warbler_1_(portrait).jpg"
+ },
+ "france_universe": {
+  "max_score": 0.3169,
+  "cities": {
+   "Le Mans": 0.263,
+   "Pornic": 0.203,
+   "Rennes": 0.228,
+   "Poitiers": 0.219,
+   "Paris": 0.287,
+   "Lille": 0.294,
+   "Strasbourg": 0.317,
+   "Lyon": 0.178,
+   "Grenoble": 0.126,
+   "Marseille": 0.079,
+   "Toulouse": 0.111,
+   "Bordeaux": 0.158,
+   "Brest": 0.116,
+   "Ajaccio": 0.127,
+   "Clermont-Ferrand": 0.188,
+   "Chamonix": 0.159,
+   "Perpignan": 0.076,
+   "Nancy": 0.308
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0519,
+   0.1269,
+   0.3169,
+   0.2951,
+   0.1775,
+   0.0789,
+   0.1161,
+   0.0641,
+   0.0101,
+   0.0
+  ],
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:37:38Z"
+}

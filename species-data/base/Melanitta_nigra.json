@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Melanitta nigra",
+ "common_name_fr": "Macreuse noire",
+ "birdnet_label": "Melanitta nigra_Macreuse noire",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "family_common": "Ducks, Geese, and Waterfowl",
+  "genus": "Melanitta",
+  "species": "Melanitta nigra"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Macreuse noire",
+   "url": "https://fr.wikipedia.org/wiki/Macreuse_noire",
+   "description": "espèce d'oiseaux",
+   "extract": "La Macreuse noire est une espèce de canards plongeurs marins de la famille des Anatidae. Le dimorphisme sexuel est prononcé chez cet oiseau, le mâle étant entièrement noir, avec une tache jaune orangé sur le bec, la femelle et les jeunes sont brun clair, avec les côtés du cou et de la tête plus pâles. La Macreuse noire habite le Nord de l'Europe et de l'Asie ; les populations américaines ont évolué vers une espèce désormais considérée comme séparée, appelée Macreuse à bec jaune.",
+   "fulltext_chars": 20074
+  },
+  "en": {
+   "title": "Common scoter",
+   "url": "https://en.wikipedia.org/wiki/Common_scoter",
+   "description": "Species of bird",
+   "extract": "The common scoter is a large sea duck, 43–54 cm (17–21 in) in length, which breeds over the far north of Europe and the Palearctic east to the Olenyok River. The black scoter of North America and eastern Siberia was formerly considered to be a subspecies.",
+   "fulltext_chars": 5069
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/M%C3%A4nnliche_Trauerente_%28Melanitta_nigra%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3705,
+  "height": 2470,
+  "file": "Männliche_Trauerente_(Melanitta_nigra)_-_Spiekeroog,_Nationalpark_Niedersächsisches_Wattenmeer.jpg",
+  "url_1600": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/M%C3%A4nnliche_Trauerente_%28Melanitta_nigra%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg/1920px-M%C3%A4nnliche_Trauerente_%28Melanitta_nigra%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Stephan Sprinz",
+  "credit": "Own work",
+  "description_url": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnliche_Trauerente_(Melanitta_nigra)_-_Spiekeroog,_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.1223,
+  "cities": {
+   "Le Mans": 0.067,
+   "Pornic": 0.105,
+   "Rennes": 0.094,
+   "Poitiers": 0.069,
+   "Paris": 0.051,
+   "Lille": 0.076,
+   "Strasbourg": 0.016,
+   "Lyon": 0.023,
+   "Grenoble": 0.017,
+   "Marseille": 0.035,
+   "Toulouse": 0.032,
+   "Bordeaux": 0.069,
+   "Brest": 0.122,
+   "Ajaccio": 0.114,
+   "Clermont-Ferrand": 0.037,
+   "Chamonix": 0.014,
+   "Perpignan": 0.029,
+   "Nancy": 0.021
+  },
+  "monthly_scores": [
+   0.1145,
+   0.1144,
+   0.0836,
+   0.0374,
+   0.0146,
+   0.0161,
+   0.0256,
+   0.0398,
+   0.0498,
+   0.1057,
+   0.1223,
+   0.1216
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:40:07Z"
+}

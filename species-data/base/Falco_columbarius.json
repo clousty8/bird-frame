@@ -1,0 +1,91 @@
+{
+ "scientific_name": "Falco columbarius",
+ "common_name_fr": "Faucon émerillon",
+ "birdnet_label": "Falco columbarius_Faucon émerillon",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Falconiformes",
+  "family": "Falconidae",
+  "family_common": "Falcons and Caracaras",
+  "genus": "Falco",
+  "species": "Falco columbarius"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Faucon émerillon",
+   "url": "https://fr.wikipedia.org/wiki/Faucon_%C3%A9merillon",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Faucon émerillon, aussi appelé Faucon Merlin est une espèce de petites rapaces diurnes compacte et active des milieux ouverts. Il traque ses proies en volant à faible hauteur. Il reste longtemps à l'affût posé sur un perchoir bas ou une motte de terre.",
+   "fulltext_chars": 4905
+  },
+  "en": {
+   "title": "Merlin (bird)",
+   "url": "https://en.wikipedia.org/wiki/Merlin_(bird)",
+   "description": "Species of bird",
+   "extract": "The merlin is a small species of falcon from the Northern Hemisphere, with numerous subspecies throughout North America and Eurasia. A bird of prey, the merlin breeds in the northern Holarctic; some migrate to subtropical and northern tropical regions in winter. Males typically have wingspans of 53–58 centimetres (21–23 in), with females being slightly larger. They are swift fliers and skilled hunters, which specialize in preying on small birds in the size range of sparrows to doves and medium-sized shorebirds. In recent decades, merlin populations in North America have been significantly increasing, with some merlins becoming so well adapted to city life that they forgo migration; in Europe, populations increased up to about 2000, but have been steady subsequently. The merlin has for centuries been well regarded as a falconry bird.",
+   "fulltext_chars": 24000
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Falco_columbarius_Male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 681,
+  "height": 1024,
+  "file": "Falco_columbarius_Male.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Falco_columbarius_Male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Raj Boora from Edmonton, Canada",
+  "credit": "Fiber II",
+  "description_url": "https://commons.wikimedia.org/wiki/File:Falco_columbarius_Male.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.2752,
+  "cities": {
+   "Le Mans": 0.044,
+   "Pornic": 0.06,
+   "Rennes": 0.06,
+   "Poitiers": 0.054,
+   "Paris": 0.037,
+   "Lille": 0.039,
+   "Strasbourg": 0.011,
+   "Lyon": 0.035,
+   "Grenoble": 0.037,
+   "Marseille": 0.067,
+   "Toulouse": 0.047,
+   "Bordeaux": 0.053,
+   "Brest": 0.076,
+   "Ajaccio": 0.275,
+   "Clermont-Ferrand": 0.044,
+   "Chamonix": 0.023,
+   "Perpignan": 0.055,
+   "Nancy": 0.017
+  },
+  "monthly_scores": [
+   0.2752,
+   0.2727,
+   0.1559,
+   0.0284,
+   0.0,
+   0.0,
+   0.0114,
+   0.0278,
+   0.0437,
+   0.1204,
+   0.247,
+   0.272
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:38:14Z"
+}

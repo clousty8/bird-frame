@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "scientific_name": "Acrocephalus arundinaceus",
+ "summary_fr": "La Rousserolle turdoïde est la plus grande des fauvettes des marais, avec un plumage brun uni et un dessous chamois pâle. Ce passereau migrateur fréquente exclusivement les roselières de bonne taille en Europe occidentale avant de repartir hiverner en Afrique subsaharienne. Remarquablement territorial, il défend farouchement son domaine contre ses congénères, et les combats peuvent être violents. Son chant rauque et sonore, mélange de croassements et de cris onomatopéiques, anime la roselière pendant la saison de reproduction. À la période de nidification, les deux partenaires alimentent les poussins avec des insectes et de petits invertébrés. En France, cette espèce ne figure que parmi les migrateurs occasionnels, particulièrement rares dans le nord-ouest.",
+ "habitat": "Grandes roselières de phragmites, marais étendus avec végétation aquatique. Occupe aussi les champs de riz et les lisières de forêt en période hivernale.",
+ "diet": "Insectes, araignées et invertébrés divers. Petits amphibiens et ocasionnellement petits poissons pendant la saison de reproduction.",
+ "activity_pattern": "diurne",
+ "migration": {
+  "statut": "migrateur",
+  "hiverne": "Afrique subsaharienne, avec un séjour hivernal prolongé.",
+  "niche": "Grandes roselières d'Europe occidentale, du Royaume-Uni à la Turquie. Niche occasionnellement aux marges nord de l'aire française (marais de l'est et du sud-est).",
+  "passage": "Passages migratoires en mars-avril (printemps) et septembre-octobre (automne)."
+ },
+ "seasonality_fr": "Visiteur migrateur régulier d'avril à septembre en France, particulièrement rare et irrégulier dans l'ouest et le nord. Hivernage exclusivement africain.",
+ "song_fr": "Chant très rauque et sonore : croassements répétés de type carr-carr-cree-cree-cree-jet-jet, souvent enrichis de sifflements et d'imitations vocales. Très bruyant et lointain.",
+ "lookalikes": [
+  {
+   "scientific_name": "Acrocephalus scirpaceus",
+   "common_name_fr": "Rousserolle effarvatte",
+   "why_fr": "Très ressemblant mais nettement plus petit ; chant moins rauque, plus musical."
+  },
+  {
+   "scientific_name": "Acrocephalus arundinaceus zarudnyi",
+   "common_name_fr": null,
+   "why_fr": "Sous-espèce orientale, indistincte acoustiquement ; plumage très similaire."
+  }
+ ],
+ "rarity_note": "Visiteur migrateur rare et irrégulier en France, avec une présence maximale d'avril à septembre. Très localisé et imprévisible selon les années.",
+ "fun_facts": [
+  "C'est la plus grande des fauvettes, pesant 25 à 37 grammes avec une envergure de 28 centimètres.",
+  "Lors de la migration, certains individus franchissent le Sahara à des altitudes extrêmes dépassant 5 000 mètres, un record parmi les passereaux.",
+  "Le mâle défend son territoire par un chant puissant et une agressivité remarquable envers les congénères, dont les combats peuvent être violents."
+ ],
+ "sources": [
+  "https://fr.wikipedia.org/wiki/Rousserolle_turdoïde",
+  "https://en.wikipedia.org/wiki/Great_reed_warbler",
+  "https://www.oiseaux.net/dossiers/acrocephalus.arundinaceus.html"
+ ],
+ "generated_at": "2026-09-27T17:00:00Z",
+ "generator_model": "claude-haiku-4-5"
+}

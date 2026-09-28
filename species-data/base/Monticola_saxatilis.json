@@ -1,0 +1,69 @@
+{
+ "scientific_name": "Monticola saxatilis",
+ "common_name_fr": "Monticole de roche",
+ "birdnet_label": "Monticola saxatilis_Monticole de roche",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Muscicapidae",
+  "family_common": "Old World Flycatchers",
+  "genus": "Monticola",
+  "species": "Monticola saxatilis"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Monticole merle-de-roche",
+   "url": "https://fr.wikipedia.org/wiki/Monticole_merle-de-roche",
+   "description": "espèce d'oiseaux",
+   "extract": "Le Monticole de roche est une espèce de passereaux à bec long traditionnellement appelé Merle de roche. D'après Alan P. Peterson et le Congrès ornithologique international, c'est une espèce monotypique. Olivier Messiaen a consacré à cet oiseau une pièce, qui en porte le nom, de son Catalogue d'oiseaux.",
+   "fulltext_chars": 3042
+  },
+  "en": {
+   "title": "Common rock thrush",
+   "url": "https://en.wikipedia.org/wiki/Common_rock_thrush",
+   "description": "Species of bird",
+   "extract": "The common rock thrush, also known as the rufous-tailed rock thrush or simply rock thrush, is a species of chat that breeds in southern Europe across Central Asia to northern China. This species is strongly migratory, all populations wintering in Africa south of the Sahara. It is an uncommon visitor to northern Europe. Its range has contracted somewhat at the periphery in recent decades due to habitat destruction. For example, in the early 20th century it bred in the Jura Krakowsko-Częstochowska (Poland) where none occur today, but it is not considered globally endangered.",
+   "fulltext_chars": 2286
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Monticola_saxatilis_NAUMANN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 1216,
+  "file": "Monticola_saxatilis_NAUMANN.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Monticola_saxatilis_NAUMANN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "Public domain",
+  "license_url": null,
+  "author": null,
+  "credit": null,
+  "description_url": "https://commons.wikimedia.org/wiki/File:Monticola_saxatilis_NAUMANN.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.0507,
+  "cities": {
+   "Ajaccio": 0.051
+  },
+  "monthly_scores": [
+   0.0,
+   0.0,
+   0.0345,
+   0.0507,
+   0.0482,
+   0.0478,
+   0.049,
+   0.0482,
+   0.0449,
+   0.0309,
+   0.0,
+   0.0
+  ],
+  "months": [
+   4
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:42:00Z"
+}

@@ -1,0 +1,97 @@
+{
+ "scientific_name": "Columba oenas",
+ "common_name_fr": "Pigeon colombin",
+ "birdnet_label": "Columba oenas_Pigeon colombin",
+ "taxonomy": {
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Columbiformes",
+  "family": "Columbidae",
+  "family_common": "Pigeons and Doves",
+  "genus": "Columba",
+  "species": "Columba oenas"
+ },
+ "wikipedia": {
+  "fr": {
+   "title": "Pigeon colombin",
+   "url": "https://fr.wikipedia.org/wiki/Pigeon_colombin",
+   "description": "espèce d'oiseaux columbiformes de la famille des columbidae",
+   "extract": "Le Pigeon colombin est une espèce d'oiseaux paneuropéens essentiellement présente en Europe, qui est en forte régression dans certains pays, semble-t-il parce que son habitat l'est aussi, ainsi que certaines de ses sources de nourriture dans les zones d'agriculture intensive.",
+   "fulltext_chars": 8708
+  },
+  "en": {
+   "title": "Stock dove",
+   "url": "https://en.wikipedia.org/wiki/Stock_dove",
+   "description": "Species of bird",
+   "extract": "The stock dove is a species of bird in the family Columbidae, the doves and pigeons. It is widely distributed in the western Palearctic, north to central Scandinavia and south to northwest Africa. Western and southern populations are resident, while northeastern populations are migratory to avoid the colder winters there. It is the type species of the genus Columba.",
+   "fulltext_chars": 7191
+  }
+ },
+ "photo": {
+  "source": "wikipedia",
+  "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a6/ColumbaOenas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1920,
+  "height": 2400,
+  "file": "ColumbaOenas.jpg",
+  "url_1600": "https://upload.wikimedia.org/wikipedia/commons/a/a6/ColumbaOenas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "jim.gifford",
+  "credit": "Flickr",
+  "description_url": "https://commons.wikimedia.org/wiki/File:ColumbaOenas.jpg"
+ },
+ "france_universe": {
+  "max_score": 0.4527,
+  "cities": {
+   "Le Mans": 0.209,
+   "Pornic": 0.094,
+   "Rennes": 0.165,
+   "Poitiers": 0.107,
+   "Paris": 0.298,
+   "Lille": 0.453,
+   "Strasbourg": 0.108,
+   "Lyon": 0.059,
+   "Grenoble": 0.051,
+   "Marseille": 0.067,
+   "Toulouse": 0.052,
+   "Bordeaux": 0.071,
+   "Brest": 0.093,
+   "Ajaccio": 0.195,
+   "Clermont-Ferrand": 0.067,
+   "Chamonix": 0.051,
+   "Perpignan": 0.057,
+   "Nancy": 0.157
+  },
+  "monthly_scores": [
+   0.2312,
+   0.2538,
+   0.3614,
+   0.4527,
+   0.394,
+   0.4132,
+   0.4416,
+   0.384,
+   0.3323,
+   0.308,
+   0.2617,
+   0.2386
+  ],
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "month_threshold": 0.05
+ },
+ "built_at": "2026-09-27T14:36:24Z"
+}
