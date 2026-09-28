@@ -34,3 +34,6 @@ node_modules/
 web/dist/
 .playwright-mcp/
 .DS_Store
+
+# Secrets de production (Railway)
+deploy/production.secrets.env
