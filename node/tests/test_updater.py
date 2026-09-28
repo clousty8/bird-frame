@@ -399,6 +399,70 @@ async def test_missing_uv_binary_is_a_clear_failure(tmp_path: Path, root: Path) 
 
 
 @pytest.mark.asyncio
+async def test_stop_during_uv_sync_aborts_cleanly(tmp_path: Path, root: Path) -> None:
+    """SIGTERM (stop_event) pendant un `uv sync` interminable : l'installation est abandonnée tout de
+    suite, le sous-process tué, le dossier partiel supprimé, `current` intact, pas de code 75."""
+    started = tmp_path / "uv-started"
+    slow_uv = tmp_path / "slow-uv"
+    slow_uv.write_text(f'#!/bin/sh\necho $$ > "{started}"\nexec sleep 60\n')
+    slow_uv.chmod(0o755)
+    bundle = make_bundle("0.2.0")
+    async with _client() as client:
+        with respx.mock() as mock:
+            mock.get(UPDATE_URL).mock(return_value=httpx.Response(200, json=update_info(bundle)))
+            mock.get(BUNDLE_URL).mock(return_value=httpx.Response(200, content=bundle))
+            updater = make_updater(make_config(tmp_path, root, slow_uv), client, root)
+            stop = asyncio.Event()
+            task = asyncio.create_task(updater.run(stop))
+            for _ in range(200):
+                if started.exists() and started.read_text().strip():
+                    break
+                await asyncio.sleep(0.02)
+            assert (root / "versions" / "0.2.0").exists()  # installation en cours
+            stop.set()
+            await asyncio.wait_for(task, timeout=5)
+
+    uv_pid = int(started.read_text())
+    with pytest.raises(ProcessLookupError):
+        os.kill(uv_pid, 0)  # sous-process tué (et récolté)
+    assert updater.exit_code is None
+    assert not (root / "versions" / "0.2.0").exists()
+    assert _current_target(root) == "versions/0.1.0"
+    assert list((root / "downloads").iterdir()) == []
+
+
+@pytest.mark.asyncio
+async def test_unexpected_error_during_install_is_a_recorded_failure(
+    tmp_path: Path, root: Path, fake_uv_ok: Path
+) -> None:
+    """Une archive dont VERSION n'est pas de l'UTF-8 (UnicodeDecodeError, pas une UpdateError) :
+    échec propre, dossier nettoyé, échec mémorisé comme les autres."""
+    bundle = make_bundle("0.2.0")
+    raw = io.BytesIO()
+    with (
+        tarfile.open(fileobj=io.BytesIO(bundle), mode="r:gz") as src,
+        tarfile.open(fileobj=raw, mode="w:gz") as dst,
+    ):
+        for member in src.getmembers():
+            data = src.extractfile(member).read()
+            if member.name == "VERSION":
+                data = b"\xff\xfe\x00"
+                member.size = len(data)
+            dst.addfile(member, io.BytesIO(data))
+    bundle = raw.getvalue()
+    async with _client() as client:
+        with respx.mock() as mock:
+            mock.get(UPDATE_URL).mock(return_value=httpx.Response(200, json=update_info(bundle)))
+            mock.get(BUNDLE_URL).mock(return_value=httpx.Response(200, content=bundle))
+            updater = make_updater(make_config(tmp_path, root, fake_uv_ok), client, root)
+            assert await updater.check_once() is False
+    assert updater.status["state"] == "failed"
+    assert "erreur inattendue" in updater.status["error"]
+    assert not (root / "versions" / "0.2.0").exists()
+    assert "0.2.0" in json.loads((root / "state" / "updater.json").read_text())["failures"]
+
+
+@pytest.mark.asyncio
 async def test_version_rolled_back_by_supervisor_is_never_retried(
     tmp_path: Path, root: Path, fake_uv_ok: Path
 ) -> None:
@@ -476,20 +540,26 @@ async def test_heartbeat_hint_wakes_the_loop_early(tmp_path: Path, root: Path, f
             updater = make_updater(make_config(tmp_path, root, fake_uv_ok, update_interval_s=3600), client, root)
             stop = asyncio.Event()
             task = asyncio.create_task(updater.run(stop))
-            await asyncio.sleep(0.05)
-            assert route.call_count == 1  # vérification au démarrage
+            await _until(lambda: route.call_count == 1)  # vérification au démarrage
 
             updater.notify_latest_version("0.1.0")  # pas plus récent : aucun effet
-            await asyncio.sleep(0.05)
+            await asyncio.sleep(0.1)
             assert route.call_count == 1
 
             updater.notify_latest_version("0.3.0")  # annoncé par le heartbeat : vérification immédiate
-            await asyncio.sleep(0.05)
-            assert route.call_count == 2
+            await _until(lambda: route.call_count == 2)
 
             stop.set()
             await asyncio.wait_for(task, timeout=1)
     assert updater.exit_code is None
+
+
+async def _until(condition, timeout: float = 5.0) -> None:
+    loop = asyncio.get_running_loop()
+    deadline = loop.time() + timeout
+    while not condition():
+        assert loop.time() < deadline, "condition jamais remplie"
+        await asyncio.sleep(0.01)
 
 
 def test_latest_node_version_parsing() -> None:

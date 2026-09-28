@@ -152,7 +152,9 @@ def test_supervisor_relaunches_immediately_after_update(root: Path, tmp_path: Pa
     fake_version(
         root,
         "0.1.0",
-        'echo "$(basename "$PWD")" >> "$MARKS"\ncd "$ROOT" && rm current && ln -s versions/0.2.0 current\nexit 75\n',
+        'echo "$(basename "$PWD")" >> "$MARKS"\n'
+        'cd "$ROOT" && rm current && ln -s versions/0.2.0 current\n'
+        "exit 75\n",
     )
     fake_version(root, "0.2.0", OK)
     point_current(root, "0.1.0")
@@ -172,7 +174,11 @@ def test_supervisor_forwards_sigterm_for_a_clean_stop(root: Path, tmp_path: Path
     point_current(root, "0.1.0")
     env = {"PATH": os.environ["PATH"], "MARKS": str(tmp_path / "marks.log"), "HOME": str(tmp_path)}
     proc = subprocess.Popen(
-        ["/bin/bash", str(RUN_BRIDGE), str(root)], env=env, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True
+        ["/bin/bash", str(RUN_BRIDGE), str(root)],
+        env=env,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True,
     )
     try:
         deadline = time.time() + 10
@@ -238,19 +244,21 @@ def source_config(tmp_path: Path, seeded_db_path: Path) -> Path:
     return config
 
 
+def install_args(config: Path, root: Path, uv: Path) -> tuple[str, ...]:
+    return ("--config", str(config), "--root", str(root), "--no-launchd", "--uv", str(uv))
+
+
 def run_script(script: Path, tmp_path: Path, *args: str) -> subprocess.CompletedProcess:
     env = {"PATH": f"{tmp_path / 'bin'}:{os.environ['PATH']}", "HOME": str(tmp_path / "home")}
     (tmp_path / "home").mkdir(exist_ok=True)
-    return subprocess.run(
-        ["/bin/bash", str(script), *args], env=env, capture_output=True, text=True, timeout=120
-    )
+    return subprocess.run(["/bin/bash", str(script), *args], env=env, capture_output=True, text=True, timeout=120)
 
 
 def test_install_node_creates_managed_install_idempotently(
     tmp_path: Path, fake_uv: Path, source_config: Path
 ) -> None:
     root = tmp_path / "managed"
-    args = ("--config", str(source_config), "--root", str(root), "--no-launchd", "--uv", str(fake_uv))
+    args = install_args(source_config, root, fake_uv)
 
     for _ in range(2):  # la réinstallation doit donner exactement le même résultat
         result = run_script(INSTALL, tmp_path, *args)
@@ -297,9 +305,7 @@ def test_installed_bridge_runs_under_the_supervisor_with_auto_update(
     """Bout en bout : le vrai bridge installé tourne sous run-bridge.sh, reconnaît l'installation
     gérée (updater actif), échoue proprement à joindre le serveur (port mort), s'arrête sur SIGTERM."""
     root = tmp_path / "managed"
-    result = run_script(
-        INSTALL, tmp_path, "--config", str(source_config), "--root", str(root), "--no-launchd", "--uv", str(fake_uv)
-    )
+    result = run_script(INSTALL, tmp_path, *install_args(source_config, root, fake_uv))
     assert result.returncode == 0, result.stderr
 
     log = tmp_path / "bridge.log"
@@ -330,9 +336,7 @@ def test_installed_bridge_runs_under_the_supervisor_with_auto_update(
 
 def test_install_refuses_a_root_inside_local_test(tmp_path: Path, fake_uv: Path, source_config: Path) -> None:
     forbidden = REPO_ROOT / "local-test" / "ne-jamais-creer-ce-dossier"
-    result = run_script(
-        INSTALL, tmp_path, "--config", str(source_config), "--root", str(forbidden), "--no-launchd", "--uv", str(fake_uv)
-    )
+    result = run_script(INSTALL, tmp_path, *install_args(source_config, forbidden, fake_uv))
     assert result.returncode != 0
     assert "local-test" in result.stderr
     assert not forbidden.exists()
@@ -340,17 +344,13 @@ def test_install_refuses_a_root_inside_local_test(tmp_path: Path, fake_uv: Path,
 
 def test_install_failure_restores_previous_install(tmp_path: Path, fake_uv: Path, source_config: Path) -> None:
     root = tmp_path / "managed"
-    ok = run_script(
-        INSTALL, tmp_path, "--config", str(source_config), "--root", str(root), "--no-launchd", "--uv", str(fake_uv)
-    )
+    ok = run_script(INSTALL, tmp_path, *install_args(source_config, root, fake_uv))
     assert ok.returncode == 0, ok.stderr
     marker = root / "versions" / REPO_VERSION / "marqueur"
     marker.write_text("installation d'origine")
 
     failing_uv = _executable(tmp_path / "failing-uv", "#!/bin/sh\necho 'uv: échec simulé' >&2\nexit 1\n")
-    result = run_script(
-        INSTALL, tmp_path, "--config", str(source_config), "--root", str(root), "--no-launchd", "--uv", str(failing_uv)
-    )
+    result = run_script(INSTALL, tmp_path, *install_args(source_config, root, failing_uv))
     assert result.returncode != 0
     assert "restauré" in result.stderr
     assert marker.read_text() == "installation d'origine"
@@ -360,9 +360,7 @@ def test_install_failure_restores_previous_install(tmp_path: Path, fake_uv: Path
 
 def test_uninstall_keeps_config_and_state_unless_purge(tmp_path: Path, fake_uv: Path, source_config: Path) -> None:
     root = tmp_path / "managed"
-    install = run_script(
-        INSTALL, tmp_path, "--config", str(source_config), "--root", str(root), "--no-launchd", "--uv", str(fake_uv)
-    )
+    install = run_script(INSTALL, tmp_path, *install_args(source_config, root, fake_uv))
     assert install.returncode == 0, install.stderr
 
     result = run_script(UNINSTALL, tmp_path, "--root", str(root), "--no-launchd")

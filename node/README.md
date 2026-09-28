@@ -36,7 +36,7 @@ uv run python -m bridge.inspect --db /chemin/vers/birdnet.db --since-id 0 --limi
 ## Tester
 
 ```bash
-uv run pytest              # 140 tests, aucun ne touche local-test/ ni ne mute BirdNET-Go
+uv run pytest              # 142 tests, aucun ne touche local-test/ ni ne mute BirdNET-Go
 uv run ruff check bridge/ tests/
 uv run ruff format bridge/ tests/
 ```
@@ -86,6 +86,7 @@ code 0 — jamais de crash silencieux ni de mutation.
 | Relais « en écoute » (WP-06) | `bridge/pending_relay.py` | évènementiel (SSE local) + 30 s | `GET` SSE local, `POST` serveur |
 | Heartbeat | `bridge/heartbeat.py` | `BRIDGE_HEARTBEAT_INTERVAL_S` (60 s) | `GET` locaux (app/config, settings/audio, dynamic-thresholds), `POST` serveur |
 | Commandes (WP-11) | `bridge/commands.py` | `BRIDGE_COMMANDS_INTERVAL_S`/`_FAST_INTERVAL_S` | `GET`/`POST` serveur, mutations CSRF locales (**sauf en mode readonly**) |
+| Mise à jour (§12, en plus des quatre) | `bridge/updater.py` | démarrage, puis `BRIDGE_UPDATE_INTERVAL_S` (600 s) ou dès que le heartbeat annonce une version plus récente | `GET` serveur ; fichiers de l'installation gérée seulement (ne fait rien hors installation gérée) |
 
 Chaque boucle a son propre backoff exponentiel (`bridge/backoff.py`, base 5 s, plafond 5 min,
 jitter ±25 %) et sa propre classification d'erreur (`bridge/http_errors.py`, la table commune du

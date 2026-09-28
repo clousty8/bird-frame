@@ -324,12 +324,9 @@ class Updater:
         )
         while not stop_event.is_set():
             self._wake.clear()
-            try:
-                restart = await self.check_once()
-            except Exception as exc:  # filet : jamais d'arrêt silencieux de la boucle
-                logger.exception("Mise à jour du bridge : erreur inattendue")
-                self._set_status("check_failed", None, f"erreur inattendue : {exc!r}", logging.ERROR)
-                restart = False
+            restart = await self._check_unless_stopped(stop_event)
+            if restart is None:
+                return
             if restart:
                 logger.warning(
                     "Version %s installée : arrêt du bridge (code %s) pour relance par le superviseur",
@@ -339,6 +336,32 @@ class Updater:
                 stop_event.set()
                 return
             await self._sleep(stop_event)
+
+    async def _check_unless_stopped(self, stop_event: asyncio.Event) -> bool | None:
+        """`check_once()`, annulé si l'arrêt du bridge est demandé pendant qu'il tourne (SIGTERM :
+        launchd/systemd n'attendent pas la fin d'un `uv sync`). L'annulation laisse la version
+        courante intacte (dossier partiel supprimé, sous-process tué). `None` = annulé."""
+        check = asyncio.create_task(self.check_once())
+        stopper = asyncio.create_task(stop_event.wait())
+        try:
+            await asyncio.wait({check, stopper}, return_when=asyncio.FIRST_COMPLETED)
+        finally:
+            stopper.cancel()
+            with contextlib.suppress(asyncio.CancelledError):
+                await stopper
+            if not check.done():
+                check.cancel()
+                with contextlib.suppress(asyncio.CancelledError):
+                    await check
+        if check.cancelled():
+            logger.warning("Arrêt demandé pendant une vérification/installation de mise à jour : abandonnée")
+            return None
+        try:
+            return check.result()
+        except Exception as exc:  # filet : jamais d'arrêt silencieux de la boucle
+            logger.error("Mise à jour du bridge : erreur inattendue", exc_info=exc)
+            self._set_status("check_failed", None, f"erreur inattendue : {exc!r}", logging.ERROR)
+            return False
 
     async def _sleep(self, stop_event: asyncio.Event) -> None:
         waiters = [asyncio.create_task(stop_event.wait()), asyncio.create_task(self._wake.wait())]
@@ -512,12 +535,26 @@ class Updater:
         try:
             stdout, stderr = await asyncio.wait_for(proc.communicate(), timeout=timeout)
         except TimeoutError as exc:
-            proc.kill()
-            await proc.wait()
+            await self._kill(proc)
             raise UpdateError(f"{what} : délai de {timeout:.0f} s dépassé") from exc
+        except asyncio.CancelledError:
+            await self._kill(proc)
+            raise
         if proc.returncode != 0:
             output = (stderr or stdout).decode("utf-8", errors="replace").strip()
             raise UpdateError(f"{what} a échoué (code {proc.returncode}) : {output[-600:]}")
+
+    @staticmethod
+    async def _kill(proc: asyncio.subprocess.Process) -> None:
+        with contextlib.suppress(ProcessLookupError):
+            proc.kill()
+        await proc.wait()
+
+    @staticmethod
+    def _discard(target_dir: Path) -> None:
+        shutil.rmtree(target_dir, ignore_errors=True)
+        if target_dir.exists():
+            logger.error("Dossier partiel %s impossible à supprimer (sera retenté au prochain essai)", target_dir)
 
     def _prune_old_versions(self, keep: set[str]) -> None:
         assert self.install is not None
@@ -554,7 +591,7 @@ class Updater:
                 logger.warning("Reste d'une tentative précédente supprimé avant réinstallation : %s", target_dir)
                 shutil.rmtree(target_dir)
             extracted = True
-            await asyncio.to_thread(self._extract, archive_path, target_dir, version)
+            self._extract(archive_path, target_dir, version)
             await self._run(
                 [self._config.uv_path, "sync", "--frozen", "--no-dev"], target_dir, UV_SYNC_TIMEOUT_S, "uv sync"
             )
@@ -565,14 +602,18 @@ class Updater:
             if running:
                 _write_text_atomic(install.previous_file, f"{running}\n")
             switch_symlink_atomically(install.current_link, f"versions/{version}")
-        except UpdateError:
+        except (UpdateError, asyncio.CancelledError):
             if extracted:
-                shutil.rmtree(target_dir, ignore_errors=True)
+                self._discard(target_dir)
             raise
         except OSError as exc:
             if extracted:
-                shutil.rmtree(target_dir, ignore_errors=True)
+                self._discard(target_dir)
             raise UpdateError(f"erreur disque pendant l'installation ({exc})") from exc
+        except Exception as exc:
+            if extracted:
+                self._discard(target_dir)
+            raise UpdateError(f"erreur inattendue pendant l'installation ({exc!r})") from exc
         finally:
             archive_path.unlink(missing_ok=True)
 
