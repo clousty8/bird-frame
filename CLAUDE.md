@@ -80,7 +80,7 @@ macOS 14+) et relance BirdNET-Go. Ne jamais se fier à audio.log pour savoir que
 
 
 ## Workflow de développement (28/09/2026)
-Dépôt privé `clousty8/bird-frame`, branches `dev` (travail) et `main` (production — Railway
+Dépôt public `clousty8/bird-frame` (licence : `LICENSE`, CC BY-NC-SA 4.0 ; `species-data/` en CC BY-SA 4.0), branches `dev` (travail) et `main` (production — Railway
 redéploie automatiquement à chaque push sur `main`). CI sur PR `dev`→`main` et push `dev`
 (`.github/workflows/ci.yml`, check requis `test`) ; fusion **automatique, sans pause de review**
 (Armand seul sur ce dépôt). `/build-app` (`scripts/build-app.sh`) lance une pile locale isolée
