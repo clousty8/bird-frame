@@ -2,7 +2,8 @@
 
 Conformément à `docs/architecture.md` §0.3, tout fichier copié ou adapté depuis
 `birdnet-go-ui/frontend` reste sous la licence d'origine du projet BirdNET-Go
-(**CC BY-NC-SA 4.0**) et porte un en-tête de licence en tête de fichier. Ce tableau est
+(**CC BY-NC-SA 4.0**, texte complet : `LICENSES/CC-BY-NC-SA-4.0.txt` à la racine) et porte un
+en-tête de licence en tête de fichier. Le reste de `web/` est sous licence MIT (`LICENSE`). Ce tableau est
 la référence : `web/tests/notice.test.ts` vérifie automatiquement que chaque fichier listé
 ici existe et porte bien cet en-tête (aucune dérive silencieuse possible).
 

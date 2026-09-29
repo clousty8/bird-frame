@@ -16,10 +16,10 @@ Ce skill enchaîne tout le processus de release, **sans pause humaine** : bump �
 push `dev` → PR → CI verte → fusion → tag/release GitHub → suivi Railway → suivi des nœuds →
 rapport final. S'arrête et rapporte seulement en cas d'échec réel (CI rouge, conflit inattendu).
 
-**Pré-requis de gouvernance** (rappel) : dépôt privé `clousty8/bird-frame`, branches `dev`
-(travail) et `main` (production). GitHub ne protège pas `main` (fonction payante sur un dépôt
-privé) : **c'est ce skill qui garantit qu'on ne fusionne jamais avec le check CI `test` rouge**
-(`.github/workflows/ci.yml`) — ne jamais pousser directement sur `main` ; Railway construit et déploie automatiquement l'image Docker à
+**Pré-requis de gouvernance** (rappel) : dépôt public `clousty8/bird-frame`, branches `dev`
+(travail) et `main` (production). `main` est protégée par GitHub : le check CI `test`
+(`.github/workflows/ci.yml`) doit être vert pour fusionner une PR — ne jamais pousser
+directement sur `main` ; Railway construit et déploie automatiquement l'image Docker à
 chaque push sur `main`. Une release embarque **tout l'état courant de `dev`** dans `main` — pas
 de confirmation de périmètre à demander.
 

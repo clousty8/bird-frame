@@ -80,7 +80,7 @@ macOS 14+) et relance BirdNET-Go. Ne jamais se fier à audio.log pour savoir que
 
 
 ## Workflow de développement (28/09/2026)
-Dépôt public `clousty8/bird-frame` (licence : `LICENSE`, CC BY-NC-SA 4.0 ; `species-data/` en CC BY-SA 4.0), branches `dev` (travail) et `main` (production — Railway
+Dépôt public `clousty8/bird-frame` (licences : code en MIT `LICENSE` ; 16 fichiers web adaptés de BirdNET-Go en CC BY-NC-SA 4.0 ; `species-data/` en CC BY-SA 4.0 — carte dans `NOTICE.md`), branches `dev` (travail) et `main` (production — Railway
 redéploie automatiquement à chaque push sur `main`). CI sur PR `dev`→`main` et push `dev`
 (`.github/workflows/ci.yml`, check requis `test`) ; fusion **automatique, sans pause de review**
 (Armand seul sur ce dépôt). `/build-app` (`scripts/build-app.sh`) lance une pile locale isolée
@@ -127,6 +127,7 @@ architecture.md en cas d'écart, §10.1), `docs/plan.md` (lots WP-01…WP-22 ; v
   synonymes BirdNET ↔ noms actuels, ex. *Coloeus monedula* → *Corvus monedula* ; rattrapage :
   `server/scripts/recanonicalize.py`). Le serveur les charge au démarrage.
 - Licence : tout ce qui est copié de `birdnet-go-ui/frontend` est listé dans `web/NOTICE.md`
-  (CC BY-NC-SA 4.0) avec en-tête par fichier.
+  (CC BY-NC-SA 4.0) avec en-tête par fichier ; le reste du code est en MIT. Tout nouveau fichier
+  copié de BirdNET-Go doit être ajouté à `web/NOTICE.md` ET à `NOTICE.md` (racine).
 - Pas encore fait : audio live à distance (WP-19), Tailscale + premier Pi (WP-18), migration de
   l'archive Le Mans (WP-17).

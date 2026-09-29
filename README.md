@@ -90,11 +90,11 @@ boucle de commandes et n'émet **aucune** requête mutante (`PATCH`/`PUT`/`POST`
 
 ## Licence
 
-- Le dépôt est sous licence **CC BY-NC-SA 4.0** (voir `LICENSE`) : partage et adaptation
-  autorisés, à condition de citer bird-frame, sans usage commercial et avec la même licence.
-- `species-data/` est sous licence **CC BY-SA 4.0** (voir `species-data/LICENSE`), car il reprend
-  des extraits de Wikipédia. Les données de taxonomie viennent d'eBird/Clements (usage non
-  commercial).
-- Les fichiers de `web/` listés dans `web/NOTICE.md` sont adaptés de
-  [BirdNET-Go](https://github.com/tphakala/birdnet-go) (Tomi P. Hakala et contributeurs,
-  CC BY-NC-SA 4.0).
+- Le code de bird-frame est sous licence **MIT** (voir `LICENSE`) : chacun peut l'utiliser, le
+  modifier et le redistribuer librement, y compris commercialement, en gardant la mention de
+  copyright.
+- Exceptions (détail dans `NOTICE.md`) :
+  - les 16 fichiers de `web/` adaptés de [BirdNET-Go](https://github.com/tphakala/birdnet-go)
+    restent sous **CC BY-NC-SA 4.0** (liste dans `NOTICE.md` et `web/NOTICE.md`) ;
+  - `species-data/` est sous **CC BY-SA 4.0** (extraits de Wikipédia ; taxonomie eBird réservée à
+    un usage non commercial), voir `species-data/LICENSE`.
