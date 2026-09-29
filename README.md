@@ -87,3 +87,14 @@ boucle de commandes et n'émet **aucune** requête mutante (`PATCH`/`PUT`/`POST`
 | `node/README.md` | démarrage bridge, les 4 boucles, mode lecture seule |
 | `web/README.md`, `web/NOTICE.md` | démarrage frontend, attribution du code copié (CC BY-NC-SA 4.0) |
 | `CLAUDE.md` | historique du projet, décisions prises au fil de l'eau |
+
+## Licence
+
+- Le dépôt est sous licence **CC BY-NC-SA 4.0** (voir `LICENSE`) : partage et adaptation
+  autorisés, à condition de citer bird-frame, sans usage commercial et avec la même licence.
+- `species-data/` est sous licence **CC BY-SA 4.0** (voir `species-data/LICENSE`), car il reprend
+  des extraits de Wikipédia. Les données de taxonomie viennent d'eBird/Clements (usage non
+  commercial).
+- Les fichiers de `web/` listés dans `web/NOTICE.md` sont adaptés de
+  [BirdNET-Go](https://github.com/tphakala/birdnet-go) (Tomi P. Hakala et contributeurs,
+  CC BY-NC-SA 4.0).
